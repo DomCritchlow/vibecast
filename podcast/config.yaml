@@ -235,6 +235,6 @@ feed:
 # SCHEDULE (reference only - actual cron is in GitHub Actions)
 # =============================================================================
 schedule:
-  timezone: "UTC"                        # Override: VIBECAST_TIMEZONE
-  target_hour: 7
+  timezone: "Europe/Berlin"              # Override: VIBECAST_TIMEZONE
+  target_hour: 5                         # 05:00 local time
 
