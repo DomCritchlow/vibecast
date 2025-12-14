@@ -1,0 +1,99 @@
+name: Daily Podcast
+
+on:
+  schedule:
+    # Run at 12:15 UTC daily
+    # Adjust this time based on your timezone:
+    # - 12:15 UTC = 07:15 ET (winter) / 08:15 ET (summer)
+    # - 14:00 UTC = 09:00 ET (winter) / 10:00 ET (summer)
+    - cron: "15 12 * * *"
+  
+  # Allow manual triggering from Actions tab
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Run in dry-run mode (no API calls)'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'false'
+          - 'true'
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write  # Required to push feed.xml and state.json updates
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 1
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: Run daily podcast pipeline
+        env:
+          # Required API keys
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
+          R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          # Personal settings (override config.yaml defaults)
+          VIBECAST_LOCATION_NAME: ${{ secrets.VIBECAST_LOCATION_NAME }}
+          VIBECAST_LOCATION_LAT: ${{ secrets.VIBECAST_LOCATION_LAT }}
+          VIBECAST_LOCATION_LON: ${{ secrets.VIBECAST_LOCATION_LON }}
+          VIBECAST_SITE_URL: ${{ secrets.VIBECAST_SITE_URL }}
+          VIBECAST_FEED_URL: ${{ secrets.VIBECAST_FEED_URL }}
+          VIBECAST_R2_PUBLIC_URL: ${{ secrets.VIBECAST_R2_PUBLIC_URL }}
+          VIBECAST_AUTHOR: ${{ secrets.VIBECAST_AUTHOR }}
+          VIBECAST_OWNER_EMAIL: ${{ secrets.VIBECAST_OWNER_EMAIL }}
+          VIBECAST_ARTWORK_URL: ${{ secrets.VIBECAST_ARTWORK_URL }}
+          VIBECAST_AUTHOR_URL: ${{ secrets.VIBECAST_AUTHOR_URL }}
+        run: |
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            python -m podcast.run_daily --dry-run -v
+          else
+            python -m podcast.run_daily -v
+          fi
+      
+      - name: Commit and push updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Add the updated files (transcripts are stored in R2, not repo)
+          git add site/feed.xml site/index.html podcast/state.json || true
+          
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            # Get today's date for commit message
+            DATE=$(date +%Y-%m-%d)
+            git commit -m "🎙️ Daily episode: ${DATE}"
+            git push
+          fi
+      
+      - name: Summary
+        run: |
+          echo "## 🎙️ Vibecast Daily Run Complete" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- **Date:** $(date +%Y-%m-%d)" >> $GITHUB_STEP_SUMMARY
+          echo "- **Mode:** ${{ github.event.inputs.dry_run == 'true' && 'Dry Run' || 'Production' }}" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "Check the [Actions logs](https://github.com/${{ github.repository }}/actions) for details." >> $GITHUB_STEP_SUMMARY
+

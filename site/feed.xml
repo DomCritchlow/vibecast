@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Vibecast</title>
+    <link></link>
+    <description>A daily podcast of good news and good vibes.</description>
+    <language>en-us</language>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="News">
+      <itunes:category text="Daily News"/>
+    </itunes:category>
+  </channel>
+</rss>
