@@ -82,7 +82,7 @@ Go to **Settings → Secrets → Actions** and add:
 
 ### 4. Enable GitHub Pages
 
-**Settings → Pages → Source:** `main` branch, `/site` folder
+**Settings → Pages → Source:** `main` branch, `/docs` folder
 
 ### 5. Run it
 
@@ -156,7 +156,7 @@ vibecast/
 │   ├── storage.py         # R2 upload
 │   ├── rss_feed.py        # Podcast RSS generation
 │   └── site_generator.py  # Landing page generator
-├── site/
+├── docs/
 │   ├── index.html         # Landing page (auto-generated)
 │   ├── feed.xml           # Podcast RSS feed
 │   ├── scripts/           # Episode transcripts

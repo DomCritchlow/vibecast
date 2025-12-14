@@ -44,8 +44,8 @@ Thumbs.db
 *.flac
 
 # Generated transcripts (stored in R2, not repo)
-site/scripts/*.txt
+docs/scripts/*.txt
 
 # Keep these tracked
-!site/artwork.png
-!site/scripts/.gitkeep
+!docs/artwork.png
+!docs/scripts/.gitkeep

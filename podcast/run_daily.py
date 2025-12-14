@@ -25,7 +25,7 @@ from .site_generator import save_index_html
 SCRIPT_DIR = Path(__file__).parent
 CONFIG_PATH = SCRIPT_DIR / "config.yaml"
 STATE_PATH = SCRIPT_DIR / "state.json"
-SITE_DIR = SCRIPT_DIR.parent / "site"
+SITE_DIR = SCRIPT_DIR.parent / "docs"
 FEED_PATH = SITE_DIR / "feed.xml"
 SCRIPTS_DIR = SITE_DIR / "scripts"
 
