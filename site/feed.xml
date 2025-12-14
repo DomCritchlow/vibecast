@@ -4,14 +4,116 @@
      xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Vibecast</title>
-    <link></link>
-    <description>A daily podcast of good news and good vibes.</description>
+    <title>Vibecast: Morning Sunshine</title>
+    <link>https://domcritchlow.github.io/vibecast/</link>
+    <description>A short daily podcast with weather, uplifting stories, and a reason to smile.</description>
     <language>en-us</language>
+    <lastBuildDate>Sun, 14 Dec 2025 12:23:52 -0000</lastBuildDate>
+    <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>Dominic</itunes:author>
+    <itunes:summary>A short daily podcast with weather, uplifting stories, and a reason to smile.</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Dominic</itunes:name>
+      <itunes:email>critchlowd49@gmail.com</itunes:email>
+    </itunes:owner>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
+    <image>
+      <url>https://domcritchlow.github.io/vibecast/artwork.png</url>
+      <title>Vibecast: Morning Sunshine</title>
+      <link>https://domcritchlow.github.io/vibecast/</link>
+    </image>
+    <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Morning Sunshine — December 14, 2025</title>
+      <description><![CDATA[Your daily dose of good news and good vibes for December 14, 2025.
+
+Duration: ~3 minutes
+
+IN THIS EPISODE:
+
+1. Good News in History, December 14
+   Source: Good News Network
+2. Photographer Captures Incredible Luminous Event Over His Italian Town–For the Second Time (LOOK)
+   Source: Good News Network
+3. What went right this week: the good news that matters
+   Source: Positive News
+4. Abandoned oil refineries are becoming unlikely havens for wildlife
+   Source: Positive News
+5. NASA Astronaut Jonny Kim to Discuss Eight-Month Space Station Mission
+   Source: NASA
+6. NASA’s Webb, Curiosity Named in TIME’s Best Inventions Hall of Fame
+   Source: NASA
+
+REFERENCES:
+
+1. Good News in History, December 14
+   https://www.goodnewsnetwork.org/events061214/
+
+2. Photographer Captures Incredible Luminous Event Over His Italian Town–For the Second Time (LOOK)
+   https://www.goodnewsnetwork.org/photographer-captures-incredible-luminous-event-over-his-town-for-2nd-time/
+
+3. What went right this week: the good news that matters
+   https://www.positive.news/society/good-news-stories-from-week-50-of-2025/
+
+4. Abandoned oil refineries are becoming unlikely havens for wildlife
+   https://www.positive.news/environment/abandoned-oil-refineries-are-becoming-unlikely-havens-for-wildlife/
+
+5. NASA Astronaut Jonny Kim to Discuss Eight-Month Space Station Mission
+   https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-to-discuss-eight-month-space-station-mission/
+
+6. NASA’s Webb, Curiosity Named in TIME’s Best Inventions Hall of Fame
+   https://science.nasa.gov/missions/webb/nasas-webb-curiosity-named-in-times-best-inventions-hall-of-fame/
+]]></description>
+      <pubDate>Sun, 14 Dec 2025 12:23:06 -0000</pubDate>
+      <guid isPermaLink="false">2025-12-14</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-14.mp3" length="3581760" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[Your daily dose of good news and good vibes for December 14, 2025.
+
+Duration: ~3 minutes
+
+IN THIS EPISODE:
+
+1. Good News in History, December 14
+   Source: Good News Network
+2. Photographer Captures Incredible Luminous Event Over His Italian Town–For the Second Time (LOOK)
+   Source: Good News Network
+3. What went right this week: the good news that matters
+   Source: Positive News
+4. Abandoned oil refineries are becoming unlikely havens for wildlife
+   Source: Positive News
+5. NASA Astronaut Jonny Kim to Discuss Eight-Month Space Station Mission
+   Source: NASA
+6. NASA’s Webb, Curiosity Named in TIME’s Best Inventions Hall of Fame
+   Source: NASA
+
+REFERENCES:
+
+1. Good News in History, December 14
+   https://www.goodnewsnetwork.org/events061214/
+
+2. Photographer Captures Incredible Luminous Event Over His Italian Town–For the Second Time (LOOK)
+   https://www.goodnewsnetwork.org/photographer-captures-incredible-luminous-event-over-his-town-for-2nd-time/
+
+3. What went right this week: the good news that matters
+   https://www.positive.news/society/good-news-stories-from-week-50-of-2025/
+
+4. Abandoned oil refineries are becoming unlikely havens for wildlife
+   https://www.positive.news/environment/abandoned-oil-refineries-are-becoming-unlikely-havens-for-wildlife/
+
+5. NASA Astronaut Jonny Kim to Discuss Eight-Month Space Station Mission
+   https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-to-discuss-eight-month-space-station-mission/
+
+6. NASA’s Webb, Curiosity Named in TIME’s Best Inventions Hall of Fame
+   https://science.nasa.gov/missions/webb/nasas-webb-curiosity-named-in-times-best-inventions-hall-of-fame/
+]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3:05</itunes:duration>
+      <itunes:image href="https://images-assets.nasa.gov/image/PIA25433/PIA25433~thumb.jpg"/>
+    </item>
   </channel>
 </rss>
