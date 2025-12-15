@@ -19,46 +19,49 @@
 # THE VIBE - Core personality of your podcast
 # =============================================================================
 vibe:
-  name: "Morning Sunshine"
+  name: "Morning Vibe"
   
   mood:
-    primary: "calm"
+    primary: "energizing"
     secondary: "optimistic"
-    energy: "gentle-lift"
+    energy: "uplifting-momentum"
   
   voice_persona:
-    name: "A warm morning companion"
+    name: "Your hype friend with the best news"
     personality:
-      - "speaks like a friend who's genuinely happy to see you"
-      - "finds wonder in small things"
-      - "never rushes, but keeps things moving"
-      - "celebrates good news without being over-the-top"
+      - "radiates genuine excitement and enthusiasm"
+      - "makes you feel like today is going to be amazing"
+      - "speaks with infectious energy and warmth"
+      - "celebrates wins big and small with real joy"
+      - "leaves you feeling fired up and ready to take on the world"
     greetings:
-      - "Good morning, beautiful human."
-      - "Rise and shine - here's what's good in the world today."
-      - "Another day, another chance to find something wonderful."
+      - "Good morning! Let's get this day started right."
+      - "Hey! Ready for some fuel for your day? Let's go."
+      - "Rise and shine, superstar - today's going to be a good one."
+      - "Morning! I've got good news, great vibes, and zero reasons not to smile."
     closings:
-      - "Go make today a good one. You've got this."
-      - "That's your dose of good news. Now go spread some of your own."
-      - "Until tomorrow - stay curious, stay kind."
+      - "Now get out there and crush it. You've absolutely got this!"
+      - "That's your spark for today - go light up the world."
+      - "Alright, you're fueled up. Go make something happen!"
+      - "Until tomorrow - stay fired up, stay awesome."
   
   avoid:
-    emotions: ["fear", "anxiety", "outrage", "doom"]
-    language: ["breaking", "shocking", "you won't believe", "urgent"]
+    emotions: ["fear", "anxiety", "outrage", "doom", "dread"]
+    language: ["breaking", "shocking", "you won't believe", "urgent", "crisis"]
     topics: ["violence", "disaster", "conflict", "controversy"]
   
   embrace:
-    emotions: ["hope", "joy", "curiosity", "gratitude", "wonder"]
-    language: ["discovered", "created", "helped", "celebrated", "achieved"]
-    topics: ["innovation", "kindness", "nature", "community", "progress"]
+    emotions: ["excitement", "hope", "joy", "motivation", "wonder", "enthusiasm"]
+    language: ["incredible", "amazing", "launched", "achieved", "breakthrough", "inspiring"]
+    topics: ["innovation", "achievements", "science", "community", "progress", "adventure"]
 
 # =============================================================================
 # PODCAST IDENTITY
 # =============================================================================
 podcast:
-  title: "Vibecast: Morning Sunshine"
-  tagline: "Your daily dose of good news and good vibes"
-  description: "A short daily podcast with weather, uplifting stories, and a reason to smile."
+  title: "Vibecast: Morning Vibe"
+  tagline: "Good news to fuel your day"
+  description: "A short daily podcast with weather, inspiring stories, and a reason to get excited about today."
   author: "Your Name"                    # Override: VIBECAST_AUTHOR
   language: "en-us"
   category: "News"
@@ -87,9 +90,9 @@ episode:
   
   pacing:
     include_pauses: true
-    pause_between_stories: "0.8s"
-    pause_after_greeting: "0.6s"
-    overall_tempo: "unhurried"
+    pause_between_stories: "0.6s"
+    pause_after_greeting: "0.5s"
+    overall_tempo: "upbeat"
 
 # =============================================================================
 # LOCATION (for weather)
@@ -110,33 +113,103 @@ location:
 # =============================================================================
 sources:
   rss:
+    # --- Positive anchors ---
+    - name: "Positive News"
+      url: "https://positive.news/feed/"
+      enabled: true
+      max_items: 2
+      trust_score: 0.95
+      tags: ["anchor", "positive"]
+
     - name: "Good News Network"
       url: "https://www.goodnewsnetwork.org/feed/"
       enabled: true
-      max_items: 3
-      trust_score: 0.9
-      tags: ["positive", "community"]
-    
-    - name: "Positive News"
-      url: "https://www.positive.news/feed/"
+      max_items: 2
+      trust_score: 0.90
+      tags: ["anchor", "positive"]
+
+    # --- AI ---
+    - name: "OpenAI News"
+      url: "https://openai.com/news/rss.xml"
       enabled: true
       max_items: 2
-      trust_score: 0.9
-      tags: ["solutions", "progress"]
-    
-    - name: "NASA"
+      trust_score: 0.95
+      tags: ["ai"]
+
+    - name: "Hacker News (AI filtered)"
+      url: "https://hnrss.org/newest?q=AI+OR+LLM+OR+agent+OR+robot"
+      enabled: true
+      max_items: 2
+      trust_score: 0.75
+      tags: ["ai", "tech"]
+
+    # --- Space ---
+    - name: "NASA Breaking News"
       url: "https://www.nasa.gov/rss/dyn/breaking_news.rss"
       enabled: true
       max_items: 2
-      trust_score: 0.85
-      tags: ["science", "space"]
-    
-    - name: "Reasons to be Cheerful"
-      url: "https://reasonstobecheerful.world/feed/"
+      trust_score: 0.95
+      tags: ["space"]
+
+    - name: "NASA JPL News"
+      url: "https://www.jpl.nasa.gov/feeds/news/"
       enabled: true
       max_items: 2
-      trust_score: 0.9
-      tags: ["solutions", "innovation"]
+      trust_score: 0.95
+      tags: ["space"]
+
+    - name: "Space.com"
+      url: "https://www.space.com/feeds/all"
+      enabled: true
+      max_items: 1
+      trust_score: 0.80
+      tags: ["space"]
+
+    # --- Running ---
+    - name: "iRunFar"
+      url: "https://www.irunfar.com/feed"
+      enabled: true
+      max_items: 1
+      trust_score: 0.80
+      tags: ["running", "fitness"]
+
+    - name: "Runner's World"
+      url: "https://feeds.rodalewire.com/rss/runnersworld"
+      enabled: true
+      max_items: 1
+      trust_score: 0.75
+      tags: ["running", "fitness"]
+
+    # --- Design ---
+    - name: "Dezeen"
+      url: "https://www.dezeen.com/feed/"
+      enabled: true
+      max_items: 1
+      trust_score: 0.80
+      tags: ["design"]
+
+    - name: "Design Milk"
+      url: "https://feeds.feedburner.com/design-milk"
+      enabled: true
+      max_items: 1
+      trust_score: 0.80
+      tags: ["design"]
+
+    # --- NYC politics ---
+    - name: "NY1 Politics"
+      url: "https://www.ny1.com/services/contentfeed.nyc%7Call-boroughs%7Cpolitics.hero.rss"
+      enabled: true
+      max_items: 1
+      trust_score: 0.80
+      tags: ["nyc", "politics"]
+
+    - name: "Gothamist (NYC)"
+      url: "https://gothamist.com/feed"
+      enabled: true
+      max_items: 1
+      trust_score: 0.75
+      tags: ["nyc", "politics"]
+
 
   api: []
   
@@ -170,9 +243,13 @@ filters:
     - "rescued"
     - "discovered"
     - "community"
-    - "kindness"
     - "innovation"
-    - "hope"
+    - "launched"
+    - "achieved"
+    - "record"
+    - "milestone"
+    - "incredible"
+    - "inspiring"
 
 # =============================================================================
 # OPENAI CONFIGURATION (LLM + TTS)
@@ -190,24 +267,25 @@ openai:
     
     # Voice selection - pick one that matches your vibe
     # Options: alloy, echo, fable, onyx, nova, shimmer
-    voice: "nova"             # nova = friendly, warm - great for upbeat morning vibe
+    voice: "nova"             # nova = friendly, warm, energetic - great for upbeat morning vibe
                               # shimmer = soft, gentle - great for calm/meditative
                               # echo = warm male - conversational
                               # fable = expressive - storyteller
     
     # Speech speed: 0.25 (very slow) to 4.0 (very fast)
-    # 1.0 = normal, 0.9 = slightly slower (calming), 1.1 = slightly faster (energetic)
-    speed: 0.95               # Slightly slower for calm morning vibe
+    # 1.0 = normal, 0.9 = slightly slower (calming), 1.05-1.1 = slightly faster (energetic)
+    speed: 0.95               # Slightly faster for energizing morning vibe
     
     # Output format
     format: "mp3"             # Options: mp3, opus, aac, flac
   
   # Script generation hints
   script_hints:
-    - "Use present tense for immediacy"
-    - "Vary sentence length for natural rhythm"
+    - "Use present tense for immediacy and energy"
+    - "Vary sentence length - punchy short sentences build momentum"
     - "Include sensory details when relevant"
-    - "Make transitions feel natural"
+    - "Make transitions feel natural and keep the energy flowing"
+    - "Use exclamation points sparingly but genuinely when excited"
     - "Do NOT include music cues like [intro music] or [outro music]"
     - "Do NOT write stage directions - only write text meant to be spoken aloud"
     - "Start directly with your greeting, end directly with your closing"
