@@ -89,18 +89,20 @@ WRITING GUIDELINES:
 {hints_text}
 
 STRUCTURE:
-1. Warm greeting with today's date
-2. Weather segment (brief, positive framing)
-3. News stories (each with a natural transition)
-4. Encouraging closing
+1. Warm greeting with today's date (~15 seconds)
+2. Weather segment with positive framing (~30 seconds) 
+3. News stories - this is the main section (~2.5-3 minutes)
+4. Encouraging closing (~30 seconds)
 
 IMPORTANT:
 - Write exactly as it should be spoken aloud
 - Use natural speech patterns and contractions
 - Use ellipsis (...) for natural pauses between sections
 - Keep sentences short to medium length for easy listening
-- Each story should be 2-4 sentences, highlighting what's uplifting about it
-- End with an encouraging send-off that feels genuine, not cheesy"""
+- Each story should be 3-5 sentences - share what happened, why it matters, and what's exciting about it
+- Add brief personal reactions or connections to make stories feel alive
+- End with an encouraging send-off that feels genuine, not cheesy
+- AIM FOR ~600 WORDS TOTAL to hit the 4-minute target"""
 
     return system_prompt
 
@@ -158,6 +160,8 @@ STYLE HINTS:
 - Consider opening with something like: "{greeting_hint}"
 - Consider closing with something like: "{closing_hint}"
 - Use ... (ellipsis) between major sections for natural pacing
+
+REMEMBER: Target ~600 words total for a 4-minute episode. Give each story enough detail to be interesting - don't rush through them.
 
 Write the complete script now, ready to be read aloud."""
 
