@@ -45,7 +45,10 @@ class RSSSource(BaseSource):
                 return []
             
             items = []
-            for entry in feed.entries[:self.max_items]:
+            # Fetch more items than we need so scoring can find the best ones
+            # The global selection step will limit to max_items per source
+            fetch_limit = max(self.max_items * 5, 10)
+            for entry in feed.entries[:fetch_limit]:
                 item = self._parse_entry(entry)
                 if item:
                     items.append(item)
