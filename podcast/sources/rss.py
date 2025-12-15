@@ -74,9 +74,9 @@ class RSSSource(BaseSource):
         # Clean HTML from summary
         summary = self._clean_html(summary)
         
-        # Truncate summary if too long
-        if len(summary) > 500:
-            summary = summary[:497] + "..."
+        # Truncate summary if too long (keep more context for richer scripts)
+        if len(summary) > 1000:
+            summary = summary[:997] + "..."
         
         # Parse published date
         published = None

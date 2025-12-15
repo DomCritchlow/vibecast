@@ -106,64 +106,6 @@
             color: var(--color-accent);
         }
 
-        .subscribe {
-            background: #fafafa;
-            border-radius: 12px;
-            padding: 24px;
-            margin-bottom: 32px;
-        }
-
-        .subscribe h2 {
-            font-size: 0.85rem;
-            font-weight: 600;
-            text-transform: uppercase;
-            letter-spacing: 0.05em;
-            color: var(--color-text-muted);
-            margin-bottom: 16px;
-        }
-
-        .subscribe-buttons {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-        }
-
-        .btn {
-            display: inline-flex;
-            align-items: center;
-            gap: 8px;
-            padding: 10px 16px;
-            border-radius: 8px;
-            text-decoration: none;
-            font-size: 0.9rem;
-            font-weight: 500;
-            transition: all 0.15s ease;
-        }
-
-        .btn-primary {
-            background: var(--color-accent);
-            color: white;
-        }
-
-        .btn-primary:hover {
-            background: var(--color-accent-hover);
-        }
-
-        .btn-secondary {
-            background: white;
-            color: var(--color-text);
-            border: 1px solid var(--color-border);
-        }
-
-        .btn-secondary:hover {
-            border-color: #ccc;
-        }
-
-        .btn svg {
-            width: 16px;
-            height: 16px;
-        }
-
         .rss-section {
             margin-bottom: 32px;
         }
@@ -190,12 +132,12 @@
             background: #eee;
         }
 
-        .latest {
+        .episodes {
             border-top: 1px solid var(--color-border);
             padding-top: 32px;
         }
 
-        .latest h2 {
+        .episodes h2 {
             font-size: 0.85rem;
             font-weight: 600;
             text-transform: uppercase;
@@ -208,25 +150,55 @@
             display: flex;
             align-items: flex-start;
             gap: 16px;
+            padding: 16px 0;
+            border-bottom: 1px solid var(--color-border);
+        }
+
+        .episode:last-child {
+            border-bottom: none;
         }
 
         .episode-art {
-            width: 80px;
-            height: 80px;
+            width: 64px;
+            height: 64px;
             background: linear-gradient(135deg, #f7b955 0%, #ff8a5b 50%, #ea5455 100%);
             border-radius: 8px;
             flex-shrink: 0;
         }
 
+        .episode-info {
+            flex: 1;
+            min-width: 0;
+        }
+
         .episode-info h3 {
-            font-size: 1rem;
+            font-size: 0.95rem;
             font-weight: 500;
             margin-bottom: 4px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
         }
 
         .episode-meta {
-            font-size: 0.85rem;
+            font-size: 0.8rem;
             color: var(--color-text-muted);
+            margin-bottom: 6px;
+        }
+
+        .episode-links {
+            display: flex;
+            gap: 12px;
+            font-size: 0.8rem;
+        }
+
+        .episode-links a {
+            color: var(--color-accent);
+            text-decoration: none;
+        }
+
+        .episode-links a:hover {
+            text-decoration: underline;
         }
 
         footer {
@@ -288,45 +260,22 @@
                 <li>New episode every day</li>
             </ul>
 
-            <div class="subscribe">
-                <h2>Subscribe</h2>
-                <div class="subscribe-buttons">
-                    <a href="feed.xml" class="btn btn-primary">
-                        <svg viewBox="0 0 24 24" fill="currentColor">
-                            <path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19 7.38 20 6.18 20C5 20 4 19 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1z"/>
-                        </svg>
-                        RSS Feed
-                    </a>
-                    <a href="#" class="btn btn-secondary">
-                        <svg viewBox="0 0 24 24" fill="currentColor">
-                            <path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.81-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/>
-                        </svg>
-                        Apple Podcasts
-                    </a>
-                    <a href="#" class="btn btn-secondary">
-                        <svg viewBox="0 0 24 24" fill="currentColor">
-                            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 14.36c-.19.31-.55.41-.86.22-2.36-1.44-5.33-1.77-8.83-.97-.34.08-.68-.13-.76-.47-.08-.34.13-.68.47-.76 3.83-.88 7.12-.5 9.76 1.12.31.19.41.55.22.86zm1.22-2.71c-.24.38-.74.5-1.12.26-2.7-1.66-6.82-2.14-10.02-1.17-.41.12-.84-.11-.96-.52-.12-.41.11-.84.52-.96 3.65-1.11 8.19-.57 11.32 1.33.38.24.5.74.26 1.12v-.06z"/>
-                        </svg>
-                        Spotify
-                    </a>
-                </div>
-            </div>
-
             <div class="rss-section">
-                <p class="rss-label">Or copy the feed URL:</p>
+                <p class="rss-label">Copy the feed URL to subscribe in your podcast app:</p>
                 <div class="rss-url" id="rss-url" onclick="copyToClipboard(this)"></div>
             </div>
 
-            <div class="latest" id="latest-episode"></div>
+            <div class="episodes" id="episodes-list"></div>
         </main>
 
         <footer>
-            <p>Made by <a href="https://critchlow.us">Dominic</a> · Powered by good vibes ☀️</p>
+            <p>Made by Your Name · Powered by good vibes ☀️</p>
         </footer>
     </div>
 
     <script>
         const feedUrl = new URL('feed.xml', window.location.href).href;
+        const transcriptBaseUrl = 'https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/';
         document.getElementById('rss-url').textContent = feedUrl;
 
         function copyToClipboard(el) {
@@ -341,20 +290,39 @@
             .then(xml => {
                 const parser = new DOMParser();
                 const doc = parser.parseFromString(xml, 'text/xml');
-                const item = doc.querySelector('item');
-                if (item) {
-                    const title = item.querySelector('title')?.textContent || 'Latest Episode';
+                const items = doc.querySelectorAll('item');
+                const maxEpisodes = 7;
+                
+                if (items.length === 0) return;
+                
+                let episodesHtml = '<h2>This Week</h2>';
+                
+                for (let i = 0; i < Math.min(items.length, maxEpisodes); i++) {
+                    const item = items[i];
+                    const title = item.querySelector('title')?.textContent || 'Episode';
                     const pubDate = item.querySelector('pubDate')?.textContent;
-                    const duration = item.querySelector('duration')?.textContent || '~4 min';
+                    const guid = item.querySelector('guid')?.textContent || '';
+                    const enclosure = item.querySelector('enclosure');
+                    const audioUrl = enclosure?.getAttribute('url') || '';
                     
-                    // Get episode image (NASA APOD/Library)
-                    const imageEl = item.querySelector('image');
-                    const imageUrl = imageEl?.getAttribute('href') || '';
+                    // Handle namespaced elements (itunes:duration, itunes:image)
+                    const allChildren = item.children;
+                    let duration = '~4 min';
+                    let imageUrl = '';
+                    for (let j = 0; j < allChildren.length; j++) {
+                        const child = allChildren[j];
+                        if (child.localName === 'duration') {
+                            duration = child.textContent;
+                        }
+                        if (child.localName === 'image' && child.hasAttribute('href')) {
+                            imageUrl = child.getAttribute('href');
+                        }
+                    }
                     
                     let dateStr = '';
                     if (pubDate) {
                         const d = new Date(pubDate);
-                        dateStr = d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+                        dateStr = d.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' });
                     }
                     
                     // Use NASA image if available, otherwise gradient fallback
@@ -362,19 +330,27 @@
                         ? `background-image: url('${imageUrl}'); background-size: cover; background-position: center;`
                         : `background: linear-gradient(135deg, #f7b955 0%, #ff8a5b 50%, #ea5455 100%);`;
                     
-                    document.getElementById('latest-episode').innerHTML = `
-                        <h2>Latest</h2>
+                    // Build transcript URL from guid (which is the date like 2025-12-15)
+                    const transcriptUrl = transcriptBaseUrl + guid + '.txt';
+                    
+                    episodesHtml += `
                         <div class="episode">
                             <div class="episode-art" style="${artStyle}"></div>
                             <div class="episode-info">
                                 <h3>${title}</h3>
                                 <p class="episode-meta">${dateStr} · ${duration}</p>
+                                <div class="episode-links">
+                                    <a href="${audioUrl}" target="_blank">▶ Listen</a>
+                                    <a href="${transcriptUrl}" target="_blank">📄 Transcript</a>
+                                </div>
                             </div>
                         </div>
                     `;
                 }
+                
+                document.getElementById('episodes-list').innerHTML = episodesHtml;
             })
-            .catch(() => {});
+            .catch(err => { console.error('Feed error:', err); });
     </script>
 </body>
 </html>

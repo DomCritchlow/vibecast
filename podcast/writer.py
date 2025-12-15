@@ -99,10 +99,16 @@ IMPORTANT:
 - Use natural speech patterns and contractions
 - Use ellipsis (...) for natural pauses between sections
 - Keep sentences short to medium length for easy listening
-- Each story should be 3-5 sentences - share what happened, why it matters, and what's exciting about it
-- Add brief personal reactions or connections to make stories feel alive
+
+STORY COVERAGE (this is the main content - give each story proper attention):
+- Each story should be 4-6 sentences minimum
+- Start with what happened (the news), then add context or background
+- Share why this matters or why it's exciting
+- Add your genuine reaction, a fun fact, or connect it to the bigger picture
+- Don't just summarize - bring the story to life with your personality
+
 - End with an encouraging send-off that feels genuine, not cheesy
-- AIM FOR ~600 WORDS TOTAL to hit the 4-minute target"""
+- AIM FOR ~600-700 WORDS TOTAL to hit the 4-minute target"""
 
     return system_prompt
 
@@ -161,7 +167,13 @@ STYLE HINTS:
 - Consider closing with something like: "{closing_hint}"
 - Use ... (ellipsis) between major sections for natural pacing
 
-REMEMBER: Target ~600 words total for a 4-minute episode. Give each story enough detail to be interesting - don't rush through them.
+WORD TARGETS:
+- Greeting + weather: ~80 words
+- Each story: ~80-100 words (4-6 sentences each - don't rush!)
+- Closing: ~50 words
+- Total: ~600-700 words for a 4-minute episode
+
+Elaborate on each story - add context, share why it matters, react to it. Make the listener feel something.
 
 Write the complete script now, ready to be read aloud."""
 
