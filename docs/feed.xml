@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast with weather, uplifting stories, and a reason to smile.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Dec 2025 12:23:52 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 04:42:26 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast with weather, uplifting stories, and a reason to smile.</itunes:summary>
@@ -27,6 +27,44 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Morning Sunshine — December 15, 2025</title>
+      <description><![CDATA[Your daily dose of good news and good vibes for December 15, 2025.
+
+Duration: ~2 minutes
+
+IN THIS EPISODE:
+
+1. He Carries Shelter Dogs Around the City in a Backpack to Help Get them Adopted (WATCH)
+   Source: Good News Network
+
+REFERENCES:
+
+1. He Carries Shelter Dogs Around the City in a Backpack to Help Get them Adopted (WATCH)
+   https://www.goodnewsnetwork.org/he-carries-shelter-dogs-around-the-city-in-a-backpack-to-help-get-them-adopted/
+]]></description>
+      <pubDate>Mon, 15 Dec 2025 04:42:03 -0000</pubDate>
+      <guid isPermaLink="false">2025-12-15</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-15.mp3" length="1736160" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[Your daily dose of good news and good vibes for December 15, 2025.
+
+Duration: ~2 minutes
+
+IN THIS EPISODE:
+
+1. He Carries Shelter Dogs Around the City in a Backpack to Help Get them Adopted (WATCH)
+   Source: Good News Network
+
+REFERENCES:
+
+1. He Carries Shelter Dogs Around the City in a Backpack to Help Get them Adopted (WATCH)
+   https://www.goodnewsnetwork.org/he-carries-shelter-dogs-around-the-city-in-a-backpack-to-help-get-them-adopted/
+]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:40</itunes:duration>
+      <itunes:image href="https://images-assets.nasa.gov/image/S92-52043/S92-52043~thumb.jpg"/>
+    </item>
     <item>
       <title>Morning Sunshine — December 14, 2025</title>
       <description><![CDATA[Your daily dose of good news and good vibes for December 14, 2025.
@@ -113,7 +151,6 @@ REFERENCES:
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>3:05</itunes:duration>
-      <itunes:image href="https://images-assets.nasa.gov/image/PIA25433/PIA25433~thumb.jpg"/>
     </item>
   </channel>
 </rss>
