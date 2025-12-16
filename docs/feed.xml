@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast with weather, inspiring stories, and a reason to get excited about today.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Dec 2025 12:46:43 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 06:09:11 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast with weather, inspiring stories, and a reason to get excited about today.</itunes:summary>
@@ -27,6 +27,94 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Morning Vibe — December 16, 2025</title>
+      <description><![CDATA[Good news to fuel your day for December 16, 2025.
+
+Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Ten years
+   Source: OpenAI News
+2. Strengthening cyber resilience as AI capabilities advance
+   Source: OpenAI News
+3. Anti-Defamation League says anger at Israel is now the driving force behind antisemitism in the U.S.
+   Source: NY1 Politics
+4. ‘I found my people’: Frank Turner on saving Britain’s grassroots music venues
+   Source: Positive News
+5. How to avoid plastic tat killing the Christmas buzz
+   Source: Positive News
+6. CNN Hero of the Year Turns Vacant Lots on Chicago’s South Side into Flower Farms
+   Source: Good News Network
+
+REFERENCES:
+
+1. Ten years
+   https://openai.com/index/ten-years
+
+2. Strengthening cyber resilience as AI capabilities advance
+   https://openai.com/index/strengthening-cyber-resilience
+
+3. Anti-Defamation League says anger at Israel is now the driving force behind antisemitism in the U.S.
+   http://www.ny1.com/nyc/all-boroughs/politics/2025/04/22/anti-defamation-league-says-anger-at-israel-is-now-the-driving-force-behind-antisemitism-in-the-u-s-
+
+4. ‘I found my people’: Frank Turner on saving Britain’s grassroots music venues
+   https://www.positive.news/society/i-found-my-people-frank-turner-on-saving-britains-grassroots-music-venues/
+
+5. How to avoid plastic tat killing the Christmas buzz
+   https://www.positive.news/society/christmas-presents-how-to-avoid-plastic-tat-killing-the-buzz/
+
+6. CNN Hero of the Year Turns Vacant Lots on Chicago’s South Side into Flower Farms
+   https://www.goodnewsnetwork.org/the-2025-cnn-hero-of-the-year-transforms-vacant-lots-on-chicagos-south-side-into-flower-farms/
+]]></description>
+      <pubDate>Tue, 16 Dec 2025 06:08:23 -0000</pubDate>
+      <guid isPermaLink="false">2025-12-16</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-16.mp3" length="5412480" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[Good news to fuel your day for December 16, 2025.
+
+Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Ten years
+   Source: OpenAI News
+2. Strengthening cyber resilience as AI capabilities advance
+   Source: OpenAI News
+3. Anti-Defamation League says anger at Israel is now the driving force behind antisemitism in the U.S.
+   Source: NY1 Politics
+4. ‘I found my people’: Frank Turner on saving Britain’s grassroots music venues
+   Source: Positive News
+5. How to avoid plastic tat killing the Christmas buzz
+   Source: Positive News
+6. CNN Hero of the Year Turns Vacant Lots on Chicago’s South Side into Flower Farms
+   Source: Good News Network
+
+REFERENCES:
+
+1. Ten years
+   https://openai.com/index/ten-years
+
+2. Strengthening cyber resilience as AI capabilities advance
+   https://openai.com/index/strengthening-cyber-resilience
+
+3. Anti-Defamation League says anger at Israel is now the driving force behind antisemitism in the U.S.
+   http://www.ny1.com/nyc/all-boroughs/politics/2025/04/22/anti-defamation-league-says-anger-at-israel-is-now-the-driving-force-behind-antisemitism-in-the-u-s-
+
+4. ‘I found my people’: Frank Turner on saving Britain’s grassroots music venues
+   https://www.positive.news/society/i-found-my-people-frank-turner-on-saving-britains-grassroots-music-venues/
+
+5. How to avoid plastic tat killing the Christmas buzz
+   https://www.positive.news/society/christmas-presents-how-to-avoid-plastic-tat-killing-the-buzz/
+
+6. CNN Hero of the Year Turns Vacant Lots on Chicago’s South Side into Flower Farms
+   https://www.goodnewsnetwork.org/the-2025-cnn-hero-of-the-year-transforms-vacant-lots-on-chicagos-south-side-into-flower-farms/
+]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:44</itunes:duration>
+      <itunes:image href="https://apod.nasa.gov/apod/image/2512/AndromedaSprites_Rao_1080.jpg"/>
+    </item>
     <item>
       <title>Morning Vibe — December 15, 2025</title>
       <description><![CDATA[Good news to fuel your day for December 15, 2025.
@@ -113,7 +201,6 @@ REFERENCES:
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>2:59</itunes:duration>
-      <itunes:image href="https://apod.nasa.gov/apod/image/2512/GeminidWinter_Slovinsky_960.jpg"/>
     </item>
     <item>
       <title>Morning Sunshine — December 14, 2025</title>
