@@ -3,6 +3,68 @@
 import re
 from openai import OpenAI
 
+# OpenAI TTS API character limit
+MAX_TTS_CHARS = 4096
+
+
+def chunk_text(text: str, max_chars: int = MAX_TTS_CHARS) -> list[str]:
+    """Split text into chunks that fit within the TTS character limit.
+    
+    Tries to split at natural break points (paragraphs, sentences) to avoid
+    cutting off mid-sentence.
+    
+    Args:
+        text: The text to split.
+        max_chars: Maximum characters per chunk.
+    
+    Returns:
+        List of text chunks.
+    """
+    if len(text) <= max_chars:
+        return [text]
+    
+    chunks = []
+    remaining = text
+    
+    while remaining:
+        if len(remaining) <= max_chars:
+            chunks.append(remaining)
+            break
+        
+        # Find the best split point within the limit
+        chunk = remaining[:max_chars]
+        
+        # Try to split at a paragraph break (double newline)
+        split_pos = chunk.rfind('\n\n')
+        
+        # If no paragraph break, try sentence boundaries
+        if split_pos == -1 or split_pos < max_chars // 2:
+            # Look for sentence endings: . ! ? followed by space or newline
+            for pattern in ['. ', '! ', '? ', '.\n', '!\n', '?\n']:
+                pos = chunk.rfind(pattern)
+                if pos > split_pos and pos >= max_chars // 2:
+                    split_pos = pos + 1  # Include the punctuation
+        
+        # If still no good split point, try comma or semicolon
+        if split_pos == -1 or split_pos < max_chars // 2:
+            for pattern in [', ', '; ', ',\n', ';\n']:
+                pos = chunk.rfind(pattern)
+                if pos > split_pos and pos >= max_chars // 2:
+                    split_pos = pos + 1
+        
+        # Last resort: split at word boundary
+        if split_pos == -1 or split_pos < max_chars // 2:
+            split_pos = chunk.rfind(' ')
+        
+        # Absolute last resort: hard cut
+        if split_pos == -1:
+            split_pos = max_chars
+        
+        chunks.append(remaining[:split_pos].strip())
+        remaining = remaining[split_pos:].strip()
+    
+    return [c for c in chunks if c]  # Filter out empty chunks
+
 
 def preprocess_script_for_tts(script: str) -> str:
     """Preprocess the script for TTS synthesis.
@@ -40,6 +102,9 @@ def preprocess_script_for_tts(script: str) -> str:
 
 def synthesize_mp3(script: str, config: dict) -> bytes:
     """Convert script to MP3 using OpenAI TTS.
+    
+    Handles long scripts by chunking them into segments under the API's
+    4096 character limit and concatenating the resulting audio.
     
     Args:
         script: The podcast script text.
@@ -84,17 +149,30 @@ def synthesize_mp3(script: str, config: dict) -> bytes:
         print(f"Warning: Invalid format '{response_format}', using 'mp3'")
         response_format = "mp3"
     
-    # Generate speech
-    response = client.audio.speech.create(
-        model=model,
-        voice=voice,
-        input=processed_script,
-        speed=speed,
-        response_format=response_format,
-    )
+    # Chunk the text to fit within API limits
+    chunks = chunk_text(processed_script)
     
-    # Return raw audio bytes
-    return response.content
+    if len(chunks) > 1:
+        print(f"  Script is {len(processed_script)} chars, splitting into {len(chunks)} chunks")
+    
+    # Generate speech for each chunk
+    audio_parts = []
+    for i, chunk in enumerate(chunks):
+        if len(chunks) > 1:
+            print(f"  Synthesizing chunk {i + 1}/{len(chunks)} ({len(chunk)} chars)...")
+        
+        response = client.audio.speech.create(
+            model=model,
+            voice=voice,
+            input=chunk,
+            speed=speed,
+            response_format=response_format,
+        )
+        audio_parts.append(response.content)
+    
+    # Concatenate audio chunks
+    # MP3 frames are independent, so simple concatenation works
+    return b''.join(audio_parts)
 
 
 def estimate_audio_duration(script: str, speed: float = 1.0) -> float:
