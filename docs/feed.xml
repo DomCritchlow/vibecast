@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast with weather, inspiring stories, and a reason to get excited about today.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Dec 2025 06:09:11 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 04:35:50 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast with weather, inspiring stories, and a reason to get excited about today.</itunes:summary>
@@ -27,6 +27,94 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Morning Vibe — December 17, 2025</title>
+      <description><![CDATA[Good news to fuel your day for December 17, 2025.
+
+Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. NASA Launches Research Program for Students to Explore Big Ideas
+   Source: NASA Breaking News
+2. Through Astronaut Eyes: 25 Years of Life in Orbit
+   Source: NASA Breaking News
+3. NASA, Partners Share First Data From New US-European Sea Satellite
+   Source: NASA JPL News
+4. Nothing fans contribute to retro-tinged Phone (3a) Community Edition
+   Source: Dezeen
+5. Nothing’s New Phone (3a) Was Designed by Its Future Users
+   Source: Design Milk
+6. A season of solidarity: eight projects empowering people this Christmas
+   Source: Positive News
+
+REFERENCES:
+
+1. NASA Launches Research Program for Students to Explore Big Ideas
+   https://www.nasa.gov/learning-resources/research-program-for-students/
+
+2. Through Astronaut Eyes: 25 Years of Life in Orbit
+   https://www.nasa.gov/centers-and-facilities/johnson/through-astronaut-eyes-25-years-of-life-in-orbit/
+
+3. NASA, Partners Share First Data From New US-European Sea Satellite
+   https://www.jpl.nasa.gov/news/nasa-partners-share-first-data-from-new-us-european-sea-satellite
+
+4. Nothing fans contribute to retro-tinged Phone (3a) Community Edition
+   https://www.dezeen.com/2025/12/16/nothing-phone-3a-community-edition-design/
+
+5. Nothing’s New Phone (3a) Was Designed by Its Future Users
+   https://design-milk.com/nothings-new-phone-3a-was-designed-by-its-future-users/
+
+6. A season of solidarity: eight projects empowering people this Christmas
+   https://www.positive.news/society/a-season-of-solidarity-8-grassroots-ideas-powering-christmas-2025/
+]]></description>
+      <pubDate>Wed, 17 Dec 2025 04:35:05 -0000</pubDate>
+      <guid isPermaLink="false">2025-12-17</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-17.mp3" length="5317440" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[Good news to fuel your day for December 17, 2025.
+
+Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. NASA Launches Research Program for Students to Explore Big Ideas
+   Source: NASA Breaking News
+2. Through Astronaut Eyes: 25 Years of Life in Orbit
+   Source: NASA Breaking News
+3. NASA, Partners Share First Data From New US-European Sea Satellite
+   Source: NASA JPL News
+4. Nothing fans contribute to retro-tinged Phone (3a) Community Edition
+   Source: Dezeen
+5. Nothing’s New Phone (3a) Was Designed by Its Future Users
+   Source: Design Milk
+6. A season of solidarity: eight projects empowering people this Christmas
+   Source: Positive News
+
+REFERENCES:
+
+1. NASA Launches Research Program for Students to Explore Big Ideas
+   https://www.nasa.gov/learning-resources/research-program-for-students/
+
+2. Through Astronaut Eyes: 25 Years of Life in Orbit
+   https://www.nasa.gov/centers-and-facilities/johnson/through-astronaut-eyes-25-years-of-life-in-orbit/
+
+3. NASA, Partners Share First Data From New US-European Sea Satellite
+   https://www.jpl.nasa.gov/news/nasa-partners-share-first-data-from-new-us-european-sea-satellite
+
+4. Nothing fans contribute to retro-tinged Phone (3a) Community Edition
+   https://www.dezeen.com/2025/12/16/nothing-phone-3a-community-edition-design/
+
+5. Nothing’s New Phone (3a) Was Designed by Its Future Users
+   https://design-milk.com/nothings-new-phone-3a-was-designed-by-its-future-users/
+
+6. A season of solidarity: eight projects empowering people this Christmas
+   https://www.positive.news/society/a-season-of-solidarity-8-grassroots-ideas-powering-christmas-2025/
+]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:34</itunes:duration>
+      <itunes:image href="https://apod.nasa.gov/apod/image/2512/AndromedaSprites_Rao_1080.jpg"/>
+    </item>
     <item>
       <title>Morning Vibe — December 16, 2025</title>
       <description><![CDATA[Good news to fuel your day for December 16, 2025.
@@ -113,7 +201,6 @@ REFERENCES:
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:44</itunes:duration>
-      <itunes:image href="https://apod.nasa.gov/apod/image/2512/AndromedaSprites_Rao_1080.jpg"/>
     </item>
     <item>
       <title>Morning Vibe — December 15, 2025</title>
