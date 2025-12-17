@@ -194,15 +194,18 @@ def generate_index_html(config: dict) -> str:
         }}
 
         .episode {{
-            display: flex;
-            align-items: flex-start;
-            gap: 16px;
             padding: 16px 0;
             border-bottom: 1px solid var(--color-border);
         }}
 
         .episode:last-child {{
             border-bottom: none;
+        }}
+
+        .episode-row {{
+            display: flex;
+            align-items: flex-start;
+            gap: 16px;
         }}
 
         .episode-art {{
@@ -239,13 +242,135 @@ def generate_index_html(config: dict) -> str:
             font-size: 0.8rem;
         }}
 
-        .episode-links a {{
+        .episode-links button {{
+            background: none;
+            border: none;
             color: var(--color-accent);
-            text-decoration: none;
+            cursor: pointer;
+            font-size: 0.8rem;
+            font-family: inherit;
+            padding: 0;
         }}
 
-        .episode-links a:hover {{
+        .episode-links button:hover {{
             text-decoration: underline;
+        }}
+
+        /* Audio Player */
+        .audio-player {{
+            margin-top: 12px;
+            padding: 12px;
+            background: #f8f8f8;
+            border-radius: 8px;
+            display: none;
+        }}
+
+        .audio-player.active {{
+            display: block;
+            animation: slideDown 0.2s ease-out;
+        }}
+
+        @keyframes slideDown {{
+            from {{ opacity: 0; transform: translateY(-8px); }}
+            to {{ opacity: 1; transform: translateY(0); }}
+        }}
+
+        .audio-player audio {{
+            width: 100%;
+            height: 40px;
+        }}
+
+        /* Transcript Modal */
+        .modal-overlay {{
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.5);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 1000;
+            opacity: 0;
+            visibility: hidden;
+            transition: opacity 0.2s, visibility 0.2s;
+            padding: 20px;
+        }}
+
+        .modal-overlay.active {{
+            opacity: 1;
+            visibility: visible;
+        }}
+
+        .modal {{
+            background: white;
+            border-radius: 16px;
+            max-width: 600px;
+            width: 100%;
+            max-height: 80vh;
+            display: flex;
+            flex-direction: column;
+            transform: translateY(20px);
+            transition: transform 0.2s;
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+        }}
+
+        .modal-overlay.active .modal {{
+            transform: translateY(0);
+        }}
+
+        .modal-header {{
+            padding: 20px 24px;
+            border-bottom: 1px solid var(--color-border);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }}
+
+        .modal-header h3 {{
+            font-size: 1.1rem;
+            font-weight: 600;
+        }}
+
+        .modal-close {{
+            background: none;
+            border: none;
+            font-size: 1.5rem;
+            cursor: pointer;
+            color: var(--color-text-muted);
+            padding: 4px 8px;
+            line-height: 1;
+            border-radius: 4px;
+        }}
+
+        .modal-close:hover {{
+            background: #f5f5f5;
+        }}
+
+        .modal-body {{
+            padding: 24px;
+            overflow-y: auto;
+            flex: 1;
+        }}
+
+        .transcript-text {{
+            white-space: pre-wrap;
+            font-size: 0.95rem;
+            line-height: 1.8;
+            color: var(--color-text);
+        }}
+
+        .transcript-loading {{
+            text-align: center;
+            color: var(--color-text-muted);
+            padding: 40px;
+        }}
+
+        .transcript-error {{
+            text-align: center;
+            color: #e74c3c;
+            padding: 40px;
         }}
 
         footer {{
@@ -269,12 +394,12 @@ def generate_index_html(config: dict) -> str:
                 padding: 48px 20px;
             }}
 
-            .subscribe-buttons {{
-                flex-direction: column;
+            .modal {{
+                max-height: 90vh;
             }}
 
-            .btn {{
-                justify-content: center;
+            .modal-body {{
+                padding: 16px;
             }}
         }}
     </style>
@@ -320,11 +445,27 @@ def generate_index_html(config: dict) -> str:
         </footer>
     </div>
 
+    <!-- Transcript Modal -->
+    <div class="modal-overlay" id="transcript-modal">
+        <div class="modal">
+            <div class="modal-header">
+                <h3 id="modal-title">Transcript</h3>
+                <button class="modal-close" onclick="closeModal()">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div id="modal-content" class="transcript-text"></div>
+            </div>
+        </div>
+    </div>
+
     <script>
         const feedUrl = new URL('feed.xml', window.location.href).href;
-        const r2BaseUrl = '{r2_public_url}'.replace(/\\/+$/, '');  // trim trailing slashes
+        const r2BaseUrl = '{r2_public_url}'.replace(/\\/+$/, '');
         const transcriptBaseUrl = r2BaseUrl + '/transcripts/';
         document.getElementById('rss-url').textContent = feedUrl;
+
+        let currentAudio = null;
+        let currentPlayerId = null;
 
         function copyToClipboard(el) {{
             navigator.clipboard.writeText(el.textContent);
@@ -332,6 +473,86 @@ def generate_index_html(config: dict) -> str:
             el.textContent = 'Copied!';
             setTimeout(() => el.textContent = original, 1500);
         }}
+
+        function togglePlayer(episodeId, audioUrl) {{
+            const player = document.getElementById('player-' + episodeId);
+            const audio = document.getElementById('audio-' + episodeId);
+            const btn = document.getElementById('btn-' + episodeId);
+            
+            // If clicking on currently playing episode, toggle it
+            if (currentPlayerId === episodeId) {{
+                if (audio.paused) {{
+                    audio.play();
+                    btn.textContent = '⏸ Pause';
+                }} else {{
+                    audio.pause();
+                    btn.textContent = '▶ Listen';
+                }}
+                return;
+            }}
+            
+            // Stop any currently playing audio
+            if (currentAudio && !currentAudio.paused) {{
+                currentAudio.pause();
+                const prevBtn = document.getElementById('btn-' + currentPlayerId);
+                if (prevBtn) prevBtn.textContent = '▶ Listen';
+                const prevPlayer = document.getElementById('player-' + currentPlayerId);
+                if (prevPlayer) prevPlayer.classList.remove('active');
+            }}
+            
+            // Show and play the new player
+            player.classList.add('active');
+            audio.play();
+            btn.textContent = '⏸ Pause';
+            currentAudio = audio;
+            currentPlayerId = episodeId;
+        }}
+
+        function onAudioEnded(episodeId) {{
+            const btn = document.getElementById('btn-' + episodeId);
+            if (btn) btn.textContent = '▶ Listen';
+        }}
+
+        function openTranscript(title, transcriptUrl) {{
+            const modal = document.getElementById('transcript-modal');
+            const modalTitle = document.getElementById('modal-title');
+            const modalContent = document.getElementById('modal-content');
+            
+            modalTitle.textContent = title;
+            modalContent.innerHTML = '<div class="transcript-loading">Loading transcript...</div>';
+            modal.classList.add('active');
+            document.body.style.overflow = 'hidden';
+            
+            fetch(transcriptUrl)
+                .then(r => {{
+                    if (!r.ok) throw new Error('Failed to load');
+                    return r.text();
+                }})
+                .then(text => {{
+                    modalContent.textContent = text;
+                }})
+                .catch(err => {{
+                    modalContent.innerHTML = '<div class="transcript-error">Could not load transcript</div>';
+                }});
+        }}
+
+        function closeModal() {{
+            const modal = document.getElementById('transcript-modal');
+            modal.classList.remove('active');
+            document.body.style.overflow = '';
+        }}
+
+        // Close modal on overlay click
+        document.getElementById('transcript-modal').addEventListener('click', (e) => {{
+            if (e.target.classList.contains('modal-overlay')) {{
+                closeModal();
+            }}
+        }});
+
+        // Close modal on Escape key
+        document.addEventListener('keydown', (e) => {{
+            if (e.key === 'Escape') closeModal();
+        }});
 
         fetch('feed.xml')
             .then(r => r.text())
@@ -353,7 +574,6 @@ def generate_index_html(config: dict) -> str:
                     const enclosure = item.querySelector('enclosure');
                     const audioUrl = enclosure?.getAttribute('url') || '';
                     
-                    // Handle namespaced elements (itunes:duration, itunes:image)
                     const allChildren = item.children;
                     let duration = '~4 min';
                     let imageUrl = '';
@@ -373,24 +593,30 @@ def generate_index_html(config: dict) -> str:
                         dateStr = d.toLocaleDateString('en-US', {{ weekday: 'short', month: 'short', day: 'numeric' }});
                     }}
                     
-                    // Use NASA image if available, otherwise gradient fallback
                     const artStyle = imageUrl 
                         ? `background-image: url('${{imageUrl}}'); background-size: cover; background-position: center;`
                         : `background: linear-gradient(135deg, #f7b955 0%, #ff8a5b 50%, #ea5455 100%);`;
                     
-                    // Build transcript URL from guid (which is the date like 2025-12-15)
                     const transcriptUrl = transcriptBaseUrl + guid + '.txt';
+                    const episodeId = guid || i;
+                    const escapedTitle = title.replace(/'/g, "\\\\'");
+                    const escapedUrl = transcriptUrl.replace(/'/g, "\\\\'");
                     
                     episodesHtml += `
                         <div class="episode">
-                            <div class="episode-art" style="${{artStyle}}"></div>
-                            <div class="episode-info">
-                                <h3>${{title}}</h3>
-                                <p class="episode-meta">${{dateStr}} · ${{duration}}</p>
-                                <div class="episode-links">
-                                    <a href="${{audioUrl}}" target="_blank">▶ Listen</a>
-                                    <a href="${{transcriptUrl}}" target="_blank">📄 Transcript</a>
+                            <div class="episode-row">
+                                <div class="episode-art" style="${{artStyle}}"></div>
+                                <div class="episode-info">
+                                    <h3>${{title}}</h3>
+                                    <p class="episode-meta">${{dateStr}} · ${{duration}}</p>
+                                    <div class="episode-links">
+                                        <button id="btn-${{episodeId}}" onclick="togglePlayer('${{episodeId}}', '${{audioUrl}}')">▶ Listen</button>
+                                        <button onclick="openTranscript('${{escapedTitle}}', '${{escapedUrl}}')">📄 Transcript</button>
+                                    </div>
                                 </div>
+                            </div>
+                            <div class="audio-player" id="player-${{episodeId}}">
+                                <audio id="audio-${{episodeId}}" src="${{audioUrl}}" preload="none" onended="onAudioEnded('${{episodeId}}')" controls></audio>
                             </div>
                         </div>
                     `;
