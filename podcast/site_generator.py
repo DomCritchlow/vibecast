@@ -763,14 +763,23 @@ def generate_index_html(config: dict) -> str:
                     let summary = '';
                     for (let j = 0; j < allChildren.length; j++) {{
                         const child = allChildren[j];
-                        if (child.localName === 'duration') {{
+                        const localName = child.localName || child.nodeName.split(':').pop();
+                        if (localName === 'duration') {{
                             duration = child.textContent;
                         }}
-                        if (child.localName === 'image' && child.hasAttribute('href')) {{
+                        if (localName === 'image' && child.hasAttribute('href')) {{
                             imageUrl = child.getAttribute('href');
                         }}
-                        if (child.localName === 'summary') {{
+                        if (localName === 'summary') {{
                             summary = child.textContent;
+                        }}
+                    }}
+                    
+                    // Fallback: try getElementsByTagName for itunes:image
+                    if (!imageUrl) {{
+                        const itunesImages = item.getElementsByTagName('itunes:image');
+                        if (itunesImages.length > 0) {{
+                            imageUrl = itunesImages[0].getAttribute('href');
                         }}
                     }}
                     
