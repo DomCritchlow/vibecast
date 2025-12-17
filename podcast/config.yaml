@@ -292,7 +292,7 @@ storage:
   r2:
     bucket: "vibecast"
     key_prefix: "episodes/"
-    public_base_url: ""                  # Override: VIBECAST_R2_PUBLIC_URL
+    public_base_url: ""                  # Override: VIBECAST_R2_PUBLIC_URL (base URL, e.g. https://pub-xxx.r2.dev)
     cache_control: "public, max-age=31536000, immutable"
 
 # =============================================================================

@@ -322,7 +322,8 @@ def generate_index_html(config: dict) -> str:
 
     <script>
         const feedUrl = new URL('feed.xml', window.location.href).href;
-        const transcriptBaseUrl = '{r2_public_url}transcripts/';
+        const r2BaseUrl = '{r2_public_url}'.replace(/\\/+$/, '');  // trim trailing slashes
+        const transcriptBaseUrl = r2BaseUrl + '/transcripts/';
         document.getElementById('rss-url').textContent = feedUrl;
 
         function copyToClipboard(el) {{

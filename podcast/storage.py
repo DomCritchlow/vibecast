@@ -89,8 +89,8 @@ def upload_mp3_to_r2(
     
     # Build public URL
     if public_base_url:
-        # Use configured public URL
-        public_url = f"{public_base_url.rstrip('/')}/{filename}"
+        # Use configured public URL with explicit /episodes/ path
+        public_url = f"{public_base_url.rstrip('/')}/episodes/{filename}"
     else:
         # Fallback to R2.dev URL pattern (if enabled on bucket)
         account_id = os.environ.get("R2_ACCOUNT_ID", "")
@@ -226,13 +226,8 @@ def upload_transcript_to_r2(
     
     # Build public URL
     if public_base_url:
-        # Replace /episodes/ with /transcripts/ in the base URL
-        base = public_base_url.rstrip("/")
-        if base.endswith("/episodes"):
-            base = base[:-9]  # Remove "/episodes"
-        elif base.endswith("episodes"):
-            base = base[:-8]  # Remove "episodes"
-        public_url = f"{base}/transcripts/{filename}"
+        # Use configured public URL with explicit /transcripts/ path
+        public_url = f"{public_base_url.rstrip('/')}/transcripts/{filename}"
     else:
         # Fallback
         account_id = os.environ.get("R2_ACCOUNT_ID", "")

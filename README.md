@@ -74,7 +74,7 @@ Go to **Settings → Secrets → Actions** and add:
 | `VIBECAST_LOCATION_LON` | `-74.0060` |
 | `VIBECAST_SITE_URL` | `https://user.github.io/vibecast/` |
 | `VIBECAST_FEED_URL` | `https://user.github.io/vibecast/feed.xml` |
-| `VIBECAST_R2_PUBLIC_URL` | `https://pub-xxx.r2.dev/episodes/` |
+| `VIBECAST_R2_PUBLIC_URL` | `https://pub-xxx.r2.dev` |
 | `VIBECAST_AUTHOR` | `Your Name` |
 | `VIBECAST_AUTHOR_URL` | `https://yoursite.com` |
 | `VIBECAST_OWNER_EMAIL` | `you@example.com` |

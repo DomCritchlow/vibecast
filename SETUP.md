@@ -32,7 +32,7 @@ Complete setup instructions for Vibecast.
 1. Go to bucket **Settings**
 2. Under **Public access**, enable **R2.dev subdomain**
 3. Copy the URL (e.g., `https://pub-abc123.r2.dev`)
-4. Your `VIBECAST_R2_PUBLIC_URL` will be: `https://pub-abc123.r2.dev/episodes/`
+4. Your `VIBECAST_R2_PUBLIC_URL` will be: `https://pub-abc123.r2.dev`
 
 ### Generate API Token
 
@@ -75,7 +75,7 @@ Go to **Settings → Secrets and variables → Actions** and add:
 | `VIBECAST_LOCATION_LON` | `-74.0060` |
 | `VIBECAST_SITE_URL` | `https://user.github.io/vibecast/` |
 | `VIBECAST_FEED_URL` | `https://user.github.io/vibecast/feed.xml` |
-| `VIBECAST_R2_PUBLIC_URL` | `https://pub-xxx.r2.dev/episodes/` |
+| `VIBECAST_R2_PUBLIC_URL` | `https://pub-xxx.r2.dev` |
 | `VIBECAST_AUTHOR` | `Your Name` |
 | `VIBECAST_AUTHOR_URL` | `https://yoursite.com` |
 | `VIBECAST_OWNER_EMAIL` | `you@example.com` |
