@@ -69,7 +69,8 @@ def chunk_text(text: str, max_chars: int = MAX_TTS_CHARS) -> list[str]:
 def preprocess_script_for_tts(script: str) -> str:
     """Preprocess the script for TTS synthesis.
     
-    Handles pause markers and other formatting for better TTS output.
+    Handles pause markers, temperature symbols, and other formatting 
+    for better TTS output.
     
     Args:
         script: Raw script text with markers like [pause].
@@ -77,11 +78,28 @@ def preprocess_script_for_tts(script: str) -> str:
     Returns:
         Cleaned script ready for TTS.
     """
+    processed = script
+    
+    # Expand temperature notation for natural speech
+    # Handle °C and °F (with degree symbol)
+    processed = re.sub(r'(-?\d+)\s*°C\b', r'\1 degrees Celsius', processed)
+    processed = re.sub(r'(-?\d+)\s*°F\b', r'\1 degrees Fahrenheit', processed)
+    # Handle standalone degree symbol with C/F
+    processed = re.sub(r'(-?\d+)\s*degrees?\s*C\b', r'\1 degrees Celsius', processed)
+    processed = re.sub(r'(-?\d+)\s*degrees?\s*F\b', r'\1 degrees Fahrenheit', processed)
+    
+    # Expand other common symbols TTS may struggle with
+    processed = re.sub(r'(\d+)\s*%', r'\1 percent', processed)
+    processed = re.sub(r'(\d+)\s*km/h', r'\1 kilometers per hour', processed)
+    processed = re.sub(r'(\d+)\s*mph', r'\1 miles per hour', processed)
+    processed = re.sub(r'(\d+)\s*km\b', r'\1 kilometers', processed)
+    processed = re.sub(r'(\d+)\s*mi\b', r'\1 miles', processed)
+    
     # OpenAI TTS doesn't support SSML, but it handles natural pauses well
     # Convert [pause] markers to ellipsis or periods for natural pausing
     
     # Replace [pause] with a period and newline for a natural break
-    processed = re.sub(r'\[pause\]', '.\n\n', script, flags=re.IGNORECASE)
+    processed = re.sub(r'\[pause\]', '.\n\n', processed, flags=re.IGNORECASE)
     
     # Replace other potential markers
     processed = re.sub(r'\[slow\]', '', processed, flags=re.IGNORECASE)
