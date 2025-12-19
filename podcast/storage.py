@@ -235,3 +235,50 @@ def upload_transcript_to_r2(
     
     return public_url
 
+
+def upload_image_to_r2(
+    image_bytes: bytes,
+    filename: str,
+    config: dict,
+    content_type: str = "image/jpeg",
+) -> str:
+    """Upload episode image to Cloudflare R2.
+    
+    Args:
+        image_bytes: Raw image data.
+        filename: Filename for the uploaded file (e.g., "2025-12-13.jpg").
+        config: Full configuration dictionary.
+        content_type: MIME type of the image.
+    
+    Returns:
+        Public URL of the uploaded image.
+    """
+    storage_config = config.get("storage", {})
+    r2_config = storage_config.get("r2", {})
+    
+    bucket = r2_config.get("bucket", "vibecast")
+    public_base_url = r2_config.get("public_base_url", "")
+    
+    # Store images in an images/ folder
+    object_key = f"images/{filename}"
+    
+    # Get R2 client
+    client = get_r2_client()
+    
+    # Upload the file
+    client.put_object(
+        Bucket=bucket,
+        Key=object_key,
+        Body=image_bytes,
+        ContentType=content_type,
+        CacheControl="public, max-age=31536000, immutable",
+    )
+    
+    # Build public URL
+    if public_base_url:
+        public_url = f"{public_base_url.rstrip('/')}/images/{filename}"
+    else:
+        account_id = os.environ.get("R2_ACCOUNT_ID", "")
+        public_url = f"https://{bucket}.{account_id}.r2.dev/{object_key}"
+    
+    return public_url

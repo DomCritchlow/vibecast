@@ -16,7 +16,8 @@ from .sources.rss import fetch_all_rss_sources
 from .sources.nasa_apod import get_apod_for_episode
 from .writer import generate_script, generate_script_dry_run
 from .tts import synthesize_mp3, estimate_audio_duration
-from .storage import upload_mp3_to_r2, upload_transcript_to_r2, check_r2_connection
+from .storage import upload_mp3_to_r2, upload_transcript_to_r2, upload_image_to_r2, check_r2_connection
+import requests
 from .rss_feed import create_episode_metadata, update_feed, save_feed
 from .site_generator import save_index_html
 
@@ -137,13 +138,13 @@ def save_transcript(
     
     # Build the transcript document
     lines = [
-        "=" * 70,
+        "=" * 40,
         f"VIBECAST TRANSCRIPT",
         f"{vibe.get('name', 'Episode')} — {date.strftime('%A, %B %d, %Y')}",
-        "=" * 70,
+        "=" * 40,
         "",
         "EPISODE SUMMARY",
-        "-" * 40,
+        "-" * 30,
         f"Date: {date.strftime('%Y-%m-%d')}",
         f"Duration: ~{estimated_duration:.1f} minutes",
         f"Model: {model}",
@@ -163,13 +164,13 @@ def save_transcript(
         "",
         "",
         "FULL SCRIPT",
-        "-" * 40,
+        "-" * 30,
         "",
         script,
         "",
         "",
         "REFERENCES",
-        "-" * 40,
+        "-" * 30,
         "Links to the stories mentioned in this episode:",
         "",
     ])
@@ -388,12 +389,41 @@ def run_pipeline(dry_run: bool = False, verbose: bool = False) -> bool:
             mp3_url = upload_mp3_to_r2(mp3_bytes, filename, config)
             print(f"  Uploaded to: {mp3_url}")
         
-        # Fetch NASA APOD for episode artwork
+        # Fetch NASA APOD for episode artwork and upload to R2
         episode_image_url = None
         apod_data = get_apod_for_episode()
         if apod_data:
-            episode_image_url = apod_data.get("image_url")
+            nasa_image_url = apod_data.get("image_url")
             print(f"  NASA APOD: {apod_data.get('image_title', 'N/A')}")
+            
+            # Download and upload to R2 for persistence
+            if nasa_image_url and not dry_run:
+                try:
+                    print(f"  Downloading NASA image...")
+                    img_response = requests.get(nasa_image_url, timeout=30)
+                    img_response.raise_for_status()
+                    
+                    # Determine file extension from content type or URL
+                    content_type = img_response.headers.get("Content-Type", "image/jpeg")
+                    ext = "jpg"
+                    if "png" in content_type or nasa_image_url.endswith(".png"):
+                        ext = "png"
+                    elif "gif" in content_type or nasa_image_url.endswith(".gif"):
+                        ext = "gif"
+                    
+                    image_filename = f"{today.strftime('%Y-%m-%d')}.{ext}"
+                    episode_image_url = upload_image_to_r2(
+                        img_response.content, 
+                        image_filename, 
+                        config,
+                        content_type=content_type
+                    )
+                    print(f"  Uploaded image to: {episode_image_url}")
+                except Exception as e:
+                    print(f"  Warning: Failed to upload NASA image to R2: {e}")
+                    episode_image_url = nasa_image_url  # Fallback to NASA URL
+            elif nasa_image_url and dry_run:
+                episode_image_url = nasa_image_url  # Use NASA URL directly in dry run
         else:
             print("  NASA APOD: Not available (may be a video today)")
         
