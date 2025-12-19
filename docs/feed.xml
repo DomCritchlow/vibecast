@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast with weather, inspiring stories, and a reason to get excited about today.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Dec 2025 04:37:14 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 04:36:50 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast with weather, inspiring stories, and a reason to get excited about today.</itunes:summary>
@@ -27,6 +27,94 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Morning Vibe — December 19, 2025</title>
+      <description><![CDATA[Good news to fuel your day for December 19, 2025.
+
+Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Good News in History, December 18
+   Source: Good News Network
+2. NASA’s Hubble Sees Asteroids Colliding at Nearby Star for First Time
+   Source: NASA Breaking News
+3. NASA, Boeing Test How to Improve Performance of Longer, Narrower Aircraft Wings
+   Source: NASA Breaking News
+4. Sam Venis documents infrastructure at "political experiment" Próspera in Honduras
+   Source: Dezeen
+5. Modular housing complex for expanding families among projects from University of Southern California
+   Source: Dezeen
+6. Ctrl+Alt+Defy, the white-hat hacker rewriting the cybersecurity rulebook
+   Source: Positive News
+
+REFERENCES:
+
+1. Good News in History, December 18
+   https://www.goodnewsnetwork.org/events061218/
+
+2. NASA’s Hubble Sees Asteroids Colliding at Nearby Star for First Time
+   https://science.nasa.gov/missions/hubble/nasas-hubble-sees-asteroids-colliding-at-nearby-star-for-first-time/
+
+3. NASA, Boeing Test How to Improve Performance of Longer, Narrower Aircraft Wings
+   https://www.nasa.gov/aeronautics/nasa-boeing-test-aircraft-wings/
+
+4. Sam Venis documents infrastructure at "political experiment" Próspera in Honduras
+   https://www.dezeen.com/2025/12/18/infrastructure-prospera-honduras-sam-venis/
+
+5. Modular housing complex for expanding families among projects from University of Southern California
+   https://www.dezeen.com/2025/12/18/modular-housing-structure-university-of-southern-california-schoolshows/
+
+6. Ctrl+Alt+Defy, the white-hat hacker rewriting the cybersecurity rulebook
+   https://www.positive.news/science/technology/ctrlaltdefy-the-white-hat-hacker-rewriting-the-cybersecurity-rulebook/
+]]></description>
+      <pubDate>Fri, 19 Dec 2025 04:35:37 -0000</pubDate>
+      <guid isPermaLink="false">2025-12-19</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-19.mp3" length="5938560" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[Good news to fuel your day for December 19, 2025.
+
+Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Good News in History, December 18
+   Source: Good News Network
+2. NASA’s Hubble Sees Asteroids Colliding at Nearby Star for First Time
+   Source: NASA Breaking News
+3. NASA, Boeing Test How to Improve Performance of Longer, Narrower Aircraft Wings
+   Source: NASA Breaking News
+4. Sam Venis documents infrastructure at "political experiment" Próspera in Honduras
+   Source: Dezeen
+5. Modular housing complex for expanding families among projects from University of Southern California
+   Source: Dezeen
+6. Ctrl+Alt+Defy, the white-hat hacker rewriting the cybersecurity rulebook
+   Source: Positive News
+
+REFERENCES:
+
+1. Good News in History, December 18
+   https://www.goodnewsnetwork.org/events061218/
+
+2. NASA’s Hubble Sees Asteroids Colliding at Nearby Star for First Time
+   https://science.nasa.gov/missions/hubble/nasas-hubble-sees-asteroids-colliding-at-nearby-star-for-first-time/
+
+3. NASA, Boeing Test How to Improve Performance of Longer, Narrower Aircraft Wings
+   https://www.nasa.gov/aeronautics/nasa-boeing-test-aircraft-wings/
+
+4. Sam Venis documents infrastructure at "political experiment" Próspera in Honduras
+   https://www.dezeen.com/2025/12/18/infrastructure-prospera-honduras-sam-venis/
+
+5. Modular housing complex for expanding families among projects from University of Southern California
+   https://www.dezeen.com/2025/12/18/modular-housing-structure-university-of-southern-california-schoolshows/
+
+6. Ctrl+Alt+Defy, the white-hat hacker rewriting the cybersecurity rulebook
+   https://www.positive.news/science/technology/ctrlaltdefy-the-white-hat-hacker-rewriting-the-cybersecurity-rulebook/
+]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:56</itunes:duration>
+      <itunes:image href="https://images-assets.nasa.gov/image/PIA06580/PIA06580~thumb.jpg"/>
+    </item>
     <item>
       <title>Morning Vibe — December 18, 2025</title>
       <description><![CDATA[Good news to fuel your day for December 18, 2025.
@@ -113,7 +201,6 @@ REFERENCES:
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:47</itunes:duration>
-      <itunes:image href="https://apod.nasa.gov/apod/image/2512/Soul_Horne_1080.jpg"/>
     </item>
     <item>
       <title>Morning Vibe — December 17, 2025</title>
