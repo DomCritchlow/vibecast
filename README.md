@@ -149,8 +149,10 @@ vibecast/
 │   ├── sources/           # Content fetchers
 │   │   ├── weather.py     # Open-Meteo API
 │   │   ├── rss.py         # RSS feed parser
-│   │   ├── nasa_apod.py   # NASA images for episode art
-│   │   └── api.py         # Generic API (extensible)
+│   │   ├── api.py         # Generic API (extensible)
+│   │   └── images/        # Episode artwork providers
+│   │       ├── base.py    # Provider interface
+│   │       └── nasa.py    # NASA APOD + Image Library
 │   ├── writer.py          # AI script generation
 │   ├── tts.py             # OpenAI TTS synthesis
 │   ├── storage.py         # R2 upload

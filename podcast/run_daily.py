@@ -13,7 +13,7 @@ import yaml
 from .sources.base import filter_items, select_items, ContentItem
 from .sources.weather import fetch_weather, format_weather_for_script
 from .sources.rss import fetch_all_rss_sources
-from .sources.nasa_apod import get_apod_for_episode
+from .sources.images import get_episode_image
 from .writer import generate_script, generate_script_dry_run
 from .tts import synthesize_mp3, estimate_audio_duration
 from .storage import upload_mp3_to_r2, upload_transcript_to_r2, upload_image_to_r2, check_r2_connection
@@ -389,26 +389,26 @@ def run_pipeline(dry_run: bool = False, verbose: bool = False) -> bool:
             mp3_url = upload_mp3_to_r2(mp3_bytes, filename, config)
             print(f"  Uploaded to: {mp3_url}")
         
-        # Fetch NASA APOD for episode artwork and upload to R2
+        # Fetch episode artwork from configured provider and upload to R2
         episode_image_url = None
-        apod_data = get_apod_for_episode()
-        if apod_data:
-            nasa_image_url = apod_data.get("image_url")
-            print(f"  NASA APOD: {apod_data.get('image_title', 'N/A')}")
+        image_result = get_episode_image(config)
+        if image_result:
+            source_image_url = image_result.image_url
+            print(f"  Episode image: {image_result.title} ({image_result.source})")
             
             # Download and upload to R2 for persistence
-            if nasa_image_url and not dry_run:
+            if source_image_url and not dry_run:
                 try:
-                    print(f"  Downloading NASA image...")
-                    img_response = requests.get(nasa_image_url, timeout=30)
+                    print(f"  Downloading image...")
+                    img_response = requests.get(source_image_url, timeout=30)
                     img_response.raise_for_status()
                     
                     # Determine file extension from content type or URL
                     content_type = img_response.headers.get("Content-Type", "image/jpeg")
                     ext = "jpg"
-                    if "png" in content_type or nasa_image_url.endswith(".png"):
+                    if "png" in content_type or source_image_url.endswith(".png"):
                         ext = "png"
-                    elif "gif" in content_type or nasa_image_url.endswith(".gif"):
+                    elif "gif" in content_type or source_image_url.endswith(".gif"):
                         ext = "gif"
                     
                     image_filename = f"{today.strftime('%Y-%m-%d')}.{ext}"
@@ -420,12 +420,12 @@ def run_pipeline(dry_run: bool = False, verbose: bool = False) -> bool:
                     )
                     print(f"  Uploaded image to: {episode_image_url}")
                 except Exception as e:
-                    print(f"  Warning: Failed to upload NASA image to R2: {e}")
-                    episode_image_url = nasa_image_url  # Fallback to NASA URL
-            elif nasa_image_url and dry_run:
-                episode_image_url = nasa_image_url  # Use NASA URL directly in dry run
+                    print(f"  Warning: Failed to upload image to R2: {e}")
+                    episode_image_url = source_image_url  # Fallback to source URL
+            elif source_image_url and dry_run:
+                episode_image_url = source_image_url  # Use source URL directly in dry run
         else:
-            print("  NASA APOD: Not available (may be a video today)")
+            print("  Episode image: Not available")
         
         # Create episode metadata with show notes
         episode = create_episode_metadata(

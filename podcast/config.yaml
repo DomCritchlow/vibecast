@@ -211,6 +211,23 @@ sources:
     include_forecast: true
     forecast_days: 1
 
+  # --- Episode artwork ---
+  # Image shown for each episode in podcast apps
+  episode_image:
+    provider: "nasa"           # Options: nasa (more providers coming)
+    
+    # NASA-specific settings
+    nasa:
+      prefer: "apod"           # apod (daily astronomy photo), library (searchable archive), random
+      search_terms:            # Used when fetching from NASA Image Library
+        - "earth from space"
+        - "nebula"
+        - "galaxy"
+        - "aurora"
+        - "sunrise from space"
+        - "hubble"
+        - "james webb"
+
 # =============================================================================
 # CONTENT FILTERING
 # =============================================================================
