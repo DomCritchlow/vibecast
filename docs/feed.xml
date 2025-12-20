@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast with weather, inspiring stories, and a reason to get excited about today.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Dec 2025 04:36:50 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Dec 2025 04:29:32 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast with weather, inspiring stories, and a reason to get excited about today.</itunes:summary>
@@ -27,6 +27,94 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Morning Vibe — December 20, 2025</title>
+      <description><![CDATA[Good news to fuel your day for December 20, 2025.
+
+Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Stunning Crocheted Christmas Tree Helped Knit Together a Community of Extraordinary Women – LOOK
+   Source: Good News Network
+2. Wind-Sculpted Landscapes: Investigating the Martian Megaripple ‘Hazyview’
+   Source: NASA Breaking News
+3. NASA Johnson’s 2025 Milestones
+   Source: NASA Breaking News
+4. NASA's Perseverance Mars rover could break the record for miles driven on another planet
+   Source: Space.com
+5. Top 10 Friday Five Posts of 2025
+   Source: Design Milk
+6. What went right this week: the good news that matters
+   Source: Positive News
+
+REFERENCES:
+
+1. Stunning Crocheted Christmas Tree Helped Knit Together a Community of Extraordinary Women – LOOK
+   https://www.goodnewsnetwork.org/stunning-crocheted-christmas-tree-helped-knit-together-a-community-of-extraordinary-women-look/
+
+2. Wind-Sculpted Landscapes: Investigating the Martian Megaripple ‘Hazyview’
+   https://science.nasa.gov/blog/wind-sculpted-landscapes-investigating-the-martian-megaripple-hazyview/
+
+3. NASA Johnson’s 2025 Milestones
+   https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnsons-2025-milestones/
+
+4. NASA's Perseverance Mars rover could break the record for miles driven on another planet
+   https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-mars-rover-could-break-the-record-for-miles-driven-on-another-planet
+
+5. Top 10 Friday Five Posts of 2025
+   https://design-milk.com/top-10-friday-five-posts-of-2025/
+
+6. What went right this week: the good news that matters
+   https://www.positive.news/society/good-news-stories-from-week-51-of-2025/
+]]></description>
+      <pubDate>Sat, 20 Dec 2025 04:28:18 -0000</pubDate>
+      <guid isPermaLink="false">2025-12-20</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-20.mp3" length="5761440" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[Good news to fuel your day for December 20, 2025.
+
+Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Stunning Crocheted Christmas Tree Helped Knit Together a Community of Extraordinary Women – LOOK
+   Source: Good News Network
+2. Wind-Sculpted Landscapes: Investigating the Martian Megaripple ‘Hazyview’
+   Source: NASA Breaking News
+3. NASA Johnson’s 2025 Milestones
+   Source: NASA Breaking News
+4. NASA's Perseverance Mars rover could break the record for miles driven on another planet
+   Source: Space.com
+5. Top 10 Friday Five Posts of 2025
+   Source: Design Milk
+6. What went right this week: the good news that matters
+   Source: Positive News
+
+REFERENCES:
+
+1. Stunning Crocheted Christmas Tree Helped Knit Together a Community of Extraordinary Women – LOOK
+   https://www.goodnewsnetwork.org/stunning-crocheted-christmas-tree-helped-knit-together-a-community-of-extraordinary-women-look/
+
+2. Wind-Sculpted Landscapes: Investigating the Martian Megaripple ‘Hazyview’
+   https://science.nasa.gov/blog/wind-sculpted-landscapes-investigating-the-martian-megaripple-hazyview/
+
+3. NASA Johnson’s 2025 Milestones
+   https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnsons-2025-milestones/
+
+4. NASA's Perseverance Mars rover could break the record for miles driven on another planet
+   https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-mars-rover-could-break-the-record-for-miles-driven-on-another-planet
+
+5. Top 10 Friday Five Posts of 2025
+   https://design-milk.com/top-10-friday-five-posts-of-2025/
+
+6. What went right this week: the good news that matters
+   https://www.positive.news/society/good-news-stories-from-week-51-of-2025/
+]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:52</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/images/2025-12-20.png"/>
+    </item>
     <item>
       <title>Morning Vibe — December 19, 2025</title>
       <description><![CDATA[Good news to fuel your day for December 19, 2025.
@@ -113,7 +201,6 @@ REFERENCES:
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:56</itunes:duration>
-      <itunes:image href="https://images-assets.nasa.gov/image/PIA06580/PIA06580~thumb.jpg"/>
     </item>
     <item>
       <title>Morning Vibe — December 18, 2025</title>
