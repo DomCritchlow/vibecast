@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast with weather, inspiring stories, and a reason to get excited about today.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Dec 2025 04:29:32 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 04:39:40 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast with weather, inspiring stories, and a reason to get excited about today.</itunes:summary>
@@ -27,6 +27,94 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Morning Vibe — December 21, 2025</title>
+      <description><![CDATA[Good news to fuel your day for December 21, 2025.
+
+Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. This week on Dezeen we featured a coffee pot with a helical spiral base
+   Source: Dezeen
+2. Solar, reimagined: meet the bright minds pushing it into the future
+   Source: Positive News
+3. A vast oyster reef is about to transform the English coast
+   Source: Positive News
+4. Simply Shining Light on Skin Can Replace Finger Pricks for People With Diabetes
+   Source: Good News Network
+5. Microscopic ‘Christmas Tree’ is Remarkable Highlight of Science Project Comparing the Vast and Small
+   Source: Good News Network
+6. AI literacy resources for teens and parents
+   Source: OpenAI News
+
+REFERENCES:
+
+1. This week on Dezeen we featured a coffee pot with a helical spiral base
+   https://www.dezeen.com/2025/12/20/this-week-dezeen-coffee-pot-helical-spiral-base/
+
+2. Solar, reimagined: meet the bright minds pushing it into the future
+   https://www.positive.news/environment/solar-reimagined-meet-the-bright-minds-pushing-it-into-the-future/
+
+3. A vast oyster reef is about to transform the English coast
+   https://www.positive.news/environment/a-vast-oyster-reef-is-about-to-transform-the-english-coast/
+
+4. Simply Shining Light on Skin Can Replace Finger Pricks for People With Diabetes
+   https://www.goodnewsnetwork.org/simply-shining-light-on-skin-can-replace-finger-pricks-for-people-with-diabetes/
+
+5. Microscopic ‘Christmas Tree’ is Remarkable Highlight of Science Project Comparing the Vast and Small
+   https://www.goodnewsnetwork.org/microscopic-christmas-tree-is-remarkable-highlight-of-science-project-comparing-the-vast-and-small/
+
+6. AI literacy resources for teens and parents
+   https://openai.com/index/ai-literacy-resources-for-teens-and-parents
+]]></description>
+      <pubDate>Sun, 21 Dec 2025 04:38:37 -0000</pubDate>
+      <guid isPermaLink="false">2025-12-21</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-21.mp3" length="5356320" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[Good news to fuel your day for December 21, 2025.
+
+Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. This week on Dezeen we featured a coffee pot with a helical spiral base
+   Source: Dezeen
+2. Solar, reimagined: meet the bright minds pushing it into the future
+   Source: Positive News
+3. A vast oyster reef is about to transform the English coast
+   Source: Positive News
+4. Simply Shining Light on Skin Can Replace Finger Pricks for People With Diabetes
+   Source: Good News Network
+5. Microscopic ‘Christmas Tree’ is Remarkable Highlight of Science Project Comparing the Vast and Small
+   Source: Good News Network
+6. AI literacy resources for teens and parents
+   Source: OpenAI News
+
+REFERENCES:
+
+1. This week on Dezeen we featured a coffee pot with a helical spiral base
+   https://www.dezeen.com/2025/12/20/this-week-dezeen-coffee-pot-helical-spiral-base/
+
+2. Solar, reimagined: meet the bright minds pushing it into the future
+   https://www.positive.news/environment/solar-reimagined-meet-the-bright-minds-pushing-it-into-the-future/
+
+3. A vast oyster reef is about to transform the English coast
+   https://www.positive.news/environment/a-vast-oyster-reef-is-about-to-transform-the-english-coast/
+
+4. Simply Shining Light on Skin Can Replace Finger Pricks for People With Diabetes
+   https://www.goodnewsnetwork.org/simply-shining-light-on-skin-can-replace-finger-pricks-for-people-with-diabetes/
+
+5. Microscopic ‘Christmas Tree’ is Remarkable Highlight of Science Project Comparing the Vast and Small
+   https://www.goodnewsnetwork.org/microscopic-christmas-tree-is-remarkable-highlight-of-science-project-comparing-the-vast-and-small/
+
+6. AI literacy resources for teens and parents
+   https://openai.com/index/ai-literacy-resources-for-teens-and-parents
+]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:30</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/images/2025-12-21.jpg"/>
+    </item>
     <item>
       <title>Morning Vibe — December 20, 2025</title>
       <description><![CDATA[Good news to fuel your day for December 20, 2025.
@@ -113,7 +201,6 @@ REFERENCES:
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:52</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/images/2025-12-20.png"/>
     </item>
     <item>
       <title>Morning Vibe — December 19, 2025</title>
