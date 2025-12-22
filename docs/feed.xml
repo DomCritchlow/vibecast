@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast with weather, inspiring stories, and a reason to get excited about today.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Dec 2025 04:39:40 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 04:42:52 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast with weather, inspiring stories, and a reason to get excited about today.</itunes:summary>
@@ -27,6 +27,94 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Morning Vibe — December 22, 2025</title>
+      <description><![CDATA[Good news to fuel your day for December 22, 2025.
+
+Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Show HN: Eze – AI startup roadmap co‑pilot (Day 2 update)
+   Source: Hacker News (AI filtered)
+2. Show HN: Spring AI Playground – No-code MCP tool studio and agentic chat
+   Source: Hacker News (AI filtered)
+3. Starship success, a private moon landing and more: The top 10 spaceflight stories of 2025
+   Source: Space.com
+4. What went right this week: treating the ‘untreatable’, plus more
+   Source: Positive News
+5. Abandoned oil refineries are becoming unlikely havens for wildlife
+   Source: Positive News
+6. Fussy Girl Overcomes Vegetable Phobia and Now Loves Brussels Sprouts Thanks to Eating Disorder Specialist
+   Source: Good News Network
+
+REFERENCES:
+
+1. Show HN: Eze – AI startup roadmap co‑pilot (Day 2 update)
+   https://eze.lovable.app/
+
+2. Show HN: Spring AI Playground – No-code MCP tool studio and agentic chat
+   https://github.com/spring-ai-community/spring-ai-playground
+
+3. Starship success, a private moon landing and more: The top 10 spaceflight stories of 2025
+   https://www.space.com/space-exploration/starship-success-a-private-moon-landing-and-more-the-top-10-spaceflight-stories-of-2025
+
+4. What went right this week: treating the ‘untreatable’, plus more
+   https://www.positive.news/society/good-news-stories-from-week-50-of-2025/
+
+5. Abandoned oil refineries are becoming unlikely havens for wildlife
+   https://www.positive.news/environment/abandoned-oil-refineries-are-becoming-unlikely-havens-for-wildlife/
+
+6. Fussy Girl Overcomes Vegetable Phobia and Now Loves Brussels Sprouts Thanks to Eating Disorder Specialist
+   https://www.goodnewsnetwork.org/fussy-girl-overcomes-vegetable-phobia-and-now-loves-brussels-sprouts-thanks-to-specialist/
+]]></description>
+      <pubDate>Mon, 22 Dec 2025 04:42:08 -0000</pubDate>
+      <guid isPermaLink="false">2025-12-22</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-22.mp3" length="5467200" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[Good news to fuel your day for December 22, 2025.
+
+Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Show HN: Eze – AI startup roadmap co‑pilot (Day 2 update)
+   Source: Hacker News (AI filtered)
+2. Show HN: Spring AI Playground – No-code MCP tool studio and agentic chat
+   Source: Hacker News (AI filtered)
+3. Starship success, a private moon landing and more: The top 10 spaceflight stories of 2025
+   Source: Space.com
+4. What went right this week: treating the ‘untreatable’, plus more
+   Source: Positive News
+5. Abandoned oil refineries are becoming unlikely havens for wildlife
+   Source: Positive News
+6. Fussy Girl Overcomes Vegetable Phobia and Now Loves Brussels Sprouts Thanks to Eating Disorder Specialist
+   Source: Good News Network
+
+REFERENCES:
+
+1. Show HN: Eze – AI startup roadmap co‑pilot (Day 2 update)
+   https://eze.lovable.app/
+
+2. Show HN: Spring AI Playground – No-code MCP tool studio and agentic chat
+   https://github.com/spring-ai-community/spring-ai-playground
+
+3. Starship success, a private moon landing and more: The top 10 spaceflight stories of 2025
+   https://www.space.com/space-exploration/starship-success-a-private-moon-landing-and-more-the-top-10-spaceflight-stories-of-2025
+
+4. What went right this week: treating the ‘untreatable’, plus more
+   https://www.positive.news/society/good-news-stories-from-week-50-of-2025/
+
+5. Abandoned oil refineries are becoming unlikely havens for wildlife
+   https://www.positive.news/environment/abandoned-oil-refineries-are-becoming-unlikely-havens-for-wildlife/
+
+6. Fussy Girl Overcomes Vegetable Phobia and Now Loves Brussels Sprouts Thanks to Eating Disorder Specialist
+   https://www.goodnewsnetwork.org/fussy-girl-overcomes-vegetable-phobia-and-now-loves-brussels-sprouts-thanks-to-specialist/
+]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:45</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/images/2025-12-22.jpg"/>
+    </item>
     <item>
       <title>Morning Vibe — December 21, 2025</title>
       <description><![CDATA[Good news to fuel your day for December 21, 2025.
@@ -113,7 +201,6 @@ REFERENCES:
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:30</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/images/2025-12-21.jpg"/>
     </item>
     <item>
       <title>Morning Vibe — December 20, 2025</title>

@@ -1,11 +1,5 @@
 {
   "used_urls": [
-    "https://www.goodnewsnetwork.org/events061214/",
-    "https://www.goodnewsnetwork.org/photographer-captures-incredible-luminous-event-over-his-town-for-2nd-time/",
-    "https://www.positive.news/society/good-news-stories-from-week-50-of-2025/",
-    "https://www.positive.news/environment/abandoned-oil-refineries-are-becoming-unlikely-havens-for-wildlife/",
-    "https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-to-discuss-eight-month-space-station-mission/",
-    "https://science.nasa.gov/missions/webb/nasas-webb-curiosity-named-in-times-best-inventions-hall-of-fame/",
     "https://www.goodnewsnetwork.org/he-carries-shelter-dogs-around-the-city-in-a-backpack-to-help-get-them-adopted/",
     "https://www.goodnewsnetwork.org/30000-animals-rescued-from-illegal-captivity-in-the-largest-wildlife-trafficking-raid-in-history/",
     "https://www.positive.news/lifestyle/sport/tech-opens-cricket-to-blind-and-partially-sighted-fans/",
@@ -48,15 +42,15 @@
     "https://www.positive.news/environment/a-vast-oyster-reef-is-about-to-transform-the-english-coast/",
     "https://www.goodnewsnetwork.org/simply-shining-light-on-skin-can-replace-finger-pricks-for-people-with-diabetes/",
     "https://www.goodnewsnetwork.org/microscopic-christmas-tree-is-remarkable-highlight-of-science-project-comparing-the-vast-and-small/",
-    "https://openai.com/index/ai-literacy-resources-for-teens-and-parents"
+    "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
+    "https://eze.lovable.app/",
+    "https://github.com/spring-ai-community/spring-ai-playground",
+    "https://www.space.com/space-exploration/starship-success-a-private-moon-landing-and-more-the-top-10-spaceflight-stories-of-2025",
+    "https://www.positive.news/society/good-news-stories-from-week-50-of-2025/",
+    "https://www.positive.news/environment/abandoned-oil-refineries-are-becoming-unlikely-havens-for-wildlife/",
+    "https://www.goodnewsnetwork.org/fussy-girl-overcomes-vegetable-phobia-and-now-loves-brussels-sprouts-thanks-to-specialist/"
   ],
   "url_timestamps": {
-    "https://www.goodnewsnetwork.org/events061214/": "2025-12-14T12:23:52.700857",
-    "https://www.goodnewsnetwork.org/photographer-captures-incredible-luminous-event-over-his-town-for-2nd-time/": "2025-12-14T12:23:52.700857",
-    "https://www.positive.news/society/good-news-stories-from-week-50-of-2025/": "2025-12-14T12:23:52.700857",
-    "https://www.positive.news/environment/abandoned-oil-refineries-are-becoming-unlikely-havens-for-wildlife/": "2025-12-14T12:23:52.700857",
-    "https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-to-discuss-eight-month-space-station-mission/": "2025-12-14T12:23:52.700857",
-    "https://science.nasa.gov/missions/webb/nasas-webb-curiosity-named-in-times-best-inventions-hall-of-fame/": "2025-12-14T12:23:52.700857",
     "https://www.goodnewsnetwork.org/he-carries-shelter-dogs-around-the-city-in-a-backpack-to-help-get-them-adopted/": "2025-12-15T04:42:26.714597",
     "https://www.goodnewsnetwork.org/30000-animals-rescued-from-illegal-captivity-in-the-largest-wildlife-trafficking-raid-in-history/": "2025-12-15T12:46:43.561638",
     "https://www.positive.news/lifestyle/sport/tech-opens-cricket-to-blind-and-partially-sighted-fans/": "2025-12-15T12:46:43.561638",
@@ -99,7 +93,13 @@
     "https://www.positive.news/environment/a-vast-oyster-reef-is-about-to-transform-the-english-coast/": "2025-12-21T04:39:40.553107",
     "https://www.goodnewsnetwork.org/simply-shining-light-on-skin-can-replace-finger-pricks-for-people-with-diabetes/": "2025-12-21T04:39:40.553107",
     "https://www.goodnewsnetwork.org/microscopic-christmas-tree-is-remarkable-highlight-of-science-project-comparing-the-vast-and-small/": "2025-12-21T04:39:40.553107",
-    "https://openai.com/index/ai-literacy-resources-for-teens-and-parents": "2025-12-21T04:39:40.553107"
+    "https://openai.com/index/ai-literacy-resources-for-teens-and-parents": "2025-12-21T04:39:40.553107",
+    "https://eze.lovable.app/": "2025-12-22T04:42:52.824261",
+    "https://github.com/spring-ai-community/spring-ai-playground": "2025-12-22T04:42:52.824261",
+    "https://www.space.com/space-exploration/starship-success-a-private-moon-landing-and-more-the-top-10-spaceflight-stories-of-2025": "2025-12-22T04:42:52.824261",
+    "https://www.positive.news/society/good-news-stories-from-week-50-of-2025/": "2025-12-22T04:42:52.824261",
+    "https://www.positive.news/environment/abandoned-oil-refineries-are-becoming-unlikely-havens-for-wildlife/": "2025-12-22T04:42:52.824261",
+    "https://www.goodnewsnetwork.org/fussy-girl-overcomes-vegetable-phobia-and-now-loves-brussels-sprouts-thanks-to-specialist/": "2025-12-22T04:42:52.824261"
   },
-  "last_run": "2025-12-21T04:39:40.553107"
+  "last_run": "2025-12-22T04:42:52.824261"
 }
