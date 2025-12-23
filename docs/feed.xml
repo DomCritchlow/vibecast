@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast with weather, inspiring stories, and a reason to get excited about today.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Dec 2025 04:42:52 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 04:40:19 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast with weather, inspiring stories, and a reason to get excited about today.</itunes:summary>
@@ -27,6 +27,94 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Morning Vibe — December 23, 2025</title>
+      <description><![CDATA[Good news to fuel your day for December 23, 2025.
+
+Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. Sentinel-6B Extends Global Ocean Height Record
+   Source: NASA Breaking News
+2. Over 600 Lakes, Ponds, Reservoirs Restored Across the Whole of India by Divinely-Inspired Nonprofit
+   Source: Good News Network
+3. Massive ‘Shovel-Ready’ Critical Minerals Deposit Found in Utah–Largest Potentially in North America
+   Source: Good News Network
+4. Keeping Up with PACE: Summary of the 2025 PAC3 Meeting
+   Source: NASA Breaking News
+5. Rocket Lab launches final mission of 2025, sends Japanese Earth-observing satellite to orbit (video)
+   Source: Space.com
+6. Colourful restaurant Motorino offers peek into neighbouring Fitzrovia chapel
+   Source: Dezeen
+
+REFERENCES:
+
+1. Sentinel-6B Extends Global Ocean Height Record
+   https://science.nasa.gov/science-research/earth-science/sentinel-6b-extends-global-ocean-height-record/
+
+2. Over 600 Lakes, Ponds, Reservoirs Restored Across the Whole of India by Divinely-Inspired Nonprofit
+   https://www.goodnewsnetwork.org/over-600-lakes-ponds-reservoirs-restored-across-the-whole-of-india-by-divinely-inspired-nonprofit/
+
+3. Massive ‘Shovel-Ready’ Critical Minerals Deposit Found in Utah–Largest Potentially in North America
+   https://www.goodnewsnetwork.org/massive-shovel-ready-critical-minerals-deposit-found-in-utah-largest-potentially-in-north-america/
+
+4. Keeping Up with PACE: Summary of the 2025 PAC3 Meeting
+   https://science.nasa.gov/science-research/earth-science/keeping-up-with-pace-summary-of-the-2025-pac3-meeting/
+
+5. Rocket Lab launches final mission of 2025, sends Japanese Earth-observing satellite to orbit (video)
+   https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-final-mission-of-2025-sends-japanese-earth-observing-satellite-to-orbit-video
+
+6. Colourful restaurant Motorino offers peek into neighbouring Fitzrovia chapel
+   https://www.dezeen.com/2025/12/22/motorino-restaurant-peek-neighbouring-fitzrovia-chapel/
+]]></description>
+      <pubDate>Tue, 23 Dec 2025 04:39:07 -0000</pubDate>
+      <guid isPermaLink="false">2025-12-23</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-23.mp3" length="5550720" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[Good news to fuel your day for December 23, 2025.
+
+Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. Sentinel-6B Extends Global Ocean Height Record
+   Source: NASA Breaking News
+2. Over 600 Lakes, Ponds, Reservoirs Restored Across the Whole of India by Divinely-Inspired Nonprofit
+   Source: Good News Network
+3. Massive ‘Shovel-Ready’ Critical Minerals Deposit Found in Utah–Largest Potentially in North America
+   Source: Good News Network
+4. Keeping Up with PACE: Summary of the 2025 PAC3 Meeting
+   Source: NASA Breaking News
+5. Rocket Lab launches final mission of 2025, sends Japanese Earth-observing satellite to orbit (video)
+   Source: Space.com
+6. Colourful restaurant Motorino offers peek into neighbouring Fitzrovia chapel
+   Source: Dezeen
+
+REFERENCES:
+
+1. Sentinel-6B Extends Global Ocean Height Record
+   https://science.nasa.gov/science-research/earth-science/sentinel-6b-extends-global-ocean-height-record/
+
+2. Over 600 Lakes, Ponds, Reservoirs Restored Across the Whole of India by Divinely-Inspired Nonprofit
+   https://www.goodnewsnetwork.org/over-600-lakes-ponds-reservoirs-restored-across-the-whole-of-india-by-divinely-inspired-nonprofit/
+
+3. Massive ‘Shovel-Ready’ Critical Minerals Deposit Found in Utah–Largest Potentially in North America
+   https://www.goodnewsnetwork.org/massive-shovel-ready-critical-minerals-deposit-found-in-utah-largest-potentially-in-north-america/
+
+4. Keeping Up with PACE: Summary of the 2025 PAC3 Meeting
+   https://science.nasa.gov/science-research/earth-science/keeping-up-with-pace-summary-of-the-2025-pac3-meeting/
+
+5. Rocket Lab launches final mission of 2025, sends Japanese Earth-observing satellite to orbit (video)
+   https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-final-mission-of-2025-sends-japanese-earth-observing-satellite-to-orbit-video
+
+6. Colourful restaurant Motorino offers peek into neighbouring Fitzrovia chapel
+   https://www.dezeen.com/2025/12/22/motorino-restaurant-peek-neighbouring-fitzrovia-chapel/
+]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:29</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/images/2025-12-23.jpg"/>
+    </item>
     <item>
       <title>Morning Vibe — December 22, 2025</title>
       <description><![CDATA[Good news to fuel your day for December 22, 2025.
@@ -113,7 +201,6 @@ REFERENCES:
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:45</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/images/2025-12-22.jpg"/>
     </item>
     <item>
       <title>Morning Vibe — December 21, 2025</title>

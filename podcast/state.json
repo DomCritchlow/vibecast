@@ -1,12 +1,5 @@
 {
   "used_urls": [
-    "https://www.goodnewsnetwork.org/he-carries-shelter-dogs-around-the-city-in-a-backpack-to-help-get-them-adopted/",
-    "https://www.goodnewsnetwork.org/30000-animals-rescued-from-illegal-captivity-in-the-largest-wildlife-trafficking-raid-in-history/",
-    "https://www.positive.news/lifestyle/sport/tech-opens-cricket-to-blind-and-partially-sighted-fans/",
-    "https://www.goodnewsnetwork.org/events061215/",
-    "https://openai.com/index/bny",
-    "https://openai.com/index/shipping-sora-for-android-with-codex",
-    "https://its.promp.td/the-ai-bubble-slow-hiss-or-big-bang/",
     "https://openai.com/index/ten-years",
     "https://openai.com/index/strengthening-cyber-resilience",
     "http://www.ny1.com/nyc/all-boroughs/politics/2025/04/22/anti-defamation-league-says-anger-at-israel-is-now-the-driving-force-behind-antisemitism-in-the-u-s-",
@@ -48,16 +41,15 @@
     "https://www.space.com/space-exploration/starship-success-a-private-moon-landing-and-more-the-top-10-spaceflight-stories-of-2025",
     "https://www.positive.news/society/good-news-stories-from-week-50-of-2025/",
     "https://www.positive.news/environment/abandoned-oil-refineries-are-becoming-unlikely-havens-for-wildlife/",
-    "https://www.goodnewsnetwork.org/fussy-girl-overcomes-vegetable-phobia-and-now-loves-brussels-sprouts-thanks-to-specialist/"
+    "https://www.goodnewsnetwork.org/fussy-girl-overcomes-vegetable-phobia-and-now-loves-brussels-sprouts-thanks-to-specialist/",
+    "https://science.nasa.gov/science-research/earth-science/sentinel-6b-extends-global-ocean-height-record/",
+    "https://www.goodnewsnetwork.org/over-600-lakes-ponds-reservoirs-restored-across-the-whole-of-india-by-divinely-inspired-nonprofit/",
+    "https://www.goodnewsnetwork.org/massive-shovel-ready-critical-minerals-deposit-found-in-utah-largest-potentially-in-north-america/",
+    "https://science.nasa.gov/science-research/earth-science/keeping-up-with-pace-summary-of-the-2025-pac3-meeting/",
+    "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-final-mission-of-2025-sends-japanese-earth-observing-satellite-to-orbit-video",
+    "https://www.dezeen.com/2025/12/22/motorino-restaurant-peek-neighbouring-fitzrovia-chapel/"
   ],
   "url_timestamps": {
-    "https://www.goodnewsnetwork.org/he-carries-shelter-dogs-around-the-city-in-a-backpack-to-help-get-them-adopted/": "2025-12-15T04:42:26.714597",
-    "https://www.goodnewsnetwork.org/30000-animals-rescued-from-illegal-captivity-in-the-largest-wildlife-trafficking-raid-in-history/": "2025-12-15T12:46:43.561638",
-    "https://www.positive.news/lifestyle/sport/tech-opens-cricket-to-blind-and-partially-sighted-fans/": "2025-12-15T12:46:43.561638",
-    "https://www.goodnewsnetwork.org/events061215/": "2025-12-15T12:46:43.561638",
-    "https://openai.com/index/bny": "2025-12-15T12:46:43.561638",
-    "https://openai.com/index/shipping-sora-for-android-with-codex": "2025-12-15T12:46:43.561638",
-    "https://its.promp.td/the-ai-bubble-slow-hiss-or-big-bang/": "2025-12-15T12:46:43.561638",
     "https://openai.com/index/ten-years": "2025-12-16T06:09:11.836506",
     "https://openai.com/index/strengthening-cyber-resilience": "2025-12-16T06:09:11.836506",
     "http://www.ny1.com/nyc/all-boroughs/politics/2025/04/22/anti-defamation-league-says-anger-at-israel-is-now-the-driving-force-behind-antisemitism-in-the-u-s-": "2025-12-16T06:09:11.836506",
@@ -99,7 +91,13 @@
     "https://www.space.com/space-exploration/starship-success-a-private-moon-landing-and-more-the-top-10-spaceflight-stories-of-2025": "2025-12-22T04:42:52.824261",
     "https://www.positive.news/society/good-news-stories-from-week-50-of-2025/": "2025-12-22T04:42:52.824261",
     "https://www.positive.news/environment/abandoned-oil-refineries-are-becoming-unlikely-havens-for-wildlife/": "2025-12-22T04:42:52.824261",
-    "https://www.goodnewsnetwork.org/fussy-girl-overcomes-vegetable-phobia-and-now-loves-brussels-sprouts-thanks-to-specialist/": "2025-12-22T04:42:52.824261"
+    "https://www.goodnewsnetwork.org/fussy-girl-overcomes-vegetable-phobia-and-now-loves-brussels-sprouts-thanks-to-specialist/": "2025-12-22T04:42:52.824261",
+    "https://science.nasa.gov/science-research/earth-science/sentinel-6b-extends-global-ocean-height-record/": "2025-12-23T04:40:19.028917",
+    "https://www.goodnewsnetwork.org/over-600-lakes-ponds-reservoirs-restored-across-the-whole-of-india-by-divinely-inspired-nonprofit/": "2025-12-23T04:40:19.028917",
+    "https://www.goodnewsnetwork.org/massive-shovel-ready-critical-minerals-deposit-found-in-utah-largest-potentially-in-north-america/": "2025-12-23T04:40:19.028917",
+    "https://science.nasa.gov/science-research/earth-science/keeping-up-with-pace-summary-of-the-2025-pac3-meeting/": "2025-12-23T04:40:19.028917",
+    "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-final-mission-of-2025-sends-japanese-earth-observing-satellite-to-orbit-video": "2025-12-23T04:40:19.028917",
+    "https://www.dezeen.com/2025/12/22/motorino-restaurant-peek-neighbouring-fitzrovia-chapel/": "2025-12-23T04:40:19.028917"
   },
-  "last_run": "2025-12-22T04:42:52.824261"
+  "last_run": "2025-12-23T04:40:19.028917"
 }
