@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast with weather, inspiring stories, and a reason to get excited about today.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Dec 2025 04:40:19 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 04:38:28 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast with weather, inspiring stories, and a reason to get excited about today.</itunes:summary>
@@ -27,6 +27,94 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Morning Vibe — December 24, 2025</title>
+      <description><![CDATA[Good news to fuel your day for December 24, 2025.
+
+Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Indian rocket launches record-breaking BlueBird 6 smartphone satellite to orbit
+   Source: Space.com
+2. A season of solidarity: eight projects empowering people this Christmas
+   Source: Positive News
+3. Good News in History, December 23
+   Source: Good News Network
+4. NASA Astronaut Nick Hague Retires
+   Source: NASA Breaking News
+5. NASA, Partners Share First Data From New US-European Sea Satellite
+   Source: NASA JPL News
+6. Accessible community centre among projects from Ajman University
+   Source: Dezeen
+
+REFERENCES:
+
+1. Indian rocket launches record-breaking BlueBird 6 smartphone satellite to orbit
+   https://www.space.com/space-exploration/launches-spacecraft/indian-rocket-launch-bluebird-6-satellite-ast-spacemobile
+
+2. A season of solidarity: eight projects empowering people this Christmas
+   https://www.positive.news/society/a-season-of-solidarity-8-grassroots-ideas-powering-christmas-2025/
+
+3. Good News in History, December 23
+   https://www.goodnewsnetwork.org/events061223/
+
+4. NASA Astronaut Nick Hague Retires
+   https://www.nasa.gov/news-release/nasa-astronaut-nick-hague-retires/
+
+5. NASA, Partners Share First Data From New US-European Sea Satellite
+   https://www.jpl.nasa.gov/news/nasa-partners-share-first-data-from-new-us-european-sea-satellite
+
+6. Accessible community centre among projects from Ajman University
+   https://www.dezeen.com/2025/12/23/accessible-community-centre-ajman-university-schoolshows/
+]]></description>
+      <pubDate>Wed, 24 Dec 2025 04:37:13 -0000</pubDate>
+      <guid isPermaLink="false">2025-12-24</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-24.mp3" length="6013440" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[Good news to fuel your day for December 24, 2025.
+
+Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Indian rocket launches record-breaking BlueBird 6 smartphone satellite to orbit
+   Source: Space.com
+2. A season of solidarity: eight projects empowering people this Christmas
+   Source: Positive News
+3. Good News in History, December 23
+   Source: Good News Network
+4. NASA Astronaut Nick Hague Retires
+   Source: NASA Breaking News
+5. NASA, Partners Share First Data From New US-European Sea Satellite
+   Source: NASA JPL News
+6. Accessible community centre among projects from Ajman University
+   Source: Dezeen
+
+REFERENCES:
+
+1. Indian rocket launches record-breaking BlueBird 6 smartphone satellite to orbit
+   https://www.space.com/space-exploration/launches-spacecraft/indian-rocket-launch-bluebird-6-satellite-ast-spacemobile
+
+2. A season of solidarity: eight projects empowering people this Christmas
+   https://www.positive.news/society/a-season-of-solidarity-8-grassroots-ideas-powering-christmas-2025/
+
+3. Good News in History, December 23
+   https://www.goodnewsnetwork.org/events061223/
+
+4. NASA Astronaut Nick Hague Retires
+   https://www.nasa.gov/news-release/nasa-astronaut-nick-hague-retires/
+
+5. NASA, Partners Share First Data From New US-European Sea Satellite
+   https://www.jpl.nasa.gov/news/nasa-partners-share-first-data-from-new-us-european-sea-satellite
+
+6. Accessible community centre among projects from Ajman University
+   https://www.dezeen.com/2025/12/23/accessible-community-centre-ajman-university-schoolshows/
+]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>5:01</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/images/2025-12-24.jpg"/>
+    </item>
     <item>
       <title>Morning Vibe — December 23, 2025</title>
       <description><![CDATA[Good news to fuel your day for December 23, 2025.
@@ -113,7 +201,6 @@ REFERENCES:
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:29</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/images/2025-12-23.jpg"/>
     </item>
     <item>
       <title>Morning Vibe — December 22, 2025</title>
