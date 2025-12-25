@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast with weather, inspiring stories, and a reason to get excited about today.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Dec 2025 04:38:28 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Dec 2025 04:40:06 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast with weather, inspiring stories, and a reason to get excited about today.</itunes:summary>
@@ -27,6 +27,94 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Morning Vibe — December 25, 2025</title>
+      <description><![CDATA[Good news to fuel your day for December 25, 2025.
+
+Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. The biggest black hole breakthroughs of 2025
+   Source: Space.com
+2. BYBORRE and Hollis+Morris Collaborate + Innovate to Present Knit Series
+   Source: Design Milk
+3. Anti-Defamation League says anger at Israel is now the driving force behind antisemitism in the U.S.
+   Source: NY1 Politics
+4. What went right in 2025: the top 25 good news stories of the year
+   Source: Positive News
+5. Spit-up, stand-up: the comedy clubs for mums (and babies too)
+   Source: Positive News
+6. Endangered Chick Appears in ‘Christmas Miracle’ Hatching to Parents Thought Infertile
+   Source: Good News Network
+
+REFERENCES:
+
+1. The biggest black hole breakthroughs of 2025
+   https://www.space.com/astronomy/black-holes/the-biggest-black-hole-breakthroughs-of-2025
+
+2. BYBORRE and Hollis+Morris Collaborate + Innovate to Present Knit Series
+   https://design-milk.com/byborre-and-hollismorris-collaborate-innovate-to-present-knit-series/
+
+3. Anti-Defamation League says anger at Israel is now the driving force behind antisemitism in the U.S.
+   http://www.ny1.com/nyc/all-boroughs/politics/2025/04/22/anti-defamation-league-says-anger-at-israel-is-now-the-driving-force-behind-antisemitism-in-the-u-s-
+
+4. What went right in 2025: the top 25 good news stories of the year
+   https://www.positive.news/society/what-went-right-in-2025-the-good-news-that-mattered/
+
+5. Spit-up, stand-up: the comedy clubs for mums (and babies too)
+   https://www.positive.news/society/spit-up-stand-up-the-comedy-clubs-for-mums-and-babies-too/
+
+6. Endangered Chick Appears in ‘Christmas Miracle’ Hatching to Parents Thought Infertile
+   https://www.goodnewsnetwork.org/endangered-chick-appears-in-christmas-miracle-hatching-to-parents-thought-infertile/
+]]></description>
+      <pubDate>Thu, 25 Dec 2025 04:39:03 -0000</pubDate>
+      <guid isPermaLink="false">2025-12-25</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-25.mp3" length="5368800" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[Good news to fuel your day for December 25, 2025.
+
+Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. The biggest black hole breakthroughs of 2025
+   Source: Space.com
+2. BYBORRE and Hollis+Morris Collaborate + Innovate to Present Knit Series
+   Source: Design Milk
+3. Anti-Defamation League says anger at Israel is now the driving force behind antisemitism in the U.S.
+   Source: NY1 Politics
+4. What went right in 2025: the top 25 good news stories of the year
+   Source: Positive News
+5. Spit-up, stand-up: the comedy clubs for mums (and babies too)
+   Source: Positive News
+6. Endangered Chick Appears in ‘Christmas Miracle’ Hatching to Parents Thought Infertile
+   Source: Good News Network
+
+REFERENCES:
+
+1. The biggest black hole breakthroughs of 2025
+   https://www.space.com/astronomy/black-holes/the-biggest-black-hole-breakthroughs-of-2025
+
+2. BYBORRE and Hollis+Morris Collaborate + Innovate to Present Knit Series
+   https://design-milk.com/byborre-and-hollismorris-collaborate-innovate-to-present-knit-series/
+
+3. Anti-Defamation League says anger at Israel is now the driving force behind antisemitism in the U.S.
+   http://www.ny1.com/nyc/all-boroughs/politics/2025/04/22/anti-defamation-league-says-anger-at-israel-is-now-the-driving-force-behind-antisemitism-in-the-u-s-
+
+4. What went right in 2025: the top 25 good news stories of the year
+   https://www.positive.news/society/what-went-right-in-2025-the-good-news-that-mattered/
+
+5. Spit-up, stand-up: the comedy clubs for mums (and babies too)
+   https://www.positive.news/society/spit-up-stand-up-the-comedy-clubs-for-mums-and-babies-too/
+
+6. Endangered Chick Appears in ‘Christmas Miracle’ Hatching to Parents Thought Infertile
+   https://www.goodnewsnetwork.org/endangered-chick-appears-in-christmas-miracle-hatching-to-parents-thought-infertile/
+]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:33</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/images/2025-12-25.jpg"/>
+    </item>
     <item>
       <title>Morning Vibe — December 24, 2025</title>
       <description><![CDATA[Good news to fuel your day for December 24, 2025.
@@ -113,7 +201,6 @@ REFERENCES:
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>5:01</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/images/2025-12-24.jpg"/>
     </item>
     <item>
       <title>Morning Vibe — December 23, 2025</title>

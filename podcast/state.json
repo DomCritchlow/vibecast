@@ -1,11 +1,5 @@
 {
   "used_urls": [
-    "https://www.goodnewsnetwork.org/trashed-panda-story-raises-180000-for-animal-shelter-that-discovered-it-drunk-in-the-bathroom/",
-    "https://www.goodnewsnetwork.org/events061217/",
-    "https://www.nasa.gov/centers-and-facilities/langley/nasa-langley-research-center-2025-year-in-review/",
-    "https://www.space.com/astronomy/mars/nasa-mars-reconnaissance-orbiter-hirise-camera-100000-photos",
-    "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-99-ksc-jrti-15-13-vsfb-ocisly",
-    "https://www.dezeen.com/2025/12/17/creative-community-centre-monash-university-schoolshows/",
     "https://www.goodnewsnetwork.org/events061218/",
     "https://science.nasa.gov/missions/hubble/nasas-hubble-sees-asteroids-colliding-at-nearby-star-for-first-time/",
     "https://www.nasa.gov/aeronautics/nasa-boeing-test-aircraft-wings/",
@@ -41,15 +35,15 @@
     "https://www.goodnewsnetwork.org/events061223/",
     "https://www.nasa.gov/news-release/nasa-astronaut-nick-hague-retires/",
     "https://www.jpl.nasa.gov/news/nasa-partners-share-first-data-from-new-us-european-sea-satellite",
-    "https://www.dezeen.com/2025/12/23/accessible-community-centre-ajman-university-schoolshows/"
+    "https://www.dezeen.com/2025/12/23/accessible-community-centre-ajman-university-schoolshows/",
+    "https://www.space.com/astronomy/black-holes/the-biggest-black-hole-breakthroughs-of-2025",
+    "https://design-milk.com/byborre-and-hollismorris-collaborate-innovate-to-present-knit-series/",
+    "http://www.ny1.com/nyc/all-boroughs/politics/2025/04/22/anti-defamation-league-says-anger-at-israel-is-now-the-driving-force-behind-antisemitism-in-the-u-s-",
+    "https://www.positive.news/society/what-went-right-in-2025-the-good-news-that-mattered/",
+    "https://www.positive.news/society/spit-up-stand-up-the-comedy-clubs-for-mums-and-babies-too/",
+    "https://www.goodnewsnetwork.org/endangered-chick-appears-in-christmas-miracle-hatching-to-parents-thought-infertile/"
   ],
   "url_timestamps": {
-    "https://www.goodnewsnetwork.org/trashed-panda-story-raises-180000-for-animal-shelter-that-discovered-it-drunk-in-the-bathroom/": "2025-12-18T04:37:14.350971",
-    "https://www.goodnewsnetwork.org/events061217/": "2025-12-18T04:37:14.350971",
-    "https://www.nasa.gov/centers-and-facilities/langley/nasa-langley-research-center-2025-year-in-review/": "2025-12-18T04:37:14.350971",
-    "https://www.space.com/astronomy/mars/nasa-mars-reconnaissance-orbiter-hirise-camera-100000-photos": "2025-12-18T04:37:14.350971",
-    "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-99-ksc-jrti-15-13-vsfb-ocisly": "2025-12-18T04:37:14.350971",
-    "https://www.dezeen.com/2025/12/17/creative-community-centre-monash-university-schoolshows/": "2025-12-18T04:37:14.350971",
     "https://www.goodnewsnetwork.org/events061218/": "2025-12-19T04:36:50.289290",
     "https://science.nasa.gov/missions/hubble/nasas-hubble-sees-asteroids-colliding-at-nearby-star-for-first-time/": "2025-12-19T04:36:50.289290",
     "https://www.nasa.gov/aeronautics/nasa-boeing-test-aircraft-wings/": "2025-12-19T04:36:50.289290",
@@ -85,7 +79,13 @@
     "https://www.goodnewsnetwork.org/events061223/": "2025-12-24T04:38:28.396638",
     "https://www.nasa.gov/news-release/nasa-astronaut-nick-hague-retires/": "2025-12-24T04:38:28.396638",
     "https://www.jpl.nasa.gov/news/nasa-partners-share-first-data-from-new-us-european-sea-satellite": "2025-12-24T04:38:28.396638",
-    "https://www.dezeen.com/2025/12/23/accessible-community-centre-ajman-university-schoolshows/": "2025-12-24T04:38:28.396638"
+    "https://www.dezeen.com/2025/12/23/accessible-community-centre-ajman-university-schoolshows/": "2025-12-24T04:38:28.396638",
+    "https://www.space.com/astronomy/black-holes/the-biggest-black-hole-breakthroughs-of-2025": "2025-12-25T04:40:06.561592",
+    "https://design-milk.com/byborre-and-hollismorris-collaborate-innovate-to-present-knit-series/": "2025-12-25T04:40:06.561592",
+    "http://www.ny1.com/nyc/all-boroughs/politics/2025/04/22/anti-defamation-league-says-anger-at-israel-is-now-the-driving-force-behind-antisemitism-in-the-u-s-": "2025-12-25T04:40:06.561592",
+    "https://www.positive.news/society/what-went-right-in-2025-the-good-news-that-mattered/": "2025-12-25T04:40:06.561592",
+    "https://www.positive.news/society/spit-up-stand-up-the-comedy-clubs-for-mums-and-babies-too/": "2025-12-25T04:40:06.561592",
+    "https://www.goodnewsnetwork.org/endangered-chick-appears-in-christmas-miracle-hatching-to-parents-thought-infertile/": "2025-12-25T04:40:06.561592"
   },
-  "last_run": "2025-12-24T04:38:28.396638"
+  "last_run": "2025-12-25T04:40:06.561592"
 }
