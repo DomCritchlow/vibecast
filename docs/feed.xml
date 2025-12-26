@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast with weather, inspiring stories, and a reason to get excited about today.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Dec 2025 04:40:06 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 04:37:13 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast with weather, inspiring stories, and a reason to get excited about today.</itunes:summary>
@@ -27,6 +27,94 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Morning Vibe — December 26, 2025</title>
+      <description><![CDATA[Good news to fuel your day for December 26, 2025.
+
+Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. New Species Being Discovered Faster Than Ever – At a Rate of Over 16,000 a Year
+   Source: Good News Network
+2. NYC on track for near-record low number of homicides in 2025
+   Source: Gothamist (NYC)
+3. Breaking boundaries: the headsets bringing cricket to partially sighted fans
+   Source: Positive News
+4. ‘I found my people’: Frank Turner on saving Britain’s grassroots music venues
+   Source: Positive News
+5. Keep Out All Your Christmas Spices – They’re Powerful Antioxidants Known as ‘Nutraceuticals’
+   Source: Good News Network
+6. One in a million: celebrating the customers shaping AI’s future
+   Source: OpenAI News
+
+REFERENCES:
+
+1. New Species Being Discovered Faster Than Ever – At a Rate of Over 16,000 a Year
+   https://www.goodnewsnetwork.org/new-species-being-discovered-faster-than-ever-at-a-rate-of-over-16000-a-year/
+
+2. NYC on track for near-record low number of homicides in 2025
+   https://gothamist.com/news/nyc-on-track-for-near-record-low-number-of-homicides-in-2025
+
+3. Breaking boundaries: the headsets bringing cricket to partially sighted fans
+   https://www.positive.news/lifestyle/sport/tech-opens-cricket-to-blind-and-partially-sighted-fans/
+
+4. ‘I found my people’: Frank Turner on saving Britain’s grassroots music venues
+   https://www.positive.news/society/i-found-my-people-frank-turner-on-saving-britains-grassroots-music-venues/
+
+5. Keep Out All Your Christmas Spices – They’re Powerful Antioxidants Known as ‘Nutraceuticals’
+   https://www.goodnewsnetwork.org/christmas-spices-are-powerful-antioxidants-known-as-nutraceuticals/
+
+6. One in a million: celebrating the customers shaping AI’s future
+   https://openai.com/index/one-in-a-million-customers
+]]></description>
+      <pubDate>Fri, 26 Dec 2025 04:36:21 -0000</pubDate>
+      <guid isPermaLink="false">2025-12-26</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-26.mp3" length="5779680" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[Good news to fuel your day for December 26, 2025.
+
+Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. New Species Being Discovered Faster Than Ever – At a Rate of Over 16,000 a Year
+   Source: Good News Network
+2. NYC on track for near-record low number of homicides in 2025
+   Source: Gothamist (NYC)
+3. Breaking boundaries: the headsets bringing cricket to partially sighted fans
+   Source: Positive News
+4. ‘I found my people’: Frank Turner on saving Britain’s grassroots music venues
+   Source: Positive News
+5. Keep Out All Your Christmas Spices – They’re Powerful Antioxidants Known as ‘Nutraceuticals’
+   Source: Good News Network
+6. One in a million: celebrating the customers shaping AI’s future
+   Source: OpenAI News
+
+REFERENCES:
+
+1. New Species Being Discovered Faster Than Ever – At a Rate of Over 16,000 a Year
+   https://www.goodnewsnetwork.org/new-species-being-discovered-faster-than-ever-at-a-rate-of-over-16000-a-year/
+
+2. NYC on track for near-record low number of homicides in 2025
+   https://gothamist.com/news/nyc-on-track-for-near-record-low-number-of-homicides-in-2025
+
+3. Breaking boundaries: the headsets bringing cricket to partially sighted fans
+   https://www.positive.news/lifestyle/sport/tech-opens-cricket-to-blind-and-partially-sighted-fans/
+
+4. ‘I found my people’: Frank Turner on saving Britain’s grassroots music venues
+   https://www.positive.news/society/i-found-my-people-frank-turner-on-saving-britains-grassroots-music-venues/
+
+5. Keep Out All Your Christmas Spices – They’re Powerful Antioxidants Known as ‘Nutraceuticals’
+   https://www.goodnewsnetwork.org/christmas-spices-are-powerful-antioxidants-known-as-nutraceuticals/
+
+6. One in a million: celebrating the customers shaping AI’s future
+   https://openai.com/index/one-in-a-million-customers
+]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:55</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/images/2025-12-26.jpg"/>
+    </item>
     <item>
       <title>Morning Vibe — December 25, 2025</title>
       <description><![CDATA[Good news to fuel your day for December 25, 2025.
@@ -113,7 +201,6 @@ REFERENCES:
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:33</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/images/2025-12-25.jpg"/>
     </item>
     <item>
       <title>Morning Vibe — December 24, 2025</title>
