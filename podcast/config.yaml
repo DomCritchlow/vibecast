@@ -342,7 +342,7 @@ tts:
   #   podcast   - Full professional podcast processing chain
   audio_processing:
     enabled: true             # Enable/disable post-processing
-    preset: "clarity"         # Processing preset (see above)
+    preset: "podcast"         # Processing preset (see above)
 
 # =============================================================================
 # STORAGE - Cloudflare R2
