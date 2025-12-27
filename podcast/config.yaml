@@ -262,32 +262,13 @@ filters:
     - "inspiring"
 
 # =============================================================================
-# OPENAI CONFIGURATION (LLM + TTS)
+# OPENAI CONFIGURATION (LLM for Script Generation)
 # =============================================================================
 openai:
-  # --- LLM Settings (Script Generation) ---
   llm:
     model: "gpt-4o-mini"      # Options: gpt-4o, gpt-4o-mini, gpt-4-turbo
     temperature: 0.7
     max_tokens: 2000
-  
-  # --- TTS Settings (Audio Synthesis) ---
-  tts:
-    model: "tts-1"            # Options: tts-1 (fast/cheap), tts-1-hd (high quality)
-    
-    # Voice selection - pick one that matches your vibe
-    # Options: alloy, echo, fable, onyx, nova, shimmer
-    voice: "nova"             # nova = friendly, warm, energetic - great for upbeat morning vibe
-                              # shimmer = soft, gentle - great for calm/meditative
-                              # echo = warm male - conversational
-                              # fable = expressive - storyteller
-    
-    # Speech speed: 0.25 (very slow) to 4.0 (very fast)
-    # 1.0 = normal, 0.9 = slightly slower (calming), 1.05-1.1 = slightly faster (energetic)
-    speed: 0.95               # Slightly faster for energizing morning vibe
-    
-    # Output format
-    format: "mp3"             # Options: mp3, opus, aac, flac
   
   # Script generation hints
   script_hints:
@@ -299,6 +280,69 @@ openai:
     - "Do NOT include music cues like [intro music] or [outro music]"
     - "Do NOT write stage directions - only write text meant to be spoken aloud"
     - "Start directly with your greeting, end directly with your closing"
+
+# =============================================================================
+# TEXT-TO-SPEECH CONFIGURATION
+# =============================================================================
+# Extensible provider system - easily swap between TTS services
+#
+# Available providers:
+#   - openai: OpenAI TTS (default) - tts-1, tts-1-hd models
+#   - elevenlabs: ElevenLabs TTS (requires API key + pip install elevenlabs)
+#
+# To add new providers: create a class in podcast/tts/ that extends TTSProvider
+# =============================================================================
+tts:
+  provider: "openai"          # Options: openai, elevenlabs
+  
+  # --- OpenAI TTS Settings (active) ---
+  openai:
+    model: "tts-1-hd"         # tts-1 (fast/cheap), tts-1-hd (high quality)
+    
+    # Voice selection - pick one that matches your vibe
+    # Options: alloy, echo, fable, onyx, nova, shimmer
+    voice: "nova"             # nova = friendly, warm, energetic
+                              # shimmer = soft, gentle - great for calm/meditative
+                              # echo = warm male - conversational
+                              # fable = expressive - storyteller
+    
+    # Speech speed: 0.25 (very slow) to 4.0 (very fast)
+    speed: 0.95               # Slightly faster for energizing morning vibe
+    
+    # Output format
+    format: "mp3"             # Options: mp3, opus, aac, flac, wav
+  
+  # --- ElevenLabs TTS Settings (disabled) ---
+  # To enable: set provider to "elevenlabs" and configure below
+  # Requires: pip install elevenlabs, ELEVENLABS_API_KEY env var
+  elevenlabs:
+    # Voice ID or preset name (e.g., "rachel", "adam", "josh")
+    # Full list: https://elevenlabs.io/voice-library
+    voice_id: "rachel"
+    
+    # Model options:
+    #   eleven_multilingual_v2 - Best quality, supports many languages
+    #   eleven_turbo_v2_5 - Low latency, good quality
+    model_id: "eleven_multilingual_v2"
+    
+    # Voice control (0.0 to 1.0)
+    stability: 0.5            # Higher = more consistent, lower = more expressive
+    similarity_boost: 0.75    # Higher = closer to original voice
+    
+    # Output format
+    format: "mp3_44100_128"   # Options: mp3_44100_128, mp3_44100_192, pcm_*
+
+  # --- Audio Post-Processing ---
+  # Apply professional audio enhancement to improve TTS output quality
+  # Presets:
+  #   none      - No processing (original TTS output)
+  #   clarity   - Remove tin-can sound, boost vocal clarity (recommended for OpenAI)
+  #   warm      - Warm, full sound with bass boost
+  #   broadcast - Professional radio/broadcast quality
+  #   podcast   - Full professional podcast processing chain
+  audio_processing:
+    enabled: true             # Enable/disable post-processing
+    preset: "clarity"         # Processing preset (see above)
 
 # =============================================================================
 # STORAGE - Cloudflare R2

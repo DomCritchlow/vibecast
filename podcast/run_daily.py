@@ -15,7 +15,7 @@ from .sources.weather import fetch_weather, format_weather_for_script
 from .sources.rss import fetch_all_rss_sources
 from .sources.images import get_episode_image
 from .writer import generate_script, generate_script_dry_run
-from .tts import synthesize_mp3, estimate_audio_duration
+from .tts import synthesize_speech, estimate_duration
 from .storage import upload_mp3_to_r2, upload_transcript_to_r2, upload_image_to_r2, check_r2_connection
 import requests
 from .rss_feed import create_episode_metadata, update_feed, save_feed
@@ -337,9 +337,11 @@ def run_pipeline(dry_run: bool = False, verbose: bool = False) -> bool:
             print("--- SCRIPT END ---\n")
         
         # Estimate duration
-        tts_config = config.get("openai", {}).get("tts", {})
-        speed = tts_config.get("speed", 1.0)
-        estimated_duration = estimate_audio_duration(script, speed)
+        tts_config = config.get("tts", {})
+        provider = tts_config.get("provider", "openai")
+        provider_config = tts_config.get(provider, {})
+        speed = provider_config.get("speed", 1.0)
+        estimated_duration = estimate_duration(script, speed)
         print(f"  Estimated duration: {estimated_duration:.1f} minutes")
         
         # Get today's date (used for filenames and transcript)
@@ -366,11 +368,12 @@ def run_pipeline(dry_run: bool = False, verbose: bool = False) -> bool:
         
         # 7. Synthesize audio
         print("\n[7/8] Synthesizing audio...")
+        print(f"  Using TTS provider: {provider}")
         if dry_run:
             mp3_bytes = b""  # Empty for dry run
             print("  [DRY RUN] Skipped TTS synthesis")
         else:
-            mp3_bytes = synthesize_mp3(script, config)
+            mp3_bytes = synthesize_speech(script, config)
             print(f"  Generated MP3 ({len(mp3_bytes)} bytes)")
         
         # 8. Upload and update feed

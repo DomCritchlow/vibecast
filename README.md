@@ -33,7 +33,9 @@ Every day at your scheduled time:
 ## Features
 
 - **Vibe-configurable** — Change the entire personality via `config.yaml`
-- **Multiple voices** — Choose from 6 OpenAI TTS voices
+- **Dual TTS providers** — OpenAI (default) or ElevenLabs, switchable via config
+- **Professional audio processing** — FFmpeg-based enhancement removes "tin-can" sound
+- **Multiple voices** — 6 OpenAI voices or 29+ ElevenLabs voices
 - **Smart filtering** — Block negative keywords, boost positive ones
 - **Source diversity** — Ensures variety across RSS feeds
 - **Deduplication** — Won't repeat stories within 7 days
@@ -64,6 +66,12 @@ Go to **Settings → Secrets → Actions** and add:
 | `R2_ACCOUNT_ID` | Cloudflare account ID |
 | `R2_ACCESS_KEY_ID` | R2 API access key |
 | `R2_SECRET_ACCESS_KEY` | R2 API secret key |
+
+**Optional:**
+
+| Secret | Description |
+|--------|-------------|
+| `ELEVENLABS_API_KEY` | ElevenLabs API key (only if using ElevenLabs TTS) |
 
 **Personal settings:**
 
@@ -109,13 +117,19 @@ vibe:
       - "finds wonder in small things"
 ```
 
-### Choose a Voice
+### Choose TTS Provider & Voice
 
+**OpenAI TTS** (Default):
 ```yaml
-openai:
-  tts:
-    voice: "nova"    # alloy, echo, fable, onyx, nova, shimmer
-    speed: 0.95      # 0.25 to 4.0
+tts:
+  provider: "openai"
+  openai:
+    model: "tts-1-hd"  # tts-1 or tts-1-hd
+    voice: "nova"       # alloy, echo, fable, onyx, nova, shimmer
+    speed: 0.95         # 0.25 to 4.0
+  audio_processing:
+    enabled: true
+    preset: "clarity"   # Removes "tin-can" sound
 ```
 
 | Voice | Character |
@@ -126,6 +140,19 @@ openai:
 | `fable` | Expressive, storyteller |
 | `onyx` | Deep, authoritative male |
 | `alloy` | Neutral, balanced |
+
+**ElevenLabs** (Optional, requires API key):
+```yaml
+tts:
+  provider: "elevenlabs"
+  elevenlabs:
+    voice_id: "rachel"                    # or emily, josh, adam, etc.
+    model_id: "eleven_turbo_v2_5"         # or eleven_multilingual_v2
+    stability: 0.5
+    similarity_boost: 0.75
+```
+
+See `AUDIO_PROCESSING_GUIDE.md` for details on audio enhancement presets.
 
 ### Add RSS Sources
 
@@ -144,17 +171,22 @@ sources:
 ```
 vibecast/
 ├── podcast/
-│   ├── config.yaml        # Vibe configuration
-│   ├── run_daily.py       # Main orchestrator
-│   ├── sources/           # Content fetchers
-│   │   ├── weather.py     # Open-Meteo API
-│   │   ├── rss.py         # RSS feed parser
-│   │   ├── api.py         # Generic API (extensible)
-│   │   └── images/        # Episode artwork providers
-│   │       ├── base.py    # Provider interface
-│   │       └── nasa.py    # NASA APOD + Image Library
-│   ├── writer.py          # AI script generation
-│   ├── tts.py             # OpenAI TTS synthesis
+│   ├── config.yaml           # Vibe configuration
+│   ├── run_daily.py          # Main orchestrator
+│   ├── sources/              # Content fetchers
+│   │   ├── weather.py        # Open-Meteo API
+│   │   ├── rss.py            # RSS feed parser
+│   │   ├── api.py            # Generic API (extensible)
+│   │   └── images/           # Episode artwork providers
+│   │       ├── base.py       # Provider interface
+│   │       └── nasa.py       # NASA APOD + Image Library
+│   ├── writer.py             # AI script generation
+│   ├── tts/                  # TTS providers (pluggable)
+│   │   ├── __init__.py       # Factory & preprocessing
+│   │   ├── base.py           # Provider interface
+│   │   ├── openai_tts.py    # OpenAI TTS (default)
+│   │   └── elevenlabs.py    # ElevenLabs TTS (optional)
+│   ├── audio_processing.py   # FFmpeg audio enhancement
 │   ├── storage.py         # R2 upload
 │   ├── rss_feed.py        # Podcast RSS generation
 │   └── site_generator.py  # Landing page generator

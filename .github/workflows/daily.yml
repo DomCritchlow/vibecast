@@ -38,7 +38,13 @@ jobs:
           python-version: "3.11"
           cache: "pip"
       
-      - name: Install dependencies
+      - name: Setup FFmpeg (cached)
+        uses: FedericoCarboni/setup-ffmpeg@v3
+        with:
+          ffmpeg-version: release
+          github-token: ${{ github.server_url == 'https://github.com' && github.token || '' }}
+      
+      - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
@@ -47,6 +53,8 @@ jobs:
         env:
           # Required API keys
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          # Cloudflare R2 storage
           R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
           R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
           R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
