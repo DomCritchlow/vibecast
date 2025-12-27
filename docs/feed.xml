@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast with weather, inspiring stories, and a reason to get excited about today.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Dec 2025 04:37:13 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Dec 2025 04:35:19 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast with weather, inspiring stories, and a reason to get excited about today.</itunes:summary>
@@ -27,6 +27,94 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Morning Vibe — December 27, 2025</title>
+      <description><![CDATA[Good news to fuel your day for December 27, 2025.
+
+Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. Thought Extinct, Snail Scientists Embark on Largest Snail Breeding and Reintroduction Effort in History
+   Source: Good News Network
+2. Atlanta Restaurant Provided for 100 Families During the Shutdown, Now Throws Christmas Giveaway for Them
+   Source: Good News Network
+3. The top 10 mass-timber buildings of 2025
+   Source: Dezeen
+4. NYPD lieutenant fired after refusing to answer questions about fire at his home
+   Source: Gothamist (NYC)
+5. Time to do more nothing: the art of deep hanging out
+   Source: Positive News
+6. What went right this week: the good news that matters
+   Source: Positive News
+
+REFERENCES:
+
+1. Thought Extinct, Snail Scientists Embark on Largest Snail Breeding and Reintroduction Effort in History
+   https://www.goodnewsnetwork.org/thought-extinct-snail-scientists-embark-on-largest-snail-breeding-and-reintroduction-effort-in-history/
+
+2. Atlanta Restaurant Provided for 100 Families During the Shutdown, Now Throws Christmas Giveaway for Them
+   https://www.goodnewsnetwork.org/atlanta-restaurant-provided-for-100-families-during-the-shutdown-now-throws-christmas-giveaway-for-them/
+
+3. The top 10 mass-timber buildings of 2025
+   https://www.dezeen.com/2025/12/26/mass-timber-buildings-2025/
+
+4. NYPD lieutenant fired after refusing to answer questions about fire at his home
+   https://gothamist.com/news/nypd-lieutenant-fired-after-refusing-to-answer-questions-about-fire-at-his-home
+
+5. Time to do more nothing: the art of deep hanging out
+   https://www.positive.news/lifestyle/wander-notice-be-where-you-are-the-creative-power-of-deep-hanging-out/
+
+6. What went right this week: the good news that matters
+   https://www.positive.news/society/good-news-stories-from-week-51-of-2025/
+]]></description>
+      <pubDate>Sat, 27 Dec 2025 04:34:23 -0000</pubDate>
+      <guid isPermaLink="false">2025-12-27</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-27.mp3" length="4949760" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[Good news to fuel your day for December 27, 2025.
+
+Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. Thought Extinct, Snail Scientists Embark on Largest Snail Breeding and Reintroduction Effort in History
+   Source: Good News Network
+2. Atlanta Restaurant Provided for 100 Families During the Shutdown, Now Throws Christmas Giveaway for Them
+   Source: Good News Network
+3. The top 10 mass-timber buildings of 2025
+   Source: Dezeen
+4. NYPD lieutenant fired after refusing to answer questions about fire at his home
+   Source: Gothamist (NYC)
+5. Time to do more nothing: the art of deep hanging out
+   Source: Positive News
+6. What went right this week: the good news that matters
+   Source: Positive News
+
+REFERENCES:
+
+1. Thought Extinct, Snail Scientists Embark on Largest Snail Breeding and Reintroduction Effort in History
+   https://www.goodnewsnetwork.org/thought-extinct-snail-scientists-embark-on-largest-snail-breeding-and-reintroduction-effort-in-history/
+
+2. Atlanta Restaurant Provided for 100 Families During the Shutdown, Now Throws Christmas Giveaway for Them
+   https://www.goodnewsnetwork.org/atlanta-restaurant-provided-for-100-families-during-the-shutdown-now-throws-christmas-giveaway-for-them/
+
+3. The top 10 mass-timber buildings of 2025
+   https://www.dezeen.com/2025/12/26/mass-timber-buildings-2025/
+
+4. NYPD lieutenant fired after refusing to answer questions about fire at his home
+   https://gothamist.com/news/nypd-lieutenant-fired-after-refusing-to-answer-questions-about-fire-at-his-home
+
+5. Time to do more nothing: the art of deep hanging out
+   https://www.positive.news/lifestyle/wander-notice-be-where-you-are-the-creative-power-of-deep-hanging-out/
+
+6. What went right this week: the good news that matters
+   https://www.positive.news/society/good-news-stories-from-week-51-of-2025/
+]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:20</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/images/2025-12-27.jpg"/>
+    </item>
     <item>
       <title>Morning Vibe — December 26, 2025</title>
       <description><![CDATA[Good news to fuel your day for December 26, 2025.
@@ -113,7 +201,6 @@ REFERENCES:
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:55</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/images/2025-12-26.jpg"/>
     </item>
     <item>
       <title>Morning Vibe — December 25, 2025</title>
