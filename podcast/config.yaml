@@ -4,15 +4,19 @@
 # This file defines everything about your podcast's personality.
 # Change the vibe, change the show.
 #
-# PERSONAL SETTINGS: Some values can be overridden via environment variables:
+# ⚠️  IF YOU FORKED/CLONED THIS REPO: Update these before deploying!
+#     - podcast.author (line ~65)
+#     - podcast.github_url (line ~73)
+#     - location.name, lat, lon (line ~107-109)
+#
+# PRIVACY TIP: Use environment variables instead of hardcoding personal info.
+# Set these in .env (local) or GitHub Secrets (for Actions):
+#   - VIBECAST_AUTHOR, VIBECAST_OWNER_EMAIL
 #   - VIBECAST_LOCATION_NAME, VIBECAST_LOCATION_LAT, VIBECAST_LOCATION_LON
-#   - VIBECAST_SITE_URL, VIBECAST_FEED_URL
-#   - VIBECAST_R2_PUBLIC_URL
-#   - VIBECAST_AUTHOR
+#   - VIBECAST_SITE_URL, VIBECAST_FEED_URL, VIBECAST_R2_PUBLIC_URL
 #   - VIBECAST_TIMEZONE
 #
-# This allows you to commit this file as a template while keeping personal
-# settings in your .env file or GitHub Secrets.
+# See .env.example for a complete template.
 # =============================================================================
 
 # =============================================================================

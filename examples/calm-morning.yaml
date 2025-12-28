@@ -1,0 +1,151 @@
+# =============================================================================
+# CALM MORNING - Vibecast Example Configuration
+# =============================================================================
+# A gentle, mindful podcast for peaceful mornings
+# Perfect for: Meditation, quiet reflection, gentle wake-ups
+#
+# Copy this to podcast/config.yaml and customize with your personal details
+# =============================================================================
+
+vibe:
+  name: "Calm Morning"
+  
+  mood:
+    primary: "calm"
+    secondary: "mindful"
+    energy: "gentle-lift"
+  
+  voice_persona:
+    name: "A warm morning companion"
+    personality:
+      - "speaks softly with genuine care"
+      - "finds beauty in small moments"
+      - "creates space for quiet contemplation"
+      - "radiates peaceful confidence"
+      - "guides you gently into the day"
+    greetings:
+      - "Good morning. Let's ease into today together."
+      - "Hello. Take a breath—today is full of possibility."
+      - "Morning. Here's what's worth noticing in the world today."
+    closings:
+      - "Go gently. Today is yours to shape."
+      - "Until tomorrow—may your day unfold with ease."
+      - "That's all for now. Be well."
+  
+  avoid:
+    emotions: ["fear", "anger", "urgency", "anxiety", "outrage"]
+    language: ["breaking", "shocking", "crisis", "urgent", "alarming"]
+    topics: ["violence", "conflict", "controversy", "disasters"]
+  
+  embrace:
+    emotions: ["peace", "wonder", "gratitude", "hope", "curiosity"]
+    language: ["discovered", "created", "restored", "healing", "beautiful"]
+    topics: ["nature", "wellness", "community", "science", "art", "restoration"]
+
+podcast:
+  title: "Vibecast: Calm Morning"
+  tagline: "Gentle news for peaceful mornings"
+  description: "A short daily meditation on the positive currents flowing through our world."
+  author: "Your Name"  # ⚠️ CHANGE THIS
+  language: "en-us"
+  category: "Health & Fitness"
+  subcategory: "Mental Health"
+  explicit: "no"
+  github_url: "https://github.com/YOUR_USERNAME/vibecast"  # ⚠️ CHANGE THIS
+
+episode:
+  target_minutes: 5
+  
+  structure:
+    - segment: "greeting"
+      duration: "~20 seconds"
+    - segment: "weather"
+      duration: "~30 seconds"
+    - segment: "stories"
+      duration: "~3 minutes"
+      count: "3-4"
+    - segment: "closing"
+      duration: "~45 seconds"
+  
+  pacing:
+    include_pauses: true
+    pause_between_stories: "1.0s"
+    pause_after_greeting: "0.8s"
+    overall_tempo: "relaxed"
+
+location:
+  name: "Your City"  # Or set VIBECAST_LOCATION_NAME
+  lat: 0.0          # Or set VIBECAST_LOCATION_LAT
+  lon: 0.0          # Or set VIBECAST_LOCATION_LON
+  units: "celsius"
+
+sources:
+  rss:
+    - name: "Positive News"
+      url: "https://positive.news/feed/"
+      enabled: true
+      max_items: 3
+      trust_score: 0.9
+    
+    - name: "Good News Network"
+      url: "https://www.goodnewsnetwork.org/feed/"
+      enabled: true
+      max_items: 3
+      trust_score: 0.85
+    
+    - name: "NASA Science"
+      url: "https://science.nasa.gov/feed/"
+      enabled: true
+      max_items: 2
+      trust_score: 0.95
+    
+    - name: "Mindful Magazine"
+      url: "https://www.mindful.org/feed/"
+      enabled: true
+      max_items: 2
+      trust_score: 0.8
+
+content:
+  selection:
+    min_items: 3
+    max_items: 4
+    prefer_recent_hours: 48
+    ensure_source_diversity: true
+  
+  filtering:
+    min_score: 0.4
+    boost_keywords: ["nature", "meditation", "wellness", "healing", "restoration", "mindfulness"]
+    avoid_keywords: ["war", "conflict", "violence", "death", "disaster"]
+
+tts:
+  provider: "openai"
+  openai:
+    model: "tts-1-hd"
+    voice: "shimmer"  # Soft, gentle voice perfect for calm content
+    speed: 0.9        # Slightly slower for peaceful pacing
+  
+  audio_processing:
+    enabled: true
+    preset: "warmth"  # Warm, intimate sound
+
+feed:
+  max_episodes: 30
+  episode_title_format: "{podcast_title} — {date}"
+
+storage:
+  r2:
+    bucket: "vibecast"
+    public_url: ""  # Set via VIBECAST_R2_PUBLIC_URL
+    episode_prefix: "episodes/"
+    transcript_prefix: "transcripts/"
+    image_prefix: "images/"
+
+episode_artwork:
+  source: "nasa"
+  nasa:
+    prefer_apod: true
+    fallback_to_library: true
+    library_search_terms: ["earth", "aurora", "nature", "peaceful"]
+
+timezone: "UTC"  # Or set VIBECAST_TIMEZONE
+

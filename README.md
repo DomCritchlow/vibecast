@@ -1,8 +1,19 @@
 # Vibecast
 
-A configurable daily podcast engine that generates personalized audio briefings with weather and positive news.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 
-Vibecast runs automatically via GitHub Actions, gathers uplifting content from RSS feeds, writes a script using AI, converts it to speech, and publishes it as a podcast you can subscribe to in any podcast app.
+**Your personalized AI podcast, generated daily and tailored to your vibe.**
+
+Vibecast is an open-source podcast generator that creates daily audio briefings from your favorite news sources. Configure the mood, voice, topics, and sources—then let GitHub Actions automatically generate and publish episodes every day.
+
+**[📚 Quickstart Guide](QUICKSTART.md)** · **[🤝 Contributing](CONTRIBUTING.md)** · **[💬 Discussions](../../discussions)**
+
+---
+
+> **⚠️ Note for Cloners:** This repository is both the source code AND my personal podcast. Before deploying, update `podcast/config.yaml` with your own name, email, and preferences. See [Quickstart Guide](QUICKSTART.md) for setup.
+
+---
 
 ## How It Works
 
@@ -46,9 +57,40 @@ Every day at your scheduled time:
 
 ## Quick Start
 
+**Want to jump right in?** Follow the **[📚 10-Minute Quickstart Guide](QUICKSTART.md)**
+
+Or read the detailed setup below:
+
 ### 1. Fork this repository
 
-### 2. Set up Cloudflare R2
+Click "Fork" on GitHub, then clone your fork:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/vibecast.git
+cd vibecast
+```
+
+### 2. Customize your podcast
+
+**⚠️ Important:** Update these in `podcast/config.yaml` before deploying:
+
+```yaml
+podcast:
+  title: "Your Podcast Name"  # Change this!
+  author: "Your Name"          # Change this!
+  github_url: "https://github.com/YOUR_USERNAME/vibecast"  # Change this!
+
+location:
+  name: "Your City"   # For weather
+  lat: 0.0           # Your latitude
+  lon: 0.0           # Your longitude
+```
+
+Or use environment variables (recommended for privacy):
+- `VIBECAST_AUTHOR`
+- `VIBECAST_LOCATION_NAME`, `VIBECAST_LOCATION_LAT`, `VIBECAST_LOCATION_LON`
+
+### 3. Set up Cloudflare R2
 
 1. Create an R2 bucket (e.g., `vibecast`)
 2. Enable public access via R2.dev subdomain
@@ -233,6 +275,67 @@ python -m podcast.run_daily -v
 
 **Total: ~$1.50-4.50/month** for daily episodes
 
+## Example Configurations
+
+Check out the `examples/` directory for inspiration:
+
+- **`calm-morning.yaml`** — Gentle, mindful podcast for peaceful mornings
+- **`energetic-commute.yaml`** — High-energy content for workouts (coming soon)
+- **`tech-focused.yaml`** — Developer and tech enthusiast focused (coming soon)
+
+Copy an example to `podcast/config.yaml` and customize it for your needs!
+
+## Contributing
+
+We welcome contributions! Whether it's:
+- 🐛 Bug fixes
+- ✨ New features
+- 📚 Documentation improvements  
+- 🎨 Example configurations
+- 💡 Ideas and feedback
+
+See **[CONTRIBUTING.md](CONTRIBUTING.md)** for guidelines.
+
+### Share Your Podcast!
+
+Created something cool with Vibecast? We'd love to hear about it! Share in **[Discussions](../../discussions)**.
+
+## Troubleshooting
+
+**Common Issues:**
+
+- **"No module named 'yaml'"** — Run `pip install -r requirements.txt`
+- **"Permission denied" on R2** — Check your R2 credentials and bucket permissions
+- **"Low audio quality"** — Enable `audio_processing` in config and try the `clarity` preset
+- **"GitHub Action fails"** — Verify all secrets are set correctly
+
+See [QUICKSTART.md](QUICKSTART.md#troubleshooting) for more help.
+
+## Roadmap
+
+- [ ] Web UI for config editing
+- [ ] More TTS provider options (Azure, Google Cloud)
+- [ ] Multi-language support
+- [ ] Scheduled episode variations (weekend vs weekday)
+- [ ] Integration with more content sources (YouTube, Substack, etc.)
+
+Have ideas? **[Open a discussion](../../discussions)**!
+
 ## License
 
-MIT
+MIT © [Dominic Critchlow](https://github.com/domcritchlow)
+
+## Acknowledgments
+
+Vibecast is built with:
+- **[OpenAI](https://openai.com/)** — GPT-4 for script generation, TTS for voices
+- **[Cloudflare R2](https://www.cloudflare.com/products/r2/)** — Free object storage
+- **[GitHub Actions](https://github.com/features/actions)** — Free automation
+- **[GitHub Pages](https://pages.github.com/)** — Free hosting
+- **[FFmpeg](https://ffmpeg.org/)** — Audio processing
+
+Special thanks to all the RSS sources providing positive news feeds!
+
+---
+
+**Made something cool with Vibecast? [⭐ Star this repo](../../stargazers) and [share your podcast](../../discussions)!**
