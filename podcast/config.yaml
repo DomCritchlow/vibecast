@@ -70,6 +70,7 @@ podcast:
   artwork_url: ""
   site_url: ""                           # Override: VIBECAST_SITE_URL
   feed_url: ""                           # Override: VIBECAST_FEED_URL
+  github_url: "https://github.com/domcritchlow/vibecast"  # Link shown in footer
 
 # =============================================================================
 # EPISODE STRUCTURE

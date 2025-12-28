@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About This Show — Vibecast</title>
+    <style>
+        :root {
+            --font-serif: 'Playfair Display', Georgia, serif;
+            --font-sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            --color-text: #1a1a1a;
+            --color-text-light: #666;
+            --color-bg: #fafafa;
+            --color-border: #e0e0e0;
+            --color-accent: #2c5282;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: var(--font-sans);
+            color: var(--color-text);
+            background: white;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 64px 24px;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 64px;
+        }
+
+        header h1 {
+            font-family: var(--font-serif);
+            font-size: 3rem;
+            font-weight: 700;
+            margin-bottom: 12px;
+            line-height: 1.2;
+        }
+
+        header .tagline {
+            font-size: 1.125rem;
+            color: var(--color-text-light);
+            margin-bottom: 24px;
+        }
+
+        header .back-link {
+            display: inline-block;
+            color: var(--color-accent);
+            text-decoration: none;
+            font-size: 0.9rem;
+            transition: opacity 0.2s;
+        }
+
+        header .back-link:hover {
+            opacity: 0.7;
+        }
+
+        section {
+            margin-bottom: 48px;
+        }
+
+        h2 {
+            font-family: var(--font-serif);
+            font-size: 1.75rem;
+            font-weight: 600;
+            margin-bottom: 16px;
+        }
+
+        p {
+            font-size: 1.0625rem;
+            line-height: 1.7;
+            margin-bottom: 16px;
+            color: var(--color-text);
+        }
+
+        .config-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 24px;
+            margin-bottom: 32px;
+        }
+
+        .config-item {
+            padding: 20px;
+            background: var(--color-bg);
+            border: 1px solid var(--color-border);
+            border-radius: 8px;
+        }
+
+        .config-label {
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--color-text-light);
+            margin-bottom: 8px;
+        }
+
+        .config-value {
+            font-size: 1.125rem;
+            color: var(--color-text);
+        }
+
+        .traits-list, .topics-list, .sources-list {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .traits-list li, .topics-list li, .sources-list li {
+            padding: 8px 0;
+            padding-left: 24px;
+            position: relative;
+        }
+
+        .traits-list li:before, .topics-list li:before, .sources-list li:before {
+            content: "•";
+            position: absolute;
+            left: 8px;
+            color: var(--color-accent);
+        }
+
+        footer {
+            padding-top: 48px;
+            margin-top: 64px;
+            border-top: 1px solid var(--color-border);
+            text-align: center;
+            font-size: 0.9rem;
+            color: var(--color-text-light);
+        }
+
+        .footer-links {
+            margin-top: 16px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 12px;
+            flex-wrap: wrap;
+        }
+
+        .footer-links a {
+            color: var(--color-text);
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+
+        .footer-links a:hover {
+            color: var(--color-accent);
+        }
+
+        .footer-links span {
+            color: var(--color-text-light);
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 48px 20px;
+            }
+
+            header h1 {
+                font-size: 2rem;
+            }
+
+            h2 {
+                font-size: 1.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>About This Show</h1>
+            <p class="tagline">Good news to fuel your day</p>
+            <a href="index.html" class="back-link">← Back to episodes</a>
+        </header>
+
+        <main>
+            <section>
+                <h2>The Vibe</h2>
+                <div class="config-grid">
+                    <div class="config-item">
+                        <div class="config-label">Mood</div>
+                        <div class="config-value">Energizing, Optimistic</div>
+                    </div>
+                    <div class="config-item">
+                        <div class="config-label">Voice Persona</div>
+                        <div class="config-value">Your hype friend with the best news</div>
+                    </div>
+                    <div class="config-item">
+                        <div class="config-label">Narrated By</div>
+                        <div class="config-value">Fable</div>
+                    </div>
+                </div>
+                <h3>Personality</h3><ul class='traits-list'><li>radiates genuine excitement and enthusiasm</li><li>makes you feel like today is going to be amazing</li><li>speaks with infectious energy and warmth</li><li>celebrates wins big and small with real joy</li><li>leaves you feeling fired up and ready to take on the world</li></ul>
+            </section>
+
+            <section><h2>Topics We Cover</h2><ul class='topics-list'><li>innovation</li><li>achievements</li><li>science</li><li>community</li><li>progress</li><li>adventure</li></ul></section>
+            
+            <section><h2>Topics We Avoid</h2><ul class='topics-list'><li>violence</li><li>disaster</li><li>conflict</li><li>controversy</li></ul></section>
+
+            <section>
+                <h2>Our Sources</h2>
+                <p>Every episode is curated from carefully selected news sources to bring you the best content:</p>
+                
+            </section>
+
+            <section>
+                <h2>How It's Made</h2>
+                <p>This podcast is generated daily using AI technology. Here's how it works:</p>
+                <ol style="padding-left: 24px; line-height: 1.8;">
+                    <li>We fetch the latest articles from our trusted sources</li>
+                    <li>AI filters and selects the most relevant content based on your preferences</li>
+                    <li>A script is generated that matches your chosen vibe and personality</li>
+                    <li>The script is converted to natural-sounding speech using Openai TTS</li>
+                    <li>Everything is packaged into a podcast episode, ready for your morning</li>
+                </ol>
+            </section>
+        </main>
+
+        <footer>
+            <p>Made by Your Name</p>
+            <nav class="footer-links">
+                <a href="index.html">Home</a>
+                <span>·</span>
+                <a href="docs.html">About Vibecast</a>
+            </nav>
+        </footer>
+    </div>
+</body>
+</html>

@@ -63,6 +63,29 @@
             line-height: 1.5;
         }
 
+        .header-nav {
+            margin-top: 16px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 12px;
+            font-size: 0.875rem;
+        }
+
+        .header-nav a {
+            color: var(--color-text-light);
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+
+        .header-nav a:hover {
+            color: var(--color-accent);
+        }
+
+        .header-nav span {
+            color: var(--color-border);
+        }
+
         /* Main Content */
         main {
             margin-bottom: 80px;
@@ -484,34 +507,12 @@
         }
 
         .show-notes-content {
-            font-size: 1rem;
-            line-height: 1.8;
+            font-size: 0.95rem;
+            line-height: 1.7;
             color: var(--color-text);
-        }
-
-        .show-notes-content h3 {
-            font-size: 1.1rem;
-            font-weight: 600;
-            margin-top: 24px;
-            margin-bottom: 12px;
-            color: var(--color-text);
-        }
-
-        .show-notes-content h3:first-child {
-            margin-top: 0;
-        }
-
-        .show-notes-content p {
-            margin-bottom: 16px;
-        }
-
-        .show-notes-content ul {
-            margin: 16px 0;
-            padding-left: 24px;
-        }
-
-        .show-notes-content li {
-            margin-bottom: 8px;
+            font-family: var(--font-sans);
+            white-space: pre-wrap;
+            word-wrap: break-word;
         }
 
         .show-notes-content a {
@@ -519,6 +520,7 @@
             text-decoration: none;
             border-bottom: 1px solid var(--color-border);
             transition: border-color 0.2s;
+            word-break: break-all;
         }
 
         .show-notes-content a:hover {
@@ -541,6 +543,29 @@
             padding-top: 64px;
             text-align: center;
             font-size: 0.9rem;
+            color: var(--color-text-light);
+        }
+
+        .footer-links {
+            margin-top: 16px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 12px;
+            flex-wrap: wrap;
+        }
+
+        .footer-links a {
+            color: var(--color-text);
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+
+        .footer-links a:hover {
+            color: var(--color-accent);
+        }
+
+        .footer-links span {
             color: var(--color-text-light);
         }
 
@@ -661,8 +686,13 @@
 <body>
     <div class="container">
         <header>
-            <h1>Vibecast</h1>
-            <p class="tagline">Good news to fuel your day</p>
+                <h1>Vibecast</h1>
+                <p class="tagline">Good news to fuel your day</p>
+                <nav class="header-nav">
+                    <a href="about.html">About This Show</a>
+                    <span>·</span>
+                    <a href="docs.html">About Vibecast</a>
+                </nav>
         </header>
 
         <main>
@@ -713,6 +743,11 @@
 
         <footer>
             <p>Made by Your Name</p>
+            <nav class="footer-links">
+                <a href="about.html">About This Show</a>
+                <span>·</span>
+                <a href="docs.html">About Vibecast</a>
+            </nav>
         </footer>
     </div>
 
@@ -730,13 +765,18 @@
     </div>
 
     <script>
+        // ===== Configuration =====
         const feedUrl = new URL('feed.xml', window.location.href).href;
         const r2BaseUrl = ''.replace(/\/+$/, '');
         const transcriptBaseUrl = r2BaseUrl + '/transcripts/';
         document.getElementById('rss-url').textContent = feedUrl;
 
+        // ===== State Management =====
         let currentAudio = null;
         let currentPlayerId = null;
+        const episodeDescriptions = {};
+
+        // ===== Utility Functions =====
 
         function copyToClipboard(el) {
             navigator.clipboard.writeText(el.textContent);
@@ -745,6 +785,89 @@
             setTimeout(() => el.textContent = original, 1500);
         }
 
+        // Escape HTML to prevent XSS
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        // Convert URLs in text to clickable links
+        function linkify(text) {
+            return text.split(' ').map(word => {
+                if (word.startsWith('http://') || word.startsWith('https://')) {
+                    return `<a href="${word}" target="_blank" rel="noopener">${word}</a>`;
+                }
+                return word;
+            }).join(' ');
+        }
+
+        // Format text for display: escape HTML, linkify URLs, preserve newlines
+        function formatTextForDisplay(text) {
+            const escaped = escapeHtml(text);
+            const linked = linkify(escaped);
+            const newlineChar = String.fromCharCode(10);
+            return linked.split(newlineChar).join('<br>');
+        }
+
+        // ===== Modal Management =====
+        
+        function openModal(title, content) {
+            const modal = document.getElementById('transcript-modal');
+            const modalTitle = document.getElementById('modal-title');
+            const modalContent = document.getElementById('modal-content');
+            
+            modalTitle.textContent = title;
+            modalContent.innerHTML = content;
+            modal.classList.add('active');
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closeModal() {
+            const modal = document.getElementById('transcript-modal');
+            modal.classList.remove('active');
+            document.body.style.overflow = '';
+        }
+
+        function openShowNotes(episodeId) {
+            const episode = episodeDescriptions[episodeId];
+            if (!episode) {
+                console.error('Episode not found:', episodeId);
+                return;
+            }
+            
+            const description = episode.description || 'No show notes available.';
+            const formatted = formatTextForDisplay(description);
+            openModal('Show Notes: ' + episode.title, `<div class="show-notes-content">${formatted}</div>`);
+        }
+
+        function openTranscript(title, transcriptUrl) {
+            openModal('Transcript: ' + title, '<div class="transcript-loading">Loading transcript...</div>');
+            
+            fetch(transcriptUrl)
+                .then(r => {
+                    if (!r.ok) throw new Error('Failed to load');
+                    return r.text();
+                })
+                .then(text => {
+                    const formatted = formatTextForDisplay(text);
+                    document.getElementById('modal-content').innerHTML = `<div class="transcript-text">${formatted}</div>`;
+                })
+                .catch(err => {
+                    document.getElementById('modal-content').innerHTML = '<div class="transcript-error">Could not load transcript</div>';
+                });
+        }
+
+        // Modal event listeners
+        document.getElementById('transcript-modal').addEventListener('click', (e) => {
+            if (e.target.classList.contains('modal-overlay')) closeModal();
+        });
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') closeModal();
+        });
+
+        // ===== Audio Player Management =====
+        
         function updateButtonState(episodeId, isPlaying) {
             const btn = document.getElementById('btn-' + episodeId);
             if (!btn) return;
@@ -753,9 +876,7 @@
             const isPrimary = btn.classList.contains('btn-primary');
             
             if (isPlaying) {
-                if (isCompact) btn.textContent = '⏸';
-                else if (isPrimary) btn.textContent = '⏸ Pause';
-                else btn.textContent = '⏸ Pause';
+                btn.textContent = isCompact ? '⏸' : '⏸ Pause';
             } else {
                 if (isCompact) btn.textContent = '▶';
                 else if (isPrimary) btn.textContent = '▶ Play Episode';
@@ -767,16 +888,15 @@
             const audio = document.getElementById('audio-' + episodeId);
             if (!audio) return;
             
-            // Sync button when audio plays/pauses from native controls
             audio.addEventListener('play', () => {
-                // Stop any currently playing audio
+                // Stop other audio if playing
                 if (currentAudio && currentAudio !== audio && !currentAudio.paused) {
                     currentAudio.pause();
                     const prevPlayer = document.getElementById('player-' + currentPlayerId);
                     if (prevPlayer) prevPlayer.classList.remove('active');
                 }
                 
-                // Update state
+                // Update UI
                 updateButtonState(episodeId, true);
                 const player = document.getElementById('player-' + episodeId);
                 if (player) player.classList.add('active');
@@ -784,141 +904,156 @@
                 currentPlayerId = episodeId;
             });
             
-            audio.addEventListener('pause', () => {
-                updateButtonState(episodeId, false);
-            });
-            
-            audio.addEventListener('ended', () => {
-                updateButtonState(episodeId, false);
-            });
+            audio.addEventListener('pause', () => updateButtonState(episodeId, false));
+            audio.addEventListener('ended', () => updateButtonState(episodeId, false));
         }
 
         function togglePlayer(episodeId, audioUrl) {
             const player = document.getElementById('player-' + episodeId);
             const audio = document.getElementById('audio-' + episodeId);
             
-            // If clicking on currently playing episode, toggle it
+            // Toggle if same episode
             if (currentPlayerId === episodeId) {
-                if (audio.paused) {
-                    audio.play();
-                } else {
-                    audio.pause();
-                }
+                audio.paused ? audio.play() : audio.pause();
                 return;
             }
             
-            // Stop any currently playing audio
+            // Stop current audio
             if (currentAudio && !currentAudio.paused) {
                 currentAudio.pause();
                 const prevPlayer = document.getElementById('player-' + currentPlayerId);
                 if (prevPlayer) prevPlayer.classList.remove('active');
             }
             
-            // Show and play the new player
+            // Play new audio
             player.classList.add('active');
             audio.play();
         }
 
-        function onAudioEnded(episodeId) {
-            updateButtonState(episodeId, false);
-        }
-
-        function openTranscript(title, transcriptUrl) {
-            const modal = document.getElementById('transcript-modal');
-            const modalTitle = document.getElementById('modal-title');
-            const modalContent = document.getElementById('modal-content');
-            
-            modalTitle.textContent = 'Transcript: ' + title;
-            modalContent.innerHTML = '<div class="transcript-loading">Loading transcript...</div>';
-            modal.classList.add('active');
-            document.body.style.overflow = 'hidden';
-            
-            fetch(transcriptUrl)
-                .then(r => {
-                    if (!r.ok) throw new Error('Failed to load');
-                    return r.text();
-                })
-                .then(text => {
-                    modalContent.innerHTML = `<div class="transcript-text">${text.replace(/
-/g, '<br>')}</div>`;
-                })
-                .catch(err => {
-                    modalContent.innerHTML = '<div class="transcript-error">Could not load transcript</div>';
-                });
-        }
-
-        function openShowNotes(title, description) {
-            const modal = document.getElementById('transcript-modal');
-            const modalTitle = document.getElementById('modal-title');
-            const modalContent = document.getElementById('modal-content');
-            
-            modalTitle.textContent = 'Show Notes: ' + title;
-            modalContent.innerHTML = `<div class="show-notes-content">${description}</div>`;
-            modal.classList.add('active');
-            document.body.style.overflow = 'hidden';
-        }
-
-        function closeModal() {
-            const modal = document.getElementById('transcript-modal');
-            modal.classList.remove('active');
-            document.body.style.overflow = '';
-        }
-
-        // Close modal on overlay click
-        document.getElementById('transcript-modal').addEventListener('click', (e) => {
-            if (e.target.classList.contains('modal-overlay')) {
-                closeModal();
-            }
-        });
-
-        // Close modal on Escape key
-        document.addEventListener('keydown', (e) => {
-            if (e.key === 'Escape') closeModal();
-        });
-
+        // ===== Feed Parsing =====
+        
         function parseEpisode(item, index) {
-            const title = item.querySelector('title')?.textContent || 'Episode';
-            const pubDate = item.querySelector('pubDate')?.textContent;
-            const guid = item.querySelector('guid')?.textContent || '';
-            const description = item.querySelector('description')?.textContent || '';
-            const enclosure = item.querySelector('enclosure');
-            const audioUrl = enclosure?.getAttribute('url') || '';
-            
-            const allChildren = item.children;
-            let duration = '~4 min';
-            let imageUrl = '';
-            let summary = '';
-            for (let j = 0; j < allChildren.length; j++) {
-                const child = allChildren[j];
-                const localName = child.localName || child.nodeName.split(':').pop();
+                    const title = item.querySelector('title')?.textContent || 'Episode';
+                    const pubDate = item.querySelector('pubDate')?.textContent;
+                    const guid = item.querySelector('guid')?.textContent || '';
+                    const description = item.querySelector('description')?.textContent || '';
+                    const enclosure = item.querySelector('enclosure');
+                    const audioUrl = enclosure?.getAttribute('url') || '';
+                    
+                    const allChildren = item.children;
+                    let duration = '~4 min';
+                    let imageUrl = '';
+                    let summary = '';
+                    for (let j = 0; j < allChildren.length; j++) {
+                        const child = allChildren[j];
+                        const localName = child.localName || child.nodeName.split(':').pop();
                 if (localName === 'duration') duration = child.textContent;
                 if (localName === 'image' && child.hasAttribute('href')) imageUrl = child.getAttribute('href');
                 if (localName === 'summary') summary = child.textContent;
             }
             
-            if (!imageUrl) {
-                const itunesImages = item.getElementsByTagName('itunes:image');
+                    if (!imageUrl) {
+                        const itunesImages = item.getElementsByTagName('itunes:image');
                 if (itunesImages.length > 0) imageUrl = itunesImages[0].getAttribute('href');
-            }
-            
+                    }
+                    
             // Keep full description for show notes (with HTML formatting)
             const fullDescription = description;
-            
+                    
             // Create plain text version for preview
             const episodeDesc = (summary || description).replace(/<[^>]*>/g, '').trim();
-            let dateStr = '';
-            if (pubDate) {
-                const d = new Date(pubDate);
-                dateStr = d.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' });
-            }
-            
-            const artStyle = imageUrl 
-                ? `background-image: url('${imageUrl}'); background-size: cover; background-position: center;`
+                    let dateStr = '';
+                    if (pubDate) {
+                        const d = new Date(pubDate);
+                        dateStr = d.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' });
+                    }
+                    
+                    const artStyle = imageUrl 
+                        ? `background-image: url('${imageUrl}'); background-size: cover; background-position: center;`
                 : `background: linear-gradient(135deg, #e0e0e0 0%, #c0c0c0 100%);`;
             
             return { title, pubDate, guid: guid || index, description: episodeDesc, fullDescription, audioUrl, duration, imageUrl, dateStr, artStyle };
         }
 
+        // ===== Load and Render Episodes =====
+        
+        function renderLatestEpisode(episode) {
+            const transcriptUrl = transcriptBaseUrl + episode.guid + '.txt';
+            const escapedTitle = episode.title.replace(/'/g, "\\'");
+                    const escapedUrl = transcriptUrl.replace(/'/g, "\\'");
+                    
+            episodeDescriptions[episode.guid] = {
+                title: episode.title,
+                description: episode.fullDescription
+            };
+            
+            document.getElementById('latest-episode-placeholder').innerHTML = `
+                <p class="latest-label">Latest Episode</p>
+                <div class="latest-episode-content">
+                    <div class="episode-art" style="${episode.artStyle}"></div>
+                    <div class="latest-episode-info">
+                        <h2>${episode.title}</h2>
+                        <p class="episode-meta">${episode.dateStr} · ${episode.duration}</p>
+                        ${episode.description ? `<p class="episode-description">${episode.description}</p>` : ''}
+                    </div>
+                </div>
+                <div class="primary-actions">
+                    <button class="btn-primary" id="btn-${episode.guid}" onclick="togglePlayer('${episode.guid}', '${episode.audioUrl}')">▶ Play Episode</button>
+                    <button class="btn-secondary" onclick="openShowNotes('${episode.guid}')">📝 Show Notes</button>
+                    <button class="btn-secondary" onclick="openTranscript('${escapedTitle}', '${escapedUrl}')">📄 Transcript</button>
+                </div>
+                <div class="audio-player" id="player-${episode.guid}">
+                    <audio id="audio-${episode.guid}" src="${episode.audioUrl}" preload="none" controls></audio>
+                </div>
+            `;
+            
+            attachAudioListeners(episode.guid);
+        }
+        
+        function renderEpisodeList(items) {
+            const maxEpisodes = 10;
+            const episodeGuids = [];
+            let episodesHtml = '';
+            
+            for (let i = 1; i < Math.min(items.length, maxEpisodes); i++) {
+                const ep = parseEpisode(items[i], i);
+                const transcriptUrl = transcriptBaseUrl + ep.guid + '.txt';
+                const escapedTitle = ep.title.replace(/'/g, "\\'");
+                const escapedUrl = transcriptUrl.replace(/'/g, "\\'");
+                
+                episodeDescriptions[ep.guid] = {
+                    title: ep.title,
+                    description: ep.fullDescription
+                };
+                
+                episodeGuids.push(ep.guid);
+                
+                episodesHtml += `
+                    <div class="episode">
+                            <div class="episode-row">
+                            <div class="episode-art" style="${ep.artStyle}"></div>
+                                <div class="episode-info">
+                                <h3>${ep.title}</h3>
+                                <p class="episode-meta">${ep.dateStr} · ${ep.duration}</p>
+                                    </div>
+                            <div class="episode-actions">
+                                <button class="play-button" id="btn-${ep.guid}" onclick="togglePlayer('${ep.guid}', '${ep.audioUrl}')" title="Play">▶</button>
+                                <button onclick="openShowNotes('${ep.guid}')" title="Show Notes">📝</button>
+                                <button onclick="openTranscript('${escapedTitle}', '${escapedUrl}')" title="Transcript">📄</button>
+                                </div>
+                            </div>
+                        <div class="audio-player" id="player-${ep.guid}">
+                            <audio id="audio-${ep.guid}" src="${ep.audioUrl}" preload="none" controls></audio>
+                            </div>
+                        </div>
+                    `;
+                }
+                
+                document.getElementById('episodes-list').innerHTML = episodesHtml;
+            episodeGuids.forEach(guid => attachAudioListeners(guid));
+        }
+        
+        // Load feed and render episodes
         fetch('feed.xml')
             .then(r => r.text())
             .then(xml => {
@@ -928,77 +1063,10 @@
                 
                 if (items.length === 0) return;
                 
-                // Render latest episode in hero
-                const latest = parseEpisode(items[0], 0);
-                const transcriptUrl = transcriptBaseUrl + latest.guid + '.txt';
-                const escapedTitle = latest.title.replace(/'/g, "\\'");
-                const escapedUrl = transcriptUrl.replace(/'/g, "\\'");
-                const escapedDescription = latest.fullDescription.replace(/'/g, "\\'");
-                
-                document.getElementById('latest-episode-placeholder').innerHTML = `
-                    <p class="latest-label">Latest Episode</p>
-                    <div class="latest-episode-content">
-                        <div class="episode-art" style="${latest.artStyle}"></div>
-                        <div class="latest-episode-info">
-                            <h2>${latest.title}</h2>
-                            <p class="episode-meta">${latest.dateStr} · ${latest.duration}</p>
-                            ${latest.description ? `<p class="episode-description">${latest.description}</p>` : ''}
-                        </div>
-                    </div>
-                    <div class="primary-actions">
-                        <button class="btn-primary" id="btn-${latest.guid}" onclick="togglePlayer('${latest.guid}', '${latest.audioUrl}')">▶ Play Episode</button>
-                        <button class="btn-secondary" onclick="openShowNotes('${escapedTitle}', \`${escapedDescription}\`)">📝 Show Notes</button>
-                        <button class="btn-secondary" onclick="openTranscript('${escapedTitle}', '${escapedUrl}')">📄 Transcript</button>
-                    </div>
-                    <div class="audio-player" id="player-${latest.guid}">
-                        <audio id="audio-${latest.guid}" src="${latest.audioUrl}" preload="none" controls></audio>
-                    </div>
-                `;
-                
-                // Attach listeners to sync button with native audio controls
-                attachAudioListeners(latest.guid);
-                
-                // Render remaining episodes in compact list
-                let episodesHtml = '';
-                const maxEpisodes = 10;
-                const episodeGuids = [];
-                
-                for (let i = 1; i < Math.min(items.length, maxEpisodes); i++) {
-                    const ep = parseEpisode(items[i], i);
-                    const transcriptUrl = transcriptBaseUrl + ep.guid + '.txt';
-                    const escapedTitle = ep.title.replace(/'/g, "\\'");
-                    const escapedUrl = transcriptUrl.replace(/'/g, "\\'");
-                    const escapedDescription = ep.fullDescription.replace(/'/g, "\\'");
-                    
-                    episodeGuids.push(ep.guid);
-                    
-                    episodesHtml += `
-                        <div class="episode">
-                            <div class="episode-row">
-                                <div class="episode-art" style="${ep.artStyle}"></div>
-                                <div class="episode-info">
-                                    <h3>${ep.title}</h3>
-                                    <p class="episode-meta">${ep.dateStr} · ${ep.duration}</p>
-                                </div>
-                                <div class="episode-actions">
-                                    <button class="play-button" id="btn-${ep.guid}" onclick="togglePlayer('${ep.guid}', '${ep.audioUrl}')" title="Play">▶</button>
-                                    <button onclick="openShowNotes('${escapedTitle}', \`${escapedDescription}\`)" title="Show Notes">📝</button>
-                                    <button onclick="openTranscript('${escapedTitle}', '${escapedUrl}')" title="Transcript">📄</button>
-                                </div>
-                            </div>
-                            <div class="audio-player" id="player-${ep.guid}">
-                                <audio id="audio-${ep.guid}" src="${ep.audioUrl}" preload="none" controls></audio>
-                            </div>
-                        </div>
-                    `;
-                }
-                
-                document.getElementById('episodes-list').innerHTML = episodesHtml;
-                
-                // Attach listeners to all episodes
-                episodeGuids.forEach(guid => attachAudioListeners(guid));
+                renderLatestEpisode(parseEpisode(items[0], 0));
+                renderEpisodeList(items);
             })
-            .catch(err => { console.error('Feed error:', err); });
+            .catch(err => console.error('Feed error:', err));
     </script>
 </body>
 </html>
