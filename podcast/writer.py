@@ -230,6 +230,75 @@ def generate_script(
     }
 
 
+def generate_episode_title(
+    items: list[ContentItem],
+    config: dict,
+) -> str:
+    """Generate a content-based episode title using AI.
+    
+    Args:
+        items: List of selected content items for the episode.
+        config: Full configuration dictionary.
+    
+    Returns:
+        A concise, engaging episode title.
+    """
+    openai_config = config.get("openai", {})
+    llm_config = openai_config.get("llm", {})
+    model = llm_config.get("model", "gpt-4o-mini")
+    
+    # Build content summary for title generation
+    content_summary = []
+    for item in items[:5]:  # Use top 5 items
+        content_summary.append(f"- {item.title}")
+    
+    content_text = "\n".join(content_summary)
+    
+    prompt = f"""Generate a concise, engaging podcast episode title (max 60 characters) based on today's content.
+
+Content covered:
+{content_text}
+
+Requirements:
+- Be specific and descriptive
+- Highlight the most interesting/important topics
+- Keep it under 60 characters
+- Don't include the date or podcast name
+- Make it compelling and clickable
+- Use "&" to connect topics if needed
+
+Examples of good titles:
+- "NASA Mars Discovery & AI Medical Breakthrough"
+- "Clean Energy Surge & NYC Green Initiative"
+- "SpaceX Success & Revolutionary Battery Tech"
+
+Generate only the title, no quotes or extra text:"""
+    
+    # Create OpenAI client
+    client = OpenAI()
+    
+    # Generate title
+    response = client.chat.completions.create(
+        model=model,
+        messages=[
+            {"role": "user", "content": prompt},
+        ],
+        temperature=0.7,
+        max_tokens=50,
+    )
+    
+    title = response.choices[0].message.content.strip()
+    
+    # Remove quotes if AI added them
+    title = title.strip('"').strip("'")
+    
+    # Truncate if too long
+    if len(title) > 60:
+        title = title[:57] + "..."
+    
+    return title
+
+
 def generate_script_dry_run(
     weather_text: str,
     items: list[ContentItem],

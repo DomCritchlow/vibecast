@@ -595,6 +595,48 @@ def generate_index_html(config: dict) -> str:
             color: var(--color-text);
         }}
 
+        .show-notes-content {{
+            font-size: 1rem;
+            line-height: 1.8;
+            color: var(--color-text);
+        }}
+
+        .show-notes-content h3 {{
+            font-size: 1.1rem;
+            font-weight: 600;
+            margin-top: 24px;
+            margin-bottom: 12px;
+            color: var(--color-text);
+        }}
+
+        .show-notes-content h3:first-child {{
+            margin-top: 0;
+        }}
+
+        .show-notes-content p {{
+            margin-bottom: 16px;
+        }}
+
+        .show-notes-content ul {{
+            margin: 16px 0;
+            padding-left: 24px;
+        }}
+
+        .show-notes-content li {{
+            margin-bottom: 8px;
+        }}
+
+        .show-notes-content a {{
+            color: var(--color-accent);
+            text-decoration: none;
+            border-bottom: 1px solid var(--color-border);
+            transition: border-color 0.2s;
+        }}
+
+        .show-notes-content a:hover {{
+            border-bottom-color: var(--color-accent);
+        }}
+
         .transcript-loading {{
             text-align: center;
             color: var(--color-text-muted);
@@ -898,7 +940,7 @@ def generate_index_html(config: dict) -> str:
             const modalTitle = document.getElementById('modal-title');
             const modalContent = document.getElementById('modal-content');
             
-            modalTitle.textContent = title;
+            modalTitle.textContent = 'Transcript: ' + title;
             modalContent.innerHTML = '<div class="transcript-loading">Loading transcript...</div>';
             modal.classList.add('active');
             document.body.style.overflow = 'hidden';
@@ -909,11 +951,22 @@ def generate_index_html(config: dict) -> str:
                     return r.text();
                 }})
                 .then(text => {{
-                    modalContent.textContent = text;
+                    modalContent.innerHTML = `<div class="transcript-text">${{text.replace(/\n/g, '<br>')}}</div>`;
                 }})
                 .catch(err => {{
                     modalContent.innerHTML = '<div class="transcript-error">Could not load transcript</div>';
                 }});
+        }}
+
+        function openShowNotes(title, description) {{
+            const modal = document.getElementById('transcript-modal');
+            const modalTitle = document.getElementById('modal-title');
+            const modalContent = document.getElementById('modal-content');
+            
+            modalTitle.textContent = 'Show Notes: ' + title;
+            modalContent.innerHTML = `<div class="show-notes-content">${{description}}</div>`;
+            modal.classList.add('active');
+            document.body.style.overflow = 'hidden';
         }}
 
         function closeModal() {{
@@ -959,6 +1012,10 @@ def generate_index_html(config: dict) -> str:
                 if (itunesImages.length > 0) imageUrl = itunesImages[0].getAttribute('href');
             }}
             
+            // Keep full description for show notes (with HTML formatting)
+            const fullDescription = description;
+            
+            // Create plain text version for preview
             const episodeDesc = (summary || description).replace(/<[^>]*>/g, '').trim();
             let dateStr = '';
             if (pubDate) {{
@@ -970,7 +1027,7 @@ def generate_index_html(config: dict) -> str:
                 ? `background-image: url('${{imageUrl}}'); background-size: cover; background-position: center;`
                 : `background: linear-gradient(135deg, #e0e0e0 0%, #c0c0c0 100%);`;
             
-            return {{ title, pubDate, guid: guid || index, description: episodeDesc, audioUrl, duration, imageUrl, dateStr, artStyle }};
+            return {{ title, pubDate, guid: guid || index, description: episodeDesc, fullDescription, audioUrl, duration, imageUrl, dateStr, artStyle }};
         }}
 
         fetch('feed.xml')
@@ -987,6 +1044,7 @@ def generate_index_html(config: dict) -> str:
                 const transcriptUrl = transcriptBaseUrl + latest.guid + '.txt';
                 const escapedTitle = latest.title.replace(/'/g, "\\\\'");
                 const escapedUrl = transcriptUrl.replace(/'/g, "\\\\'");
+                const escapedDescription = latest.fullDescription.replace(/'/g, "\\\\'");
                 
                 document.getElementById('latest-episode-placeholder').innerHTML = `
                     <p class="latest-label">Latest Episode</p>
@@ -1000,6 +1058,7 @@ def generate_index_html(config: dict) -> str:
                     </div>
                     <div class="primary-actions">
                         <button class="btn-primary" id="btn-${{latest.guid}}" onclick="togglePlayer('${{latest.guid}}', '${{latest.audioUrl}}')">▶ Play Episode</button>
+                        <button class="btn-secondary" onclick="openShowNotes('${{escapedTitle}}', \`${{escapedDescription}}\`)">📝 Show Notes</button>
                         <button class="btn-secondary" onclick="openTranscript('${{escapedTitle}}', '${{escapedUrl}}')">📄 Transcript</button>
                     </div>
                     <div class="audio-player" id="player-${{latest.guid}}">
@@ -1020,6 +1079,7 @@ def generate_index_html(config: dict) -> str:
                     const transcriptUrl = transcriptBaseUrl + ep.guid + '.txt';
                     const escapedTitle = ep.title.replace(/'/g, "\\\\'");
                     const escapedUrl = transcriptUrl.replace(/'/g, "\\\\'");
+                    const escapedDescription = ep.fullDescription.replace(/'/g, "\\\\'");
                     
                     episodeGuids.push(ep.guid);
                     
@@ -1033,6 +1093,7 @@ def generate_index_html(config: dict) -> str:
                                 </div>
                                 <div class="episode-actions">
                                     <button class="play-button" id="btn-${{ep.guid}}" onclick="togglePlayer('${{ep.guid}}', '${{ep.audioUrl}}')" title="Play">▶</button>
+                                    <button onclick="openShowNotes('${{escapedTitle}}', \`${{escapedDescription}}\`)" title="Show Notes">📝</button>
                                     <button onclick="openTranscript('${{escapedTitle}}', '${{escapedUrl}}')" title="Transcript">📄</button>
                                 </div>
                             </div>

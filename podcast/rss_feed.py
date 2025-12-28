@@ -296,6 +296,7 @@ def create_episode_metadata(
     config: dict,
     items: Optional[list] = None,
     episode_image_url: Optional[str] = None,
+    custom_title: Optional[str] = None,
 ) -> dict:
     """Create episode metadata dictionary.
     
@@ -307,6 +308,7 @@ def create_episode_metadata(
         config: Full configuration dictionary.
         items: List of ContentItem objects used in the episode (optional).
         episode_image_url: URL to episode-specific artwork (e.g., NASA APOD).
+        custom_title: Custom episode title (overrides default formatting).
     
     Returns:
         Episode metadata dictionary.
@@ -315,15 +317,18 @@ def create_episode_metadata(
     feed_config = config.get("feed", {})
     vibe = config.get("vibe", {})
     
-    # Format title using configured format
-    title_format = feed_config.get("episode_title_format", "{podcast_title} — {date}")
-    podcast_title = vibe.get("name", podcast.get("title", "Vibecast"))
-    date_str = date.strftime("%B %d, %Y")  # e.g., "December 13, 2025"
-    
-    title = title_format.format(
-        podcast_title=podcast_title,
-        date=date_str,
-    )
+    # Use custom title if provided, otherwise use configured format
+    if custom_title:
+        title = custom_title
+    else:
+        title_format = feed_config.get("episode_title_format", "{podcast_title} — {date}")
+        podcast_title = vibe.get("name", podcast.get("title", "Vibecast"))
+        date_str = date.strftime("%B %d, %Y")  # e.g., "December 13, 2025"
+        
+        title = title_format.format(
+            podcast_title=podcast_title,
+            date=date_str,
+        )
     
     # Create rich description with summary and references
     description = _build_show_notes(date, config, items, duration_seconds)

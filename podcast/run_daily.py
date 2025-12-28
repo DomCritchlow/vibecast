@@ -14,7 +14,7 @@ from .sources.base import filter_items, select_items, ContentItem
 from .sources.weather import fetch_weather, format_weather_for_script
 from .sources.rss import fetch_all_rss_sources
 from .sources.images import get_episode_image
-from .writer import generate_script, generate_script_dry_run
+from .writer import generate_script, generate_script_dry_run, generate_episode_title
 from .tts import synthesize_speech, estimate_duration
 from .storage import upload_mp3_to_r2, upload_transcript_to_r2, upload_image_to_r2, check_r2_connection
 import requests
@@ -336,6 +336,15 @@ def run_pipeline(dry_run: bool = False, verbose: bool = False) -> bool:
             print(script)
             print("--- SCRIPT END ---\n")
         
+        # Generate content-based episode title
+        if dry_run:
+            episode_title = "AI-Generated Title Here"
+            print("  [DRY RUN] Would generate episode title")
+        else:
+            print("  Generating episode title...")
+            episode_title = generate_episode_title(selected, config)
+            print(f"  Episode title: {episode_title}")
+        
         # Estimate duration
         tts_config = config.get("tts", {})
         provider = tts_config.get("provider", "openai")
@@ -439,6 +448,7 @@ def run_pipeline(dry_run: bool = False, verbose: bool = False) -> bool:
             config=config,
             items=selected,  # Include items for rich show notes
             episode_image_url=episode_image_url,  # NASA APOD as episode artwork
+            custom_title=episode_title,  # AI-generated content-based title
         )
         
         # Update RSS feed
