@@ -23,49 +23,47 @@
 # THE VIBE - Core personality of your podcast
 # =============================================================================
 vibe:
-  name: "Morning Vibe"
+  name: "Morning Thread"
   
   mood:
-    primary: "energizing"
-    secondary: "optimistic"
-    energy: "uplifting-momentum"
+    primary: "curious"
+    secondary: "informed"
+    energy: "engaged-but-chill"
   
   voice_persona:
-    name: "Your hype friend with the best news"
+    name: "Your friend who finds the interesting stuff"
     personality:
-      - "radiates genuine excitement and enthusiasm"
-      - "makes you feel like today is going to be amazing"
-      - "speaks with infectious energy and warmth"
-      - "celebrates wins big and small with real joy"
-      - "leaves you feeling fired up and ready to take on the world"
+      - "genuinely curious about how things work"
+      - "explains why things matter, not just what happened"
+      - "conversational but doesn't waste your time"
+      - "finds signal in the noise"
+      - "makes you smarter without trying too hard"
     greetings:
-      - "Good morning! Let's get this day started right."
-      - "Hey! Ready for some fuel for your day? Let's go."
-      - "Rise and shine, superstar - today's going to be a good one."
-      - "Morning! I've got good news, great vibes, and zero reasons not to smile."
+      - "Morning. Here's what caught my attention."
+      - "Hey. Found some things you might actually care about."
+      - "Good morning. Let's talk about what's interesting today."
     closings:
-      - "Now get out there and crush it. You've absolutely got this!"
-      - "That's your spark for today - go light up the world."
-      - "Alright, you're fueled up. Go make something happen!"
-      - "Until tomorrow - stay fired up, stay awesome."
+      - "That's the thread for today. Go make something happen."
+      - "Alright, that's what I'm following. See you tomorrow."
+      - "That's it for today. Catch you next time."
   
   avoid:
-    emotions: ["fear", "anxiety", "outrage", "doom", "dread"]
-    language: ["breaking", "shocking", "you won't believe", "urgent", "crisis"]
-    topics: ["violence", "disaster", "conflict", "controversy"]
+    emotions: ["fear", "outrage", "panic", "doom"]
+    language: ["shocking", "you won't believe", "slams", "destroys", "crisis"]
+    topics: ["violence", "disaster", "political attacks", "celebrity drama"]
   
   embrace:
-    emotions: ["excitement", "hope", "joy", "motivation", "wonder", "enthusiasm"]
-    language: ["incredible", "amazing", "launched", "achieved", "breakthrough", "inspiring"]
-    topics: ["innovation", "achievements", "science", "community", "progress", "adventure"]
+    emotions: ["curiosity", "insight", "discovery", "understanding", "progress"]
+    language: ["developed", "discovered", "published", "analyzed", "demonstrated", "achieved"]
+    topics: ["research", "innovation", "science", "technology", "breakthroughs", "systems", "infrastructure", "exploration"]
 
 # =============================================================================
 # PODCAST IDENTITY
 # =============================================================================
 podcast:
-  title: "Vibecast: Morning Vibe"
-  tagline: "Good news to fuel your day"
-  description: "A short daily podcast with weather, inspiring stories, and a reason to get excited about today."
+  title: "Vibecast: Morning Thread"
+  tagline: "Tech, science, and what's actually interesting"
+  description: "A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters."
   author: "Your Name"                    # Override: VIBECAST_AUTHOR
   language: "en-us"
   category: "News"
@@ -118,50 +116,108 @@ location:
 # =============================================================================
 sources:
   rss:
-    # --- Positive anchors ---
-    - name: "Positive News"
-      url: "https://positive.news/feed/"
-      enabled: true
-      max_items: 2
-      trust_score: 0.95
-      tags: ["anchor", "positive"]
-
-    - name: "Good News Network"
-      url: "https://www.goodnewsnetwork.org/feed/"
-      enabled: true
-      max_items: 2
-      trust_score: 0.90
-      tags: ["anchor", "positive"]
-
-    # --- AI ---
+    # ==========================================================================
+    # AI & TECH COMPANIES (Diverse perspectives)
+    # ==========================================================================
+    
     - name: "OpenAI News"
       url: "https://openai.com/news/rss.xml"
       enabled: true
       max_items: 2
       trust_score: 0.95
-      tags: ["ai"]
+      tags: ["ai", "research"]
+
+    - name: "Anthropic News"
+      url: "https://www.anthropic.com/news/rss.xml"
+      enabled: true
+      max_items: 2
+      trust_score: 0.95
+      tags: ["ai", "research"]
+
+    - name: "Google AI Blog"
+      url: "https://blog.research.google/feeds/posts/default"
+      enabled: true
+      max_items: 2
+      trust_score: 0.95
+      tags: ["ai", "research"]
+
+    - name: "DeepMind Blog"
+      url: "https://deepmind.google/blog/rss.xml"
+      enabled: true
+      max_items: 1
+      trust_score: 0.95
+      tags: ["ai", "research"]
+
+    - name: "Microsoft Research Blog"
+      url: "https://www.microsoft.com/en-us/research/feed/"
+      enabled: true
+      max_items: 1
+      trust_score: 0.90
+      tags: ["ai", "research"]
+
+    - name: "Hugging Face Blog"
+      url: "https://huggingface.co/blog/feed.xml"
+      enabled: true
+      max_items: 1
+      trust_score: 0.85
+      tags: ["ai", "open-source"]
+
+    # ==========================================================================
+    # QUALITY TECH JOURNALISM (Substantive, not hype)
+    # ==========================================================================
+    
+    - name: "MIT Technology Review"
+      url: "https://www.technologyreview.com/feed/"
+      enabled: true
+      max_items: 2
+      trust_score: 0.90
+      tags: ["tech", "research", "analysis"]
+
+    - name: "Ars Technica"
+      url: "https://feeds.arstechnica.com/arstechnica/index"
+      enabled: true
+      max_items: 2
+      trust_score: 0.85
+      tags: ["tech", "science"]
+
+    - name: "The Verge"
+      url: "https://www.theverge.com/rss/index.xml"
+      enabled: true
+      max_items: 1
+      trust_score: 0.80
+      tags: ["tech", "culture"]
+
+    - name: "Benedict Evans"
+      url: "https://www.ben-evans.com/benedictevans/rss"
+      enabled: true
+      max_items: 1
+      trust_score: 0.90
+      tags: ["tech", "analysis"]
 
     - name: "Hacker News (AI filtered)"
       url: "https://hnrss.org/newest?q=AI+OR+LLM+OR+agent+OR+robot"
       enabled: true
       max_items: 2
       trust_score: 0.75
-      tags: ["ai", "tech"]
+      tags: ["ai", "tech", "discussion"]
 
-    # --- Space ---
-    - name: "NASA Breaking News"
-      url: "https://www.nasa.gov/rss/dyn/breaking_news.rss"
+    # ==========================================================================
+    # SPACE & SCIENCE
+    # ==========================================================================
+    
+    - name: "NASA Science"
+      url: "https://science.nasa.gov/feed/"
       enabled: true
       max_items: 2
       trust_score: 0.95
-      tags: ["space"]
+      tags: ["space", "science"]
 
     - name: "NASA JPL News"
       url: "https://www.jpl.nasa.gov/feeds/news/"
       enabled: true
       max_items: 2
       trust_score: 0.95
-      tags: ["space"]
+      tags: ["space", "research"]
 
     - name: "Space.com"
       url: "https://www.space.com/feeds/all"
@@ -170,43 +226,55 @@ sources:
       trust_score: 0.80
       tags: ["space"]
 
-    # --- Running ---
+    - name: "Quanta Magazine"
+      url: "https://www.quantamagazine.org/feed/"
+      enabled: true
+      max_items: 2
+      trust_score: 0.95
+      tags: ["science", "math", "physics"]
+
+    - name: "Nature News"
+      url: "https://www.nature.com/nature.rss"
+      enabled: true
+      max_items: 1
+      trust_score: 0.95
+      tags: ["science", "research"]
+
+    # ==========================================================================
+    # THOUGHTFUL POSITIVE (Not saccharine)
+    # ==========================================================================
+    
+    - name: "Positive News"
+      url: "https://positive.news/feed/"
+      enabled: true
+      max_items: 1
+      trust_score: 0.85
+      tags: ["constructive"]
+
+    # ==========================================================================
+    # PERSONAL INTERESTS
+    # ==========================================================================
+    
     - name: "iRunFar"
       url: "https://www.irunfar.com/feed"
-      enabled: true
+      enabled: false  # Disable if not relevant to you
       max_items: 1
       trust_score: 0.80
       tags: ["running", "fitness"]
 
-    # --- Design ---
     - name: "Dezeen"
       url: "https://www.dezeen.com/feed/"
-      enabled: true
+      enabled: false  # Disable if not relevant to you
       max_items: 1
       trust_score: 0.80
       tags: ["design"]
-
-    - name: "Design Milk"
-      url: "https://feeds.feedburner.com/design-milk"
-      enabled: true
-      max_items: 1
-      trust_score: 0.80
-      tags: ["design"]
-
-    # --- NYC politics ---
-    - name: "NY1 Politics"
-      url: "https://www.ny1.com/services/contentfeed.nyc%7Call-boroughs%7Cpolitics.hero.rss"
-      enabled: true
-      max_items: 1
-      trust_score: 0.80
-      tags: ["nyc", "politics"]
 
     - name: "Gothamist (NYC)"
       url: "https://gothamist.com/feed"
-      enabled: true
+      enabled: false  # Disable if not relevant to you
       max_items: 1
       trust_score: 0.75
-      tags: ["nyc", "politics"]
+      tags: ["nyc", "local"]
 
 
   api: []
@@ -254,17 +322,17 @@ filters:
     - "scandal"
   
   boost_keywords:
-    - "breakthrough"
-    - "rescued"
+    - "research"
     - "discovered"
-    - "community"
-    - "innovation"
+    - "developed"
+    - "published"
+    - "demonstrated"
     - "launched"
-    - "achieved"
-    - "record"
-    - "milestone"
-    - "incredible"
-    - "inspiring"
+    - "analysis"
+    - "breakthrough"
+    - "system"
+    - "method"
+    - "capability"
 
 # =============================================================================
 # OPENAI CONFIGURATION (LLM for Script Generation)
@@ -277,11 +345,12 @@ openai:
   
   # Script generation hints
   script_hints:
-    - "Use present tense for immediacy and energy"
-    - "Vary sentence length - punchy short sentences build momentum"
-    - "Include sensory details when relevant"
-    - "Make transitions feel natural and keep the energy flowing"
-    - "Use exclamation points sparingly but genuinely when excited"
+    - "Explain WHY things matter, not just what happened"
+    - "Add context - how does this fit into the bigger picture?"
+    - "Use specific numbers and details when relevant"
+    - "Vary sentence length for natural conversation"
+    - "Keep tone conversational but informed - like explaining to a smart friend"
+    - "Avoid hyperbole - let interesting facts speak for themselves"
     - "Do NOT include music cues like [intro music] or [outro music]"
     - "Do NOT write stage directions - only write text meant to be spoken aloud"
     - "Start directly with your greeting, end directly with your closing"
