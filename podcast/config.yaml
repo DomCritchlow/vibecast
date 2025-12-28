@@ -64,7 +64,7 @@ podcast:
   title: "Vibecast: Morning Thread"
   tagline: "Tech, science, and what's actually interesting"
   description: "A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters."
-  author: "Your Name"                    # Override: VIBECAST_AUTHOR
+  author: "Dominic"                    # Override: VIBECAST_AUTHOR
   language: "en-us"
   category: "News"
   subcategory: "Daily News"
