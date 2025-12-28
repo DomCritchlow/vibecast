@@ -73,13 +73,12 @@
             background: var(--color-bg-white);
             border: 1px solid var(--color-border);
             border-radius: 16px;
-            padding: 48px;
+            padding: 40px;
             margin-bottom: 48px;
-            text-align: center;
         }
 
         .latest-label {
-            font-size: 0.8rem;
+            font-size: 0.75rem;
             font-weight: 600;
             text-transform: uppercase;
             letter-spacing: 0.1em;
@@ -87,53 +86,65 @@
             margin-bottom: 24px;
         }
 
+        .latest-episode-content {
+            display: flex;
+            gap: 32px;
+            align-items: flex-start;
+            margin-bottom: 28px;
+        }
+
         .latest-episode-hero .episode-art {
-            width: 280px;
-            height: 280px;
-            margin: 0 auto 32px;
+            width: 180px;
+            height: 180px;
             border-radius: 12px;
             background: linear-gradient(135deg, #e0e0e0 0%, #c0c0c0 100%);
-            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+            flex-shrink: 0;
+        }
+
+        .latest-episode-info {
+            flex: 1;
+            min-width: 0;
         }
 
         .latest-episode-hero h2 {
             font-family: 'Playfair Display', 'Georgia', serif;
-            font-size: 2rem;
+            font-size: 1.75rem;
             font-weight: 700;
-            margin-bottom: 16px;
+            margin-bottom: 12px;
             line-height: 1.3;
         }
 
         .latest-episode-hero .episode-meta {
-            font-size: 1rem;
+            font-size: 0.9rem;
             color: var(--color-text-light);
-            margin-bottom: 24px;
+            margin-bottom: 16px;
         }
 
         .latest-episode-hero .episode-description {
-            font-size: 1.05rem;
+            font-size: 1rem;
             color: var(--color-text-muted);
-            line-height: 1.7;
-            margin-bottom: 32px;
-            max-width: 500px;
-            margin-left: auto;
-            margin-right: auto;
+            line-height: 1.6;
+            margin-bottom: 0;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
         }
 
         .primary-actions {
             display: flex;
-            gap: 16px;
-            justify-content: center;
+            gap: 12px;
             flex-wrap: wrap;
         }
 
         .btn-primary {
-            padding: 16px 40px;
+            padding: 12px 28px;
             background: var(--color-accent);
             color: white;
             border: none;
             border-radius: 8px;
-            font-size: 1.1rem;
+            font-size: 1rem;
             font-weight: 600;
             cursor: pointer;
             transition: background 0.2s;
@@ -145,12 +156,12 @@
         }
 
         .btn-secondary {
-            padding: 16px 32px;
+            padding: 12px 24px;
             background: transparent;
             color: var(--color-accent);
             border: 1px solid var(--color-border);
             border-radius: 8px;
-            font-size: 1rem;
+            font-size: 0.95rem;
             font-weight: 600;
             cursor: pointer;
             transition: all 0.2s;
@@ -515,16 +526,21 @@
             }
 
             .latest-episode-hero {
-                padding: 32px 24px;
+                padding: 28px 20px;
+            }
+
+            .latest-episode-content {
+                flex-direction: column;
+                gap: 20px;
             }
 
             .latest-episode-hero .episode-art {
-                width: 200px;
-                height: 200px;
+                width: 140px;
+                height: 140px;
             }
 
             .latest-episode-hero h2 {
-                font-size: 1.5rem;
+                font-size: 1.4rem;
             }
 
             .primary-actions {
@@ -587,8 +603,12 @@
             }
 
             .latest-episode-hero .episode-art {
-                width: 160px;
-                height: 160px;
+                width: 120px;
+                height: 120px;
+            }
+
+            .latest-episode-hero h2 {
+                font-size: 1.2rem;
             }
         }
     </style>
@@ -683,25 +703,64 @@
             setTimeout(() => el.textContent = original, 1500);
         }
 
+        function updateButtonState(episodeId, isPlaying) {
+            const btn = document.getElementById('btn-' + episodeId);
+            if (!btn) return;
+            
+            const isCompact = btn.classList.contains('play-button');
+            const isPrimary = btn.classList.contains('btn-primary');
+            
+            if (isPlaying) {
+                if (isCompact) btn.textContent = '⏸';
+                else if (isPrimary) btn.textContent = '⏸ Pause';
+                else btn.textContent = '⏸ Pause';
+            } else {
+                if (isCompact) btn.textContent = '▶';
+                else if (isPrimary) btn.textContent = '▶ Play Episode';
+                else btn.textContent = '▶ Listen';
+            }
+        }
+
+        function attachAudioListeners(episodeId) {
+            const audio = document.getElementById('audio-' + episodeId);
+            if (!audio) return;
+            
+            // Sync button when audio plays/pauses from native controls
+            audio.addEventListener('play', () => {
+                // Stop any currently playing audio
+                if (currentAudio && currentAudio !== audio && !currentAudio.paused) {
+                    currentAudio.pause();
+                    const prevPlayer = document.getElementById('player-' + currentPlayerId);
+                    if (prevPlayer) prevPlayer.classList.remove('active');
+                }
+                
+                // Update state
+                updateButtonState(episodeId, true);
+                const player = document.getElementById('player-' + episodeId);
+                if (player) player.classList.add('active');
+                currentAudio = audio;
+                currentPlayerId = episodeId;
+            });
+            
+            audio.addEventListener('pause', () => {
+                updateButtonState(episodeId, false);
+            });
+            
+            audio.addEventListener('ended', () => {
+                updateButtonState(episodeId, false);
+            });
+        }
+
         function togglePlayer(episodeId, audioUrl) {
             const player = document.getElementById('player-' + episodeId);
             const audio = document.getElementById('audio-' + episodeId);
-            const btn = document.getElementById('btn-' + episodeId);
-            const isCompact = btn.classList.contains('play-button');
-            const isPrimary = btn.classList.contains('btn-primary');
             
             // If clicking on currently playing episode, toggle it
             if (currentPlayerId === episodeId) {
                 if (audio.paused) {
                     audio.play();
-                    if (isCompact) btn.textContent = '⏸';
-                    else if (isPrimary) btn.textContent = '⏸ Pause';
-                    else btn.textContent = '⏸ Pause';
                 } else {
                     audio.pause();
-                    if (isCompact) btn.textContent = '▶';
-                    else if (isPrimary) btn.textContent = '▶ Play Episode';
-                    else btn.textContent = '▶ Listen';
                 }
                 return;
             }
@@ -709,14 +768,6 @@
             // Stop any currently playing audio
             if (currentAudio && !currentAudio.paused) {
                 currentAudio.pause();
-                const prevBtn = document.getElementById('btn-' + currentPlayerId);
-                if (prevBtn) {
-                    const prevIsCompact = prevBtn.classList.contains('play-button');
-                    const prevIsPrimary = prevBtn.classList.contains('btn-primary');
-                    if (prevIsCompact) prevBtn.textContent = '▶';
-                    else if (prevIsPrimary) prevBtn.textContent = '▶ Play Episode';
-                    else prevBtn.textContent = '▶ Listen';
-                }
                 const prevPlayer = document.getElementById('player-' + currentPlayerId);
                 if (prevPlayer) prevPlayer.classList.remove('active');
             }
@@ -724,22 +775,10 @@
             // Show and play the new player
             player.classList.add('active');
             audio.play();
-            if (isCompact) btn.textContent = '⏸';
-            else if (isPrimary) btn.textContent = '⏸ Pause';
-            else btn.textContent = '⏸ Pause';
-            currentAudio = audio;
-            currentPlayerId = episodeId;
         }
 
         function onAudioEnded(episodeId) {
-            const btn = document.getElementById('btn-' + episodeId);
-            if (btn) {
-                const isCompact = btn.classList.contains('play-button');
-                const isPrimary = btn.classList.contains('btn-primary');
-                if (isCompact) btn.textContent = '▶';
-                else if (isPrimary) btn.textContent = '▶ Play Episode';
-                else btn.textContent = '▶ Listen';
-            }
+            updateButtonState(episodeId, false);
         }
 
         function openTranscript(title, transcriptUrl) {
@@ -839,27 +878,38 @@
                 
                 document.getElementById('latest-episode-placeholder').innerHTML = `
                     <p class="latest-label">Latest Episode</p>
-                    <div class="episode-art" style="${latest.artStyle}"></div>
-                    <h2>${latest.title}</h2>
-                    <p class="episode-meta">${latest.dateStr} · ${latest.duration}</p>
-                    ${latest.description ? `<p class="episode-description">${latest.description}</p>` : ''}
+                    <div class="latest-episode-content">
+                        <div class="episode-art" style="${latest.artStyle}"></div>
+                        <div class="latest-episode-info">
+                            <h2>${latest.title}</h2>
+                            <p class="episode-meta">${latest.dateStr} · ${latest.duration}</p>
+                            ${latest.description ? `<p class="episode-description">${latest.description}</p>` : ''}
+                        </div>
+                    </div>
                     <div class="primary-actions">
                         <button class="btn-primary" id="btn-${latest.guid}" onclick="togglePlayer('${latest.guid}', '${latest.audioUrl}')">▶ Play Episode</button>
-                        <button class="btn-secondary" onclick="openTranscript('${escapedTitle}', '${escapedUrl}')">📄 Read Transcript</button>
+                        <button class="btn-secondary" onclick="openTranscript('${escapedTitle}', '${escapedUrl}')">📄 Transcript</button>
                     </div>
                     <div class="audio-player" id="player-${latest.guid}">
-                        <audio id="audio-${latest.guid}" src="${latest.audioUrl}" preload="none" onended="onAudioEnded('${latest.guid}')" controls></audio>
+                        <audio id="audio-${latest.guid}" src="${latest.audioUrl}" preload="none" controls></audio>
                     </div>
                 `;
+                
+                // Attach listeners to sync button with native audio controls
+                attachAudioListeners(latest.guid);
                 
                 // Render remaining episodes in compact list
                 let episodesHtml = '';
                 const maxEpisodes = 10;
+                const episodeGuids = [];
+                
                 for (let i = 1; i < Math.min(items.length, maxEpisodes); i++) {
                     const ep = parseEpisode(items[i], i);
                     const transcriptUrl = transcriptBaseUrl + ep.guid + '.txt';
                     const escapedTitle = ep.title.replace(/'/g, "\\'");
                     const escapedUrl = transcriptUrl.replace(/'/g, "\\'");
+                    
+                    episodeGuids.push(ep.guid);
                     
                     episodesHtml += `
                         <div class="episode">
@@ -875,13 +925,16 @@
                                 </div>
                             </div>
                             <div class="audio-player" id="player-${ep.guid}">
-                                <audio id="audio-${ep.guid}" src="${ep.audioUrl}" preload="none" onended="onAudioEnded('${ep.guid}')" controls></audio>
+                                <audio id="audio-${ep.guid}" src="${ep.audioUrl}" preload="none" controls></audio>
                             </div>
                         </div>
                     `;
                 }
                 
                 document.getElementById('episodes-list').innerHTML = episodesHtml;
+                
+                // Attach listeners to all episodes
+                episodeGuids.forEach(guid => attachAudioListeners(guid));
             })
             .catch(err => { console.error('Feed error:', err); });
     </script>
