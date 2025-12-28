@@ -20,7 +20,7 @@ def generate_index_html(config: dict) -> str:
     storage = config.get("storage", {})
     r2_config = storage.get("r2", {})
     sources_config = config.get("sources", {})
-    openai_config = config.get("openai", {})
+    tts_root_config = config.get("tts", {})
     
     # Extract values with defaults
     title = podcast.get("title", "Vibecast")
@@ -43,9 +43,14 @@ def generate_index_html(config: dict) -> str:
     # Episode details
     target_minutes = episode_config.get("target_minutes", 4)
     
-    # TTS voice
-    tts_config = openai_config.get("tts", {})
-    tts_voice = tts_config.get("voice", "nova")
+    # TTS voice - check provider and get from the right place
+    tts_provider = tts_root_config.get("provider", "openai")
+    if tts_provider == "openai":
+        openai_tts = tts_root_config.get("openai", {})
+        tts_voice = openai_tts.get("voice", "nova")
+    else:  # elevenlabs
+        elevenlabs_tts = tts_root_config.get("elevenlabs", {})
+        tts_voice = elevenlabs_tts.get("voice_id", "rachel")
     
     # Get enabled RSS sources with their URLs
     rss_sources = sources_config.get("rss", [])
@@ -76,28 +81,34 @@ def generate_index_html(config: dict) -> str:
     else:
         author_html = "Vibecast"
     
-    # Build dynamic description from vibe config
-    first_trait = personality_traits[0] if personality_traits else "brings you the best news"
-    dynamic_description = f"{persona_name} — {first_trait}. Every day, it gathers weather and uplifting stories, then delivers a short audio briefing to start your day right."
+    # Build embrace topics for features (pick first 3)
+    topics_text = ", ".join(embrace_topics[:3]) if embrace_topics else "positive stories"
+    
+    # Build dynamic description based on vibe and content
+    dynamic_description = f"A daily {mood_primary} podcast bringing you weather, {topics_text}, and stories worth your time."
     
     # Build source pills HTML (all sources, clickable)
     source_pills = ""
     for source in source_info:
         source_pills += f'<a href="{source["url"]}" class="pill" target="_blank" rel="noopener">{source["name"]}</a>'
     
-    # Build embrace topics for features (pick first 3)
-    topics_text = ", ".join(embrace_topics[:3]) if embrace_topics else "positive stories"
-    
-    # Voice descriptions
+    # Voice descriptions (OpenAI TTS voices)
     voice_descriptions = {
         "alloy": "balanced & versatile",
+        "ash": "expressive & dynamic",
+        "ballad": "smooth & expressive",
+        "cedar": "clear & natural",
+        "coral": "warm & friendly",
         "echo": "warm & conversational",
-        "fable": "expressive & dynamic",
-        "onyx": "deep & authoritative",
+        "fable": "expressive storyteller",
+        "marin": "clear & professional",
         "nova": "friendly & warm",
+        "onyx": "deep & authoritative",
+        "sage": "clear & balanced",
         "shimmer": "soft & gentle",
+        "verse": "natural & engaging",
     }
-    voice_desc = voice_descriptions.get(tts_voice, "natural")
+    voice_desc = voice_descriptions.get(tts_voice, "AI-narrated")
     
     html = f'''<!DOCTYPE html>
 <html lang="en">
@@ -111,10 +122,12 @@ def generate_index_html(config: dict) -> str:
         :root {{
             --color-text: #1a1a1a;
             --color-text-muted: #666;
-            --color-bg: #fff;
-            --color-border: #eee;
-            --color-accent: #f7b955;
-            --color-accent-hover: #e5a63d;
+            --color-text-light: #999;
+            --color-bg: #fafafa;
+            --color-bg-white: #fff;
+            --color-border: #e5e5e5;
+            --color-accent: #1a1a1a;
+            --color-accent-hover: #333;
         }}
 
         * {{
@@ -132,95 +145,183 @@ def generate_index_html(config: dict) -> str:
         }}
 
         .container {{
-            max-width: 600px;
+            max-width: 720px;
             margin: 0 auto;
-            padding: 80px 24px;
+            padding: 100px 32px 80px;
         }}
 
+        /* Hero Section - Compact */
         header {{
+            text-align: center;
             margin-bottom: 48px;
-            display: flex;
-            gap: 24px;
-            align-items: flex-start;
-        }}
-
-        .header-artwork {{
-            width: 120px;
-            height: 120px;
-            border-radius: 16px;
-            flex-shrink: 0;
-            background: linear-gradient(135deg, #f7b955 0%, #ff8a5b 50%, #ea5455 100%);
-            box-shadow: 0 8px 24px rgba(247, 185, 85, 0.3);
-        }}
-
-        .header-artwork img {{
-            width: 100%;
-            height: 100%;
-            border-radius: 16px;
-            object-fit: cover;
-        }}
-
-        .header-text {{
-            flex: 1;
-            min-width: 0;
+            padding-bottom: 32px;
+            border-bottom: 1px solid var(--color-border);
         }}
 
         h1 {{
-            font-size: 1.5rem;
-            font-weight: 600;
-            letter-spacing: -0.02em;
-            margin-bottom: 8px;
+            font-family: 'Playfair Display', 'Georgia', serif;
+            font-size: 3rem;
+            font-weight: 800;
+            letter-spacing: -0.03em;
+            margin-bottom: 12px;
+            line-height: 1;
+            text-transform: uppercase;
         }}
 
         .tagline {{
             font-size: 1.1rem;
             color: var(--color-text-muted);
-            margin-bottom: 12px;
+            font-weight: 400;
+            line-height: 1.5;
         }}
 
+        /* Main Content */
         main {{
+            margin-bottom: 80px;
+        }}
+
+        /* Latest Episode Hero */
+        .latest-episode-hero {{
+            background: var(--color-bg-white);
+            border: 1px solid var(--color-border);
+            border-radius: 16px;
+            padding: 48px;
+            margin-bottom: 48px;
+            text-align: center;
+        }}
+
+        .latest-label {{
+            font-size: 0.8rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--color-text-light);
+            margin-bottom: 24px;
+        }}
+
+        .latest-episode-hero .episode-art {{
+            width: 280px;
+            height: 280px;
+            margin: 0 auto 32px;
+            border-radius: 12px;
+            background: linear-gradient(135deg, #e0e0e0 0%, #c0c0c0 100%);
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+        }}
+
+        .latest-episode-hero h2 {{
+            font-family: 'Playfair Display', 'Georgia', serif;
+            font-size: 2rem;
+            font-weight: 700;
+            margin-bottom: 16px;
+            line-height: 1.3;
+        }}
+
+        .latest-episode-hero .episode-meta {{
+            font-size: 1rem;
+            color: var(--color-text-light);
+            margin-bottom: 24px;
+        }}
+
+        .latest-episode-hero .episode-description {{
+            font-size: 1.05rem;
+            color: var(--color-text-muted);
+            line-height: 1.7;
+            margin-bottom: 32px;
+            max-width: 500px;
+            margin-left: auto;
+            margin-right: auto;
+        }}
+
+        .primary-actions {{
+            display: flex;
+            gap: 16px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }}
+
+        .btn-primary {{
+            padding: 16px 40px;
+            background: var(--color-accent);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 1.1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background 0.2s;
+            font-family: inherit;
+        }}
+
+        .btn-primary:hover {{
+            background: var(--color-accent-hover);
+        }}
+
+        .btn-secondary {{
+            padding: 16px 32px;
+            background: transparent;
+            color: var(--color-accent);
+            border: 1px solid var(--color-border);
+            border-radius: 8px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+            font-family: inherit;
+        }}
+
+        .btn-secondary:hover {{
+            background: var(--color-bg);
+            border-color: var(--color-accent);
+        }}
+
+        /* About Section */
+        .about-section {{
+            background: var(--color-bg-white);
+            border: 1px solid var(--color-border);
+            border-radius: 12px;
+            padding: 40px;
             margin-bottom: 48px;
         }}
 
-        .description {{
+        .about-section h3 {{
+            font-family: 'Playfair Display', 'Georgia', serif;
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-bottom: 24px;
+        }}
+
+        .about-grid {{
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 24px;
+            margin-bottom: 32px;
+        }}
+
+        .about-item {{
+            text-align: left;
+        }}
+
+        .about-item-label {{
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--color-text-light);
+            margin-bottom: 8px;
+        }}
+
+        .about-item-value {{
             font-size: 1rem;
             color: var(--color-text);
-            margin-bottom: 32px;
-            line-height: 1.7;
-        }}
-
-        .features {{
-            margin-bottom: 32px;
-            padding-left: 0;
-            list-style: none;
-        }}
-
-        .features li {{
-            position: relative;
-            padding-left: 24px;
-            margin-bottom: 8px;
-            color: var(--color-text-muted);
-        }}
-
-        .features li::before {{
-            content: "☀";
-            position: absolute;
-            left: 0;
-            color: var(--color-accent);
-        }}
-
-        /* Source pills */
-        .sources {{
-            margin-bottom: 24px;
         }}
 
         .sources-label {{
             font-size: 0.75rem;
             font-weight: 600;
             text-transform: uppercase;
-            letter-spacing: 0.05em;
-            color: var(--color-text-muted);
-            margin-bottom: 10px;
+            letter-spacing: 0.1em;
+            color: var(--color-text-light);
+            margin-bottom: 12px;
         }}
 
         .pills {{
@@ -231,140 +332,102 @@ def generate_index_html(config: dict) -> str:
 
         .pill {{
             font-size: 0.75rem;
-            padding: 4px 10px;
-            background: #f5f5f5;
+            padding: 4px 12px;
+            background: var(--color-bg);
+            border: 1px solid var(--color-border);
             border-radius: 20px;
             color: var(--color-text-muted);
             text-decoration: none;
-            transition: background 0.15s, color 0.15s;
+            transition: all 0.2s;
         }}
 
         a.pill:hover {{
             background: var(--color-accent);
             color: white;
+            border-color: var(--color-accent);
         }}
 
-        .pill-muted {{
-            background: transparent;
-            border: 1px dashed #ddd;
-        }}
-
-        /* Vibe badge */
-        .vibe-badge {{
-            display: inline-flex;
-            align-items: center;
-            gap: 6px;
-            font-size: 0.8rem;
-            color: var(--color-text-muted);
-            margin-top: 12px;
-        }}
-
-        .vibe-badge .mood {{
-            display: inline-flex;
-            gap: 4px;
-        }}
-
-        .vibe-badge .mood span {{
-            padding: 2px 8px;
-            background: linear-gradient(135deg, #f7b955 0%, #ff8a5b 100%);
-            color: white;
+        /* Subscribe Section */
+        .subscribe-section {{
+            background: var(--color-bg-white);
+            border: 1px solid var(--color-border);
             border-radius: 12px;
-            font-size: 0.7rem;
-            font-weight: 500;
+            padding: 40px;
+            margin-bottom: 64px;
+            text-align: center;
         }}
 
-        .rss-section {{
-            margin-bottom: 32px;
+        .subscribe-section h3 {{
+            font-family: 'Playfair Display', 'Georgia', serif;
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-bottom: 12px;
         }}
 
-        .rss-label {{
-            font-size: 0.8rem;
+        .subscribe-section p {{
+            font-size: 1rem;
             color: var(--color-text-muted);
-            margin-bottom: 8px;
+            margin-bottom: 24px;
         }}
 
         .rss-url {{
             font-family: 'SF Mono', 'Fira Code', monospace;
             font-size: 0.85rem;
-            color: var(--color-text-muted);
-            background: #f5f5f5;
-            padding: 12px 16px;
+            color: var(--color-text);
+            background: var(--color-bg);
+            padding: 14px 20px;
             border-radius: 8px;
             word-break: break-all;
             cursor: pointer;
-            transition: background 0.15s;
+            transition: background 0.2s;
+            border: 1px solid var(--color-border);
+            display: inline-block;
+            max-width: 100%;
         }}
 
         .rss-url:hover {{
-            background: #eee;
+            background: #f5f5f5;
         }}
 
+        /* Episodes List */
         .episodes {{
-            border-top: 1px solid var(--color-border);
-            padding-top: 32px;
+            margin-bottom: 64px;
         }}
 
         .episodes h2 {{
             font-size: 0.85rem;
             font-weight: 600;
             text-transform: uppercase;
-            letter-spacing: 0.05em;
-            color: var(--color-text-muted);
-            margin-bottom: 16px;
-        }}
-
-        /* Featured (latest) episode */
-        .episode-featured {{
-            background: #fafafa;
-            border-radius: 16px;
-            padding: 20px;
+            letter-spacing: 0.1em;
+            color: var(--color-text-light);
             margin-bottom: 24px;
         }}
 
-        .episode-featured .episode-row {{
-            flex-direction: column;
-            gap: 16px;
-        }}
-
-        .episode-featured .episode-art {{
-            width: 100%;
-            height: 200px;
-            border-radius: 12px;
-        }}
-
-        .episode-featured .episode-info h3 {{
-            font-size: 1.1rem;
-            white-space: normal;
-        }}
-
-        .episode-featured .episode-description {{
-            margin-top: 12px;
-            font-size: 0.9rem;
-            color: var(--color-text-muted);
-            line-height: 1.6;
-        }}
-
-        /* Regular episodes */
+        /* Regular episodes - compact list */
         .episode {{
-            padding: 16px 0;
-            border-bottom: 1px solid var(--color-border);
+            background: var(--color-bg-white);
+            border: 1px solid var(--color-border);
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 12px;
+            transition: border-color 0.2s;
         }}
 
-        .episode:last-child {{
-            border-bottom: none;
+        .episode:hover {{
+            border-color: var(--color-accent);
         }}
 
         .episode-row {{
             display: flex;
-            align-items: flex-start;
+            align-items: center;
             gap: 16px;
         }}
 
         .episode-art {{
             width: 64px;
             height: 64px;
-            background: linear-gradient(135deg, #f7b955 0%, #ff8a5b 50%, #ea5455 100%);
-            border-radius: 8px;
+            background: linear-gradient(135deg, #e0e0e0 0%, #c0c0c0 100%);
+            border-radius: 6px;
             flex-shrink: 0;
         }}
 
@@ -374,57 +437,52 @@ def generate_index_html(config: dict) -> str:
         }}
 
         .episode-info h3 {{
-            font-size: 0.95rem;
-            font-weight: 500;
+            font-size: 1rem;
+            font-weight: 600;
             margin-bottom: 4px;
-            white-space: nowrap;
+            line-height: 1.3;
             overflow: hidden;
             text-overflow: ellipsis;
+            white-space: nowrap;
         }}
 
         .episode-meta {{
-            font-size: 0.8rem;
-            color: var(--color-text-muted);
-            margin-bottom: 6px;
-        }}
-
-        .episode-description {{
             font-size: 0.85rem;
-            color: var(--color-text-muted);
-            line-height: 1.5;
-            margin-top: 8px;
-            display: -webkit-box;
-            -webkit-line-clamp: 2;
-            -webkit-box-orient: vertical;
-            overflow: hidden;
+            color: var(--color-text-light);
         }}
 
-        .episode-links {{
+        .episode-actions {{
             display: flex;
             gap: 12px;
-            font-size: 0.8rem;
-            margin-top: 8px;
+            flex-shrink: 0;
         }}
 
-        .episode-links button {{
+        .episode-actions button {{
             background: none;
             border: none;
-            color: var(--color-accent);
+            color: var(--color-text-muted);
             cursor: pointer;
-            font-size: 0.8rem;
+            font-size: 1.2rem;
             font-family: inherit;
-            padding: 0;
+            padding: 8px;
+            transition: color 0.2s;
+            line-height: 1;
         }}
 
-        .episode-links button:hover {{
-            text-decoration: underline;
+        .episode-actions button:hover {{
+            color: var(--color-accent);
+        }}
+
+        .play-button {{
+            font-size: 1.5rem !important;
         }}
 
         /* Audio Player */
         .audio-player {{
-            margin-top: 12px;
-            padding: 12px;
-            background: #f8f8f8;
+            margin-top: 16px;
+            padding: 16px;
+            background: var(--color-bg);
+            border: 1px solid var(--color-border);
             border-radius: 8px;
             display: none;
         }}
@@ -451,7 +509,7 @@ def generate_index_html(config: dict) -> str:
             left: 0;
             right: 0;
             bottom: 0;
-            background: rgba(0, 0, 0, 0.5);
+            background: rgba(0, 0, 0, 0.6);
             display: flex;
             align-items: center;
             justify-content: center;
@@ -459,7 +517,7 @@ def generate_index_html(config: dict) -> str:
             opacity: 0;
             visibility: hidden;
             transition: opacity 0.2s, visibility 0.2s;
-            padding: 20px;
+            padding: 24px;
         }}
 
         .modal-overlay.active {{
@@ -468,16 +526,16 @@ def generate_index_html(config: dict) -> str:
         }}
 
         .modal {{
-            background: white;
-            border-radius: 16px;
-            max-width: 600px;
+            background: var(--color-bg-white);
+            border-radius: 12px;
+            max-width: 680px;
             width: 100%;
             max-height: 80vh;
             display: flex;
             flex-direction: column;
             transform: translateY(20px);
             transition: transform 0.2s;
-            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.3);
         }}
 
         .modal-overlay.active .modal {{
@@ -485,7 +543,7 @@ def generate_index_html(config: dict) -> str:
         }}
 
         .modal-header {{
-            padding: 20px 24px;
+            padding: 24px 32px;
             border-bottom: 1px solid var(--color-border);
             display: flex;
             justify-content: space-between;
@@ -493,7 +551,7 @@ def generate_index_html(config: dict) -> str:
         }}
 
         .modal-header h3 {{
-            font-size: 1.1rem;
+            font-size: 1.25rem;
             font-weight: 600;
         }}
 
@@ -503,24 +561,25 @@ def generate_index_html(config: dict) -> str:
             font-size: 1.5rem;
             cursor: pointer;
             color: var(--color-text-muted);
-            padding: 4px 8px;
+            padding: 8px 12px;
             line-height: 1;
-            border-radius: 4px;
+            border-radius: 6px;
+            transition: background 0.2s;
         }}
 
         .modal-close:hover {{
-            background: #f5f5f5;
+            background: var(--color-bg);
         }}
 
         .modal-body {{
-            padding: 24px;
+            padding: 32px;
             overflow-y: auto;
             flex: 1;
         }}
 
         .transcript-text {{
             white-space: pre-wrap;
-            font-size: 0.95rem;
+            font-size: 1rem;
             line-height: 1.8;
             color: var(--color-text);
         }}
@@ -528,102 +587,182 @@ def generate_index_html(config: dict) -> str:
         .transcript-loading {{
             text-align: center;
             color: var(--color-text-muted);
-            padding: 40px;
+            padding: 60px;
         }}
 
         .transcript-error {{
             text-align: center;
             color: #e74c3c;
-            padding: 40px;
+            padding: 60px;
         }}
 
         footer {{
-            padding-top: 32px;
-            border-top: 1px solid var(--color-border);
-            font-size: 0.85rem;
-            color: var(--color-text-muted);
+            padding-top: 64px;
+            text-align: center;
+            font-size: 0.9rem;
+            color: var(--color-text-light);
         }}
 
         footer a {{
             color: var(--color-text);
             text-decoration: none;
+            transition: color 0.2s;
         }}
 
         footer a:hover {{
-            text-decoration: underline;
+            color: var(--color-accent);
         }}
 
-        @media (max-width: 500px) {{
+        @media (max-width: 768px) {{
             .container {{
-                padding: 48px 20px;
+                padding: 60px 24px 60px;
             }}
 
-            header {{
+            h1 {{
+                font-size: 2.5rem;
+            }}
+
+            .tagline {{
+                font-size: 1rem;
+            }}
+
+            .latest-episode-hero {{
+                padding: 32px 24px;
+            }}
+
+            .latest-episode-hero .episode-art {{
+                width: 200px;
+                height: 200px;
+            }}
+
+            .latest-episode-hero h2 {{
+                font-size: 1.5rem;
+            }}
+
+            .primary-actions {{
                 flex-direction: column;
-                align-items: center;
-                text-align: center;
             }}
 
-            .header-artwork {{
-                width: 100px;
-                height: 100px;
+            .btn-primary,
+            .btn-secondary {{
+                width: 100%;
             }}
 
-            .episode-featured .episode-art {{
-                height: 160px;
+            .subscribe-section,
+            .about-section {{
+                padding: 32px 24px;
+            }}
+
+            .about-grid {{
+                grid-template-columns: 1fr;
+                gap: 20px;
+            }}
+
+            .episode-row {{
+                gap: 12px;
+            }}
+
+            .episode-art {{
+                width: 56px;
+                height: 56px;
+            }}
+
+            .episode-info h3 {{
+                font-size: 0.9rem;
+            }}
+
+            .episode-meta {{
+                font-size: 0.8rem;
+            }}
+
+            .episode-actions {{
+                flex-direction: column;
+                gap: 8px;
             }}
 
             .modal {{
                 max-height: 90vh;
             }}
 
+            .modal-header {{
+                padding: 20px 24px;
+            }}
+
             .modal-body {{
-                padding: 16px;
+                padding: 24px;
+            }}
+        }}
+
+        @media (max-width: 480px) {{
+            h1 {{
+                font-size: 2rem;
+            }}
+
+            .latest-episode-hero .episode-art {{
+                width: 160px;
+                height: 160px;
             }}
         }}
     </style>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800;900&display=swap" rel="stylesheet">
 </head>
 <body>
     <div class="container">
         <header>
-            <div class="header-artwork">
-                <img src="{artwork_url}" alt="{short_title}" onerror="this.style.display='none'">
-            </div>
-            <div class="header-text">
-                <h1>{short_title}</h1>
-                <p class="tagline">{tagline}</p>
-                <div class="vibe-badge">
-                    <span class="mood"><span>{mood_primary}</span><span>{mood_secondary}</span></span>
-                    <span>· {tts_voice} voice ({voice_desc})</span>
-                </div>
-            </div>
+            <h1>{short_title}</h1>
+            <p class="tagline">{tagline}</p>
         </header>
 
         <main>
-            <p class="description">{dynamic_description}</p>
-
-            <ul class="features">
-                <li>~{target_minutes} minutes of {mood_primary} content</li>
-                <li>Local weather for your area</li>
-                <li>Focus on {topics_text}</li>
-                <li>New episode every day</li>
-            </ul>
-
-            <div class="sources">
-                <p class="sources-label">Curated from</p>
-                <div class="pills">{source_pills}</div>
+            <!-- Latest Episode Hero -->
+            <div class="latest-episode-hero" id="latest-episode-placeholder">
+                <p class="latest-label">Latest Episode</p>
+                <p style="color: var(--color-text-muted); padding: 40px 0;">Loading...</p>
             </div>
 
-            <div class="rss-section">
-                <p class="rss-label">Copy the feed URL to subscribe in your podcast app:</p>
+            <!-- Subscribe -->
+            <div class="subscribe-section">
+                <h3>Subscribe</h3>
+                <p>Get new episodes automatically in your favorite podcast app</p>
                 <div class="rss-url" id="rss-url" onclick="copyToClipboard(this)"></div>
             </div>
 
-            <div class="episodes" id="episodes-list"></div>
+            <!-- Recent Episodes -->
+            <div class="episodes">
+                <h2>Recent Episodes</h2>
+                <div id="episodes-list"></div>
+            </div>
+
+            <!-- About -->
+            <div class="about-section">
+                <h3>About This Show</h3>
+                <div class="about-grid">
+                    <div class="about-item">
+                        <div class="about-item-label">Format</div>
+                        <div class="about-item-value">~{target_minutes} minutes daily</div>
+                    </div>
+                    <div class="about-item">
+                        <div class="about-item-label">Content</div>
+                        <div class="about-item-value">{topics_text.capitalize()}</div>
+                    </div>
+                    <div class="about-item">
+                        <div class="about-item-label">Voice</div>
+                        <div class="about-item-value">{tts_voice} ({voice_desc})</div>
+                    </div>
+                    <div class="about-item">
+                        <div class="about-item-label">Vibe</div>
+                        <div class="about-item-value">{mood_primary.capitalize()}</div>
+                    </div>
+                </div>
+                <div class="sources-label">Sources</div>
+                <div class="pills">{source_pills}</div>
+            </div>
         </main>
 
         <footer>
-            <p>Made by {author_html} · Powered by good vibes ☀️</p>
+            <p>Made by {author_html}</p>
         </footer>
     </div>
 
@@ -660,15 +799,21 @@ def generate_index_html(config: dict) -> str:
             const player = document.getElementById('player-' + episodeId);
             const audio = document.getElementById('audio-' + episodeId);
             const btn = document.getElementById('btn-' + episodeId);
+            const isCompact = btn.classList.contains('play-button');
+            const isPrimary = btn.classList.contains('btn-primary');
             
             // If clicking on currently playing episode, toggle it
             if (currentPlayerId === episodeId) {{
                 if (audio.paused) {{
                     audio.play();
-                    btn.textContent = '⏸ Pause';
+                    if (isCompact) btn.textContent = '⏸';
+                    else if (isPrimary) btn.textContent = '⏸ Pause';
+                    else btn.textContent = '⏸ Pause';
                 }} else {{
                     audio.pause();
-                    btn.textContent = '▶ Listen';
+                    if (isCompact) btn.textContent = '▶';
+                    else if (isPrimary) btn.textContent = '▶ Play Episode';
+                    else btn.textContent = '▶ Listen';
                 }}
                 return;
             }}
@@ -677,7 +822,13 @@ def generate_index_html(config: dict) -> str:
             if (currentAudio && !currentAudio.paused) {{
                 currentAudio.pause();
                 const prevBtn = document.getElementById('btn-' + currentPlayerId);
-                if (prevBtn) prevBtn.textContent = '▶ Listen';
+                if (prevBtn) {{
+                    const prevIsCompact = prevBtn.classList.contains('play-button');
+                    const prevIsPrimary = prevBtn.classList.contains('btn-primary');
+                    if (prevIsCompact) prevBtn.textContent = '▶';
+                    else if (prevIsPrimary) prevBtn.textContent = '▶ Play Episode';
+                    else prevBtn.textContent = '▶ Listen';
+                }}
                 const prevPlayer = document.getElementById('player-' + currentPlayerId);
                 if (prevPlayer) prevPlayer.classList.remove('active');
             }}
@@ -685,14 +836,22 @@ def generate_index_html(config: dict) -> str:
             // Show and play the new player
             player.classList.add('active');
             audio.play();
-            btn.textContent = '⏸ Pause';
+            if (isCompact) btn.textContent = '⏸';
+            else if (isPrimary) btn.textContent = '⏸ Pause';
+            else btn.textContent = '⏸ Pause';
             currentAudio = audio;
             currentPlayerId = episodeId;
         }}
 
         function onAudioEnded(episodeId) {{
             const btn = document.getElementById('btn-' + episodeId);
-            if (btn) btn.textContent = '▶ Listen';
+            if (btn) {{
+                const isCompact = btn.classList.contains('play-button');
+                const isPrimary = btn.classList.contains('btn-primary');
+                if (isCompact) btn.textContent = '▶';
+                else if (isPrimary) btn.textContent = '▶ Play Episode';
+                else btn.textContent = '▶ Listen';
+            }}
         }}
 
         function openTranscript(title, transcriptUrl) {{
@@ -736,91 +895,99 @@ def generate_index_html(config: dict) -> str:
             if (e.key === 'Escape') closeModal();
         }});
 
+        function parseEpisode(item, index) {{
+            const title = item.querySelector('title')?.textContent || 'Episode';
+            const pubDate = item.querySelector('pubDate')?.textContent;
+            const guid = item.querySelector('guid')?.textContent || '';
+            const description = item.querySelector('description')?.textContent || '';
+            const enclosure = item.querySelector('enclosure');
+            const audioUrl = enclosure?.getAttribute('url') || '';
+            
+            const allChildren = item.children;
+            let duration = '~4 min';
+            let imageUrl = '';
+            let summary = '';
+            for (let j = 0; j < allChildren.length; j++) {{
+                const child = allChildren[j];
+                const localName = child.localName || child.nodeName.split(':').pop();
+                if (localName === 'duration') duration = child.textContent;
+                if (localName === 'image' && child.hasAttribute('href')) imageUrl = child.getAttribute('href');
+                if (localName === 'summary') summary = child.textContent;
+            }}
+            
+            if (!imageUrl) {{
+                const itunesImages = item.getElementsByTagName('itunes:image');
+                if (itunesImages.length > 0) imageUrl = itunesImages[0].getAttribute('href');
+            }}
+            
+            const episodeDesc = (summary || description).replace(/<[^>]*>/g, '').trim();
+            let dateStr = '';
+            if (pubDate) {{
+                const d = new Date(pubDate);
+                dateStr = d.toLocaleDateString('en-US', {{ weekday: 'short', month: 'short', day: 'numeric' }});
+            }}
+            
+            const artStyle = imageUrl 
+                ? `background-image: url('${{imageUrl}}'); background-size: cover; background-position: center;`
+                : `background: linear-gradient(135deg, #e0e0e0 0%, #c0c0c0 100%);`;
+            
+            return {{ title, pubDate, guid: guid || index, description: episodeDesc, audioUrl, duration, imageUrl, dateStr, artStyle }};
+        }}
+
         fetch('feed.xml')
             .then(r => r.text())
             .then(xml => {{
                 const parser = new DOMParser();
                 const doc = parser.parseFromString(xml, 'text/xml');
                 const items = doc.querySelectorAll('item');
-                const maxEpisodes = 7;
                 
                 if (items.length === 0) return;
                 
-                let episodesHtml = '';
+                // Render latest episode in hero
+                const latest = parseEpisode(items[0], 0);
+                const transcriptUrl = transcriptBaseUrl + latest.guid + '.txt';
+                const escapedTitle = latest.title.replace(/'/g, "\\\\'");
+                const escapedUrl = transcriptUrl.replace(/'/g, "\\\\'");
                 
-                for (let i = 0; i < Math.min(items.length, maxEpisodes); i++) {{
-                    const item = items[i];
-                    const title = item.querySelector('title')?.textContent || 'Episode';
-                    const pubDate = item.querySelector('pubDate')?.textContent;
-                    const guid = item.querySelector('guid')?.textContent || '';
-                    const description = item.querySelector('description')?.textContent || '';
-                    const enclosure = item.querySelector('enclosure');
-                    const audioUrl = enclosure?.getAttribute('url') || '';
-                    
-                    const allChildren = item.children;
-                    let duration = '~4 min';
-                    let imageUrl = '';
-                    let summary = '';
-                    for (let j = 0; j < allChildren.length; j++) {{
-                        const child = allChildren[j];
-                        const localName = child.localName || child.nodeName.split(':').pop();
-                        if (localName === 'duration') {{
-                            duration = child.textContent;
-                        }}
-                        if (localName === 'image' && child.hasAttribute('href')) {{
-                            imageUrl = child.getAttribute('href');
-                        }}
-                        if (localName === 'summary') {{
-                            summary = child.textContent;
-                        }}
-                    }}
-                    
-                    // Fallback: try getElementsByTagName for itunes:image
-                    if (!imageUrl) {{
-                        const itunesImages = item.getElementsByTagName('itunes:image');
-                        if (itunesImages.length > 0) {{
-                            imageUrl = itunesImages[0].getAttribute('href');
-                        }}
-                    }}
-                    
-                    // Use summary or description, clean HTML tags
-                    const episodeDesc = (summary || description).replace(/<[^>]*>/g, '').trim();
-                    
-                    let dateStr = '';
-                    if (pubDate) {{
-                        const d = new Date(pubDate);
-                        dateStr = d.toLocaleDateString('en-US', {{ weekday: 'short', month: 'short', day: 'numeric' }});
-                    }}
-                    
-                    const artStyle = imageUrl 
-                        ? `background-image: url('${{imageUrl}}'); background-size: cover; background-position: center;`
-                        : `background: linear-gradient(135deg, #f7b955 0%, #ff8a5b 50%, #ea5455 100%);`;
-                    
-                    const transcriptUrl = transcriptBaseUrl + guid + '.txt';
-                    const episodeId = guid || i;
-                    const escapedTitle = title.replace(/'/g, "\\\\'");
+                document.getElementById('latest-episode-placeholder').innerHTML = `
+                    <p class="latest-label">Latest Episode</p>
+                    <div class="episode-art" style="${{latest.artStyle}}"></div>
+                    <h2>${{latest.title}}</h2>
+                    <p class="episode-meta">${{latest.dateStr}} · ${{latest.duration}}</p>
+                    ${{latest.description ? `<p class="episode-description">${{latest.description}}</p>` : ''}}
+                    <div class="primary-actions">
+                        <button class="btn-primary" id="btn-${{latest.guid}}" onclick="togglePlayer('${{latest.guid}}', '${{latest.audioUrl}}')">▶ Play Episode</button>
+                        <button class="btn-secondary" onclick="openTranscript('${{escapedTitle}}', '${{escapedUrl}}')">📄 Read Transcript</button>
+                    </div>
+                    <div class="audio-player" id="player-${{latest.guid}}">
+                        <audio id="audio-${{latest.guid}}" src="${{latest.audioUrl}}" preload="none" onended="onAudioEnded('${{latest.guid}}')" controls></audio>
+                    </div>
+                `;
+                
+                // Render remaining episodes in compact list
+                let episodesHtml = '';
+                const maxEpisodes = 10;
+                for (let i = 1; i < Math.min(items.length, maxEpisodes); i++) {{
+                    const ep = parseEpisode(items[i], i);
+                    const transcriptUrl = transcriptBaseUrl + ep.guid + '.txt';
+                    const escapedTitle = ep.title.replace(/'/g, "\\\\'");
                     const escapedUrl = transcriptUrl.replace(/'/g, "\\\\'");
                     
-                    const isFeatured = i === 0;
-                    const episodeClass = isFeatured ? 'episode episode-featured' : 'episode';
-                    const sectionHeader = isFeatured ? '<h2>Latest Episode</h2>' : (i === 1 ? '<h2>Previous Episodes</h2>' : '');
-                    
-                    episodesHtml += sectionHeader + `
-                        <div class="${{episodeClass}}">
+                    episodesHtml += `
+                        <div class="episode">
                             <div class="episode-row">
-                                <div class="episode-art" style="${{artStyle}}"></div>
+                                <div class="episode-art" style="${{ep.artStyle}}"></div>
                                 <div class="episode-info">
-                                    <h3>${{title}}</h3>
-                                    <p class="episode-meta">${{dateStr}} · ${{duration}}</p>
-                                    ${{episodeDesc ? `<p class="episode-description">${{episodeDesc}}</p>` : ''}}
-                                    <div class="episode-links">
-                                        <button id="btn-${{episodeId}}" onclick="togglePlayer('${{episodeId}}', '${{audioUrl}}')">▶ Listen</button>
-                                        <button onclick="openTranscript('${{escapedTitle}}', '${{escapedUrl}}')">📄 Transcript</button>
-                                    </div>
+                                    <h3>${{ep.title}}</h3>
+                                    <p class="episode-meta">${{ep.dateStr}} · ${{ep.duration}}</p>
+                                </div>
+                                <div class="episode-actions">
+                                    <button class="play-button" id="btn-${{ep.guid}}" onclick="togglePlayer('${{ep.guid}}', '${{ep.audioUrl}}')" title="Play">▶</button>
+                                    <button onclick="openTranscript('${{escapedTitle}}', '${{escapedUrl}}')" title="Transcript">📄</button>
                                 </div>
                             </div>
-                            <div class="audio-player" id="player-${{episodeId}}">
-                                <audio id="audio-${{episodeId}}" src="${{audioUrl}}" preload="none" onended="onAudioEnded('${{episodeId}}')" controls></audio>
+                            <div class="audio-player" id="player-${{ep.guid}}">
+                                <audio id="audio-${{ep.guid}}" src="${{ep.audioUrl}}" preload="none" onended="onAudioEnded('${{ep.guid}}')" controls></audio>
                             </div>
                         </div>
                     `;

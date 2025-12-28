@@ -1,46 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1400">
-  <defs>
-    <linearGradient id="sunrise" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f7b955"/>
-      <stop offset="50%" style="stop-color:#ff8a5b"/>
-      <stop offset="100%" style="stop-color:#ea5455"/>
-    </linearGradient>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#1a2332"/>
-      <stop offset="100%" style="stop-color:#0f1419"/>
-    </linearGradient>
-  </defs>
-  
   <!-- Background -->
-  <rect width="1400" height="1400" fill="url(#bg)"/>
+  <rect width="1400" height="1400" fill="#fafafa"/>
   
-  <!-- Decorative circles -->
-  <circle cx="200" cy="200" r="300" fill="rgba(247, 185, 85, 0.08)"/>
-  <circle cx="1200" cy="1200" r="400" fill="rgba(113, 201, 206, 0.06)"/>
+  <!-- Subtle border -->
+  <rect x="0" y="0" width="1400" height="1400" fill="none" stroke="#e5e5e5" stroke-width="2"/>
   
-  <!-- Main icon circle -->
-  <circle cx="700" cy="550" r="200" fill="url(#sunrise)"/>
-  
-  <!-- Checkmark/sun rays icon -->
-  <path d="M620 550 L670 600 L780 490" 
-        stroke="white" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
-  
-  <!-- Title -->
-  <text x="700" y="850" 
-        font-family="Georgia, serif" 
-        font-size="140" 
-        font-weight="400"
-        fill="url(#sunrise)" 
-        text-anchor="middle">Vibecast</text>
+  <!-- Main title - large serif, centered vertically -->
+  <text x="700" y="720" 
+        font-family="'Playfair Display', Georgia, serif" 
+        font-size="220" 
+        font-weight="800"
+        letter-spacing="-8"
+        fill="#1a1a1a" 
+        text-anchor="middle">VIBECAST</text>
   
   <!-- Subtitle -->
-  <text x="700" y="950" 
-        font-family="Arial, sans-serif" 
-        font-size="48" 
-        fill="#8b98a5" 
-        text-anchor="middle">Your Daily Good News</text>
-  
-  <!-- Bottom accent line -->
-  <rect x="500" y="1050" width="400" height="4" rx="2" fill="url(#sunrise)" opacity="0.6"/>
+  <text x="700" y="840" 
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" 
+        font-size="52" 
+        font-weight="400"
+        letter-spacing="1"
+        fill="#666666" 
+        text-anchor="middle">Your News, Your Way</text>
 </svg>
-
