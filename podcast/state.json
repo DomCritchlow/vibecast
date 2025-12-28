@@ -1,11 +1,5 @@
 {
   "used_urls": [
-    "https://www.dezeen.com/2025/12/20/this-week-dezeen-coffee-pot-helical-spiral-base/",
-    "https://www.positive.news/environment/solar-reimagined-meet-the-bright-minds-pushing-it-into-the-future/",
-    "https://www.positive.news/environment/a-vast-oyster-reef-is-about-to-transform-the-english-coast/",
-    "https://www.goodnewsnetwork.org/simply-shining-light-on-skin-can-replace-finger-pricks-for-people-with-diabetes/",
-    "https://www.goodnewsnetwork.org/microscopic-christmas-tree-is-remarkable-highlight-of-science-project-comparing-the-vast-and-small/",
-    "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
     "https://eze.lovable.app/",
     "https://github.com/spring-ai-community/spring-ai-playground",
     "https://www.space.com/space-exploration/starship-success-a-private-moon-landing-and-more-the-top-10-spaceflight-stories-of-2025",
@@ -41,15 +35,15 @@
     "https://www.dezeen.com/2025/12/26/mass-timber-buildings-2025/",
     "https://gothamist.com/news/nypd-lieutenant-fired-after-refusing-to-answer-questions-about-fire-at-his-home",
     "https://www.positive.news/lifestyle/wander-notice-be-where-you-are-the-creative-power-of-deep-hanging-out/",
-    "https://www.positive.news/society/good-news-stories-from-week-51-of-2025/"
+    "https://www.positive.news/society/good-news-stories-from-week-51-of-2025/",
+    "https://www.goodnewsnetwork.org/merry-kiss-mas-thousands-gather-under-10-foot-mistletoe-in-nations-capital-to-set-the-guinness-record-for-festive-smooches/",
+    "https://gothamist.com/news/new-york-state-has-set-a-record-for-flu-cases-ahead-of-peak-season",
+    "https://www.positive.news/science/technology/ctrlaltdefy-the-white-hat-hacker-rewriting-the-cybersecurity-rulebook/",
+    "https://www.positive.news/environment/solar-reimagined-meet-the-bright-minds-pushing-it-into-the-future/",
+    "https://www.goodnewsnetwork.org/veteran-inspired-drone-company-finds-lost-dog-in-frigid-cold-in-just-41-minutes/",
+    "https://openai.com/index/hardening-atlas-against-prompt-injection"
   ],
   "url_timestamps": {
-    "https://www.dezeen.com/2025/12/20/this-week-dezeen-coffee-pot-helical-spiral-base/": "2025-12-21T04:39:40.553107",
-    "https://www.positive.news/environment/solar-reimagined-meet-the-bright-minds-pushing-it-into-the-future/": "2025-12-21T04:39:40.553107",
-    "https://www.positive.news/environment/a-vast-oyster-reef-is-about-to-transform-the-english-coast/": "2025-12-21T04:39:40.553107",
-    "https://www.goodnewsnetwork.org/simply-shining-light-on-skin-can-replace-finger-pricks-for-people-with-diabetes/": "2025-12-21T04:39:40.553107",
-    "https://www.goodnewsnetwork.org/microscopic-christmas-tree-is-remarkable-highlight-of-science-project-comparing-the-vast-and-small/": "2025-12-21T04:39:40.553107",
-    "https://openai.com/index/ai-literacy-resources-for-teens-and-parents": "2025-12-21T04:39:40.553107",
     "https://eze.lovable.app/": "2025-12-22T04:42:52.824261",
     "https://github.com/spring-ai-community/spring-ai-playground": "2025-12-22T04:42:52.824261",
     "https://www.space.com/space-exploration/starship-success-a-private-moon-landing-and-more-the-top-10-spaceflight-stories-of-2025": "2025-12-22T04:42:52.824261",
@@ -85,7 +79,13 @@
     "https://www.dezeen.com/2025/12/26/mass-timber-buildings-2025/": "2025-12-27T04:35:19.990418",
     "https://gothamist.com/news/nypd-lieutenant-fired-after-refusing-to-answer-questions-about-fire-at-his-home": "2025-12-27T04:35:19.990418",
     "https://www.positive.news/lifestyle/wander-notice-be-where-you-are-the-creative-power-of-deep-hanging-out/": "2025-12-27T04:35:19.990418",
-    "https://www.positive.news/society/good-news-stories-from-week-51-of-2025/": "2025-12-27T04:35:19.990418"
+    "https://www.positive.news/society/good-news-stories-from-week-51-of-2025/": "2025-12-27T04:35:19.990418",
+    "https://www.goodnewsnetwork.org/merry-kiss-mas-thousands-gather-under-10-foot-mistletoe-in-nations-capital-to-set-the-guinness-record-for-festive-smooches/": "2025-12-28T08:39:42.596127",
+    "https://gothamist.com/news/new-york-state-has-set-a-record-for-flu-cases-ahead-of-peak-season": "2025-12-28T08:39:42.596127",
+    "https://www.positive.news/science/technology/ctrlaltdefy-the-white-hat-hacker-rewriting-the-cybersecurity-rulebook/": "2025-12-28T08:39:42.596127",
+    "https://www.positive.news/environment/solar-reimagined-meet-the-bright-minds-pushing-it-into-the-future/": "2025-12-28T08:39:42.596127",
+    "https://www.goodnewsnetwork.org/veteran-inspired-drone-company-finds-lost-dog-in-frigid-cold-in-just-41-minutes/": "2025-12-28T08:39:42.596127",
+    "https://openai.com/index/hardening-atlas-against-prompt-injection": "2025-12-28T08:39:42.596127"
   },
-  "last_run": "2025-12-27T04:35:19.990418"
+  "last_run": "2025-12-28T08:39:42.596127"
 }

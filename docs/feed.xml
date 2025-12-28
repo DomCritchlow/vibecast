@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast with weather, inspiring stories, and a reason to get excited about today.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Dec 2025 04:35:19 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 08:39:42 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast with weather, inspiring stories, and a reason to get excited about today.</itunes:summary>
@@ -27,6 +27,94 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Morning Vibe — December 28, 2025</title>
+      <description><![CDATA[Good news to fuel your day for December 28, 2025.
+
+Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Merry Kiss-mas: Thousands Gather Under 10-Foot Mistletoe in DC to Set Guinness Record for Festive Smooches
+   Source: Good News Network
+2. New York state has set a record for flu cases ahead of peak season
+   Source: Gothamist (NYC)
+3. Ctrl+Alt+Defy, the white-hat hacker rewriting the cybersecurity rulebook
+   Source: Positive News
+4. Solar, reimagined: meet the bright minds pushing it into the future
+   Source: Positive News
+5. Veteran Inspired Drone Company Finds Lost Dog in Frigid Cold in Just 41 Minutes–On Mission to Rescue Pets or People
+   Source: Good News Network
+6. Continuously hardening ChatGPT Atlas against prompt injection
+   Source: OpenAI News
+
+REFERENCES:
+
+1. Merry Kiss-mas: Thousands Gather Under 10-Foot Mistletoe in DC to Set Guinness Record for Festive Smooches
+   https://www.goodnewsnetwork.org/merry-kiss-mas-thousands-gather-under-10-foot-mistletoe-in-nations-capital-to-set-the-guinness-record-for-festive-smooches/
+
+2. New York state has set a record for flu cases ahead of peak season
+   https://gothamist.com/news/new-york-state-has-set-a-record-for-flu-cases-ahead-of-peak-season
+
+3. Ctrl+Alt+Defy, the white-hat hacker rewriting the cybersecurity rulebook
+   https://www.positive.news/science/technology/ctrlaltdefy-the-white-hat-hacker-rewriting-the-cybersecurity-rulebook/
+
+4. Solar, reimagined: meet the bright minds pushing it into the future
+   https://www.positive.news/environment/solar-reimagined-meet-the-bright-minds-pushing-it-into-the-future/
+
+5. Veteran Inspired Drone Company Finds Lost Dog in Frigid Cold in Just 41 Minutes–On Mission to Rescue Pets or People
+   https://www.goodnewsnetwork.org/veteran-inspired-drone-company-finds-lost-dog-in-frigid-cold-in-just-41-minutes/
+
+6. Continuously hardening ChatGPT Atlas against prompt injection
+   https://openai.com/index/hardening-atlas-against-prompt-injection
+]]></description>
+      <pubDate>Sun, 28 Dec 2025 08:38:49 -0000</pubDate>
+      <guid isPermaLink="false">2025-12-28</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-28.mp3" length="2392748" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[Good news to fuel your day for December 28, 2025.
+
+Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Merry Kiss-mas: Thousands Gather Under 10-Foot Mistletoe in DC to Set Guinness Record for Festive Smooches
+   Source: Good News Network
+2. New York state has set a record for flu cases ahead of peak season
+   Source: Gothamist (NYC)
+3. Ctrl+Alt+Defy, the white-hat hacker rewriting the cybersecurity rulebook
+   Source: Positive News
+4. Solar, reimagined: meet the bright minds pushing it into the future
+   Source: Positive News
+5. Veteran Inspired Drone Company Finds Lost Dog in Frigid Cold in Just 41 Minutes–On Mission to Rescue Pets or People
+   Source: Good News Network
+6. Continuously hardening ChatGPT Atlas against prompt injection
+   Source: OpenAI News
+
+REFERENCES:
+
+1. Merry Kiss-mas: Thousands Gather Under 10-Foot Mistletoe in DC to Set Guinness Record for Festive Smooches
+   https://www.goodnewsnetwork.org/merry-kiss-mas-thousands-gather-under-10-foot-mistletoe-in-nations-capital-to-set-the-guinness-record-for-festive-smooches/
+
+2. New York state has set a record for flu cases ahead of peak season
+   https://gothamist.com/news/new-york-state-has-set-a-record-for-flu-cases-ahead-of-peak-season
+
+3. Ctrl+Alt+Defy, the white-hat hacker rewriting the cybersecurity rulebook
+   https://www.positive.news/science/technology/ctrlaltdefy-the-white-hat-hacker-rewriting-the-cybersecurity-rulebook/
+
+4. Solar, reimagined: meet the bright minds pushing it into the future
+   https://www.positive.news/environment/solar-reimagined-meet-the-bright-minds-pushing-it-into-the-future/
+
+5. Veteran Inspired Drone Company Finds Lost Dog in Frigid Cold in Just 41 Minutes–On Mission to Rescue Pets or People
+   https://www.goodnewsnetwork.org/veteran-inspired-drone-company-finds-lost-dog-in-frigid-cold-in-just-41-minutes/
+
+6. Continuously hardening ChatGPT Atlas against prompt injection
+   https://openai.com/index/hardening-atlas-against-prompt-injection
+]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:52</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/images/2025-12-28.jpg"/>
+    </item>
     <item>
       <title>Morning Vibe — December 27, 2025</title>
       <description><![CDATA[Good news to fuel your day for December 27, 2025.
@@ -113,7 +201,6 @@ REFERENCES:
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:20</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/images/2025-12-27.jpg"/>
     </item>
     <item>
       <title>Morning Vibe — December 26, 2025</title>
