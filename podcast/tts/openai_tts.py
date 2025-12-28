@@ -22,10 +22,25 @@ class OpenAITTSProvider(TTSProvider):
             format: "mp3"
     """
     
-    VALID_VOICES = ["alloy", "echo", "fable", "onyx", "nova", "shimmer"]
-    VALID_MODELS = ["tts-1", "tts-1-hd"]
+    # All 13 available voices
+    VALID_VOICES = [
+        "alloy", "ash", "ballad", "cedar", "coral", "echo", 
+        "fable", "marin", "nova", "onyx", "sage", "shimmer", "verse"
+    ]
+    
+    # Available models
+    VALID_MODELS = [
+        "tts-1", "tts-1-hd",
+        "gpt-4o-mini-tts",
+        "gpt-4o-mini-tts-2025-12-15",
+        "gpt-4o-mini-tts-2025-03-20",
+    ]
+    
     VALID_FORMATS = ["mp3", "opus", "aac", "flac", "wav", "pcm"]
     MAX_CHARS = 4096
+    
+    # Note: marin and cedar are recommended for best quality
+    # Note: ballad, cedar, marin, verse only work with gpt-4o-mini-tts
     
     def __init__(self, config: dict):
         super().__init__(config)
@@ -36,6 +51,7 @@ class OpenAITTSProvider(TTSProvider):
         self.voice = self._validate_voice(self.openai_config.get("voice", "nova"))
         self.speed = self._validate_speed(self.openai_config.get("speed", 1.0))
         self.format = self._validate_format(self.openai_config.get("format", "mp3"))
+        self.instructions = self.openai_config.get("instructions")  # Optional instructions parameter
         
         # Create client
         self.client = OpenAI()
@@ -88,13 +104,20 @@ class OpenAITTSProvider(TTSProvider):
             if len(chunks) > 1:
                 print(f"  Synthesizing chunk {i + 1}/{len(chunks)} ({len(chunk)} chars)...")
             
-            response = self.client.audio.speech.create(
-                model=self.model,
-                voice=self.voice,
-                input=chunk,
-                speed=self.speed,
-                response_format=self.format,
-            )
+            # Build request parameters
+            params = {
+                "model": self.model,
+                "voice": self.voice,
+                "input": chunk,
+                "speed": self.speed,
+                "response_format": self.format,
+            }
+            
+            # Add instructions if provided (only works with gpt-4o-mini-tts)
+            if self.instructions:
+                params["instructions"] = self.instructions
+            
+            response = self.client.audio.speech.create(**params)
             audio_parts.append(response.content)
         
         # Concatenate audio chunks (MP3 frames are independent)

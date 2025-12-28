@@ -297,20 +297,39 @@ tts:
   
   # --- OpenAI TTS Settings (active) ---
   openai:
-    model: "tts-1-hd"         # tts-1 (fast/cheap), tts-1-hd (high quality)
+    # Model selection
+    # tts-1: Fast, cheaper ($15/1M chars) - supports 9 voices
+    # tts-1-hd: Better quality ($30/1M chars) - supports 9 voices  
+    # gpt-4o-mini-tts: Latest model with all 13 voices + instructions support
+    model: "gpt-4o-mini-tts"  
     
-    # Voice selection - pick one that matches your vibe
-    # Options: alloy, echo, fable, onyx, nova, shimmer
-    voice: "nova"             # nova = friendly, warm, energetic
-                              # shimmer = soft, gentle - great for calm/meditative
-                              # echo = warm male - conversational
-                              # fable = expressive - storyteller
+    # Voice selection - ALL 13 voices available with gpt-4o-mini-tts
+    # RECOMMENDED FOR BEST QUALITY: marin, cedar
+    # alloy - neutral, balanced
+    # ash - NEW voice
+    # ballad - NEW voice (gpt-4o-mini-tts only)
+    # cedar - BEST QUALITY (gpt-4o-mini-tts only)
+    # coral - NEW voice
+    # echo - male, warm, conversational
+    # fable - British accent, expressive storytelling ⭐ YOUR CHOICE
+    # marin - BEST QUALITY (gpt-4o-mini-tts only)
+    # nova - friendly, warm, energetic
+    # onyx - deep male, authoritative
+    # sage - NEW voice
+    # shimmer - soft, gentle, calming
+    # verse - NEW voice (gpt-4o-mini-tts only)
+    voice: "fable"            # British, expressive storyteller - great for engaging narratives
     
     # Speech speed: 0.25 (very slow) to 4.0 (very fast)
     speed: 0.95               # Slightly faster for energizing morning vibe
     
     # Output format
-    format: "mp3"             # Options: mp3, opus, aac, flac, wav
+    format: "mp3"             # Options: mp3, opus, aac, flac, wav, pcm
+    
+    # Instructions (optional) - Only works with gpt-4o-mini-tts
+    # Control: accent, emotional range, intonation, speed, tone, whispering
+    # Now supported in Python SDK (openai>=2.0.0)!
+    instructions: "Warm, engaging storyteller with natural British charm. Clear enunciation with expressive delivery and natural pacing. Convey enthusiasm while maintaining an authentic, conversational tone."
   
   # --- ElevenLabs TTS Settings (disabled) ---
   # To enable: set provider to "elevenlabs" and configure below
@@ -335,14 +354,17 @@ tts:
   # --- Audio Post-Processing ---
   # Apply professional audio enhancement to improve TTS output quality
   # Presets:
-  #   none      - No processing (original TTS output)
-  #   clarity   - Remove tin-can sound, boost vocal clarity (recommended for OpenAI)
-  #   warm      - Warm, full sound with bass boost
-  #   broadcast - Professional radio/broadcast quality
-  #   podcast   - Full professional podcast processing chain
+  #   none        - No processing (original TTS output)
+  #   natural     - NEW: Minimal touch, preserves voice character (great for gpt-4o-mini-tts) ⭐
+  #   storyteller - NEW: Optimized for expressive voices like fable
+  #   warm        - Warm, full sound with bass boost
+  #   clarity     - Remove tin-can sound, boost vocal clarity
+  #   crisp       - NEW: Maximum clarity and intelligibility
+  #   broadcast   - Professional radio/broadcast quality
+  #   podcast     - Full professional podcast processing chain
   audio_processing:
     enabled: true             # Enable/disable post-processing
-    preset: "podcast"         # Processing preset (see above)
+    preset: "natural"         # Minimal polish, preserves fable's expressiveness
 
 # =============================================================================
 # STORAGE - Cloudflare R2

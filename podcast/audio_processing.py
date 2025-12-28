@@ -64,6 +64,35 @@ class AudioProcessor:
                 "loudnorm=I=-16:TP=-1.5:LRA=11",  # Podcast loudness standard
             ],
         },
+        "natural": {
+            "description": "Minimal processing - preserves voice character (great for gpt-4o-mini-tts)",
+            "filters": [
+                "highpass=f=70",  # Very gentle high-pass
+                "equalizer=f=200:width_type=h:width=100:g=1",  # Subtle warmth
+                "loudnorm=I=-16:TP=-1.5:LRA=15",  # Normalize but preserve wide dynamics
+            ],
+        },
+        "storyteller": {
+            "description": "Optimized for expressive voices like fable - preserves dynamics and emotion",
+            "filters": [
+                "highpass=f=75",  # Clean but not aggressive
+                "equalizer=f=180:width_type=h:width=120:g=2",  # Gentle warmth
+                "equalizer=f=3200:width_type=o:width=1.8:g=3",  # Moderate presence (not too hot)
+                "equalizer=f=7500:width_type=h:width=3500:g=1",  # Subtle air
+                "compand=attacks=0.3:decays=0.7:points=-80/-900|-45/-18|-30/-12|-20/-9|-10/-6|0/-3|20/-3:soft-knee=8:gain=2:volume=-90:delay=0.08",  # Light compression, preserve expression
+                "loudnorm=I=-16:TP=-1.5:LRA=13",  # Standard loudness but more dynamic range
+            ],
+        },
+        "crisp": {
+            "description": "Clean and clear - minimal warmth, maximum intelligibility",
+            "filters": [
+                "highpass=f=85",  # Clean low-end
+                "equalizer=f=3500:width_type=o:width=2:g=4",  # Strong presence
+                "equalizer=f=8000:width_type=h:width=4000:g=2",  # Add sparkle
+                "compand=attacks=0.2:decays=0.5:points=-80/-900|-45/-16|-25/-10|-15/-7|-5/-3|0/-2|20/-2:soft-knee=6:gain=2:volume=-90:delay=0.05",  # Moderate compression
+                "loudnorm=I=-16:TP=-1.5:LRA=12",  # Standard loudness
+            ],
+        },
     }
     
     def __init__(self, preset: str = "clarity"):
