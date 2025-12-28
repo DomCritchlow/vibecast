@@ -78,7 +78,7 @@ podcast:
 # EPISODE STRUCTURE
 # =============================================================================
 episode:
-  target_minutes: 4
+  target_minutes: 5
   
   structure:
     - segment: "greeting"
