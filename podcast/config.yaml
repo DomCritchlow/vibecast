@@ -323,7 +323,8 @@ tts:
     # Speech speed: 0.25 (very slow) to 4.0 (very fast)
     speed: 0.95               # Slightly faster for energizing morning vibe
     
-    # Output format
+    # Output format (for TTS generation)
+    # MP3 works great with gpt-4o-mini-tts - clean output with minimal processing needed
     format: "mp3"             # Options: mp3, opus, aac, flac, wav, pcm
     
     # Instructions (optional) - Only works with gpt-4o-mini-tts
@@ -352,19 +353,17 @@ tts:
     format: "mp3_44100_128"   # Options: mp3_44100_128, mp3_44100_192, pcm_*
 
   # --- Audio Post-Processing ---
-  # Apply professional audio enhancement to improve TTS output quality
+  # Ultra-light processing optimized for gpt-4o-mini-tts + fable voice
+  # Removes low-end rumble and applies minimal polish (output: MP3 @ 192k)
+  #
   # Presets:
-  #   none        - No processing (original TTS output)
-  #   natural     - NEW: Minimal touch, preserves voice character (great for gpt-4o-mini-tts) ⭐
-  #   storyteller - NEW: Optimized for expressive voices like fable
-  #   warm        - Warm, full sound with bass boost
-  #   clarity     - Remove tin-can sound, boost vocal clarity
-  #   crisp       - NEW: Maximum clarity and intelligibility
-  #   broadcast   - Professional radio/broadcast quality
-  #   podcast     - Full professional podcast processing chain
+  #   none         - No processing (pure TTS output)
+  #   fable_light  - Ultra-minimal: removes rumble, gentle polish (RECOMMENDED) ⭐
+  #   clarity      - Remove tin-can sound (for older tts-1 model)
+  #   podcast      - Full professional podcast processing chain
   audio_processing:
     enabled: true             # Enable/disable post-processing
-    preset: "natural"         # Minimal polish, preserves fable's expressiveness
+    preset: "fable_light"     # Ultra-light processing optimized for fable
 
 # =============================================================================
 # STORAGE - Cloudflare R2

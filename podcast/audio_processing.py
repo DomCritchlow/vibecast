@@ -24,87 +24,49 @@ class AudioProcessor:
             "description": "No processing (original TTS output)",
             "filters": None,
         },
+        "fable_light": {
+            "description": "Ultra-light processing for fable voice - removes rumble, minimal intervention",
+            "filters": [
+                "highpass=f=90",  # Cut rumble/low-end artifacts
+                "equalizer=f=480:width_type=o:width=2.5:g=-1.2",  # Very light tin-can reduction
+                "equalizer=f=7000:width_type=o:width=2.5:g=-1",  # Very gentle de-ess
+                "loudnorm=I=-16:TP=-1.5:LRA=16",  # Normalize only, preserve maximum dynamics
+            ],
+        },
         "clarity": {
-            "description": "Remove tin-can sound, boost vocal clarity",
+            "description": "Remove tin-can sound - for older tts-1 model",
             "filters": [
-                "highpass=f=90",  # Remove low rumble
-                "equalizer=f=500:width_type=o:width=1.5:g=-4",  # Cut resonant "tin can" freq
-                "equalizer=f=3000:width_type=o:width=2:g=6",  # Boost presence
-                "equalizer=f=10000:width_type=h:width=5000:g=2",  # Smooth highs
-                "compand",  # Light compression
-                "loudnorm",  # Normalize loudness
-            ],
-        },
-        "warm": {
-            "description": "Warm, full sound with bass boost",
-            "filters": [
-                "highpass=f=80",  # Gentle high-pass
-                "bass=g=3",  # Boost bass
-                "treble=g=2",  # Enhance treble
-                "loudnorm",  # Normalize
-            ],
-        },
-        "broadcast": {
-            "description": "Professional radio/broadcast quality",
-            "filters": [
-                "highpass=f=80",
-                "equalizer=f=3000:width_type=h:width=2000:g=4",  # Presence boost
-                "compand=attacks=0.3:decays=0.8:points=-80/-900|-45/-15|-27/-9|0/-7|20/-7:soft-knee=6:gain=5:volume=-90:delay=0.1",
+                "highpass=f=90",
+                "equalizer=f=500:width_type=o:width=1.5:g=-4",
+                "equalizer=f=3000:width_type=o:width=2:g=6",
+                "equalizer=f=10000:width_type=h:width=5000:g=2",
+                "compand",
                 "loudnorm",
             ],
         },
         "podcast": {
             "description": "Full professional podcast processing chain",
             "filters": [
-                "highpass=f=100",  # Clean low-end
-                "equalizer=f=200:width_type=h:width=100:g=2",  # Warmth
-                "equalizer=f=3000:width_type=h:width=2000:g=5",  # Presence
-                "equalizer=f=8000:width_type=h:width=4000:g=3",  # Air/clarity
+                "highpass=f=100",
+                "equalizer=f=200:width_type=h:width=100:g=2",
+                "equalizer=f=3000:width_type=h:width=2000:g=5",
+                "equalizer=f=8000:width_type=h:width=4000:g=3",
                 "compand=attacks=0.1:decays=0.4:points=-80/-900|-50/-20|-30/-10|-20/-8|-10/-6|0/-4|20/-4:soft-knee=6:gain=3:volume=-90:delay=0.05",
-                "loudnorm=I=-16:TP=-1.5:LRA=11",  # Podcast loudness standard
-            ],
-        },
-        "natural": {
-            "description": "Minimal processing - preserves voice character (great for gpt-4o-mini-tts)",
-            "filters": [
-                "highpass=f=70",  # Very gentle high-pass
-                "equalizer=f=200:width_type=h:width=100:g=1",  # Subtle warmth
-                "loudnorm=I=-16:TP=-1.5:LRA=15",  # Normalize but preserve wide dynamics
-            ],
-        },
-        "storyteller": {
-            "description": "Optimized for expressive voices like fable - preserves dynamics and emotion",
-            "filters": [
-                "highpass=f=75",  # Clean but not aggressive
-                "equalizer=f=180:width_type=h:width=120:g=2",  # Gentle warmth
-                "equalizer=f=3200:width_type=o:width=1.8:g=3",  # Moderate presence (not too hot)
-                "equalizer=f=7500:width_type=h:width=3500:g=1",  # Subtle air
-                "compand=attacks=0.3:decays=0.7:points=-80/-900|-45/-18|-30/-12|-20/-9|-10/-6|0/-3|20/-3:soft-knee=8:gain=2:volume=-90:delay=0.08",  # Light compression, preserve expression
-                "loudnorm=I=-16:TP=-1.5:LRA=13",  # Standard loudness but more dynamic range
-            ],
-        },
-        "crisp": {
-            "description": "Clean and clear - minimal warmth, maximum intelligibility",
-            "filters": [
-                "highpass=f=85",  # Clean low-end
-                "equalizer=f=3500:width_type=o:width=2:g=4",  # Strong presence
-                "equalizer=f=8000:width_type=h:width=4000:g=2",  # Add sparkle
-                "compand=attacks=0.2:decays=0.5:points=-80/-900|-45/-16|-25/-10|-15/-7|-5/-3|0/-2|20/-2:soft-knee=6:gain=2:volume=-90:delay=0.05",  # Moderate compression
-                "loudnorm=I=-16:TP=-1.5:LRA=12",  # Standard loudness
+                "loudnorm=I=-16:TP=-1.5:LRA=11",
             ],
         },
     }
     
-    def __init__(self, preset: str = "clarity"):
+    def __init__(self, preset: str = "fable_light"):
         """Initialize audio processor.
         
         Args:
-            preset: Processing preset name (none, clarity, warm, broadcast, podcast)
+            preset: Processing preset name (none, fable_light, clarity, podcast)
         """
         self.preset = preset.lower()
         if self.preset not in self.PRESETS:
-            print(f"Warning: Unknown preset '{preset}', using 'clarity'")
-            self.preset = "clarity"
+            print(f"Warning: Unknown preset '{preset}', using 'fable_light'")
+            self.preset = "fable_light"
         
         self.ffmpeg_available = self._check_ffmpeg()
     
@@ -146,6 +108,9 @@ class AudioProcessor:
         filters = preset_config["filters"]
         
         if not filters:
+            if output_path:
+                with open(output_path, "wb") as f:
+                    f.write(audio_bytes)
             return audio_bytes
         
         # Create temp files
@@ -165,12 +130,13 @@ class AudioProcessor:
             # Build filter chain
             filter_chain = ",".join(filters)
             
-            # Run ffmpeg
+            # Run ffmpeg with 192k output
             cmd = [
                 "ffmpeg",
                 "-i", input_path,
                 "-af", filter_chain,
-                "-y",  # Overwrite output
+                "-b:a", "192k",  # High-quality MP3 output
+                "-y",
                 final_output,
             ]
             
@@ -181,7 +147,7 @@ class AudioProcessor:
             )
             
             if result.returncode != 0:
-                print(f"Warning: ffmpeg processing failed: {result.stderr.decode()}")
+                print(f"Warning: ffmpeg processing failed")
                 return audio_bytes
             
             # Read processed audio
@@ -234,18 +200,18 @@ class AudioProcessor:
 
 def enhance_audio(
     audio_bytes: bytes,
-    preset: str = "clarity",
+    preset: str = "fable_light",
     output_path: Optional[str] = None,
 ) -> bytes:
     """Convenience function to enhance audio.
     
     Args:
-        audio_bytes: Input audio data
-        preset: Processing preset (none, clarity, warm, broadcast, podcast)
+        audio_bytes: Input audio data (MP3)
+        preset: Processing preset (none, fable_light, clarity, podcast)
         output_path: Optional path to save output
         
     Returns:
-        Enhanced audio bytes
+        Enhanced audio bytes (MP3)
     """
     processor = AudioProcessor(preset=preset)
     return processor.process(audio_bytes, output_path)

@@ -1,5 +1,42 @@
 # Audio Post-Processing Guide
 
+## 🎙️ Optimized Audio Pipeline for VibeCast
+
+VibeCast uses **ultra-light processing** on high-quality TTS output:
+
+```
+OpenAI TTS (gpt-4o-mini-tts + fable) → MP3 → minimal processing → High-quality MP3 (192k)
+```
+
+### Why Minimal Processing?
+
+With **gpt-4o-mini-tts** and the **fable voice**, OpenAI's native MP3 output is excellent:
+- ✅ Expressive, natural British voice
+- ✅ Good dynamic range
+- ✅ Clean output with minimal artifacts
+
+**Our approach:** Fix only what needs fixing
+- Remove low-frequency rumble (highpass filter)
+- Tiny bit of EQ polish
+- Normalize volume
+- **That's it!**
+
+**Configuration**:
+```yaml
+tts:
+  openai:
+    format: "mp3"          # Direct MP3 works great
+    voice: "fable"         # British, expressive storyteller
+    model: "gpt-4o-mini-tts"
+
+audio_processing:
+  enabled: true
+  preset: "fable_light"    # Ultra-minimal processing
+  mp3_bitrate: "192k"      # High-quality output
+```
+
+---
+
 ## 🎯 The Problem
 
 OpenAI TTS (especially tts-1) can sound "thin" or "tin-can-like" due to:
@@ -22,8 +59,31 @@ OpenAI TTS (especially tts-1) can sound "thin" or "tin-can-like" due to:
 
 ## 🎚️ Available Presets
 
-### 1. **clarity** (Recommended for OpenAI)
-**Best for**: Removing tin-can sound, improving vocal clarity
+### 1. **fable_light** ⭐ (Recommended)
+**Best for**: gpt-4o-mini-tts + fable voice
+
+**What it does**:
+- Removes low-frequency rumble (90Hz highpass)
+- Very light tin-can reduction (-1.2dB at 480Hz)
+- Very gentle de-essing (-1dB at 7kHz)
+- Loudness normalization with maximum dynamic range
+
+```yaml
+audio_processing:
+  enabled: true
+  preset: "fable_light"
+```
+
+### 2. **none**
+**Best for**: Pure OpenAI TTS output with no modifications
+
+```yaml
+audio_processing:
+  enabled: false
+```
+
+### 3. **clarity**
+**Best for**: Older tts-1 model with tin-can sound
 
 **What it does**:
 - Removes low rumble (highpass at 90Hz)

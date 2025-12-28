@@ -61,7 +61,8 @@ def synthesize_speech(text: str, config: dict) -> bytes:
     if audio_config.get("enabled", False):
         try:
             from ..audio_processing import enhance_audio
-            preset = audio_config.get("preset", "clarity")
+            preset = audio_config.get("preset", "fable_light")
+            
             print(f"  Applying audio enhancement: {preset}")
             audio_bytes = enhance_audio(audio_bytes, preset=preset)
         except Exception as e:

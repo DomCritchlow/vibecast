@@ -50,7 +50,7 @@ class OpenAITTSProvider(TTSProvider):
         self.model = self._validate_model(self.openai_config.get("model", "tts-1"))
         self.voice = self._validate_voice(self.openai_config.get("voice", "nova"))
         self.speed = self._validate_speed(self.openai_config.get("speed", 1.0))
-        self.format = self._validate_format(self.openai_config.get("format", "mp3"))
+        self.format = self._validate_format(self.openai_config.get("format", "flac"))  # Default to FLAC for quality
         self.instructions = self.openai_config.get("instructions")  # Optional instructions parameter
         
         # Create client
