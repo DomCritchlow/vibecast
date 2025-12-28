@@ -7,7 +7,7 @@
 
 Vibecast is an open-source podcast generator that creates daily audio briefings from your favorite news sources. Configure the mood, voice, topics, and sources—then let GitHub Actions automatically generate and publish episodes every day.
 
-**[📚 Quickstart Guide](QUICKSTART.md)** · **[🤝 Contributing](CONTRIBUTING.md)** · **[💬 Discussions](../../discussions)**
+**[📚 Quickstart Guide](QUICKSTART.md)** · **[🤝 Contributing](CONTRIBUTING.md)** 
 
 ---
 
