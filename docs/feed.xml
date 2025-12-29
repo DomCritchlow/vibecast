@@ -4,14 +4,14 @@
      xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Vibecast: Morning Vibe</title>
+    <title>Vibecast: Morning Thread</title>
     <link>https://domcritchlow.github.io/vibecast/</link>
-    <description>A short daily podcast with weather, inspiring stories, and a reason to get excited about today.</description>
+    <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Dec 2025 08:39:42 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 04:52:52 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
-    <itunes:summary>A short daily podcast with weather, inspiring stories, and a reason to get excited about today.</itunes:summary>
+    <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>no</itunes:explicit>
     <itunes:owner>
@@ -23,10 +23,98 @@
     </itunes:category>
     <image>
       <url>https://domcritchlow.github.io/vibecast/artwork.png</url>
-      <title>Vibecast: Morning Vibe</title>
+      <title>Vibecast: Morning Thread</title>
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>DOE Collaboration &amp; Google&#x27;s 2025 Research Breakthroughs</title>
+      <description><![CDATA[Tech, science, and what's actually interesting for December 29, 2025.
+
+Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Deepening our collaboration with the U.S. Department of Energy
+   Source: OpenAI News
+2. Google's year in review: 8 areas with research breakthroughs in 2025
+   Source: DeepMind Blog
+3. Fara-7B: An Efficient Agentic Model for Computer Use
+   Source: Microsoft Research Blog
+4. MMCTAgent: Enabling multimodal reasoning over large video and image collections
+   Source: Microsoft Research Blog
+5. David Borges
+   Source: NASA Science
+6. Addendum to GPT-5.2 System Card: GPT-5.2-Codex
+   Source: OpenAI News
+
+REFERENCES:
+
+1. Deepening our collaboration with the U.S. Department of Energy
+   https://openai.com/index/us-department-of-energy-collaboration
+
+2. Google's year in review: 8 areas with research breakthroughs in 2025
+   https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/
+
+3. Fara-7B: An Efficient Agentic Model for Computer Use
+   https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/
+
+4. MMCTAgent: Enabling multimodal reasoning over large video and image collections
+   https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/
+
+5. David Borges
+   https://www.nasa.gov/people/david-borges/
+
+6. Addendum to GPT-5.2 System Card: GPT-5.2-Codex
+   https://openai.com/index/gpt-5-2-codex-system-card
+]]></description>
+      <pubDate>Mon, 29 Dec 2025 04:51:57 -0000</pubDate>
+      <guid isPermaLink="false">2025-12-29</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-29.mp3" length="7088876" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[Tech, science, and what's actually interesting for December 29, 2025.
+
+Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Deepening our collaboration with the U.S. Department of Energy
+   Source: OpenAI News
+2. Google's year in review: 8 areas with research breakthroughs in 2025
+   Source: DeepMind Blog
+3. Fara-7B: An Efficient Agentic Model for Computer Use
+   Source: Microsoft Research Blog
+4. MMCTAgent: Enabling multimodal reasoning over large video and image collections
+   Source: Microsoft Research Blog
+5. David Borges
+   Source: NASA Science
+6. Addendum to GPT-5.2 System Card: GPT-5.2-Codex
+   Source: OpenAI News
+
+REFERENCES:
+
+1. Deepening our collaboration with the U.S. Department of Energy
+   https://openai.com/index/us-department-of-energy-collaboration
+
+2. Google's year in review: 8 areas with research breakthroughs in 2025
+   https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/
+
+3. Fara-7B: An Efficient Agentic Model for Computer Use
+   https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/
+
+4. MMCTAgent: Enabling multimodal reasoning over large video and image collections
+   https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/
+
+5. David Borges
+   https://www.nasa.gov/people/david-borges/
+
+6. Addendum to GPT-5.2 System Card: GPT-5.2-Codex
+   https://openai.com/index/gpt-5-2-codex-system-card
+]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:36</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/images/2025-12-29.jpg"/>
+    </item>
     <item>
       <title>Morning Vibe — December 28, 2025</title>
       <description><![CDATA[Good news to fuel your day for December 28, 2025.
@@ -113,7 +201,6 @@ REFERENCES:
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:52</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/images/2025-12-28.jpg"/>
     </item>
     <item>
       <title>Morning Vibe — December 27, 2025</title>

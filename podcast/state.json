@@ -1,11 +1,5 @@
 {
   "used_urls": [
-    "https://eze.lovable.app/",
-    "https://github.com/spring-ai-community/spring-ai-playground",
-    "https://www.space.com/space-exploration/starship-success-a-private-moon-landing-and-more-the-top-10-spaceflight-stories-of-2025",
-    "https://www.positive.news/society/good-news-stories-from-week-50-of-2025/",
-    "https://www.positive.news/environment/abandoned-oil-refineries-are-becoming-unlikely-havens-for-wildlife/",
-    "https://www.goodnewsnetwork.org/fussy-girl-overcomes-vegetable-phobia-and-now-loves-brussels-sprouts-thanks-to-specialist/",
     "https://science.nasa.gov/science-research/earth-science/sentinel-6b-extends-global-ocean-height-record/",
     "https://www.goodnewsnetwork.org/over-600-lakes-ponds-reservoirs-restored-across-the-whole-of-india-by-divinely-inspired-nonprofit/",
     "https://www.goodnewsnetwork.org/massive-shovel-ready-critical-minerals-deposit-found-in-utah-largest-potentially-in-north-america/",
@@ -41,15 +35,15 @@
     "https://www.positive.news/science/technology/ctrlaltdefy-the-white-hat-hacker-rewriting-the-cybersecurity-rulebook/",
     "https://www.positive.news/environment/solar-reimagined-meet-the-bright-minds-pushing-it-into-the-future/",
     "https://www.goodnewsnetwork.org/veteran-inspired-drone-company-finds-lost-dog-in-frigid-cold-in-just-41-minutes/",
-    "https://openai.com/index/hardening-atlas-against-prompt-injection"
+    "https://openai.com/index/hardening-atlas-against-prompt-injection",
+    "https://openai.com/index/us-department-of-energy-collaboration",
+    "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
+    "https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/",
+    "https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/",
+    "https://www.nasa.gov/people/david-borges/",
+    "https://openai.com/index/gpt-5-2-codex-system-card"
   ],
   "url_timestamps": {
-    "https://eze.lovable.app/": "2025-12-22T04:42:52.824261",
-    "https://github.com/spring-ai-community/spring-ai-playground": "2025-12-22T04:42:52.824261",
-    "https://www.space.com/space-exploration/starship-success-a-private-moon-landing-and-more-the-top-10-spaceflight-stories-of-2025": "2025-12-22T04:42:52.824261",
-    "https://www.positive.news/society/good-news-stories-from-week-50-of-2025/": "2025-12-22T04:42:52.824261",
-    "https://www.positive.news/environment/abandoned-oil-refineries-are-becoming-unlikely-havens-for-wildlife/": "2025-12-22T04:42:52.824261",
-    "https://www.goodnewsnetwork.org/fussy-girl-overcomes-vegetable-phobia-and-now-loves-brussels-sprouts-thanks-to-specialist/": "2025-12-22T04:42:52.824261",
     "https://science.nasa.gov/science-research/earth-science/sentinel-6b-extends-global-ocean-height-record/": "2025-12-23T04:40:19.028917",
     "https://www.goodnewsnetwork.org/over-600-lakes-ponds-reservoirs-restored-across-the-whole-of-india-by-divinely-inspired-nonprofit/": "2025-12-23T04:40:19.028917",
     "https://www.goodnewsnetwork.org/massive-shovel-ready-critical-minerals-deposit-found-in-utah-largest-potentially-in-north-america/": "2025-12-23T04:40:19.028917",
@@ -85,7 +79,13 @@
     "https://www.positive.news/science/technology/ctrlaltdefy-the-white-hat-hacker-rewriting-the-cybersecurity-rulebook/": "2025-12-28T08:39:42.596127",
     "https://www.positive.news/environment/solar-reimagined-meet-the-bright-minds-pushing-it-into-the-future/": "2025-12-28T08:39:42.596127",
     "https://www.goodnewsnetwork.org/veteran-inspired-drone-company-finds-lost-dog-in-frigid-cold-in-just-41-minutes/": "2025-12-28T08:39:42.596127",
-    "https://openai.com/index/hardening-atlas-against-prompt-injection": "2025-12-28T08:39:42.596127"
+    "https://openai.com/index/hardening-atlas-against-prompt-injection": "2025-12-28T08:39:42.596127",
+    "https://openai.com/index/us-department-of-energy-collaboration": "2025-12-29T04:52:52.763041",
+    "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/": "2025-12-29T04:52:52.763041",
+    "https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/": "2025-12-29T04:52:52.763041",
+    "https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/": "2025-12-29T04:52:52.763041",
+    "https://www.nasa.gov/people/david-borges/": "2025-12-29T04:52:52.763041",
+    "https://openai.com/index/gpt-5-2-codex-system-card": "2025-12-29T04:52:52.763041"
   },
-  "last_run": "2025-12-28T08:39:42.596127"
+  "last_run": "2025-12-29T04:52:52.763041"
 }

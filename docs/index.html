@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Vibecast</title>
-    <meta name="description" content="Good news to fuel your day">
-    <link rel="alternate" type="application/rss+xml" title="Vibecast: Morning Vibe RSS Feed" href="feed.xml">
+    <meta name="description" content="Tech, science, and what's actually interesting">
+    <link rel="alternate" type="application/rss+xml" title="Vibecast: Morning Thread RSS Feed" href="feed.xml">
     <style>
         :root {
             --color-text: #1a1a1a;
@@ -687,7 +687,7 @@
     <div class="container">
         <header>
                 <h1>Vibecast</h1>
-                <p class="tagline">Good news to fuel your day</p>
+                <p class="tagline">Tech, science, and what's actually interesting</p>
                 <nav class="header-nav">
                     <a href="about.html">About This Show</a>
                     <span>·</span>
@@ -721,11 +721,11 @@
                 <div class="about-grid">
                     <div class="about-item">
                         <div class="about-item-label">Format</div>
-                        <div class="about-item-value">~4 minutes daily</div>
+                        <div class="about-item-value">~5 minutes daily</div>
                     </div>
                     <div class="about-item">
                         <div class="about-item-label">Content</div>
-                        <div class="about-item-value">Innovation, achievements, science</div>
+                        <div class="about-item-value">Research, innovation, science</div>
                     </div>
                     <div class="about-item">
                         <div class="about-item-label">Voice</div>
@@ -733,16 +733,16 @@
                     </div>
                     <div class="about-item">
                         <div class="about-item-label">Vibe</div>
-                        <div class="about-item-value">Energizing</div>
+                        <div class="about-item-value">Curious</div>
                     </div>
                 </div>
                 <div class="sources-label">Sources</div>
-                <div class="pills"><a href="https://positive.news" class="pill" target="_blank" rel="noopener">Positive News</a><a href="https://www.goodnewsnetwork.org" class="pill" target="_blank" rel="noopener">Good News Network</a><a href="https://openai.com" class="pill" target="_blank" rel="noopener">OpenAI News</a><a href="https://hnrss.org" class="pill" target="_blank" rel="noopener">Hacker News (AI filtered)</a><a href="https://www.nasa.gov" class="pill" target="_blank" rel="noopener">NASA Breaking News</a><a href="https://www.jpl.nasa.gov" class="pill" target="_blank" rel="noopener">NASA JPL News</a><a href="https://www.space.com" class="pill" target="_blank" rel="noopener">Space.com</a><a href="https://www.irunfar.com" class="pill" target="_blank" rel="noopener">iRunFar</a><a href="https://www.dezeen.com" class="pill" target="_blank" rel="noopener">Dezeen</a><a href="https://feeds.feedburner.com" class="pill" target="_blank" rel="noopener">Design Milk</a><a href="https://www.ny1.com" class="pill" target="_blank" rel="noopener">NY1 Politics</a><a href="https://gothamist.com" class="pill" target="_blank" rel="noopener">Gothamist (NYC)</a></div>
+                <div class="pills"><a href="https://openai.com" class="pill" target="_blank" rel="noopener">OpenAI News</a><a href="https://deepmind.google" class="pill" target="_blank" rel="noopener">DeepMind Blog</a><a href="https://www.microsoft.com" class="pill" target="_blank" rel="noopener">Microsoft Research Blog</a><a href="https://huggingface.co" class="pill" target="_blank" rel="noopener">Hugging Face Blog</a><a href="https://www.technologyreview.com" class="pill" target="_blank" rel="noopener">MIT Technology Review</a><a href="https://feeds.arstechnica.com" class="pill" target="_blank" rel="noopener">Ars Technica</a><a href="https://www.theverge.com" class="pill" target="_blank" rel="noopener">The Verge</a><a href="https://www.wired.com" class="pill" target="_blank" rel="noopener">Wired</a><a href="https://restofworld.org" class="pill" target="_blank" rel="noopener">Rest of World</a><a href="https://hnrss.org" class="pill" target="_blank" rel="noopener">Hacker News (AI filtered)</a><a href="https://science.nasa.gov" class="pill" target="_blank" rel="noopener">NASA Science</a><a href="https://www.jpl.nasa.gov" class="pill" target="_blank" rel="noopener">NASA JPL News</a><a href="https://www.space.com" class="pill" target="_blank" rel="noopener">Space.com</a><a href="https://www.quantamagazine.org" class="pill" target="_blank" rel="noopener">Quanta Magazine</a><a href="https://www.nature.com" class="pill" target="_blank" rel="noopener">Nature News</a><a href="https://positive.news" class="pill" target="_blank" rel="noopener">Positive News</a></div>
             </div>
         </main>
 
         <footer>
-            <p>Made by Your Name</p>
+            <p>Made by <a href="https://critchlow.us/">Dominic</a></p>
             <nav class="footer-links">
                 <a href="about.html">About This Show</a>
                 <span>·</span>
@@ -767,7 +767,7 @@
     <script>
         // ===== Configuration =====
         const feedUrl = new URL('feed.xml', window.location.href).href;
-        const r2BaseUrl = ''.replace(/\/+$/, '');
+        const r2BaseUrl = 'https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev'.replace(/\/+$/, '');
         const transcriptBaseUrl = r2BaseUrl + '/transcripts/';
         document.getElementById('rss-url').textContent = feedUrl;
 
