@@ -456,8 +456,8 @@ tts:
   #   clarity      - Remove tin-can sound (for older tts-1 model)
   #   podcast      - Full professional podcast processing chain
   audio_processing:
-    enabled: true             # Enable/disable post-processing
-    preset: "fable_light"     # Ultra-light processing optimized for fable
+    enabled: false             # Enable/disable post-processing
+    preset: "none" #"fable_light"     # Ultra-light processing optimized for fable
 
 # =============================================================================
 # STORAGE - Cloudflare R2
