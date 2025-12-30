@@ -1,11 +1,5 @@
 {
   "used_urls": [
-    "https://science.nasa.gov/science-research/earth-science/sentinel-6b-extends-global-ocean-height-record/",
-    "https://www.goodnewsnetwork.org/over-600-lakes-ponds-reservoirs-restored-across-the-whole-of-india-by-divinely-inspired-nonprofit/",
-    "https://www.goodnewsnetwork.org/massive-shovel-ready-critical-minerals-deposit-found-in-utah-largest-potentially-in-north-america/",
-    "https://science.nasa.gov/science-research/earth-science/keeping-up-with-pace-summary-of-the-2025-pac3-meeting/",
-    "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-final-mission-of-2025-sends-japanese-earth-observing-satellite-to-orbit-video",
-    "https://www.dezeen.com/2025/12/22/motorino-restaurant-peek-neighbouring-fitzrovia-chapel/",
     "https://www.space.com/space-exploration/launches-spacecraft/indian-rocket-launch-bluebird-6-satellite-ast-spacemobile",
     "https://www.positive.news/society/a-season-of-solidarity-8-grassroots-ideas-powering-christmas-2025/",
     "https://www.goodnewsnetwork.org/events061223/",
@@ -41,15 +35,15 @@
     "https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/",
     "https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/",
     "https://www.nasa.gov/people/david-borges/",
-    "https://openai.com/index/gpt-5-2-codex-system-card"
+    "https://openai.com/index/gpt-5-2-codex-system-card",
+    "https://www.theverge.com/news/850689/camera-focal-lens-technology-research",
+    "https://www.microsoft.com/en-us/research/blog/when-industry-knowledge-meets-pike-rag-the-innovation-behind-signifys-customer-service-boost/",
+    "https://science.nasa.gov/science-research/earth-science/terra-the-end-of-an-era/",
+    "https://science.nasa.gov/science-research/earth-science/the-state-of-ceres-updates-and-highlights/",
+    "https://www.nature.com/articles/d41586-025-04147-5",
+    "https://www.nature.com/articles/d41586-025-04101-5"
   ],
   "url_timestamps": {
-    "https://science.nasa.gov/science-research/earth-science/sentinel-6b-extends-global-ocean-height-record/": "2025-12-23T04:40:19.028917",
-    "https://www.goodnewsnetwork.org/over-600-lakes-ponds-reservoirs-restored-across-the-whole-of-india-by-divinely-inspired-nonprofit/": "2025-12-23T04:40:19.028917",
-    "https://www.goodnewsnetwork.org/massive-shovel-ready-critical-minerals-deposit-found-in-utah-largest-potentially-in-north-america/": "2025-12-23T04:40:19.028917",
-    "https://science.nasa.gov/science-research/earth-science/keeping-up-with-pace-summary-of-the-2025-pac3-meeting/": "2025-12-23T04:40:19.028917",
-    "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-final-mission-of-2025-sends-japanese-earth-observing-satellite-to-orbit-video": "2025-12-23T04:40:19.028917",
-    "https://www.dezeen.com/2025/12/22/motorino-restaurant-peek-neighbouring-fitzrovia-chapel/": "2025-12-23T04:40:19.028917",
     "https://www.space.com/space-exploration/launches-spacecraft/indian-rocket-launch-bluebird-6-satellite-ast-spacemobile": "2025-12-24T04:38:28.396638",
     "https://www.positive.news/society/a-season-of-solidarity-8-grassroots-ideas-powering-christmas-2025/": "2025-12-24T04:38:28.396638",
     "https://www.goodnewsnetwork.org/events061223/": "2025-12-24T04:38:28.396638",
@@ -85,7 +79,13 @@
     "https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/": "2025-12-29T04:52:52.763041",
     "https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/": "2025-12-29T04:52:52.763041",
     "https://www.nasa.gov/people/david-borges/": "2025-12-29T04:52:52.763041",
-    "https://openai.com/index/gpt-5-2-codex-system-card": "2025-12-29T04:52:52.763041"
+    "https://openai.com/index/gpt-5-2-codex-system-card": "2025-12-29T04:52:52.763041",
+    "https://www.theverge.com/news/850689/camera-focal-lens-technology-research": "2025-12-30T04:41:42.123881",
+    "https://www.microsoft.com/en-us/research/blog/when-industry-knowledge-meets-pike-rag-the-innovation-behind-signifys-customer-service-boost/": "2025-12-30T04:41:42.123881",
+    "https://science.nasa.gov/science-research/earth-science/terra-the-end-of-an-era/": "2025-12-30T04:41:42.123881",
+    "https://science.nasa.gov/science-research/earth-science/the-state-of-ceres-updates-and-highlights/": "2025-12-30T04:41:42.123881",
+    "https://www.nature.com/articles/d41586-025-04147-5": "2025-12-30T04:41:42.123881",
+    "https://www.nature.com/articles/d41586-025-04101-5": "2025-12-30T04:41:42.123881"
   },
-  "last_run": "2025-12-29T04:52:52.763041"
+  "last_run": "2025-12-30T04:41:42.123881"
 }

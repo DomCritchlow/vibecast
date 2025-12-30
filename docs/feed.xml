@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Dec 2025 04:52:52 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 04:41:42 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,94 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Focus-Fusing Camera &amp; Obesity Drugs Transforming Treatment</title>
+      <description><![CDATA[Tech, science, and what's actually interesting for December 30, 2025.
+
+Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. This experimental camera can focus on everything at once
+   Source: The Verge
+2. When industry knowledge meets PIKE-RAG: The innovation behind Signify’s customer service boost
+   Source: Microsoft Research Blog
+3. Terra: The End of An Era
+   Source: NASA Science
+4. The State of CERES: Updates and Highlights
+   Source: NASA Science
+5. Audio long read: Will blockbuster obesity drugs revolutionize addiction treatment?
+   Source: Nature News
+6. Nine books to help shape your science career in 2026
+   Source: Nature News
+
+REFERENCES:
+
+1. This experimental camera can focus on everything at once
+   https://www.theverge.com/news/850689/camera-focal-lens-technology-research
+
+2. When industry knowledge meets PIKE-RAG: The innovation behind Signify’s customer service boost
+   https://www.microsoft.com/en-us/research/blog/when-industry-knowledge-meets-pike-rag-the-innovation-behind-signifys-customer-service-boost/
+
+3. Terra: The End of An Era
+   https://science.nasa.gov/science-research/earth-science/terra-the-end-of-an-era/
+
+4. The State of CERES: Updates and Highlights
+   https://science.nasa.gov/science-research/earth-science/the-state-of-ceres-updates-and-highlights/
+
+5. Audio long read: Will blockbuster obesity drugs revolutionize addiction treatment?
+   https://www.nature.com/articles/d41586-025-04147-5
+
+6. Nine books to help shape your science career in 2026
+   https://www.nature.com/articles/d41586-025-04101-5
+]]></description>
+      <pubDate>Tue, 30 Dec 2025 04:40:47 -0000</pubDate>
+      <guid isPermaLink="false">2025-12-30</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-30.mp3" length="5135232" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[Tech, science, and what's actually interesting for December 30, 2025.
+
+Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. This experimental camera can focus on everything at once
+   Source: The Verge
+2. When industry knowledge meets PIKE-RAG: The innovation behind Signify’s customer service boost
+   Source: Microsoft Research Blog
+3. Terra: The End of An Era
+   Source: NASA Science
+4. The State of CERES: Updates and Highlights
+   Source: NASA Science
+5. Audio long read: Will blockbuster obesity drugs revolutionize addiction treatment?
+   Source: Nature News
+6. Nine books to help shape your science career in 2026
+   Source: Nature News
+
+REFERENCES:
+
+1. This experimental camera can focus on everything at once
+   https://www.theverge.com/news/850689/camera-focal-lens-technology-research
+
+2. When industry knowledge meets PIKE-RAG: The innovation behind Signify’s customer service boost
+   https://www.microsoft.com/en-us/research/blog/when-industry-knowledge-meets-pike-rag-the-innovation-behind-signifys-customer-service-boost/
+
+3. Terra: The End of An Era
+   https://science.nasa.gov/science-research/earth-science/terra-the-end-of-an-era/
+
+4. The State of CERES: Updates and Highlights
+   https://science.nasa.gov/science-research/earth-science/the-state-of-ceres-updates-and-highlights/
+
+5. Audio long read: Will blockbuster obesity drugs revolutionize addiction treatment?
+   https://www.nature.com/articles/d41586-025-04147-5
+
+6. Nine books to help shape your science career in 2026
+   https://www.nature.com/articles/d41586-025-04101-5
+]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:54</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/images/2025-12-30.jpg"/>
+    </item>
     <item>
       <title>DOE Collaboration &amp; Google&#x27;s 2025 Research Breakthroughs</title>
       <description><![CDATA[Tech, science, and what's actually interesting for December 29, 2025.
@@ -113,7 +201,6 @@ REFERENCES:
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:36</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/images/2025-12-29.jpg"/>
     </item>
     <item>
       <title>Morning Vibe — December 28, 2025</title>
