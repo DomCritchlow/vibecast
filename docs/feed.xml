@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Dec 2025 04:40:48 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 04:51:38 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,94 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Eco-Footprint of Wearables &amp; AI Safety Innovations</title>
+      <description><![CDATA[Tech, science, and what's actually interesting for January 01, 2026.
+
+Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. Quantifying the global eco-footprint of wearable healthcare electronics
+   Source: Nature News
+2. Economic inequality does not equate to poor well-being or mental health
+   Source: Nature News
+3. Ideas: Community building, machine learning, and the future of AI
+   Source: Microsoft Research Blog
+4. BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI
+   Source: Microsoft Research Blog
+5. AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems
+   Source: Hugging Face Blog
+6. Transformers v5: Simple model definitions powering the AI ecosystem
+   Source: Hugging Face Blog
+
+REFERENCES:
+
+1. Quantifying the global eco-footprint of wearable healthcare electronics
+   https://www.nature.com/articles/s41586-025-09819-w
+
+2. Economic inequality does not equate to poor well-being or mental health
+   https://www.nature.com/articles/d41586-025-03833-8
+
+3. Ideas: Community building, machine learning, and the future of AI
+   https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/
+
+4. BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI
+   https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/
+
+5. AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems
+   https://huggingface.co/blog/ServiceNow-AI/aprielguard
+
+6. Transformers v5: Simple model definitions powering the AI ecosystem
+   https://huggingface.co/blog/transformers-v5
+]]></description>
+      <pubDate>Thu, 01 Jan 2026 04:50:31 -0000</pubDate>
+      <guid isPermaLink="false">2026-01-01</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-01.mp3" length="5035008" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 01, 2026.
+
+Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. Quantifying the global eco-footprint of wearable healthcare electronics
+   Source: Nature News
+2. Economic inequality does not equate to poor well-being or mental health
+   Source: Nature News
+3. Ideas: Community building, machine learning, and the future of AI
+   Source: Microsoft Research Blog
+4. BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI
+   Source: Microsoft Research Blog
+5. AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems
+   Source: Hugging Face Blog
+6. Transformers v5: Simple model definitions powering the AI ecosystem
+   Source: Hugging Face Blog
+
+REFERENCES:
+
+1. Quantifying the global eco-footprint of wearable healthcare electronics
+   https://www.nature.com/articles/s41586-025-09819-w
+
+2. Economic inequality does not equate to poor well-being or mental health
+   https://www.nature.com/articles/d41586-025-03833-8
+
+3. Ideas: Community building, machine learning, and the future of AI
+   https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/
+
+4. BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI
+   https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/
+
+5. AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems
+   https://huggingface.co/blog/ServiceNow-AI/aprielguard
+
+6. Transformers v5: Simple model definitions powering the AI ecosystem
+   https://huggingface.co/blog/transformers-v5
+]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:28</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/images/2026-01-01.jpg"/>
+    </item>
     <item>
       <title>Future Science Breakthroughs &amp; AI Security Innovations</title>
       <description><![CDATA[Tech, science, and what's actually interesting for December 31, 2025.
@@ -113,7 +201,6 @@ REFERENCES:
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:14</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/images/2025-12-31.jpg"/>
     </item>
     <item>
       <title>Focus-Fusing Camera &amp; Obesity Drugs Transforming Treatment</title>
