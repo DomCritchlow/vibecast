@@ -1,11 +1,5 @@
 {
   "used_urls": [
-    "https://www.goodnewsnetwork.org/new-species-being-discovered-faster-than-ever-at-a-rate-of-over-16000-a-year/",
-    "https://gothamist.com/news/nyc-on-track-for-near-record-low-number-of-homicides-in-2025",
-    "https://www.positive.news/lifestyle/sport/tech-opens-cricket-to-blind-and-partially-sighted-fans/",
-    "https://www.positive.news/society/i-found-my-people-frank-turner-on-saving-britains-grassroots-music-venues/",
-    "https://www.goodnewsnetwork.org/christmas-spices-are-powerful-antioxidants-known-as-nutraceuticals/",
-    "https://openai.com/index/one-in-a-million-customers",
     "https://www.goodnewsnetwork.org/thought-extinct-snail-scientists-embark-on-largest-snail-breeding-and-reintroduction-effort-in-history/",
     "https://www.goodnewsnetwork.org/atlanta-restaurant-provided-for-100-families-during-the-shutdown-now-throws-christmas-giveaway-for-them/",
     "https://www.dezeen.com/2025/12/26/mass-timber-buildings-2025/",
@@ -41,15 +35,15 @@
     "https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/",
     "https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/",
     "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
-    "https://huggingface.co/blog/transformers-v5"
+    "https://huggingface.co/blog/transformers-v5",
+    "https://www.microsoft.com/en-us/research/blog/magentic-marketplace-an-open-source-simulation-environment-for-studying-agentic-markets/",
+    "https://www.technologyreview.com/2025/12/26/1130318/mit-technology-review-most-popular-stories-2025/",
+    "https://www.technologyreview.com/2025/12/23/1130415/organoid-uterus-microfluidic-chip-embryo/",
+    "https://arstechnica.com/science/2026/01/research-roundup-7-cool-science-stories-we-almost-missed-2/",
+    "https://arstechnica.com/science/2025/12/feds-researchers-settle-suit-over-grants-blocked-by-now-illegal-order/",
+    "https://news.ycombinator.com/item?id=46460975"
   ],
   "url_timestamps": {
-    "https://www.goodnewsnetwork.org/new-species-being-discovered-faster-than-ever-at-a-rate-of-over-16000-a-year/": "2025-12-26T04:37:13.418751",
-    "https://gothamist.com/news/nyc-on-track-for-near-record-low-number-of-homicides-in-2025": "2025-12-26T04:37:13.418751",
-    "https://www.positive.news/lifestyle/sport/tech-opens-cricket-to-blind-and-partially-sighted-fans/": "2025-12-26T04:37:13.418751",
-    "https://www.positive.news/society/i-found-my-people-frank-turner-on-saving-britains-grassroots-music-venues/": "2025-12-26T04:37:13.418751",
-    "https://www.goodnewsnetwork.org/christmas-spices-are-powerful-antioxidants-known-as-nutraceuticals/": "2025-12-26T04:37:13.418751",
-    "https://openai.com/index/one-in-a-million-customers": "2025-12-26T04:37:13.418751",
     "https://www.goodnewsnetwork.org/thought-extinct-snail-scientists-embark-on-largest-snail-breeding-and-reintroduction-effort-in-history/": "2025-12-27T04:35:19.990418",
     "https://www.goodnewsnetwork.org/atlanta-restaurant-provided-for-100-families-during-the-shutdown-now-throws-christmas-giveaway-for-them/": "2025-12-27T04:35:19.990418",
     "https://www.dezeen.com/2025/12/26/mass-timber-buildings-2025/": "2025-12-27T04:35:19.990418",
@@ -85,7 +79,13 @@
     "https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/": "2026-01-01T04:51:38.283467",
     "https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/": "2026-01-01T04:51:38.283467",
     "https://huggingface.co/blog/ServiceNow-AI/aprielguard": "2026-01-01T04:51:38.283467",
-    "https://huggingface.co/blog/transformers-v5": "2026-01-01T04:51:38.283467"
+    "https://huggingface.co/blog/transformers-v5": "2026-01-01T04:51:38.283467",
+    "https://www.microsoft.com/en-us/research/blog/magentic-marketplace-an-open-source-simulation-environment-for-studying-agentic-markets/": "2026-01-02T04:43:58.233416",
+    "https://www.technologyreview.com/2025/12/26/1130318/mit-technology-review-most-popular-stories-2025/": "2026-01-02T04:43:58.233416",
+    "https://www.technologyreview.com/2025/12/23/1130415/organoid-uterus-microfluidic-chip-embryo/": "2026-01-02T04:43:58.233416",
+    "https://arstechnica.com/science/2026/01/research-roundup-7-cool-science-stories-we-almost-missed-2/": "2026-01-02T04:43:58.233416",
+    "https://arstechnica.com/science/2025/12/feds-researchers-settle-suit-over-grants-blocked-by-now-illegal-order/": "2026-01-02T04:43:58.233416",
+    "https://news.ycombinator.com/item?id=46460975": "2026-01-02T04:43:58.233416"
   },
-  "last_run": "2026-01-01T04:51:38.283467"
+  "last_run": "2026-01-02T04:43:58.233416"
 }
