@@ -1,11 +1,5 @@
 {
   "used_urls": [
-    "https://www.goodnewsnetwork.org/thought-extinct-snail-scientists-embark-on-largest-snail-breeding-and-reintroduction-effort-in-history/",
-    "https://www.goodnewsnetwork.org/atlanta-restaurant-provided-for-100-families-during-the-shutdown-now-throws-christmas-giveaway-for-them/",
-    "https://www.dezeen.com/2025/12/26/mass-timber-buildings-2025/",
-    "https://gothamist.com/news/nypd-lieutenant-fired-after-refusing-to-answer-questions-about-fire-at-his-home",
-    "https://www.positive.news/lifestyle/wander-notice-be-where-you-are-the-creative-power-of-deep-hanging-out/",
-    "https://www.positive.news/society/good-news-stories-from-week-51-of-2025/",
     "https://www.goodnewsnetwork.org/merry-kiss-mas-thousands-gather-under-10-foot-mistletoe-in-nations-capital-to-set-the-guinness-record-for-festive-smooches/",
     "https://gothamist.com/news/new-york-state-has-set-a-record-for-flu-cases-ahead-of-peak-season",
     "https://www.positive.news/science/technology/ctrlaltdefy-the-white-hat-hacker-rewriting-the-cybersecurity-rulebook/",
@@ -47,15 +41,15 @@
     "https://www.wired.com/story/welcome-to-the-future-of-noise-canceling/",
     "https://www.wired.com/story/heres-how-long-you-should-walk-every-day-to-prevent-back-pain/",
     "https://www.nasa.gov/reference/fundamentals-of-human-health/",
-    "https://www.nasa.gov/reference/vehicle-systems-interfaces-structure-environmental-design/"
+    "https://www.nasa.gov/reference/vehicle-systems-interfaces-structure-environmental-design/",
+    "https://www.theverge.com/news/853765/someone-made-a-ton-of-money-betting-on-maduros-capture",
+    "https://www.wired.com/story/how-to-manage-files-on-ios-and-android/",
+    "https://genvibe.pro",
+    "https://www.nasa.gov/reference/safety-history-contingency-mishaps/",
+    "https://www.nasa.gov/2026-news-releases/",
+    "https://www.jpl.nasa.gov/news/nasa-study-suggests-saturns-moon-titan-may-not-have-global-ocean"
   ],
   "url_timestamps": {
-    "https://www.goodnewsnetwork.org/thought-extinct-snail-scientists-embark-on-largest-snail-breeding-and-reintroduction-effort-in-history/": "2025-12-27T04:35:19.990418",
-    "https://www.goodnewsnetwork.org/atlanta-restaurant-provided-for-100-families-during-the-shutdown-now-throws-christmas-giveaway-for-them/": "2025-12-27T04:35:19.990418",
-    "https://www.dezeen.com/2025/12/26/mass-timber-buildings-2025/": "2025-12-27T04:35:19.990418",
-    "https://gothamist.com/news/nypd-lieutenant-fired-after-refusing-to-answer-questions-about-fire-at-his-home": "2025-12-27T04:35:19.990418",
-    "https://www.positive.news/lifestyle/wander-notice-be-where-you-are-the-creative-power-of-deep-hanging-out/": "2025-12-27T04:35:19.990418",
-    "https://www.positive.news/society/good-news-stories-from-week-51-of-2025/": "2025-12-27T04:35:19.990418",
     "https://www.goodnewsnetwork.org/merry-kiss-mas-thousands-gather-under-10-foot-mistletoe-in-nations-capital-to-set-the-guinness-record-for-festive-smooches/": "2025-12-28T08:39:42.596127",
     "https://gothamist.com/news/new-york-state-has-set-a-record-for-flu-cases-ahead-of-peak-season": "2025-12-28T08:39:42.596127",
     "https://www.positive.news/science/technology/ctrlaltdefy-the-white-hat-hacker-rewriting-the-cybersecurity-rulebook/": "2025-12-28T08:39:42.596127",
@@ -97,7 +91,13 @@
     "https://www.wired.com/story/welcome-to-the-future-of-noise-canceling/": "2026-01-03T04:35:24.396578",
     "https://www.wired.com/story/heres-how-long-you-should-walk-every-day-to-prevent-back-pain/": "2026-01-03T04:35:24.396578",
     "https://www.nasa.gov/reference/fundamentals-of-human-health/": "2026-01-03T04:35:24.396578",
-    "https://www.nasa.gov/reference/vehicle-systems-interfaces-structure-environmental-design/": "2026-01-03T04:35:24.396578"
+    "https://www.nasa.gov/reference/vehicle-systems-interfaces-structure-environmental-design/": "2026-01-03T04:35:24.396578",
+    "https://www.theverge.com/news/853765/someone-made-a-ton-of-money-betting-on-maduros-capture": "2026-01-04T04:52:10.694132",
+    "https://www.wired.com/story/how-to-manage-files-on-ios-and-android/": "2026-01-04T04:52:10.694132",
+    "https://genvibe.pro": "2026-01-04T04:52:10.694132",
+    "https://www.nasa.gov/reference/safety-history-contingency-mishaps/": "2026-01-04T04:52:10.694132",
+    "https://www.nasa.gov/2026-news-releases/": "2026-01-04T04:52:10.694132",
+    "https://www.jpl.nasa.gov/news/nasa-study-suggests-saturns-moon-titan-may-not-have-global-ocean": "2026-01-04T04:52:10.694132"
   },
-  "last_run": "2026-01-03T04:35:24.396578"
+  "last_run": "2026-01-04T04:52:10.694132"
 }
