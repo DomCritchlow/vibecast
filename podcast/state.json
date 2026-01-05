@@ -1,17 +1,5 @@
 {
   "used_urls": [
-    "https://www.goodnewsnetwork.org/merry-kiss-mas-thousands-gather-under-10-foot-mistletoe-in-nations-capital-to-set-the-guinness-record-for-festive-smooches/",
-    "https://gothamist.com/news/new-york-state-has-set-a-record-for-flu-cases-ahead-of-peak-season",
-    "https://www.positive.news/science/technology/ctrlaltdefy-the-white-hat-hacker-rewriting-the-cybersecurity-rulebook/",
-    "https://www.positive.news/environment/solar-reimagined-meet-the-bright-minds-pushing-it-into-the-future/",
-    "https://www.goodnewsnetwork.org/veteran-inspired-drone-company-finds-lost-dog-in-frigid-cold-in-just-41-minutes/",
-    "https://openai.com/index/hardening-atlas-against-prompt-injection",
-    "https://openai.com/index/us-department-of-energy-collaboration",
-    "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
-    "https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/",
-    "https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/",
-    "https://www.nasa.gov/people/david-borges/",
-    "https://openai.com/index/gpt-5-2-codex-system-card",
     "https://www.theverge.com/news/850689/camera-focal-lens-technology-research",
     "https://www.microsoft.com/en-us/research/blog/when-industry-knowledge-meets-pike-rag-the-innovation-behind-signifys-customer-service-boost/",
     "https://science.nasa.gov/science-research/earth-science/terra-the-end-of-an-era/",
@@ -47,21 +35,15 @@
     "https://genvibe.pro",
     "https://www.nasa.gov/reference/safety-history-contingency-mishaps/",
     "https://www.nasa.gov/2026-news-releases/",
-    "https://www.jpl.nasa.gov/news/nasa-study-suggests-saturns-moon-titan-may-not-have-global-ocean"
+    "https://www.jpl.nasa.gov/news/nasa-study-suggests-saturns-moon-titan-may-not-have-global-ocean",
+    "https://openai.com/index/us-department-of-energy-collaboration",
+    "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
+    "https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/",
+    "https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/",
+    "https://openai.com/index/gpt-5-2-codex-system-card",
+    "https://www.theverge.com/tech/854333/ikea-sjoss-20w-usb-c-wall-charger"
   ],
   "url_timestamps": {
-    "https://www.goodnewsnetwork.org/merry-kiss-mas-thousands-gather-under-10-foot-mistletoe-in-nations-capital-to-set-the-guinness-record-for-festive-smooches/": "2025-12-28T08:39:42.596127",
-    "https://gothamist.com/news/new-york-state-has-set-a-record-for-flu-cases-ahead-of-peak-season": "2025-12-28T08:39:42.596127",
-    "https://www.positive.news/science/technology/ctrlaltdefy-the-white-hat-hacker-rewriting-the-cybersecurity-rulebook/": "2025-12-28T08:39:42.596127",
-    "https://www.positive.news/environment/solar-reimagined-meet-the-bright-minds-pushing-it-into-the-future/": "2025-12-28T08:39:42.596127",
-    "https://www.goodnewsnetwork.org/veteran-inspired-drone-company-finds-lost-dog-in-frigid-cold-in-just-41-minutes/": "2025-12-28T08:39:42.596127",
-    "https://openai.com/index/hardening-atlas-against-prompt-injection": "2025-12-28T08:39:42.596127",
-    "https://openai.com/index/us-department-of-energy-collaboration": "2025-12-29T04:52:52.763041",
-    "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/": "2025-12-29T04:52:52.763041",
-    "https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/": "2025-12-29T04:52:52.763041",
-    "https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/": "2025-12-29T04:52:52.763041",
-    "https://www.nasa.gov/people/david-borges/": "2025-12-29T04:52:52.763041",
-    "https://openai.com/index/gpt-5-2-codex-system-card": "2025-12-29T04:52:52.763041",
     "https://www.theverge.com/news/850689/camera-focal-lens-technology-research": "2025-12-30T04:41:42.123881",
     "https://www.microsoft.com/en-us/research/blog/when-industry-knowledge-meets-pike-rag-the-innovation-behind-signifys-customer-service-boost/": "2025-12-30T04:41:42.123881",
     "https://science.nasa.gov/science-research/earth-science/terra-the-end-of-an-era/": "2025-12-30T04:41:42.123881",
@@ -97,7 +79,13 @@
     "https://genvibe.pro": "2026-01-04T04:52:10.694132",
     "https://www.nasa.gov/reference/safety-history-contingency-mishaps/": "2026-01-04T04:52:10.694132",
     "https://www.nasa.gov/2026-news-releases/": "2026-01-04T04:52:10.694132",
-    "https://www.jpl.nasa.gov/news/nasa-study-suggests-saturns-moon-titan-may-not-have-global-ocean": "2026-01-04T04:52:10.694132"
+    "https://www.jpl.nasa.gov/news/nasa-study-suggests-saturns-moon-titan-may-not-have-global-ocean": "2026-01-04T04:52:10.694132",
+    "https://openai.com/index/us-department-of-energy-collaboration": "2026-01-05T05:00:25.217716",
+    "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/": "2026-01-05T05:00:25.217716",
+    "https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/": "2026-01-05T05:00:25.217716",
+    "https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/": "2026-01-05T05:00:25.217716",
+    "https://openai.com/index/gpt-5-2-codex-system-card": "2026-01-05T05:00:25.217716",
+    "https://www.theverge.com/tech/854333/ikea-sjoss-20w-usb-c-wall-charger": "2026-01-05T05:00:25.217716"
   },
-  "last_run": "2026-01-04T04:52:10.694132"
+  "last_run": "2026-01-05T05:00:25.217716"
 }
