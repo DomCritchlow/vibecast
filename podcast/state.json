@@ -1,11 +1,5 @@
 {
   "used_urls": [
-    "https://www.nature.com/articles/s41586-025-09819-w",
-    "https://www.nature.com/articles/d41586-025-03833-8",
-    "https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/",
-    "https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/",
-    "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
-    "https://huggingface.co/blog/transformers-v5",
     "https://www.microsoft.com/en-us/research/blog/magentic-marketplace-an-open-source-simulation-environment-for-studying-agentic-markets/",
     "https://www.technologyreview.com/2025/12/26/1130318/mit-technology-review-most-popular-stories-2025/",
     "https://www.technologyreview.com/2025/12/23/1130415/organoid-uterus-microfluidic-chip-embryo/",
@@ -47,15 +41,15 @@
     "https://www.nature.com/articles/s41586-025-09840-z",
     "https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/",
     "https://www.technologyreview.com/2026/01/07/1129490/deploying-a-hybrid-approach-to-web3-in-the-ai-era/",
-    "https://www.technologyreview.com/2026/01/07/1129748/aadhaar-nandan-nilekani-india-digital-biometric-identity-data/"
+    "https://www.technologyreview.com/2026/01/07/1129748/aadhaar-nandan-nilekani-india-digital-biometric-identity-data/",
+    "https://www.nature.com/articles/d41586-026-00008-x",
+    "https://www.nature.com/articles/d41586-025-04154-6",
+    "https://openai.com/index/netomi",
+    "https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/",
+    "https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/",
+    "https://huggingface.co/blog/ServiceNow-AI/aprielguard"
   ],
   "url_timestamps": {
-    "https://www.nature.com/articles/s41586-025-09819-w": "2026-01-01T04:51:38.283467",
-    "https://www.nature.com/articles/d41586-025-03833-8": "2026-01-01T04:51:38.283467",
-    "https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/": "2026-01-01T04:51:38.283467",
-    "https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/": "2026-01-01T04:51:38.283467",
-    "https://huggingface.co/blog/ServiceNow-AI/aprielguard": "2026-01-01T04:51:38.283467",
-    "https://huggingface.co/blog/transformers-v5": "2026-01-01T04:51:38.283467",
     "https://www.microsoft.com/en-us/research/blog/magentic-marketplace-an-open-source-simulation-environment-for-studying-agentic-markets/": "2026-01-02T04:43:58.233416",
     "https://www.technologyreview.com/2025/12/26/1130318/mit-technology-review-most-popular-stories-2025/": "2026-01-02T04:43:58.233416",
     "https://www.technologyreview.com/2025/12/23/1130415/organoid-uterus-microfluidic-chip-embryo/": "2026-01-02T04:43:58.233416",
@@ -97,7 +91,13 @@
     "https://www.nature.com/articles/s41586-025-09840-z": "2026-01-08T04:42:30.663496",
     "https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/": "2026-01-08T04:42:30.663496",
     "https://www.technologyreview.com/2026/01/07/1129490/deploying-a-hybrid-approach-to-web3-in-the-ai-era/": "2026-01-08T04:42:30.663496",
-    "https://www.technologyreview.com/2026/01/07/1129748/aadhaar-nandan-nilekani-india-digital-biometric-identity-data/": "2026-01-08T04:42:30.663496"
+    "https://www.technologyreview.com/2026/01/07/1129748/aadhaar-nandan-nilekani-india-digital-biometric-identity-data/": "2026-01-08T04:42:30.663496",
+    "https://www.nature.com/articles/d41586-026-00008-x": "2026-01-09T04:43:22.604675",
+    "https://www.nature.com/articles/d41586-025-04154-6": "2026-01-09T04:43:22.604675",
+    "https://openai.com/index/netomi": "2026-01-09T04:43:22.604675",
+    "https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/": "2026-01-09T04:43:22.604675",
+    "https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/": "2026-01-09T04:43:22.604675",
+    "https://huggingface.co/blog/ServiceNow-AI/aprielguard": "2026-01-09T04:43:22.604675"
   },
-  "last_run": "2026-01-08T04:42:30.663496"
+  "last_run": "2026-01-09T04:43:22.604675"
 }
