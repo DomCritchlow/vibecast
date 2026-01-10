@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Jan 2026 04:43:22 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 04:36:30 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,94 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>AI Glitches in Fluid Dynamics &amp; Transgender Scientist Impact</title>
+      <description><![CDATA[Tech, science, and what's actually interesting for January 10, 2026.
+
+Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Using AI, Mathematicians Find Hidden Glitches in Fluid Equations
+   Source: Quanta Magazine
+2. Disappearing ‘planet’ reveals a solar system’s turbulent times
+   Source: Nature News
+3. ‘Coming out as a transgender scientist made me the best teacher I’ve ever been’
+   Source: Nature News
+4. Datadog uses Codex for system-level code review
+   Source: OpenAI News
+5. Magentic Marketplace: an open-source simulation environment for studying agentic markets
+   Source: Microsoft Research Blog
+6. A new CRISPR startup is betting regulators will ease up on gene-editing
+   Source: MIT Technology Review
+
+REFERENCES:
+
+1. Using AI, Mathematicians Find Hidden Glitches in Fluid Equations
+   https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/
+
+2. Disappearing ‘planet’ reveals a solar system’s turbulent times
+   https://www.nature.com/articles/d41586-025-04148-4
+
+3. ‘Coming out as a transgender scientist made me the best teacher I’ve ever been’
+   https://www.nature.com/articles/d41586-026-00057-2
+
+4. Datadog uses Codex for system-level code review
+   https://openai.com/index/datadog
+
+5. Magentic Marketplace: an open-source simulation environment for studying agentic markets
+   https://www.microsoft.com/en-us/research/blog/magentic-marketplace-an-open-source-simulation-environment-for-studying-agentic-markets/
+
+6. A new CRISPR startup is betting regulators will ease up on gene-editing
+   https://www.technologyreview.com/2026/01/09/1130945/crispr-startup-aurora-betting-regulation-pku/
+]]></description>
+      <pubDate>Sat, 10 Jan 2026 04:35:32 -0000</pubDate>
+      <guid isPermaLink="false">2026-01-10</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-10.mp3" length="4744320" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 10, 2026.
+
+Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Using AI, Mathematicians Find Hidden Glitches in Fluid Equations
+   Source: Quanta Magazine
+2. Disappearing ‘planet’ reveals a solar system’s turbulent times
+   Source: Nature News
+3. ‘Coming out as a transgender scientist made me the best teacher I’ve ever been’
+   Source: Nature News
+4. Datadog uses Codex for system-level code review
+   Source: OpenAI News
+5. Magentic Marketplace: an open-source simulation environment for studying agentic markets
+   Source: Microsoft Research Blog
+6. A new CRISPR startup is betting regulators will ease up on gene-editing
+   Source: MIT Technology Review
+
+REFERENCES:
+
+1. Using AI, Mathematicians Find Hidden Glitches in Fluid Equations
+   https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/
+
+2. Disappearing ‘planet’ reveals a solar system’s turbulent times
+   https://www.nature.com/articles/d41586-025-04148-4
+
+3. ‘Coming out as a transgender scientist made me the best teacher I’ve ever been’
+   https://www.nature.com/articles/d41586-026-00057-2
+
+4. Datadog uses Codex for system-level code review
+   https://openai.com/index/datadog
+
+5. Magentic Marketplace: an open-source simulation environment for studying agentic markets
+   https://www.microsoft.com/en-us/research/blog/magentic-marketplace-an-open-source-simulation-environment-for-studying-agentic-markets/
+
+6. A new CRISPR startup is betting regulators will ease up on gene-editing
+   https://www.technologyreview.com/2026/01/09/1130945/crispr-startup-aurora-betting-regulation-pku/
+]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:30</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/images/2026-01-10.jpg"/>
+    </item>
     <item>
       <title>Heart Health Breakthroughs &amp; Evolving Mpox Threats</title>
       <description><![CDATA[Tech, science, and what's actually interesting for January 09, 2026.
@@ -113,7 +201,6 @@ REFERENCES:
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:37</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/images/2026-01-09.jpg"/>
     </item>
     <item>
       <title>Da Vinci&#x27;s DNA &amp; AI-Driven Tumor Modeling Breakthroughs</title>

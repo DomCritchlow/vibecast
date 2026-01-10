@@ -1,11 +1,5 @@
 {
   "used_urls": [
-    "https://www.microsoft.com/en-us/research/blog/magentic-marketplace-an-open-source-simulation-environment-for-studying-agentic-markets/",
-    "https://www.technologyreview.com/2025/12/26/1130318/mit-technology-review-most-popular-stories-2025/",
-    "https://www.technologyreview.com/2025/12/23/1130415/organoid-uterus-microfluidic-chip-embryo/",
-    "https://arstechnica.com/science/2026/01/research-roundup-7-cool-science-stories-we-almost-missed-2/",
-    "https://arstechnica.com/science/2025/12/feds-researchers-settle-suit-over-grants-blocked-by-now-illegal-order/",
-    "https://news.ycombinator.com/item?id=46460975",
     "https://arstechnica.com/science/2026/01/researchers-spot-saturn-sized-planet-in-the-einstein-desert/",
     "https://www.theverge.com/news/852628/lg-gram-pro-17-16-laptop-2026-ces",
     "https://www.wired.com/story/welcome-to-the-future-of-noise-canceling/",
@@ -47,15 +41,15 @@
     "https://openai.com/index/netomi",
     "https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/",
     "https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/",
-    "https://huggingface.co/blog/ServiceNow-AI/aprielguard"
+    "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
+    "https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/",
+    "https://www.nature.com/articles/d41586-025-04148-4",
+    "https://www.nature.com/articles/d41586-026-00057-2",
+    "https://openai.com/index/datadog",
+    "https://www.microsoft.com/en-us/research/blog/magentic-marketplace-an-open-source-simulation-environment-for-studying-agentic-markets/",
+    "https://www.technologyreview.com/2026/01/09/1130945/crispr-startup-aurora-betting-regulation-pku/"
   ],
   "url_timestamps": {
-    "https://www.microsoft.com/en-us/research/blog/magentic-marketplace-an-open-source-simulation-environment-for-studying-agentic-markets/": "2026-01-02T04:43:58.233416",
-    "https://www.technologyreview.com/2025/12/26/1130318/mit-technology-review-most-popular-stories-2025/": "2026-01-02T04:43:58.233416",
-    "https://www.technologyreview.com/2025/12/23/1130415/organoid-uterus-microfluidic-chip-embryo/": "2026-01-02T04:43:58.233416",
-    "https://arstechnica.com/science/2026/01/research-roundup-7-cool-science-stories-we-almost-missed-2/": "2026-01-02T04:43:58.233416",
-    "https://arstechnica.com/science/2025/12/feds-researchers-settle-suit-over-grants-blocked-by-now-illegal-order/": "2026-01-02T04:43:58.233416",
-    "https://news.ycombinator.com/item?id=46460975": "2026-01-02T04:43:58.233416",
     "https://arstechnica.com/science/2026/01/researchers-spot-saturn-sized-planet-in-the-einstein-desert/": "2026-01-03T04:35:24.396578",
     "https://www.theverge.com/news/852628/lg-gram-pro-17-16-laptop-2026-ces": "2026-01-03T04:35:24.396578",
     "https://www.wired.com/story/welcome-to-the-future-of-noise-canceling/": "2026-01-03T04:35:24.396578",
@@ -97,7 +91,13 @@
     "https://openai.com/index/netomi": "2026-01-09T04:43:22.604675",
     "https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/": "2026-01-09T04:43:22.604675",
     "https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/": "2026-01-09T04:43:22.604675",
-    "https://huggingface.co/blog/ServiceNow-AI/aprielguard": "2026-01-09T04:43:22.604675"
+    "https://huggingface.co/blog/ServiceNow-AI/aprielguard": "2026-01-09T04:43:22.604675",
+    "https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/": "2026-01-10T04:36:30.151233",
+    "https://www.nature.com/articles/d41586-025-04148-4": "2026-01-10T04:36:30.151233",
+    "https://www.nature.com/articles/d41586-026-00057-2": "2026-01-10T04:36:30.151233",
+    "https://openai.com/index/datadog": "2026-01-10T04:36:30.151233",
+    "https://www.microsoft.com/en-us/research/blog/magentic-marketplace-an-open-source-simulation-environment-for-studying-agentic-markets/": "2026-01-10T04:36:30.151233",
+    "https://www.technologyreview.com/2026/01/09/1130945/crispr-startup-aurora-betting-regulation-pku/": "2026-01-10T04:36:30.151233"
   },
-  "last_run": "2026-01-09T04:43:22.604675"
+  "last_run": "2026-01-10T04:36:30.151233"
 }
