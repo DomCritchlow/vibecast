@@ -1,5 +1,8 @@
 """OpenAI TTS provider."""
 
+import subprocess
+import tempfile
+import os
 from typing import List
 from openai import OpenAI
 
@@ -12,6 +15,10 @@ class OpenAITTSProvider(TTSProvider):
     Supports models: tts-1 (fast), tts-1-hd (high quality)
     Voices: alloy, echo, fable, onyx, nova, shimmer
     
+    IMPORTANT: OpenAI outputs MP3 at only 24kHz/128kbps which sounds bad.
+    This provider uses OPUS (48kHz) internally and converts to high-quality
+    MP3 (44.1kHz/192kbps) for much better audio quality.
+    
     Configuration in config.yaml:
         tts:
           provider: "openai"
@@ -19,7 +26,7 @@ class OpenAITTSProvider(TTSProvider):
             model: "tts-1"
             voice: "nova"
             speed: 0.95
-            format: "mp3"
+            format: "mp3"  # Output format (conversion handled automatically)
     """
     
     # All 13 available voices
@@ -50,11 +57,33 @@ class OpenAITTSProvider(TTSProvider):
         self.model = self._validate_model(self.openai_config.get("model", "tts-1"))
         self.voice = self._validate_voice(self.openai_config.get("voice", "nova"))
         self.speed = self._validate_speed(self.openai_config.get("speed", 1.0))
-        self.format = self._validate_format(self.openai_config.get("format", "flac"))  # Default to FLAC for quality
+        self.format = self._validate_format(self.openai_config.get("format", "mp3"))
         self.instructions = self.openai_config.get("instructions")  # Optional instructions parameter
+        
+        # High-quality output settings
+        # OpenAI's MP3 output is only 24kHz/128kbps. We request OPUS (48kHz)
+        # and convert to high-quality MP3 (44.1kHz/192kbps) for much better audio.
+        self.hq_sample_rate = 44100  # 44.1kHz - CD quality
+        self.hq_bitrate = "192k"     # 192kbps - high quality MP3
+        
+        # Check ffmpeg availability
+        self._ffmpeg_available = self._check_ffmpeg()
         
         # Create client
         self.client = OpenAI()
+    
+    def _check_ffmpeg(self) -> bool:
+        """Check if ffmpeg is available for audio conversion."""
+        try:
+            result = subprocess.run(
+                ["ffmpeg", "-version"],
+                capture_output=True,
+                timeout=5,
+            )
+            return result.returncode == 0
+        except (subprocess.SubprocessError, FileNotFoundError):
+            print("Warning: ffmpeg not found. Audio quality will be degraded (24kHz/128kbps).")
+            return False
     
     def _validate_model(self, model: str) -> str:
         if model not in self.VALID_MODELS:
@@ -89,15 +118,78 @@ class OpenAITTSProvider(TTSProvider):
     def supported_formats(self) -> List[str]:
         return self.VALID_FORMATS
     
+    def _convert_opus_to_mp3(self, opus_bytes: bytes) -> bytes:
+        """Convert OPUS audio to high-quality MP3.
+        
+        OPUS from OpenAI is 48kHz. We convert to 44.1kHz/192kbps MP3
+        which is much better than OpenAI's native MP3 (24kHz/128kbps).
+        
+        Args:
+            opus_bytes: OPUS audio data from OpenAI.
+            
+        Returns:
+            High-quality MP3 bytes.
+        """
+        with tempfile.NamedTemporaryFile(suffix=".opus", delete=False) as opus_file:
+            opus_file.write(opus_bytes)
+            opus_path = opus_file.name
+        
+        mp3_path = opus_path.replace(".opus", ".mp3")
+        
+        try:
+            cmd = [
+                "ffmpeg", "-y",
+                "-i", opus_path,
+                "-ar", str(self.hq_sample_rate),  # 44.1kHz
+                "-b:a", self.hq_bitrate,          # 192kbps
+                "-f", "mp3",
+                mp3_path,
+            ]
+            
+            result = subprocess.run(
+                cmd,
+                capture_output=True,
+                timeout=30,
+            )
+            
+            if result.returncode != 0:
+                print(f"Warning: ffmpeg conversion failed, using raw OPUS")
+                return opus_bytes
+            
+            with open(mp3_path, "rb") as f:
+                mp3_bytes = f.read()
+            
+            return mp3_bytes
+            
+        finally:
+            # Cleanup temp files
+            if os.path.exists(opus_path):
+                os.unlink(opus_path)
+            if os.path.exists(mp3_path):
+                os.unlink(mp3_path)
+    
     def synthesize(self, text: str) -> bytes:
         """Synthesize text to audio using OpenAI TTS.
         
         Handles long texts by chunking and concatenating.
+        
+        For best quality, we request OPUS (48kHz) from OpenAI and convert
+        to high-quality MP3 (44.1kHz/192kbps). This sounds MUCH better than
+        OpenAI's native MP3 output (24kHz/128kbps).
         """
         chunks = self.chunk_text(text)
         
         if len(chunks) > 1:
             print(f"  Text is {len(text)} chars, splitting into {len(chunks)} chunks")
+        
+        # Determine if we should use OPUS->MP3 conversion for better quality
+        use_hq_conversion = (
+            self._ffmpeg_available and 
+            self.format == "mp3"
+        )
+        
+        if use_hq_conversion:
+            print(f"  Using high-quality mode: OPUS (48kHz) → MP3 (44.1kHz/192kbps)")
         
         audio_parts = []
         for i, chunk in enumerate(chunks):
@@ -105,12 +197,15 @@ class OpenAITTSProvider(TTSProvider):
                 print(f"  Synthesizing chunk {i + 1}/{len(chunks)} ({len(chunk)} chars)...")
             
             # Build request parameters
+            # Request OPUS for HQ mode (48kHz), otherwise use configured format
+            request_format = "opus" if use_hq_conversion else self.format
+            
             params = {
                 "model": self.model,
                 "voice": self.voice,
                 "input": chunk,
                 "speed": self.speed,
-                "response_format": self.format,
+                "response_format": request_format,
             }
             
             # Add instructions if provided (only works with gpt-4o-mini-tts)
@@ -118,7 +213,13 @@ class OpenAITTSProvider(TTSProvider):
                 params["instructions"] = self.instructions
             
             response = self.client.audio.speech.create(**params)
-            audio_parts.append(response.content)
+            audio_bytes = response.content
+            
+            # Convert OPUS to high-quality MP3 if in HQ mode
+            if use_hq_conversion:
+                audio_bytes = self._convert_opus_to_mp3(audio_bytes)
+            
+            audio_parts.append(audio_bytes)
         
         # Concatenate audio chunks (MP3 frames are independent)
         return b''.join(audio_parts)
