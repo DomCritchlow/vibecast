@@ -1,11 +1,5 @@
 {
   "used_urls": [
-    "https://www.wired.com/story/traces-of-leonardo-da-vincis-dna-may-have-been-discovered-on-a-red-chalk-drawing-called-holy-child/",
-    "https://www.nature.com/articles/s41586-025-10040-y",
-    "https://www.nature.com/articles/s41586-025-09840-z",
-    "https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/",
-    "https://www.technologyreview.com/2026/01/07/1129490/deploying-a-hybrid-approach-to-web3-in-the-ai-era/",
-    "https://www.technologyreview.com/2026/01/07/1129748/aadhaar-nandan-nilekani-india-digital-biometric-identity-data/",
     "https://www.nature.com/articles/d41586-026-00008-x",
     "https://www.nature.com/articles/d41586-025-04154-6",
     "https://openai.com/index/netomi",
@@ -41,15 +35,15 @@
     "https://www.nasa.gov/news-release/nasa-department-of-energy-to-develop-lunar-surface-reactor-by-2030/",
     "https://www.nature.com/articles/d41586-025-03991-9",
     "https://www.nature.com/articles/d41586-026-00072-3",
-    "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/"
+    "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
+    "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/roses-25-amendment-38-d-5-astrophysics-pioneers-updates/",
+    "https://www.wired.com/story/neuroscience-procrastination-brain-mechanism-task-avoidance/",
+    "https://www.nature.com/articles/d41586-026-00145-3",
+    "https://www.nature.com/articles/d41586-026-00162-2",
+    "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
+    "https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/"
   ],
   "url_timestamps": {
-    "https://www.wired.com/story/traces-of-leonardo-da-vincis-dna-may-have-been-discovered-on-a-red-chalk-drawing-called-holy-child/": "2026-01-08T04:42:30.663496",
-    "https://www.nature.com/articles/s41586-025-10040-y": "2026-01-08T04:42:30.663496",
-    "https://www.nature.com/articles/s41586-025-09840-z": "2026-01-08T04:42:30.663496",
-    "https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/": "2026-01-08T04:42:30.663496",
-    "https://www.technologyreview.com/2026/01/07/1129490/deploying-a-hybrid-approach-to-web3-in-the-ai-era/": "2026-01-08T04:42:30.663496",
-    "https://www.technologyreview.com/2026/01/07/1129748/aadhaar-nandan-nilekani-india-digital-biometric-identity-data/": "2026-01-08T04:42:30.663496",
     "https://www.nature.com/articles/d41586-026-00008-x": "2026-01-09T04:43:22.604675",
     "https://www.nature.com/articles/d41586-025-04154-6": "2026-01-09T04:43:22.604675",
     "https://openai.com/index/netomi": "2026-01-09T04:43:22.604675",
@@ -85,7 +79,13 @@
     "https://www.nasa.gov/news-release/nasa-department-of-energy-to-develop-lunar-surface-reactor-by-2030/": "2026-01-14T04:49:37.151235",
     "https://www.nature.com/articles/d41586-025-03991-9": "2026-01-14T04:49:37.151235",
     "https://www.nature.com/articles/d41586-026-00072-3": "2026-01-14T04:49:37.151235",
-    "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/": "2026-01-14T04:49:37.151235"
+    "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/": "2026-01-14T04:49:37.151235",
+    "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/roses-25-amendment-38-d-5-astrophysics-pioneers-updates/": "2026-01-15T04:43:52.686591",
+    "https://www.wired.com/story/neuroscience-procrastination-brain-mechanism-task-avoidance/": "2026-01-15T04:43:52.686591",
+    "https://www.nature.com/articles/d41586-026-00145-3": "2026-01-15T04:43:52.686591",
+    "https://www.nature.com/articles/d41586-026-00162-2": "2026-01-15T04:43:52.686591",
+    "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/": "2026-01-15T04:43:52.686591",
+    "https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/": "2026-01-15T04:43:52.686591"
   },
-  "last_run": "2026-01-14T04:49:37.151235"
+  "last_run": "2026-01-15T04:43:52.686591"
 }
