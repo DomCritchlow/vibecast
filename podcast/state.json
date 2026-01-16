@@ -41,7 +41,13 @@
     "https://www.nature.com/articles/d41586-026-00145-3",
     "https://www.nature.com/articles/d41586-026-00162-2",
     "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
-    "https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/"
+    "https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/",
+    "https://www.nature.com/articles/d41586-026-00073-2",
+    "https://www.nature.com/articles/d41586-026-00160-4",
+    "https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/",
+    "https://huggingface.co/blog/microsoft/optimind",
+    "https://www.technologyreview.com/2026/01/15/1131348/climate-technologies-2026/",
+    "https://www.technologyreview.com/2026/01/12/1131176/the-download-introducing-this-years-10-breakthrough-technologies/"
   ],
   "url_timestamps": {
     "https://www.nature.com/articles/d41586-026-00008-x": "2026-01-09T04:43:22.604675",
@@ -85,7 +91,13 @@
     "https://www.nature.com/articles/d41586-026-00145-3": "2026-01-15T04:43:52.686591",
     "https://www.nature.com/articles/d41586-026-00162-2": "2026-01-15T04:43:52.686591",
     "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/": "2026-01-15T04:43:52.686591",
-    "https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/": "2026-01-15T04:43:52.686591"
+    "https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/": "2026-01-15T04:43:52.686591",
+    "https://www.nature.com/articles/d41586-026-00073-2": "2026-01-16T04:42:12.376928",
+    "https://www.nature.com/articles/d41586-026-00160-4": "2026-01-16T04:42:12.376928",
+    "https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/": "2026-01-16T04:42:12.376928",
+    "https://huggingface.co/blog/microsoft/optimind": "2026-01-16T04:42:12.376928",
+    "https://www.technologyreview.com/2026/01/15/1131348/climate-technologies-2026/": "2026-01-16T04:42:12.376928",
+    "https://www.technologyreview.com/2026/01/12/1131176/the-download-introducing-this-years-10-breakthrough-technologies/": "2026-01-16T04:42:12.376928"
   },
-  "last_run": "2026-01-15T04:43:52.686591"
+  "last_run": "2026-01-16T04:42:12.376928"
 }
