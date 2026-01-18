@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Jan 2026 04:35:00 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 04:43:49 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,94 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>AI Finds Fluid Equation Glitches &amp; Setapp Store Closure</title>
+      <description><![CDATA[Tech, science, and what's actually interesting for January 18, 2026.
+
+Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. Using AI, Mathematicians Find Hidden Glitches in Fluid Equations
+   Source: Quanta Magazine
+2. Datadog uses Codex for system-level code review
+   Source: OpenAI News
+3. The Setapp Mobile iOS store is shutting down on February 16th
+   Source: The Verge
+4. The best deals on MacBooks right now
+   Source: The Verge
+5. Show HN: Nex.Design – AI ads agent for e-commerce
+   Source: Hacker News (AI filtered)
+6. NASA’s Moonbound Artemis II Rocket Reaches Launch Pad
+   Source: NASA Science
+
+REFERENCES:
+
+1. Using AI, Mathematicians Find Hidden Glitches in Fluid Equations
+   https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/
+
+2. Datadog uses Codex for system-level code review
+   https://openai.com/index/datadog
+
+3. The Setapp Mobile iOS store is shutting down on February 16th
+   https://www.theverge.com/news/863978/setapp-mobile-ios-store-shutdown
+
+4. The best deals on MacBooks right now
+   https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals
+
+5. Show HN: Nex.Design – AI ads agent for e-commerce
+   https://www.nex.design/
+
+6. NASA’s Moonbound Artemis II Rocket Reaches Launch Pad
+   https://www.nasa.gov/blogs/missions/2026/01/17/nasas-moonbound-artemis-ii-rocket-reaches-launch-pad/
+]]></description>
+      <pubDate>Sun, 18 Jan 2026 04:43:13 -0000</pubDate>
+      <guid isPermaLink="false">2026-01-18</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-18.mp3" length="5310214" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 18, 2026.
+
+Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. Using AI, Mathematicians Find Hidden Glitches in Fluid Equations
+   Source: Quanta Magazine
+2. Datadog uses Codex for system-level code review
+   Source: OpenAI News
+3. The Setapp Mobile iOS store is shutting down on February 16th
+   Source: The Verge
+4. The best deals on MacBooks right now
+   Source: The Verge
+5. Show HN: Nex.Design – AI ads agent for e-commerce
+   Source: Hacker News (AI filtered)
+6. NASA’s Moonbound Artemis II Rocket Reaches Launch Pad
+   Source: NASA Science
+
+REFERENCES:
+
+1. Using AI, Mathematicians Find Hidden Glitches in Fluid Equations
+   https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/
+
+2. Datadog uses Codex for system-level code review
+   https://openai.com/index/datadog
+
+3. The Setapp Mobile iOS store is shutting down on February 16th
+   https://www.theverge.com/news/863978/setapp-mobile-ios-store-shutdown
+
+4. The best deals on MacBooks right now
+   https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals
+
+5. Show HN: Nex.Design – AI ads agent for e-commerce
+   https://www.nex.design/
+
+6. NASA’s Moonbound Artemis II Rocket Reaches Launch Pad
+   https://www.nasa.gov/blogs/missions/2026/01/17/nasas-moonbound-artemis-ii-rocket-reaches-launch-pad/
+]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3:47</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/images/2026-01-18.jpg"/>
+    </item>
     <item>
       <title>Astrophysics Pioneers &amp; Future of AI in Biotech</title>
       <description><![CDATA[Tech, science, and what's actually interesting for January 17, 2026.
@@ -113,7 +201,6 @@ REFERENCES:
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:13</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/images/2026-01-17.jpg"/>
     </item>
     <item>
       <title>Global Health Evidence &amp; AI in Tumor Modeling</title>
@@ -2550,93 +2637,6 @@ REFERENCES:
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:52</itunes:duration>
-    </item>
-    <item>
-      <title>Morning Vibe — December 19, 2025</title>
-      <description><![CDATA[Good news to fuel your day for December 19, 2025.
-
-Duration: ~5 minutes
-
-IN THIS EPISODE:
-
-1. Good News in History, December 18
-   Source: Good News Network
-2. NASA’s Hubble Sees Asteroids Colliding at Nearby Star for First Time
-   Source: NASA Breaking News
-3. NASA, Boeing Test How to Improve Performance of Longer, Narrower Aircraft Wings
-   Source: NASA Breaking News
-4. Sam Venis documents infrastructure at "political experiment" Próspera in Honduras
-   Source: Dezeen
-5. Modular housing complex for expanding families among projects from University of Southern California
-   Source: Dezeen
-6. Ctrl+Alt+Defy, the white-hat hacker rewriting the cybersecurity rulebook
-   Source: Positive News
-
-REFERENCES:
-
-1. Good News in History, December 18
-   https://www.goodnewsnetwork.org/events061218/
-
-2. NASA’s Hubble Sees Asteroids Colliding at Nearby Star for First Time
-   https://science.nasa.gov/missions/hubble/nasas-hubble-sees-asteroids-colliding-at-nearby-star-for-first-time/
-
-3. NASA, Boeing Test How to Improve Performance of Longer, Narrower Aircraft Wings
-   https://www.nasa.gov/aeronautics/nasa-boeing-test-aircraft-wings/
-
-4. Sam Venis documents infrastructure at "political experiment" Próspera in Honduras
-   https://www.dezeen.com/2025/12/18/infrastructure-prospera-honduras-sam-venis/
-
-5. Modular housing complex for expanding families among projects from University of Southern California
-   https://www.dezeen.com/2025/12/18/modular-housing-structure-university-of-southern-california-schoolshows/
-
-6. Ctrl+Alt+Defy, the white-hat hacker rewriting the cybersecurity rulebook
-   https://www.positive.news/science/technology/ctrlaltdefy-the-white-hat-hacker-rewriting-the-cybersecurity-rulebook/
-]]></description>
-      <pubDate>Fri, 19 Dec 2025 04:35:37 -0000</pubDate>
-      <guid isPermaLink="false">2025-12-19</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-19.mp3" length="5938560" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[Good news to fuel your day for December 19, 2025.
-
-Duration: ~5 minutes
-
-IN THIS EPISODE:
-
-1. Good News in History, December 18
-   Source: Good News Network
-2. NASA’s Hubble Sees Asteroids Colliding at Nearby Star for First Time
-   Source: NASA Breaking News
-3. NASA, Boeing Test How to Improve Performance of Longer, Narrower Aircraft Wings
-   Source: NASA Breaking News
-4. Sam Venis documents infrastructure at "political experiment" Próspera in Honduras
-   Source: Dezeen
-5. Modular housing complex for expanding families among projects from University of Southern California
-   Source: Dezeen
-6. Ctrl+Alt+Defy, the white-hat hacker rewriting the cybersecurity rulebook
-   Source: Positive News
-
-REFERENCES:
-
-1. Good News in History, December 18
-   https://www.goodnewsnetwork.org/events061218/
-
-2. NASA’s Hubble Sees Asteroids Colliding at Nearby Star for First Time
-   https://science.nasa.gov/missions/hubble/nasas-hubble-sees-asteroids-colliding-at-nearby-star-for-first-time/
-
-3. NASA, Boeing Test How to Improve Performance of Longer, Narrower Aircraft Wings
-   https://www.nasa.gov/aeronautics/nasa-boeing-test-aircraft-wings/
-
-4. Sam Venis documents infrastructure at "political experiment" Próspera in Honduras
-   https://www.dezeen.com/2025/12/18/infrastructure-prospera-honduras-sam-venis/
-
-5. Modular housing complex for expanding families among projects from University of Southern California
-   https://www.dezeen.com/2025/12/18/modular-housing-structure-university-of-southern-california-schoolshows/
-
-6. Ctrl+Alt+Defy, the white-hat hacker rewriting the cybersecurity rulebook
-   https://www.positive.news/science/technology/ctrlaltdefy-the-white-hat-hacker-rewriting-the-cybersecurity-rulebook/
-]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:56</itunes:duration>
     </item>
   </channel>
 </rss>
