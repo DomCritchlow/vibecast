@@ -306,20 +306,55 @@ sources:
 
   # --- Episode artwork ---
   # Image shown for each episode in podcast apps
+  # Legacy NASA provider (disabled - using AI artwork instead)
   episode_image:
-    provider: "nasa"           # Options: nasa (more providers coming)
-    
-    # NASA-specific settings
-    nasa:
-      prefer: "apod"           # apod (daily astronomy photo), library (searchable archive), random
-      search_terms:            # Used when fetching from NASA Image Library
-        - "earth from space"
-        - "nebula"
-        - "galaxy"
-        - "aurora"
-        - "sunrise from space"
-        - "hubble"
-        - "james webb"
+    provider: "disabled"       # Options: nasa, disabled
+
+# =============================================================================
+# AI-GENERATED EPISODE ARTWORK
+# =============================================================================
+# Generates unique cover art for each episode in an editorial risograph style
+# using OpenAI's GPT-Image-1.5 image generation API.
+artwork:
+  enabled: true
+  provider: "openai"           # Image generation provider (openai = GPT-Image-1.5)
+  
+  # Image settings
+  size: 1024                   # Square image size (1024x1024)
+  format: "png"                # Output format
+  quality: "medium"            # GPT-Image-1.5 quality: low (~$0.009), medium (~$0.035), high (~$0.133)
+  
+  # R2 Storage
+  upload_to_r2: true
+  r2_prefix: "episodes"        # Base prefix for episode assets
+  r2_fallback_key: "static/default-episode-art.png"
+  
+  # Color palette for accent colors
+  accent_palette:
+    - "burnt orange"
+    - "deep teal"
+    - "electric purple"
+    - "muted tan"
+    - "sage green"
+    - "dusty rose"
+  
+  # Determinism settings
+  accent_strategy: "rotate"    # rotate | random | fixed
+  fixed_accent: "burnt orange" # Used when accent_strategy is "fixed"
+  seed_strategy: "date"        # date | random | fixed (note: DALL-E 3 doesn't support seeds)
+  fixed_seed: 12345            # Used when seed_strategy is "fixed"
+  
+  # Style settings
+  style: "vibecast_riso_v1"    # Style template version
+  secondary_detail_max: 1      # Max secondary details in scene
+  prompt_version: "v1"         # Prompt template version
+  
+  # Metadata
+  save_prompt_metadata: true   # Save prompts and briefs to R2 for debugging
+  
+  # Reliability
+  retries: 1                   # Retry attempts on failure
+  timeout_seconds: 60          # API timeout
 
 # =============================================================================
 # CONTENT FILTERING

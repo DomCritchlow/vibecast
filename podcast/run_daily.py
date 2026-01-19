@@ -13,11 +13,10 @@ import yaml
 from .sources.base import filter_items, select_items, ContentItem
 from .sources.weather import fetch_weather, format_weather_for_script
 from .sources.rss import fetch_all_rss_sources
-from .sources.images import get_episode_image
 from .writer import generate_script, generate_script_dry_run, generate_episode_title
 from .tts import synthesize_speech, estimate_duration
-from .storage import upload_mp3_to_r2, upload_transcript_to_r2, upload_image_to_r2, check_r2_connection
-import requests
+from .storage import upload_mp3_to_r2, upload_transcript_to_r2, check_r2_connection
+from .artwork import generate_and_publish_episode_artwork
 from .rss_feed import create_episode_metadata, update_feed, save_feed
 from .site_generator import save_index_html
 
@@ -401,43 +400,32 @@ def run_pipeline(dry_run: bool = False, verbose: bool = False) -> bool:
             mp3_url = upload_mp3_to_r2(mp3_bytes, filename, config)
             print(f"  Uploaded to: {mp3_url}")
         
-        # Fetch episode artwork from configured provider and upload to R2
+        # Generate AI artwork for the episode
         episode_image_url = None
-        image_result = get_episode_image(config)
-        if image_result:
-            source_image_url = image_result.image_url
-            print(f"  Episode image: {image_result.title} ({image_result.source})")
-            
-            # Download and upload to R2 for persistence
-            if source_image_url and not dry_run:
-                try:
-                    print(f"  Downloading image...")
-                    img_response = requests.get(source_image_url, timeout=30)
-                    img_response.raise_for_status()
-                    
-                    # Determine file extension from content type or URL
-                    content_type = img_response.headers.get("Content-Type", "image/jpeg")
-                    ext = "jpg"
-                    if "png" in content_type or source_image_url.endswith(".png"):
-                        ext = "png"
-                    elif "gif" in content_type or source_image_url.endswith(".gif"):
-                        ext = "gif"
-                    
-                    image_filename = f"{today.strftime('%Y-%m-%d')}.{ext}"
-                    episode_image_url = upload_image_to_r2(
-                        img_response.content, 
-                        image_filename, 
-                        config,
-                        content_type=content_type
-                    )
-                    print(f"  Uploaded image to: {episode_image_url}")
-                except Exception as e:
-                    print(f"  Warning: Failed to upload image to R2: {e}")
-                    episode_image_url = source_image_url  # Fallback to source URL
-            elif source_image_url and dry_run:
-                episode_image_url = source_image_url  # Use source URL directly in dry run
+        artwork_config = config.get("artwork", {})
+        
+        if artwork_config.get("enabled", True) and not dry_run:
+            print("\n  Generating AI episode artwork...")
+            episode_context = {
+                "episode_id": today.strftime('%Y-%m-%d'),
+                "items": selected,
+                "title": episode_title,
+            }
+            try:
+                episode_image_url = generate_and_publish_episode_artwork(episode_context, config)
+                print(f"  Episode artwork: {episode_image_url}")
+            except Exception as e:
+                print(f"  Warning: Artwork generation failed: {e}")
+                # Fallback URL will be used (handled inside the function)
+        elif dry_run:
+            print("\n  [DRY RUN] Would generate AI episode artwork")
+            # Use a placeholder URL for dry run
+            storage_config = config.get("storage", {})
+            r2_config = storage_config.get("r2", {})
+            public_base_url = r2_config.get("public_base_url", "https://example.com")
+            episode_image_url = f"{public_base_url}/episodes/{today.strftime('%Y-%m-%d')}/episode-art.png"
         else:
-            print("  Episode image: Not available")
+            print("\n  Episode artwork: Disabled in config")
         
         # Create episode metadata with show notes
         episode = create_episode_metadata(
@@ -447,7 +435,7 @@ def run_pipeline(dry_run: bool = False, verbose: bool = False) -> bool:
             duration_seconds=estimated_duration * 60,
             config=config,
             items=selected,  # Include items for rich show notes
-            episode_image_url=episode_image_url,  # NASA APOD as episode artwork
+            episode_image_url=episode_image_url,  # AI-generated episode artwork
             custom_title=episode_title,  # AI-generated content-based title
         )
         

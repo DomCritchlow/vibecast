@@ -282,3 +282,173 @@ def upload_image_to_r2(
         public_url = f"https://{bucket}.{account_id}.r2.dev/{object_key}"
     
     return public_url
+
+
+def upload_artwork_to_r2(
+    episode_id: str,
+    image_bytes: bytes,
+    config: dict,
+) -> str:
+    """Upload AI-generated episode artwork to Cloudflare R2.
+    
+    Stores artwork at: episodes/{episode_id}/episode-art.png
+    
+    Args:
+        episode_id: Episode identifier (e.g., "2025-01-19").
+        image_bytes: Raw PNG image data.
+        config: Full configuration dictionary.
+    
+    Returns:
+        Public URL of the uploaded artwork.
+    """
+    storage_config = config.get("storage", {})
+    r2_config = storage_config.get("r2", {})
+    artwork_config = config.get("artwork", {})
+    
+    bucket = r2_config.get("bucket", "vibecast")
+    public_base_url = r2_config.get("public_base_url", "")
+    r2_prefix = artwork_config.get("r2_prefix", "episodes")
+    
+    # Build object key: episodes/2025-01-19/episode-art.png
+    object_key = f"{r2_prefix}/{episode_id}/episode-art.png"
+    
+    # Get R2 client
+    client = get_r2_client()
+    
+    # Upload the file
+    client.put_object(
+        Bucket=bucket,
+        Key=object_key,
+        Body=image_bytes,
+        ContentType="image/png",
+        CacheControl="public, max-age=31536000, immutable",
+    )
+    
+    # Build public URL
+    if public_base_url:
+        public_url = f"{public_base_url.rstrip('/')}/{object_key}"
+    else:
+        account_id = os.environ.get("R2_ACCOUNT_ID", "")
+        public_url = f"https://{bucket}.{account_id}.r2.dev/{object_key}"
+    
+    return public_url
+
+
+def upload_artwork_metadata_to_r2(
+    episode_id: str,
+    metadata: dict,
+    prompt: str,
+    config: dict,
+) -> None:
+    """Upload artwork metadata and prompt to R2 for debugging/reproducibility.
+    
+    Stores:
+    - episodes/{episode_id}/episode-art.meta.json
+    - episodes/{episode_id}/episode-art.prompt.txt
+    
+    Args:
+        episode_id: Episode identifier (e.g., "2025-01-19").
+        metadata: Metadata dictionary with generation info.
+        prompt: The full prompt used for generation.
+        config: Full configuration dictionary.
+    """
+    import json
+    
+    storage_config = config.get("storage", {})
+    r2_config = storage_config.get("r2", {})
+    artwork_config = config.get("artwork", {})
+    
+    bucket = r2_config.get("bucket", "vibecast")
+    r2_prefix = artwork_config.get("r2_prefix", "episodes")
+    
+    # Get R2 client
+    client = get_r2_client()
+    
+    # Upload metadata JSON
+    meta_key = f"{r2_prefix}/{episode_id}/episode-art.meta.json"
+    client.put_object(
+        Bucket=bucket,
+        Key=meta_key,
+        Body=json.dumps(metadata, indent=2).encode("utf-8"),
+        ContentType="application/json",
+        CacheControl="public, max-age=31536000, immutable",
+    )
+    
+    # Upload prompt text
+    prompt_key = f"{r2_prefix}/{episode_id}/episode-art.prompt.txt"
+    client.put_object(
+        Bucket=bucket,
+        Key=prompt_key,
+        Body=prompt.encode("utf-8"),
+        ContentType="text/plain; charset=utf-8",
+        CacheControl="public, max-age=31536000, immutable",
+    )
+
+
+def get_fallback_artwork_url(config: dict) -> str:
+    """Get the fallback artwork URL for when generation fails.
+    
+    Args:
+        config: Full configuration dictionary.
+    
+    Returns:
+        Public URL of the fallback artwork image.
+    """
+    storage_config = config.get("storage", {})
+    r2_config = storage_config.get("r2", {})
+    artwork_config = config.get("artwork", {})
+    
+    public_base_url = r2_config.get("public_base_url", "")
+    fallback_key = artwork_config.get("r2_fallback_key", "static/default-episode-art.png")
+    
+    if public_base_url:
+        return f"{public_base_url.rstrip('/')}/{fallback_key}"
+    else:
+        bucket = r2_config.get("bucket", "vibecast")
+        account_id = os.environ.get("R2_ACCOUNT_ID", "")
+        return f"https://{bucket}.{account_id}.r2.dev/{fallback_key}"
+
+
+def upload_fallback_artwork_to_r2(
+    image_bytes: bytes,
+    config: dict,
+) -> str:
+    """Upload the fallback artwork image to R2.
+    
+    This is a one-time upload for the static fallback image.
+    
+    Args:
+        image_bytes: Raw PNG image data.
+        config: Full configuration dictionary.
+    
+    Returns:
+        Public URL of the uploaded fallback artwork.
+    """
+    storage_config = config.get("storage", {})
+    r2_config = storage_config.get("r2", {})
+    artwork_config = config.get("artwork", {})
+    
+    bucket = r2_config.get("bucket", "vibecast")
+    public_base_url = r2_config.get("public_base_url", "")
+    fallback_key = artwork_config.get("r2_fallback_key", "static/default-episode-art.png")
+    
+    # Get R2 client
+    client = get_r2_client()
+    
+    # Upload the file
+    client.put_object(
+        Bucket=bucket,
+        Key=fallback_key,
+        Body=image_bytes,
+        ContentType="image/png",
+        CacheControl="public, max-age=31536000, immutable",
+    )
+    
+    # Build public URL
+    if public_base_url:
+        public_url = f"{public_base_url.rstrip('/')}/{fallback_key}"
+    else:
+        account_id = os.environ.get("R2_ACCOUNT_ID", "")
+        public_url = f"https://{bucket}.{account_id}.r2.dev/{fallback_key}"
+    
+    return public_url
