@@ -85,7 +85,7 @@ Go to **Settings → Secrets and variables → Actions** and add:
 
 1. Go to **Settings → Pages**
 2. Source: **Deploy from a branch**
-3. Branch: `main`, folder: `/site`
+3. Branch: `main`, folder: `/docs`
 4. Click **Save**
 
 Your site: `https://[username].github.io/vibecast/`

@@ -1,52 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vibecast - Tech, science, and what&#39;s actually interesting</title>
-    <meta name="description" content="Tech, science, and what&#39;s actually interesting">
-    <link rel="alternate" type="application/rss+xml" title="Vibecast: Morning Thread RSS Feed" href="feed.xml">
-    
-    <!-- Google Fonts: Fraunces (headings) + Inter (body) -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700;9..144,900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-    
-    <!-- Design System + Components + Pages -->
-    <link rel="stylesheet" href="assets/css/design-system.css">
-    <link rel="stylesheet" href="assets/css/components.css">
-    <link rel="stylesheet" href="assets/css/pages.css">
-    
-    
-</head>
-<body>
-    <div class="page">
-        <!-- Navigation -->
-        <nav class="nav">
-            <div class="nav-inner">
-                <div class="nav-brand">
-                    <a href="index.html" class="nav-logo">Vibecast</a>
-                    <span class="nav-host">with <strong>Riso</strong></span>
-                </div>
-                <button class="nav-toggle" aria-label="Toggle navigation" onclick="toggleNav()">
-                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                        <line x1="3" y1="6" x2="21" y2="6"></line>
-                        <line x1="3" y1="12" x2="21" y2="12"></line>
-                        <line x1="3" y1="18" x2="21" y2="18"></line>
-                    </svg>
-                </button>
-                <ul class="nav-links" id="nav-links">
-                    <li><a href="index.html" class="nav-link nav-link-active">Home</a></li>
-                    <li><a href="about.html" class="nav-link ">About</a></li>
-                    <li><a href="docs.html" class="nav-link ">Docs</a></li>
-                    <li><a href="index.html#subscribe" class="nav-link nav-subscribe">Subscribe</a></li>
-                </ul>
-            </div>
-        </nav>
-        
-        <!-- Main Content -->
-        <main class="page-main">
-            
+{% extends "base.html" %}
+
+{% block title %}{{ short_title }} - {{ tagline }}{% endblock %}
+
+{% block nav_home %}nav-link-active{% endblock %}
+
+{% block content %}
 <!-- SVG Filters for texture effects -->
 <svg style="position: absolute; width: 0; height: 0;">
   <defs>
@@ -172,7 +130,7 @@
     <div class="container">
         <div class="subscribe-inner">
             <h2 class="subscribe-title">Never Miss an Episode</h2>
-            <p class="subscribe-desc">Subscribe to Vibecast in your favorite podcast app.</p>
+            <p class="subscribe-desc">Subscribe to {{ short_title }} in your favorite podcast app.</p>
             <div class="subscribe-buttons">
                 <button class="subscribe-btn subscribe-btn-primary" onclick="copyRssFeed()">
                     <svg viewBox="0 0 24 24" fill="currentColor"><circle cx="6" cy="18" r="3"/><path d="M6 12c3.31 0 6 2.69 6 6h-2.5c0-1.93-1.57-3.5-3.5-3.5V12z"/><path d="M6 6c6.63 0 12 5.37 12 12h-2.5c0-5.24-4.26-9.5-9.5-9.5V6z"/></svg>
@@ -184,105 +142,13 @@
     </div>
 </section>
 
+{% endblock %}
 
-        </main>
-        
-        <!-- Footer -->
-        <footer class="footer">
-            <div class="container footer-inner">
-                <div class="footer-brand">Vibecast</div>
-                <div class="footer-links">
-                    <a href="index.html" class="footer-link">Home</a>
-                    <a href="about.html" class="footer-link">About</a>
-                    <a href="docs.html" class="footer-link">Docs</a>
-                    
-                    <a href="https://github.com/domcritchlow/vibecast" class="footer-link" target="_blank" rel="noopener">GitHub</a>
-                    
-                </div>
-                <div class="footer-copy">© 2026 Dominic</div>
-            </div>
-        </footer>
-    </div>
-    
-    <!-- Transcript/Show Notes Modal -->
-    <div class="modal-overlay" id="transcript-modal">
-        <div class="modal">
-            <div class="modal-header">
-                <h3 class="modal-title" id="modal-title">Transcript</h3>
-                <button class="modal-close" onclick="closeModal()">&times;</button>
-            </div>
-            <div class="modal-body">
-                <div id="modal-content"></div>
-            </div>
-        </div>
-    </div>
-    
-    <script>
-        // Navigation toggle for mobile
-        function toggleNav() {
-            document.getElementById('nav-links').classList.toggle('open');
-        }
-        
-        // Modal functions
-        function openModal(title, content) {
-            const modal = document.getElementById('transcript-modal');
-            document.getElementById('modal-title').textContent = title;
-            document.getElementById('modal-content').innerHTML = content;
-            modal.classList.add('active');
-            document.body.style.overflow = 'hidden';
-        }
-        
-        function closeModal() {
-            document.getElementById('transcript-modal').classList.remove('active');
-            document.body.style.overflow = '';
-        }
-        
-        // Close modal on overlay click or Escape key
-        document.getElementById('transcript-modal').addEventListener('click', (e) => {
-            if (e.target.classList.contains('modal-overlay')) closeModal();
-        });
-        document.addEventListener('keydown', (e) => {
-            if (e.key === 'Escape') closeModal();
-        });
-        
-        // Utility: escape HTML
-        function escapeHtml(text) {
-            const div = document.createElement('div');
-            div.textContent = text;
-            return div.innerHTML;
-        }
-        
-        // Utility: convert URLs to links
-        function linkify(text) {
-            return text.split(' ').map(word => {
-                if (word.startsWith('http://') || word.startsWith('https://')) {
-                    return `<a href="${word}" target="_blank" rel="noopener">${word}</a>`;
-                }
-                return word;
-            }).join(' ');
-        }
-        
-        // Format text for display
-        function formatTextForDisplay(text) {
-            const escaped = escapeHtml(text);
-            const linked = linkify(escaped);
-            return linked.split('\n').join('<br>');
-        }
-        
-        // Copy to clipboard
-        function copyToClipboard(el) {
-            navigator.clipboard.writeText(el.textContent);
-            const original = el.textContent;
-            el.textContent = 'Copied!';
-            setTimeout(() => el.textContent = original, 1500);
-        }
-    </script>
-    
-    
+{% block scripts %}
 <script>
     // ===== Configuration =====
     const feedUrl = new URL('feed.xml', window.location.href).href;
-    const r2BaseUrl = ''.replace(/\/+$/, '');
+    const r2BaseUrl = '{{ r2_public_url }}'.replace(/\/+$/, '');
     const transcriptBaseUrl = r2BaseUrl + '/transcripts/';
     document.getElementById('rss-url').textContent = feedUrl;
     
@@ -580,6 +446,4 @@
     // Initialize
     loadEpisodes();
 </script>
-
-</body>
-</html>
+{% endblock %}

@@ -3,238 +3,456 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About This Show — Vibecast</title>
-    <style>
-        :root {
-            --font-serif: 'Playfair Display', Georgia, serif;
-            --font-sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-            --color-text: #1a1a1a;
-            --color-text-light: #666;
-            --color-bg: #fafafa;
-            --color-border: #e0e0e0;
-            --color-accent: #2c5282;
-        }
-
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        body {
-            font-family: var(--font-sans);
-            color: var(--color-text);
-            background: white;
-            line-height: 1.6;
-        }
-
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 64px 24px;
-        }
-
-        header {
-            text-align: center;
-            margin-bottom: 64px;
-        }
-
-        header h1 {
-            font-family: var(--font-serif);
-            font-size: 3rem;
-            font-weight: 700;
-            margin-bottom: 12px;
-            line-height: 1.2;
-        }
-
-        header .tagline {
-            font-size: 1.125rem;
-            color: var(--color-text-light);
-            margin-bottom: 24px;
-        }
-
-        header .back-link {
-            display: inline-block;
-            color: var(--color-accent);
-            text-decoration: none;
-            font-size: 0.9rem;
-            transition: opacity 0.2s;
-        }
-
-        header .back-link:hover {
-            opacity: 0.7;
-        }
-
-        section {
-            margin-bottom: 48px;
-        }
-
-        h2 {
-            font-family: var(--font-serif);
-            font-size: 1.75rem;
-            font-weight: 600;
-            margin-bottom: 16px;
-        }
-
-        p {
-            font-size: 1.0625rem;
-            line-height: 1.7;
-            margin-bottom: 16px;
-            color: var(--color-text);
-        }
-
-        .config-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 24px;
-            margin-bottom: 32px;
-        }
-
-        .config-item {
-            padding: 20px;
-            background: var(--color-bg);
-            border: 1px solid var(--color-border);
-            border-radius: 8px;
-        }
-
-        .config-label {
-            font-size: 0.75rem;
-            font-weight: 600;
-            text-transform: uppercase;
-            letter-spacing: 0.1em;
-            color: var(--color-text-light);
-            margin-bottom: 8px;
-        }
-
-        .config-value {
-            font-size: 1.125rem;
-            color: var(--color-text);
-        }
-
-        .traits-list, .topics-list, .sources-list {
-            list-style: none;
-            padding-left: 0;
-        }
-
-        .traits-list li, .topics-list li, .sources-list li {
-            padding: 8px 0;
-            padding-left: 24px;
-            position: relative;
-        }
-
-        .traits-list li:before, .topics-list li:before, .sources-list li:before {
-            content: "•";
-            position: absolute;
-            left: 8px;
-            color: var(--color-accent);
-        }
-
-        footer {
-            padding-top: 48px;
-            margin-top: 64px;
-            border-top: 1px solid var(--color-border);
-            text-align: center;
-            font-size: 0.9rem;
-            color: var(--color-text-light);
-        }
-
-        .footer-links {
-            margin-top: 16px;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            gap: 12px;
-            flex-wrap: wrap;
-        }
-
-        .footer-links a {
-            color: var(--color-text);
-            text-decoration: none;
-            transition: color 0.2s;
-        }
-
-        .footer-links a:hover {
-            color: var(--color-accent);
-        }
-
-        .footer-links span {
-            color: var(--color-text-light);
-        }
-
-        @media (max-width: 768px) {
-            .container {
-                padding: 48px 20px;
-            }
-
-            header h1 {
-                font-size: 2rem;
-            }
-
-            h2 {
-                font-size: 1.5rem;
-            }
-        }
-    </style>
+    <title>Meet Riso — Vibecast</title>
+    <meta name="description" content="Tech, science, and what&#39;s actually interesting">
+    <link rel="alternate" type="application/rss+xml" title="Vibecast: Morning Thread RSS Feed" href="feed.xml">
+    
+    <!-- Google Fonts: Fraunces (headings) + Inter (body) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700;9..144,900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Design System + Components + Pages -->
+    <link rel="stylesheet" href="assets/css/design-system.css">
+    <link rel="stylesheet" href="assets/css/components.css">
+    <link rel="stylesheet" href="assets/css/pages.css">
+    
+    
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1>About This Show</h1>
-            <p class="tagline">Good news to fuel your day</p>
-            <a href="index.html" class="back-link">← Back to episodes</a>
-        </header>
-
-        <main>
-            <section>
-                <h2>The Vibe</h2>
-                <div class="config-grid">
-                    <div class="config-item">
-                        <div class="config-label">Mood</div>
-                        <div class="config-value">Energizing, Optimistic</div>
-                    </div>
-                    <div class="config-item">
-                        <div class="config-label">Voice Persona</div>
-                        <div class="config-value">Your hype friend with the best news</div>
-                    </div>
-                    <div class="config-item">
-                        <div class="config-label">Narrated By</div>
-                        <div class="config-value">Fable</div>
-                    </div>
+    <div class="page">
+        <!-- Navigation -->
+        <nav class="nav">
+            <div class="nav-inner">
+                <div class="nav-brand">
+                    <a href="index.html" class="nav-logo">Vibecast</a>
+                    <span class="nav-host">with <strong>Riso</strong></span>
                 </div>
-                <h3>Personality</h3><ul class='traits-list'><li>radiates genuine excitement and enthusiasm</li><li>makes you feel like today is going to be amazing</li><li>speaks with infectious energy and warmth</li><li>celebrates wins big and small with real joy</li><li>leaves you feeling fired up and ready to take on the world</li></ul>
-            </section>
-
-            <section><h2>Topics We Cover</h2><ul class='topics-list'><li>innovation</li><li>achievements</li><li>science</li><li>community</li><li>progress</li><li>adventure</li></ul></section>
+                <button class="nav-toggle" aria-label="Toggle navigation" onclick="toggleNav()">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <line x1="3" y1="6" x2="21" y2="6"></line>
+                        <line x1="3" y1="12" x2="21" y2="12"></line>
+                        <line x1="3" y1="18" x2="21" y2="18"></line>
+                    </svg>
+                </button>
+                <ul class="nav-links" id="nav-links">
+                    <li><a href="index.html" class="nav-link ">Home</a></li>
+                    <li><a href="about.html" class="nav-link nav-link-active">About</a></li>
+                    <li><a href="docs.html" class="nav-link ">Docs</a></li>
+                    <li><a href="index.html#subscribe" class="nav-link nav-subscribe">Subscribe</a></li>
+                </ul>
+            </div>
+        </nav>
+        
+        <!-- Main Content -->
+        <main class="page-main">
             
-            <section><h2>Topics We Avoid</h2><ul class='topics-list'><li>violence</li><li>disaster</li><li>conflict</li><li>controversy</li></ul></section>
+<!-- Hero Section with Riso -->
+<section class="about-hero">
+    <!-- Decorative clouds -->
+    <div class="hero-cloud hero-cloud-1"></div>
+    <div class="hero-cloud hero-cloud-2"></div>
+    
+    <div class="container">
+        <div class="about-hero-grid">
+            <div class="about-hero-content">
+                <div class="about-badge">Your AI Host</div>
+                <h1 class="about-hero-title">Hi, I'm <span>Riso</span></h1>
+                <p class="about-hero-lead">I'm your AI-powered podcast host. Every day, I curate the most interesting stories from across the web and deliver them in a fresh, engaging format—just for you.</p>
+                <div class="about-hero-actions">
+                    <a href="index.html" class="btn btn-primary">Listen to Latest Episode</a>
+                    <a href="index.html#subscribe" class="btn btn-secondary">Subscribe</a>
+                </div>
+            </div>
+            <div class="about-hero-image">
+                <div class="hero-host-frame">
+                    <img src="assets/images/Vibecast_Host.png" alt="Riso - Your AI Host" />
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Landscape silhouette -->
+    <div class="hero-landscape"></div>
+</section>
 
-            <section>
-                <h2>Our Sources</h2>
-                <p>Every episode is curated from carefully selected news sources to bring you the best content:</p>
+<!-- What I Do Section -->
+<section class="about-section about-section-alt">
+    <div class="container">
+        <div class="about-section-header">
+            <h2>What I Do</h2>
+            <p>I bring you the news that matters, the way you want it.</p>
+        </div>
+        
+        <div class="feature-grid">
+            <div class="feature-card">
+                <div class="feature-marker feature-marker-orange">01</div>
+                <h3>Curate Content</h3>
+                <p>I scan dozens of trusted sources daily and pick the stories that match your interests.</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-marker feature-marker-teal">02</div>
+                <h3>Tell Stories</h3>
+                <p>I transform dry news into engaging narratives you'll actually enjoy listening to.</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-marker feature-marker-orange">03</div>
+                <h3>Deliver Daily</h3>
+                <p>Fresh episodes every morning, ready for your commute, workout, or morning coffee.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- My Personality Section -->
+<section class="about-section">
+    <div class="container">
+        <div class="personality-grid">
+            <div class="personality-content">
+                <h2>My Personality</h2>
+                <p>I'm not your typical news anchor. I'm curious and informed, with a knack for making complex topics feel accessible.</p>
                 
-            </section>
+                
+                <ul class="trait-list">
+                    
+                    <li><span class="trait-dot"></span>genuinely curious about how things work</li>
+                    
+                    <li><span class="trait-dot"></span>explains why things matter, not just what happened</li>
+                    
+                    <li><span class="trait-dot"></span>conversational but doesn&#39;t waste your time</li>
+                    
+                    <li><span class="trait-dot"></span>finds signal in the noise</li>
+                    
+                    <li><span class="trait-dot"></span>makes you smarter without trying too hard</li>
+                    
+                </ul>
+                
+            </div>
+            <div class="personality-stats">
+                <div class="stat-card">
+                    <div class="stat-value">~5</div>
+                    <div class="stat-label">Minutes per episode</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">Daily</div>
+                    <div class="stat-label">Fresh episodes</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">16+</div>
+                    <div class="stat-label">News sources</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Color splash -->
+    <div class="splash splash-teal-right"></div>
+</section>
 
-            <section>
-                <h2>How It's Made</h2>
-                <p>This podcast is generated daily using AI technology. Here's how it works:</p>
-                <ol style="padding-left: 24px; line-height: 1.8;">
-                    <li>We fetch the latest articles from our trusted sources</li>
-                    <li>AI filters and selects the most relevant content based on your preferences</li>
-                    <li>A script is generated that matches your chosen vibe and personality</li>
-                    <li>The script is converted to natural-sounding speech using Openai TTS</li>
-                    <li>Everything is packaged into a podcast episode, ready for your morning</li>
-                </ol>
-            </section>
+<!-- Topics Section -->
+<section class="about-section about-section-alt">
+    <div class="container">
+        <div class="about-section-header">
+            <h2>What I Cover</h2>
+            <p>I focus on topics that spark curiosity and expand horizons.</p>
+        </div>
+        
+        
+        <div class="topics-wrap">
+            <h3 class="topics-label topics-label-yes">Topics I Love</h3>
+            <div class="topic-tags">
+                
+                <span class="topic-tag topic-tag-yes">Research</span>
+                
+                <span class="topic-tag topic-tag-yes">Innovation</span>
+                
+                <span class="topic-tag topic-tag-yes">Science</span>
+                
+                <span class="topic-tag topic-tag-yes">Technology</span>
+                
+                <span class="topic-tag topic-tag-yes">Breakthroughs</span>
+                
+                <span class="topic-tag topic-tag-yes">Systems</span>
+                
+                <span class="topic-tag topic-tag-yes">Infrastructure</span>
+                
+                <span class="topic-tag topic-tag-yes">Exploration</span>
+                
+            </div>
+        </div>
+        
+        
+        
+        <div class="topics-wrap">
+            <h3 class="topics-label topics-label-no">Topics I Skip</h3>
+            <div class="topic-tags">
+                
+                <span class="topic-tag topic-tag-no">Violence</span>
+                
+                <span class="topic-tag topic-tag-no">Disaster</span>
+                
+                <span class="topic-tag topic-tag-no">Political attacks</span>
+                
+                <span class="topic-tag topic-tag-no">Celebrity drama</span>
+                
+            </div>
+        </div>
+        
+    </div>
+</section>
+
+<!-- Sources Section -->
+
+<section class="about-section">
+    <div class="container">
+        <div class="about-section-header">
+            <h2>My Sources</h2>
+            <p>I only use trusted, quality sources for my reporting.</p>
+        </div>
+        
+        <div class="sources-grid">
+            
+            <a href="https://openai.com" class="source-card" target="_blank" rel="noopener">
+                <span class="source-name">OpenAI News</span>
+                <span class="source-arrow">→</span>
+            </a>
+            
+            <a href="https://deepmind.google" class="source-card" target="_blank" rel="noopener">
+                <span class="source-name">DeepMind Blog</span>
+                <span class="source-arrow">→</span>
+            </a>
+            
+            <a href="https://www.microsoft.com" class="source-card" target="_blank" rel="noopener">
+                <span class="source-name">Microsoft Research Blog</span>
+                <span class="source-arrow">→</span>
+            </a>
+            
+            <a href="https://huggingface.co" class="source-card" target="_blank" rel="noopener">
+                <span class="source-name">Hugging Face Blog</span>
+                <span class="source-arrow">→</span>
+            </a>
+            
+            <a href="https://www.technologyreview.com" class="source-card" target="_blank" rel="noopener">
+                <span class="source-name">MIT Technology Review</span>
+                <span class="source-arrow">→</span>
+            </a>
+            
+            <a href="https://feeds.arstechnica.com" class="source-card" target="_blank" rel="noopener">
+                <span class="source-name">Ars Technica</span>
+                <span class="source-arrow">→</span>
+            </a>
+            
+            <a href="https://www.theverge.com" class="source-card" target="_blank" rel="noopener">
+                <span class="source-name">The Verge</span>
+                <span class="source-arrow">→</span>
+            </a>
+            
+            <a href="https://www.wired.com" class="source-card" target="_blank" rel="noopener">
+                <span class="source-name">Wired</span>
+                <span class="source-arrow">→</span>
+            </a>
+            
+            <a href="https://restofworld.org" class="source-card" target="_blank" rel="noopener">
+                <span class="source-name">Rest of World</span>
+                <span class="source-arrow">→</span>
+            </a>
+            
+            <a href="https://hnrss.org" class="source-card" target="_blank" rel="noopener">
+                <span class="source-name">Hacker News (AI filtered)</span>
+                <span class="source-arrow">→</span>
+            </a>
+            
+            <a href="https://science.nasa.gov" class="source-card" target="_blank" rel="noopener">
+                <span class="source-name">NASA Science</span>
+                <span class="source-arrow">→</span>
+            </a>
+            
+            <a href="https://www.jpl.nasa.gov" class="source-card" target="_blank" rel="noopener">
+                <span class="source-name">NASA JPL News</span>
+                <span class="source-arrow">→</span>
+            </a>
+            
+            <a href="https://www.space.com" class="source-card" target="_blank" rel="noopener">
+                <span class="source-name">Space.com</span>
+                <span class="source-arrow">→</span>
+            </a>
+            
+            <a href="https://www.quantamagazine.org" class="source-card" target="_blank" rel="noopener">
+                <span class="source-name">Quanta Magazine</span>
+                <span class="source-arrow">→</span>
+            </a>
+            
+            <a href="https://www.nature.com" class="source-card" target="_blank" rel="noopener">
+                <span class="source-name">Nature News</span>
+                <span class="source-arrow">→</span>
+            </a>
+            
+            <a href="https://positive.news" class="source-card" target="_blank" rel="noopener">
+                <span class="source-name">Positive News</span>
+                <span class="source-arrow">→</span>
+            </a>
+            
+        </div>
+    </div>
+</section>
+
+
+<!-- How I Work Section -->
+<section class="about-section about-section-dark">
+    <div class="container">
+        <div class="about-section-header about-section-header-light">
+            <h2>How I Work</h2>
+            <p>Behind the scenes, I'm powered by some clever AI technology.</p>
+        </div>
+        
+        <div class="process-steps">
+            <div class="process-step">
+                <div class="process-number">1</div>
+                <div class="process-content">
+                    <h3>Fetch</h3>
+                    <p>I gather the latest articles from my trusted sources every morning.</p>
+                </div>
+            </div>
+            <div class="process-step">
+                <div class="process-number">2</div>
+                <div class="process-content">
+                    <h3>Filter</h3>
+                    <p>AI analyzes each story to select the most interesting and relevant content.</p>
+                </div>
+            </div>
+            <div class="process-step">
+                <div class="process-number">3</div>
+                <div class="process-content">
+                    <h3>Write</h3>
+                    <p>I craft a conversational script that brings the stories to life.</p>
+                </div>
+            </div>
+            <div class="process-step">
+                <div class="process-number">4</div>
+                <div class="process-content">
+                    <h3>Speak</h3>
+                    <p>My voice is synthesized using Openai to create natural audio.</p>
+                </div>
+            </div>
+            <div class="process-step">
+                <div class="process-number">5</div>
+                <div class="process-content">
+                    <h3>Publish</h3>
+                    <p>The episode goes live, ready for you to enjoy!</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Color splash -->
+    <div class="splash splash-orange-bottom"></div>
+</section>
+
+<!-- CTA Section -->
+<section class="about-cta">
+    <div class="container">
+        <div class="cta-card">
+            <h2>Ready to Listen?</h2>
+            <p>Start your day with stories that matter. New episodes drop every morning.</p>
+            <div class="cta-actions">
+                <a href="index.html" class="btn btn-primary btn-lg">Play Latest Episode</a>
+                <a href="docs.html" class="btn btn-ghost">Learn about Vibecast →</a>
+            </div>
+        </div>
+    </div>
+</section>
+
         </main>
-
-        <footer>
-            <p>Made by Your Name</p>
-            <nav class="footer-links">
-                <a href="index.html">Home</a>
-                <span>·</span>
-                <a href="docs.html">About Vibecast</a>
-            </nav>
+        
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="container footer-inner">
+                <div class="footer-brand">Vibecast</div>
+                <div class="footer-links">
+                    <a href="index.html" class="footer-link">Home</a>
+                    <a href="about.html" class="footer-link">About</a>
+                    <a href="docs.html" class="footer-link">Docs</a>
+                    
+                    <a href="https://github.com/domcritchlow/vibecast" class="footer-link" target="_blank" rel="noopener">GitHub</a>
+                    
+                </div>
+                <div class="footer-copy">© 2026 Dominic</div>
+            </div>
         </footer>
     </div>
+    
+    <!-- Transcript/Show Notes Modal -->
+    <div class="modal-overlay" id="transcript-modal">
+        <div class="modal">
+            <div class="modal-header">
+                <h3 class="modal-title" id="modal-title">Transcript</h3>
+                <button class="modal-close" onclick="closeModal()">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div id="modal-content"></div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        // Navigation toggle for mobile
+        function toggleNav() {
+            document.getElementById('nav-links').classList.toggle('open');
+        }
+        
+        // Modal functions
+        function openModal(title, content) {
+            const modal = document.getElementById('transcript-modal');
+            document.getElementById('modal-title').textContent = title;
+            document.getElementById('modal-content').innerHTML = content;
+            modal.classList.add('active');
+            document.body.style.overflow = 'hidden';
+        }
+        
+        function closeModal() {
+            document.getElementById('transcript-modal').classList.remove('active');
+            document.body.style.overflow = '';
+        }
+        
+        // Close modal on overlay click or Escape key
+        document.getElementById('transcript-modal').addEventListener('click', (e) => {
+            if (e.target.classList.contains('modal-overlay')) closeModal();
+        });
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') closeModal();
+        });
+        
+        // Utility: escape HTML
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+        
+        // Utility: convert URLs to links
+        function linkify(text) {
+            return text.split(' ').map(word => {
+                if (word.startsWith('http://') || word.startsWith('https://')) {
+                    return `<a href="${word}" target="_blank" rel="noopener">${word}</a>`;
+                }
+                return word;
+            }).join(' ');
+        }
+        
+        // Format text for display
+        function formatTextForDisplay(text) {
+            const escaped = escapeHtml(text);
+            const linked = linkify(escaped);
+            return linked.split('\n').join('<br>');
+        }
+        
+        // Copy to clipboard
+        function copyToClipboard(el) {
+            navigator.clipboard.writeText(el.textContent);
+            const original = el.textContent;
+            el.textContent = 'Copied!';
+            setTimeout(() => el.textContent = original, 1500);
+        }
+    </script>
+    
+    
 </body>
 </html>

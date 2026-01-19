@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <!-- Ink bleed/spread effect -->
+    <filter id="bleed" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="turbulence" baseFrequency="0.015" numOctaves="3" seed="5" result="turbulence"/>
+      <feDisplacementMap in="SourceGraphic" in2="turbulence" scale="8" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+    <filter id="roughEdge">
+      <feTurbulence type="fractalNoise" baseFrequency="0.03" numOctaves="2"/>
+      <feDisplacementMap in="SourceGraphic" scale="3"/>
+    </filter>
+  </defs>
+  <!-- Irregular ink splotches -->
+  <g fill="#0A0A08" opacity="0.15" filter="url(#roughEdge)">
+    <ellipse cx="30" cy="40" rx="25" ry="18"/>
+    <ellipse cx="150" cy="30" rx="20" ry="15"/>
+    <ellipse cx="80" cy="120" rx="30" ry="22"/>
+    <ellipse cx="170" cy="150" rx="18" ry="25"/>
+    <ellipse cx="50" cy="180" rx="22" ry="16"/>
+    <ellipse cx="120" cy="70" rx="15" ry="20"/>
+  </g>
+</svg>

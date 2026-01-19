@@ -2,7 +2,9 @@
 
 Get your personalized podcast running in ~10 minutes.
 
-> **📌 Note:** This repo is both the source code and the maintainer's personal podcast. Before deploying, you'll customize it to be YOUR podcast. The setup process guides you through this!
+> **Note:** This repo is both the source code and a personal podcast. Before deploying, you'll customize it to be YOUR podcast. The setup process guides you through this!
+
+Vibecast features **Riso**, an AI host with personality, and a distinctive risograph-inspired visual style with halftone textures and bold editorial design.
 
 ## Step 1: Fork & Clone (2 min)
 
@@ -81,7 +83,9 @@ After the workflow completes:
 2. Click the **RSS** button to copy your feed URL
 3. Paste it in your podcast app (Apple Podcasts, Overcast, Pocket Casts, etc.)
 
-🎉 **You're done!** Your podcast will update daily at 4:00 AM UTC (configure this in `.github/workflows/daily.yml`).
+You're done! Your podcast will update daily at 4:00 AM UTC (configure this in `.github/workflows/daily.yml`).
+
+Each episode gets unique AI-generated risograph-style artwork automatically.
 
 ---
 

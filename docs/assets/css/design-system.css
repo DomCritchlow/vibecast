@@ -1,0 +1,481 @@
+/* ==========================================================================
+   VIBECAST DESIGN SYSTEM - Riso Hard
+   Heavy ink, bold orange, gritty textures, editorial print aesthetic
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   COLOR TOKENS
+   High contrast risograph/engraving print palette
+   -------------------------------------------------------------------------- */
+
+:root {
+  /* Paper tones - clean, warm, lots of breathing room */
+  --paper-0: #FAFAF5;  /* near white - primary background */
+  --paper-1: #F5F4EE;  /* warm white - cards */
+  --paper-2: #ECEAE0;  /* cream - elevated */
+  --paper-3: #E0DDD0;  /* aged - borders, dividers */
+  
+  /* Ink tones - soft black, refined */
+  --ink-0: #1A1A1A;    /* rich black - headings */
+  --ink-1: #2D2D2D;    /* body text */
+  --ink-2: #5A5A5A;    /* secondary text */
+  --ink-3: #8A8A8A;    /* captions, muted */
+  
+  /* Primary accent - Vermillion Orange */
+  --accent-0: #FF4D00; /* hot orange - CTAs */
+  --accent-1: #FF6620; /* bright - hover */
+  --accent-2: #E04000; /* deep - pressed */
+  
+  /* Secondary accent - Deep Teal */
+  --teal-0: #008080;   /* teal - secondary actions */
+  --teal-1: #00A0A0;   /* bright teal - hover */
+  --teal-2: #006666;   /* deep teal - pressed */
+  
+  /* Tertiary - Electric Purple (sparingly) */
+  --purple-0: #7B2D8E;
+  --purple-1: #9B3DAE;
+  
+  /* Functional */
+  --error: #D01000;
+  --success: #008060;
+  
+  /* Neutrals */
+  --cream: #FFFEFA;
+  --dark: #1A1A1A;
+}
+
+/* --------------------------------------------------------------------------
+   TYPOGRAPHY
+   Fraunces (headings) + Inter (body) - editorial + friendly
+   -------------------------------------------------------------------------- */
+
+:root {
+  /* Font families */
+  --font-heading: 'Fraunces', 'Playfair Display', Georgia, serif;
+  --font-body: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-mono: 'JetBrains Mono', 'SF Mono', 'Fira Code', monospace;
+  
+  /* Font sizes - using a modular scale (1.25 ratio) */
+  --text-xs: 0.75rem;     /* 12px */
+  --text-sm: 0.875rem;    /* 14px */
+  --text-base: 1rem;      /* 16px */
+  --text-lg: 1.125rem;    /* 18px */
+  --text-xl: 1.25rem;     /* 20px */
+  --text-2xl: 1.5rem;     /* 24px */
+  --text-3xl: 1.875rem;   /* 30px */
+  --text-4xl: 2.25rem;    /* 36px */
+  --text-5xl: 3rem;       /* 48px */
+  --text-6xl: 3.75rem;    /* 60px */
+  
+  /* Line heights */
+  --leading-tight: 1.1;
+  --leading-snug: 1.25;
+  --leading-normal: 1.5;
+  --leading-relaxed: 1.7;
+  --leading-loose: 2;
+  
+  /* Letter spacing */
+  --tracking-tight: -0.03em;
+  --tracking-normal: 0;
+  --tracking-wide: 0.05em;
+  --tracking-wider: 0.1em;
+  
+  /* Font weights */
+  --weight-normal: 400;
+  --weight-medium: 500;
+  --weight-semibold: 600;
+  --weight-bold: 700;
+  --weight-black: 900;
+}
+
+/* --------------------------------------------------------------------------
+   SPACING
+   8px base system with generous vertical rhythm
+   -------------------------------------------------------------------------- */
+
+:root {
+  /* Base unit */
+  --space-unit: 8px;
+  
+  /* Spacing scale */
+  --space-1: 4px;         /* 0.5 units */
+  --space-2: 8px;         /* 1 unit */
+  --space-3: 12px;        /* 1.5 units */
+  --space-4: 16px;        /* 2 units */
+  --space-5: 20px;        /* 2.5 units */
+  --space-6: 24px;        /* 3 units */
+  --space-8: 32px;        /* 4 units */
+  --space-10: 40px;       /* 5 units */
+  --space-12: 48px;       /* 6 units */
+  --space-14: 56px;       /* 7 units - section padding start */
+  --space-16: 64px;       /* 8 units */
+  --space-20: 80px;       /* 10 units */
+  --space-24: 96px;       /* 12 units - section padding max */
+  
+  /* Layout */
+  --max-width: 1100px;
+  --max-width-narrow: 720px;
+  --container-padding: var(--space-6);
+}
+
+/* --------------------------------------------------------------------------
+   BORDERS & CORNERS
+   Light, refined - modern riso
+   -------------------------------------------------------------------------- */
+
+:root {
+  /* Border widths - lighter, more refined */
+  --border-thin: 1px;
+  --border-default: 1.5px;
+  --border-thick: 2px;
+  --border-heavy: 3px;
+  
+  /* Border radii - slightly rounded, friendly */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-xl: 16px;
+  --radius-full: 9999px;
+}
+
+/* --------------------------------------------------------------------------
+   SHADOWS
+   Soft, modern - subtle depth
+   -------------------------------------------------------------------------- */
+
+:root {
+  /* Soft shadows */
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.06);
+  --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.08);
+  --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.10);
+  --shadow-xl: 0 16px 48px rgba(0, 0, 0, 0.12);
+  
+  /* Accent glow */
+  --shadow-accent: 0 4px 20px rgba(255, 77, 0, 0.15);
+  --shadow-teal: 0 4px 20px rgba(0, 128, 128, 0.15);
+  
+  /* Hover lift */
+  --shadow-lift: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+/* --------------------------------------------------------------------------
+   TRANSITIONS
+   Subtle, not techy
+   -------------------------------------------------------------------------- */
+
+:root {
+  --transition-fast: 0.15s ease;
+  --transition-base: 0.2s ease;
+  --transition-slow: 0.3s ease;
+}
+
+/* --------------------------------------------------------------------------
+   Z-INDEX SCALE
+   -------------------------------------------------------------------------- */
+
+:root {
+  --z-base: 0;
+  --z-dropdown: 100;
+  --z-sticky: 200;
+  --z-modal-backdrop: 300;
+  --z-modal: 400;
+  --z-tooltip: 500;
+}
+
+/* ==========================================================================
+   BASE STYLES
+   ========================================================================== */
+
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: var(--font-body);
+  font-size: var(--text-base);
+  font-weight: var(--weight-normal);
+  line-height: var(--leading-relaxed);
+  color: var(--ink-1);
+  background-color: var(--paper-0);
+  min-height: 100vh;
+}
+
+/* Paper grain overlay - visible texture */
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url('../textures/paper-grain.svg');
+  background-repeat: repeat;
+  background-size: 300px 300px;
+  opacity: 0.08;
+  pointer-events: none;
+  z-index: 9999;
+  mix-blend-mode: multiply;
+}
+
+/* Halftone overlay for extra grit */
+body::after {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url('../textures/halftone.svg');
+  background-repeat: repeat;
+  background-size: 200px 200px;
+  opacity: 0.03;
+  pointer-events: none;
+  z-index: 9998;
+}
+
+/* --------------------------------------------------------------------------
+   TYPOGRAPHY BASE
+   Clean, modern editorial
+   -------------------------------------------------------------------------- */
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+  font-weight: var(--weight-bold);
+  line-height: var(--leading-snug);
+  letter-spacing: -0.02em;
+  color: var(--ink-0);
+  font-feature-settings: "ss01" off, "ss02" off, "ss03" off, "calt" off;
+}
+
+h1 {
+  font-size: var(--text-5xl);
+  font-weight: var(--weight-bold);
+  line-height: 1.1;
+}
+
+h2 {
+  font-size: var(--text-3xl);
+}
+
+h3 {
+  font-size: var(--text-2xl);
+}
+
+h4 {
+  font-size: var(--text-xl);
+}
+
+h5 {
+  font-size: var(--text-lg);
+}
+
+h6 {
+  font-size: var(--text-base);
+  font-weight: var(--weight-semibold);
+}
+
+p {
+  margin-bottom: var(--space-4);
+}
+
+/* Links - underlined by default (editorial style) */
+a {
+  color: var(--ink-0);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+  transition: color var(--transition-fast), text-decoration-color var(--transition-fast);
+}
+
+a:hover {
+  color: var(--accent-0);
+  text-decoration-color: var(--accent-0);
+}
+
+/* Strong/bold */
+strong, b {
+  font-weight: var(--weight-semibold);
+  color: var(--ink-0);
+}
+
+/* Small text */
+small {
+  font-size: var(--text-sm);
+  color: var(--ink-2);
+}
+
+/* Code */
+code {
+  font-family: var(--font-mono);
+  font-size: 0.9em;
+  background: var(--paper-1);
+  padding: 2px 6px;
+  border-radius: var(--radius-sm);
+  border: var(--border-thin) solid var(--paper-2);
+}
+
+pre {
+  font-family: var(--font-mono);
+  font-size: var(--text-sm);
+  background: var(--paper-1);
+  border: var(--border-default) solid var(--ink-0);
+  border-radius: var(--radius-md);
+  padding: var(--space-4);
+  overflow-x: auto;
+  margin-bottom: var(--space-4);
+}
+
+pre code {
+  background: none;
+  border: none;
+  padding: 0;
+}
+
+/* Lists */
+ul, ol {
+  padding-left: var(--space-6);
+  margin-bottom: var(--space-4);
+}
+
+li {
+  margin-bottom: var(--space-2);
+}
+
+/* Blockquote */
+blockquote {
+  border-left: var(--border-thick) solid var(--accent-0);
+  padding-left: var(--space-4);
+  margin: var(--space-6) 0;
+  font-style: italic;
+  color: var(--ink-2);
+}
+
+/* Horizontal rule */
+hr {
+  border: none;
+  border-top: var(--border-default) solid var(--ink-0);
+  margin: var(--space-8) 0;
+}
+
+/* --------------------------------------------------------------------------
+   UTILITY CLASSES
+   -------------------------------------------------------------------------- */
+
+/* Text colors */
+.text-ink-0 { color: var(--ink-0); }
+.text-ink-1 { color: var(--ink-1); }
+.text-ink-2 { color: var(--ink-2); }
+.text-accent { color: var(--accent-0); }
+.text-paper { color: var(--paper-0); }
+
+/* Background colors */
+.bg-paper-0 { background-color: var(--paper-0); }
+.bg-paper-1 { background-color: var(--paper-1); }
+.bg-paper-2 { background-color: var(--paper-2); }
+.bg-ink { background-color: var(--ink-0); }
+.bg-accent { background-color: var(--accent-0); }
+
+/* Font sizes */
+.text-xs { font-size: var(--text-xs); }
+.text-sm { font-size: var(--text-sm); }
+.text-base { font-size: var(--text-base); }
+.text-lg { font-size: var(--text-lg); }
+.text-xl { font-size: var(--text-xl); }
+.text-2xl { font-size: var(--text-2xl); }
+.text-3xl { font-size: var(--text-3xl); }
+
+/* Font weights */
+.font-normal { font-weight: var(--weight-normal); }
+.font-medium { font-weight: var(--weight-medium); }
+.font-semibold { font-weight: var(--weight-semibold); }
+.font-bold { font-weight: var(--weight-bold); }
+
+/* Text alignment */
+.text-left { text-align: left; }
+.text-center { text-align: center; }
+.text-right { text-align: right; }
+
+/* Display */
+.block { display: block; }
+.inline-block { display: inline-block; }
+.flex { display: flex; }
+.inline-flex { display: inline-flex; }
+.grid { display: grid; }
+.hidden { display: none; }
+
+/* Flexbox */
+.flex-col { flex-direction: column; }
+.flex-wrap { flex-wrap: wrap; }
+.items-center { align-items: center; }
+.items-start { align-items: flex-start; }
+.items-end { align-items: flex-end; }
+.justify-center { justify-content: center; }
+.justify-between { justify-content: space-between; }
+.justify-start { justify-content: flex-start; }
+.justify-end { justify-content: flex-end; }
+.gap-2 { gap: var(--space-2); }
+.gap-3 { gap: var(--space-3); }
+.gap-4 { gap: var(--space-4); }
+.gap-6 { gap: var(--space-6); }
+.gap-8 { gap: var(--space-8); }
+
+/* Spacing */
+.m-0 { margin: 0; }
+.mb-2 { margin-bottom: var(--space-2); }
+.mb-3 { margin-bottom: var(--space-3); }
+.mb-4 { margin-bottom: var(--space-4); }
+.mb-6 { margin-bottom: var(--space-6); }
+.mb-8 { margin-bottom: var(--space-8); }
+.mb-12 { margin-bottom: var(--space-12); }
+.mt-4 { margin-top: var(--space-4); }
+.mt-6 { margin-top: var(--space-6); }
+.mt-8 { margin-top: var(--space-8); }
+
+.p-4 { padding: var(--space-4); }
+.p-6 { padding: var(--space-6); }
+.p-8 { padding: var(--space-8); }
+.px-4 { padding-left: var(--space-4); padding-right: var(--space-4); }
+.px-6 { padding-left: var(--space-6); padding-right: var(--space-6); }
+.py-4 { padding-top: var(--space-4); padding-bottom: var(--space-4); }
+.py-6 { padding-top: var(--space-6); padding-bottom: var(--space-6); }
+
+/* Width */
+.w-full { width: 100%; }
+.max-w-narrow { max-width: var(--max-width-narrow); }
+.max-w-default { max-width: var(--max-width); }
+
+/* Screen reader only */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* --------------------------------------------------------------------------
+   CONTAINER
+   -------------------------------------------------------------------------- */
+
+.container {
+  width: 100%;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 var(--container-padding);
+}
+
+.container-narrow {
+  max-width: var(--max-width-narrow);
+}

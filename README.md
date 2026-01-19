@@ -5,13 +5,13 @@
 
 **Your personalized AI podcast, generated daily and tailored to your vibe.**
 
-Vibecast is an open-source podcast generator that creates daily audio briefings from your favorite news sources. Configure the mood, voice, topics, and sources—then let GitHub Actions automatically generate and publish episodes every day.
+Vibecast is an open-source podcast generator that creates daily audio briefings from your favorite news sources. Hosted by **Riso**, an AI companion with personality, it delivers uplifting content in a distinctive risograph-inspired visual style. Configure the mood, voice, topics, and sources—then let GitHub Actions automatically generate and publish episodes every day.
 
-**[📚 Quickstart Guide](QUICKSTART.md)** · **[🤝 Contributing](CONTRIBUTING.md)** 
+**[Quickstart Guide](QUICKSTART.md)** | **[Contributing](CONTRIBUTING.md)** 
 
 ---
 
-> **⚠️ Note for Cloners:** This repository is both the source code AND my personal podcast. Before deploying, update `podcast/config.yaml` with your own name, email, and preferences. See [Quickstart Guide](QUICKSTART.md) for setup.
+> **Note for Cloners:** This repository is both the source code AND a personal podcast. Before deploying, update `podcast/config.yaml` with your own name, email, and preferences. See [Quickstart Guide](QUICKSTART.md) for setup.
 
 ---
 
@@ -43,6 +43,9 @@ Every day at your scheduled time:
 
 ## Features
 
+- **Riso, your AI host** — A warm, curious companion with real personality
+- **Risograph aesthetic** — Bold cut-paper visuals, halftone textures, editorial poster style
+- **AI-generated artwork** — Each episode gets unique risograph-style cover art via DALL-E
 - **Vibe-configurable** — Change the entire personality via `config.yaml`
 - **Dual TTS providers** — OpenAI (default) or ElevenLabs, switchable via config
 - **Professional audio processing** — FFmpeg-based enhancement removes "tin-can" sound
@@ -51,8 +54,8 @@ Every day at your scheduled time:
 - **Source diversity** — Ensures variety across RSS feeds
 - **Deduplication** — Won't repeat stories within 7 days
 - **Transcripts** — Full script + references saved for each episode
-- **NASA episode artwork** — Each episode gets a NASA image (APOD or Image Library)
-- **Config-driven site** — Landing page regenerates from config
+- **Jinja2 templates** — Clean separation of content and presentation
+- **CSS design system** — Tokens, components, and page styles for easy theming
 - **Zero server costs** — Runs on GitHub Actions free tier
 
 ## Quick Start
@@ -208,6 +211,41 @@ sources:
       trust_score: 0.9
 ```
 
+### Episode Artwork
+
+Vibecast generates unique risograph-style artwork for each episode using DALL-E:
+
+```yaml
+artwork:
+  provider: "openai"
+  openai:
+    model: "dall-e-3"
+    size: "1024x1024"
+    quality: "standard"
+  accent_palette:
+    - "#FF4500"  # Vermillion orange
+    - "#1E90FF"  # Dodger blue
+    - "#228B22"  # Forest green
+```
+
+The artwork uses a locked risograph prompt template that creates bold, editorial poster-style images with halftone textures, paper grain, and limited color palettes.
+
+### Design System
+
+The site uses a CSS design system with three layers:
+
+| File | Purpose |
+|------|---------|
+| `design-system.css` | Tokens (colors, spacing, fonts) |
+| `components.css` | Reusable UI (buttons, cards, players) |
+| `pages.css` | Page layouts and hero sections |
+
+Textures (`docs/assets/textures/`) add the risograph aesthetic:
+- `halftone.svg` — Ben-Day dot patterns
+- `paper-grain.svg` — Paper texture noise
+- `crosshatch.svg` — Crosshatch overlay
+- `ink-bleed.svg` — Ink spread effects
+
 ## Project Structure
 
 ```
@@ -218,27 +256,46 @@ vibecast/
 │   ├── sources/              # Content fetchers
 │   │   ├── weather.py        # Open-Meteo API
 │   │   ├── rss.py            # RSS feed parser
-│   │   ├── api.py            # Generic API (extensible)
-│   │   └── images/           # Episode artwork providers
-│   │       ├── base.py       # Provider interface
-│   │       └── nasa.py       # NASA APOD + Image Library
+│   │   └── api.py            # Generic API (extensible)
+│   ├── artwork/              # Episode artwork generation
+│   │   ├── base.py           # ArtBrief/ArtworkResult types
+│   │   ├── brief.py          # AI brief generation
+│   │   ├── prompt.py         # Risograph prompt templates
+│   │   ├── generate.py       # DALL-E generation + upload
+│   │   └── providers/        # Image provider plugins
+│   ├── templates/            # Jinja2 HTML templates
+│   │   ├── base.html         # Shared layout (nav, footer)
+│   │   ├── index.html        # Homepage with episodes
+│   │   ├── about.html        # Meet Riso page
+│   │   └── docs.html         # Documentation page
 │   ├── writer.py             # AI script generation
 │   ├── tts/                  # TTS providers (pluggable)
 │   │   ├── __init__.py       # Factory & preprocessing
 │   │   ├── base.py           # Provider interface
-│   │   ├── openai_tts.py    # OpenAI TTS (default)
-│   │   └── elevenlabs.py    # ElevenLabs TTS (optional)
+│   │   ├── openai_tts.py     # OpenAI TTS (default)
+│   │   └── elevenlabs.py     # ElevenLabs TTS (optional)
 │   ├── audio_processing.py   # FFmpeg audio enhancement
-│   ├── storage.py         # R2 upload
-│   ├── rss_feed.py        # Podcast RSS generation
-│   └── site_generator.py  # Landing page generator
+│   ├── storage.py            # R2 upload
+│   ├── rss_feed.py           # Podcast RSS generation
+│   └── site_generator.py     # Template rendering
 ├── docs/
-│   ├── index.html         # Landing page (auto-generated)
-│   ├── feed.xml           # Podcast RSS feed
-│   ├── scripts/           # Episode transcripts
-│   └── artwork.png        # Podcast artwork
+│   ├── index.html            # Homepage (generated)
+│   ├── about.html            # About page (generated)
+│   ├── docs.html             # Docs page (generated)
+│   ├── feed.xml              # Podcast RSS feed
+│   ├── artwork.png           # Podcast cover art
+│   ├── assets/
+│   │   ├── css/              # Design system
+│   │   │   ├── design-system.css  # Tokens & variables
+│   │   │   ├── components.css     # Reusable UI components
+│   │   │   └── pages.css          # Page-specific styles
+│   │   ├── textures/         # SVG textures (halftone, grain)
+│   │   └── images/           # Host image, cover art
+│   └── scripts/              # Episode transcripts
+├── scripts/
+│   └── generate_podcast_cover.py  # Generate new cover art
 └── .github/workflows/
-    └── daily.yml          # GitHub Actions cron job
+    └── daily.yml             # GitHub Actions cron job
 ```
 
 ## Local Development
@@ -313,6 +370,10 @@ See [QUICKSTART.md](QUICKSTART.md#troubleshooting) for more help.
 
 ## Roadmap
 
+- [x] AI host persona (Riso)
+- [x] Risograph visual design system
+- [x] AI-generated episode artwork (DALL-E)
+- [x] Jinja2 template architecture
 - [ ] Web UI for config editing
 - [ ] More TTS provider options (Azure, Google Cloud)
 - [ ] Multi-language support
@@ -333,6 +394,9 @@ Vibecast is built with:
 - **[GitHub Actions](https://github.com/features/actions)** — Free automation
 - **[GitHub Pages](https://pages.github.com/)** — Free hosting
 - **[FFmpeg](https://ffmpeg.org/)** — Audio processing
+- **[Jinja2](https://jinja.palletsprojects.com/)** — Template engine
+
+Design inspired by risograph printing, editorial posters, and the charm of imperfect prints.
 
 Special thanks to all the RSS sources providing positive news feeds!
 

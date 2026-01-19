@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}{{ short_title }}{% endblock %}</title>
+    <meta name="description" content="{{ tagline }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ title }} RSS Feed" href="feed.xml">
+    
+    <!-- Google Fonts: Fraunces (headings) + Inter (body) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700;9..144,900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Design System + Components + Pages -->
+    <link rel="stylesheet" href="assets/css/design-system.css">
+    <link rel="stylesheet" href="assets/css/components.css">
+    <link rel="stylesheet" href="assets/css/pages.css">
+    
+    {% block head %}{% endblock %}
+</head>
+<body>
+    <div class="page">
+        <!-- Navigation -->
+        <nav class="nav">
+            <div class="nav-inner">
+                <div class="nav-brand">
+                    <a href="index.html" class="nav-logo">{{ short_title }}</a>
+                    <span class="nav-host">with <strong>Riso</strong></span>
+                </div>
+                <button class="nav-toggle" aria-label="Toggle navigation" onclick="toggleNav()">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <line x1="3" y1="6" x2="21" y2="6"></line>
+                        <line x1="3" y1="12" x2="21" y2="12"></line>
+                        <line x1="3" y1="18" x2="21" y2="18"></line>
+                    </svg>
+                </button>
+                <ul class="nav-links" id="nav-links">
+                    <li><a href="index.html" class="nav-link {% block nav_home %}{% endblock %}">Home</a></li>
+                    <li><a href="about.html" class="nav-link {% block nav_about %}{% endblock %}">About</a></li>
+                    <li><a href="docs.html" class="nav-link {% block nav_docs %}{% endblock %}">Docs</a></li>
+                    <li><a href="index.html#subscribe" class="nav-link nav-subscribe">Subscribe</a></li>
+                </ul>
+            </div>
+        </nav>
+        
+        <!-- Main Content -->
+        <main class="page-main">
+            {% block content %}{% endblock %}
+        </main>
+        
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="container footer-inner">
+                <div class="footer-brand">{{ short_title }}</div>
+                <div class="footer-links">
+                    <a href="index.html" class="footer-link">Home</a>
+                    <a href="about.html" class="footer-link">About</a>
+                    <a href="docs.html" class="footer-link">Docs</a>
+                    {% if github_url %}
+                    <a href="{{ github_url }}" class="footer-link" target="_blank" rel="noopener">GitHub</a>
+                    {% endif %}
+                </div>
+                <div class="footer-copy">© {{ current_year }} {% if author %}{{ author }}{% else %}Vibecast{% endif %}</div>
+            </div>
+        </footer>
+    </div>
+    
+    <!-- Transcript/Show Notes Modal -->
+    <div class="modal-overlay" id="transcript-modal">
+        <div class="modal">
+            <div class="modal-header">
+                <h3 class="modal-title" id="modal-title">Transcript</h3>
+                <button class="modal-close" onclick="closeModal()">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div id="modal-content"></div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        // Navigation toggle for mobile
+        function toggleNav() {
+            document.getElementById('nav-links').classList.toggle('open');
+        }
+        
+        // Modal functions
+        function openModal(title, content) {
+            const modal = document.getElementById('transcript-modal');
+            document.getElementById('modal-title').textContent = title;
+            document.getElementById('modal-content').innerHTML = content;
+            modal.classList.add('active');
+            document.body.style.overflow = 'hidden';
+        }
+        
+        function closeModal() {
+            document.getElementById('transcript-modal').classList.remove('active');
+            document.body.style.overflow = '';
+        }
+        
+        // Close modal on overlay click or Escape key
+        document.getElementById('transcript-modal').addEventListener('click', (e) => {
+            if (e.target.classList.contains('modal-overlay')) closeModal();
+        });
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') closeModal();
+        });
+        
+        // Utility: escape HTML
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+        
+        // Utility: convert URLs to links
+        function linkify(text) {
+            return text.split(' ').map(word => {
+                if (word.startsWith('http://') || word.startsWith('https://')) {
+                    return `<a href="${word}" target="_blank" rel="noopener">${word}</a>`;
+                }
+                return word;
+            }).join(' ');
+        }
+        
+        // Format text for display
+        function formatTextForDisplay(text) {
+            const escaped = escapeHtml(text);
+            const linked = linkify(escaped);
+            return linked.split('\n').join('<br>');
+        }
+        
+        // Copy to clipboard
+        function copyToClipboard(el) {
+            navigator.clipboard.writeText(el.textContent);
+            const original = el.textContent;
+            el.textContent = 'Copied!';
+            setTimeout(() => el.textContent = original, 1500);
+        }
+    </script>
+    
+    {% block scripts %}{% endblock %}
+</body>
+</html>

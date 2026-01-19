@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <!-- Irregular crosshatch like engraving - varied line weights -->
+  <defs>
+    <pattern id="crosshatch" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse">
+      <!-- Primary diagonal lines -->
+      <line x1="0" y1="0" x2="12" y2="12" stroke="#0A0A08" stroke-width="0.8"/>
+      <line x1="12" y1="0" x2="0" y2="12" stroke="#0A0A08" stroke-width="0.6"/>
+      <!-- Secondary lines - slightly offset for imperfection -->
+      <line x1="6" y1="0" x2="12" y2="6" stroke="#0A0A08" stroke-width="0.4"/>
+      <line x1="0" y1="6" x2="6" y2="12" stroke="#0A0A08" stroke-width="0.5"/>
+      <line x1="6" y1="12" x2="12" y2="6" stroke="#0A0A08" stroke-width="0.3"/>
+    </pattern>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#crosshatch)"/>
+</svg>

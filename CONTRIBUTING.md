@@ -74,9 +74,19 @@ vibecast/
 │   ├── writer.py         # AI script generation
 │   ├── sources/          # Content fetchers (RSS, weather, etc.)
 │   ├── tts/              # TTS providers (OpenAI, ElevenLabs)
+│   ├── artwork/          # Episode artwork (DALL-E generation)
+│   ├── templates/        # Jinja2 HTML templates
+│   │   ├── base.html     # Shared layout
+│   │   ├── index.html    # Homepage
+│   │   ├── about.html    # About Riso
+│   │   └── docs.html     # Documentation
 │   ├── rss_feed.py       # RSS feed generation
-│   └── site_generator.py # Website generation
-├── docs/                 # Generated site (auto-created)
+│   └── site_generator.py # Template rendering
+├── docs/                 # Generated site
+│   └── assets/
+│       ├── css/          # Design system (tokens, components, pages)
+│       ├── textures/     # SVG textures (halftone, grain, etc.)
+│       └── images/       # Host image, artwork
 └── .github/workflows/    # GitHub Actions automation
 ```
 
@@ -113,6 +123,45 @@ vibecast/
 1. Add preset to `audio_processing.py`
 2. Document in `AUDIO_PROCESSING_GUIDE.md`
 3. Update `config.yaml` with new preset option
+
+### Modifying Templates & Styles
+
+**Templates** live in `podcast/templates/`:
+- `base.html` — Shared layout (nav, footer, scripts)
+- `index.html` — Homepage with episode player
+- `about.html` — Meet Riso page
+- `docs.html` — Documentation
+
+**CSS Design System** in `docs/assets/css/`:
+- `design-system.css` — Tokens (`:root` variables for colors, spacing, fonts)
+- `components.css` — Reusable UI (buttons, cards, audio players)
+- `pages.css` — Page-specific layouts and hero sections
+
+**Textures** in `docs/assets/textures/`:
+- SVG files with `feTurbulence` for organic noise
+- Applied via CSS `background-image` and `mix-blend-mode`
+
+To regenerate the site after template changes:
+```bash
+python -c "
+import yaml
+from pathlib import Path
+from podcast.site_generator import save_site_pages
+
+with open('podcast/config.yaml') as f:
+    config = yaml.safe_load(f)
+save_site_pages(config, Path('docs'))
+"
+```
+
+### Generating New Podcast Artwork
+
+Use the artwork generation script:
+```bash
+python scripts/generate_podcast_cover.py
+```
+
+This creates a risograph-style cover and saves it to `docs/assets/images/podcast-cover.png`.
 
 ## 🐛 Reporting Bugs
 
