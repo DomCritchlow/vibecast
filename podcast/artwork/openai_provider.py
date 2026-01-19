@@ -85,34 +85,33 @@ class OpenAIArtworkProvider(ArtworkProvider):
         Args:
             prompt: The image generation prompt.
             size: Image size (1024 for square).
-            format: Output format (png).
+            format: Output format (png, jpeg, webp).
             seed: Ignored - GPT-Image doesn't support seeds.
             negative_prompt: Ignored - include in main prompt instead.
         
         Returns:
-            Raw PNG image bytes.
+            Raw image bytes.
         """
         # Build size string for API (square format)
         size_str = f"{size}x{size}"
         
+        # Map format to output_format parameter
+        output_format = format if format in ["png", "jpeg", "webp"] else "png"
+        
         # Generate with GPT-Image-1.5
+        # Note: GPT-Image uses output_format (not response_format)
+        # and always returns b64_json in the response
         response = self.client.images.generate(
             model="gpt-image-1.5",
             prompt=prompt,
             size=size_str,
             quality=self.quality,
             n=1,
-            response_format="b64_json",  # Get base64 encoded image
+            output_format=output_format,
         )
         
         # Extract image data
         image_data = response.data[0]
-        
-        # Log if the model revised the prompt
-        if hasattr(image_data, 'revised_prompt') and image_data.revised_prompt:
-            revised = image_data.revised_prompt
-            if revised != prompt:
-                print(f"  Note: GPT-Image revised the prompt")
         
         # Decode base64 to bytes
         image_bytes = base64.b64decode(image_data.b64_json)
