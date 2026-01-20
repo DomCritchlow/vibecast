@@ -397,7 +397,7 @@ def get_video_transcript(video_id: str):
 
 ---
 
-### 6. Substack Publications ✍️
+### 6. Substack Publications ✍️ — ✅ IMPLEMENTED
 
 **Examples:**
 - Platformer (Casey Newton) — Tech policy
@@ -426,6 +426,12 @@ feeds = [
 **Cost:** Free (public posts); paid posts require subscription  
 **Recommended Approach:** Use existing RSS implementation  
 **Estimated Effort:** 5 minutes per source
+
+**STATUS: IMPLEMENTED** ✅
+- Added "Reading List" feature for long-form content
+- Substacks get 1-2 sentence compelling descriptions in the podcast
+- Links appear in show notes and transcripts
+- See `READING_LIST_GUIDE.md` for full documentation
 
 ---
 

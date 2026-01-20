@@ -88,6 +88,9 @@ episode:
     - segment: "stories"
       duration: "~2.5 minutes"
       count: "4-6"
+    - segment: "reading_list"
+      duration: "~30-45 seconds"
+      description: "Compelling descriptions of long-form articles worth reading"
     - segment: "closing"
       duration: "~30 seconds"
   
@@ -115,6 +118,9 @@ location:
 # CONTENT SOURCES
 # =============================================================================
 sources:
+  # ===========================================================================
+  # BRIEFING SOURCES - Summarized and spoken in the daily podcast
+  # ===========================================================================
   rss:
     # ==========================================================================
     # AI & TECH COMPANIES (Diverse perspectives)
@@ -296,6 +302,66 @@ sources:
       trust_score: 0.75
       tags: ["nyc", "local"]
 
+  # ===========================================================================
+  # READING LIST - Long-form articles mentioned but not summarized
+  # These get a compelling 30-45 second segment describing what they're about
+  # ===========================================================================
+  reading_list:
+    max_items: 3  # Maximum articles to recommend per episode
+    
+    sources:
+      # Tech & Systems
+      - name: "ByteByteGo Newsletter"
+        url: "https://blog.bytebytego.com/feed"
+        author: "Alex Xu"
+        enabled: true
+        description: "Deep dives into system design and complex tech concepts explained simply"
+        tags: ["tech", "systems", "engineering"]
+      
+      - name: "Import AI"
+        url: "https://importai.substack.com/feed"
+        author: "Jack Clark"
+        enabled: true
+        description: "Weekly AI newsletter with detailed analysis of cutting-edge research"
+        tags: ["ai", "research", "analysis"]
+      
+      # Life & Personal Development
+      - name: "How to Be a Grown Up"
+        url: "https://raffigrinberg.substack.com/feed"
+        author: "Raffi Grinberg"
+        enabled: true
+        description: "Life skills you should have learned in college - career, finance, relationships"
+        tags: ["life", "career", "skills"]
+      
+      - name: "Life, A Series of Experiments"
+        url: "https://nathanieldrew.substack.com/feed"
+        author: "Nathaniel Drew"
+        enabled: true
+        description: "Exploring human behavior and personal growth through experiments"
+        tags: ["life", "personal-growth", "psychology"]
+      
+      # Culture & Society
+      - name: "Articles of Interest"
+        url: "https://articlesofinterest.substack.com/feed"
+        author: "Avery Trufelman"
+        enabled: true
+        description: "Stories about what we wear and the fashion industry"
+        tags: ["fashion", "culture", "design"]
+      
+      - name: "Many Such Cases"
+        url: "https://www.sexual-culture.com/feed"
+        author: "Magdalene J. Taylor"
+        enabled: true
+        description: "Critical analysis of sexuality and culture"
+        tags: ["culture", "sexuality", "society"]
+      
+      # Business & Insights
+      - name: "Summation"
+        url: "https://auren.substack.com/feed"
+        author: "Auren Hoffman"
+        enabled: true
+        description: "Monthly insights and interesting links to make you smarter"
+        tags: ["business", "insights", "links"]
 
   api: []
   

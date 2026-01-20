@@ -92,7 +92,8 @@ STRUCTURE:
 1. Warm greeting with today's date (~15 seconds)
 2. Weather segment with positive framing (~30 seconds) 
 3. News stories - this is the main section (~2.5-3 minutes)
-4. Encouraging closing (~30 seconds)
+4. Reading recommendations - compelling descriptions of articles worth reading (~30-45 seconds)
+5. Encouraging closing (~30 seconds)
 
 IMPORTANT:
 - Write exactly as it should be spoken aloud
@@ -117,6 +118,7 @@ def build_user_prompt(
     weather_text: str,
     items: list[ContentItem],
     config: dict,
+    reading_items: list = None,
 ) -> str:
     """Build the user prompt with weather and news content.
     
@@ -124,6 +126,7 @@ def build_user_prompt(
         weather_text: Formatted weather description.
         items: List of selected content items.
         config: Full configuration dictionary.
+        reading_items: Optional list of reading list items.
     
     Returns:
         User prompt string.
@@ -152,6 +155,20 @@ Source: {item.source}
 Summary: {item.summary}
 """
     
+    # Format reading list items
+    reading_text = ""
+    if reading_items:
+        reading_text = "\n\nREADING LIST (mention these briefly - they're for listeners to read, not for you to summarize in detail):\n"
+        for i, item in enumerate(reading_items, 1):
+            author_info = f" by {item.author}" if hasattr(item, 'author') and item.author else ""
+            description = f" ({item.description})" if hasattr(item, 'description') and item.description else ""
+            reading_text += f"""
+Reading {i}: {item.title}{author_info}
+Source: {item.source}{description}
+Summary: {item.summary[:300]}...
+Link: {item.url}
+"""
+    
     user_prompt = f"""Please write today's podcast script.
 
 DATE: {date_formatted}
@@ -160,7 +177,7 @@ WEATHER:
 {weather_text}
 
 TODAY'S POSITIVE STORIES:
-{stories_text}
+{stories_text}{reading_text}
 
 STYLE HINTS:
 - Consider opening with something like: "{greeting_hint}"
@@ -170,10 +187,18 @@ STYLE HINTS:
 WORD TARGETS:
 - Greeting + weather: ~80 words
 - Each story: ~80-100 words (4-6 sentences each - don't rush!)
+- Reading list segment: ~60-80 words total (describe what each article is about in a compelling way)
 - Closing: ~50 words
-- Total: ~600-700 words for a 4-minute episode
+- Total: ~650-750 words for a 5-minute episode
 
-Elaborate on each story - add context, share why it matters, react to it. Make the listener feel something.
+FOR THE READING LIST SEGMENT:
+- Transition naturally: "A couple things for your reading list..." or "Before we wrap up, some longer reads worth your time..."
+- For each article, explain what it's ABOUT in 3-4 compelling sentences (not just the title)
+- Make listeners want to read it - what's the interesting angle? What will they learn?
+- Mention it's in the show notes/links below
+- Keep it brief but intriguing
+
+Elaborate on each NEWS story - add context, react to it. Make the listener feel something.
 
 Write the complete script now, ready to be read aloud."""
 
@@ -184,6 +209,7 @@ def generate_script(
     weather_text: str,
     items: list[ContentItem],
     config: dict,
+    reading_items: list = None,
 ) -> dict:
     """Generate the podcast script using OpenAI.
     
@@ -191,6 +217,7 @@ def generate_script(
         weather_text: Formatted weather description.
         items: List of selected content items.
         config: Full configuration dictionary.
+        reading_items: Optional list of reading list items.
     
     Returns:
         Dict with 'script', 'system_prompt', 'user_prompt', and 'model'.
@@ -201,7 +228,7 @@ def generate_script(
     
     # Build prompts
     system_prompt = build_system_prompt(config)
-    user_prompt = build_user_prompt(weather_text, items, config)
+    user_prompt = build_user_prompt(weather_text, items, config, reading_items)
     
     # Create OpenAI client (uses OPENAI_API_KEY env var)
     client = OpenAI()
@@ -303,6 +330,7 @@ def generate_script_dry_run(
     weather_text: str,
     items: list[ContentItem],
     config: dict,
+    reading_items: list = None,
 ) -> dict:
     """Generate a placeholder script for dry-run mode (no API call).
     
@@ -310,6 +338,7 @@ def generate_script_dry_run(
         weather_text: Formatted weather description.
         items: List of selected content items.
         config: Full configuration dictionary.
+        reading_items: Optional list of reading list items.
     
     Returns:
         Dict with 'script', 'system_prompt', 'user_prompt', and 'model'.
@@ -327,7 +356,7 @@ def generate_script_dry_run(
     
     # Build the prompts (even for dry run, so we can inspect them)
     system_prompt = build_system_prompt(config)
-    user_prompt = build_user_prompt(weather_text, items, config)
+    user_prompt = build_user_prompt(weather_text, items, config, reading_items)
     
     # Build a simple placeholder script
     script_lines = [
@@ -343,6 +372,13 @@ def generate_script_dry_run(
     
     for i, item in enumerate(items, 1):
         script_lines.append(f"  {i}. {item.title} ({item.source})")
+    
+    if reading_items:
+        script_lines.append("")
+        script_lines.append("Reading List:")
+        for i, item in enumerate(reading_items, 1):
+            author = f" by {item.author}" if hasattr(item, 'author') and item.author else ""
+            script_lines.append(f"  {i}. {item.title}{author} ({item.source})")
     
     script_lines.extend([
         "",

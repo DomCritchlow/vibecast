@@ -297,6 +297,7 @@ def create_episode_metadata(
     items: Optional[list] = None,
     episode_image_url: Optional[str] = None,
     custom_title: Optional[str] = None,
+    reading_items: Optional[list] = None,
 ) -> dict:
     """Create episode metadata dictionary.
     
@@ -309,6 +310,7 @@ def create_episode_metadata(
         items: List of ContentItem objects used in the episode (optional).
         episode_image_url: URL to episode-specific artwork (e.g., NASA APOD).
         custom_title: Custom episode title (overrides default formatting).
+        reading_items: List of reading list items (optional).
     
     Returns:
         Episode metadata dictionary.
@@ -331,7 +333,7 @@ def create_episode_metadata(
         )
     
     # Create rich description with summary and references
-    description = _build_show_notes(date, config, items, duration_seconds)
+    description = _build_show_notes(date, config, items, duration_seconds, reading_items)
     
     # Create GUID from date
     guid = date.strftime("%Y-%m-%d")
@@ -358,6 +360,7 @@ def _build_show_notes(
     config: dict,
     items: Optional[list],
     duration_seconds: Optional[float],
+    reading_items: Optional[list] = None,
 ) -> str:
     """Build rich show notes with summary and references.
     
@@ -366,6 +369,7 @@ def _build_show_notes(
         config: Full configuration dictionary.
         items: List of ContentItem objects.
         duration_seconds: Duration in seconds.
+        reading_items: List of reading list items (optional).
     
     Returns:
         Formatted show notes string.
@@ -402,6 +406,18 @@ def _build_show_notes(
         
         for i, item in enumerate(items, 1):
             lines.append(f"{i}. {item.title}")
+            lines.append(f"   {item.url}")
+            lines.append("")
+    
+    # Add reading list section if items provided
+    if reading_items and len(reading_items) > 0:
+        lines.append("READING LIST:")
+        lines.append("Articles recommended for further reading")
+        lines.append("")
+        
+        for i, item in enumerate(reading_items, 1):
+            author_info = f" by {item.author}" if hasattr(item, 'author') and item.author else ""
+            lines.append(f"{i}. {item.title}{author_info}")
             lines.append(f"   {item.url}")
             lines.append("")
     

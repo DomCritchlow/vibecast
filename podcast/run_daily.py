@@ -13,6 +13,7 @@ import yaml
 from .sources.base import filter_items, select_items, ContentItem
 from .sources.weather import fetch_weather, format_weather_for_script
 from .sources.rss import fetch_all_rss_sources
+from .sources.reading_list import fetch_reading_list
 from .writer import generate_script, generate_script_dry_run, generate_episode_title
 from .tts import synthesize_speech, estimate_duration
 from .storage import upload_mp3_to_r2, upload_transcript_to_r2, check_r2_connection
@@ -107,6 +108,7 @@ def save_transcript(
     items: list[ContentItem],
     config: dict,
     estimated_duration: float,
+    reading_items: list = None,
 ) -> Path:
     """Save the episode transcript with prompts, script, and references.
     
@@ -116,6 +118,7 @@ def save_transcript(
         items: Content items used in the episode.
         config: Full configuration dictionary.
         estimated_duration: Estimated duration in minutes.
+        reading_items: Optional list of reading list items.
     
     Returns:
         Path to the saved transcript file.
@@ -182,6 +185,25 @@ def save_transcript(
             f"   Link: {item.url}",
             "",
         ])
+    
+    # Add reading list references
+    if reading_items:
+        lines.extend([
+            "",
+            "READING LIST",
+            "-" * 30,
+            "Articles recommended for further reading:",
+            "",
+        ])
+        
+        for i, item in enumerate(reading_items, 1):
+            author_info = f" by {item.author}" if hasattr(item, 'author') and item.author else ""
+            lines.extend([
+                f"{i}. {item.title}{author_info}",
+                f"   Source: {item.source}",
+                f"   Link: {item.url}",
+                "",
+            ])
     
     lines.extend([
         "",
@@ -293,6 +315,14 @@ def run_pipeline(dry_run: bool = False, verbose: bool = False) -> bool:
         all_items = fetch_all_rss_sources(rss_sources)
         print(f"  Fetched {len(all_items)} total items")
         
+        # Also fetch reading list items
+        print("  Fetching reading list...")
+        reading_items = fetch_reading_list(config)
+        if reading_items:
+            print(f"  Fetched {len(reading_items)} reading list items")
+        else:
+            reading_items = []  # Ensure it's an empty list, not None
+        
         # 5. Filter and select content
         print("\n[5/8] Filtering and selecting content...")
         filters = config.get("filters", {})
@@ -322,10 +352,10 @@ def run_pipeline(dry_run: bool = False, verbose: bool = False) -> bool:
         # 6. Generate script
         print("\n[6/8] Generating script...")
         if dry_run:
-            script_result = generate_script_dry_run(weather_text, selected, config)
+            script_result = generate_script_dry_run(weather_text, selected, config, reading_items)
             print("  [DRY RUN] Generated placeholder script")
         else:
-            script_result = generate_script(weather_text, selected, config)
+            script_result = generate_script(weather_text, selected, config, reading_items)
             print(f"  Generated script ({len(script_result['script'])} characters)")
         
         script = script_result["script"]
@@ -362,6 +392,7 @@ def run_pipeline(dry_run: bool = False, verbose: bool = False) -> bool:
             items=selected,
             config=config,
             estimated_duration=estimated_duration,
+            reading_items=reading_items,
         )
         print(f"  Saved transcript to: {transcript_path}")
         
@@ -437,6 +468,7 @@ def run_pipeline(dry_run: bool = False, verbose: bool = False) -> bool:
             items=selected,  # Include items for rich show notes
             episode_image_url=episode_image_url,  # AI-generated episode artwork
             custom_title=episode_title,  # AI-generated content-based title
+            reading_items=reading_items,  # Include reading list in show notes
         )
         
         # Update RSS feed
