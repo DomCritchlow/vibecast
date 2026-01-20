@@ -208,7 +208,7 @@ body {
   min-height: 100vh;
 }
 
-/* Paper grain overlay - visible texture */
+/* Subtle paper texture - ONLY on paper background, not everywhere */
 body::before {
   content: '';
   position: fixed;
@@ -218,27 +218,16 @@ body::before {
   bottom: 0;
   background-image: url('../textures/paper-grain.svg');
   background-repeat: repeat;
-  background-size: 300px 300px;
-  opacity: 0.08;
+  background-size: 400px 400px;
+  opacity: 0.05;
   pointer-events: none;
   z-index: 9999;
   mix-blend-mode: multiply;
 }
 
-/* Halftone overlay for extra grit */
+/* NO GLOBAL HALFTONE - apply strategically where needed */
 body::after {
-  content: '';
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-image: url('../textures/halftone.svg');
-  background-repeat: repeat;
-  background-size: 200px 200px;
-  opacity: 0.03;
-  pointer-events: none;
-  z-index: 9998;
+  display: none;
 }
 
 /* --------------------------------------------------------------------------

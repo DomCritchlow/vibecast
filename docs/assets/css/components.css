@@ -4,8 +4,8 @@
    ========================================================================== */
 
 /* --------------------------------------------------------------------------
-   BUTTONS
-   Clean, rounded, with subtle depth
+   BUTTONS - BOLD POSTER STYLE
+   Screen-print aesthetic with hard edges
    -------------------------------------------------------------------------- */
 
 .btn {
@@ -13,62 +13,74 @@
   align-items: center;
   justify-content: center;
   gap: var(--space-2);
-  padding: var(--space-3) var(--space-5);
+  padding: var(--space-4) var(--space-6);
   font-family: var(--font-body);
-  font-size: var(--text-sm);
-  font-weight: var(--weight-semibold);
-  line-height: 1.2;
+  font-size: var(--text-base);
+  font-weight: var(--weight-bold);
+  line-height: 1;
   text-decoration: none;
-  border-radius: var(--radius-full);
+  border-radius: 0;
   cursor: pointer;
-  transition: all var(--transition-fast);
-  border: none;
+  transition: none;
+  border: 3px solid var(--ink-0);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  position: relative;
 }
 
 .btn:focus {
-  outline: 2px solid var(--accent-0);
-  outline-offset: 2px;
+  outline: 3px solid var(--accent-0);
+  outline-offset: 3px;
 }
 
-/* Primary Button - Orange pill */
+/* Primary Button - BOLD orange block */
 .btn-primary {
   background: var(--accent-0);
   color: white;
-  box-shadow: var(--shadow-sm);
+  border-color: var(--ink-0);
+  box-shadow: 6px 6px 0px var(--ink-0);
 }
 
 .btn-primary:hover {
   background: var(--accent-1);
-  box-shadow: var(--shadow-accent);
-  transform: translateY(-1px);
+  transform: translate(-2px, -2px);
+  box-shadow: 8px 8px 0px var(--ink-0);
 }
 
 .btn-primary:active {
-  transform: translateY(0);
-  box-shadow: var(--shadow-sm);
+  transform: translate(2px, 2px);
+  box-shadow: 2px 2px 0px var(--ink-0);
 }
 
-/* Secondary Button - Teal outline */
+/* Secondary Button - BOLD teal outline */
 .btn-secondary {
-  background: transparent;
+  background: var(--paper-0);
   color: var(--teal-0);
-  border: var(--border-thick) solid var(--teal-0);
+  border: 3px solid var(--teal-0);
+  box-shadow: 6px 6px 0px var(--teal-0);
 }
 
 .btn-secondary:hover {
   background: var(--teal-0);
   color: white;
+  transform: translate(-2px, -2px);
+  box-shadow: 8px 8px 0px var(--ink-0);
 }
 
-/* Ghost Button - Minimal */
+/* Ghost Button - Underlined poster style */
 .btn-ghost {
   background: transparent;
-  color: var(--ink-1);
-  padding: var(--space-2) var(--space-3);
+  color: var(--ink-0);
+  padding: var(--space-2) var(--space-4);
+  border: none;
+  border-bottom: 3px solid var(--ink-0);
+  box-shadow: none;
+  font-size: var(--text-sm);
 }
 
 .btn-ghost:hover {
   color: var(--accent-0);
+  border-bottom-color: var(--accent-0);
   background: rgba(255, 77, 0, 0.05);
 }
 
@@ -97,12 +109,13 @@
 
 .nav {
   background: var(--paper-0);
-  border-bottom: var(--border-thin) solid var(--paper-3);
+  border-bottom: 4px solid var(--ink-0);
   position: sticky;
   top: 0;
   z-index: var(--z-sticky);
   backdrop-filter: blur(10px);
-  background: rgba(250, 250, 245, 0.9);
+  background: rgba(250, 250, 245, 0.95);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
 }
 
 .nav-inner {
@@ -124,16 +137,18 @@
 
 .nav-logo {
   font-family: var(--font-heading);
-  font-size: var(--text-xl);
-  font-weight: var(--weight-bold);
+  font-size: var(--text-2xl);
+  font-weight: var(--weight-black);
   color: var(--ink-0);
   text-decoration: none;
-  letter-spacing: -0.02em;
+  letter-spacing: -0.03em;
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.08);
 }
 
 .nav-logo:hover {
   color: var(--accent-0);
   text-decoration: none;
+  text-shadow: 2px 2px 0px rgba(255, 77, 0, 0.15);
 }
 
 .nav-host {
@@ -149,16 +164,21 @@
 .nav-subscribe {
   background: var(--accent-0);
   color: white !important;
-  padding: var(--space-2) var(--space-4) !important;
-  border-radius: var(--radius-full);
+  padding: var(--space-2) var(--space-5) !important;
+  border-radius: 0;
+  border: 3px solid var(--ink-0);
   font-size: var(--text-xs) !important;
-  font-weight: var(--weight-semibold) !important;
-  text-transform: none !important;
+  font-weight: var(--weight-bold) !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.05em;
+  box-shadow: 3px 3px 0px var(--ink-0);
+  transition: none;
 }
 
 .nav-subscribe:hover {
   background: var(--accent-1);
-  box-shadow: var(--shadow-accent);
+  transform: translate(-1px, -1px);
+  box-shadow: 4px 4px 0px var(--ink-0);
 }
 
 .nav-subscribe::after {
