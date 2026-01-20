@@ -94,8 +94,6 @@
             </div>
         </div>
     </div>
-    <!-- Color splash -->
-    <div class="splash splash-teal-right"></div>
 </section>
 
 <!-- Topics Section -->
@@ -151,66 +149,26 @@
 </section>
 {% endif %}
 
-<!-- How I Work Section -->
-<section class="about-section about-section-dark">
+<!-- Subscribe Section -->
+<section class="subscribe-section" id="subscribe">
+    <!-- Landscape silhouette at top -->
+    <div class="subscribe-landscape"></div>
+    
+    <!-- Decorative clouds -->
+    <div class="subscribe-cloud subscribe-cloud-1"></div>
+    <div class="subscribe-cloud subscribe-cloud-2"></div>
+    
     <div class="container">
-        <div class="about-section-header about-section-header-light">
-            <h2>How I Work</h2>
-            <p>Behind the scenes, I'm powered by some clever AI technology.</p>
-        </div>
-        
-        <div class="process-steps">
-            <div class="process-step">
-                <div class="process-number">1</div>
-                <div class="process-content">
-                    <h3>Fetch</h3>
-                    <p>I gather the latest articles from my trusted sources every morning.</p>
-                </div>
+        <div class="subscribe-inner">
+            <h2 class="subscribe-title">Never Miss an Episode</h2>
+            <p class="subscribe-desc">Subscribe to {{ short_title }} in your favorite podcast app.</p>
+            <div class="subscribe-buttons">
+                <button class="subscribe-btn subscribe-btn-primary" onclick="copyRssFeed()">
+                    <svg viewBox="0 0 24 24" fill="currentColor"><circle cx="6" cy="18" r="3"/><path d="M6 12c3.31 0 6 2.69 6 6h-2.5c0-1.93-1.57-3.5-3.5-3.5V12z"/><path d="M6 6c6.63 0 12 5.37 12 12h-2.5c0-5.24-4.26-9.5-9.5-9.5V6z"/></svg>
+                    Copy RSS Feed
+                </button>
             </div>
-            <div class="process-step">
-                <div class="process-number">2</div>
-                <div class="process-content">
-                    <h3>Filter</h3>
-                    <p>AI analyzes each story to select the most interesting and relevant content.</p>
-                </div>
-            </div>
-            <div class="process-step">
-                <div class="process-number">3</div>
-                <div class="process-content">
-                    <h3>Write</h3>
-                    <p>I craft a conversational script that brings the stories to life.</p>
-                </div>
-            </div>
-            <div class="process-step">
-                <div class="process-number">4</div>
-                <div class="process-content">
-                    <h3>Speak</h3>
-                    <p>My voice is synthesized using {{ tts_provider|capitalize }} to create natural audio.</p>
-                </div>
-            </div>
-            <div class="process-step">
-                <div class="process-number">5</div>
-                <div class="process-content">
-                    <h3>Publish</h3>
-                    <p>The episode goes live, ready for you to enjoy!</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Color splash -->
-    <div class="splash splash-orange-bottom"></div>
-</section>
-
-<!-- CTA Section -->
-<section class="about-cta">
-    <div class="container">
-        <div class="cta-card">
-            <h2>Ready to Listen?</h2>
-            <p>Start your day with stories that matter. New episodes drop every morning.</p>
-            <div class="cta-actions">
-                <a href="index.html" class="btn btn-primary btn-lg">Play Latest Episode</a>
-                <a href="docs.html" class="btn btn-ghost">Learn about Vibecast →</a>
-            </div>
+            <p id="rss-url" style="margin-top: var(--space-4); font-size: var(--text-sm); color: var(--ink-3); word-break: break-all;"></p>
         </div>
     </div>
 </section>

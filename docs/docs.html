@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About Vibecast — Vibecast</title>
     <meta name="description" content="Tech, science, and what&#39;s actually interesting">
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
     <link rel="alternate" type="application/rss+xml" title="Vibecast: Morning Thread RSS Feed" href="feed.xml">
     
     <!-- Google Fonts: Fraunces (headings) + Inter (body) -->
@@ -267,16 +268,26 @@ R2_SECRET_ACCESS_KEY=your_secret_key</code></pre>
     </div>
 </section>
 
-<!-- CTA Section -->
-<section class="docs-cta">
+<!-- Subscribe Section -->
+<section class="subscribe-section" id="subscribe">
+    <!-- Landscape silhouette at top -->
+    <div class="subscribe-landscape"></div>
+    
+    <!-- Decorative clouds -->
+    <div class="subscribe-cloud subscribe-cloud-1"></div>
+    <div class="subscribe-cloud subscribe-cloud-2"></div>
+    
     <div class="container">
-        <div class="cta-card cta-card-dark">
-            <h2>Ready to Build?</h2>
-            <p>Vibecast is open source and free to use. Start creating your own AI-powered podcast today.</p>
-            <div class="cta-actions">
-                <a href="https://github.com/domcritchlow/vibecast" class="btn btn-primary btn-lg" target="_blank" rel="noopener">Get Started on GitHub</a>
+        <div class="subscribe-inner">
+            <h2 class="subscribe-title">Never Miss an Episode</h2>
+            <p class="subscribe-desc">Subscribe to Vibecast in your favorite podcast app.</p>
+            <div class="subscribe-buttons">
+                <button class="subscribe-btn subscribe-btn-primary" onclick="copyRssFeed()">
+                    <svg viewBox="0 0 24 24" fill="currentColor"><circle cx="6" cy="18" r="3"/><path d="M6 12c3.31 0 6 2.69 6 6h-2.5c0-1.93-1.57-3.5-3.5-3.5V12z"/><path d="M6 6c6.63 0 12 5.37 12 12h-2.5c0-5.24-4.26-9.5-9.5-9.5V6z"/></svg>
+                    Copy RSS Feed
+                </button>
             </div>
-            <p class="cta-license">Released under MIT License</p>
+            <p id="rss-url" style="margin-top: var(--space-4); font-size: var(--text-sm); color: var(--ink-3); word-break: break-all;"></p>
         </div>
     </div>
 </section>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500">
+  <filter id="printTexture">
+    <feTurbulence type="fractalNoise" baseFrequency="1.2" numOctaves="5" seed="5"/>
+    <feDisplacementMap in="SourceGraphic" scale="3"/>
+    <feGaussianBlur stdDeviation="0.5"/>
+  </filter>
+  <rect width="500" height="500" fill="black" filter="url(#printTexture)"/>
+</svg>
