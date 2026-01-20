@@ -298,6 +298,7 @@ def create_episode_metadata(
     episode_image_url: Optional[str] = None,
     custom_title: Optional[str] = None,
     reading_items: Optional[list] = None,
+    newspaper_url: Optional[str] = None,
 ) -> dict:
     """Create episode metadata dictionary.
     
@@ -311,6 +312,7 @@ def create_episode_metadata(
         episode_image_url: URL to episode-specific artwork (e.g., NASA APOD).
         custom_title: Custom episode title (overrides default formatting).
         reading_items: List of reading list items (optional).
+        newspaper_url: URL to the newspaper PDF for this episode (optional).
     
     Returns:
         Episode metadata dictionary.
@@ -333,7 +335,7 @@ def create_episode_metadata(
         )
     
     # Create rich description with summary and references
-    description = _build_show_notes(date, config, items, duration_seconds, reading_items)
+    description = _build_show_notes(date, config, items, duration_seconds, reading_items, newspaper_url)
     
     # Create GUID from date
     guid = date.strftime("%Y-%m-%d")
@@ -352,6 +354,10 @@ def create_episode_metadata(
     if episode_image_url:
         metadata["image_url"] = episode_image_url
     
+    # Add newspaper URL if provided
+    if newspaper_url:
+        metadata["newspaper_url"] = newspaper_url
+    
     return metadata
 
 
@@ -361,6 +367,7 @@ def _build_show_notes(
     items: Optional[list],
     duration_seconds: Optional[float],
     reading_items: Optional[list] = None,
+    newspaper_url: Optional[str] = None,
 ) -> str:
     """Build rich show notes with summary and references.
     
@@ -370,6 +377,7 @@ def _build_show_notes(
         items: List of ContentItem objects.
         duration_seconds: Duration in seconds.
         reading_items: List of reading list items (optional).
+        newspaper_url: URL to the newspaper PDF (optional).
     
     Returns:
         Formatted show notes string.
@@ -384,6 +392,11 @@ def _build_show_notes(
         f"{tagline} for {date_str}.",
         "",
     ]
+    
+    # Add newspaper PDF link if available
+    if newspaper_url:
+        lines.append(f"📰 READ: {newspaper_url}")
+        lines.append("")
     
     # Add duration if available
     if duration_seconds:

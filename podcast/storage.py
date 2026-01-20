@@ -452,3 +452,52 @@ def upload_fallback_artwork_to_r2(
         public_url = f"https://{bucket}.{account_id}.r2.dev/{fallback_key}"
     
     return public_url
+
+
+def upload_newspaper_to_r2(
+    episode_id: str,
+    pdf_bytes: bytes,
+    config: dict,
+) -> str:
+    """Upload newspaper PDF to Cloudflare R2.
+    
+    Stores PDF at: episodes/{episode_id}/newspaper.pdf
+    
+    Args:
+        episode_id: Episode identifier (e.g., "2026-01-20").
+        pdf_bytes: Raw PDF file data.
+        config: Full configuration dictionary.
+    
+    Returns:
+        Public URL of the uploaded newspaper PDF.
+    """
+    storage_config = config.get("storage", {})
+    r2_config = storage_config.get("r2", {})
+    
+    bucket = r2_config.get("bucket", "vibecast")
+    public_base_url = r2_config.get("public_base_url", "")
+    
+    # Build object key: episodes/2026-01-20/newspaper.pdf
+    object_key = f"episodes/{episode_id}/newspaper.pdf"
+    
+    # Get R2 client
+    client = get_r2_client()
+    
+    # Upload the file
+    client.put_object(
+        Bucket=bucket,
+        Key=object_key,
+        Body=pdf_bytes,
+        ContentType="application/pdf",
+        CacheControl="public, max-age=31536000, immutable",
+        ContentDisposition='inline; filename="vibecast-newspaper.pdf"',  # Open in browser, not download
+    )
+    
+    # Build public URL
+    if public_base_url:
+        public_url = f"{public_base_url.rstrip('/')}/{object_key}"
+    else:
+        account_id = os.environ.get("R2_ACCOUNT_ID", "")
+        public_url = f"https://{bucket}.{account_id}.r2.dev/{object_key}"
+    
+    return public_url

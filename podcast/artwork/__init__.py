@@ -11,7 +11,7 @@ Usage:
         "items": selected_items,
         "title": episode_title,
     }
-    artwork_url = generate_and_publish_episode_artwork(episode_context, config)
+    artwork_url, accent_color = generate_and_publish_episode_artwork(episode_context, config)
 """
 
 from .base import ArtBrief, ArtworkResult, ArtworkProvider

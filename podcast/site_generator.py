@@ -145,6 +145,47 @@ def ensure_asset_dirs(site_dir: Path) -> None:
     (assets_dir / "images").mkdir(parents=True, exist_ok=True)
 
 
+def get_latest_newspaper_url(site_dir: Path) -> str:
+    """Get the latest newspaper PDF URL from the RSS feed.
+    
+    Args:
+        site_dir: Path to the site directory.
+    
+    Returns:
+        URL to latest newspaper PDF or empty string.
+    """
+    import xml.etree.ElementTree as ET
+    
+    feed_path = site_dir / "feed.xml"
+    if not feed_path.exists():
+        return ""
+    
+    try:
+        tree = ET.parse(feed_path)
+        root = tree.getroot()
+        
+        # Find first item (latest episode)
+        items = root.findall(".//item")
+        if not items:
+            return ""
+        
+        latest_item = items[0]
+        
+        # Look for newspaper URL in description
+        description = latest_item.find("description")
+        if description is not None and description.text:
+            # Extract newspaper URL from description if it contains 📰 READ:
+            import re
+            match = re.search(r'📰 READ: (https?://[^\s]+)', description.text)
+            if match:
+                return match.group(1)
+        
+        return ""
+    except Exception as e:
+        print(f"Warning: Could not parse feed for newspaper URL: {e}")
+        return ""
+
+
 def save_site_pages(config: dict, site_dir: Path) -> None:
     """Generate and save all HTML pages to the site directory.
     
@@ -154,6 +195,9 @@ def save_site_pages(config: dict, site_dir: Path) -> None:
     """
     env = get_template_env()
     context = get_template_context(config)
+    
+    # Add latest newspaper URL to context
+    context["latest_newspaper_url"] = get_latest_newspaper_url(site_dir)
     
     # Ensure asset directories exist
     ensure_asset_dirs(site_dir)

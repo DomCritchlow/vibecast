@@ -46,6 +46,11 @@ Thumbs.db
 # Generated transcripts (stored in R2, not repo)
 docs/scripts/*.txt
 
+# Generated newspapers (PDFs generated daily)
+docs/newspapers/*.pdf
+docs/newspapers/*.html
+
 # Keep these tracked
 !docs/artwork.png
 !docs/scripts/.gitkeep
+!docs/newspapers/.gitkeep

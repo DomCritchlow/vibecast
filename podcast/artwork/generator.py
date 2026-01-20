@@ -66,7 +66,7 @@ def generate_and_publish_episode_artwork(
     storage_upload_fn=None,
     storage_metadata_fn=None,
     get_fallback_fn=None,
-) -> str:
+) -> tuple[str, str]:
     """Generate AI artwork for an episode and publish to R2.
     
     This is the main entry point that orchestrates:
@@ -76,7 +76,7 @@ def generate_and_publish_episode_artwork(
     4. R2 upload
     5. Metadata storage
     
-    On any failure, returns the fallback artwork URL.
+    On any failure, returns the fallback artwork URL and default accent color.
     
     Args:
         episode_context: Dict with 'episode_id', 'items', 'title'.
@@ -86,16 +86,16 @@ def generate_and_publish_episode_artwork(
         get_fallback_fn: Function to get fallback URL (injected for testability).
     
     Returns:
-        Public URL of the artwork (generated or fallback).
+        Tuple of (artwork_url, accent_color_name) where accent_color_name is the color used in generation.
     """
     artwork_config = config.get("artwork", {})
     
     # Check if artwork generation is enabled
     if not artwork_config.get("enabled", True):
         print("  Artwork generation is disabled")
-        if get_fallback_fn:
-            return get_fallback_fn(config)
-        return _get_default_fallback_url(config)
+        fallback_url = get_fallback_fn(config) if get_fallback_fn else _get_default_fallback_url(config)
+        default_color = artwork_config.get("accent_palette", ["burnt orange"])[0]
+        return fallback_url, default_color
     
     episode_id = episode_context.get("episode_id", datetime.now().strftime("%Y-%m-%d"))
     items = episode_context.get("items", [])
@@ -108,6 +108,9 @@ def generate_and_publish_episode_artwork(
         brief = generate_art_brief(items, episode_id, config)
         print(f"    Scene: {brief.single_scene_metaphor[:60]}...")
         print(f"    Accent: {brief.accent_color}")
+        
+        # Store the accent color for return
+        accent_color_used = brief.accent_color
         
         # Step B: Render the final prompt
         print("  Step B: Rendering artwork prompt...")
@@ -179,15 +182,15 @@ def generate_and_publish_episode_artwork(
             
             print("    Saved artwork metadata")
         
-        return artwork_url
+        return artwork_url, accent_color_used
     
     except Exception as e:
         print(f"  ERROR: Artwork generation failed: {e}")
         print("  Using fallback artwork...")
         
-        if get_fallback_fn:
-            return get_fallback_fn(config)
-        return _get_default_fallback_url(config)
+        fallback_url = get_fallback_fn(config) if get_fallback_fn else _get_default_fallback_url(config)
+        default_color = artwork_config.get("accent_palette", ["burnt orange"])[0]
+        return fallback_url, default_color
 
 
 def _get_default_fallback_url(config: dict) -> str:

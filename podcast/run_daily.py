@@ -20,6 +20,7 @@ from .storage import upload_mp3_to_r2, upload_transcript_to_r2, check_r2_connect
 from .artwork import generate_and_publish_episode_artwork
 from .rss_feed import create_episode_metadata, update_feed, save_feed
 from .site_generator import save_index_html
+from .newspaper import generate_newspaper_pdf, generate_newspaper_html
 
 
 # Paths relative to this file
@@ -443,11 +444,13 @@ def run_pipeline(dry_run: bool = False, verbose: bool = False) -> bool:
                 "title": episode_title,
             }
             try:
-                episode_image_url = generate_and_publish_episode_artwork(episode_context, config)
+                episode_image_url, artwork_accent_color = generate_and_publish_episode_artwork(episode_context, config)
                 print(f"  Episode artwork: {episode_image_url}")
+                print(f"  Accent color: {artwork_accent_color}")
             except Exception as e:
                 print(f"  Warning: Artwork generation failed: {e}")
                 # Fallback URL will be used (handled inside the function)
+                artwork_accent_color = config.get("artwork", {}).get("accent_palette", ["burnt orange"])[0]
         elif dry_run:
             print("\n  [DRY RUN] Would generate AI episode artwork")
             # Use a placeholder URL for dry run
@@ -455,10 +458,58 @@ def run_pipeline(dry_run: bool = False, verbose: bool = False) -> bool:
             r2_config = storage_config.get("r2", {})
             public_base_url = r2_config.get("public_base_url", "https://example.com")
             episode_image_url = f"{public_base_url}/episodes/{today.strftime('%Y-%m-%d')}/episode-art.png"
+            artwork_accent_color = config.get("artwork", {}).get("accent_palette", ["burnt orange"])[0]
         else:
             print("\n  Episode artwork: Disabled in config")
+            artwork_accent_color = config.get("artwork", {}).get("accent_palette", ["burnt orange"])[0]
         
-        # Create episode metadata with show notes
+        # Generate newspaper PDF first (before metadata)
+        newspaper_url = None
+        print("\n  Generating newspaper PDF...")
+        try:
+            if dry_run:
+                print("  [DRY RUN] Would generate newspaper PDF and upload to R2")
+                storage_config = config.get("storage", {})
+                r2_config = storage_config.get("r2", {})
+                public_base_url = r2_config.get("public_base_url", "https://example.com")
+                newspaper_url = f"{public_base_url}/episodes/{today.strftime('%Y-%m-%d')}/newspaper.pdf"
+            else:
+                # Use the same accent color as the artwork
+                from podcast.newspaper import _color_name_to_hex
+                accent_hex = _color_name_to_hex(artwork_accent_color)
+                
+                # Generate the PDF
+                newspaper_pdf_path = generate_newspaper_pdf(
+                    date=today,
+                    items=selected,
+                    config=config,
+                    weather_text=weather_text,
+                    reading_items=reading_items,
+                    duration_minutes=estimated_duration,
+                    episode_artwork_url=episode_image_url,
+                    accent_color=accent_hex,  # Use the same color as the artwork
+                )
+                
+                if newspaper_pdf_path:
+                    print(f"  Generated PDF: {newspaper_pdf_path}")
+                    
+                    # Upload to R2
+                    print("  Uploading newspaper to R2...")
+                    with open(newspaper_pdf_path, "rb") as f:
+                        pdf_bytes = f.read()
+                    
+                    from podcast.storage import upload_newspaper_to_r2
+                    newspaper_url = upload_newspaper_to_r2(
+                        episode_id=today.strftime('%Y-%m-%d'),
+                        pdf_bytes=pdf_bytes,
+                        config=config,
+                    )
+                    print(f"  Newspaper URL: {newspaper_url}")
+        except Exception as e:
+            print(f"  Warning: Newspaper generation/upload failed: {e}")
+            print(f"  (Install WeasyPrint: pip install weasyprint)")
+        
+        # Create episode metadata with show notes (including newspaper URL)
         episode = create_episode_metadata(
             date=today,
             mp3_url=mp3_url,
@@ -469,6 +520,7 @@ def run_pipeline(dry_run: bool = False, verbose: bool = False) -> bool:
             episode_image_url=episode_image_url,  # AI-generated episode artwork
             custom_title=episode_title,  # AI-generated content-based title
             reading_items=reading_items,  # Include reading list in show notes
+            newspaper_url=newspaper_url,  # Link to newspaper PDF
         )
         
         # Update RSS feed
