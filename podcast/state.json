@@ -1,17 +1,5 @@
 {
   "used_urls": [
-    "https://www.microsoft.com/en-us/research/blog/when-industry-knowledge-meets-pike-rag-the-innovation-behind-signifys-customer-service-boost/",
-    "https://www.nasa.gov/image-article/nasas-pandora-small-satellite-launched/",
-    "https://www.nasa.gov/news-release/nasa-department-of-energy-to-develop-lunar-surface-reactor-by-2030/",
-    "https://www.nature.com/articles/d41586-025-03991-9",
-    "https://www.nature.com/articles/d41586-026-00072-3",
-    "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
-    "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/roses-25-amendment-38-d-5-astrophysics-pioneers-updates/",
-    "https://www.wired.com/story/neuroscience-procrastination-brain-mechanism-task-avoidance/",
-    "https://www.nature.com/articles/d41586-026-00145-3",
-    "https://www.nature.com/articles/d41586-026-00162-2",
-    "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
-    "https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/",
     "https://www.nature.com/articles/d41586-026-00073-2",
     "https://www.nature.com/articles/d41586-026-00160-4",
     "https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/",
@@ -47,21 +35,15 @@
     "https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/",
     "https://www.technologyreview.com/2026/01/20/1129965/reimagining-erp-for-the-agentic-ai-era/",
     "https://www.technologyreview.com/2026/01/20/1131462/the-uk-government-is-backing-ai-scientists-that-can-run-their-own-experiments/",
-    "https://www.wired.com/story/the-big-interview-podcast-jimmy-wales/"
+    "https://www.wired.com/story/the-big-interview-podcast-jimmy-wales/",
+    "https://www.nasa.gov/missions/artemis/artemis-2/nasas-artemis-ii-mission-to-fly-legacy-keepsakes-with-astronaut-crew/",
+    "https://openai.com/index/edu-for-countries",
+    "https://openai.com/index/how-countries-can-end-the-capability-overhang",
+    "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
+    "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
+    "https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/"
   ],
   "url_timestamps": {
-    "https://www.microsoft.com/en-us/research/blog/when-industry-knowledge-meets-pike-rag-the-innovation-behind-signifys-customer-service-boost/": "2026-01-14T04:49:37.151235",
-    "https://www.nasa.gov/image-article/nasas-pandora-small-satellite-launched/": "2026-01-14T04:49:37.151235",
-    "https://www.nasa.gov/news-release/nasa-department-of-energy-to-develop-lunar-surface-reactor-by-2030/": "2026-01-14T04:49:37.151235",
-    "https://www.nature.com/articles/d41586-025-03991-9": "2026-01-14T04:49:37.151235",
-    "https://www.nature.com/articles/d41586-026-00072-3": "2026-01-14T04:49:37.151235",
-    "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/": "2026-01-14T04:49:37.151235",
-    "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/roses-25-amendment-38-d-5-astrophysics-pioneers-updates/": "2026-01-15T04:43:52.686591",
-    "https://www.wired.com/story/neuroscience-procrastination-brain-mechanism-task-avoidance/": "2026-01-15T04:43:52.686591",
-    "https://www.nature.com/articles/d41586-026-00145-3": "2026-01-15T04:43:52.686591",
-    "https://www.nature.com/articles/d41586-026-00162-2": "2026-01-15T04:43:52.686591",
-    "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/": "2026-01-15T04:43:52.686591",
-    "https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/": "2026-01-15T04:43:52.686591",
     "https://www.nature.com/articles/d41586-026-00073-2": "2026-01-16T04:42:12.376928",
     "https://www.nature.com/articles/d41586-026-00160-4": "2026-01-16T04:42:12.376928",
     "https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/": "2026-01-16T04:42:12.376928",
@@ -97,7 +79,13 @@
     "https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/": "2026-01-21T04:48:09.406162",
     "https://www.technologyreview.com/2026/01/20/1129965/reimagining-erp-for-the-agentic-ai-era/": "2026-01-21T04:48:09.406162",
     "https://www.technologyreview.com/2026/01/20/1131462/the-uk-government-is-backing-ai-scientists-that-can-run-their-own-experiments/": "2026-01-21T04:48:09.406162",
-    "https://www.wired.com/story/the-big-interview-podcast-jimmy-wales/": "2026-01-21T04:48:09.406162"
+    "https://www.wired.com/story/the-big-interview-podcast-jimmy-wales/": "2026-01-21T04:48:09.406162",
+    "https://www.nasa.gov/missions/artemis/artemis-2/nasas-artemis-ii-mission-to-fly-legacy-keepsakes-with-astronaut-crew/": "2026-01-22T04:52:03.075220",
+    "https://openai.com/index/edu-for-countries": "2026-01-22T04:52:03.075220",
+    "https://openai.com/index/how-countries-can-end-the-capability-overhang": "2026-01-22T04:52:03.075220",
+    "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/": "2026-01-22T04:52:03.075220",
+    "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/": "2026-01-22T04:52:03.075220",
+    "https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/": "2026-01-22T04:52:03.075220"
   },
-  "last_run": "2026-01-21T04:48:09.406162"
+  "last_run": "2026-01-22T04:52:03.075220"
 }
