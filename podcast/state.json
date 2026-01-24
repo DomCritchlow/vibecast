@@ -1,11 +1,5 @@
 {
   "used_urls": [
-    "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/roses-25-d-5-astrophysics-pioneers-updates/",
-    "https://www.technologyreview.com/2026/01/16/1131363/three-technologies-shape-biotech-in-2026-gene-editing-embryo-scoring/",
-    "https://openai.com/index/netomi",
-    "https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/",
-    "https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/",
-    "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
     "https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/",
     "https://openai.com/index/datadog",
     "https://www.theverge.com/news/863978/setapp-mobile-ios-store-shutdown",
@@ -41,15 +35,15 @@
     "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
     "https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/",
     "https://www.theverge.com/news/866441/ring-verify-security-camera-ai-fakes-video-verification",
-    "https://restofworld.org/2026/tech-jobs-2026-ai-layoffs-hybrid-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+    "https://restofworld.org/2026/tech-jobs-2026-ai-layoffs-hybrid-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "https://www.nature.com/articles/d41586-026-00067-0",
+    "https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/",
+    "https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/",
+    "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
+    "https://arstechnica.com/gaming/2026/01/tr-49-is-interactive-fiction-for-fans-of-deep-research-rabbit-holes/",
+    "https://www.theverge.com/news/867138/google-chromebook-education-expansion-court-filings"
   ],
   "url_timestamps": {
-    "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/roses-25-d-5-astrophysics-pioneers-updates/": "2026-01-17T04:35:00.778426",
-    "https://www.technologyreview.com/2026/01/16/1131363/three-technologies-shape-biotech-in-2026-gene-editing-embryo-scoring/": "2026-01-17T04:35:00.778426",
-    "https://openai.com/index/netomi": "2026-01-17T04:35:00.778426",
-    "https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/": "2026-01-17T04:35:00.778426",
-    "https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/": "2026-01-17T04:35:00.778426",
-    "https://huggingface.co/blog/ServiceNow-AI/aprielguard": "2026-01-17T04:35:00.778426",
     "https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/": "2026-01-18T04:43:49.824776",
     "https://openai.com/index/datadog": "2026-01-18T04:43:49.824776",
     "https://www.theverge.com/news/863978/setapp-mobile-ios-store-shutdown": "2026-01-18T04:43:49.824776",
@@ -85,7 +79,13 @@
     "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/": "2026-01-23T04:46:24.505736",
     "https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/": "2026-01-23T04:46:24.505736",
     "https://www.theverge.com/news/866441/ring-verify-security-camera-ai-fakes-video-verification": "2026-01-23T04:46:24.505736",
-    "https://restofworld.org/2026/tech-jobs-2026-ai-layoffs-hybrid-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds": "2026-01-23T04:46:24.505736"
+    "https://restofworld.org/2026/tech-jobs-2026-ai-layoffs-hybrid-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds": "2026-01-23T04:46:24.505736",
+    "https://www.nature.com/articles/d41586-026-00067-0": "2026-01-24T04:38:01.845825",
+    "https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/": "2026-01-24T04:38:01.845825",
+    "https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/": "2026-01-24T04:38:01.845825",
+    "https://huggingface.co/blog/ServiceNow-AI/aprielguard": "2026-01-24T04:38:01.845825",
+    "https://arstechnica.com/gaming/2026/01/tr-49-is-interactive-fiction-for-fans-of-deep-research-rabbit-holes/": "2026-01-24T04:38:01.845825",
+    "https://www.theverge.com/news/867138/google-chromebook-education-expansion-court-filings": "2026-01-24T04:38:01.845825"
   },
-  "last_run": "2026-01-23T04:46:24.505736"
+  "last_run": "2026-01-24T04:38:01.845825"
 }

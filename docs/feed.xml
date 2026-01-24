@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Jan 2026 04:46:24 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 04:38:01 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,122 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Greenland&#x27;s Science Future &amp; AI Safety Innovations</title>
+      <description><![CDATA[Tech, science, and what's actually interesting for January 24, 2026.
+
+📰 READ: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-24/newspaper.pdf
+
+Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Greenland is important for global research: what’s next for the island’s science?
+   Source: Nature News
+2. Ideas: Community building, machine learning, and the future of AI
+   Source: Microsoft Research Blog
+3. BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI
+   Source: Microsoft Research Blog
+4. AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems
+   Source: Hugging Face Blog
+5. TR-49 is interactive fiction for fans of deep research rabbit holes
+   Source: Ars Technica
+6. Chromebooks train schoolkids to be loyal customers, internal Google document suggests
+   Source: The Verge
+
+REFERENCES:
+
+1. Greenland is important for global research: what’s next for the island’s science?
+   https://www.nature.com/articles/d41586-026-00067-0
+
+2. Ideas: Community building, machine learning, and the future of AI
+   https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/
+
+3. BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI
+   https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/
+
+4. AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems
+   https://huggingface.co/blog/ServiceNow-AI/aprielguard
+
+5. TR-49 is interactive fiction for fans of deep research rabbit holes
+   https://arstechnica.com/gaming/2026/01/tr-49-is-interactive-fiction-for-fans-of-deep-research-rabbit-holes/
+
+6. Chromebooks train schoolkids to be loyal customers, internal Google document suggests
+   https://www.theverge.com/news/867138/google-chromebook-education-expansion-court-filings
+
+READING LIST:
+Articles recommended for further reading
+
+1. We are hiring at ByteByteGo by Alex Xu
+   https://blog.bytebytego.com/p/we-are-hiring-at-bytebytego
+
+2. The Must-Know Fundamentals of Distributed Systems by Alex Xu
+   https://blog.bytebytego.com/p/the-must-know-fundamentals-of-distributed
+
+3. How Netflix Built a Real-Time Distributed Graph for Internet Scale by Alex Xu
+   https://blog.bytebytego.com/p/how-netflix-built-a-real-time-distributed
+]]></description>
+      <pubDate>Sat, 24 Jan 2026 04:36:52 -0000</pubDate>
+      <guid isPermaLink="false">2026-01-24</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-24.mp3" length="6302701" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 24, 2026.
+
+📰 READ: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-24/newspaper.pdf
+
+Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Greenland is important for global research: what’s next for the island’s science?
+   Source: Nature News
+2. Ideas: Community building, machine learning, and the future of AI
+   Source: Microsoft Research Blog
+3. BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI
+   Source: Microsoft Research Blog
+4. AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems
+   Source: Hugging Face Blog
+5. TR-49 is interactive fiction for fans of deep research rabbit holes
+   Source: Ars Technica
+6. Chromebooks train schoolkids to be loyal customers, internal Google document suggests
+   Source: The Verge
+
+REFERENCES:
+
+1. Greenland is important for global research: what’s next for the island’s science?
+   https://www.nature.com/articles/d41586-026-00067-0
+
+2. Ideas: Community building, machine learning, and the future of AI
+   https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/
+
+3. BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI
+   https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/
+
+4. AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems
+   https://huggingface.co/blog/ServiceNow-AI/aprielguard
+
+5. TR-49 is interactive fiction for fans of deep research rabbit holes
+   https://arstechnica.com/gaming/2026/01/tr-49-is-interactive-fiction-for-fans-of-deep-research-rabbit-holes/
+
+6. Chromebooks train schoolkids to be loyal customers, internal Google document suggests
+   https://www.theverge.com/news/867138/google-chromebook-education-expansion-court-filings
+
+READING LIST:
+Articles recommended for further reading
+
+1. We are hiring at ByteByteGo by Alex Xu
+   https://blog.bytebytego.com/p/we-are-hiring-at-bytebytego
+
+2. The Must-Know Fundamentals of Distributed Systems by Alex Xu
+   https://blog.bytebytego.com/p/the-must-know-fundamentals-of-distributed
+
+3. How Netflix Built a Real-Time Distributed Graph for Internet Scale by Alex Xu
+   https://blog.bytebytego.com/p/how-netflix-built-a-real-time-distributed
+]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:35</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-24/episode-art.png"/>
+    </item>
     <item>
       <title>Vision Gene Breakthrough &amp; AI&#x27;s 4D World Insight</title>
       <description><![CDATA[Tech, science, and what's actually interesting for January 23, 2026.
@@ -141,7 +257,6 @@ Articles recommended for further reading
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:15</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-23/episode-art.png"/>
     </item>
     <item>
       <title>Artemis II Legacy &amp; AI Factuality Benchmark Unveiled</title>
@@ -2634,93 +2749,6 @@ REFERENCES:
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:55</itunes:duration>
-    </item>
-    <item>
-      <title>Morning Vibe — December 25, 2025</title>
-      <description><![CDATA[Good news to fuel your day for December 25, 2025.
-
-Duration: ~5 minutes
-
-IN THIS EPISODE:
-
-1. The biggest black hole breakthroughs of 2025
-   Source: Space.com
-2. BYBORRE and Hollis+Morris Collaborate + Innovate to Present Knit Series
-   Source: Design Milk
-3. Anti-Defamation League says anger at Israel is now the driving force behind antisemitism in the U.S.
-   Source: NY1 Politics
-4. What went right in 2025: the top 25 good news stories of the year
-   Source: Positive News
-5. Spit-up, stand-up: the comedy clubs for mums (and babies too)
-   Source: Positive News
-6. Endangered Chick Appears in ‘Christmas Miracle’ Hatching to Parents Thought Infertile
-   Source: Good News Network
-
-REFERENCES:
-
-1. The biggest black hole breakthroughs of 2025
-   https://www.space.com/astronomy/black-holes/the-biggest-black-hole-breakthroughs-of-2025
-
-2. BYBORRE and Hollis+Morris Collaborate + Innovate to Present Knit Series
-   https://design-milk.com/byborre-and-hollismorris-collaborate-innovate-to-present-knit-series/
-
-3. Anti-Defamation League says anger at Israel is now the driving force behind antisemitism in the U.S.
-   http://www.ny1.com/nyc/all-boroughs/politics/2025/04/22/anti-defamation-league-says-anger-at-israel-is-now-the-driving-force-behind-antisemitism-in-the-u-s-
-
-4. What went right in 2025: the top 25 good news stories of the year
-   https://www.positive.news/society/what-went-right-in-2025-the-good-news-that-mattered/
-
-5. Spit-up, stand-up: the comedy clubs for mums (and babies too)
-   https://www.positive.news/society/spit-up-stand-up-the-comedy-clubs-for-mums-and-babies-too/
-
-6. Endangered Chick Appears in ‘Christmas Miracle’ Hatching to Parents Thought Infertile
-   https://www.goodnewsnetwork.org/endangered-chick-appears-in-christmas-miracle-hatching-to-parents-thought-infertile/
-]]></description>
-      <pubDate>Thu, 25 Dec 2025 04:39:03 -0000</pubDate>
-      <guid isPermaLink="false">2025-12-25</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-25.mp3" length="5368800" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[Good news to fuel your day for December 25, 2025.
-
-Duration: ~5 minutes
-
-IN THIS EPISODE:
-
-1. The biggest black hole breakthroughs of 2025
-   Source: Space.com
-2. BYBORRE and Hollis+Morris Collaborate + Innovate to Present Knit Series
-   Source: Design Milk
-3. Anti-Defamation League says anger at Israel is now the driving force behind antisemitism in the U.S.
-   Source: NY1 Politics
-4. What went right in 2025: the top 25 good news stories of the year
-   Source: Positive News
-5. Spit-up, stand-up: the comedy clubs for mums (and babies too)
-   Source: Positive News
-6. Endangered Chick Appears in ‘Christmas Miracle’ Hatching to Parents Thought Infertile
-   Source: Good News Network
-
-REFERENCES:
-
-1. The biggest black hole breakthroughs of 2025
-   https://www.space.com/astronomy/black-holes/the-biggest-black-hole-breakthroughs-of-2025
-
-2. BYBORRE and Hollis+Morris Collaborate + Innovate to Present Knit Series
-   https://design-milk.com/byborre-and-hollismorris-collaborate-innovate-to-present-knit-series/
-
-3. Anti-Defamation League says anger at Israel is now the driving force behind antisemitism in the U.S.
-   http://www.ny1.com/nyc/all-boroughs/politics/2025/04/22/anti-defamation-league-says-anger-at-israel-is-now-the-driving-force-behind-antisemitism-in-the-u-s-
-
-4. What went right in 2025: the top 25 good news stories of the year
-   https://www.positive.news/society/what-went-right-in-2025-the-good-news-that-mattered/
-
-5. Spit-up, stand-up: the comedy clubs for mums (and babies too)
-   https://www.positive.news/society/spit-up-stand-up-the-comedy-clubs-for-mums-and-babies-too/
-
-6. Endangered Chick Appears in ‘Christmas Miracle’ Hatching to Parents Thought Infertile
-   https://www.goodnewsnetwork.org/endangered-chick-appears-in-christmas-miracle-hatching-to-parents-thought-infertile/
-]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:33</itunes:duration>
     </item>
   </channel>
 </rss>
