@@ -64,9 +64,34 @@
         z-index: 0;
     }
     
+    /* Episode artwork - simple and clean */
+    .episode-artwork {
+        width: 200px;
+        height: 200px;
+        object-fit: cover;
+        border: 3px solid var(--ink-0);
+        margin: 0 auto var(--space-6) auto;
+        display: block;
+        position: relative;
+        z-index: 1;
+    }
+    
+    @media (min-width: 768px) {
+        .episode-artwork {
+            float: left;
+            margin: 0 var(--space-6) var(--space-4) 0;
+        }
+    }
+    
     .episode-header-content {
         position: relative;
         z-index: 1;
+    }
+    
+    @media (min-width: 768px) {
+        .episode-header-content {
+            overflow: hidden;
+        }
     }
     
     /* Meta info at top */
@@ -356,6 +381,9 @@
     
     <!-- Episode Header Card -->
     <div class="episode-header-card">
+        <!-- Episode Artwork -->
+        <img id="episode-artwork" src="default-episode-art.png" alt="Episode artwork" class="episode-artwork" />
+        
         <div class="episode-header-content">
             <div class="episode-meta">
                 <span id="episode-date">Loading...</span>
@@ -643,6 +671,10 @@
             document.getElementById('episode-date').textContent = dateStr;
             document.getElementById('episode-duration').textContent = episode.duration_formatted;
             
+            // Set artwork
+            if (episode.media.artwork_url) {
+                document.getElementById('episode-artwork').src = episode.media.artwork_url;
+            }
             
             // Setup audio
             audio = document.getElementById('episode-audio');
