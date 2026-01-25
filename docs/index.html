@@ -488,7 +488,7 @@
                 const enclosure = item.querySelector('enclosure');
                 const duration = item.querySelector('duration')?.textContent || '';
                 const pubDate = new Date(item.querySelector('pubDate')?.textContent);
-                const guid = enclosure?.getAttribute('url') || item.querySelector('guid')?.textContent || '';
+                const guid = item.querySelector('guid')?.textContent || enclosure?.getAttribute('url') || '';
                 
                 // Find itunes:image element (namespace-aware)
                 let artworkUrl = '';
