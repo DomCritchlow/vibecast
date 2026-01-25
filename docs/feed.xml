@@ -8,7 +8,11 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Sun, 25 Jan 2026 13:00:03 -0000</lastBuildDate>
+=======
+    <lastBuildDate>Sun, 25 Jan 2026 11:52:40 -0000</lastBuildDate>
+>>>>>>> 78afba66aa5ad3ac9a94738134dfdce63c2c7c8d
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
