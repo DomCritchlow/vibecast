@@ -311,13 +311,7 @@ sources:
     
     sources:
       # Tech & Systems
-      - name: "ByteByteGo Newsletter"
-        url: "https://blog.bytebytego.com/feed"
-        author: "Alex Xu"
-        enabled: true
-        description: "Deep dives into system design and complex tech concepts explained simply"
-        tags: ["tech", "systems", "engineering"]
-      
+            
       - name: "Import AI"
         url: "https://importai.substack.com/feed"
         author: "Jack Clark"

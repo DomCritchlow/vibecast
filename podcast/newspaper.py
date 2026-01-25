@@ -135,7 +135,7 @@ def generate_newspaper_pdf(
         weather=_clean_weather(weather_text),
         stories=stories,
         reading_items=reading_list,
-        site_url=_clean_url(podcast.get("site_url", "")),
+        site_url=_clean_url(podcast.get("site_url", ""), fallback=podcast.get("github_url", "")),
         duration=f"~{duration_minutes:.0f}",
         generation_date=datetime.now().strftime("%H:%M %Z"),
         accent_color=accent_color,
@@ -199,10 +199,14 @@ def _clean_weather(weather_text: str) -> str:
     return weather_text
 
 
-def _clean_url(url: str) -> str:
+def _clean_url(url: str, fallback: str = None) -> str:
     """Clean URL for display (remove https://)."""
     if not url:
-        return "vibecast.example.com"
+        # Use fallback or github URL if available
+        if fallback:
+            url = fallback
+        else:
+            return "github.com/domcritchlow/vibecast"
     
     return url.replace("https://", "").replace("http://", "").rstrip("/")
 
@@ -335,7 +339,7 @@ def generate_newspaper_html(
         weather=_clean_weather(weather_text),
         stories=stories,
         reading_items=reading_list,
-        site_url=_clean_url(podcast.get("site_url", "")),
+        site_url=_clean_url(podcast.get("site_url", ""), fallback=podcast.get("github_url", "")),
         duration=f"~{duration_minutes:.0f}",
         generation_date=datetime.now().strftime("%H:%M %Z"),
         accent_color=accent_color,

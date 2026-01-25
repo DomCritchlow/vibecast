@@ -561,8 +561,8 @@ def run_pipeline(dry_run: bool = False, verbose: bool = False) -> bool:
             "metadata": {
                 "created_at": datetime.now().isoformat(),
                 "llm_model": openai_config.get("llm", {}).get("model", "gpt-4o-mini"),
-                "tts_provider": tts_provider,
-                "tts_voice": provider_config.get("voice", "nova") if tts_provider == "openai" else provider_config.get("voice_id", "rachel")
+                "tts_provider": provider,
+                "tts_voice": provider_config.get("voice", "nova") if provider == "openai" else provider_config.get("voice_id", "rachel")
             }
         }
         

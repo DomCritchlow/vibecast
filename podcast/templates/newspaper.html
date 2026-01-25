@@ -6,7 +6,7 @@
     <style>
         @page {
             size: letter;
-            margin: 0.6in;
+            margin: 0.35in;
         }
         
         * {
@@ -25,6 +25,12 @@
             margin: 0;
             padding: 0;
             background: #fdfbf7;
+            /* Force single page: Letter size (11in height) - margins (0.35in * 2) = 10.3in content height */
+            height: 10.3in;
+            min-height: 10.3in;
+            max-height: 10.3in;
+            overflow: hidden;
+            position: relative;
         }
         
         /* MASTHEAD */
@@ -294,6 +300,10 @@
         
         /* FOOTER */
         .footer {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
             padding-top: 8pt;
             border-top: 2pt solid #1a1a1a;
             font-size: 8pt;
@@ -325,17 +335,23 @@
             }
         }
         
-        /* PREVENT PAGE BREAKS */
-        .masthead,
-        .content-grid,
-        .footer {
-            page-break-inside: avoid;
+        /* FORCE SINGLE PAGE - Remove page-break-inside rules that cause multi-page overflow */
+        /* Instead, we use max-height on body with overflow: hidden to clip content */
+        
+        /* Make content grid flexible to fit available space */
+        .content-grid {
+            /* Footer is now absolutely positioned at bottom, so we have more vertical space */
+            /* Body max-height is 10.3in, masthead takes ~1in, footer takes ~0.6in */
+            max-height: 8.7in;
+            overflow: hidden;
+            margin-bottom: 0.6in; /* Ensure content doesn't overlap with footer */
         }
         
-        .lead-story,
-        .story-item,
-        .reading-item {
-            page-break-inside: avoid;
+        /* Ensure columns don't exceed their container */
+        .column-left,
+        .column-middle,
+        .column-right {
+            overflow: hidden;
         }
     </style>
 </head>
