@@ -1,13 +1,7 @@
 name: Rebuild RSS Feed
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - 'podcast/rss_feed.py'
-      - 'scripts/rebuild_feed_from_r2.py'
-  workflow_dispatch:  # Manual trigger also available
+  workflow_dispatch:  # Manual trigger only - use when feed needs rebuilding without new episode
 
 jobs:
   rebuild:

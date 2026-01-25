@@ -31,15 +31,15 @@
   - Updates feed.xml with new episode
   - Regenerates site HTML
 
-### Non-Destructive Updates (No New Episodes)
-- **`regenerate-site.yml`** - Triggers on template/config changes
+### Manual-Only Workflows (Emergency Use)
+- **`regenerate-site.yml`** - Manual trigger only
   - Regenerates HTML from templates
-  - Does NOT create new episode
+  - Use when: Template changes need deploying without new episode
   
-- **`rebuild-feed.yml`** - Triggers on feed generation code changes
+- **`rebuild-feed.yml`** - Manual trigger only
   - Rebuilds feed.xml from R2 storage
   - Preserves episode GUIDs (podcast players won't see duplicates)
-  - Does NOT create new episode
+  - Use when: Feed structure needs updating without new episode
 
 ## Key Principle
 **Source of Truth:**

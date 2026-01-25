@@ -1,15 +1,7 @@
 name: Regenerate Site Pages
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - 'podcast/templates/**'
-      - 'podcast/site_generator.py'
-      - 'podcast/config.yaml'
-      - 'podcast/rss_feed.py'
-  workflow_dispatch:  # Manual trigger also available
+  workflow_dispatch:  # Manual trigger only - use when site needs regenerating without new episode
 
 jobs:
   regenerate:
