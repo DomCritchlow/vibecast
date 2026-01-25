@@ -578,7 +578,7 @@
             
             // Extract newspaper URL from description
             let newspaperUrl = null;
-            const newspaperMatch = description.match(/📰 READ: (https:\/\/[^\s\n]+)/);
+            const newspaperMatch = description.match(/📰 Full newspaper edition: (https:\/\/[^\s\n]+)/);
             if (newspaperMatch) {
                 newspaperUrl = newspaperMatch[1];
             }
