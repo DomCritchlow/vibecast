@@ -222,6 +222,13 @@ def load_existing_episodes(feed_path: str) -> list[dict]:
             if duration is not None and duration.text:
                 episode["duration"] = duration.text
             
+            # Get episode artwork (itunes:image)
+            itunes_image = item.find("itunes:image", namespaces)
+            if itunes_image is not None:
+                image_url = itunes_image.get("href", "")
+                if image_url:
+                    episode["image_url"] = image_url
+            
             episodes.append(episode)
         
         return episodes
