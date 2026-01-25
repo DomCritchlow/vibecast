@@ -22,10 +22,28 @@ import yaml
 
 
 def load_config():
-    """Load configuration from config.yaml."""
+    """Load configuration from config.yaml with environment overrides."""
     config_path = SCRIPT_DIR.parent / "podcast" / "config.yaml"
     with open(config_path, "r") as f:
-        return yaml.safe_load(f)
+        config = yaml.safe_load(f)
+    
+    # Apply environment variable overrides (same as run_daily.py)
+    if os.environ.get("VIBECAST_R2_PUBLIC_URL"):
+        config["storage"]["r2"]["public_base_url"] = os.environ["VIBECAST_R2_PUBLIC_URL"]
+    if os.environ.get("VIBECAST_AUTHOR"):
+        config["podcast"]["author"] = os.environ["VIBECAST_AUTHOR"]
+    if os.environ.get("VIBECAST_SITE_URL"):
+        config["podcast"]["site_url"] = os.environ["VIBECAST_SITE_URL"]
+    if os.environ.get("VIBECAST_FEED_URL"):
+        config["podcast"]["feed_url"] = os.environ["VIBECAST_FEED_URL"]
+    if os.environ.get("VIBECAST_OWNER_EMAIL"):
+        config["podcast"]["owner_email"] = os.environ["VIBECAST_OWNER_EMAIL"]
+    if os.environ.get("VIBECAST_ARTWORK_URL"):
+        config["podcast"]["artwork_url"] = os.environ["VIBECAST_ARTWORK_URL"]
+    if os.environ.get("VIBECAST_AUTHOR_URL"):
+        config["podcast"]["author_url"] = os.environ["VIBECAST_AUTHOR_URL"]
+    
+    return config
 
 
 def get_episodes_from_r2(config: dict) -> list[dict]:
