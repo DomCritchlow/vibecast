@@ -1,0 +1,50 @@
+# Vibecast Project Rules
+
+## NEVER Manually Edit Generated Files
+
+### Rule 1: Do NOT Edit `docs/*.html` Directly
+
+**Why?** These are GENERATED from Jinja2 templates and will be overwritten.
+
+**Correct approach:**
+1. Edit the template: `podcast/templates/*.html`
+2. Test locally: `source venv/bin/activate && python -c "from podcast.site_generator import save_site_pages; from pathlib import Path; import yaml; save_site_pages(yaml.safe_load(open('podcast/config.yaml')), Path('docs'))"`
+3. Commit ONLY the template: `git add podcast/templates/`
+4. Let GitHub Actions regenerate and deploy the HTML
+
+### Rule 2: Do NOT Edit `docs/feed.xml` Directly
+
+**Why?** The RSS feed is generated from R2 storage data + `podcast/rss_feed.py` logic.
+
+**When you need to update the feed structure:**
+1. Edit the generation logic: `podcast/rss_feed.py`
+2. Test locally: `source venv/bin/activate && set -a && source .env && set +a && python scripts/rebuild_feed_from_r2.py`
+3. Commit only the Python code: `git add podcast/rss_feed.py`
+4. GitHub Actions will rebuild feed.xml from R2 (preserving episode GUIDs)
+
+## GitHub Actions Workflows
+
+### Daily Operations
+- **`daily.yml`** - Runs at 04:00 UTC daily
+  - Creates new episode (content, audio, artwork)
+  - Uploads to R2
+  - Updates feed.xml with new episode
+  - Regenerates site HTML
+
+### Non-Destructive Updates (No New Episodes)
+- **`regenerate-site.yml`** - Triggers on template/config changes
+  - Regenerates HTML from templates
+  - Does NOT create new episode
+  
+- **`rebuild-feed.yml`** - Triggers on feed generation code changes
+  - Rebuilds feed.xml from R2 storage
+  - Preserves episode GUIDs (podcast players won't see duplicates)
+  - Does NOT create new episode
+
+## Key Principle
+**Source of Truth:**
+- Episode content/audio → R2 storage
+- RSS feed structure → `podcast/rss_feed.py` + R2 data
+- HTML pages → `podcast/templates/` + config.yaml
+
+**Never edit generated outputs - edit the source and regenerate!**

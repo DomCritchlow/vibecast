@@ -1,19 +1,20 @@
-name: Regenerate Site Pages
+name: Rebuild RSS Feed
 
 on:
   push:
     branches:
       - main
     paths:
-      - 'podcast/templates/**'
-      - 'podcast/site_generator.py'
-      - 'podcast/config.yaml'
       - 'podcast/rss_feed.py'
+      - 'scripts/rebuild_feed_from_r2.py'
   workflow_dispatch:  # Manual trigger also available
 
 jobs:
-  regenerate:
+  rebuild:
     runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
     
     steps:
       - name: Checkout repository
@@ -22,15 +23,18 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.11'
       
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
       
-      - name: Regenerate site pages from templates
+      - name: Rebuild RSS feed from R2
         env:
+          R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
+          R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
           VIBECAST_AUTHOR: ${{ secrets.VIBECAST_AUTHOR }}
           VIBECAST_SITE_URL: ${{ secrets.VIBECAST_SITE_URL }}
           VIBECAST_FEED_URL: ${{ secrets.VIBECAST_FEED_URL }}
@@ -38,29 +42,18 @@ jobs:
           VIBECAST_ARTWORK_URL: ${{ secrets.VIBECAST_ARTWORK_URL }}
           VIBECAST_AUTHOR_URL: ${{ secrets.VIBECAST_AUTHOR_URL }}
           VIBECAST_R2_PUBLIC_URL: ${{ secrets.VIBECAST_R2_PUBLIC_URL }}
-          VIBECAST_LOCATION_NAME: ${{ secrets.VIBECAST_LOCATION_NAME }}
-          VIBECAST_LOCATION_LAT: ${{ secrets.VIBECAST_LOCATION_LAT }}
-          VIBECAST_LOCATION_LON: ${{ secrets.VIBECAST_LOCATION_LON }}
           VIBECAST_TIMEZONE: ${{ secrets.VIBECAST_TIMEZONE }}
         run: |
-          python -c "
-          from podcast.site_generator import save_site_pages
-          from pathlib import Path
-          import yaml
-          
-          config = yaml.safe_load(open('podcast/config.yaml'))
-          save_site_pages(config, Path('docs'))
-          print('✓ Regenerated site pages from templates')
-          "
+          python scripts/rebuild_feed_from_r2.py
       
-      - name: Commit and push changes
+      - name: Commit and push updated feed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/*.html docs/about.html docs/docs.html
+          git add docs/feed.xml
           if git diff --staged --quiet; then
-            echo "No changes to commit"
+            echo "No changes to feed"
           else
-            git commit -m "🔄 Regenerate site pages from templates [skip ci]"
+            git commit -m "📡 Rebuild RSS feed from R2 [skip ci]"
             git push
           fi
