@@ -1,7 +1,7 @@
 {
   "guid": "2026-01-01",
   "date": "2026-01-01T00:00:00",
-  "title": "Morning Thread — January 01, 2026",
+  "title": "Eco-Footprint of Wearables & AI's Future in Community",
   "tagline": "Tech, science, and what's actually interesting",
   "duration_seconds": 270.0,
   "duration_formatted": "4:30",
@@ -53,6 +53,7 @@
   "reading_list": [],
   "metadata": {
     "migrated_at": "2026-01-25T12:24:50.452163",
-    "migration_source": "r2_storage"
+    "migration_source": "r2_storage",
+    "title_regenerated_at": "2026-01-25T12:59:25.020787"
   }
 }

@@ -45,7 +45,7 @@ def has_boring_title(title: str) -> bool:
     return False
 
 
-def generate_title_from_stories(stories: list, vibe_name: str = "Morning Thread") -> str:
+def generate_title_from_stories(stories: list, config: dict, vibe_name: str = "Morning Thread") -> str:
     """Generate an AI title from episode stories."""
     if not stories:
         return f"{vibe_name} Episode"
@@ -63,12 +63,32 @@ def generate_title_from_stories(stories: list, vibe_name: str = "Morning Thread"
     
     # Generate title using AI
     try:
-        title = generate_episode_title(items)
+        title = generate_episode_title(items, config)
         print(f"      Generated: {title}")
         return title
     except Exception as e:
         print(f"      Error generating title: {e}")
         return None
+
+
+def load_config():
+    """Load configuration from config.yaml with environment overrides."""
+    config_path = SCRIPT_DIR.parent / "podcast" / "config.yaml"
+    import yaml
+    with open(config_path, "r") as f:
+        config = yaml.safe_load(f)
+    
+    # Apply environment variable overrides
+    for key in ["AUTHOR", "SITE_URL", "FEED_URL", "OWNER_EMAIL", "ARTWORK_URL", "AUTHOR_URL"]:
+        env_var = f"VIBECAST_{key}"
+        if os.environ.get(env_var):
+            config_key = key.lower()
+            config["podcast"][config_key] = os.environ[env_var]
+    
+    if os.environ.get("VIBECAST_R2_PUBLIC_URL"):
+        config["storage"]["r2"]["public_base_url"] = os.environ["VIBECAST_R2_PUBLIC_URL"]
+    
+    return config
 
 
 def main():
@@ -79,6 +99,10 @@ def main():
     print()
     print("This script regenerates AI titles for episodes with boring titles.")
     print()
+    
+    # Load config
+    print("Loading configuration...")
+    config = load_config()
     
     # Load all episodes
     print("Loading episodes...")
@@ -126,7 +150,7 @@ def main():
         print(f"    Old: {old_title}")
         
         # Generate new title
-        new_title = generate_title_from_stories(ep["stories"])
+        new_title = generate_title_from_stories(ep["stories"], config=config)
         
         if new_title and new_title != old_title:
             # Update episode

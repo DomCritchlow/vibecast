@@ -1,7 +1,7 @@
 {
   "guid": "2026-01-25",
   "date": "2026-01-25T00:00:00",
-  "title": "Morning Thread — January 25, 2026",
+  "title": "Big Tech in Africa & NASA's Artemis II Mission Insights",
   "tagline": "Tech, science, and what's actually interesting",
   "duration_seconds": 282.0,
   "duration_formatted": "4:42",
@@ -75,6 +75,7 @@
   ],
   "metadata": {
     "migrated_at": "2026-01-25T12:25:14.960648",
-    "migration_source": "r2_storage"
+    "migration_source": "r2_storage",
+    "title_regenerated_at": "2026-01-25T12:59:52.432886"
   }
 }

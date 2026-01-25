@@ -1,7 +1,7 @@
 {
   "guid": "2026-01-15",
   "date": "2026-01-15T00:00:00",
-  "title": "Morning Thread — January 15, 2026",
+  "title": "Brain on Procrastination & AI's Impact on Science Careers",
   "tagline": "Tech, science, and what's actually interesting",
   "duration_seconds": 228.0,
   "duration_formatted": "3:48",
@@ -53,6 +53,7 @@
   "reading_list": [],
   "metadata": {
     "migrated_at": "2026-01-25T12:25:04.872897",
-    "migration_source": "r2_storage"
+    "migration_source": "r2_storage",
+    "title_regenerated_at": "2026-01-25T12:59:42.490198"
   }
 }

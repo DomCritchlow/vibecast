@@ -1,7 +1,7 @@
 {
   "guid": "2026-01-07",
   "date": "2026-01-07T00:00:00",
-  "title": "Morning Thread — January 07, 2026",
+  "title": "Innovation in Service & AI's Role in Cancer Prevention",
   "tagline": "Tech, science, and what's actually interesting",
   "duration_seconds": 270.0,
   "duration_formatted": "4:30",
@@ -53,6 +53,7 @@
   "reading_list": [],
   "metadata": {
     "migrated_at": "2026-01-25T12:24:56.456223",
-    "migration_source": "r2_storage"
+    "migration_source": "r2_storage",
+    "title_regenerated_at": "2026-01-25T12:59:33.410628"
   }
 }

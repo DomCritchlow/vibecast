@@ -1,7 +1,7 @@
 {
   "guid": "2026-01-03",
   "date": "2026-01-03T00:00:00",
-  "title": "Morning Thread — January 03, 2026",
+  "title": "Saturn-Sized Planet Found & World's Lightest RTX Laptop",
   "tagline": "Tech, science, and what's actually interesting",
   "duration_seconds": 288.0,
   "duration_formatted": "4:48",
@@ -53,6 +53,7 @@
   "reading_list": [],
   "metadata": {
     "migrated_at": "2026-01-25T12:24:52.440370",
-    "migration_source": "r2_storage"
+    "migration_source": "r2_storage",
+    "title_regenerated_at": "2026-01-25T12:59:28.396732"
   }
 }

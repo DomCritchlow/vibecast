@@ -1,7 +1,7 @@
 {
   "guid": "2026-01-06",
   "date": "2026-01-06T00:00:00",
-  "title": "Morning Thread — January 06, 2026",
+  "title": "Spacewalk Prep & Dark Matter's Ghostly Interactions",
   "tagline": "Tech, science, and what's actually interesting",
   "duration_seconds": 288.0,
   "duration_formatted": "4:48",
@@ -53,6 +53,7 @@
   "reading_list": [],
   "metadata": {
     "migrated_at": "2026-01-25T12:24:55.465341",
-    "migration_source": "r2_storage"
+    "migration_source": "r2_storage",
+    "title_regenerated_at": "2026-01-25T12:59:32.238509"
   }
 }

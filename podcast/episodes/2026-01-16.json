@@ -1,7 +1,7 @@
 {
   "guid": "2026-01-16",
   "date": "2026-01-16T00:00:00",
-  "title": "Morning Thread — January 16, 2026",
+  "title": "AI Tumor Models & Climate Tech Breakthroughs",
   "tagline": "Tech, science, and what's actually interesting",
   "duration_seconds": 228.0,
   "duration_formatted": "3:48",
@@ -53,6 +53,7 @@
   "reading_list": [],
   "metadata": {
     "migrated_at": "2026-01-25T12:25:05.786030",
-    "migration_source": "r2_storage"
+    "migration_source": "r2_storage",
+    "title_regenerated_at": "2026-01-25T12:59:43.409825"
   }
 }

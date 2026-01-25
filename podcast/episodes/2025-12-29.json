@@ -1,7 +1,7 @@
 {
   "guid": "2025-12-29",
   "date": "2025-12-29T00:00:00",
-  "title": "Morning Thread — December 29, 2025",
+  "title": "Google Breakthroughs & Fara-7B: Future of AI Research",
   "tagline": "Tech, science, and what's actually interesting",
   "duration_seconds": 276.0,
   "duration_formatted": "4:36",
@@ -53,6 +53,7 @@
   "reading_list": [],
   "metadata": {
     "migrated_at": "2026-01-25T12:24:47.320771",
-    "migration_source": "r2_storage"
+    "migration_source": "r2_storage",
+    "title_regenerated_at": "2026-01-25T12:59:19.406602"
   }
 }

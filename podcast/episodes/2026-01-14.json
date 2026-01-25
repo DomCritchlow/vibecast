@@ -1,7 +1,7 @@
 {
   "guid": "2026-01-14",
   "date": "2026-01-14T00:00:00",
-  "title": "Morning Thread — January 14, 2026",
+  "title": "NASA's Lunar Reactor & AlphaFold's African Impact",
   "tagline": "Tech, science, and what's actually interesting",
   "duration_seconds": 222.0,
   "duration_formatted": "3:42",
@@ -53,6 +53,7 @@
   "reading_list": [],
   "metadata": {
     "migrated_at": "2026-01-25T12:25:03.844665",
-    "migration_source": "r2_storage"
+    "migration_source": "r2_storage",
+    "title_regenerated_at": "2026-01-25T12:59:41.570828"
   }
 }

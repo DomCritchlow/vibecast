@@ -1,7 +1,7 @@
 {
   "guid": "2026-01-22",
   "date": "2026-01-22T00:00:00",
-  "title": "Morning Thread — January 22, 2026",
+  "title": "Artemis II Legacy & AI Factuality Benchmark Unveiled",
   "tagline": "Tech, science, and what's actually interesting",
   "duration_seconds": 270.0,
   "duration_formatted": "4:30",
@@ -75,6 +75,7 @@
   ],
   "metadata": {
     "migrated_at": "2026-01-25T12:25:11.848130",
-    "migration_source": "r2_storage"
+    "migration_source": "r2_storage",
+    "title_regenerated_at": "2026-01-25T12:59:49.374542"
   }
 }

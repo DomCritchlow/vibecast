@@ -1,7 +1,7 @@
 {
   "guid": "2026-01-21",
   "date": "2026-01-21T00:00:00",
-  "title": "Morning Thread — January 21, 2026",
+  "title": "Rejecting Science Cuts & AI's Lab Revolution",
   "tagline": "Tech, science, and what's actually interesting",
   "duration_seconds": 252.0,
   "duration_formatted": "4:12",
@@ -75,6 +75,7 @@
   ],
   "metadata": {
     "migrated_at": "2026-01-25T12:25:10.892649",
-    "migration_source": "r2_storage"
+    "migration_source": "r2_storage",
+    "title_regenerated_at": "2026-01-25T12:59:48.384195"
   }
 }

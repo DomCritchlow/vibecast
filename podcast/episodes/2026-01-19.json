@@ -1,7 +1,7 @@
 {
   "guid": "2026-01-19",
   "date": "2026-01-19T00:00:00",
-  "title": "Morning Thread — January 19, 2026",
+  "title": "AI Ethics Debate & NASA's Artemis II Preps for Launch",
   "tagline": "Tech, science, and what's actually interesting",
   "duration_seconds": 258.0,
   "duration_formatted": "4:18",
@@ -53,6 +53,7 @@
   "reading_list": [],
   "metadata": {
     "migrated_at": "2026-01-25T12:25:08.828973",
-    "migration_source": "r2_storage"
+    "migration_source": "r2_storage",
+    "title_regenerated_at": "2026-01-25T12:59:46.720180"
   }
 }

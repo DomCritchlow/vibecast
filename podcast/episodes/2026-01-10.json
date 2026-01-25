@@ -1,7 +1,7 @@
 {
   "guid": "2026-01-10",
   "date": "2026-01-10T00:00:00",
-  "title": "Morning Thread — January 10, 2026",
+  "title": "AI Exposes Fluid Glitches & Trans Scientist's Impact",
   "tagline": "Tech, science, and what's actually interesting",
   "duration_seconds": 270.0,
   "duration_formatted": "4:30",
@@ -53,6 +53,7 @@
   "reading_list": [],
   "metadata": {
     "migrated_at": "2026-01-25T12:24:59.639281",
-    "migration_source": "r2_storage"
+    "migration_source": "r2_storage",
+    "title_regenerated_at": "2026-01-25T12:59:37.628266"
   }
 }
