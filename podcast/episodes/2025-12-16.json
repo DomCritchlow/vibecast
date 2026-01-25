@@ -1,0 +1,58 @@
+{
+  "guid": "2025-12-16",
+  "date": "2025-12-16T00:00:00",
+  "title": "Morning Vibe",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 282.0,
+  "duration_formatted": "4:42",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-16.mp3",
+    "audio_size_bytes": 5412480,
+    "artwork_url": null,
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2025-12-16.txt"
+  },
+  "stories": [
+    {
+      "title": "Ten years",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/ten-years",
+      "summary": ""
+    },
+    {
+      "title": "Strengthening cyber resilience as AI capabilities advance",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/strengthening-cyber-resilience",
+      "summary": ""
+    },
+    {
+      "title": "Anti-Defamation League says anger at Israel is now the driving force behind antisemitism in the U.S.",
+      "source": "NY1 Politics",
+      "url": "http://www.ny1.com/nyc/all-boroughs/politics/2025/04/22/anti-defamation-league-says-anger-at-israel-is-now-the-driving-force-behind-antisemitism-in-the-u-s-",
+      "summary": ""
+    },
+    {
+      "title": "‘I found my people’: Frank Turner on saving Britain’s grassroots music venues",
+      "source": "Positive News",
+      "url": "https://www.positive.news/society/i-found-my-people-frank-turner-on-saving-britains-grassroots-music-venues/",
+      "summary": ""
+    },
+    {
+      "title": "How to avoid plastic tat killing the Christmas buzz",
+      "source": "Positive News",
+      "url": "https://www.positive.news/society/christmas-presents-how-to-avoid-plastic-tat-killing-the-buzz/",
+      "summary": ""
+    },
+    {
+      "title": "CNN Hero of the Year Turns Vacant Lots on Chicago’s South Side into Flower Farms",
+      "source": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/the-2025-cnn-hero-of-the-year-transforms-vacant-lots-on-chicagos-south-side-into-flower-farms/",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:24:34.275838",
+    "migration_source": "r2_storage"
+  }
+}

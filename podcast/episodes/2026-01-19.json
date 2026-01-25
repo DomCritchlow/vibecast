@@ -1,0 +1,58 @@
+{
+  "guid": "2026-01-19",
+  "date": "2026-01-19T00:00:00",
+  "title": "Morning Thread — January 19, 2026",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 258.0,
+  "duration_formatted": "4:18",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-19.mp3",
+    "audio_size_bytes": 6384160,
+    "artwork_url": null,
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-01-19.txt"
+  },
+  "stories": [
+    {
+      "title": "Ask HN: 1 year from today what will have been the worst behavior from AI corps?",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://news.ycombinator.com/item?id=46674813",
+      "summary": ""
+    },
+    {
+      "title": "AI for self empowerment",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/ai-for-human-agency",
+      "summary": ""
+    },
+    {
+      "title": "Microsoft’s first Windows 11 update of 2026 stopped some computers from shutting down",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/864032/microsofts-out-of-band-windows-11-update-bug",
+      "summary": ""
+    },
+    {
+      "title": "Show HN: PixelRipple – AI ads agent for e-commerce",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://www.pixelripple.ai/",
+      "summary": ""
+    },
+    {
+      "title": "NASA’s Artemis II Moon Rocket on Way to Launch Pad",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/blogs/missions/2026/01/17/nasas-artemis-ii-moon-rocket-on-way-to-launch-pad/",
+      "summary": ""
+    },
+    {
+      "title": "NASA Study Suggests Saturn’s Moon Titan May Not Have Global Ocean",
+      "source": "NASA JPL News",
+      "url": "https://www.jpl.nasa.gov/news/nasa-study-suggests-saturns-moon-titan-may-not-have-global-ocean",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:25:08.828973",
+    "migration_source": "r2_storage"
+  }
+}

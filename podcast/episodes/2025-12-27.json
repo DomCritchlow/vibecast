@@ -1,0 +1,58 @@
+{
+  "guid": "2025-12-27",
+  "date": "2025-12-27T00:00:00",
+  "title": "Morning Vibe",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 258.0,
+  "duration_formatted": "4:18",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-27.mp3",
+    "audio_size_bytes": 4949760,
+    "artwork_url": null,
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2025-12-27.txt"
+  },
+  "stories": [
+    {
+      "title": "Thought Extinct, Snail Scientists Embark on Largest Snail Breeding and Reintroduction Effort in History",
+      "source": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/thought-extinct-snail-scientists-embark-on-largest-snail-breeding-and-reintroduction-effort-in-history/",
+      "summary": ""
+    },
+    {
+      "title": "Atlanta Restaurant Provided for 100 Families During the Shutdown, Now Throws Christmas Giveaway for Them",
+      "source": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/atlanta-restaurant-provided-for-100-families-during-the-shutdown-now-throws-christmas-giveaway-for-them/",
+      "summary": ""
+    },
+    {
+      "title": "The top 10 mass-timber buildings of 2025",
+      "source": "Dezeen",
+      "url": "https://www.dezeen.com/2025/12/26/mass-timber-buildings-2025/",
+      "summary": ""
+    },
+    {
+      "title": "NYPD lieutenant fired after refusing to answer questions about fire at his home",
+      "source": "Gothamist (NYC)",
+      "url": "https://gothamist.com/news/nypd-lieutenant-fired-after-refusing-to-answer-questions-about-fire-at-his-home",
+      "summary": ""
+    },
+    {
+      "title": "Time to do more nothing: the art of deep hanging out",
+      "source": "Positive News",
+      "url": "https://www.positive.news/lifestyle/wander-notice-be-where-you-are-the-creative-power-of-deep-hanging-out/",
+      "summary": ""
+    },
+    {
+      "title": "What went right this week: the good news that matters",
+      "source": "Positive News",
+      "url": "https://www.positive.news/society/good-news-stories-from-week-51-of-2025/",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:24:45.291938",
+    "migration_source": "r2_storage"
+  }
+}

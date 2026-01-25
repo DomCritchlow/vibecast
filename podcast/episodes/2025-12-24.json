@@ -1,0 +1,58 @@
+{
+  "guid": "2025-12-24",
+  "date": "2025-12-24T00:00:00",
+  "title": "Morning Vibe",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 300.0,
+  "duration_formatted": "5:00",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-24.mp3",
+    "audio_size_bytes": 6013440,
+    "artwork_url": null,
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2025-12-24.txt"
+  },
+  "stories": [
+    {
+      "title": "Indian rocket launches record-breaking BlueBird 6 smartphone satellite to orbit",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/indian-rocket-launch-bluebird-6-satellite-ast-spacemobile",
+      "summary": ""
+    },
+    {
+      "title": "A season of solidarity: eight projects empowering people this Christmas",
+      "source": "Positive News",
+      "url": "https://www.positive.news/society/a-season-of-solidarity-8-grassroots-ideas-powering-christmas-2025/",
+      "summary": ""
+    },
+    {
+      "title": "Good News in History, December 23",
+      "source": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/events061223/",
+      "summary": ""
+    },
+    {
+      "title": "NASA Astronaut Nick Hague Retires",
+      "source": "NASA Breaking News",
+      "url": "https://www.nasa.gov/news-release/nasa-astronaut-nick-hague-retires/",
+      "summary": ""
+    },
+    {
+      "title": "NASA, Partners Share First Data From New US-European Sea Satellite",
+      "source": "NASA JPL News",
+      "url": "https://www.jpl.nasa.gov/news/nasa-partners-share-first-data-from-new-us-european-sea-satellite",
+      "summary": ""
+    },
+    {
+      "title": "Accessible community centre among projects from Ajman University",
+      "source": "Dezeen",
+      "url": "https://www.dezeen.com/2025/12/23/accessible-community-centre-ajman-university-schoolshows/",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:24:42.289579",
+    "migration_source": "r2_storage"
+  }
+}

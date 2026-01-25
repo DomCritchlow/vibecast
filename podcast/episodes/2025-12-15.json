@@ -1,0 +1,58 @@
+{
+  "guid": "2025-12-15",
+  "date": "2025-12-15T00:00:00",
+  "title": "Morning Vibe",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 180.0,
+  "duration_formatted": "3:00",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-15.mp3",
+    "audio_size_bytes": 3487680,
+    "artwork_url": null,
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2025-12-15.txt"
+  },
+  "stories": [
+    {
+      "title": "30,000 Animals Rescued from Illegal Captivity in the Largest Wildlife Trafficking Raid in History",
+      "source": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/30000-animals-rescued-from-illegal-captivity-in-the-largest-wildlife-trafficking-raid-in-history/",
+      "summary": ""
+    },
+    {
+      "title": "Breaking boundaries: the headsets bringing cricket to partially sighted fans",
+      "source": "Positive News",
+      "url": "https://www.positive.news/lifestyle/sport/tech-opens-cricket-to-blind-and-partially-sighted-fans/",
+      "summary": ""
+    },
+    {
+      "title": "Good News in History, December 15",
+      "source": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/events061215/",
+      "summary": ""
+    },
+    {
+      "title": "BNY builds “AI for everyone, everywhere” with OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/bny",
+      "summary": ""
+    },
+    {
+      "title": "How We Used Codex to Ship Sora for Android in 28 Days",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/shipping-sora-for-android-with-codex",
+      "summary": ""
+    },
+    {
+      "title": "The AI-Bubble – Slow hiss or big bang?",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://its.promp.td/the-ai-bubble-slow-hiss-or-big-bang/",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:24:33.280553",
+    "migration_source": "r2_storage"
+  }
+}

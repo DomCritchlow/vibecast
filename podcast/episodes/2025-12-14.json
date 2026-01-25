@@ -1,0 +1,58 @@
+{
+  "guid": "2025-12-14",
+  "date": "2025-12-14T00:00:00",
+  "title": "Morning Sunshine",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 186.0,
+  "duration_formatted": "3:06",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-14.mp3",
+    "audio_size_bytes": 3581760,
+    "artwork_url": null,
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2025-12-14.txt"
+  },
+  "stories": [
+    {
+      "title": "Good News in History, December 14",
+      "source": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/events061214/",
+      "summary": ""
+    },
+    {
+      "title": "Photographer Captures Incredible Luminous Event Over His Italian Town–For the Second Time (LOOK)",
+      "source": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/photographer-captures-incredible-luminous-event-over-his-town-for-2nd-time/",
+      "summary": ""
+    },
+    {
+      "title": "What went right this week: the good news that matters",
+      "source": "Positive News",
+      "url": "https://www.positive.news/society/good-news-stories-from-week-50-of-2025/",
+      "summary": ""
+    },
+    {
+      "title": "Abandoned oil refineries are becoming unlikely havens for wildlife",
+      "source": "Positive News",
+      "url": "https://www.positive.news/environment/abandoned-oil-refineries-are-becoming-unlikely-havens-for-wildlife/",
+      "summary": ""
+    },
+    {
+      "title": "NASA Astronaut Jonny Kim to Discuss Eight-Month Space Station Mission",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-to-discuss-eight-month-space-station-mission/",
+      "summary": ""
+    },
+    {
+      "title": "NASA’s Webb, Curiosity Named in TIME’s Best Inventions Hall of Fame",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/missions/webb/nasas-webb-curiosity-named-in-times-best-inventions-hall-of-fame/",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:24:32.240075",
+    "migration_source": "r2_storage"
+  }
+}

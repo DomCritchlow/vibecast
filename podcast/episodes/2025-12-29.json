@@ -1,0 +1,58 @@
+{
+  "guid": "2025-12-29",
+  "date": "2025-12-29T00:00:00",
+  "title": "Morning Thread — December 29, 2025",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 276.0,
+  "duration_formatted": "4:36",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-29.mp3",
+    "audio_size_bytes": 7088876,
+    "artwork_url": null,
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2025-12-29.txt"
+  },
+  "stories": [
+    {
+      "title": "Deepening our collaboration with the U.S. Department of Energy",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/us-department-of-energy-collaboration",
+      "summary": ""
+    },
+    {
+      "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
+      "summary": ""
+    },
+    {
+      "title": "Fara-7B: An Efficient Agentic Model for Computer Use",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/",
+      "summary": ""
+    },
+    {
+      "title": "MMCTAgent: Enabling multimodal reasoning over large video and image collections",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/",
+      "summary": ""
+    },
+    {
+      "title": "David Borges",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/people/david-borges/",
+      "summary": ""
+    },
+    {
+      "title": "Addendum to GPT-5.2 System Card: GPT-5.2-Codex",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/gpt-5-2-codex-system-card",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:24:47.320771",
+    "migration_source": "r2_storage"
+  }
+}

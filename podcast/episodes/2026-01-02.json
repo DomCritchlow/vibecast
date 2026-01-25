@@ -1,0 +1,58 @@
+{
+  "guid": "2026-01-02",
+  "date": "2026-01-02T00:00:00",
+  "title": "Morning Thread — January 02, 2026",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 264.0,
+  "duration_formatted": "4:24",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-02.mp3",
+    "audio_size_bytes": 4763520,
+    "artwork_url": null,
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-01-02.txt"
+  },
+  "stories": [
+    {
+      "title": "Magentic Marketplace: an open-source simulation environment for studying agentic markets",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/magentic-marketplace-an-open-source-simulation-environment-for-studying-agentic-markets/",
+      "summary": ""
+    },
+    {
+      "title": "MIT Technology Review’s most popular stories of 2025",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2025/12/26/1130318/mit-technology-review-most-popular-stories-2025/",
+      "summary": ""
+    },
+    {
+      "title": "Researchers are getting organoids pregnant with human embryos",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2025/12/23/1130415/organoid-uterus-microfluidic-chip-embryo/",
+      "summary": ""
+    },
+    {
+      "title": "Research roundup: 7 cool science stories we almost missed",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/01/research-roundup-7-cool-science-stories-we-almost-missed-2/",
+      "summary": ""
+    },
+    {
+      "title": "Lawsuit over Trump rejecting medical research grants is settled",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2025/12/feds-researchers-settle-suit-over-grants-blocked-by-now-illegal-order/",
+      "summary": ""
+    },
+    {
+      "title": "Show HN: Sentinel Shield – Pure C DMZ for AI Security (23K LOC, <1ms latency)",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://news.ycombinator.com/item?id=46460975",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:24:51.428724",
+    "migration_source": "r2_storage"
+  }
+}

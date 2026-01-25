@@ -1,0 +1,58 @@
+{
+  "guid": "2025-12-25",
+  "date": "2025-12-25T00:00:00",
+  "title": "Morning Vibe",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 276.0,
+  "duration_formatted": "4:36",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-25.mp3",
+    "audio_size_bytes": 5368800,
+    "artwork_url": null,
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2025-12-25.txt"
+  },
+  "stories": [
+    {
+      "title": "The biggest black hole breakthroughs of 2025",
+      "source": "Space.com",
+      "url": "https://www.space.com/astronomy/black-holes/the-biggest-black-hole-breakthroughs-of-2025",
+      "summary": ""
+    },
+    {
+      "title": "BYBORRE and Hollis+Morris Collaborate + Innovate to Present Knit Series",
+      "source": "Design Milk",
+      "url": "https://design-milk.com/byborre-and-hollismorris-collaborate-innovate-to-present-knit-series/",
+      "summary": ""
+    },
+    {
+      "title": "Anti-Defamation League says anger at Israel is now the driving force behind antisemitism in the U.S.",
+      "source": "NY1 Politics",
+      "url": "http://www.ny1.com/nyc/all-boroughs/politics/2025/04/22/anti-defamation-league-says-anger-at-israel-is-now-the-driving-force-behind-antisemitism-in-the-u-s-",
+      "summary": ""
+    },
+    {
+      "title": "What went right in 2025: the top 25 good news stories of the year",
+      "source": "Positive News",
+      "url": "https://www.positive.news/society/what-went-right-in-2025-the-good-news-that-mattered/",
+      "summary": ""
+    },
+    {
+      "title": "Spit-up, stand-up: the comedy clubs for mums (and babies too)",
+      "source": "Positive News",
+      "url": "https://www.positive.news/society/spit-up-stand-up-the-comedy-clubs-for-mums-and-babies-too/",
+      "summary": ""
+    },
+    {
+      "title": "Endangered Chick Appears in ‘Christmas Miracle’ Hatching to Parents Thought Infertile",
+      "source": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/endangered-chick-appears-in-christmas-miracle-hatching-to-parents-thought-infertile/",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:24:43.283402",
+    "migration_source": "r2_storage"
+  }
+}

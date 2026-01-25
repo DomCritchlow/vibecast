@@ -58,6 +58,15 @@ Every day at your scheduled time:
 - **CSS design system** — Tokens, components, and page styles for easy theming
 - **Zero server costs** — Runs on GitHub Actions free tier
 
+## Architecture
+
+Episode metadata is stored in JSON files (`podcast/episodes/*.json`) as the single source of truth. The RSS feed and website are generated from these files.
+
+**Fast regeneration**:
+```bash
+python scripts/regenerate_all.py  # <1 second
+```
+
 ## Quick Start
 
 **Want to jump right in?** Follow the **[📚 10-Minute Quickstart Guide](QUICKSTART.md)**

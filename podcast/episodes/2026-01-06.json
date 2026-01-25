@@ -1,0 +1,58 @@
+{
+  "guid": "2026-01-06",
+  "date": "2026-01-06T00:00:00",
+  "title": "Morning Thread — January 06, 2026",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 288.0,
+  "duration_formatted": "4:48",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-06.mp3",
+    "audio_size_bytes": 4901760,
+    "artwork_url": null,
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-01-06.txt"
+  },
+  "stories": [
+    {
+      "title": "Expedition 74 Gears Up for First Spacewalk of 2026",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/01/05/expedition-74-gears-up-for-first-spacewalk-of-2026/",
+      "summary": ""
+    },
+    {
+      "title": "NASA-French SWOT Satellite Provides Global Estimate of River Discharge",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/blogs/science-news/2026/01/05/swot-offers-river-discharge-estimate/",
+      "summary": ""
+    },
+    {
+      "title": "NASA, Partners Share First Data From New US-European Sea Satellite",
+      "source": "NASA JPL News",
+      "url": "https://www.jpl.nasa.gov/news/nasa-partners-share-first-data-from-new-us-european-sea-satellite",
+      "summary": ""
+    },
+    {
+      "title": "'It would be a fundamental breakthrough': Mysterious dark matter may interact with cosmic 'ghost particles'",
+      "source": "Space.com",
+      "url": "https://www.space.com/astronomy/dark-universe/it-would-be-a-fundamental-breakthrough-mysterious-dark-matter-may-interact-with-cosmic-ghost-particles",
+      "summary": ""
+    },
+    {
+      "title": "The universe may be lopsided, new research says",
+      "source": "Space.com",
+      "url": "https://www.space.com/astronomy/the-universe-may-be-lopsided-new-research-says",
+      "summary": ""
+    },
+    {
+      "title": "How Dad’s Fitness May Be Packaged and Passed Down in Sperm RNA",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:24:55.465341",
+    "migration_source": "r2_storage"
+  }
+}

@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Jan 2026 10:50:04 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 12:31:17 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -32,6 +32,53 @@
       <description><![CDATA[Tech, science, and what's actually interesting for January 25, 2026.
 
 Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Big Tech is racing to own Africa’s internet
+   Source: Rest of World
+2. Sergio Sejas
+   Source: NASA Science
+3. NASA Selects Participants to Track Artemis II Mission
+   Source: NASA Science
+4. NASA, Partners Share First Data From New US-European Sea Satellite
+   Source: NASA JPL News
+5. How Animals Build a Sense of Direction
+   Source: Quanta Magazine
+6. Why There’s No Single Best Way To Store Information
+   Source: Quanta Magazine
+
+REFERENCES:
+
+1. Big Tech is racing to own Africa’s internet
+   https://restofworld.org/2026/amazon-starlink-africa/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+
+2. Sergio Sejas
+   https://www.nasa.gov/people/sergio-sejas/
+
+3. NASA Selects Participants to Track Artemis II Mission
+   https://www.nasa.gov/technology/space-comms/nasa-selects-participants-to-track-artemis-ii-mission/
+
+4. NASA, Partners Share First Data From New US-European Sea Satellite
+   https://www.jpl.nasa.gov/news/nasa-partners-share-first-data-from-new-us-european-sea-satellite
+
+5. How Animals Build a Sense of Direction
+   https://www.quantamagazine.org/how-animals-build-a-sense-of-direction-20260121/
+
+6. Why There’s No Single Best Way To Store Information
+   https://www.quantamagazine.org/why-theres-no-single-best-way-to-store-information-20260116/
+
+READING LIST:
+Articles recommended for further reading
+
+1. EP199: Behind the Scenes: What Happens When You Enter Google.com by Alex Xu
+   https://blog.bytebytego.com/p/ep199-behind-the-scenes-what-happens
+
+2. We are hiring at ByteByteGo by Alex Xu
+   https://blog.bytebytego.com/p/we-are-hiring-at-bytebytego
+
+3. The Must-Know Fundamentals of Distributed Systems by Alex Xu
+   https://blog.bytebytego.com/p/the-must-know-fundamentals-of-distributed
 ]]></description>
       <pubDate>Sun, 25 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-25</guid>
@@ -39,6 +86,53 @@ Duration: ~5 minutes
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 25, 2026.
 
 Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Big Tech is racing to own Africa’s internet
+   Source: Rest of World
+2. Sergio Sejas
+   Source: NASA Science
+3. NASA Selects Participants to Track Artemis II Mission
+   Source: NASA Science
+4. NASA, Partners Share First Data From New US-European Sea Satellite
+   Source: NASA JPL News
+5. How Animals Build a Sense of Direction
+   Source: Quanta Magazine
+6. Why There’s No Single Best Way To Store Information
+   Source: Quanta Magazine
+
+REFERENCES:
+
+1. Big Tech is racing to own Africa’s internet
+   https://restofworld.org/2026/amazon-starlink-africa/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+
+2. Sergio Sejas
+   https://www.nasa.gov/people/sergio-sejas/
+
+3. NASA Selects Participants to Track Artemis II Mission
+   https://www.nasa.gov/technology/space-comms/nasa-selects-participants-to-track-artemis-ii-mission/
+
+4. NASA, Partners Share First Data From New US-European Sea Satellite
+   https://www.jpl.nasa.gov/news/nasa-partners-share-first-data-from-new-us-european-sea-satellite
+
+5. How Animals Build a Sense of Direction
+   https://www.quantamagazine.org/how-animals-build-a-sense-of-direction-20260121/
+
+6. Why There’s No Single Best Way To Store Information
+   https://www.quantamagazine.org/why-theres-no-single-best-way-to-store-information-20260116/
+
+READING LIST:
+Articles recommended for further reading
+
+1. EP199: Behind the Scenes: What Happens When You Enter Google.com by Alex Xu
+   https://blog.bytebytego.com/p/ep199-behind-the-scenes-what-happens
+
+2. We are hiring at ByteByteGo by Alex Xu
+   https://blog.bytebytego.com/p/we-are-hiring-at-bytebytego
+
+3. The Must-Know Fundamentals of Distributed Systems by Alex Xu
+   https://blog.bytebytego.com/p/the-must-know-fundamentals-of-distributed
 ]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -50,6 +144,53 @@ Duration: ~5 minutes
       <description><![CDATA[Tech, science, and what's actually interesting for January 24, 2026.
 
 Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Greenland is important for global research: what’s next for the island’s science?
+   Source: Nature News
+2. Ideas: Community building, machine learning, and the future of AI
+   Source: Microsoft Research Blog
+3. BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI
+   Source: Microsoft Research Blog
+4. AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems
+   Source: Hugging Face Blog
+5. TR-49 is interactive fiction for fans of deep research rabbit holes
+   Source: Ars Technica
+6. Chromebooks train schoolkids to be loyal customers, internal Google document suggests
+   Source: The Verge
+
+REFERENCES:
+
+1. Greenland is important for global research: what’s next for the island’s science?
+   https://www.nature.com/articles/d41586-026-00067-0
+
+2. Ideas: Community building, machine learning, and the future of AI
+   https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/
+
+3. BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI
+   https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/
+
+4. AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems
+   https://huggingface.co/blog/ServiceNow-AI/aprielguard
+
+5. TR-49 is interactive fiction for fans of deep research rabbit holes
+   https://arstechnica.com/gaming/2026/01/tr-49-is-interactive-fiction-for-fans-of-deep-research-rabbit-holes/
+
+6. Chromebooks train schoolkids to be loyal customers, internal Google document suggests
+   https://www.theverge.com/news/867138/google-chromebook-education-expansion-court-filings
+
+READING LIST:
+Articles recommended for further reading
+
+1. We are hiring at ByteByteGo by Alex Xu
+   https://blog.bytebytego.com/p/we-are-hiring-at-bytebytego
+
+2. The Must-Know Fundamentals of Distributed Systems by Alex Xu
+   https://blog.bytebytego.com/p/the-must-know-fundamentals-of-distributed
+
+3. How Netflix Built a Real-Time Distributed Graph for Internet Scale by Alex Xu
+   https://blog.bytebytego.com/p/how-netflix-built-a-real-time-distributed
 ]]></description>
       <pubDate>Sat, 24 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-24</guid>
@@ -57,6 +198,53 @@ Duration: ~5 minutes
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 24, 2026.
 
 Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Greenland is important for global research: what’s next for the island’s science?
+   Source: Nature News
+2. Ideas: Community building, machine learning, and the future of AI
+   Source: Microsoft Research Blog
+3. BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI
+   Source: Microsoft Research Blog
+4. AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems
+   Source: Hugging Face Blog
+5. TR-49 is interactive fiction for fans of deep research rabbit holes
+   Source: Ars Technica
+6. Chromebooks train schoolkids to be loyal customers, internal Google document suggests
+   Source: The Verge
+
+REFERENCES:
+
+1. Greenland is important for global research: what’s next for the island’s science?
+   https://www.nature.com/articles/d41586-026-00067-0
+
+2. Ideas: Community building, machine learning, and the future of AI
+   https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/
+
+3. BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI
+   https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/
+
+4. AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems
+   https://huggingface.co/blog/ServiceNow-AI/aprielguard
+
+5. TR-49 is interactive fiction for fans of deep research rabbit holes
+   https://arstechnica.com/gaming/2026/01/tr-49-is-interactive-fiction-for-fans-of-deep-research-rabbit-holes/
+
+6. Chromebooks train schoolkids to be loyal customers, internal Google document suggests
+   https://www.theverge.com/news/867138/google-chromebook-education-expansion-court-filings
+
+READING LIST:
+Articles recommended for further reading
+
+1. We are hiring at ByteByteGo by Alex Xu
+   https://blog.bytebytego.com/p/we-are-hiring-at-bytebytego
+
+2. The Must-Know Fundamentals of Distributed Systems by Alex Xu
+   https://blog.bytebytego.com/p/the-must-know-fundamentals-of-distributed
+
+3. How Netflix Built a Real-Time Distributed Graph for Internet Scale by Alex Xu
+   https://blog.bytebytego.com/p/how-netflix-built-a-real-time-distributed
 ]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -68,6 +256,53 @@ Duration: ~5 minutes
       <description><![CDATA[Tech, science, and what's actually interesting for January 23, 2026.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. Cause of vision loss discovered in overlooked genes
+   Source: Nature News
+2. ‘Bodies like ours aren’t considered in academia’
+   Source: Nature News
+3. D4RT: Teaching AI to see the world in four dimensions
+   Source: DeepMind Blog
+4. GigaTIME: Scaling tumor microenvironment modeling using virtual population generated by multimodal AI
+   Source: Microsoft Research Blog
+5. Ring can verify videos now, but that might not help you with most AI fakes
+   Source: The Verge
+6. What will tech jobs look like in 2026?
+   Source: Rest of World
+
+REFERENCES:
+
+1. Cause of vision loss discovered in overlooked genes
+   https://www.nature.com/articles/d41586-026-00207-6
+
+2. ‘Bodies like ours aren’t considered in academia’
+   https://www.nature.com/articles/d41586-026-00153-3
+
+3. D4RT: Teaching AI to see the world in four dimensions
+   https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/
+
+4. GigaTIME: Scaling tumor microenvironment modeling using virtual population generated by multimodal AI
+   https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/
+
+5. Ring can verify videos now, but that might not help you with most AI fakes
+   https://www.theverge.com/news/866441/ring-verify-security-camera-ai-fakes-video-verification
+
+6. What will tech jobs look like in 2026?
+   https://restofworld.org/2026/tech-jobs-2026-ai-layoffs-hybrid-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+
+READING LIST:
+Articles recommended for further reading
+
+1. The Must-Know Fundamentals of Distributed Systems by Alex Xu
+   https://blog.bytebytego.com/p/the-must-know-fundamentals-of-distributed
+
+2. How Netflix Built a Real-Time Distributed Graph for Internet Scale by Alex Xu
+   https://blog.bytebytego.com/p/how-netflix-built-a-real-time-distributed
+
+3. How Pinterest Built An Async Compute Platform for Billions of Task Executions by Alex Xu
+   https://blog.bytebytego.com/p/how-pinterest-built-an-async-compute
 ]]></description>
       <pubDate>Fri, 23 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-23</guid>
@@ -75,6 +310,53 @@ Duration: ~4 minutes
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 23, 2026.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. Cause of vision loss discovered in overlooked genes
+   Source: Nature News
+2. ‘Bodies like ours aren’t considered in academia’
+   Source: Nature News
+3. D4RT: Teaching AI to see the world in four dimensions
+   Source: DeepMind Blog
+4. GigaTIME: Scaling tumor microenvironment modeling using virtual population generated by multimodal AI
+   Source: Microsoft Research Blog
+5. Ring can verify videos now, but that might not help you with most AI fakes
+   Source: The Verge
+6. What will tech jobs look like in 2026?
+   Source: Rest of World
+
+REFERENCES:
+
+1. Cause of vision loss discovered in overlooked genes
+   https://www.nature.com/articles/d41586-026-00207-6
+
+2. ‘Bodies like ours aren’t considered in academia’
+   https://www.nature.com/articles/d41586-026-00153-3
+
+3. D4RT: Teaching AI to see the world in four dimensions
+   https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/
+
+4. GigaTIME: Scaling tumor microenvironment modeling using virtual population generated by multimodal AI
+   https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/
+
+5. Ring can verify videos now, but that might not help you with most AI fakes
+   https://www.theverge.com/news/866441/ring-verify-security-camera-ai-fakes-video-verification
+
+6. What will tech jobs look like in 2026?
+   https://restofworld.org/2026/tech-jobs-2026-ai-layoffs-hybrid-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+
+READING LIST:
+Articles recommended for further reading
+
+1. The Must-Know Fundamentals of Distributed Systems by Alex Xu
+   https://blog.bytebytego.com/p/the-must-know-fundamentals-of-distributed
+
+2. How Netflix Built a Real-Time Distributed Graph for Internet Scale by Alex Xu
+   https://blog.bytebytego.com/p/how-netflix-built-a-real-time-distributed
+
+3. How Pinterest Built An Async Compute Platform for Billions of Task Executions by Alex Xu
+   https://blog.bytebytego.com/p/how-pinterest-built-an-async-compute
 ]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -86,6 +368,53 @@ Duration: ~4 minutes
       <description><![CDATA[Tech, science, and what's actually interesting for January 22, 2026.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. NASA’s Artemis II Mission to Fly Legacy Keepsakes with Astronaut Crew
+   Source: NASA Science
+2. Introducing Edu for Countries
+   Source: OpenAI News
+3. How countries can end the capability overhang
+   Source: OpenAI News
+4. Deepening our partnership with the UK AI Security Institute
+   Source: DeepMind Blog
+5. FACTS Benchmark Suite: Systematically evaluating the factuality of large language models
+   Source: DeepMind Blog
+6. Agent Lightning: Adding reinforcement learning to AI agents without code rewrites
+   Source: Microsoft Research Blog
+
+REFERENCES:
+
+1. NASA’s Artemis II Mission to Fly Legacy Keepsakes with Astronaut Crew
+   https://www.nasa.gov/missions/artemis/artemis-2/nasas-artemis-ii-mission-to-fly-legacy-keepsakes-with-astronaut-crew/
+
+2. Introducing Edu for Countries
+   https://openai.com/index/edu-for-countries
+
+3. How countries can end the capability overhang
+   https://openai.com/index/how-countries-can-end-the-capability-overhang
+
+4. Deepening our partnership with the UK AI Security Institute
+   https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/
+
+5. FACTS Benchmark Suite: Systematically evaluating the factuality of large language models
+   https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/
+
+6. Agent Lightning: Adding reinforcement learning to AI agents without code rewrites
+   https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/
+
+READING LIST:
+Articles recommended for further reading
+
+1. How Netflix Built a Real-Time Distributed Graph for Internet Scale by Alex Xu
+   https://blog.bytebytego.com/p/how-netflix-built-a-real-time-distributed
+
+2. How Pinterest Built An Async Compute Platform for Billions of Task Executions by Alex Xu
+   https://blog.bytebytego.com/p/how-pinterest-built-an-async-compute
+
+3. Why AI Needs GPUs and TPUs: The Hardware Behind LLMs by Alex Xu
+   https://blog.bytebytego.com/p/why-ai-needs-gpus-and-tpus-the-hardware
 ]]></description>
       <pubDate>Thu, 22 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-22</guid>
@@ -93,6 +422,53 @@ Duration: ~4 minutes
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 22, 2026.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. NASA’s Artemis II Mission to Fly Legacy Keepsakes with Astronaut Crew
+   Source: NASA Science
+2. Introducing Edu for Countries
+   Source: OpenAI News
+3. How countries can end the capability overhang
+   Source: OpenAI News
+4. Deepening our partnership with the UK AI Security Institute
+   Source: DeepMind Blog
+5. FACTS Benchmark Suite: Systematically evaluating the factuality of large language models
+   Source: DeepMind Blog
+6. Agent Lightning: Adding reinforcement learning to AI agents without code rewrites
+   Source: Microsoft Research Blog
+
+REFERENCES:
+
+1. NASA’s Artemis II Mission to Fly Legacy Keepsakes with Astronaut Crew
+   https://www.nasa.gov/missions/artemis/artemis-2/nasas-artemis-ii-mission-to-fly-legacy-keepsakes-with-astronaut-crew/
+
+2. Introducing Edu for Countries
+   https://openai.com/index/edu-for-countries
+
+3. How countries can end the capability overhang
+   https://openai.com/index/how-countries-can-end-the-capability-overhang
+
+4. Deepening our partnership with the UK AI Security Institute
+   https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/
+
+5. FACTS Benchmark Suite: Systematically evaluating the factuality of large language models
+   https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/
+
+6. Agent Lightning: Adding reinforcement learning to AI agents without code rewrites
+   https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/
+
+READING LIST:
+Articles recommended for further reading
+
+1. How Netflix Built a Real-Time Distributed Graph for Internet Scale by Alex Xu
+   https://blog.bytebytego.com/p/how-netflix-built-a-real-time-distributed
+
+2. How Pinterest Built An Async Compute Platform for Billions of Task Executions by Alex Xu
+   https://blog.bytebytego.com/p/how-pinterest-built-an-async-compute
+
+3. Why AI Needs GPUs and TPUs: The Hardware Behind LLMs by Alex Xu
+   https://blog.bytebytego.com/p/why-ai-needs-gpus-and-tpus-the-hardware
 ]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -104,6 +480,53 @@ Duration: ~4 minutes
       <description><![CDATA[Tech, science, and what's actually interesting for January 21, 2026.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. US Congress set to reject Trump’s sweeping science budget cuts
+   Source: Nature News
+2. Trump one year on: How six US researchers plan to protect science amid chaos and cuts
+   Source: Nature News
+3. Multimodal reinforcement learning with agentic verifier for AI agents
+   Source: Microsoft Research Blog
+4. Reimagining ERP for the agentic AI era
+   Source: MIT Technology Review
+5. The UK government is backing AI that can run its own lab experiments
+   Source: MIT Technology Review
+6. Jimmy Wales Will Never Edit Donald Trump’s Wikipedia Page: He ‘Makes Me Insane’
+   Source: Wired
+
+REFERENCES:
+
+1. US Congress set to reject Trump’s sweeping science budget cuts
+   https://www.nature.com/articles/d41586-026-00163-1
+
+2. Trump one year on: How six US researchers plan to protect science amid chaos and cuts
+   https://www.nature.com/articles/d41586-026-00090-1
+
+3. Multimodal reinforcement learning with agentic verifier for AI agents
+   https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/
+
+4. Reimagining ERP for the agentic AI era
+   https://www.technologyreview.com/2026/01/20/1129965/reimagining-erp-for-the-agentic-ai-era/
+
+5. The UK government is backing AI that can run its own lab experiments
+   https://www.technologyreview.com/2026/01/20/1131462/the-uk-government-is-backing-ai-scientists-that-can-run-their-own-experiments/
+
+6. Jimmy Wales Will Never Edit Donald Trump’s Wikipedia Page: He ‘Makes Me Insane’
+   https://www.wired.com/story/the-big-interview-podcast-jimmy-wales/
+
+READING LIST:
+Articles recommended for further reading
+
+1. How Pinterest Built An Async Compute Platform for Billions of Task Executions by Alex Xu
+   https://blog.bytebytego.com/p/how-pinterest-built-an-async-compute
+
+2. Why AI Needs GPUs and TPUs: The Hardware Behind LLMs by Alex Xu
+   https://blog.bytebytego.com/p/why-ai-needs-gpus-and-tpus-the-hardware
+
+3. EP198: Best Resources to Learn AI in 2026 by Alex Xu
+   https://blog.bytebytego.com/p/ep198-best-resources-to-learn-ai
 ]]></description>
       <pubDate>Wed, 21 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-21</guid>
@@ -111,6 +534,53 @@ Duration: ~4 minutes
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 21, 2026.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. US Congress set to reject Trump’s sweeping science budget cuts
+   Source: Nature News
+2. Trump one year on: How six US researchers plan to protect science amid chaos and cuts
+   Source: Nature News
+3. Multimodal reinforcement learning with agentic verifier for AI agents
+   Source: Microsoft Research Blog
+4. Reimagining ERP for the agentic AI era
+   Source: MIT Technology Review
+5. The UK government is backing AI that can run its own lab experiments
+   Source: MIT Technology Review
+6. Jimmy Wales Will Never Edit Donald Trump’s Wikipedia Page: He ‘Makes Me Insane’
+   Source: Wired
+
+REFERENCES:
+
+1. US Congress set to reject Trump’s sweeping science budget cuts
+   https://www.nature.com/articles/d41586-026-00163-1
+
+2. Trump one year on: How six US researchers plan to protect science amid chaos and cuts
+   https://www.nature.com/articles/d41586-026-00090-1
+
+3. Multimodal reinforcement learning with agentic verifier for AI agents
+   https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/
+
+4. Reimagining ERP for the agentic AI era
+   https://www.technologyreview.com/2026/01/20/1129965/reimagining-erp-for-the-agentic-ai-era/
+
+5. The UK government is backing AI that can run its own lab experiments
+   https://www.technologyreview.com/2026/01/20/1131462/the-uk-government-is-backing-ai-scientists-that-can-run-their-own-experiments/
+
+6. Jimmy Wales Will Never Edit Donald Trump’s Wikipedia Page: He ‘Makes Me Insane’
+   https://www.wired.com/story/the-big-interview-podcast-jimmy-wales/
+
+READING LIST:
+Articles recommended for further reading
+
+1. How Pinterest Built An Async Compute Platform for Billions of Task Executions by Alex Xu
+   https://blog.bytebytego.com/p/how-pinterest-built-an-async-compute
+
+2. Why AI Needs GPUs and TPUs: The Hardware Behind LLMs by Alex Xu
+   https://blog.bytebytego.com/p/why-ai-needs-gpus-and-tpus-the-hardware
+
+3. EP198: Best Resources to Learn AI in 2026 by Alex Xu
+   https://blog.bytebytego.com/p/ep198-best-resources-to-learn-ai
 ]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -122,6 +592,41 @@ Duration: ~4 minutes
       <description><![CDATA[Tech, science, and what's actually interesting for January 20, 2026.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. Google's year in review: 8 areas with research breakthroughs in 2025
+   Source: DeepMind Blog
+2. Fara-7B: An Efficient Agentic Model for Computer Use
+   Source: Microsoft Research Blog
+3. MMCTAgent: Enabling multimodal reasoning over large video and image collections
+   Source: Microsoft Research Blog
+4. China previews how powerful its new Xuntian space telescope will be ahead of 2027 launch (video)
+   Source: Space.com
+5. Floating science stations: my month on a research vessel looking after buoys
+   Source: Nature News
+6. AI for self empowerment
+   Source: OpenAI News
+
+REFERENCES:
+
+1. Google's year in review: 8 areas with research breakthroughs in 2025
+   https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/
+
+2. Fara-7B: An Efficient Agentic Model for Computer Use
+   https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/
+
+3. MMCTAgent: Enabling multimodal reasoning over large video and image collections
+   https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/
+
+4. China previews how powerful its new Xuntian space telescope will be ahead of 2027 launch (video)
+   https://www.space.com/astronomy/china-previews-how-powerful-its-new-xuntian-space-telescope-will-be-ahead-of-2027-launch-video
+
+5. Floating science stations: my month on a research vessel looking after buoys
+   https://www.nature.com/articles/d41586-026-00189-5
+
+6. AI for self empowerment
+   https://openai.com/index/ai-for-self-empowerment
 ]]></description>
       <pubDate>Tue, 20 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-20</guid>
@@ -129,6 +634,41 @@ Duration: ~4 minutes
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 20, 2026.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. Google's year in review: 8 areas with research breakthroughs in 2025
+   Source: DeepMind Blog
+2. Fara-7B: An Efficient Agentic Model for Computer Use
+   Source: Microsoft Research Blog
+3. MMCTAgent: Enabling multimodal reasoning over large video and image collections
+   Source: Microsoft Research Blog
+4. China previews how powerful its new Xuntian space telescope will be ahead of 2027 launch (video)
+   Source: Space.com
+5. Floating science stations: my month on a research vessel looking after buoys
+   Source: Nature News
+6. AI for self empowerment
+   Source: OpenAI News
+
+REFERENCES:
+
+1. Google's year in review: 8 areas with research breakthroughs in 2025
+   https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/
+
+2. Fara-7B: An Efficient Agentic Model for Computer Use
+   https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/
+
+3. MMCTAgent: Enabling multimodal reasoning over large video and image collections
+   https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/
+
+4. China previews how powerful its new Xuntian space telescope will be ahead of 2027 launch (video)
+   https://www.space.com/astronomy/china-previews-how-powerful-its-new-xuntian-space-telescope-will-be-ahead-of-2027-launch-video
+
+5. Floating science stations: my month on a research vessel looking after buoys
+   https://www.nature.com/articles/d41586-026-00189-5
+
+6. AI for self empowerment
+   https://openai.com/index/ai-for-self-empowerment
 ]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -140,6 +680,41 @@ Duration: ~4 minutes
       <description><![CDATA[Tech, science, and what's actually interesting for January 19, 2026.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. Ask HN: 1 year from today what will have been the worst behavior from AI corps?
+   Source: Hacker News (AI filtered)
+2. AI for self empowerment
+   Source: OpenAI News
+3. Microsoft’s first Windows 11 update of 2026 stopped some computers from shutting down
+   Source: The Verge
+4. Show HN: PixelRipple – AI ads agent for e-commerce
+   Source: Hacker News (AI filtered)
+5. NASA’s Artemis II Moon Rocket on Way to Launch Pad
+   Source: NASA Science
+6. NASA Study Suggests Saturn’s Moon Titan May Not Have Global Ocean
+   Source: NASA JPL News
+
+REFERENCES:
+
+1. Ask HN: 1 year from today what will have been the worst behavior from AI corps?
+   https://news.ycombinator.com/item?id=46674813
+
+2. AI for self empowerment
+   https://openai.com/index/ai-for-human-agency
+
+3. Microsoft’s first Windows 11 update of 2026 stopped some computers from shutting down
+   https://www.theverge.com/news/864032/microsofts-out-of-band-windows-11-update-bug
+
+4. Show HN: PixelRipple – AI ads agent for e-commerce
+   https://www.pixelripple.ai/
+
+5. NASA’s Artemis II Moon Rocket on Way to Launch Pad
+   https://www.nasa.gov/blogs/missions/2026/01/17/nasas-artemis-ii-moon-rocket-on-way-to-launch-pad/
+
+6. NASA Study Suggests Saturn’s Moon Titan May Not Have Global Ocean
+   https://www.jpl.nasa.gov/news/nasa-study-suggests-saturns-moon-titan-may-not-have-global-ocean
 ]]></description>
       <pubDate>Mon, 19 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-19</guid>
@@ -147,6 +722,41 @@ Duration: ~4 minutes
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 19, 2026.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. Ask HN: 1 year from today what will have been the worst behavior from AI corps?
+   Source: Hacker News (AI filtered)
+2. AI for self empowerment
+   Source: OpenAI News
+3. Microsoft’s first Windows 11 update of 2026 stopped some computers from shutting down
+   Source: The Verge
+4. Show HN: PixelRipple – AI ads agent for e-commerce
+   Source: Hacker News (AI filtered)
+5. NASA’s Artemis II Moon Rocket on Way to Launch Pad
+   Source: NASA Science
+6. NASA Study Suggests Saturn’s Moon Titan May Not Have Global Ocean
+   Source: NASA JPL News
+
+REFERENCES:
+
+1. Ask HN: 1 year from today what will have been the worst behavior from AI corps?
+   https://news.ycombinator.com/item?id=46674813
+
+2. AI for self empowerment
+   https://openai.com/index/ai-for-human-agency
+
+3. Microsoft’s first Windows 11 update of 2026 stopped some computers from shutting down
+   https://www.theverge.com/news/864032/microsofts-out-of-band-windows-11-update-bug
+
+4. Show HN: PixelRipple – AI ads agent for e-commerce
+   https://www.pixelripple.ai/
+
+5. NASA’s Artemis II Moon Rocket on Way to Launch Pad
+   https://www.nasa.gov/blogs/missions/2026/01/17/nasas-artemis-ii-moon-rocket-on-way-to-launch-pad/
+
+6. NASA Study Suggests Saturn’s Moon Titan May Not Have Global Ocean
+   https://www.jpl.nasa.gov/news/nasa-study-suggests-saturns-moon-titan-may-not-have-global-ocean
 ]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -157,6 +767,41 @@ Duration: ~4 minutes
       <description><![CDATA[Tech, science, and what's actually interesting for January 18, 2026.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. Using AI, Mathematicians Find Hidden Glitches in Fluid Equations
+   Source: Quanta Magazine
+2. Datadog uses Codex for system-level code review
+   Source: OpenAI News
+3. The Setapp Mobile iOS store is shutting down on February 16th
+   Source: The Verge
+4. The best deals on MacBooks right now
+   Source: The Verge
+5. Show HN: Nex.Design – AI ads agent for e-commerce
+   Source: Hacker News (AI filtered)
+6. NASA’s Moonbound Artemis II Rocket Reaches Launch Pad
+   Source: NASA Science
+
+REFERENCES:
+
+1. Using AI, Mathematicians Find Hidden Glitches in Fluid Equations
+   https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/
+
+2. Datadog uses Codex for system-level code review
+   https://openai.com/index/datadog
+
+3. The Setapp Mobile iOS store is shutting down on February 16th
+   https://www.theverge.com/news/863978/setapp-mobile-ios-store-shutdown
+
+4. The best deals on MacBooks right now
+   https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals
+
+5. Show HN: Nex.Design – AI ads agent for e-commerce
+   https://www.nex.design/
+
+6. NASA’s Moonbound Artemis II Rocket Reaches Launch Pad
+   https://www.nasa.gov/blogs/missions/2026/01/17/nasas-moonbound-artemis-ii-rocket-reaches-launch-pad/
 ]]></description>
       <pubDate>Sun, 18 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-18</guid>
@@ -164,6 +809,41 @@ Duration: ~4 minutes
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 18, 2026.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. Using AI, Mathematicians Find Hidden Glitches in Fluid Equations
+   Source: Quanta Magazine
+2. Datadog uses Codex for system-level code review
+   Source: OpenAI News
+3. The Setapp Mobile iOS store is shutting down on February 16th
+   Source: The Verge
+4. The best deals on MacBooks right now
+   Source: The Verge
+5. Show HN: Nex.Design – AI ads agent for e-commerce
+   Source: Hacker News (AI filtered)
+6. NASA’s Moonbound Artemis II Rocket Reaches Launch Pad
+   Source: NASA Science
+
+REFERENCES:
+
+1. Using AI, Mathematicians Find Hidden Glitches in Fluid Equations
+   https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/
+
+2. Datadog uses Codex for system-level code review
+   https://openai.com/index/datadog
+
+3. The Setapp Mobile iOS store is shutting down on February 16th
+   https://www.theverge.com/news/863978/setapp-mobile-ios-store-shutdown
+
+4. The best deals on MacBooks right now
+   https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals
+
+5. Show HN: Nex.Design – AI ads agent for e-commerce
+   https://www.nex.design/
+
+6. NASA’s Moonbound Artemis II Rocket Reaches Launch Pad
+   https://www.nasa.gov/blogs/missions/2026/01/17/nasas-moonbound-artemis-ii-rocket-reaches-launch-pad/
 ]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -174,6 +854,41 @@ Duration: ~4 minutes
       <description><![CDATA[Tech, science, and what's actually interesting for January 17, 2026.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. ROSES-25: D.5 Astrophysics Pioneers Updates
+   Source: NASA Science
+2. Three technologies that will shape biotech in 2026
+   Source: MIT Technology Review
+3. Netomi’s lessons for scaling agentic systems into the enterprise
+   Source: OpenAI News
+4. Ideas: Community building, machine learning, and the future of AI
+   Source: Microsoft Research Blog
+5. BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI
+   Source: Microsoft Research Blog
+6. AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems
+   Source: Hugging Face Blog
+
+REFERENCES:
+
+1. ROSES-25: D.5 Astrophysics Pioneers Updates
+   https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/roses-25-d-5-astrophysics-pioneers-updates/
+
+2. Three technologies that will shape biotech in 2026
+   https://www.technologyreview.com/2026/01/16/1131363/three-technologies-shape-biotech-in-2026-gene-editing-embryo-scoring/
+
+3. Netomi’s lessons for scaling agentic systems into the enterprise
+   https://openai.com/index/netomi
+
+4. Ideas: Community building, machine learning, and the future of AI
+   https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/
+
+5. BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI
+   https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/
+
+6. AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems
+   https://huggingface.co/blog/ServiceNow-AI/aprielguard
 ]]></description>
       <pubDate>Sat, 17 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-17</guid>
@@ -181,6 +896,41 @@ Duration: ~4 minutes
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 17, 2026.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. ROSES-25: D.5 Astrophysics Pioneers Updates
+   Source: NASA Science
+2. Three technologies that will shape biotech in 2026
+   Source: MIT Technology Review
+3. Netomi’s lessons for scaling agentic systems into the enterprise
+   Source: OpenAI News
+4. Ideas: Community building, machine learning, and the future of AI
+   Source: Microsoft Research Blog
+5. BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI
+   Source: Microsoft Research Blog
+6. AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems
+   Source: Hugging Face Blog
+
+REFERENCES:
+
+1. ROSES-25: D.5 Astrophysics Pioneers Updates
+   https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/roses-25-d-5-astrophysics-pioneers-updates/
+
+2. Three technologies that will shape biotech in 2026
+   https://www.technologyreview.com/2026/01/16/1131363/three-technologies-shape-biotech-in-2026-gene-editing-embryo-scoring/
+
+3. Netomi’s lessons for scaling agentic systems into the enterprise
+   https://openai.com/index/netomi
+
+4. Ideas: Community building, machine learning, and the future of AI
+   https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/
+
+5. BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI
+   https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/
+
+6. AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems
+   https://huggingface.co/blog/ServiceNow-AI/aprielguard
 ]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -191,6 +941,41 @@ Duration: ~4 minutes
       <description><![CDATA[Tech, science, and what's actually interesting for January 16, 2026.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. Making progress on global health will need high-quality evidence
+   Source: Nature News
+2. PhD students’ taste for risk mirrors their supervisors’
+   Source: Nature News
+3. GigaTIME: Scaling tumor microenvironment modeling using virtual population generated by multimodal AI
+   Source: Microsoft Research Blog
+4. Introducing OptiMind, a research model designed for optimization
+   Source: Hugging Face Blog
+5. Three climate technologies breaking through in 2026
+   Source: MIT Technology Review
+6. The Download: introducing this year’s 10 Breakthrough Technologies
+   Source: MIT Technology Review
+
+REFERENCES:
+
+1. Making progress on global health will need high-quality evidence
+   https://www.nature.com/articles/d41586-026-00073-2
+
+2. PhD students’ taste for risk mirrors their supervisors’
+   https://www.nature.com/articles/d41586-026-00160-4
+
+3. GigaTIME: Scaling tumor microenvironment modeling using virtual population generated by multimodal AI
+   https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/
+
+4. Introducing OptiMind, a research model designed for optimization
+   https://huggingface.co/blog/microsoft/optimind
+
+5. Three climate technologies breaking through in 2026
+   https://www.technologyreview.com/2026/01/15/1131348/climate-technologies-2026/
+
+6. The Download: introducing this year’s 10 Breakthrough Technologies
+   https://www.technologyreview.com/2026/01/12/1131176/the-download-introducing-this-years-10-breakthrough-technologies/
 ]]></description>
       <pubDate>Fri, 16 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-16</guid>
@@ -198,6 +983,41 @@ Duration: ~4 minutes
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 16, 2026.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. Making progress on global health will need high-quality evidence
+   Source: Nature News
+2. PhD students’ taste for risk mirrors their supervisors’
+   Source: Nature News
+3. GigaTIME: Scaling tumor microenvironment modeling using virtual population generated by multimodal AI
+   Source: Microsoft Research Blog
+4. Introducing OptiMind, a research model designed for optimization
+   Source: Hugging Face Blog
+5. Three climate technologies breaking through in 2026
+   Source: MIT Technology Review
+6. The Download: introducing this year’s 10 Breakthrough Technologies
+   Source: MIT Technology Review
+
+REFERENCES:
+
+1. Making progress on global health will need high-quality evidence
+   https://www.nature.com/articles/d41586-026-00073-2
+
+2. PhD students’ taste for risk mirrors their supervisors’
+   https://www.nature.com/articles/d41586-026-00160-4
+
+3. GigaTIME: Scaling tumor microenvironment modeling using virtual population generated by multimodal AI
+   https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/
+
+4. Introducing OptiMind, a research model designed for optimization
+   https://huggingface.co/blog/microsoft/optimind
+
+5. Three climate technologies breaking through in 2026
+   https://www.technologyreview.com/2026/01/15/1131348/climate-technologies-2026/
+
+6. The Download: introducing this year’s 10 Breakthrough Technologies
+   https://www.technologyreview.com/2026/01/12/1131176/the-download-introducing-this-years-10-breakthrough-technologies/
 ]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -208,6 +1028,41 @@ Duration: ~4 minutes
       <description><![CDATA[Tech, science, and what's actually interesting for January 15, 2026.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. ROSES-25 Amendment 38: D.5 Astrophysics Pioneers Updates
+   Source: NASA Science
+2. Neuroscientists Decipher Procrastination: A Brain Mechanism Explains Why People Leave Certain Tasks for Later
+   Source: Wired
+3. Do you have a side hustle alongside your PhD studies? Take <i>Nature</i>’s poll
+   Source: Nature News
+4. AI can turbocharge scientists’ careers — but limit their scope
+   Source: Nature News
+5. FACTS Benchmark Suite: Systematically evaluating the factuality of large language models
+   Source: DeepMind Blog
+6. Agent Lightning: Adding reinforcement learning to AI agents without code rewrites
+   Source: Microsoft Research Blog
+
+REFERENCES:
+
+1. ROSES-25 Amendment 38: D.5 Astrophysics Pioneers Updates
+   https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/roses-25-amendment-38-d-5-astrophysics-pioneers-updates/
+
+2. Neuroscientists Decipher Procrastination: A Brain Mechanism Explains Why People Leave Certain Tasks for Later
+   https://www.wired.com/story/neuroscience-procrastination-brain-mechanism-task-avoidance/
+
+3. Do you have a side hustle alongside your PhD studies? Take <i>Nature</i>’s poll
+   https://www.nature.com/articles/d41586-026-00145-3
+
+4. AI can turbocharge scientists’ careers — but limit their scope
+   https://www.nature.com/articles/d41586-026-00162-2
+
+5. FACTS Benchmark Suite: Systematically evaluating the factuality of large language models
+   https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/
+
+6. Agent Lightning: Adding reinforcement learning to AI agents without code rewrites
+   https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/
 ]]></description>
       <pubDate>Thu, 15 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-15</guid>
@@ -215,6 +1070,41 @@ Duration: ~4 minutes
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 15, 2026.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. ROSES-25 Amendment 38: D.5 Astrophysics Pioneers Updates
+   Source: NASA Science
+2. Neuroscientists Decipher Procrastination: A Brain Mechanism Explains Why People Leave Certain Tasks for Later
+   Source: Wired
+3. Do you have a side hustle alongside your PhD studies? Take <i>Nature</i>’s poll
+   Source: Nature News
+4. AI can turbocharge scientists’ careers — but limit their scope
+   Source: Nature News
+5. FACTS Benchmark Suite: Systematically evaluating the factuality of large language models
+   Source: DeepMind Blog
+6. Agent Lightning: Adding reinforcement learning to AI agents without code rewrites
+   Source: Microsoft Research Blog
+
+REFERENCES:
+
+1. ROSES-25 Amendment 38: D.5 Astrophysics Pioneers Updates
+   https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/roses-25-amendment-38-d-5-astrophysics-pioneers-updates/
+
+2. Neuroscientists Decipher Procrastination: A Brain Mechanism Explains Why People Leave Certain Tasks for Later
+   https://www.wired.com/story/neuroscience-procrastination-brain-mechanism-task-avoidance/
+
+3. Do you have a side hustle alongside your PhD studies? Take <i>Nature</i>’s poll
+   https://www.nature.com/articles/d41586-026-00145-3
+
+4. AI can turbocharge scientists’ careers — but limit their scope
+   https://www.nature.com/articles/d41586-026-00162-2
+
+5. FACTS Benchmark Suite: Systematically evaluating the factuality of large language models
+   https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/
+
+6. Agent Lightning: Adding reinforcement learning to AI agents without code rewrites
+   https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/
 ]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -225,6 +1115,41 @@ Duration: ~4 minutes
       <description><![CDATA[Tech, science, and what's actually interesting for January 14, 2026.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. When industry knowledge meets PIKE-RAG: The innovation behind Signify’s customer service boost
+   Source: Microsoft Research Blog
+2. NASA’s Pandora Small Satellite Launched
+   Source: NASA Science
+3. NASA, Department of Energy to Develop Lunar Surface Reactor by 2030
+   Source: NASA Science
+4. Should the Loch Ness Monster have a scientific name?
+   Source: Nature News
+5. AlphaFold can help African researchers to do cutting-edge structural biology
+   Source: Nature News
+6. Deepening our partnership with the UK AI Security Institute
+   Source: DeepMind Blog
+
+REFERENCES:
+
+1. When industry knowledge meets PIKE-RAG: The innovation behind Signify’s customer service boost
+   https://www.microsoft.com/en-us/research/blog/when-industry-knowledge-meets-pike-rag-the-innovation-behind-signifys-customer-service-boost/
+
+2. NASA’s Pandora Small Satellite Launched
+   https://www.nasa.gov/image-article/nasas-pandora-small-satellite-launched/
+
+3. NASA, Department of Energy to Develop Lunar Surface Reactor by 2030
+   https://www.nasa.gov/news-release/nasa-department-of-energy-to-develop-lunar-surface-reactor-by-2030/
+
+4. Should the Loch Ness Monster have a scientific name?
+   https://www.nature.com/articles/d41586-025-03991-9
+
+5. AlphaFold can help African researchers to do cutting-edge structural biology
+   https://www.nature.com/articles/d41586-026-00072-3
+
+6. Deepening our partnership with the UK AI Security Institute
+   https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/
 ]]></description>
       <pubDate>Wed, 14 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-14</guid>
@@ -232,6 +1157,41 @@ Duration: ~4 minutes
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 14, 2026.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. When industry knowledge meets PIKE-RAG: The innovation behind Signify’s customer service boost
+   Source: Microsoft Research Blog
+2. NASA’s Pandora Small Satellite Launched
+   Source: NASA Science
+3. NASA, Department of Energy to Develop Lunar Surface Reactor by 2030
+   Source: NASA Science
+4. Should the Loch Ness Monster have a scientific name?
+   Source: Nature News
+5. AlphaFold can help African researchers to do cutting-edge structural biology
+   Source: Nature News
+6. Deepening our partnership with the UK AI Security Institute
+   Source: DeepMind Blog
+
+REFERENCES:
+
+1. When industry knowledge meets PIKE-RAG: The innovation behind Signify’s customer service boost
+   https://www.microsoft.com/en-us/research/blog/when-industry-knowledge-meets-pike-rag-the-innovation-behind-signifys-customer-service-boost/
+
+2. NASA’s Pandora Small Satellite Launched
+   https://www.nasa.gov/image-article/nasas-pandora-small-satellite-launched/
+
+3. NASA, Department of Energy to Develop Lunar Surface Reactor by 2030
+   https://www.nasa.gov/news-release/nasa-department-of-energy-to-develop-lunar-surface-reactor-by-2030/
+
+4. Should the Loch Ness Monster have a scientific name?
+   https://www.nature.com/articles/d41586-025-03991-9
+
+5. AlphaFold can help African researchers to do cutting-edge structural biology
+   https://www.nature.com/articles/d41586-026-00072-3
+
+6. Deepening our partnership with the UK AI Security Institute
+   https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/
 ]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -242,6 +1202,41 @@ Duration: ~4 minutes
       <description><![CDATA[Tech, science, and what's actually interesting for January 13, 2026.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. Google's year in review: 8 areas with research breakthroughs in 2025
+   Source: DeepMind Blog
+2. Fara-7B: An Efficient Agentic Model for Computer Use
+   Source: Microsoft Research Blog
+3. MMCTAgent: Enabling multimodal reasoning over large video and image collections
+   Source: Microsoft Research Blog
+4. Mitigating emissions from air freight: Unlocking the potential of SAF with book and claim
+   Source: MIT Technology Review
+5. US scientists push back as Trump eyes Greenland
+   Source: Nature News
+6. Fresh starts: how to thrive when you leave academia
+   Source: Nature News
+
+REFERENCES:
+
+1. Google's year in review: 8 areas with research breakthroughs in 2025
+   https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/
+
+2. Fara-7B: An Efficient Agentic Model for Computer Use
+   https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/
+
+3. MMCTAgent: Enabling multimodal reasoning over large video and image collections
+   https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/
+
+4. Mitigating emissions from air freight: Unlocking the potential of SAF with book and claim
+   https://www.technologyreview.com/2026/01/12/1128939/mitigating-emissions-from-air-freight-unlocking-the-potential-of-saf-with-book-and-claim/
+
+5. US scientists push back as Trump eyes Greenland
+   https://www.nature.com/articles/d41586-026-00068-z
+
+6. Fresh starts: how to thrive when you leave academia
+   https://www.nature.com/articles/d41586-026-00085-y
 ]]></description>
       <pubDate>Tue, 13 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-13</guid>
@@ -249,6 +1244,41 @@ Duration: ~4 minutes
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 13, 2026.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. Google's year in review: 8 areas with research breakthroughs in 2025
+   Source: DeepMind Blog
+2. Fara-7B: An Efficient Agentic Model for Computer Use
+   Source: Microsoft Research Blog
+3. MMCTAgent: Enabling multimodal reasoning over large video and image collections
+   Source: Microsoft Research Blog
+4. Mitigating emissions from air freight: Unlocking the potential of SAF with book and claim
+   Source: MIT Technology Review
+5. US scientists push back as Trump eyes Greenland
+   Source: Nature News
+6. Fresh starts: how to thrive when you leave academia
+   Source: Nature News
+
+REFERENCES:
+
+1. Google's year in review: 8 areas with research breakthroughs in 2025
+   https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/
+
+2. Fara-7B: An Efficient Agentic Model for Computer Use
+   https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/
+
+3. MMCTAgent: Enabling multimodal reasoning over large video and image collections
+   https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/
+
+4. Mitigating emissions from air freight: Unlocking the potential of SAF with book and claim
+   https://www.technologyreview.com/2026/01/12/1128939/mitigating-emissions-from-air-freight-unlocking-the-potential-of-saf-with-book-and-claim/
+
+5. US scientists push back as Trump eyes Greenland
+   https://www.nature.com/articles/d41586-026-00068-z
+
+6. Fresh starts: how to thrive when you leave academia
+   https://www.nature.com/articles/d41586-026-00085-y
 ]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -259,6 +1289,41 @@ Duration: ~4 minutes
       <description><![CDATA[Tech, science, and what's actually interesting for January 12, 2026.
 
 Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Using unstructured data to fuel enterprise AI success
+   Source: MIT Technology Review
+2. Google pulls AI overviews for some medical searches
+   Source: The Verge
+3. Countries are outlawing online gambling ads. Meta is selling them anyway
+   Source: Rest of World
+4. Show HN: Remember Me AI (FULL RELEASE) – 40x cost reduction in AI memory systems
+   Source: Hacker News (AI filtered)
+5. Ask HN: Has anyone built payment flows inside AI voice calls?
+   Source: Hacker News (AI filtered)
+6. NASA’s Exoplanet Observing Satellite Separated From Rocket
+   Source: NASA Science
+
+REFERENCES:
+
+1. Using unstructured data to fuel enterprise AI success
+   https://www.technologyreview.com/2026/01/08/1129506/using-unstructured-data-to-fuel-enterprise-ai-success/
+
+2. Google pulls AI overviews for some medical searches
+   https://www.theverge.com/news/860356/google-pulls-alarming-dangerous-medical-ai-overviews
+
+3. Countries are outlawing online gambling ads. Meta is selling them anyway
+   https://restofworld.org/2026/meta-online-gambling-ads/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+
+4. Show HN: Remember Me AI (FULL RELEASE) – 40x cost reduction in AI memory systems
+   https://github.com/merchantmoh-debug/Remember-Me-AI
+
+5. Ask HN: Has anyone built payment flows inside AI voice calls?
+   https://news.ycombinator.com/item?id=46584015
+
+6. NASA’s Exoplanet Observing Satellite Separated From Rocket
+   https://www.nasa.gov/blogs/smallsatellites/2026/01/11/nasas-exoplanet-observing-satellite-separated-from-rocket/
 ]]></description>
       <pubDate>Mon, 12 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-12</guid>
@@ -266,6 +1331,41 @@ Duration: ~5 minutes
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 12, 2026.
 
 Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Using unstructured data to fuel enterprise AI success
+   Source: MIT Technology Review
+2. Google pulls AI overviews for some medical searches
+   Source: The Verge
+3. Countries are outlawing online gambling ads. Meta is selling them anyway
+   Source: Rest of World
+4. Show HN: Remember Me AI (FULL RELEASE) – 40x cost reduction in AI memory systems
+   Source: Hacker News (AI filtered)
+5. Ask HN: Has anyone built payment flows inside AI voice calls?
+   Source: Hacker News (AI filtered)
+6. NASA’s Exoplanet Observing Satellite Separated From Rocket
+   Source: NASA Science
+
+REFERENCES:
+
+1. Using unstructured data to fuel enterprise AI success
+   https://www.technologyreview.com/2026/01/08/1129506/using-unstructured-data-to-fuel-enterprise-ai-success/
+
+2. Google pulls AI overviews for some medical searches
+   https://www.theverge.com/news/860356/google-pulls-alarming-dangerous-medical-ai-overviews
+
+3. Countries are outlawing online gambling ads. Meta is selling them anyway
+   https://restofworld.org/2026/meta-online-gambling-ads/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+
+4. Show HN: Remember Me AI (FULL RELEASE) – 40x cost reduction in AI memory systems
+   https://github.com/merchantmoh-debug/Remember-Me-AI
+
+5. Ask HN: Has anyone built payment flows inside AI voice calls?
+   https://news.ycombinator.com/item?id=46584015
+
+6. NASA’s Exoplanet Observing Satellite Separated From Rocket
+   https://www.nasa.gov/blogs/smallsatellites/2026/01/11/nasas-exoplanet-observing-satellite-separated-from-rocket/
 ]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -276,6 +1376,41 @@ Duration: ~5 minutes
       <description><![CDATA[Tech, science, and what's actually interesting for January 11, 2026.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. AI models were given four weeks of therapy: the results worried researchers
+   Source: Nature News
+2. Chinese nuclear fusion reactor pushes plasma past crucial limit: what happens next
+   Source: Nature News
+3. America’s new dietary guidelines ignore decades of scientific research
+   Source: MIT Technology Review
+4. The Download: mimicking pregnancy’s first moments in a lab, and AI parameters explained
+   Source: MIT Technology Review
+5. I replaced Windows with Linux and everything’s going great
+   Source: The Verge
+6. OpenAI has launched ChatGPT Health. Should we trust it?
+   Source: Rest of World
+
+REFERENCES:
+
+1. AI models were given four weeks of therapy: the results worried researchers
+   https://www.nature.com/articles/d41586-025-04112-2
+
+2. Chinese nuclear fusion reactor pushes plasma past crucial limit: what happens next
+   https://www.nature.com/articles/d41586-026-00063-4
+
+3. America’s new dietary guidelines ignore decades of scientific research
+   https://www.technologyreview.com/2026/01/08/1130905/americas-diet-guidelines-ignore-scientific-research-red-meat-beef-tallow/
+
+4. The Download: mimicking pregnancy’s first moments in a lab, and AI parameters explained
+   https://www.technologyreview.com/2026/01/08/1130880/the-download-mimicking-pregnancys-first-moments-in-a-lab-and-ai-parameters-explained/
+
+5. I replaced Windows with Linux and everything’s going great
+   https://www.theverge.com/tech/858910/linux-diary-gaming-desktop
+
+6. OpenAI has launched ChatGPT Health. Should we trust it?
+   https://restofworld.org/2026/openai-has-launched-chatgpt-health-should-we-trust-it/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 ]]></description>
       <pubDate>Sun, 11 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-11</guid>
@@ -283,6 +1418,41 @@ Duration: ~4 minutes
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 11, 2026.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. AI models were given four weeks of therapy: the results worried researchers
+   Source: Nature News
+2. Chinese nuclear fusion reactor pushes plasma past crucial limit: what happens next
+   Source: Nature News
+3. America’s new dietary guidelines ignore decades of scientific research
+   Source: MIT Technology Review
+4. The Download: mimicking pregnancy’s first moments in a lab, and AI parameters explained
+   Source: MIT Technology Review
+5. I replaced Windows with Linux and everything’s going great
+   Source: The Verge
+6. OpenAI has launched ChatGPT Health. Should we trust it?
+   Source: Rest of World
+
+REFERENCES:
+
+1. AI models were given four weeks of therapy: the results worried researchers
+   https://www.nature.com/articles/d41586-025-04112-2
+
+2. Chinese nuclear fusion reactor pushes plasma past crucial limit: what happens next
+   https://www.nature.com/articles/d41586-026-00063-4
+
+3. America’s new dietary guidelines ignore decades of scientific research
+   https://www.technologyreview.com/2026/01/08/1130905/americas-diet-guidelines-ignore-scientific-research-red-meat-beef-tallow/
+
+4. The Download: mimicking pregnancy’s first moments in a lab, and AI parameters explained
+   https://www.technologyreview.com/2026/01/08/1130880/the-download-mimicking-pregnancys-first-moments-in-a-lab-and-ai-parameters-explained/
+
+5. I replaced Windows with Linux and everything’s going great
+   https://www.theverge.com/tech/858910/linux-diary-gaming-desktop
+
+6. OpenAI has launched ChatGPT Health. Should we trust it?
+   https://restofworld.org/2026/openai-has-launched-chatgpt-health-should-we-trust-it/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 ]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -293,6 +1463,41 @@ Duration: ~4 minutes
       <description><![CDATA[Tech, science, and what's actually interesting for January 10, 2026.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. Using AI, Mathematicians Find Hidden Glitches in Fluid Equations
+   Source: Quanta Magazine
+2. Disappearing ‘planet’ reveals a solar system’s turbulent times
+   Source: Nature News
+3. ‘Coming out as a transgender scientist made me the best teacher I’ve ever been’
+   Source: Nature News
+4. Datadog uses Codex for system-level code review
+   Source: OpenAI News
+5. Magentic Marketplace: an open-source simulation environment for studying agentic markets
+   Source: Microsoft Research Blog
+6. A new CRISPR startup is betting regulators will ease up on gene-editing
+   Source: MIT Technology Review
+
+REFERENCES:
+
+1. Using AI, Mathematicians Find Hidden Glitches in Fluid Equations
+   https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/
+
+2. Disappearing ‘planet’ reveals a solar system’s turbulent times
+   https://www.nature.com/articles/d41586-025-04148-4
+
+3. ‘Coming out as a transgender scientist made me the best teacher I’ve ever been’
+   https://www.nature.com/articles/d41586-026-00057-2
+
+4. Datadog uses Codex for system-level code review
+   https://openai.com/index/datadog
+
+5. Magentic Marketplace: an open-source simulation environment for studying agentic markets
+   https://www.microsoft.com/en-us/research/blog/magentic-marketplace-an-open-source-simulation-environment-for-studying-agentic-markets/
+
+6. A new CRISPR startup is betting regulators will ease up on gene-editing
+   https://www.technologyreview.com/2026/01/09/1130945/crispr-startup-aurora-betting-regulation-pku/
 ]]></description>
       <pubDate>Sat, 10 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-10</guid>
@@ -300,6 +1505,41 @@ Duration: ~4 minutes
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 10, 2026.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. Using AI, Mathematicians Find Hidden Glitches in Fluid Equations
+   Source: Quanta Magazine
+2. Disappearing ‘planet’ reveals a solar system’s turbulent times
+   Source: Nature News
+3. ‘Coming out as a transgender scientist made me the best teacher I’ve ever been’
+   Source: Nature News
+4. Datadog uses Codex for system-level code review
+   Source: OpenAI News
+5. Magentic Marketplace: an open-source simulation environment for studying agentic markets
+   Source: Microsoft Research Blog
+6. A new CRISPR startup is betting regulators will ease up on gene-editing
+   Source: MIT Technology Review
+
+REFERENCES:
+
+1. Using AI, Mathematicians Find Hidden Glitches in Fluid Equations
+   https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/
+
+2. Disappearing ‘planet’ reveals a solar system’s turbulent times
+   https://www.nature.com/articles/d41586-025-04148-4
+
+3. ‘Coming out as a transgender scientist made me the best teacher I’ve ever been’
+   https://www.nature.com/articles/d41586-026-00057-2
+
+4. Datadog uses Codex for system-level code review
+   https://openai.com/index/datadog
+
+5. Magentic Marketplace: an open-source simulation environment for studying agentic markets
+   https://www.microsoft.com/en-us/research/blog/magentic-marketplace-an-open-source-simulation-environment-for-studying-agentic-markets/
+
+6. A new CRISPR startup is betting regulators will ease up on gene-editing
+   https://www.technologyreview.com/2026/01/09/1130945/crispr-startup-aurora-betting-regulation-pku/
 ]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -310,6 +1550,41 @@ Duration: ~4 minutes
       <description><![CDATA[Tech, science, and what's actually interesting for January 09, 2026.
 
 Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Putting immune cells into ‘night mode’ reduces heart-attack damage
+   Source: Nature News
+2. Will mpox go global again? Research shows it's evolving in curious ways
+   Source: Nature News
+3. Netomi’s lessons for scaling agentic systems into the enterprise
+   Source: OpenAI News
+4. Ideas: Community building, machine learning, and the future of AI
+   Source: Microsoft Research Blog
+5. BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI
+   Source: Microsoft Research Blog
+6. AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems
+   Source: Hugging Face Blog
+
+REFERENCES:
+
+1. Putting immune cells into ‘night mode’ reduces heart-attack damage
+   https://www.nature.com/articles/d41586-026-00008-x
+
+2. Will mpox go global again? Research shows it's evolving in curious ways
+   https://www.nature.com/articles/d41586-025-04154-6
+
+3. Netomi’s lessons for scaling agentic systems into the enterprise
+   https://openai.com/index/netomi
+
+4. Ideas: Community building, machine learning, and the future of AI
+   https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/
+
+5. BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI
+   https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/
+
+6. AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems
+   https://huggingface.co/blog/ServiceNow-AI/aprielguard
 ]]></description>
       <pubDate>Fri, 09 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-09</guid>
@@ -317,6 +1592,41 @@ Duration: ~5 minutes
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 09, 2026.
 
 Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Putting immune cells into ‘night mode’ reduces heart-attack damage
+   Source: Nature News
+2. Will mpox go global again? Research shows it's evolving in curious ways
+   Source: Nature News
+3. Netomi’s lessons for scaling agentic systems into the enterprise
+   Source: OpenAI News
+4. Ideas: Community building, machine learning, and the future of AI
+   Source: Microsoft Research Blog
+5. BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI
+   Source: Microsoft Research Blog
+6. AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems
+   Source: Hugging Face Blog
+
+REFERENCES:
+
+1. Putting immune cells into ‘night mode’ reduces heart-attack damage
+   https://www.nature.com/articles/d41586-026-00008-x
+
+2. Will mpox go global again? Research shows it's evolving in curious ways
+   https://www.nature.com/articles/d41586-025-04154-6
+
+3. Netomi’s lessons for scaling agentic systems into the enterprise
+   https://openai.com/index/netomi
+
+4. Ideas: Community building, machine learning, and the future of AI
+   https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/
+
+5. BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI
+   https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/
+
+6. AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems
+   https://huggingface.co/blog/ServiceNow-AI/aprielguard
 ]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -327,6 +1637,41 @@ Duration: ~5 minutes
       <description><![CDATA[Tech, science, and what's actually interesting for January 08, 2026.
 
 Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Traces of Leonardo da Vinci’s DNA May Have Been Discovered on a Red Chalk Drawing Called ‘Holy Child’
+   Source: Wired
+2. Systematic analyses of lipid mobilization by human lipid transfer proteins
+   Source: Nature News
+3. A young progenitor for the most common planetary systems in the Galaxy
+   Source: Nature News
+4. GigaTIME: Scaling tumor microenvironment modeling using virtual population generated by multimodal AI
+   Source: Microsoft Research Blog
+5. Deploying a hybrid approach to Web3 in the AI era
+   Source: MIT Technology Review
+6. The man who made India digital isn’t done yet
+   Source: MIT Technology Review
+
+REFERENCES:
+
+1. Traces of Leonardo da Vinci’s DNA May Have Been Discovered on a Red Chalk Drawing Called ‘Holy Child’
+   https://www.wired.com/story/traces-of-leonardo-da-vincis-dna-may-have-been-discovered-on-a-red-chalk-drawing-called-holy-child/
+
+2. Systematic analyses of lipid mobilization by human lipid transfer proteins
+   https://www.nature.com/articles/s41586-025-10040-y
+
+3. A young progenitor for the most common planetary systems in the Galaxy
+   https://www.nature.com/articles/s41586-025-09840-z
+
+4. GigaTIME: Scaling tumor microenvironment modeling using virtual population generated by multimodal AI
+   https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/
+
+5. Deploying a hybrid approach to Web3 in the AI era
+   https://www.technologyreview.com/2026/01/07/1129490/deploying-a-hybrid-approach-to-web3-in-the-ai-era/
+
+6. The man who made India digital isn’t done yet
+   https://www.technologyreview.com/2026/01/07/1129748/aadhaar-nandan-nilekani-india-digital-biometric-identity-data/
 ]]></description>
       <pubDate>Thu, 08 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-08</guid>
@@ -334,6 +1679,41 @@ Duration: ~5 minutes
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 08, 2026.
 
 Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Traces of Leonardo da Vinci’s DNA May Have Been Discovered on a Red Chalk Drawing Called ‘Holy Child’
+   Source: Wired
+2. Systematic analyses of lipid mobilization by human lipid transfer proteins
+   Source: Nature News
+3. A young progenitor for the most common planetary systems in the Galaxy
+   Source: Nature News
+4. GigaTIME: Scaling tumor microenvironment modeling using virtual population generated by multimodal AI
+   Source: Microsoft Research Blog
+5. Deploying a hybrid approach to Web3 in the AI era
+   Source: MIT Technology Review
+6. The man who made India digital isn’t done yet
+   Source: MIT Technology Review
+
+REFERENCES:
+
+1. Traces of Leonardo da Vinci’s DNA May Have Been Discovered on a Red Chalk Drawing Called ‘Holy Child’
+   https://www.wired.com/story/traces-of-leonardo-da-vincis-dna-may-have-been-discovered-on-a-red-chalk-drawing-called-holy-child/
+
+2. Systematic analyses of lipid mobilization by human lipid transfer proteins
+   https://www.nature.com/articles/s41586-025-10040-y
+
+3. A young progenitor for the most common planetary systems in the Galaxy
+   https://www.nature.com/articles/s41586-025-09840-z
+
+4. GigaTIME: Scaling tumor microenvironment modeling using virtual population generated by multimodal AI
+   https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/
+
+5. Deploying a hybrid approach to Web3 in the AI era
+   https://www.technologyreview.com/2026/01/07/1129490/deploying-a-hybrid-approach-to-web3-in-the-ai-era/
+
+6. The man who made India digital isn’t done yet
+   https://www.technologyreview.com/2026/01/07/1129748/aadhaar-nandan-nilekani-india-digital-biometric-identity-data/
 ]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -344,6 +1724,41 @@ Duration: ~5 minutes
       <description><![CDATA[Tech, science, and what's actually interesting for January 07, 2026.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. When industry knowledge meets PIKE-RAG: The innovation behind Signify’s customer service boost
+   Source: Microsoft Research Blog
+2. Why cancer can come back years later — and how to stop it
+   Source: Nature News
+3. Deepening our partnership with the UK AI Security Institute
+   Source: DeepMind Blog
+4. FACTS Benchmark Suite: Systematically evaluating the factuality of large language models
+   Source: DeepMind Blog
+5. Agent Lightning: Adding reinforcement learning to AI agents without code rewrites
+   Source: Microsoft Research Blog
+6. Starstruck
+   Source: MIT Technology Review
+
+REFERENCES:
+
+1. When industry knowledge meets PIKE-RAG: The innovation behind Signify’s customer service boost
+   https://www.microsoft.com/en-us/research/blog/when-industry-knowledge-meets-pike-rag-the-innovation-behind-signifys-customer-service-boost/
+
+2. Why cancer can come back years later — and how to stop it
+   https://www.nature.com/articles/d41586-025-04149-3
+
+3. Deepening our partnership with the UK AI Security Institute
+   https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/
+
+4. FACTS Benchmark Suite: Systematically evaluating the factuality of large language models
+   https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/
+
+5. Agent Lightning: Adding reinforcement learning to AI agents without code rewrites
+   https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/
+
+6. Starstruck
+   https://www.technologyreview.com/2026/01/06/1128661/starstruck/
 ]]></description>
       <pubDate>Wed, 07 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-07</guid>
@@ -351,6 +1766,41 @@ Duration: ~4 minutes
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 07, 2026.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. When industry knowledge meets PIKE-RAG: The innovation behind Signify’s customer service boost
+   Source: Microsoft Research Blog
+2. Why cancer can come back years later — and how to stop it
+   Source: Nature News
+3. Deepening our partnership with the UK AI Security Institute
+   Source: DeepMind Blog
+4. FACTS Benchmark Suite: Systematically evaluating the factuality of large language models
+   Source: DeepMind Blog
+5. Agent Lightning: Adding reinforcement learning to AI agents without code rewrites
+   Source: Microsoft Research Blog
+6. Starstruck
+   Source: MIT Technology Review
+
+REFERENCES:
+
+1. When industry knowledge meets PIKE-RAG: The innovation behind Signify’s customer service boost
+   https://www.microsoft.com/en-us/research/blog/when-industry-knowledge-meets-pike-rag-the-innovation-behind-signifys-customer-service-boost/
+
+2. Why cancer can come back years later — and how to stop it
+   https://www.nature.com/articles/d41586-025-04149-3
+
+3. Deepening our partnership with the UK AI Security Institute
+   https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/
+
+4. FACTS Benchmark Suite: Systematically evaluating the factuality of large language models
+   https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/
+
+5. Agent Lightning: Adding reinforcement learning to AI agents without code rewrites
+   https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/
+
+6. Starstruck
+   https://www.technologyreview.com/2026/01/06/1128661/starstruck/
 ]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -361,6 +1811,41 @@ Duration: ~4 minutes
       <description><![CDATA[Tech, science, and what's actually interesting for January 06, 2026.
 
 Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Expedition 74 Gears Up for First Spacewalk of 2026
+   Source: NASA Science
+2. NASA-French SWOT Satellite Provides Global Estimate of River Discharge
+   Source: NASA Science
+3. NASA, Partners Share First Data From New US-European Sea Satellite
+   Source: NASA JPL News
+4. 'It would be a fundamental breakthrough': Mysterious dark matter may interact with cosmic 'ghost particles'
+   Source: Space.com
+5. The universe may be lopsided, new research says
+   Source: Space.com
+6. How Dad’s Fitness May Be Packaged and Passed Down in Sperm RNA
+   Source: Quanta Magazine
+
+REFERENCES:
+
+1. Expedition 74 Gears Up for First Spacewalk of 2026
+   https://www.nasa.gov/blogs/spacestation/2026/01/05/expedition-74-gears-up-for-first-spacewalk-of-2026/
+
+2. NASA-French SWOT Satellite Provides Global Estimate of River Discharge
+   https://science.nasa.gov/blogs/science-news/2026/01/05/swot-offers-river-discharge-estimate/
+
+3. NASA, Partners Share First Data From New US-European Sea Satellite
+   https://www.jpl.nasa.gov/news/nasa-partners-share-first-data-from-new-us-european-sea-satellite
+
+4. 'It would be a fundamental breakthrough': Mysterious dark matter may interact with cosmic 'ghost particles'
+   https://www.space.com/astronomy/dark-universe/it-would-be-a-fundamental-breakthrough-mysterious-dark-matter-may-interact-with-cosmic-ghost-particles
+
+5. The universe may be lopsided, new research says
+   https://www.space.com/astronomy/the-universe-may-be-lopsided-new-research-says
+
+6. How Dad’s Fitness May Be Packaged and Passed Down in Sperm RNA
+   https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/
 ]]></description>
       <pubDate>Tue, 06 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-06</guid>
@@ -368,6 +1853,41 @@ Duration: ~5 minutes
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 06, 2026.
 
 Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Expedition 74 Gears Up for First Spacewalk of 2026
+   Source: NASA Science
+2. NASA-French SWOT Satellite Provides Global Estimate of River Discharge
+   Source: NASA Science
+3. NASA, Partners Share First Data From New US-European Sea Satellite
+   Source: NASA JPL News
+4. 'It would be a fundamental breakthrough': Mysterious dark matter may interact with cosmic 'ghost particles'
+   Source: Space.com
+5. The universe may be lopsided, new research says
+   Source: Space.com
+6. How Dad’s Fitness May Be Packaged and Passed Down in Sperm RNA
+   Source: Quanta Magazine
+
+REFERENCES:
+
+1. Expedition 74 Gears Up for First Spacewalk of 2026
+   https://www.nasa.gov/blogs/spacestation/2026/01/05/expedition-74-gears-up-for-first-spacewalk-of-2026/
+
+2. NASA-French SWOT Satellite Provides Global Estimate of River Discharge
+   https://science.nasa.gov/blogs/science-news/2026/01/05/swot-offers-river-discharge-estimate/
+
+3. NASA, Partners Share First Data From New US-European Sea Satellite
+   https://www.jpl.nasa.gov/news/nasa-partners-share-first-data-from-new-us-european-sea-satellite
+
+4. 'It would be a fundamental breakthrough': Mysterious dark matter may interact with cosmic 'ghost particles'
+   https://www.space.com/astronomy/dark-universe/it-would-be-a-fundamental-breakthrough-mysterious-dark-matter-may-interact-with-cosmic-ghost-particles
+
+5. The universe may be lopsided, new research says
+   https://www.space.com/astronomy/the-universe-may-be-lopsided-new-research-says
+
+6. How Dad’s Fitness May Be Packaged and Passed Down in Sperm RNA
+   https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/
 ]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -378,6 +1898,41 @@ Duration: ~5 minutes
       <description><![CDATA[Tech, science, and what's actually interesting for January 05, 2026.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. Deepening our collaboration with the U.S. Department of Energy
+   Source: OpenAI News
+2. Google's year in review: 8 areas with research breakthroughs in 2025
+   Source: DeepMind Blog
+3. Fara-7B: An Efficient Agentic Model for Computer Use
+   Source: Microsoft Research Blog
+4. MMCTAgent: Enabling multimodal reasoning over large video and image collections
+   Source: Microsoft Research Blog
+5. Addendum to GPT-5.2 System Card: GPT-5.2-Codex
+   Source: OpenAI News
+6. Ikea’s new $4 USB-C charger is cheaper than Apple’s and Anker’s
+   Source: The Verge
+
+REFERENCES:
+
+1. Deepening our collaboration with the U.S. Department of Energy
+   https://openai.com/index/us-department-of-energy-collaboration
+
+2. Google's year in review: 8 areas with research breakthroughs in 2025
+   https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/
+
+3. Fara-7B: An Efficient Agentic Model for Computer Use
+   https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/
+
+4. MMCTAgent: Enabling multimodal reasoning over large video and image collections
+   https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/
+
+5. Addendum to GPT-5.2 System Card: GPT-5.2-Codex
+   https://openai.com/index/gpt-5-2-codex-system-card
+
+6. Ikea’s new $4 USB-C charger is cheaper than Apple’s and Anker’s
+   https://www.theverge.com/tech/854333/ikea-sjoss-20w-usb-c-wall-charger
 ]]></description>
       <pubDate>Mon, 05 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-05</guid>
@@ -385,6 +1940,41 @@ Duration: ~4 minutes
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 05, 2026.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. Deepening our collaboration with the U.S. Department of Energy
+   Source: OpenAI News
+2. Google's year in review: 8 areas with research breakthroughs in 2025
+   Source: DeepMind Blog
+3. Fara-7B: An Efficient Agentic Model for Computer Use
+   Source: Microsoft Research Blog
+4. MMCTAgent: Enabling multimodal reasoning over large video and image collections
+   Source: Microsoft Research Blog
+5. Addendum to GPT-5.2 System Card: GPT-5.2-Codex
+   Source: OpenAI News
+6. Ikea’s new $4 USB-C charger is cheaper than Apple’s and Anker’s
+   Source: The Verge
+
+REFERENCES:
+
+1. Deepening our collaboration with the U.S. Department of Energy
+   https://openai.com/index/us-department-of-energy-collaboration
+
+2. Google's year in review: 8 areas with research breakthroughs in 2025
+   https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/
+
+3. Fara-7B: An Efficient Agentic Model for Computer Use
+   https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/
+
+4. MMCTAgent: Enabling multimodal reasoning over large video and image collections
+   https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/
+
+5. Addendum to GPT-5.2 System Card: GPT-5.2-Codex
+   https://openai.com/index/gpt-5-2-codex-system-card
+
+6. Ikea’s new $4 USB-C charger is cheaper than Apple’s and Anker’s
+   https://www.theverge.com/tech/854333/ikea-sjoss-20w-usb-c-wall-charger
 ]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -395,6 +1985,41 @@ Duration: ~4 minutes
       <description><![CDATA[Tech, science, and what's actually interesting for January 04, 2026.
 
 Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Someone made a ton of money betting on Maduro’s capture
+   Source: The Verge
+2. How to Manage Files on iOS and Android
+   Source: Wired
+3. Show HN: GenVibe – AI generates React apps from text, Figma, screenshots
+   Source: Hacker News (AI filtered)
+4. Safety, History, Contingency, & Mishaps
+   Source: NASA Science
+5. 2026 News Releases
+   Source: NASA Science
+6. NASA Study Suggests Saturn’s Moon Titan May Not Have Global Ocean
+   Source: NASA JPL News
+
+REFERENCES:
+
+1. Someone made a ton of money betting on Maduro’s capture
+   https://www.theverge.com/news/853765/someone-made-a-ton-of-money-betting-on-maduros-capture
+
+2. How to Manage Files on iOS and Android
+   https://www.wired.com/story/how-to-manage-files-on-ios-and-android/
+
+3. Show HN: GenVibe – AI generates React apps from text, Figma, screenshots
+   https://genvibe.pro
+
+4. Safety, History, Contingency, & Mishaps
+   https://www.nasa.gov/reference/safety-history-contingency-mishaps/
+
+5. 2026 News Releases
+   https://www.nasa.gov/2026-news-releases/
+
+6. NASA Study Suggests Saturn’s Moon Titan May Not Have Global Ocean
+   https://www.jpl.nasa.gov/news/nasa-study-suggests-saturns-moon-titan-may-not-have-global-ocean
 ]]></description>
       <pubDate>Sun, 04 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-04</guid>
@@ -402,6 +2027,41 @@ Duration: ~5 minutes
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 04, 2026.
 
 Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Someone made a ton of money betting on Maduro’s capture
+   Source: The Verge
+2. How to Manage Files on iOS and Android
+   Source: Wired
+3. Show HN: GenVibe – AI generates React apps from text, Figma, screenshots
+   Source: Hacker News (AI filtered)
+4. Safety, History, Contingency, & Mishaps
+   Source: NASA Science
+5. 2026 News Releases
+   Source: NASA Science
+6. NASA Study Suggests Saturn’s Moon Titan May Not Have Global Ocean
+   Source: NASA JPL News
+
+REFERENCES:
+
+1. Someone made a ton of money betting on Maduro’s capture
+   https://www.theverge.com/news/853765/someone-made-a-ton-of-money-betting-on-maduros-capture
+
+2. How to Manage Files on iOS and Android
+   https://www.wired.com/story/how-to-manage-files-on-ios-and-android/
+
+3. Show HN: GenVibe – AI generates React apps from text, Figma, screenshots
+   https://genvibe.pro
+
+4. Safety, History, Contingency, & Mishaps
+   https://www.nasa.gov/reference/safety-history-contingency-mishaps/
+
+5. 2026 News Releases
+   https://www.nasa.gov/2026-news-releases/
+
+6. NASA Study Suggests Saturn’s Moon Titan May Not Have Global Ocean
+   https://www.jpl.nasa.gov/news/nasa-study-suggests-saturns-moon-titan-may-not-have-global-ocean
 ]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -412,6 +2072,41 @@ Duration: ~5 minutes
       <description><![CDATA[Tech, science, and what's actually interesting for January 03, 2026.
 
 Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Researchers spot Saturn-sized planet in the “Einstein desert”
+   Source: Ars Technica
+2. LG announces the &#8216;world’s lightest 17-inch RTX laptop&#8217;
+   Source: The Verge
+3. Welcome to the Future of Noise Canceling
+   Source: Wired
+4. Here’s How Long You Should Walk Every Day to Prevent Back Pain
+   Source: Wired
+5. Fundamentals of Human Health
+   Source: NASA Science
+6. Vehicle Systems, Interfaces, Structure & Environmental Design
+   Source: NASA Science
+
+REFERENCES:
+
+1. Researchers spot Saturn-sized planet in the “Einstein desert”
+   https://arstechnica.com/science/2026/01/researchers-spot-saturn-sized-planet-in-the-einstein-desert/
+
+2. LG announces the &#8216;world’s lightest 17-inch RTX laptop&#8217;
+   https://www.theverge.com/news/852628/lg-gram-pro-17-16-laptop-2026-ces
+
+3. Welcome to the Future of Noise Canceling
+   https://www.wired.com/story/welcome-to-the-future-of-noise-canceling/
+
+4. Here’s How Long You Should Walk Every Day to Prevent Back Pain
+   https://www.wired.com/story/heres-how-long-you-should-walk-every-day-to-prevent-back-pain/
+
+5. Fundamentals of Human Health
+   https://www.nasa.gov/reference/fundamentals-of-human-health/
+
+6. Vehicle Systems, Interfaces, Structure & Environmental Design
+   https://www.nasa.gov/reference/vehicle-systems-interfaces-structure-environmental-design/
 ]]></description>
       <pubDate>Sat, 03 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-03</guid>
@@ -419,6 +2114,41 @@ Duration: ~5 minutes
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 03, 2026.
 
 Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Researchers spot Saturn-sized planet in the “Einstein desert”
+   Source: Ars Technica
+2. LG announces the &#8216;world’s lightest 17-inch RTX laptop&#8217;
+   Source: The Verge
+3. Welcome to the Future of Noise Canceling
+   Source: Wired
+4. Here’s How Long You Should Walk Every Day to Prevent Back Pain
+   Source: Wired
+5. Fundamentals of Human Health
+   Source: NASA Science
+6. Vehicle Systems, Interfaces, Structure & Environmental Design
+   Source: NASA Science
+
+REFERENCES:
+
+1. Researchers spot Saturn-sized planet in the “Einstein desert”
+   https://arstechnica.com/science/2026/01/researchers-spot-saturn-sized-planet-in-the-einstein-desert/
+
+2. LG announces the &#8216;world’s lightest 17-inch RTX laptop&#8217;
+   https://www.theverge.com/news/852628/lg-gram-pro-17-16-laptop-2026-ces
+
+3. Welcome to the Future of Noise Canceling
+   https://www.wired.com/story/welcome-to-the-future-of-noise-canceling/
+
+4. Here’s How Long You Should Walk Every Day to Prevent Back Pain
+   https://www.wired.com/story/heres-how-long-you-should-walk-every-day-to-prevent-back-pain/
+
+5. Fundamentals of Human Health
+   https://www.nasa.gov/reference/fundamentals-of-human-health/
+
+6. Vehicle Systems, Interfaces, Structure & Environmental Design
+   https://www.nasa.gov/reference/vehicle-systems-interfaces-structure-environmental-design/
 ]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -429,6 +2159,41 @@ Duration: ~5 minutes
       <description><![CDATA[Tech, science, and what's actually interesting for January 02, 2026.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. Magentic Marketplace: an open-source simulation environment for studying agentic markets
+   Source: Microsoft Research Blog
+2. MIT Technology Review’s most popular stories of 2025
+   Source: MIT Technology Review
+3. Researchers are getting organoids pregnant with human embryos
+   Source: MIT Technology Review
+4. Research roundup: 7 cool science stories we almost missed
+   Source: Ars Technica
+5. Lawsuit over Trump rejecting medical research grants is settled
+   Source: Ars Technica
+6. Show HN: Sentinel Shield – Pure C DMZ for AI Security (23K LOC, <1ms latency)
+   Source: Hacker News (AI filtered)
+
+REFERENCES:
+
+1. Magentic Marketplace: an open-source simulation environment for studying agentic markets
+   https://www.microsoft.com/en-us/research/blog/magentic-marketplace-an-open-source-simulation-environment-for-studying-agentic-markets/
+
+2. MIT Technology Review’s most popular stories of 2025
+   https://www.technologyreview.com/2025/12/26/1130318/mit-technology-review-most-popular-stories-2025/
+
+3. Researchers are getting organoids pregnant with human embryos
+   https://www.technologyreview.com/2025/12/23/1130415/organoid-uterus-microfluidic-chip-embryo/
+
+4. Research roundup: 7 cool science stories we almost missed
+   https://arstechnica.com/science/2026/01/research-roundup-7-cool-science-stories-we-almost-missed-2/
+
+5. Lawsuit over Trump rejecting medical research grants is settled
+   https://arstechnica.com/science/2025/12/feds-researchers-settle-suit-over-grants-blocked-by-now-illegal-order/
+
+6. Show HN: Sentinel Shield – Pure C DMZ for AI Security (23K LOC, <1ms latency)
+   https://news.ycombinator.com/item?id=46460975
 ]]></description>
       <pubDate>Fri, 02 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-02</guid>
@@ -436,6 +2201,41 @@ Duration: ~4 minutes
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 02, 2026.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. Magentic Marketplace: an open-source simulation environment for studying agentic markets
+   Source: Microsoft Research Blog
+2. MIT Technology Review’s most popular stories of 2025
+   Source: MIT Technology Review
+3. Researchers are getting organoids pregnant with human embryos
+   Source: MIT Technology Review
+4. Research roundup: 7 cool science stories we almost missed
+   Source: Ars Technica
+5. Lawsuit over Trump rejecting medical research grants is settled
+   Source: Ars Technica
+6. Show HN: Sentinel Shield – Pure C DMZ for AI Security (23K LOC, <1ms latency)
+   Source: Hacker News (AI filtered)
+
+REFERENCES:
+
+1. Magentic Marketplace: an open-source simulation environment for studying agentic markets
+   https://www.microsoft.com/en-us/research/blog/magentic-marketplace-an-open-source-simulation-environment-for-studying-agentic-markets/
+
+2. MIT Technology Review’s most popular stories of 2025
+   https://www.technologyreview.com/2025/12/26/1130318/mit-technology-review-most-popular-stories-2025/
+
+3. Researchers are getting organoids pregnant with human embryos
+   https://www.technologyreview.com/2025/12/23/1130415/organoid-uterus-microfluidic-chip-embryo/
+
+4. Research roundup: 7 cool science stories we almost missed
+   https://arstechnica.com/science/2026/01/research-roundup-7-cool-science-stories-we-almost-missed-2/
+
+5. Lawsuit over Trump rejecting medical research grants is settled
+   https://arstechnica.com/science/2025/12/feds-researchers-settle-suit-over-grants-blocked-by-now-illegal-order/
+
+6. Show HN: Sentinel Shield – Pure C DMZ for AI Security (23K LOC, <1ms latency)
+   https://news.ycombinator.com/item?id=46460975
 ]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -446,6 +2246,41 @@ Duration: ~4 minutes
       <description><![CDATA[Tech, science, and what's actually interesting for January 01, 2026.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. Quantifying the global eco-footprint of wearable healthcare electronics
+   Source: Nature News
+2. Economic inequality does not equate to poor well-being or mental health
+   Source: Nature News
+3. Ideas: Community building, machine learning, and the future of AI
+   Source: Microsoft Research Blog
+4. BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI
+   Source: Microsoft Research Blog
+5. AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems
+   Source: Hugging Face Blog
+6. Transformers v5: Simple model definitions powering the AI ecosystem
+   Source: Hugging Face Blog
+
+REFERENCES:
+
+1. Quantifying the global eco-footprint of wearable healthcare electronics
+   https://www.nature.com/articles/s41586-025-09819-w
+
+2. Economic inequality does not equate to poor well-being or mental health
+   https://www.nature.com/articles/d41586-025-03833-8
+
+3. Ideas: Community building, machine learning, and the future of AI
+   https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/
+
+4. BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI
+   https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/
+
+5. AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems
+   https://huggingface.co/blog/ServiceNow-AI/aprielguard
+
+6. Transformers v5: Simple model definitions powering the AI ecosystem
+   https://huggingface.co/blog/transformers-v5
 ]]></description>
       <pubDate>Thu, 01 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-01</guid>
@@ -453,6 +2288,41 @@ Duration: ~4 minutes
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 01, 2026.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. Quantifying the global eco-footprint of wearable healthcare electronics
+   Source: Nature News
+2. Economic inequality does not equate to poor well-being or mental health
+   Source: Nature News
+3. Ideas: Community building, machine learning, and the future of AI
+   Source: Microsoft Research Blog
+4. BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI
+   Source: Microsoft Research Blog
+5. AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems
+   Source: Hugging Face Blog
+6. Transformers v5: Simple model definitions powering the AI ecosystem
+   Source: Hugging Face Blog
+
+REFERENCES:
+
+1. Quantifying the global eco-footprint of wearable healthcare electronics
+   https://www.nature.com/articles/s41586-025-09819-w
+
+2. Economic inequality does not equate to poor well-being or mental health
+   https://www.nature.com/articles/d41586-025-03833-8
+
+3. Ideas: Community building, machine learning, and the future of AI
+   https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/
+
+4. BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI
+   https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/
+
+5. AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems
+   https://huggingface.co/blog/ServiceNow-AI/aprielguard
+
+6. Transformers v5: Simple model definitions powering the AI ecosystem
+   https://huggingface.co/blog/transformers-v5
 ]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -463,6 +2333,41 @@ Duration: ~4 minutes
       <description><![CDATA[Tech, science, and what's actually interesting for December 31, 2025.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. Katie Picchione
+   Source: NASA Science
+2. Science in 2050: the future breakthroughs that will shape our world — and beyond
+   Source: Nature News
+3. Deepening our partnership with the UK AI Security Institute
+   Source: DeepMind Blog
+4. FACTS Benchmark Suite: Systematically evaluating the factuality of large language models
+   Source: DeepMind Blog
+5. Agent Lightning: Adding reinforcement learning to AI agents without code rewrites
+   Source: Microsoft Research Blog
+6. GigaTIME: Scaling tumor microenvironment modeling using virtual population generated by multimodal AI
+   Source: Microsoft Research Blog
+
+REFERENCES:
+
+1. Katie Picchione
+   https://www.nasa.gov/people/katie-picchione/
+
+2. Science in 2050: the future breakthroughs that will shape our world — and beyond
+   https://www.nature.com/articles/d41586-025-04100-6
+
+3. Deepening our partnership with the UK AI Security Institute
+   https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/
+
+4. FACTS Benchmark Suite: Systematically evaluating the factuality of large language models
+   https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/
+
+5. Agent Lightning: Adding reinforcement learning to AI agents without code rewrites
+   https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/
+
+6. GigaTIME: Scaling tumor microenvironment modeling using virtual population generated by multimodal AI
+   https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/
 ]]></description>
       <pubDate>Wed, 31 Dec 2025 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2025-12-31</guid>
@@ -470,6 +2375,41 @@ Duration: ~4 minutes
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for December 31, 2025.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. Katie Picchione
+   Source: NASA Science
+2. Science in 2050: the future breakthroughs that will shape our world — and beyond
+   Source: Nature News
+3. Deepening our partnership with the UK AI Security Institute
+   Source: DeepMind Blog
+4. FACTS Benchmark Suite: Systematically evaluating the factuality of large language models
+   Source: DeepMind Blog
+5. Agent Lightning: Adding reinforcement learning to AI agents without code rewrites
+   Source: Microsoft Research Blog
+6. GigaTIME: Scaling tumor microenvironment modeling using virtual population generated by multimodal AI
+   Source: Microsoft Research Blog
+
+REFERENCES:
+
+1. Katie Picchione
+   https://www.nasa.gov/people/katie-picchione/
+
+2. Science in 2050: the future breakthroughs that will shape our world — and beyond
+   https://www.nature.com/articles/d41586-025-04100-6
+
+3. Deepening our partnership with the UK AI Security Institute
+   https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/
+
+4. FACTS Benchmark Suite: Systematically evaluating the factuality of large language models
+   https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/
+
+5. Agent Lightning: Adding reinforcement learning to AI agents without code rewrites
+   https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/
+
+6. GigaTIME: Scaling tumor microenvironment modeling using virtual population generated by multimodal AI
+   https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/
 ]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -480,6 +2420,41 @@ Duration: ~4 minutes
       <description><![CDATA[Tech, science, and what's actually interesting for December 30, 2025.
 
 Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. This experimental camera can focus on everything at once
+   Source: The Verge
+2. When industry knowledge meets PIKE-RAG: The innovation behind Signify’s customer service boost
+   Source: Microsoft Research Blog
+3. Terra: The End of An Era
+   Source: NASA Science
+4. The State of CERES: Updates and Highlights
+   Source: NASA Science
+5. Audio long read: Will blockbuster obesity drugs revolutionize addiction treatment?
+   Source: Nature News
+6. Nine books to help shape your science career in 2026
+   Source: Nature News
+
+REFERENCES:
+
+1. This experimental camera can focus on everything at once
+   https://www.theverge.com/news/850689/camera-focal-lens-technology-research
+
+2. When industry knowledge meets PIKE-RAG: The innovation behind Signify’s customer service boost
+   https://www.microsoft.com/en-us/research/blog/when-industry-knowledge-meets-pike-rag-the-innovation-behind-signifys-customer-service-boost/
+
+3. Terra: The End of An Era
+   https://science.nasa.gov/science-research/earth-science/terra-the-end-of-an-era/
+
+4. The State of CERES: Updates and Highlights
+   https://science.nasa.gov/science-research/earth-science/the-state-of-ceres-updates-and-highlights/
+
+5. Audio long read: Will blockbuster obesity drugs revolutionize addiction treatment?
+   https://www.nature.com/articles/d41586-025-04147-5
+
+6. Nine books to help shape your science career in 2026
+   https://www.nature.com/articles/d41586-025-04101-5
 ]]></description>
       <pubDate>Tue, 30 Dec 2025 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2025-12-30</guid>
@@ -487,6 +2462,41 @@ Duration: ~5 minutes
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for December 30, 2025.
 
 Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. This experimental camera can focus on everything at once
+   Source: The Verge
+2. When industry knowledge meets PIKE-RAG: The innovation behind Signify’s customer service boost
+   Source: Microsoft Research Blog
+3. Terra: The End of An Era
+   Source: NASA Science
+4. The State of CERES: Updates and Highlights
+   Source: NASA Science
+5. Audio long read: Will blockbuster obesity drugs revolutionize addiction treatment?
+   Source: Nature News
+6. Nine books to help shape your science career in 2026
+   Source: Nature News
+
+REFERENCES:
+
+1. This experimental camera can focus on everything at once
+   https://www.theverge.com/news/850689/camera-focal-lens-technology-research
+
+2. When industry knowledge meets PIKE-RAG: The innovation behind Signify’s customer service boost
+   https://www.microsoft.com/en-us/research/blog/when-industry-knowledge-meets-pike-rag-the-innovation-behind-signifys-customer-service-boost/
+
+3. Terra: The End of An Era
+   https://science.nasa.gov/science-research/earth-science/terra-the-end-of-an-era/
+
+4. The State of CERES: Updates and Highlights
+   https://science.nasa.gov/science-research/earth-science/the-state-of-ceres-updates-and-highlights/
+
+5. Audio long read: Will blockbuster obesity drugs revolutionize addiction treatment?
+   https://www.nature.com/articles/d41586-025-04147-5
+
+6. Nine books to help shape your science career in 2026
+   https://www.nature.com/articles/d41586-025-04101-5
 ]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -497,6 +2507,41 @@ Duration: ~5 minutes
       <description><![CDATA[Tech, science, and what's actually interesting for December 29, 2025.
 
 Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Deepening our collaboration with the U.S. Department of Energy
+   Source: OpenAI News
+2. Google's year in review: 8 areas with research breakthroughs in 2025
+   Source: DeepMind Blog
+3. Fara-7B: An Efficient Agentic Model for Computer Use
+   Source: Microsoft Research Blog
+4. MMCTAgent: Enabling multimodal reasoning over large video and image collections
+   Source: Microsoft Research Blog
+5. David Borges
+   Source: NASA Science
+6. Addendum to GPT-5.2 System Card: GPT-5.2-Codex
+   Source: OpenAI News
+
+REFERENCES:
+
+1. Deepening our collaboration with the U.S. Department of Energy
+   https://openai.com/index/us-department-of-energy-collaboration
+
+2. Google's year in review: 8 areas with research breakthroughs in 2025
+   https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/
+
+3. Fara-7B: An Efficient Agentic Model for Computer Use
+   https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/
+
+4. MMCTAgent: Enabling multimodal reasoning over large video and image collections
+   https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/
+
+5. David Borges
+   https://www.nasa.gov/people/david-borges/
+
+6. Addendum to GPT-5.2 System Card: GPT-5.2-Codex
+   https://openai.com/index/gpt-5-2-codex-system-card
 ]]></description>
       <pubDate>Mon, 29 Dec 2025 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2025-12-29</guid>
@@ -504,16 +2549,86 @@ Duration: ~5 minutes
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for December 29, 2025.
 
 Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Deepening our collaboration with the U.S. Department of Energy
+   Source: OpenAI News
+2. Google's year in review: 8 areas with research breakthroughs in 2025
+   Source: DeepMind Blog
+3. Fara-7B: An Efficient Agentic Model for Computer Use
+   Source: Microsoft Research Blog
+4. MMCTAgent: Enabling multimodal reasoning over large video and image collections
+   Source: Microsoft Research Blog
+5. David Borges
+   Source: NASA Science
+6. Addendum to GPT-5.2 System Card: GPT-5.2-Codex
+   Source: OpenAI News
+
+REFERENCES:
+
+1. Deepening our collaboration with the U.S. Department of Energy
+   https://openai.com/index/us-department-of-energy-collaboration
+
+2. Google's year in review: 8 areas with research breakthroughs in 2025
+   https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/
+
+3. Fara-7B: An Efficient Agentic Model for Computer Use
+   https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/
+
+4. MMCTAgent: Enabling multimodal reasoning over large video and image collections
+   https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/
+
+5. David Borges
+   https://www.nasa.gov/people/david-borges/
+
+6. Addendum to GPT-5.2 System Card: GPT-5.2-Codex
+   https://openai.com/index/gpt-5-2-codex-system-card
 ]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:36</itunes:duration>
     </item>
     <item>
-      <title>Morning Thread — December 28, 2025</title>
+      <title>Morning Vibe</title>
       <description><![CDATA[Tech, science, and what's actually interesting for December 28, 2025.
 
 Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Merry Kiss-mas: Thousands Gather Under 10-Foot Mistletoe in DC to Set Guinness Record for Festive Smooches
+   Source: Good News Network
+2. New York state has set a record for flu cases ahead of peak season
+   Source: Gothamist (NYC)
+3. Ctrl+Alt+Defy, the white-hat hacker rewriting the cybersecurity rulebook
+   Source: Positive News
+4. Solar, reimagined: meet the bright minds pushing it into the future
+   Source: Positive News
+5. Veteran Inspired Drone Company Finds Lost Dog in Frigid Cold in Just 41 Minutes–On Mission to Rescue Pets or People
+   Source: Good News Network
+6. Continuously hardening ChatGPT Atlas against prompt injection
+   Source: OpenAI News
+
+REFERENCES:
+
+1. Merry Kiss-mas: Thousands Gather Under 10-Foot Mistletoe in DC to Set Guinness Record for Festive Smooches
+   https://www.goodnewsnetwork.org/merry-kiss-mas-thousands-gather-under-10-foot-mistletoe-in-nations-capital-to-set-the-guinness-record-for-festive-smooches/
+
+2. New York state has set a record for flu cases ahead of peak season
+   https://gothamist.com/news/new-york-state-has-set-a-record-for-flu-cases-ahead-of-peak-season
+
+3. Ctrl+Alt+Defy, the white-hat hacker rewriting the cybersecurity rulebook
+   https://www.positive.news/science/technology/ctrlaltdefy-the-white-hat-hacker-rewriting-the-cybersecurity-rulebook/
+
+4. Solar, reimagined: meet the bright minds pushing it into the future
+   https://www.positive.news/environment/solar-reimagined-meet-the-bright-minds-pushing-it-into-the-future/
+
+5. Veteran Inspired Drone Company Finds Lost Dog in Frigid Cold in Just 41 Minutes–On Mission to Rescue Pets or People
+   https://www.goodnewsnetwork.org/veteran-inspired-drone-company-finds-lost-dog-in-frigid-cold-in-just-41-minutes/
+
+6. Continuously hardening ChatGPT Atlas against prompt injection
+   https://openai.com/index/hardening-atlas-against-prompt-injection
 ]]></description>
       <pubDate>Sun, 28 Dec 2025 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2025-12-28</guid>
@@ -521,16 +2636,86 @@ Duration: ~5 minutes
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for December 28, 2025.
 
 Duration: ~5 minutes
+
+IN THIS EPISODE:
+
+1. Merry Kiss-mas: Thousands Gather Under 10-Foot Mistletoe in DC to Set Guinness Record for Festive Smooches
+   Source: Good News Network
+2. New York state has set a record for flu cases ahead of peak season
+   Source: Gothamist (NYC)
+3. Ctrl+Alt+Defy, the white-hat hacker rewriting the cybersecurity rulebook
+   Source: Positive News
+4. Solar, reimagined: meet the bright minds pushing it into the future
+   Source: Positive News
+5. Veteran Inspired Drone Company Finds Lost Dog in Frigid Cold in Just 41 Minutes–On Mission to Rescue Pets or People
+   Source: Good News Network
+6. Continuously hardening ChatGPT Atlas against prompt injection
+   Source: OpenAI News
+
+REFERENCES:
+
+1. Merry Kiss-mas: Thousands Gather Under 10-Foot Mistletoe in DC to Set Guinness Record for Festive Smooches
+   https://www.goodnewsnetwork.org/merry-kiss-mas-thousands-gather-under-10-foot-mistletoe-in-nations-capital-to-set-the-guinness-record-for-festive-smooches/
+
+2. New York state has set a record for flu cases ahead of peak season
+   https://gothamist.com/news/new-york-state-has-set-a-record-for-flu-cases-ahead-of-peak-season
+
+3. Ctrl+Alt+Defy, the white-hat hacker rewriting the cybersecurity rulebook
+   https://www.positive.news/science/technology/ctrlaltdefy-the-white-hat-hacker-rewriting-the-cybersecurity-rulebook/
+
+4. Solar, reimagined: meet the bright minds pushing it into the future
+   https://www.positive.news/environment/solar-reimagined-meet-the-bright-minds-pushing-it-into-the-future/
+
+5. Veteran Inspired Drone Company Finds Lost Dog in Frigid Cold in Just 41 Minutes–On Mission to Rescue Pets or People
+   https://www.goodnewsnetwork.org/veteran-inspired-drone-company-finds-lost-dog-in-frigid-cold-in-just-41-minutes/
+
+6. Continuously hardening ChatGPT Atlas against prompt injection
+   https://openai.com/index/hardening-atlas-against-prompt-injection
 ]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:54</itunes:duration>
     </item>
     <item>
-      <title>Morning Thread — December 27, 2025</title>
+      <title>Morning Vibe</title>
       <description><![CDATA[Tech, science, and what's actually interesting for December 27, 2025.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. Thought Extinct, Snail Scientists Embark on Largest Snail Breeding and Reintroduction Effort in History
+   Source: Good News Network
+2. Atlanta Restaurant Provided for 100 Families During the Shutdown, Now Throws Christmas Giveaway for Them
+   Source: Good News Network
+3. The top 10 mass-timber buildings of 2025
+   Source: Dezeen
+4. NYPD lieutenant fired after refusing to answer questions about fire at his home
+   Source: Gothamist (NYC)
+5. Time to do more nothing: the art of deep hanging out
+   Source: Positive News
+6. What went right this week: the good news that matters
+   Source: Positive News
+
+REFERENCES:
+
+1. Thought Extinct, Snail Scientists Embark on Largest Snail Breeding and Reintroduction Effort in History
+   https://www.goodnewsnetwork.org/thought-extinct-snail-scientists-embark-on-largest-snail-breeding-and-reintroduction-effort-in-history/
+
+2. Atlanta Restaurant Provided for 100 Families During the Shutdown, Now Throws Christmas Giveaway for Them
+   https://www.goodnewsnetwork.org/atlanta-restaurant-provided-for-100-families-during-the-shutdown-now-throws-christmas-giveaway-for-them/
+
+3. The top 10 mass-timber buildings of 2025
+   https://www.dezeen.com/2025/12/26/mass-timber-buildings-2025/
+
+4. NYPD lieutenant fired after refusing to answer questions about fire at his home
+   https://gothamist.com/news/nypd-lieutenant-fired-after-refusing-to-answer-questions-about-fire-at-his-home
+
+5. Time to do more nothing: the art of deep hanging out
+   https://www.positive.news/lifestyle/wander-notice-be-where-you-are-the-creative-power-of-deep-hanging-out/
+
+6. What went right this week: the good news that matters
+   https://www.positive.news/society/good-news-stories-from-week-51-of-2025/
 ]]></description>
       <pubDate>Sat, 27 Dec 2025 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2025-12-27</guid>
@@ -538,6 +2723,41 @@ Duration: ~4 minutes
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for December 27, 2025.
 
 Duration: ~4 minutes
+
+IN THIS EPISODE:
+
+1. Thought Extinct, Snail Scientists Embark on Largest Snail Breeding and Reintroduction Effort in History
+   Source: Good News Network
+2. Atlanta Restaurant Provided for 100 Families During the Shutdown, Now Throws Christmas Giveaway for Them
+   Source: Good News Network
+3. The top 10 mass-timber buildings of 2025
+   Source: Dezeen
+4. NYPD lieutenant fired after refusing to answer questions about fire at his home
+   Source: Gothamist (NYC)
+5. Time to do more nothing: the art of deep hanging out
+   Source: Positive News
+6. What went right this week: the good news that matters
+   Source: Positive News
+
+REFERENCES:
+
+1. Thought Extinct, Snail Scientists Embark on Largest Snail Breeding and Reintroduction Effort in History
+   https://www.goodnewsnetwork.org/thought-extinct-snail-scientists-embark-on-largest-snail-breeding-and-reintroduction-effort-in-history/
+
+2. Atlanta Restaurant Provided for 100 Families During the Shutdown, Now Throws Christmas Giveaway for Them
+   https://www.goodnewsnetwork.org/atlanta-restaurant-provided-for-100-families-during-the-shutdown-now-throws-christmas-giveaway-for-them/
+
+3. The top 10 mass-timber buildings of 2025
+   https://www.dezeen.com/2025/12/26/mass-timber-buildings-2025/
+
+4. NYPD lieutenant fired after refusing to answer questions about fire at his home
+   https://gothamist.com/news/nypd-lieutenant-fired-after-refusing-to-answer-questions-about-fire-at-his-home
+
+5. Time to do more nothing: the art of deep hanging out
+   https://www.positive.news/lifestyle/wander-notice-be-where-you-are-the-creative-power-of-deep-hanging-out/
+
+6. What went right this week: the good news that matters
+   https://www.positive.news/society/good-news-stories-from-week-51-of-2025/
 ]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>

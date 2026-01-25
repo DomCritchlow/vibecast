@@ -1,0 +1,58 @@
+{
+  "guid": "2025-12-18",
+  "date": "2025-12-18T00:00:00",
+  "title": "Morning Vibe",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 288.0,
+  "duration_formatted": "4:48",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-18.mp3",
+    "audio_size_bytes": 5663040,
+    "artwork_url": null,
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2025-12-18.txt"
+  },
+  "stories": [
+    {
+      "title": "‘Trashed Panda’ Story Raises $180,000 for Animal Shelter That Discovered it Drunk in the Bathroom",
+      "source": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/trashed-panda-story-raises-180000-for-animal-shelter-that-discovered-it-drunk-in-the-bathroom/",
+      "summary": ""
+    },
+    {
+      "title": "Good News in History, December 17",
+      "source": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/events061217/",
+      "summary": ""
+    },
+    {
+      "title": "NASA Langley Research Center: 2025 Year in Review",
+      "source": "NASA Breaking News",
+      "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-langley-research-center-2025-year-in-review/",
+      "summary": ""
+    },
+    {
+      "title": "Camera on NASA Mars probe snaps its 100,000th photo of the Red Planet",
+      "source": "Space.com",
+      "url": "https://www.space.com/astronomy/mars/nasa-mars-reconnaissance-orbiter-hirise-camera-100000-photos",
+      "summary": ""
+    },
+    {
+      "title": "SpaceX launches Starlink missions in dual-coast spaceflight doubleheader (videos)",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-6-99-ksc-jrti-15-13-vsfb-ocisly",
+      "summary": ""
+    },
+    {
+      "title": "Creative community centre among architecture projects from Monash University",
+      "source": "Dezeen",
+      "url": "https://www.dezeen.com/2025/12/17/creative-community-centre-monash-university-schoolshows/",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:24:36.342116",
+    "migration_source": "r2_storage"
+  }
+}

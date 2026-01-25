@@ -1,0 +1,58 @@
+{
+  "guid": "2026-01-17",
+  "date": "2026-01-17T00:00:00",
+  "title": "Morning Thread — January 17, 2026",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 252.0,
+  "duration_formatted": "4:12",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-17.mp3",
+    "audio_size_bytes": 6376637,
+    "artwork_url": null,
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-01-17.txt"
+  },
+  "stories": [
+    {
+      "title": "ROSES-25: D.5 Astrophysics Pioneers Updates",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/roses-25-d-5-astrophysics-pioneers-updates/",
+      "summary": ""
+    },
+    {
+      "title": "Three technologies that will shape biotech in 2026",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/01/16/1131363/three-technologies-shape-biotech-in-2026-gene-editing-embryo-scoring/",
+      "summary": ""
+    },
+    {
+      "title": "Netomi’s lessons for scaling agentic systems into the enterprise",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/netomi",
+      "summary": ""
+    },
+    {
+      "title": "Ideas: Community building, machine learning, and the future of AI",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/",
+      "summary": ""
+    },
+    {
+      "title": "BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/",
+      "summary": ""
+    },
+    {
+      "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:25:06.704520",
+    "migration_source": "r2_storage"
+  }
+}

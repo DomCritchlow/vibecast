@@ -1,0 +1,58 @@
+{
+  "guid": "2026-01-20",
+  "date": "2026-01-20T00:00:00",
+  "title": "Morning Thread — January 20, 2026",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 240.0,
+  "duration_formatted": "4:00",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-20.mp3",
+    "audio_size_bytes": 5734652,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-20/episode-art.png",
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-01-20.txt"
+  },
+  "stories": [
+    {
+      "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
+      "summary": ""
+    },
+    {
+      "title": "Fara-7B: An Efficient Agentic Model for Computer Use",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/",
+      "summary": ""
+    },
+    {
+      "title": "MMCTAgent: Enabling multimodal reasoning over large video and image collections",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/",
+      "summary": ""
+    },
+    {
+      "title": "China previews how powerful its new Xuntian space telescope will be ahead of 2027 launch (video)",
+      "source": "Space.com",
+      "url": "https://www.space.com/astronomy/china-previews-how-powerful-its-new-xuntian-space-telescope-will-be-ahead-of-2027-launch-video",
+      "summary": ""
+    },
+    {
+      "title": "Floating science stations: my month on a research vessel looking after buoys",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00189-5",
+      "summary": ""
+    },
+    {
+      "title": "AI for self empowerment",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/ai-for-self-empowerment",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:25:09.846454",
+    "migration_source": "r2_storage"
+  }
+}

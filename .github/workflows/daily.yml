@@ -81,8 +81,11 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Add the updated files (transcripts are stored in R2, not repo)
-          git add docs/feed.xml docs/index.html podcast/state.json || true
+          # Add the updated files
+          # - Episode JSON (single source of truth)
+          # - Generated feed.xml and HTML
+          # - State tracking
+          git add podcast/episodes/*.json docs/feed.xml docs/*.html podcast/state.json || true
           
           # Check if there are changes to commit
           if git diff --staged --quiet; then

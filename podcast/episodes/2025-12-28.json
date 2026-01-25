@@ -1,0 +1,58 @@
+{
+  "guid": "2025-12-28",
+  "date": "2025-12-28T00:00:00",
+  "title": "Morning Vibe",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 294.0,
+  "duration_formatted": "4:54",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-28.mp3",
+    "audio_size_bytes": 2392748,
+    "artwork_url": null,
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2025-12-28.txt"
+  },
+  "stories": [
+    {
+      "title": "Merry Kiss-mas: Thousands Gather Under 10-Foot Mistletoe in DC to Set Guinness Record for Festive Smooches",
+      "source": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/merry-kiss-mas-thousands-gather-under-10-foot-mistletoe-in-nations-capital-to-set-the-guinness-record-for-festive-smooches/",
+      "summary": ""
+    },
+    {
+      "title": "New York state has set a record for flu cases ahead of peak season",
+      "source": "Gothamist (NYC)",
+      "url": "https://gothamist.com/news/new-york-state-has-set-a-record-for-flu-cases-ahead-of-peak-season",
+      "summary": ""
+    },
+    {
+      "title": "Ctrl+Alt+Defy, the white-hat hacker rewriting the cybersecurity rulebook",
+      "source": "Positive News",
+      "url": "https://www.positive.news/science/technology/ctrlaltdefy-the-white-hat-hacker-rewriting-the-cybersecurity-rulebook/",
+      "summary": ""
+    },
+    {
+      "title": "Solar, reimagined: meet the bright minds pushing it into the future",
+      "source": "Positive News",
+      "url": "https://www.positive.news/environment/solar-reimagined-meet-the-bright-minds-pushing-it-into-the-future/",
+      "summary": ""
+    },
+    {
+      "title": "Veteran Inspired Drone Company Finds Lost Dog in Frigid Cold in Just 41 Minutes–On Mission to Rescue Pets or People",
+      "source": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/veteran-inspired-drone-company-finds-lost-dog-in-frigid-cold-in-just-41-minutes/",
+      "summary": ""
+    },
+    {
+      "title": "Continuously hardening ChatGPT Atlas against prompt injection",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:24:46.308605",
+    "migration_source": "r2_storage"
+  }
+}

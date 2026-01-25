@@ -1,0 +1,58 @@
+{
+  "guid": "2026-01-14",
+  "date": "2026-01-14T00:00:00",
+  "title": "Morning Thread — January 14, 2026",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 222.0,
+  "duration_formatted": "3:42",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-14.mp3",
+    "audio_size_bytes": 5345950,
+    "artwork_url": null,
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-01-14.txt"
+  },
+  "stories": [
+    {
+      "title": "When industry knowledge meets PIKE-RAG: The innovation behind Signify’s customer service boost",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/when-industry-knowledge-meets-pike-rag-the-innovation-behind-signifys-customer-service-boost/",
+      "summary": ""
+    },
+    {
+      "title": "NASA’s Pandora Small Satellite Launched",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/image-article/nasas-pandora-small-satellite-launched/",
+      "summary": ""
+    },
+    {
+      "title": "NASA, Department of Energy to Develop Lunar Surface Reactor by 2030",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/news-release/nasa-department-of-energy-to-develop-lunar-surface-reactor-by-2030/",
+      "summary": ""
+    },
+    {
+      "title": "Should the Loch Ness Monster have a scientific name?",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-025-03991-9",
+      "summary": ""
+    },
+    {
+      "title": "AlphaFold can help African researchers to do cutting-edge structural biology",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00072-3",
+      "summary": ""
+    },
+    {
+      "title": "Deepening our partnership with the UK AI Security Institute",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:25:03.844665",
+    "migration_source": "r2_storage"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "guid": "2026-01-01",
+  "date": "2026-01-01T00:00:00",
+  "title": "Morning Thread — January 01, 2026",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 270.0,
+  "duration_formatted": "4:30",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-01.mp3",
+    "audio_size_bytes": 5035008,
+    "artwork_url": null,
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-01-01.txt"
+  },
+  "stories": [
+    {
+      "title": "Quantifying the global eco-footprint of wearable healthcare electronics",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-025-09819-w",
+      "summary": ""
+    },
+    {
+      "title": "Economic inequality does not equate to poor well-being or mental health",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-025-03833-8",
+      "summary": ""
+    },
+    {
+      "title": "Ideas: Community building, machine learning, and the future of AI",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/",
+      "summary": ""
+    },
+    {
+      "title": "BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/",
+      "summary": ""
+    },
+    {
+      "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
+      "summary": ""
+    },
+    {
+      "title": "Transformers v5: Simple model definitions powering the AI ecosystem",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/transformers-v5",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:24:50.452163",
+    "migration_source": "r2_storage"
+  }
+}

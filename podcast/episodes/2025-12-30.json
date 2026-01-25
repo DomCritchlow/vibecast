@@ -1,0 +1,58 @@
+{
+  "guid": "2025-12-30",
+  "date": "2025-12-30T00:00:00",
+  "title": "Morning Thread — December 30, 2025",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 294.0,
+  "duration_formatted": "4:54",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-30.mp3",
+    "audio_size_bytes": 5135232,
+    "artwork_url": null,
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2025-12-30.txt"
+  },
+  "stories": [
+    {
+      "title": "This experimental camera can focus on everything at once",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/850689/camera-focal-lens-technology-research",
+      "summary": ""
+    },
+    {
+      "title": "When industry knowledge meets PIKE-RAG: The innovation behind Signify’s customer service boost",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/when-industry-knowledge-meets-pike-rag-the-innovation-behind-signifys-customer-service-boost/",
+      "summary": ""
+    },
+    {
+      "title": "Terra: The End of An Era",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/science-research/earth-science/terra-the-end-of-an-era/",
+      "summary": ""
+    },
+    {
+      "title": "The State of CERES: Updates and Highlights",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/science-research/earth-science/the-state-of-ceres-updates-and-highlights/",
+      "summary": ""
+    },
+    {
+      "title": "Audio long read: Will blockbuster obesity drugs revolutionize addiction treatment?",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-025-04147-5",
+      "summary": ""
+    },
+    {
+      "title": "Nine books to help shape your science career in 2026",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-025-04101-5",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:24:48.361324",
+    "migration_source": "r2_storage"
+  }
+}

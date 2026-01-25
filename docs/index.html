@@ -116,7 +116,9 @@
                     <span class="latest-label">New Episode</span>
                     <span class="latest-date" id="latest-date">Loading...</span>
                 </div>
-                <h3 class="latest-title" id="latest-title">Loading latest episode...</h3>
+                <h3 class="latest-title">
+                    <a href="#" id="latest-title-link" class="latest-title-text">Loading latest episode...</a>
+                </h3>
                 <p class="latest-desc" id="latest-description">Fetching episode details...</p>
                 
                 <div class="latest-player">
@@ -536,15 +538,22 @@
         latestEpisode = episode;
         episodeDescriptions[episode.guid] = episode;
         
-        document.getElementById('latest-title').textContent = episode.title;
+        const episodePageUrl = `episode.html?id=${encodeURIComponent(episode.guid)}`;
+        
+        const titleLink = document.getElementById('latest-title-link');
+        titleLink.textContent = episode.title;
+        titleLink.href = episodePageUrl;
+        
         document.getElementById('latest-date').textContent = `${episode.dateStr} · ${episode.duration}`;
         
         const desc = episode.description || '';
         document.getElementById('latest-description').textContent = desc.length > 250 ? desc.substring(0, 250) + '...' : desc;
         
-        // Artwork
-        const artUrl = episode.artworkUrl || 'default-episode-art.png';
-        document.getElementById('latest-art').src = artUrl;
+        // Artwork - make it clickable
+        const artEl = document.getElementById('latest-art');
+        artEl.src = episode.artworkUrl || 'default-episode-art.png';
+        artEl.style.cursor = 'pointer';
+        artEl.onclick = () => window.location.href = episodePageUrl;
         
         // Audio
         latestAudio.src = episode.audioUrl;
@@ -562,23 +571,28 @@
             const safeId = episode.guid.replace(/[^a-zA-Z0-9]/g, '_');
             const escapedTitle = episode.title.replace(/'/g, "\\'");
             const transcriptUrl = transcriptBaseUrl + episode.guid.split('/').pop().replace('.mp3', '.txt');
+            const episodePageUrl = `episode.html?id=${encodeURIComponent(episode.guid)}`;
             episodeDescriptions[episode.guid] = episode;
             
             return `
                 <div class="episode-card" data-episode-id="${safeId}">
-                    <div class="episode-artwork">
-                        <img src="${episode.artworkUrl || 'default-episode-art.png'}" alt="${escapedTitle}" />
-                        <div class="episode-play-overlay">
-                            <button class="episode-play-btn" onclick="toggleEpisodeAudio('${safeId}', '${episode.audioUrl}')">
-                                <svg viewBox="0 0 24 24">
-                                    <polygon points="6,3 20,12 6,21" />
-                                </svg>
-                            </button>
+                    <a href="${episodePageUrl}" class="episode-artwork-link">
+                        <div class="episode-artwork">
+                            <img src="${episode.artworkUrl || 'default-episode-art.png'}" alt="${escapedTitle}" />
+                            <div class="episode-play-overlay">
+                                <button class="episode-play-btn" onclick="event.preventDefault(); event.stopPropagation(); toggleEpisodeAudio('${safeId}', '${episode.audioUrl}')">
+                                    <svg viewBox="0 0 24 24">
+                                        <polygon points="6,3 20,12 6,21" />
+                                    </svg>
+                                </button>
+                            </div>
                         </div>
-                    </div>
+                    </a>
                     <div class="episode-content">
                         <div class="episode-date">${episode.dateStr} · ${episode.duration}</div>
-                        <h4 class="episode-title">${episode.title}</h4>
+                        <h4 class="episode-title">
+                            <a href="${episodePageUrl}" class="episode-title-link">${episode.title}</a>
+                        </h4>
                         <p class="episode-desc">${(episode.description || '').substring(0, 100)}...</p>
                     </div>
                     <div class="episode-player episode-player-hidden">

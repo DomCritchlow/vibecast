@@ -1,0 +1,58 @@
+{
+  "guid": "2026-01-04",
+  "date": "2026-01-04T00:00:00",
+  "title": "Morning Thread — January 04, 2026",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 276.0,
+  "duration_formatted": "4:36",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-04.mp3",
+    "audio_size_bytes": 4896000,
+    "artwork_url": null,
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-01-04.txt"
+  },
+  "stories": [
+    {
+      "title": "Someone made a ton of money betting on Maduro’s capture",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/853765/someone-made-a-ton-of-money-betting-on-maduros-capture",
+      "summary": ""
+    },
+    {
+      "title": "How to Manage Files on iOS and Android",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/how-to-manage-files-on-ios-and-android/",
+      "summary": ""
+    },
+    {
+      "title": "Show HN: GenVibe – AI generates React apps from text, Figma, screenshots",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://genvibe.pro",
+      "summary": ""
+    },
+    {
+      "title": "Safety, History, Contingency, & Mishaps",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/reference/safety-history-contingency-mishaps/",
+      "summary": ""
+    },
+    {
+      "title": "2026 News Releases",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/2026-news-releases/",
+      "summary": ""
+    },
+    {
+      "title": "NASA Study Suggests Saturn’s Moon Titan May Not Have Global Ocean",
+      "source": "NASA JPL News",
+      "url": "https://www.jpl.nasa.gov/news/nasa-study-suggests-saturns-moon-titan-may-not-have-global-ocean",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:24:53.377323",
+    "migration_source": "r2_storage"
+  }
+}

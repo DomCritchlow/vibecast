@@ -1,0 +1,58 @@
+{
+  "guid": "2025-12-19",
+  "date": "2025-12-19T00:00:00",
+  "title": "Morning Vibe",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 294.0,
+  "duration_formatted": "4:54",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-19.mp3",
+    "audio_size_bytes": 5938560,
+    "artwork_url": null,
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2025-12-19.txt"
+  },
+  "stories": [
+    {
+      "title": "Good News in History, December 18",
+      "source": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/events061218/",
+      "summary": ""
+    },
+    {
+      "title": "NASA’s Hubble Sees Asteroids Colliding at Nearby Star for First Time",
+      "source": "NASA Breaking News",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-sees-asteroids-colliding-at-nearby-star-for-first-time/",
+      "summary": ""
+    },
+    {
+      "title": "NASA, Boeing Test How to Improve Performance of Longer, Narrower Aircraft Wings",
+      "source": "NASA Breaking News",
+      "url": "https://www.nasa.gov/aeronautics/nasa-boeing-test-aircraft-wings/",
+      "summary": ""
+    },
+    {
+      "title": "Sam Venis documents infrastructure at \"political experiment\" Próspera in Honduras",
+      "source": "Dezeen",
+      "url": "https://www.dezeen.com/2025/12/18/infrastructure-prospera-honduras-sam-venis/",
+      "summary": ""
+    },
+    {
+      "title": "Modular housing complex for expanding families among projects from University of Southern California",
+      "source": "Dezeen",
+      "url": "https://www.dezeen.com/2025/12/18/modular-housing-structure-university-of-southern-california-schoolshows/",
+      "summary": ""
+    },
+    {
+      "title": "Ctrl+Alt+Defy, the white-hat hacker rewriting the cybersecurity rulebook",
+      "source": "Positive News",
+      "url": "https://www.positive.news/science/technology/ctrlaltdefy-the-white-hat-hacker-rewriting-the-cybersecurity-rulebook/",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:24:37.385893",
+    "migration_source": "r2_storage"
+  }
+}

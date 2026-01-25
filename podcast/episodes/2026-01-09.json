@@ -1,0 +1,58 @@
+{
+  "guid": "2026-01-09",
+  "date": "2026-01-09T00:00:00",
+  "title": "Morning Thread — January 09, 2026",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 276.0,
+  "duration_formatted": "4:36",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-09.mp3",
+    "audio_size_bytes": 5026176,
+    "artwork_url": null,
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-01-09.txt"
+  },
+  "stories": [
+    {
+      "title": "Putting immune cells into ‘night mode’ reduces heart-attack damage",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00008-x",
+      "summary": ""
+    },
+    {
+      "title": "Will mpox go global again? Research shows it's evolving in curious ways",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-025-04154-6",
+      "summary": ""
+    },
+    {
+      "title": "Netomi’s lessons for scaling agentic systems into the enterprise",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/netomi",
+      "summary": ""
+    },
+    {
+      "title": "Ideas: Community building, machine learning, and the future of AI",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/",
+      "summary": ""
+    },
+    {
+      "title": "BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/",
+      "summary": ""
+    },
+    {
+      "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:24:58.608871",
+    "migration_source": "r2_storage"
+  }
+}

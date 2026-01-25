@@ -1,0 +1,58 @@
+{
+  "guid": "2026-01-15",
+  "date": "2026-01-15T00:00:00",
+  "title": "Morning Thread — January 15, 2026",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 228.0,
+  "duration_formatted": "3:48",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-15.mp3",
+    "audio_size_bytes": 5685750,
+    "artwork_url": null,
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-01-15.txt"
+  },
+  "stories": [
+    {
+      "title": "ROSES-25 Amendment 38: D.5 Astrophysics Pioneers Updates",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/roses-25-amendment-38-d-5-astrophysics-pioneers-updates/",
+      "summary": ""
+    },
+    {
+      "title": "Neuroscientists Decipher Procrastination: A Brain Mechanism Explains Why People Leave Certain Tasks for Later",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/neuroscience-procrastination-brain-mechanism-task-avoidance/",
+      "summary": ""
+    },
+    {
+      "title": "Do you have a side hustle alongside your PhD studies? Take <i>Nature</i>’s poll",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00145-3",
+      "summary": ""
+    },
+    {
+      "title": "AI can turbocharge scientists’ careers — but limit their scope",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00162-2",
+      "summary": ""
+    },
+    {
+      "title": "FACTS Benchmark Suite: Systematically evaluating the factuality of large language models",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
+      "summary": ""
+    },
+    {
+      "title": "Agent Lightning: Adding reinforcement learning to AI agents without code rewrites",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:25:04.872897",
+    "migration_source": "r2_storage"
+  }
+}

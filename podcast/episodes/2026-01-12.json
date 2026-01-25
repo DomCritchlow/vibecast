@@ -1,0 +1,58 @@
+{
+  "guid": "2026-01-12",
+  "date": "2026-01-12T00:00:00",
+  "title": "Morning Thread — January 12, 2026",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 282.0,
+  "duration_formatted": "4:42",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-12.mp3",
+    "audio_size_bytes": 5233536,
+    "artwork_url": null,
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-01-12.txt"
+  },
+  "stories": [
+    {
+      "title": "Using unstructured data to fuel enterprise AI success",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/01/08/1129506/using-unstructured-data-to-fuel-enterprise-ai-success/",
+      "summary": ""
+    },
+    {
+      "title": "Google pulls AI overviews for some medical searches",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/860356/google-pulls-alarming-dangerous-medical-ai-overviews",
+      "summary": ""
+    },
+    {
+      "title": "Countries are outlawing online gambling ads. Meta is selling them anyway",
+      "source": "Rest of World",
+      "url": "https://restofworld.org/2026/meta-online-gambling-ads/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "summary": ""
+    },
+    {
+      "title": "Show HN: Remember Me AI (FULL RELEASE) – 40x cost reduction in AI memory systems",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://github.com/merchantmoh-debug/Remember-Me-AI",
+      "summary": ""
+    },
+    {
+      "title": "Ask HN: Has anyone built payment flows inside AI voice calls?",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://news.ycombinator.com/item?id=46584015",
+      "summary": ""
+    },
+    {
+      "title": "NASA’s Exoplanet Observing Satellite Separated From Rocket",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/blogs/smallsatellites/2026/01/11/nasas-exoplanet-observing-satellite-separated-from-rocket/",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:25:01.735151",
+    "migration_source": "r2_storage"
+  }
+}

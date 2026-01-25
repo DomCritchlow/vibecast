@@ -24,11 +24,8 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
       
-      - name: Rebuild RSS feed from R2
+      - name: Generate RSS feed from episode metadata
         env:
-          R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
-          R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
-          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
           VIBECAST_AUTHOR: ${{ secrets.VIBECAST_AUTHOR }}
           VIBECAST_SITE_URL: ${{ secrets.VIBECAST_SITE_URL }}
           VIBECAST_FEED_URL: ${{ secrets.VIBECAST_FEED_URL }}
@@ -36,9 +33,8 @@ jobs:
           VIBECAST_ARTWORK_URL: ${{ secrets.VIBECAST_ARTWORK_URL }}
           VIBECAST_AUTHOR_URL: ${{ secrets.VIBECAST_AUTHOR_URL }}
           VIBECAST_R2_PUBLIC_URL: ${{ secrets.VIBECAST_R2_PUBLIC_URL }}
-          VIBECAST_TIMEZONE: ${{ secrets.VIBECAST_TIMEZONE }}
         run: |
-          python scripts/rebuild_feed_from_r2.py
+          python scripts/generate_feed.py
       
       - name: Commit and push updated feed
         run: |
@@ -48,6 +44,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to feed"
           else
-            git commit -m "📡 Rebuild RSS feed from R2 [skip ci]"
+            git commit -m "📡 Regenerate RSS feed from metadata [skip ci]"
             git push
           fi

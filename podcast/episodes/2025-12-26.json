@@ -1,0 +1,58 @@
+{
+  "guid": "2025-12-26",
+  "date": "2025-12-26T00:00:00",
+  "title": "Morning Vibe",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 294.0,
+  "duration_formatted": "4:54",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-26.mp3",
+    "audio_size_bytes": 5779680,
+    "artwork_url": null,
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2025-12-26.txt"
+  },
+  "stories": [
+    {
+      "title": "New Species Being Discovered Faster Than Ever – At a Rate of Over 16,000 a Year",
+      "source": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/new-species-being-discovered-faster-than-ever-at-a-rate-of-over-16000-a-year/",
+      "summary": ""
+    },
+    {
+      "title": "NYC on track for near-record low number of homicides in 2025",
+      "source": "Gothamist (NYC)",
+      "url": "https://gothamist.com/news/nyc-on-track-for-near-record-low-number-of-homicides-in-2025",
+      "summary": ""
+    },
+    {
+      "title": "Breaking boundaries: the headsets bringing cricket to partially sighted fans",
+      "source": "Positive News",
+      "url": "https://www.positive.news/lifestyle/sport/tech-opens-cricket-to-blind-and-partially-sighted-fans/",
+      "summary": ""
+    },
+    {
+      "title": "‘I found my people’: Frank Turner on saving Britain’s grassroots music venues",
+      "source": "Positive News",
+      "url": "https://www.positive.news/society/i-found-my-people-frank-turner-on-saving-britains-grassroots-music-venues/",
+      "summary": ""
+    },
+    {
+      "title": "Keep Out All Your Christmas Spices – They’re Powerful Antioxidants Known as ‘Nutraceuticals’",
+      "source": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/christmas-spices-are-powerful-antioxidants-known-as-nutraceuticals/",
+      "summary": ""
+    },
+    {
+      "title": "One in a million: celebrating the customers shaping AI’s future",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/one-in-a-million-customers",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:24:44.255294",
+    "migration_source": "r2_storage"
+  }
+}

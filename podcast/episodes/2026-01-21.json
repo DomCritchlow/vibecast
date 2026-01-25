@@ -1,0 +1,80 @@
+{
+  "guid": "2026-01-21",
+  "date": "2026-01-21T00:00:00",
+  "title": "Morning Thread — January 21, 2026",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 252.0,
+  "duration_formatted": "4:12",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-21.mp3",
+    "audio_size_bytes": 6212379,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-21/episode-art.png",
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-01-21.txt"
+  },
+  "stories": [
+    {
+      "title": "US Congress set to reject Trump’s sweeping science budget cuts",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00163-1",
+      "summary": ""
+    },
+    {
+      "title": "Trump one year on: How six US researchers plan to protect science amid chaos and cuts",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00090-1",
+      "summary": ""
+    },
+    {
+      "title": "Multimodal reinforcement learning with agentic verifier for AI agents",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/",
+      "summary": ""
+    },
+    {
+      "title": "Reimagining ERP for the agentic AI era",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/01/20/1129965/reimagining-erp-for-the-agentic-ai-era/",
+      "summary": ""
+    },
+    {
+      "title": "The UK government is backing AI that can run its own lab experiments",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/01/20/1131462/the-uk-government-is-backing-ai-scientists-that-can-run-their-own-experiments/",
+      "summary": ""
+    },
+    {
+      "title": "Jimmy Wales Will Never Edit Donald Trump’s Wikipedia Page: He ‘Makes Me Insane’",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-jimmy-wales/",
+      "summary": ""
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "How Pinterest Built An Async Compute Platform for Billions of Task Executions",
+      "author": "Alex Xu",
+      "source": "ByteByteGo Newsletter",
+      "url": "https://blog.bytebytego.com/p/how-pinterest-built-an-async-compute",
+      "description": ""
+    },
+    {
+      "title": "Why AI Needs GPUs and TPUs: The Hardware Behind LLMs",
+      "author": "Alex Xu",
+      "source": "ByteByteGo Newsletter",
+      "url": "https://blog.bytebytego.com/p/why-ai-needs-gpus-and-tpus-the-hardware",
+      "description": ""
+    },
+    {
+      "title": "EP198: Best Resources to Learn AI in 2026",
+      "author": "Alex Xu",
+      "source": "ByteByteGo Newsletter",
+      "url": "https://blog.bytebytego.com/p/ep198-best-resources-to-learn-ai",
+      "description": ""
+    }
+  ],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:25:10.892649",
+    "migration_source": "r2_storage"
+  }
+}

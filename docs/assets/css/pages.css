@@ -2168,3 +2168,324 @@
   margin-top: var(--space-4);
   margin-bottom: 0;
 }
+
+/* --------------------------------------------------------------------------
+   EPISODE PAGE STYLES
+   -------------------------------------------------------------------------- */
+
+.episode-header {
+  padding: var(--space-12) 0;
+  background: var(--paper-0);
+}
+
+.episode-back-link {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  color: var(--ink-2);
+  font-size: var(--text-sm);
+  font-weight: 500;
+  text-decoration: none;
+  margin-bottom: var(--space-8);
+  transition: color 0.2s ease;
+}
+
+.episode-back-link:hover {
+  color: var(--accent-3);
+}
+
+.episode-hero {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--space-8);
+}
+
+@media (min-width: 768px) {
+  .episode-hero {
+    grid-template-columns: 400px 1fr;
+    gap: var(--space-12);
+  }
+}
+
+.episode-hero-artwork {
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.episode-hero-artwork img {
+  width: 100%;
+  height: auto;
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-lg);
+}
+
+.episode-hero-content {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}
+
+.episode-meta {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  flex-wrap: wrap;
+}
+
+.episode-date,
+.episode-duration {
+  font-size: var(--text-sm);
+  color: var(--ink-2);
+  font-weight: 500;
+}
+
+.episode-title {
+  font-size: var(--text-3xl);
+  font-weight: 700;
+  line-height: 1.2;
+  color: var(--ink-4);
+  margin: 0;
+}
+
+.episode-description {
+  font-size: var(--text-lg);
+  color: var(--ink-3);
+  line-height: 1.6;
+  margin: var(--space-4) 0;
+}
+
+/* Full-featured audio player */
+.episode-player-full {
+  background: var(--paper-1);
+  border: 2px solid var(--ink-1);
+  border-radius: var(--radius-md);
+  padding: var(--space-6);
+  margin: var(--space-6) 0;
+}
+
+.player-controls {
+  display: flex;
+  align-items: center;
+  gap: var(--space-4);
+}
+
+.player-play-btn {
+  flex-shrink: 0;
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: var(--accent-2);
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.player-play-btn:hover {
+  background: var(--accent-3);
+  transform: scale(1.05);
+}
+
+.player-play-btn svg {
+  width: 24px;
+  height: 24px;
+  fill: var(--paper-0);
+}
+
+.player-progress-area {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+
+.player-track {
+  height: 8px;
+  background: var(--ink-1);
+  border-radius: 4px;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+}
+
+.player-progress {
+  height: 100%;
+  background: var(--accent-2);
+  border-radius: 4px;
+  width: 0%;
+  transition: width 0.1s linear;
+}
+
+.player-times {
+  display: flex;
+  justify-content: space-between;
+  font-size: var(--text-sm);
+  color: var(--ink-2);
+  font-weight: 500;
+}
+
+.episode-actions {
+  display: flex;
+  gap: var(--space-3);
+  flex-wrap: wrap;
+  margin-top: var(--space-4);
+}
+
+.episode-actions .btn svg {
+  margin-right: var(--space-2);
+}
+
+/* Stories Section */
+.episode-stories {
+  padding: var(--space-16) 0;
+  background: var(--paper-1);
+}
+
+.stories-grid {
+  display: grid;
+  gap: var(--space-6);
+  margin-top: var(--space-8);
+}
+
+@media (min-width: 768px) {
+  .stories-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.story-card {
+  background: var(--paper-0);
+  border: 2px solid var(--ink-1);
+  border-radius: var(--radius-md);
+  padding: var(--space-6);
+  transition: all 0.2s ease;
+}
+
+.story-card:hover {
+  border-color: var(--accent-2);
+  box-shadow: var(--shadow-md);
+}
+
+.story-title {
+  font-size: var(--text-lg);
+  font-weight: 600;
+  color: var(--ink-4);
+  margin: 0 0 var(--space-3) 0;
+  line-height: 1.3;
+}
+
+.story-summary {
+  font-size: var(--text-base);
+  color: var(--ink-3);
+  line-height: 1.6;
+  margin: 0 0 var(--space-4) 0;
+}
+
+.story-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: var(--space-4);
+  border-top: 1px solid var(--ink-1);
+}
+
+.story-source {
+  font-size: var(--text-sm);
+  color: var(--ink-2);
+  font-weight: 500;
+}
+
+.story-link {
+  font-size: var(--text-sm);
+  color: var(--accent-3);
+  text-decoration: none;
+  font-weight: 600;
+  transition: color 0.2s ease;
+}
+
+.story-link:hover {
+  color: var(--accent-4);
+}
+
+/* Reading List Section */
+.episode-reading-list {
+  padding: var(--space-16) 0;
+  background: var(--paper-0);
+}
+
+.reading-list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-6);
+  margin-top: var(--space-8);
+}
+
+.reading-item {
+  background: var(--paper-1);
+  border: 2px solid var(--ink-1);
+  border-radius: var(--radius-md);
+  padding: var(--space-6);
+}
+
+.reading-title {
+  font-size: var(--text-xl);
+  font-weight: 600;
+  color: var(--ink-4);
+  margin: 0 0 var(--space-2) 0;
+}
+
+.reading-author {
+  font-size: var(--text-sm);
+  color: var(--ink-2);
+  font-style: italic;
+  margin: 0 0 var(--space-3) 0;
+}
+
+.reading-description {
+  font-size: var(--text-base);
+  color: var(--ink-3);
+  line-height: 1.6;
+  margin: 0 0 var(--space-4) 0;
+}
+
+.reading-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: var(--space-4);
+  border-top: 1px solid var(--ink-1);
+}
+
+.reading-source {
+  font-size: var(--text-sm);
+  color: var(--ink-2);
+  font-weight: 500;
+}
+
+.reading-link {
+  font-size: var(--text-sm);
+  color: var(--accent-3);
+  text-decoration: none;
+  font-weight: 600;
+  transition: color 0.2s ease;
+}
+
+.reading-link:hover {
+  color: var(--accent-4);
+}
+
+/* Newspaper Section */
+.episode-newspaper {
+  padding: var(--space-16) 0;
+  background: var(--paper-1);
+}
+
+.newspaper-embed {
+  margin-top: var(--space-8);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  box-shadow: var(--shadow-lg);
+}

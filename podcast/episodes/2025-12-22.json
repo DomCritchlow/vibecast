@@ -1,0 +1,58 @@
+{
+  "guid": "2025-12-22",
+  "date": "2025-12-22T00:00:00",
+  "title": "Morning Vibe",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 288.0,
+  "duration_formatted": "4:48",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-22.mp3",
+    "audio_size_bytes": 5467200,
+    "artwork_url": null,
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2025-12-22.txt"
+  },
+  "stories": [
+    {
+      "title": "Show HN: Eze – AI startup roadmap co‑pilot (Day 2 update)",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://eze.lovable.app/",
+      "summary": ""
+    },
+    {
+      "title": "Show HN: Spring AI Playground – No-code MCP tool studio and agentic chat",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://github.com/spring-ai-community/spring-ai-playground",
+      "summary": ""
+    },
+    {
+      "title": "Starship success, a private moon landing and more: The top 10 spaceflight stories of 2025",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/starship-success-a-private-moon-landing-and-more-the-top-10-spaceflight-stories-of-2025",
+      "summary": ""
+    },
+    {
+      "title": "What went right this week: treating the ‘untreatable’, plus more",
+      "source": "Positive News",
+      "url": "https://www.positive.news/society/good-news-stories-from-week-50-of-2025/",
+      "summary": ""
+    },
+    {
+      "title": "Abandoned oil refineries are becoming unlikely havens for wildlife",
+      "source": "Positive News",
+      "url": "https://www.positive.news/environment/abandoned-oil-refineries-are-becoming-unlikely-havens-for-wildlife/",
+      "summary": ""
+    },
+    {
+      "title": "Fussy Girl Overcomes Vegetable Phobia and Now Loves Brussels Sprouts Thanks to Eating Disorder Specialist",
+      "source": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/fussy-girl-overcomes-vegetable-phobia-and-now-loves-brussels-sprouts-thanks-to-specialist/",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:24:40.370800",
+    "migration_source": "r2_storage"
+  }
+}

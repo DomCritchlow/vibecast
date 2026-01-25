@@ -1,0 +1,58 @@
+{
+  "guid": "2026-01-13",
+  "date": "2026-01-13T00:00:00",
+  "title": "Morning Thread — January 13, 2026",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 258.0,
+  "duration_formatted": "4:18",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-13.mp3",
+    "audio_size_bytes": 4555776,
+    "artwork_url": null,
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-01-13.txt"
+  },
+  "stories": [
+    {
+      "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
+      "summary": ""
+    },
+    {
+      "title": "Fara-7B: An Efficient Agentic Model for Computer Use",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/",
+      "summary": ""
+    },
+    {
+      "title": "MMCTAgent: Enabling multimodal reasoning over large video and image collections",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/",
+      "summary": ""
+    },
+    {
+      "title": "Mitigating emissions from air freight: Unlocking the potential of SAF with book and claim",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/01/12/1128939/mitigating-emissions-from-air-freight-unlocking-the-potential-of-saf-with-book-and-claim/",
+      "summary": ""
+    },
+    {
+      "title": "US scientists push back as Trump eyes Greenland",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00068-z",
+      "summary": ""
+    },
+    {
+      "title": "Fresh starts: how to thrive when you leave academia",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00085-y",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:25:02.789692",
+    "migration_source": "r2_storage"
+  }
+}

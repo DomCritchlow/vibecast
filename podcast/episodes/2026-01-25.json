@@ -1,0 +1,80 @@
+{
+  "guid": "2026-01-25",
+  "date": "2026-01-25T00:00:00",
+  "title": "Morning Thread — January 25, 2026",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 282.0,
+  "duration_formatted": "4:42",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-25.mp3",
+    "audio_size_bytes": 6577300,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-25/episode-art.png",
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-01-25.txt"
+  },
+  "stories": [
+    {
+      "title": "Big Tech is racing to own Africa’s internet",
+      "source": "Rest of World",
+      "url": "https://restofworld.org/2026/amazon-starlink-africa/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "summary": ""
+    },
+    {
+      "title": "Sergio Sejas",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/people/sergio-sejas/",
+      "summary": ""
+    },
+    {
+      "title": "NASA Selects Participants to Track Artemis II Mission",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/technology/space-comms/nasa-selects-participants-to-track-artemis-ii-mission/",
+      "summary": ""
+    },
+    {
+      "title": "NASA, Partners Share First Data From New US-European Sea Satellite",
+      "source": "NASA JPL News",
+      "url": "https://www.jpl.nasa.gov/news/nasa-partners-share-first-data-from-new-us-european-sea-satellite",
+      "summary": ""
+    },
+    {
+      "title": "How Animals Build a Sense of Direction",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/how-animals-build-a-sense-of-direction-20260121/",
+      "summary": ""
+    },
+    {
+      "title": "Why There’s No Single Best Way To Store Information",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/why-theres-no-single-best-way-to-store-information-20260116/",
+      "summary": ""
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "EP199: Behind the Scenes: What Happens When You Enter Google.com",
+      "author": "Alex Xu",
+      "source": "ByteByteGo Newsletter",
+      "url": "https://blog.bytebytego.com/p/ep199-behind-the-scenes-what-happens",
+      "description": ""
+    },
+    {
+      "title": "We are hiring at ByteByteGo",
+      "author": "Alex Xu",
+      "source": "ByteByteGo Newsletter",
+      "url": "https://blog.bytebytego.com/p/we-are-hiring-at-bytebytego",
+      "description": ""
+    },
+    {
+      "title": "The Must-Know Fundamentals of Distributed Systems",
+      "author": "Alex Xu",
+      "source": "ByteByteGo Newsletter",
+      "url": "https://blog.bytebytego.com/p/the-must-know-fundamentals-of-distributed",
+      "description": ""
+    }
+  ],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:25:14.960648",
+    "migration_source": "r2_storage"
+  }
+}

@@ -21,6 +21,7 @@ from .artwork import generate_and_publish_episode_artwork
 from .rss_feed import create_episode_metadata, update_feed, save_feed
 from .site_generator import save_index_html
 from .newspaper import generate_newspaper_pdf, generate_newspaper_html
+from .episode_store import save_episode
 
 
 # Paths relative to this file
@@ -509,18 +510,77 @@ def run_pipeline(dry_run: bool = False, verbose: bool = False) -> bool:
             print(f"  Warning: Newspaper generation/upload failed: {e}")
             print(f"  (Install WeasyPrint: pip install weasyprint)")
         
-        # Create episode metadata with show notes (including newspaper URL)
+        # Save episode metadata to JSON (single source of truth)
+        print("\n  Saving episode metadata to JSON...")
+        
+        # Get R2 public URL for transcript
+        storage_config = config.get("storage", {})
+        r2_config = storage_config.get("r2", {})
+        r2_public_url = os.environ.get("VIBECAST_R2_PUBLIC_URL", r2_config.get("public_base_url", ""))
+        
+        # Get LLM/TTS config
+        openai_config = config.get("openai", {})
+        
+        episode_json = {
+            "guid": today.strftime('%Y-%m-%d'),
+            "date": today.isoformat(),
+            "title": episode_title,
+            "tagline": config.get("podcast", {}).get("tagline", "Your daily podcast"),
+            "duration_seconds": estimated_duration * 60,
+            "duration_formatted": f"{int(estimated_duration)}:{int((estimated_duration % 1) * 60):02d}",
+            
+            "media": {
+                "audio_url": mp3_url,
+                "audio_size_bytes": len(mp3_bytes),
+                "artwork_url": episode_image_url,
+                "newspaper_url": newspaper_url,
+                "transcript_url": f"{r2_public_url.rstrip('/')}/transcripts/{today.strftime('%Y-%m-%d')}.txt"
+            },
+            
+            "stories": [
+                {
+                    "title": item.title,
+                    "source": item.source,
+                    "url": item.url,
+                    "summary": item.summary
+                }
+                for item in selected
+            ],
+            
+            "reading_list": [
+                {
+                    "title": item.title,
+                    "author": getattr(item, 'author', ''),
+                    "source": item.source,
+                    "url": item.url,
+                    "description": getattr(item, 'description', '')
+                }
+                for item in reading_items
+            ] if reading_items else [],
+            
+            "metadata": {
+                "created_at": datetime.now().isoformat(),
+                "llm_model": openai_config.get("llm", {}).get("model", "gpt-4o-mini"),
+                "tts_provider": tts_provider,
+                "tts_voice": provider_config.get("voice", "nova") if tts_provider == "openai" else provider_config.get("voice_id", "rachel")
+            }
+        }
+        
+        json_path = save_episode(episode_json)
+        print(f"  ✓ Saved episode JSON: {json_path}")
+        
+        # Create episode metadata for RSS (from JSON, for compatibility)
         episode = create_episode_metadata(
             date=today,
             mp3_url=mp3_url,
             mp3_size=len(mp3_bytes),
             duration_seconds=estimated_duration * 60,
             config=config,
-            items=selected,  # Include items for rich show notes
-            episode_image_url=episode_image_url,  # AI-generated episode artwork
-            custom_title=episode_title,  # AI-generated content-based title
-            reading_items=reading_items,  # Include reading list in show notes
-            newspaper_url=newspaper_url,  # Link to newspaper PDF
+            items=selected,
+            episode_image_url=episode_image_url,
+            custom_title=episode_title,
+            reading_items=reading_items,
+            newspaper_url=newspaper_url,
         )
         
         # Update RSS feed

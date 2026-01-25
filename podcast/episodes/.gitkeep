@@ -1,0 +1,29 @@
+# Episode Metadata Store
+
+This directory contains the single source of truth for all episode metadata.
+
+Each file is named `YYYY-MM-DD.json` and contains:
+- Episode title, description, duration
+- Story references with URLs
+- Reading list items
+- Media URLs (audio, artwork, newspaper, transcript)
+- Creation metadata
+
+The RSS feed, website, and all other outputs are generated from these JSON files.
+
+## Why JSON files instead of database?
+
+1. **Git-trackable** - Version history for all episode metadata
+2. **Human-readable** - Easy to edit and review
+3. **Simple** - No database setup required
+4. **Fast** - Perfect for <1000 episodes
+5. **Portable** - Easy to backup, migrate, or export
+
+## Migration to database (if needed later)
+
+When you have 1000+ episodes and need:
+- Complex queries
+- Real-time updates
+- Multi-user editing
+
+Then migrate to SQLite or PostgreSQL. The JSON structure maps directly to a database schema.

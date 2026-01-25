@@ -1,0 +1,58 @@
+{
+  "guid": "2026-01-03",
+  "date": "2026-01-03T00:00:00",
+  "title": "Morning Thread — January 03, 2026",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 288.0,
+  "duration_formatted": "4:48",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-03.mp3",
+    "audio_size_bytes": 4795776,
+    "artwork_url": null,
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-01-03.txt"
+  },
+  "stories": [
+    {
+      "title": "Researchers spot Saturn-sized planet in the “Einstein desert”",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/01/researchers-spot-saturn-sized-planet-in-the-einstein-desert/",
+      "summary": ""
+    },
+    {
+      "title": "LG announces the &#8216;world’s lightest 17-inch RTX laptop&#8217;",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/852628/lg-gram-pro-17-16-laptop-2026-ces",
+      "summary": ""
+    },
+    {
+      "title": "Welcome to the Future of Noise Canceling",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/welcome-to-the-future-of-noise-canceling/",
+      "summary": ""
+    },
+    {
+      "title": "Here’s How Long You Should Walk Every Day to Prevent Back Pain",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/heres-how-long-you-should-walk-every-day-to-prevent-back-pain/",
+      "summary": ""
+    },
+    {
+      "title": "Fundamentals of Human Health",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/reference/fundamentals-of-human-health/",
+      "summary": ""
+    },
+    {
+      "title": "Vehicle Systems, Interfaces, Structure & Environmental Design",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/reference/vehicle-systems-interfaces-structure-environmental-design/",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:24:52.440370",
+    "migration_source": "r2_storage"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "guid": "2026-01-11",
+  "date": "2026-01-11T00:00:00",
+  "title": "Morning Thread — January 11, 2026",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 270.0,
+  "duration_formatted": "4:30",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-11.mp3",
+    "audio_size_bytes": 4576896,
+    "artwork_url": null,
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-01-11.txt"
+  },
+  "stories": [
+    {
+      "title": "AI models were given four weeks of therapy: the results worried researchers",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-025-04112-2",
+      "summary": ""
+    },
+    {
+      "title": "Chinese nuclear fusion reactor pushes plasma past crucial limit: what happens next",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00063-4",
+      "summary": ""
+    },
+    {
+      "title": "America’s new dietary guidelines ignore decades of scientific research",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/01/08/1130905/americas-diet-guidelines-ignore-scientific-research-red-meat-beef-tallow/",
+      "summary": ""
+    },
+    {
+      "title": "The Download: mimicking pregnancy’s first moments in a lab, and AI parameters explained",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/01/08/1130880/the-download-mimicking-pregnancys-first-moments-in-a-lab-and-ai-parameters-explained/",
+      "summary": ""
+    },
+    {
+      "title": "I replaced Windows with Linux and everything’s going great",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/858910/linux-diary-gaming-desktop",
+      "summary": ""
+    },
+    {
+      "title": "OpenAI has launched ChatGPT Health. Should we trust it?",
+      "source": "Rest of World",
+      "url": "https://restofworld.org/2026/openai-has-launched-chatgpt-health-should-we-trust-it/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:25:00.686974",
+    "migration_source": "r2_storage"
+  }
+}

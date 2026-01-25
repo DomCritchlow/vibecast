@@ -1,0 +1,58 @@
+{
+  "guid": "2025-12-17",
+  "date": "2025-12-17T00:00:00",
+  "title": "Morning Vibe",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 276.0,
+  "duration_formatted": "4:36",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-17.mp3",
+    "audio_size_bytes": 5317440,
+    "artwork_url": null,
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2025-12-17.txt"
+  },
+  "stories": [
+    {
+      "title": "NASA Launches Research Program for Students to Explore Big Ideas",
+      "source": "NASA Breaking News",
+      "url": "https://www.nasa.gov/learning-resources/research-program-for-students/",
+      "summary": ""
+    },
+    {
+      "title": "Through Astronaut Eyes: 25 Years of Life in Orbit",
+      "source": "NASA Breaking News",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/through-astronaut-eyes-25-years-of-life-in-orbit/",
+      "summary": ""
+    },
+    {
+      "title": "NASA, Partners Share First Data From New US-European Sea Satellite",
+      "source": "NASA JPL News",
+      "url": "https://www.jpl.nasa.gov/news/nasa-partners-share-first-data-from-new-us-european-sea-satellite",
+      "summary": ""
+    },
+    {
+      "title": "Nothing fans contribute to retro-tinged Phone (3a) Community Edition",
+      "source": "Dezeen",
+      "url": "https://www.dezeen.com/2025/12/16/nothing-phone-3a-community-edition-design/",
+      "summary": ""
+    },
+    {
+      "title": "Nothing’s New Phone (3a) Was Designed by Its Future Users",
+      "source": "Design Milk",
+      "url": "https://design-milk.com/nothings-new-phone-3a-was-designed-by-its-future-users/",
+      "summary": ""
+    },
+    {
+      "title": "A season of solidarity: eight projects empowering people this Christmas",
+      "source": "Positive News",
+      "url": "https://www.positive.news/society/a-season-of-solidarity-8-grassroots-ideas-powering-christmas-2025/",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:24:35.305353",
+    "migration_source": "r2_storage"
+  }
+}

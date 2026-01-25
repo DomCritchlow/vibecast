@@ -381,3 +381,38 @@
     transform: rotate(360deg);
   }
 }
+
+/* Episode Link Styles */
+.episode-title-link {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.episode-title-link:hover {
+  color: var(--accent-3);
+}
+
+.episode-artwork-link {
+  display: block;
+  text-decoration: none;
+}
+
+.episode-artwork-link:hover .episode-artwork img {
+  transform: scale(1.02);
+  transition: transform 0.2s ease;
+}
+
+.episode-artwork img {
+  transition: transform 0.2s ease;
+}
+
+.latest-title-text {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.latest-title-text:hover {
+  color: var(--accent-3);
+}

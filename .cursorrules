@@ -25,49 +25,83 @@
 
 ## NEVER Manually Edit Generated Files
 
-### Rule 1: Do NOT Edit `docs/*.html` Directly
+### Rule 1: Do NOT Edit `docs/*.html` Directly (except episode.html)
 
-**Why?** These are GENERATED from Jinja2 templates and will be overwritten.
+**Why?** Most HTML files are GENERATED from Jinja2 templates and will be overwritten.
 
-**Correct approach:**
+**Exception**: `docs/episode.html` is a static template (not generated)
+
+**Correct approach for templated pages:**
 1. Edit the template: `podcast/templates/*.html`
-2. Test locally: `source venv/bin/activate && python -c "from podcast.site_generator import save_site_pages; from pathlib import Path; import yaml; save_site_pages(yaml.safe_load(open('podcast/config.yaml')), Path('docs'))"`
+2. Test locally: `source venv/bin/activate && python scripts/regenerate_all.py`
 3. Commit ONLY the template: `git add podcast/templates/`
 4. Let GitHub Actions regenerate and deploy the HTML
 
 ### Rule 2: Do NOT Edit `docs/feed.xml` Directly
 
-**Why?** The RSS feed is generated from R2 storage data + `podcast/rss_feed.py` logic.
+**Why?** The RSS feed is generated from episode JSON metadata.
 
-**When you need to update the feed structure:**
-1. Edit the generation logic: `podcast/rss_feed.py`
-2. Test locally: `source venv/bin/activate && set -a && source .env && set +a && python scripts/rebuild_feed_from_r2.py`
-3. Commit only the Python code: `git add podcast/rss_feed.py`
-4. GitHub Actions will rebuild feed.xml from R2 (preserving episode GUIDs)
+**Correct approach:**
+1. Edit episode metadata: `podcast/episodes/2026-01-25.json`
+2. OR edit generation logic: `podcast/rss_feed.py` or `podcast/episode_store.py`
+3. Test locally: `source venv/bin/activate && python scripts/regenerate_all.py`
+4. Commit source files: `git add podcast/episodes/ podcast/rss_feed.py`
+5. GitHub Actions will regenerate feed.xml
+
+### Rule 3: Do NOT Edit Episode Metadata Directly in RSS Feed
+
+**Why?** Episode data is stored in `podcast/episodes/*.json` files (single source of truth)
+
+**Correct approach:**
+1. Edit JSON: `vim podcast/episodes/2026-01-25.json`
+2. Regenerate: `python scripts/regenerate_all.py`
+3. Commit: `git add podcast/episodes/2026-01-25.json docs/feed.xml`
 
 ## GitHub Actions Workflows
 
 ### Daily Operations
 - **`daily.yml`** - Runs at 04:00 UTC daily
-  - Creates new episode (content, audio, artwork)
-  - Uploads to R2
-  - Updates feed.xml with new episode
-  - Regenerates site HTML
+ - Creates new episode (content, audio, artwork)
+ - Saves episode JSON to `podcast/episodes/`
+ - Updates feed.xml and site HTML
+ - Commits: episode JSON, feed.xml, HTML, state.json
 
 ### Manual-Only Workflows (Emergency Use)
 - **`regenerate-site.yml`** - Manual trigger only
-  - Regenerates HTML from templates
-  - Use when: Template changes need deploying without new episode
-  
+ - Regenerates ALL outputs from episode JSON metadata
+ - Use when: Template changes or config updates need deploying
+ 
 - **`rebuild-feed.yml`** - Manual trigger only
-  - Rebuilds feed.xml from R2 storage
-  - Preserves episode GUIDs (podcast players won't see duplicates)
-  - Use when: Feed structure needs updating without new episode
+ - Regenerates feed.xml from episode JSON metadata
+ - Use when: Feed structure needs updating without site regeneration
 
-## Key Principle
-**Source of Truth:**
-- Episode content/audio → R2 storage
-- RSS feed structure → `podcast/rss_feed.py` + R2 data
-- HTML pages → `podcast/templates/` + config.yaml
+## Key Principle: Single Source of Truth
 
-**Never edit generated outputs - edit the source and regenerate!**
+**Episode Metadata** → `podcast/episodes/*.json` (Git-tracked)
+- Episode title, duration, stories, reading list
+- Media URLs (audio, artwork, transcript, newspaper)
+- ALL episode data in one JSON file
+
+**Episode Media** → R2 storage (Not in Git)
+- MP3 audio files
+- Episode artwork
+- Transcripts
+- Newspaper PDFs
+
+**Generated Outputs** → `docs/` (Generated from JSON, Git-tracked for deployment)
+- `feed.xml` - Generated from episode JSON
+- `index.html`, `about.html`, `docs.html` - Generated from templates
+- `episode.html` - Static template (loads data dynamically)
+
+**Templates** → `podcast/templates/` (Git-tracked)
+- Jinja2 templates for main pages
+
+**Configuration** → `podcast/config.yaml` (Git-tracked)
+- Podcast settings, vibe, sources
+
+**Regeneration Flow**:
+```
+podcast/episodes/*.json  →  scripts/regenerate_all.py  →  docs/feed.xml + docs/*.html
+```
+
+**Never edit generated outputs - edit the source (JSON or templates) and regenerate!**

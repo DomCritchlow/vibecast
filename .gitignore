@@ -54,3 +54,13 @@ docs/newspapers/*.html
 !docs/artwork.png
 !docs/scripts/.gitkeep
 !docs/newspapers/.gitkeep
+
+# ===== NEW ARCHITECTURE (Post-Migration) =====
+# Git-tracked (source of truth):
+# - podcast/episodes/*.json (all episode metadata)
+# - docs/feed.xml (generated, for deployment)
+# - docs/*.html (generated, for deployment)
+#
+# NOT in Git:
+# - Audio/media files in R2 storage
+# - Transcripts in R2 storage

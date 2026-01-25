@@ -1,0 +1,58 @@
+{
+  "guid": "2025-12-23",
+  "date": "2025-12-23T00:00:00",
+  "title": "Morning Vibe",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 270.0,
+  "duration_formatted": "4:30",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-23.mp3",
+    "audio_size_bytes": 5550720,
+    "artwork_url": null,
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2025-12-23.txt"
+  },
+  "stories": [
+    {
+      "title": "Sentinel-6B Extends Global Ocean Height Record",
+      "source": "NASA Breaking News",
+      "url": "https://science.nasa.gov/science-research/earth-science/sentinel-6b-extends-global-ocean-height-record/",
+      "summary": ""
+    },
+    {
+      "title": "Over 600 Lakes, Ponds, Reservoirs Restored Across the Whole of India by Divinely-Inspired Nonprofit",
+      "source": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/over-600-lakes-ponds-reservoirs-restored-across-the-whole-of-india-by-divinely-inspired-nonprofit/",
+      "summary": ""
+    },
+    {
+      "title": "Massive ‘Shovel-Ready’ Critical Minerals Deposit Found in Utah–Largest Potentially in North America",
+      "source": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/massive-shovel-ready-critical-minerals-deposit-found-in-utah-largest-potentially-in-north-america/",
+      "summary": ""
+    },
+    {
+      "title": "Keeping Up with PACE: Summary of the 2025 PAC3 Meeting",
+      "source": "NASA Breaking News",
+      "url": "https://science.nasa.gov/science-research/earth-science/keeping-up-with-pace-summary-of-the-2025-pac3-meeting/",
+      "summary": ""
+    },
+    {
+      "title": "Rocket Lab launches final mission of 2025, sends Japanese Earth-observing satellite to orbit (video)",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-final-mission-of-2025-sends-japanese-earth-observing-satellite-to-orbit-video",
+      "summary": ""
+    },
+    {
+      "title": "Colourful restaurant Motorino offers peek into neighbouring Fitzrovia chapel",
+      "source": "Dezeen",
+      "url": "https://www.dezeen.com/2025/12/22/motorino-restaurant-peek-neighbouring-fitzrovia-chapel/",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:24:41.338688",
+    "migration_source": "r2_storage"
+  }
+}

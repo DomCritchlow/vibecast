@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="page-title">Episode - Vibecast</title>
+    <meta name="description" content="Tech, science, and what's actually interesting" id="page-description">
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="alternate" type="application/rss+xml" title="Vibecast: Morning Thread RSS Feed" href="feed.xml">
+    
+    <!-- Google Fonts: Fraunces (headings) + Inter (body) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700;9..144,900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Design System + Components + Pages -->
+    <link rel="stylesheet" href="assets/css/design-system.css">
+    <link rel="stylesheet" href="assets/css/components.css">
+    <link rel="stylesheet" href="assets/css/pages.css">
+</head>
+<body>
+    <div class="page">
+        <!-- Navigation -->
+        <nav class="nav">
+            <div class="nav-inner">
+                <div class="nav-brand">
+                    <a href="index.html" class="nav-logo">Vibecast</a>
+                    <span class="nav-host">with <strong>Riso</strong></span>
+                </div>
+                <button class="nav-toggle" aria-label="Toggle navigation" onclick="toggleNav()">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <line x1="3" y1="6" x2="21" y2="6"></line>
+                        <line x1="3" y1="12" x2="21" y2="12"></line>
+                        <line x1="3" y1="18" x2="21" y2="18"></line>
+                    </svg>
+                </button>
+                <ul class="nav-links" id="nav-links">
+                    <li><a href="index.html" class="nav-link">Home</a></li>
+                    <li><a href="about.html" class="nav-link">About</a></li>
+                    <li><a href="docs.html" class="nav-link">Docs</a></li>
+                    <li><a href="index.html#subscribe" class="nav-link nav-subscribe">Subscribe</a></li>
+                </ul>
+            </div>
+        </nav>
+        
+        <!-- Main Content -->
+        <main class="page-main">
+            
+<!-- Loading State -->
+<div id="loading-state" class="loading" style="min-height: 60vh; display: flex;">
+    <div class="loading-spinner"></div>
+</div>
+
+<!-- Episode Content (hidden until loaded) -->
+<div id="episode-content" style="display: none;">
+    <!-- Episode Header -->
+    <section class="episode-header">
+        <div class="container">
+            <a href="index.html" class="episode-back-link">← Back to Episodes</a>
+            
+            <div class="episode-hero">
+                <div class="episode-hero-artwork">
+                    <img id="episode-artwork" src="default-episode-art.png" alt="Episode artwork" />
+                </div>
+                
+                <div class="episode-hero-content">
+                    <div class="episode-meta">
+                        <span class="episode-date" id="episode-date">Loading...</span>
+                        <span class="episode-duration" id="episode-duration"></span>
+                    </div>
+                    
+                    <h1 class="episode-title" id="episode-title">Loading...</h1>
+                    
+                    <p class="episode-description" id="episode-description"></p>
+                    
+                    <!-- Audio Player -->
+                    <div class="episode-player-full">
+                        <audio id="episode-audio" preload="metadata"></audio>
+                        
+                        <div class="player-controls">
+                            <button class="player-play-btn" id="play-btn" onclick="togglePlay()">
+                                <svg viewBox="0 0 24 24" id="play-icon">
+                                    <polygon points="6,3 20,12 6,21" />
+                                </svg>
+                            </button>
+                            
+                            <div class="player-progress-area">
+                                <div class="player-track" onclick="seek(event)">
+                                    <div class="player-progress" id="progress"></div>
+                                </div>
+                                <div class="player-times">
+                                    <span id="current-time">0:00</span>
+                                    <span id="duration-time">--:--</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Action Buttons -->
+                    <div class="episode-actions">
+                        <button class="btn btn-primary btn-sm" onclick="openTranscript()">
+                            <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16">
+                                <path d="M14 2H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V8l-6-6zM6 20V4h7v5h5v11H6z"/>
+                            </svg>
+                            Transcript
+                        </button>
+                        
+                        <a id="newspaper-link" href="#" target="_blank" class="btn btn-secondary btn-sm" style="display: none;">
+                            <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16">
+                                <path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zM9 17H7v-7h2v7zm4 0h-2V7h2v10zm4 0h-2v-4h2v4z"/>
+                            </svg>
+                            📰 Newspaper
+                        </a>
+                        
+                        <button class="btn btn-ghost btn-sm" onclick="copyEpisodeLink()">
+                            <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16">
+                                <path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/>
+                            </svg>
+                            Share
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Stories Section (future enhancement) -->
+    <section class="episode-stories" id="stories-section" style="display: none;">
+        <div class="container">
+            <h2 class="section-title">Stories Covered</h2>
+            <div class="stories-grid" id="stories-container"></div>
+        </div>
+    </section>
+
+    <!-- Newspaper Embed -->
+    <section class="episode-newspaper" id="newspaper-section" style="display: none;">
+        <div class="container">
+            <h2 class="section-title">Newspaper Edition</h2>
+            <p class="section-subtitle">Download or view the PDF edition of this episode</p>
+            
+            <div class="newspaper-embed">
+                <iframe id="newspaper-iframe" width="100%" height="800" style="border: 1px solid var(--ink-1); border-radius: 8px;"></iframe>
+            </div>
+            
+            <div style="margin-top: var(--space-4); text-align: center;">
+                <a id="newspaper-download" href="#" download class="btn btn-primary">
+                    Download PDF
+                </a>
+            </div>
+        </div>
+    </section>
+</div>
+
+<!-- Error State -->
+<div id="error-state" style="display: none; min-height: 60vh; padding: var(--space-16);">
+    <div class="container" style="text-align: center;">
+        <h1 style="color: var(--ink-4); margin-bottom: var(--space-4);">Episode Not Found</h1>
+        <p style="color: var(--ink-3); margin-bottom: var(--space-6);">The episode you're looking for doesn't exist or couldn't be loaded.</p>
+        <a href="index.html" class="btn btn-primary">← Back to Episodes</a>
+    </div>
+</div>
+
+        </main>
+        
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="container footer-inner">
+                <div class="footer-brand">Vibecast</div>
+                <div class="footer-links">
+                    <a href="index.html" class="footer-link">Home</a>
+                    <a href="about.html" class="footer-link">About</a>
+                    <a href="docs.html" class="footer-link">Docs</a>
+                    <a href="https://github.com/domcritchlow/vibecast" class="footer-link" target="_blank" rel="noopener">GitHub</a>
+                </div>
+                <div class="footer-copy">© 2026 Dominic</div>
+            </div>
+        </footer>
+    </div>
+    
+    <!-- Transcript/Show Notes Modal -->
+    <div class="modal-overlay" id="transcript-modal">
+        <div class="modal">
+            <div class="modal-header">
+                <h3 class="modal-title" id="modal-title">Transcript</h3>
+                <button class="modal-close" onclick="closeModal()">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div id="modal-content"></div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        // Configuration
+        const feedUrl = 'feed.xml';
+        const r2BaseUrl = 'https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev';
+        const transcriptBaseUrl = r2BaseUrl + '/transcripts/';
+        
+        // State
+        let currentEpisode = null;
+        
+        // Get episode ID from URL parameter
+        function getEpisodeId() {
+            const params = new URLSearchParams(window.location.search);
+            return params.get('id');
+        }
+        
+        // Load and display episode
+        async function loadEpisode() {
+            const episodeId = getEpisodeId();
+            
+            if (!episodeId) {
+                showError();
+                return;
+            }
+            
+            try {
+                // Fetch RSS feed
+                const response = await fetch(feedUrl);
+                const text = await response.text();
+                const parser = new DOMParser();
+                const xml = parser.parseFromString(text, 'text/xml');
+                const items = xml.querySelectorAll('item');
+                
+                // Find matching episode
+                let foundEpisode = null;
+                
+                for (const item of items) {
+                    const guid = item.querySelector('guid');
+                    const guidText = guid ? guid.textContent : '';
+                    
+                    if (guidText === episodeId) {
+                        foundEpisode = parseEpisodeFromItem(item);
+                        break;
+                    }
+                }
+                
+                if (!foundEpisode) {
+                    showError();
+                    return;
+                }
+                
+                currentEpisode = foundEpisode;
+                displayEpisode(foundEpisode);
+                
+            } catch (error) {
+                console.error('Failed to load episode:', error);
+                showError();
+            }
+        }
+        
+        // Parse episode data from RSS item
+        function parseEpisodeFromItem(item) {
+            const title = item.querySelector('title');
+            const description = item.querySelector('description');
+            const pubDate = item.querySelector('pubDate');
+            const guid = item.querySelector('guid');
+            const enclosure = item.querySelector('enclosure');
+            
+            // iTunes elements
+            const duration = item.querySelector('duration');
+            const imageElements = item.getElementsByTagNameNS('http://www.itunes.com/dtds/podcast-1.0.dtd', 'image');
+            
+            let artworkUrl = '';
+            if (imageElements && imageElements.length > 0) {
+                artworkUrl = imageElements[0].getAttribute('href') || '';
+            }
+            
+            // Parse date
+            let dateFormatted = '';
+            if (pubDate && pubDate.textContent) {
+                const date = new Date(pubDate.textContent);
+                dateFormatted = date.toLocaleDateString('en-US', { 
+                    weekday: 'long', 
+                    year: 'numeric', 
+                    month: 'long', 
+                    day: 'numeric' 
+                });
+            }
+            
+            // Extract newspaper URL from description
+            let newspaperUrl = '';
+            if (description && description.textContent) {
+                const match = description.textContent.match(/📰 READ: (https?:\/\/[^\s]+)/);
+                if (match) {
+                    newspaperUrl = match[1];
+                }
+            }
+            
+            return {
+                title: title ? title.textContent : 'Untitled',
+                description: description ? description.textContent : '',
+                audioUrl: enclosure ? enclosure.getAttribute('url') : '',
+                artworkUrl: artworkUrl || 'default-episode-art.png',
+                duration: duration ? duration.textContent : '',
+                pubDate: pubDate ? pubDate.textContent : '',
+                dateFormatted: dateFormatted,
+                guid: guid ? guid.textContent : '',
+                newspaperUrl: newspaperUrl
+            };
+        }
+        
+        // Display episode data
+        function displayEpisode(episode) {
+            // Update page metadata
+            document.getElementById('page-title').textContent = `${episode.title} - Vibecast`;
+            document.getElementById('page-description').content = episode.description.substring(0, 160);
+            
+            // Update episode content
+            document.getElementById('episode-title').textContent = episode.title;
+            document.getElementById('episode-date').textContent = episode.dateFormatted;
+            document.getElementById('episode-duration').textContent = episode.duration;
+            document.getElementById('episode-description').textContent = episode.description;
+            document.getElementById('episode-artwork').src = episode.artworkUrl;
+            document.getElementById('episode-artwork').alt = episode.title;
+            
+            // Setup audio
+            const audio = document.getElementById('episode-audio');
+            audio.src = episode.audioUrl;
+            
+            // Show newspaper link if available
+            if (episode.newspaperUrl) {
+                const newspaperLink = document.getElementById('newspaper-link');
+                newspaperLink.href = episode.newspaperUrl;
+                newspaperLink.style.display = 'inline-flex';
+                
+                // Show newspaper embed section
+                const newspaperSection = document.getElementById('newspaper-section');
+                const newspaperIframe = document.getElementById('newspaper-iframe');
+                const newspaperDownload = document.getElementById('newspaper-download');
+                
+                newspaperSection.style.display = 'block';
+                newspaperIframe.src = episode.newspaperUrl;
+                newspaperDownload.href = episode.newspaperUrl;
+            }
+            
+            // Hide loading, show content
+            document.getElementById('loading-state').style.display = 'none';
+            document.getElementById('episode-content').style.display = 'block';
+        }
+        
+        // Show error state
+        function showError() {
+            document.getElementById('loading-state').style.display = 'none';
+            document.getElementById('error-state').style.display = 'block';
+        }
+        
+        // Navigation toggle for mobile
+        function toggleNav() {
+            document.getElementById('nav-links').classList.toggle('open');
+        }
+        
+        // Modal functions
+        function openModal(title, content) {
+            const modal = document.getElementById('transcript-modal');
+            document.getElementById('modal-title').textContent = title;
+            document.getElementById('modal-content').innerHTML = content;
+            modal.classList.add('active');
+            document.body.style.overflow = 'hidden';
+        }
+        
+        function closeModal() {
+            document.getElementById('transcript-modal').classList.remove('active');
+            document.body.style.overflow = '';
+        }
+        
+        // Close modal on overlay click or Escape key
+        document.getElementById('transcript-modal').addEventListener('click', (e) => {
+            if (e.target.classList.contains('modal-overlay')) closeModal();
+        });
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') closeModal();
+        });
+        
+        // Utility functions
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+        
+        function linkify(text) {
+            return text.split(' ').map(word => {
+                if (word.startsWith('http://') || word.startsWith('https://')) {
+                    return `<a href="${word}" target="_blank" rel="noopener">${word}</a>`;
+                }
+                return word;
+            }).join(' ');
+        }
+        
+        function formatTextForDisplay(text) {
+            const escaped = escapeHtml(text);
+            const linked = linkify(escaped);
+            return linked.split('\n').join('<br>');
+        }
+        
+        function formatTime(seconds) {
+            const mins = Math.floor(seconds / 60);
+            const secs = Math.floor(seconds % 60);
+            return `${mins}:${secs.toString().padStart(2, '0')}`;
+        }
+        
+        // Audio player functions
+        const audio = document.getElementById('episode-audio');
+        const playBtn = document.getElementById('play-btn');
+        const playIcon = document.getElementById('play-icon');
+        const progress = document.getElementById('progress');
+        const currentTimeEl = document.getElementById('current-time');
+        const durationTimeEl = document.getElementById('duration-time');
+        
+        audio.addEventListener('loadedmetadata', () => {
+            durationTimeEl.textContent = formatTime(audio.duration);
+        });
+        
+        audio.addEventListener('timeupdate', () => {
+            const pct = (audio.currentTime / audio.duration) * 100;
+            progress.style.width = pct + '%';
+            currentTimeEl.textContent = formatTime(audio.currentTime);
+        });
+        
+        audio.addEventListener('play', () => {
+            playIcon.innerHTML = '<rect x="6" y="4" width="4" height="16"/><rect x="14" y="4" width="4" height="16"/>';
+        });
+        
+        audio.addEventListener('pause', () => {
+            playIcon.innerHTML = '<polygon points="6,3 20,12 6,21"/>';
+        });
+        
+        audio.addEventListener('ended', () => {
+            playIcon.innerHTML = '<polygon points="6,3 20,12 6,21"/>';
+        });
+        
+        function togglePlay() {
+            if (audio.paused) {
+                audio.play();
+            } else {
+                audio.pause();
+            }
+        }
+        
+        function seek(e) {
+            const rect = e.currentTarget.getBoundingClientRect();
+            const pct = (e.clientX - rect.left) / rect.width;
+            audio.currentTime = pct * audio.duration;
+        }
+        
+        function openTranscript() {
+            if (!currentEpisode) return;
+            
+            const transcriptUrl = transcriptBaseUrl + currentEpisode.guid + '.txt';
+            
+            openModal('Transcript', '<div class="loading"><div class="loading-spinner"></div></div>');
+            
+            fetch(transcriptUrl)
+                .then(r => {
+                    if (!r.ok) throw new Error('Failed to load');
+                    return r.text();
+                })
+                .then(text => {
+                    const formatted = formatTextForDisplay(text);
+                    document.getElementById('modal-content').innerHTML = `<div style="line-height: 1.8; white-space: pre-wrap;">${formatted}</div>`;
+                })
+                .catch(() => {
+                    document.getElementById('modal-content').innerHTML = '<p style="color: var(--error); text-align: center;">Could not load transcript</p>';
+                });
+        }
+        
+        function copyEpisodeLink() {
+            navigator.clipboard.writeText(window.location.href).then(() => {
+                const btn = event.target.closest('button');
+                const originalHTML = btn.innerHTML;
+                btn.innerHTML = '<svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> Copied!';
+                setTimeout(() => {
+                    btn.innerHTML = originalHTML;
+                }, 2000);
+            });
+        }
+        
+        // Initialize on page load
+        loadEpisode();
+    </script>
+</body>
+</html>

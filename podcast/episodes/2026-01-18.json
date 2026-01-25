@@ -1,0 +1,58 @@
+{
+  "guid": "2026-01-18",
+  "date": "2026-01-18T00:00:00",
+  "title": "Morning Thread — January 18, 2026",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 228.0,
+  "duration_formatted": "3:48",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-18.mp3",
+    "audio_size_bytes": 5310214,
+    "artwork_url": null,
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-01-18.txt"
+  },
+  "stories": [
+    {
+      "title": "Using AI, Mathematicians Find Hidden Glitches in Fluid Equations",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/",
+      "summary": ""
+    },
+    {
+      "title": "Datadog uses Codex for system-level code review",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/datadog",
+      "summary": ""
+    },
+    {
+      "title": "The Setapp Mobile iOS store is shutting down on February 16th",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/863978/setapp-mobile-ios-store-shutdown",
+      "summary": ""
+    },
+    {
+      "title": "The best deals on MacBooks right now",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
+      "summary": ""
+    },
+    {
+      "title": "Show HN: Nex.Design – AI ads agent for e-commerce",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://www.nex.design/",
+      "summary": ""
+    },
+    {
+      "title": "NASA’s Moonbound Artemis II Rocket Reaches Launch Pad",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/blogs/missions/2026/01/17/nasas-moonbound-artemis-ii-rocket-reaches-launch-pad/",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:25:07.747099",
+    "migration_source": "r2_storage"
+  }
+}

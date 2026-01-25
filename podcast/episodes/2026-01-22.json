@@ -1,0 +1,80 @@
+{
+  "guid": "2026-01-22",
+  "date": "2026-01-22T00:00:00",
+  "title": "Morning Thread — January 22, 2026",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 270.0,
+  "duration_formatted": "4:30",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-22.mp3",
+    "audio_size_bytes": 6455047,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-22/episode-art.png",
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-01-22.txt"
+  },
+  "stories": [
+    {
+      "title": "NASA’s Artemis II Mission to Fly Legacy Keepsakes with Astronaut Crew",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/missions/artemis/artemis-2/nasas-artemis-ii-mission-to-fly-legacy-keepsakes-with-astronaut-crew/",
+      "summary": ""
+    },
+    {
+      "title": "Introducing Edu for Countries",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/edu-for-countries",
+      "summary": ""
+    },
+    {
+      "title": "How countries can end the capability overhang",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
+      "summary": ""
+    },
+    {
+      "title": "Deepening our partnership with the UK AI Security Institute",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
+      "summary": ""
+    },
+    {
+      "title": "FACTS Benchmark Suite: Systematically evaluating the factuality of large language models",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
+      "summary": ""
+    },
+    {
+      "title": "Agent Lightning: Adding reinforcement learning to AI agents without code rewrites",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/",
+      "summary": ""
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "How Netflix Built a Real-Time Distributed Graph for Internet Scale",
+      "author": "Alex Xu",
+      "source": "ByteByteGo Newsletter",
+      "url": "https://blog.bytebytego.com/p/how-netflix-built-a-real-time-distributed",
+      "description": ""
+    },
+    {
+      "title": "How Pinterest Built An Async Compute Platform for Billions of Task Executions",
+      "author": "Alex Xu",
+      "source": "ByteByteGo Newsletter",
+      "url": "https://blog.bytebytego.com/p/how-pinterest-built-an-async-compute",
+      "description": ""
+    },
+    {
+      "title": "Why AI Needs GPUs and TPUs: The Hardware Behind LLMs",
+      "author": "Alex Xu",
+      "source": "ByteByteGo Newsletter",
+      "url": "https://blog.bytebytego.com/p/why-ai-needs-gpus-and-tpus-the-hardware",
+      "description": ""
+    }
+  ],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:25:11.848130",
+    "migration_source": "r2_storage"
+  }
+}

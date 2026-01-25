@@ -192,6 +192,11 @@ def save_site_pages(config: dict, site_dir: Path) -> None:
     Args:
         config: Full configuration dictionary.
         site_dir: Path to the site directory.
+    
+    Note:
+        Individual episode pages are NOT generated as static HTML.
+        Instead, a single dynamic episode.html page loads episode data
+        from the RSS feed at runtime based on URL parameters.
     """
     env = get_template_env()
     context = get_template_context(config)
@@ -202,7 +207,7 @@ def save_site_pages(config: dict, site_dir: Path) -> None:
     # Ensure asset directories exist
     ensure_asset_dirs(site_dir)
     
-    # Render and save each page
+    # Render and save main pages
     pages = ["index.html", "about.html", "docs.html"]
     for page in pages:
         template = env.get_template(page)

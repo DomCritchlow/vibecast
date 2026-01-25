@@ -1,0 +1,58 @@
+{
+  "guid": "2026-01-10",
+  "date": "2026-01-10T00:00:00",
+  "title": "Morning Thread — January 10, 2026",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 270.0,
+  "duration_formatted": "4:30",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-10.mp3",
+    "audio_size_bytes": 4744320,
+    "artwork_url": null,
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-01-10.txt"
+  },
+  "stories": [
+    {
+      "title": "Using AI, Mathematicians Find Hidden Glitches in Fluid Equations",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/",
+      "summary": ""
+    },
+    {
+      "title": "Disappearing ‘planet’ reveals a solar system’s turbulent times",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-025-04148-4",
+      "summary": ""
+    },
+    {
+      "title": "‘Coming out as a transgender scientist made me the best teacher I’ve ever been’",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00057-2",
+      "summary": ""
+    },
+    {
+      "title": "Datadog uses Codex for system-level code review",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/datadog",
+      "summary": ""
+    },
+    {
+      "title": "Magentic Marketplace: an open-source simulation environment for studying agentic markets",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/magentic-marketplace-an-open-source-simulation-environment-for-studying-agentic-markets/",
+      "summary": ""
+    },
+    {
+      "title": "A new CRISPR startup is betting regulators will ease up on gene-editing",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/01/09/1130945/crispr-startup-aurora-betting-regulation-pku/",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:24:59.639281",
+    "migration_source": "r2_storage"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "guid": "2026-01-24",
+  "date": "2026-01-24T00:00:00",
+  "title": "Morning Thread — January 24, 2026",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 276.0,
+  "duration_formatted": "4:36",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-24.mp3",
+    "audio_size_bytes": 6302701,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-24/episode-art.png",
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-01-24.txt"
+  },
+  "stories": [
+    {
+      "title": "Greenland is important for global research: what’s next for the island’s science?",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00067-0",
+      "summary": ""
+    },
+    {
+      "title": "Ideas: Community building, machine learning, and the future of AI",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/",
+      "summary": ""
+    },
+    {
+      "title": "BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/",
+      "summary": ""
+    },
+    {
+      "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
+      "summary": ""
+    },
+    {
+      "title": "TR-49 is interactive fiction for fans of deep research rabbit holes",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/01/tr-49-is-interactive-fiction-for-fans-of-deep-research-rabbit-holes/",
+      "summary": ""
+    },
+    {
+      "title": "Chromebooks train schoolkids to be loyal customers, internal Google document suggests",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/867138/google-chromebook-education-expansion-court-filings",
+      "summary": ""
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "We are hiring at ByteByteGo",
+      "author": "Alex Xu",
+      "source": "ByteByteGo Newsletter",
+      "url": "https://blog.bytebytego.com/p/we-are-hiring-at-bytebytego",
+      "description": ""
+    },
+    {
+      "title": "The Must-Know Fundamentals of Distributed Systems",
+      "author": "Alex Xu",
+      "source": "ByteByteGo Newsletter",
+      "url": "https://blog.bytebytego.com/p/the-must-know-fundamentals-of-distributed",
+      "description": ""
+    },
+    {
+      "title": "How Netflix Built a Real-Time Distributed Graph for Internet Scale",
+      "author": "Alex Xu",
+      "source": "ByteByteGo Newsletter",
+      "url": "https://blog.bytebytego.com/p/how-netflix-built-a-real-time-distributed",
+      "description": ""
+    }
+  ],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:25:13.938476",
+    "migration_source": "r2_storage"
+  }
+}

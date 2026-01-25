@@ -1,0 +1,58 @@
+{
+  "guid": "2026-01-07",
+  "date": "2026-01-07T00:00:00",
+  "title": "Morning Thread — January 07, 2026",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 270.0,
+  "duration_formatted": "4:30",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-07.mp3",
+    "audio_size_bytes": 4879104,
+    "artwork_url": null,
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-01-07.txt"
+  },
+  "stories": [
+    {
+      "title": "When industry knowledge meets PIKE-RAG: The innovation behind Signify’s customer service boost",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/when-industry-knowledge-meets-pike-rag-the-innovation-behind-signifys-customer-service-boost/",
+      "summary": ""
+    },
+    {
+      "title": "Why cancer can come back years later — and how to stop it",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-025-04149-3",
+      "summary": ""
+    },
+    {
+      "title": "Deepening our partnership with the UK AI Security Institute",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
+      "summary": ""
+    },
+    {
+      "title": "FACTS Benchmark Suite: Systematically evaluating the factuality of large language models",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
+      "summary": ""
+    },
+    {
+      "title": "Agent Lightning: Adding reinforcement learning to AI agents without code rewrites",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/",
+      "summary": ""
+    },
+    {
+      "title": "Starstruck",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/01/06/1128661/starstruck/",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:24:56.456223",
+    "migration_source": "r2_storage"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "guid": "2025-12-20",
+  "date": "2025-12-20T00:00:00",
+  "title": "Morning Vibe",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 294.0,
+  "duration_formatted": "4:54",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-20.mp3",
+    "audio_size_bytes": 5761440,
+    "artwork_url": null,
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2025-12-20.txt"
+  },
+  "stories": [
+    {
+      "title": "Stunning Crocheted Christmas Tree Helped Knit Together a Community of Extraordinary Women – LOOK",
+      "source": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/stunning-crocheted-christmas-tree-helped-knit-together-a-community-of-extraordinary-women-look/",
+      "summary": ""
+    },
+    {
+      "title": "Wind-Sculpted Landscapes: Investigating the Martian Megaripple ‘Hazyview’",
+      "source": "NASA Breaking News",
+      "url": "https://science.nasa.gov/blog/wind-sculpted-landscapes-investigating-the-martian-megaripple-hazyview/",
+      "summary": ""
+    },
+    {
+      "title": "NASA Johnson’s 2025 Milestones",
+      "source": "NASA Breaking News",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnsons-2025-milestones/",
+      "summary": ""
+    },
+    {
+      "title": "NASA's Perseverance Mars rover could break the record for miles driven on another planet",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-mars-rover-could-break-the-record-for-miles-driven-on-another-planet",
+      "summary": ""
+    },
+    {
+      "title": "Top 10 Friday Five Posts of 2025",
+      "source": "Design Milk",
+      "url": "https://design-milk.com/top-10-friday-five-posts-of-2025/",
+      "summary": ""
+    },
+    {
+      "title": "What went right this week: the good news that matters",
+      "source": "Positive News",
+      "url": "https://www.positive.news/society/good-news-stories-from-week-51-of-2025/",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:24:38.384730",
+    "migration_source": "r2_storage"
+  }
+}

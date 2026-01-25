@@ -1,0 +1,58 @@
+{
+  "guid": "2025-12-21",
+  "date": "2025-12-21T00:00:00",
+  "title": "Morning Vibe",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 270.0,
+  "duration_formatted": "4:30",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-21.mp3",
+    "audio_size_bytes": 5356320,
+    "artwork_url": null,
+    "newspaper_url": null,
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2025-12-21.txt"
+  },
+  "stories": [
+    {
+      "title": "This week on Dezeen we featured a coffee pot with a helical spiral base",
+      "source": "Dezeen",
+      "url": "https://www.dezeen.com/2025/12/20/this-week-dezeen-coffee-pot-helical-spiral-base/",
+      "summary": ""
+    },
+    {
+      "title": "Solar, reimagined: meet the bright minds pushing it into the future",
+      "source": "Positive News",
+      "url": "https://www.positive.news/environment/solar-reimagined-meet-the-bright-minds-pushing-it-into-the-future/",
+      "summary": ""
+    },
+    {
+      "title": "A vast oyster reef is about to transform the English coast",
+      "source": "Positive News",
+      "url": "https://www.positive.news/environment/a-vast-oyster-reef-is-about-to-transform-the-english-coast/",
+      "summary": ""
+    },
+    {
+      "title": "Simply Shining Light on Skin Can Replace Finger Pricks for People With Diabetes",
+      "source": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/simply-shining-light-on-skin-can-replace-finger-pricks-for-people-with-diabetes/",
+      "summary": ""
+    },
+    {
+      "title": "Microscopic ‘Christmas Tree’ is Remarkable Highlight of Science Project Comparing the Vast and Small",
+      "source": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/microscopic-christmas-tree-is-remarkable-highlight-of-science-project-comparing-the-vast-and-small/",
+      "summary": ""
+    },
+    {
+      "title": "AI literacy resources for teens and parents",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "migrated_at": "2026-01-25T12:24:39.438251",
+    "migration_source": "r2_storage"
+  }
+}
