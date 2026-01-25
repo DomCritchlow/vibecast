@@ -9,12 +9,12 @@
     "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-24.mp3",
     "audio_size_bytes": 6302701,
     "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-24/episode-art.png",
-    "newspaper_url": null,
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-24/newspaper.pdf",
     "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-01-24.txt"
   },
   "stories": [
     {
-      "title": "Greenland is important for global research: what’s next for the island’s science?",
+      "title": "Greenland is important for global research: what\u2019s next for the island\u2019s science?",
       "source": "Nature News",
       "url": "https://www.nature.com/articles/d41586-026-00067-0",
       "summary": ""

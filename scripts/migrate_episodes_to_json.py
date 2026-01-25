@@ -159,7 +159,7 @@ def migrate_episode_to_json(episode_id: str, config: dict, client, bucket: str, 
     
     # Check for newspaper
     newspaper_url = None
-    newspaper_key = f"newspapers/{episode_id}.pdf"
+    newspaper_key = f"episodes/{episode_id}/newspaper.pdf"
     try:
         client.head_object(Bucket=bucket, Key=newspaper_key)
         newspaper_url = f"{public_base_url.rstrip('/')}/{newspaper_key}"

@@ -9,7 +9,7 @@
     "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-23.mp3",
     "audio_size_bytes": 5978531,
     "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-23/episode-art.png",
-    "newspaper_url": null,
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-23/newspaper.pdf",
     "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-01-23.txt"
   },
   "stories": [
@@ -20,7 +20,7 @@
       "summary": ""
     },
     {
-      "title": "‘Bodies like ours aren’t considered in academia’",
+      "title": "\u2018Bodies like ours aren\u2019t considered in academia\u2019",
       "source": "Nature News",
       "url": "https://www.nature.com/articles/d41586-026-00153-3",
       "summary": ""

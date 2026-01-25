@@ -9,12 +9,12 @@
     "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-25.mp3",
     "audio_size_bytes": 6577300,
     "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-25/episode-art.png",
-    "newspaper_url": null,
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-25/newspaper.pdf",
     "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-01-25.txt"
   },
   "stories": [
     {
-      "title": "Big Tech is racing to own Africa’s internet",
+      "title": "Big Tech is racing to own Africa\u2019s internet",
       "source": "Rest of World",
       "url": "https://restofworld.org/2026/amazon-starlink-africa/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "summary": ""
@@ -44,7 +44,7 @@
       "summary": ""
     },
     {
-      "title": "Why There’s No Single Best Way To Store Information",
+      "title": "Why There\u2019s No Single Best Way To Store Information",
       "source": "Quanta Magazine",
       "url": "https://www.quantamagazine.org/why-theres-no-single-best-way-to-store-information-20260116/",
       "summary": ""

@@ -9,12 +9,12 @@
     "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-22.mp3",
     "audio_size_bytes": 6455047,
     "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-22/episode-art.png",
-    "newspaper_url": null,
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-22/newspaper.pdf",
     "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-01-22.txt"
   },
   "stories": [
     {
-      "title": "NASA’s Artemis II Mission to Fly Legacy Keepsakes with Astronaut Crew",
+      "title": "NASA\u2019s Artemis II Mission to Fly Legacy Keepsakes with Astronaut Crew",
       "source": "NASA Science",
       "url": "https://www.nasa.gov/missions/artemis/artemis-2/nasas-artemis-ii-mission-to-fly-legacy-keepsakes-with-astronaut-crew/",
       "summary": ""
