@@ -1,5 +1,28 @@
 # Vibecast Project Rules
 
+## Git Workflow Rules
+
+**NEVER auto-commit or auto-push to GitHub!**
+
+**What you CAN do:**
+- Stage changes with `git add`
+- Show diffs with `git diff`
+- Check status with `git status`
+- Trigger GitHub Actions with `gh workflow run`
+
+
+**What you CANNOT do:**
+- `git commit` - User commits manually
+- `git push` - User pushes manually
+- `git commit && git push` - Absolutely not!
+- Pull changes with `git pull`
+
+**Correct workflow:**
+1. Make code changes
+2. Stage changes: `git add <files>`
+3. Show user what changed: `git status` and `git diff --staged`
+4. Let user review and commit/push when ready
+
 ## NEVER Manually Edit Generated Files
 
 ### Rule 1: Do NOT Edit `docs/*.html` Directly
