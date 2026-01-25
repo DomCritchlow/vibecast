@@ -355,14 +355,24 @@
                 const pubDate = new Date(item.querySelector('pubDate')?.textContent);
                 const guid = enclosure?.getAttribute('url') || item.querySelector('guid')?.textContent || '';
                 
-                // Find itunes:image element (need to handle namespace)
+                // Find itunes:image element (namespace-aware)
                 let artworkUrl = '';
-                const imageElements = item.getElementsByTagName('image');
-                for (let img of imageElements) {
-                    const href = img.getAttribute('href');
-                    if (href && href.includes('episode-art.png')) {
-                        artworkUrl = href;
-                        break;
+                // Try getElementsByTagNameNS first (proper way)
+                const imageElements = item.getElementsByTagNameNS('http://www.itunes.com/dtds/podcast-1.0.dtd', 'image');
+                if (imageElements && imageElements.length > 0) {
+                    const href = imageElements[0].getAttribute('href');
+                    if (href) artworkUrl = href;
+                } else {
+                    // Fallback: search all elements for itunes:image
+                    const allElements = item.getElementsByTagName('*');
+                    for (let el of allElements) {
+                        if (el.localName === 'image' && el.namespaceURI === 'http://www.itunes.com/dtds/podcast-1.0.dtd') {
+                            const href = el.getAttribute('href');
+                            if (href) {
+                                artworkUrl = href;
+                                break;
+                            }
+                        }
                     }
                 }
                 
