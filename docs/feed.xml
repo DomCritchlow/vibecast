@@ -5,20 +5,28 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Vibecast: Morning Thread</title>
-    <link></link>
+    <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Jan 2026 10:38:21 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 10:50:04 -0000</lastBuildDate>
+    <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>no</itunes:explicit>
     <itunes:owner>
       <itunes:name>Dominic</itunes:name>
+      <itunes:email>critchlowd49@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
+    <image>
+      <url>https://domcritchlow.github.io/vibecast/artwork.png</url>
+      <title>Vibecast: Morning Thread</title>
+      <link>https://domcritchlow.github.io/vibecast/</link>
+    </image>
+    <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
     <item>
       <title>Morning Thread — January 25, 2026</title>
       <description><![CDATA[Tech, science, and what's actually interesting for January 25, 2026.
@@ -27,7 +35,7 @@ Duration: ~5 minutes
 ]]></description>
       <pubDate>Sun, 25 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-25</guid>
-      <enclosure url="https://vibecast.95dd3b46e6d3fde8fa84963614cf691f.r2.dev/episodes/2026-01-25.mp3" length="6577300" type="audio/mpeg"/>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-25.mp3" length="6577300" type="audio/mpeg"/>
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 25, 2026.
 
 Duration: ~5 minutes
@@ -35,7 +43,7 @@ Duration: ~5 minutes
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:42</itunes:duration>
-      <itunes:image href="https://vibecast.95dd3b46e6d3fde8fa84963614cf691f.r2.dev/episodes/2026-01-25/episode-art.png"/>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-25/episode-art.png"/>
     </item>
     <item>
       <title>Morning Thread — January 24, 2026</title>
@@ -45,7 +53,7 @@ Duration: ~5 minutes
 ]]></description>
       <pubDate>Sat, 24 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-24</guid>
-      <enclosure url="https://vibecast.95dd3b46e6d3fde8fa84963614cf691f.r2.dev/episodes/2026-01-24.mp3" length="6302701" type="audio/mpeg"/>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-24.mp3" length="6302701" type="audio/mpeg"/>
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 24, 2026.
 
 Duration: ~5 minutes
@@ -53,7 +61,7 @@ Duration: ~5 minutes
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:36</itunes:duration>
-      <itunes:image href="https://vibecast.95dd3b46e6d3fde8fa84963614cf691f.r2.dev/episodes/2026-01-24/episode-art.png"/>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-24/episode-art.png"/>
     </item>
     <item>
       <title>Morning Thread — January 23, 2026</title>
@@ -63,7 +71,7 @@ Duration: ~4 minutes
 ]]></description>
       <pubDate>Fri, 23 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-23</guid>
-      <enclosure url="https://vibecast.95dd3b46e6d3fde8fa84963614cf691f.r2.dev/episodes/2026-01-23.mp3" length="5978531" type="audio/mpeg"/>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-23.mp3" length="5978531" type="audio/mpeg"/>
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 23, 2026.
 
 Duration: ~4 minutes
@@ -71,7 +79,7 @@ Duration: ~4 minutes
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:18</itunes:duration>
-      <itunes:image href="https://vibecast.95dd3b46e6d3fde8fa84963614cf691f.r2.dev/episodes/2026-01-23/episode-art.png"/>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-23/episode-art.png"/>
     </item>
     <item>
       <title>Morning Thread — January 22, 2026</title>
@@ -81,7 +89,7 @@ Duration: ~4 minutes
 ]]></description>
       <pubDate>Thu, 22 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-22</guid>
-      <enclosure url="https://vibecast.95dd3b46e6d3fde8fa84963614cf691f.r2.dev/episodes/2026-01-22.mp3" length="6455047" type="audio/mpeg"/>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-22.mp3" length="6455047" type="audio/mpeg"/>
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 22, 2026.
 
 Duration: ~4 minutes
@@ -89,7 +97,7 @@ Duration: ~4 minutes
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:30</itunes:duration>
-      <itunes:image href="https://vibecast.95dd3b46e6d3fde8fa84963614cf691f.r2.dev/episodes/2026-01-22/episode-art.png"/>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-22/episode-art.png"/>
     </item>
     <item>
       <title>Morning Thread — January 21, 2026</title>
@@ -99,7 +107,7 @@ Duration: ~4 minutes
 ]]></description>
       <pubDate>Wed, 21 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-21</guid>
-      <enclosure url="https://vibecast.95dd3b46e6d3fde8fa84963614cf691f.r2.dev/episodes/2026-01-21.mp3" length="6212379" type="audio/mpeg"/>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-21.mp3" length="6212379" type="audio/mpeg"/>
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 21, 2026.
 
 Duration: ~4 minutes
@@ -107,7 +115,7 @@ Duration: ~4 minutes
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:12</itunes:duration>
-      <itunes:image href="https://vibecast.95dd3b46e6d3fde8fa84963614cf691f.r2.dev/episodes/2026-01-21/episode-art.png"/>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-21/episode-art.png"/>
     </item>
     <item>
       <title>Morning Thread — January 20, 2026</title>
@@ -117,7 +125,7 @@ Duration: ~4 minutes
 ]]></description>
       <pubDate>Tue, 20 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-20</guid>
-      <enclosure url="https://vibecast.95dd3b46e6d3fde8fa84963614cf691f.r2.dev/episodes/2026-01-20.mp3" length="5734652" type="audio/mpeg"/>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-20.mp3" length="5734652" type="audio/mpeg"/>
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 20, 2026.
 
 Duration: ~4 minutes
@@ -125,7 +133,7 @@ Duration: ~4 minutes
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:00</itunes:duration>
-      <itunes:image href="https://vibecast.95dd3b46e6d3fde8fa84963614cf691f.r2.dev/episodes/2026-01-20/episode-art.png"/>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-20/episode-art.png"/>
     </item>
     <item>
       <title>Morning Thread — January 19, 2026</title>
@@ -135,7 +143,7 @@ Duration: ~4 minutes
 ]]></description>
       <pubDate>Mon, 19 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-19</guid>
-      <enclosure url="https://vibecast.95dd3b46e6d3fde8fa84963614cf691f.r2.dev/episodes/2026-01-19.mp3" length="6384160" type="audio/mpeg"/>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-19.mp3" length="6384160" type="audio/mpeg"/>
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 19, 2026.
 
 Duration: ~4 minutes
@@ -152,7 +160,7 @@ Duration: ~4 minutes
 ]]></description>
       <pubDate>Sun, 18 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-18</guid>
-      <enclosure url="https://vibecast.95dd3b46e6d3fde8fa84963614cf691f.r2.dev/episodes/2026-01-18.mp3" length="5310214" type="audio/mpeg"/>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-18.mp3" length="5310214" type="audio/mpeg"/>
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 18, 2026.
 
 Duration: ~4 minutes
@@ -169,7 +177,7 @@ Duration: ~4 minutes
 ]]></description>
       <pubDate>Sat, 17 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-17</guid>
-      <enclosure url="https://vibecast.95dd3b46e6d3fde8fa84963614cf691f.r2.dev/episodes/2026-01-17.mp3" length="6376637" type="audio/mpeg"/>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-17.mp3" length="6376637" type="audio/mpeg"/>
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 17, 2026.
 
 Duration: ~4 minutes
@@ -186,7 +194,7 @@ Duration: ~4 minutes
 ]]></description>
       <pubDate>Fri, 16 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-16</guid>
-      <enclosure url="https://vibecast.95dd3b46e6d3fde8fa84963614cf691f.r2.dev/episodes/2026-01-16.mp3" length="5218054" type="audio/mpeg"/>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-16.mp3" length="5218054" type="audio/mpeg"/>
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 16, 2026.
 
 Duration: ~4 minutes
@@ -203,7 +211,7 @@ Duration: ~4 minutes
 ]]></description>
       <pubDate>Thu, 15 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-15</guid>
-      <enclosure url="https://vibecast.95dd3b46e6d3fde8fa84963614cf691f.r2.dev/episodes/2026-01-15.mp3" length="5685750" type="audio/mpeg"/>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-15.mp3" length="5685750" type="audio/mpeg"/>
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 15, 2026.
 
 Duration: ~4 minutes
@@ -220,7 +228,7 @@ Duration: ~4 minutes
 ]]></description>
       <pubDate>Wed, 14 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-14</guid>
-      <enclosure url="https://vibecast.95dd3b46e6d3fde8fa84963614cf691f.r2.dev/episodes/2026-01-14.mp3" length="5345950" type="audio/mpeg"/>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-14.mp3" length="5345950" type="audio/mpeg"/>
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 14, 2026.
 
 Duration: ~4 minutes
@@ -237,7 +245,7 @@ Duration: ~4 minutes
 ]]></description>
       <pubDate>Tue, 13 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-13</guid>
-      <enclosure url="https://vibecast.95dd3b46e6d3fde8fa84963614cf691f.r2.dev/episodes/2026-01-13.mp3" length="4555776" type="audio/mpeg"/>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-13.mp3" length="4555776" type="audio/mpeg"/>
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 13, 2026.
 
 Duration: ~4 minutes
@@ -254,7 +262,7 @@ Duration: ~5 minutes
 ]]></description>
       <pubDate>Mon, 12 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-12</guid>
-      <enclosure url="https://vibecast.95dd3b46e6d3fde8fa84963614cf691f.r2.dev/episodes/2026-01-12.mp3" length="5233536" type="audio/mpeg"/>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-12.mp3" length="5233536" type="audio/mpeg"/>
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 12, 2026.
 
 Duration: ~5 minutes
@@ -271,7 +279,7 @@ Duration: ~4 minutes
 ]]></description>
       <pubDate>Sun, 11 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-11</guid>
-      <enclosure url="https://vibecast.95dd3b46e6d3fde8fa84963614cf691f.r2.dev/episodes/2026-01-11.mp3" length="4576896" type="audio/mpeg"/>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-11.mp3" length="4576896" type="audio/mpeg"/>
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 11, 2026.
 
 Duration: ~4 minutes
@@ -288,7 +296,7 @@ Duration: ~4 minutes
 ]]></description>
       <pubDate>Sat, 10 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-10</guid>
-      <enclosure url="https://vibecast.95dd3b46e6d3fde8fa84963614cf691f.r2.dev/episodes/2026-01-10.mp3" length="4744320" type="audio/mpeg"/>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-10.mp3" length="4744320" type="audio/mpeg"/>
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 10, 2026.
 
 Duration: ~4 minutes
@@ -305,7 +313,7 @@ Duration: ~5 minutes
 ]]></description>
       <pubDate>Fri, 09 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-09</guid>
-      <enclosure url="https://vibecast.95dd3b46e6d3fde8fa84963614cf691f.r2.dev/episodes/2026-01-09.mp3" length="5026176" type="audio/mpeg"/>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-09.mp3" length="5026176" type="audio/mpeg"/>
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 09, 2026.
 
 Duration: ~5 minutes
@@ -322,7 +330,7 @@ Duration: ~5 minutes
 ]]></description>
       <pubDate>Thu, 08 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-08</guid>
-      <enclosure url="https://vibecast.95dd3b46e6d3fde8fa84963614cf691f.r2.dev/episodes/2026-01-08.mp3" length="5284992" type="audio/mpeg"/>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-08.mp3" length="5284992" type="audio/mpeg"/>
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 08, 2026.
 
 Duration: ~5 minutes
@@ -339,7 +347,7 @@ Duration: ~4 minutes
 ]]></description>
       <pubDate>Wed, 07 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-07</guid>
-      <enclosure url="https://vibecast.95dd3b46e6d3fde8fa84963614cf691f.r2.dev/episodes/2026-01-07.mp3" length="4879104" type="audio/mpeg"/>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-07.mp3" length="4879104" type="audio/mpeg"/>
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 07, 2026.
 
 Duration: ~4 minutes
@@ -356,7 +364,7 @@ Duration: ~5 minutes
 ]]></description>
       <pubDate>Tue, 06 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-06</guid>
-      <enclosure url="https://vibecast.95dd3b46e6d3fde8fa84963614cf691f.r2.dev/episodes/2026-01-06.mp3" length="4901760" type="audio/mpeg"/>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-06.mp3" length="4901760" type="audio/mpeg"/>
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 06, 2026.
 
 Duration: ~5 minutes
@@ -373,7 +381,7 @@ Duration: ~4 minutes
 ]]></description>
       <pubDate>Mon, 05 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-05</guid>
-      <enclosure url="https://vibecast.95dd3b46e6d3fde8fa84963614cf691f.r2.dev/episodes/2026-01-05.mp3" length="4878336" type="audio/mpeg"/>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-05.mp3" length="4878336" type="audio/mpeg"/>
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 05, 2026.
 
 Duration: ~4 minutes
@@ -390,7 +398,7 @@ Duration: ~5 minutes
 ]]></description>
       <pubDate>Sun, 04 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-04</guid>
-      <enclosure url="https://vibecast.95dd3b46e6d3fde8fa84963614cf691f.r2.dev/episodes/2026-01-04.mp3" length="4896000" type="audio/mpeg"/>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-04.mp3" length="4896000" type="audio/mpeg"/>
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 04, 2026.
 
 Duration: ~5 minutes
@@ -407,7 +415,7 @@ Duration: ~5 minutes
 ]]></description>
       <pubDate>Sat, 03 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-03</guid>
-      <enclosure url="https://vibecast.95dd3b46e6d3fde8fa84963614cf691f.r2.dev/episodes/2026-01-03.mp3" length="4795776" type="audio/mpeg"/>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-03.mp3" length="4795776" type="audio/mpeg"/>
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 03, 2026.
 
 Duration: ~5 minutes
@@ -424,7 +432,7 @@ Duration: ~4 minutes
 ]]></description>
       <pubDate>Fri, 02 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-02</guid>
-      <enclosure url="https://vibecast.95dd3b46e6d3fde8fa84963614cf691f.r2.dev/episodes/2026-01-02.mp3" length="4763520" type="audio/mpeg"/>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-02.mp3" length="4763520" type="audio/mpeg"/>
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 02, 2026.
 
 Duration: ~4 minutes
@@ -441,7 +449,7 @@ Duration: ~4 minutes
 ]]></description>
       <pubDate>Thu, 01 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2026-01-01</guid>
-      <enclosure url="https://vibecast.95dd3b46e6d3fde8fa84963614cf691f.r2.dev/episodes/2026-01-01.mp3" length="5035008" type="audio/mpeg"/>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-01.mp3" length="5035008" type="audio/mpeg"/>
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for January 01, 2026.
 
 Duration: ~4 minutes
@@ -458,7 +466,7 @@ Duration: ~4 minutes
 ]]></description>
       <pubDate>Wed, 31 Dec 2025 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2025-12-31</guid>
-      <enclosure url="https://vibecast.95dd3b46e6d3fde8fa84963614cf691f.r2.dev/episodes/2025-12-31.mp3" length="4480896" type="audio/mpeg"/>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-31.mp3" length="4480896" type="audio/mpeg"/>
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for December 31, 2025.
 
 Duration: ~4 minutes
@@ -475,7 +483,7 @@ Duration: ~5 minutes
 ]]></description>
       <pubDate>Tue, 30 Dec 2025 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2025-12-30</guid>
-      <enclosure url="https://vibecast.95dd3b46e6d3fde8fa84963614cf691f.r2.dev/episodes/2025-12-30.mp3" length="5135232" type="audio/mpeg"/>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-30.mp3" length="5135232" type="audio/mpeg"/>
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for December 30, 2025.
 
 Duration: ~5 minutes
@@ -492,7 +500,7 @@ Duration: ~5 minutes
 ]]></description>
       <pubDate>Mon, 29 Dec 2025 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2025-12-29</guid>
-      <enclosure url="https://vibecast.95dd3b46e6d3fde8fa84963614cf691f.r2.dev/episodes/2025-12-29.mp3" length="7088876" type="audio/mpeg"/>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-29.mp3" length="7088876" type="audio/mpeg"/>
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for December 29, 2025.
 
 Duration: ~5 minutes
@@ -509,7 +517,7 @@ Duration: ~5 minutes
 ]]></description>
       <pubDate>Sun, 28 Dec 2025 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2025-12-28</guid>
-      <enclosure url="https://vibecast.95dd3b46e6d3fde8fa84963614cf691f.r2.dev/episodes/2025-12-28.mp3" length="2392748" type="audio/mpeg"/>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-28.mp3" length="2392748" type="audio/mpeg"/>
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for December 28, 2025.
 
 Duration: ~5 minutes
@@ -526,7 +534,7 @@ Duration: ~4 minutes
 ]]></description>
       <pubDate>Sat, 27 Dec 2025 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">2025-12-27</guid>
-      <enclosure url="https://vibecast.95dd3b46e6d3fde8fa84963614cf691f.r2.dev/episodes/2025-12-27.mp3" length="4949760" type="audio/mpeg"/>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-27.mp3" length="4949760" type="audio/mpeg"/>
       <itunes:summary><![CDATA[Tech, science, and what's actually interesting for December 27, 2025.
 
 Duration: ~4 minutes
