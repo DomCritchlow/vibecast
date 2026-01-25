@@ -389,31 +389,11 @@ def _build_show_notes(
     Returns:
         Formatted show notes string.
     """
-    podcast = config.get("podcast", {})
+    lines = []
     
-    date_str = date.strftime("%B %d, %Y")
-    tagline = podcast.get("tagline", "Your daily podcast")
-    
-    # Start with intro
-    lines = [
-        f"{tagline} for {date_str}.",
-        "",
-    ]
-    
-    # Add newspaper PDF link if available
-    if newspaper_url:
-        lines.append(f"📰 READ: {newspaper_url}")
-        lines.append("")
-    
-    # Add duration if available
-    if duration_seconds:
-        minutes = duration_seconds / 60
-        lines.append(f"Duration: ~{minutes:.0f} minutes")
-        lines.append("")
-    
-    # Add stories section if items provided
+    # Add stories section if items provided - start immediately with content
     if items and len(items) > 0:
-        lines.append("IN THIS EPISODE:")
+
         lines.append("")
         
         for i, item in enumerate(items, 1):
@@ -440,5 +420,10 @@ def _build_show_notes(
             lines.append(f"{i}. {item.title}{author_info}")
             lines.append(f"   {item.url}")
             lines.append("")
+    
+    # Add newspaper link at the end if available
+    if newspaper_url:
+        lines.append("---")
+        lines.append(f"📰 Full newspaper edition: {newspaper_url}")
     
     return "\n".join(lines)
