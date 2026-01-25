@@ -13,15 +13,19 @@ class ReadingListItem(ContentItem):
         self.description = description
 
 
-def fetch_reading_list(config: dict) -> list[ReadingListItem]:
+def fetch_reading_list(config: dict, used_urls: set[str] = None) -> list[ReadingListItem]:
     """Fetch reading list items from configured sources.
     
     Args:
         config: Full configuration dictionary.
+        used_urls: Set of URLs that have been used recently (for deduplication).
     
     Returns:
         List of ReadingListItem objects.
     """
+    if used_urls is None:
+        used_urls = set()
+    
     sources_config = config.get("sources", {})
     reading_list_config = sources_config.get("reading_list", {})
     
@@ -49,7 +53,11 @@ def fetch_reading_list(config: dict) -> list[ReadingListItem]:
         items = rss_source.fetch()
         
         # Convert to ReadingListItem with author and description
+        # Filter out items that have been used recently
         for item in items:
+            if item.url in used_urls:
+                continue
+                
             reading_item = ReadingListItem(
                 title=item.title,
                 url=item.url,
@@ -64,7 +72,8 @@ def fetch_reading_list(config: dict) -> list[ReadingListItem]:
             all_items.append(reading_item)
         
         if items:
-            print(f"  Fetched {len(items)} reading list items from {source_config.get('name')}")
+            filtered_count = len([i for i in items if i.url not in used_urls])
+            print(f"  Fetched {len(items)} reading list items from {source_config.get('name')} ({filtered_count} new)")
     
     # Sort by published date (most recent first)
     all_items.sort(key=lambda x: x.published or "", reverse=True)

@@ -317,9 +317,9 @@ def run_pipeline(dry_run: bool = False, verbose: bool = False) -> bool:
         all_items = fetch_all_rss_sources(rss_sources)
         print(f"  Fetched {len(all_items)} total items")
         
-        # Also fetch reading list items
+        # Also fetch reading list items (with deduplication)
         print("  Fetching reading list...")
-        reading_items = fetch_reading_list(config)
+        reading_items = fetch_reading_list(config, used_urls)
         if reading_items:
             print(f"  Fetched {len(reading_items)} reading list items")
         else:
@@ -593,7 +593,7 @@ def run_pipeline(dry_run: bool = False, verbose: bool = False) -> bool:
         save_index_html(config, SITE_DIR)
         print(f"  Updated site at: {SITE_DIR / 'index.html'}")
         
-        # Update state with used URLs
+        # Update state with used URLs (stories + reading list)
         now = datetime.now().isoformat()
         if "url_timestamps" not in state:
             state["url_timestamps"] = {}
@@ -601,10 +601,14 @@ def run_pipeline(dry_run: bool = False, verbose: bool = False) -> bool:
         for item in selected:
             state["url_timestamps"][item.url] = now
         
+        for item in reading_items:
+            state["url_timestamps"][item.url] = now
+        
         state["used_urls"] = list(state["url_timestamps"].keys())
         state["last_run"] = now
         save_state(state)
-        print(f"  Updated state with {len(selected)} new URLs")
+        total_tracked = len(selected) + len(reading_items)
+        print(f"  Updated state with {total_tracked} new URLs ({len(selected)} stories + {len(reading_items)} reading list)")
         
         print("\n" + "=" * 60)
         print("SUCCESS! Today's episode is ready.")

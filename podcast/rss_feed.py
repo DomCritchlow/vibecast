@@ -393,7 +393,7 @@ def _build_show_notes(
     
     # Add stories section if items provided - start immediately with content
     if items and len(items) > 0:
-
+        lines.append("IN THIS EPISODE:")
         lines.append("")
         
         for i, item in enumerate(items, 1):

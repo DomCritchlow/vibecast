@@ -432,7 +432,7 @@
 .latest-card {
   background: white;
   border: 5px solid var(--ink-0);
-  box-shadow: 12px 12px 0px rgba(0, 0, 0, 0.2);
+  box-shadow: 8px 8px 0px rgba(0, 0, 0, 0.15);
   overflow: hidden;
   display: grid;
   grid-template-columns: 1fr;
