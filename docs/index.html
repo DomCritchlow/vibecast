@@ -137,14 +137,6 @@
                         </div>
                     </div>
                 </div>
-                
-                <div class="latest-actions">
-                    <button class="btn btn-ghost btn-sm" onclick="openLatestShowNotes()">Show Notes</button>
-                    <button class="btn btn-ghost btn-sm" onclick="openLatestTranscript()">Transcript</button>
-                    
-                    <a href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-25/newspaper.pdf" target="_blank" class="btn btn-ghost btn-sm">📰 Newspaper</a>
-                    
-                </div>
             </div>
         </div>
     </div>
@@ -288,7 +280,7 @@
 <script>
     // ===== Configuration =====
     const feedUrl = new URL('feed.xml', window.location.href).href;
-    const r2BaseUrl = 'https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev'.replace(/\/+$/, '');
+    const r2BaseUrl = ''.replace(/\/+$/, '');
     const transcriptBaseUrl = r2BaseUrl + '/transcripts/';
     document.getElementById('rss-url').textContent = feedUrl;
     
