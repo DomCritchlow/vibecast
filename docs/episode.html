@@ -19,9 +19,9 @@
     <link rel="stylesheet" href="assets/css/pages.css">
     
     <style>
-    /* Episode-specific styles */
+    /* Episode page specific styles */
     .episode-page-container {
-        max-width: 1200px;
+        max-width: 1000px;
         margin: 0 auto;
         padding: var(--space-12) var(--space-6);
     }
@@ -43,28 +43,47 @@
         transform: translateX(-4px);
     }
     
-    /* Episode Header - Full width */
-    .episode-header-section {
+    /* Episode header card - matches latest-card style */
+    .episode-header-card {
+        background: white;
+        border: 4px solid var(--ink-0);
+        box-shadow: 8px 8px 0px rgba(0, 0, 0, 0.12);
+        margin-bottom: var(--space-8);
         display: grid;
         grid-template-columns: 1fr;
-        gap: var(--space-8);
-        margin-bottom: var(--space-12);
+        gap: 0;
+        position: relative;
+        overflow: hidden;
     }
     
-    @media (min-width: 900px) {
-        .episode-header-section {
-            grid-template-columns: 320px 1fr;
-            gap: var(--space-12);
+    .episode-header-card::before {
+        content: '';
+        position: absolute;
+        inset: 0;
+        background-image: url('assets/textures/paper-grain.svg');
+        background-size: 120px 120px;
+        opacity: 0.08;
+        pointer-events: none;
+        z-index: 0;
+    }
+    
+    @media (min-width: 768px) {
+        .episode-header-card {
+            grid-template-columns: 240px 1fr;
         }
     }
     
     .episode-artwork-box {
         position: relative;
         aspect-ratio: 1;
-        border: 4px solid var(--ink-0);
-        box-shadow: 12px 12px 0px rgba(0, 0, 0, 0.15);
-        background: white;
         overflow: hidden;
+        background: var(--paper-2);
+    }
+    
+    @media (min-width: 768px) {
+        .episode-artwork-box {
+            aspect-ratio: auto;
+        }
     }
     
     .episode-artwork-box img {
@@ -74,42 +93,34 @@
         display: block;
     }
     
-    .episode-artwork-box::before {
-        content: '';
-        position: absolute;
-        inset: 0;
-        background-image: url('assets/textures/paper-grain.svg');
-        background-size: 120px 120px;
-        opacity: 0.12;
-        pointer-events: none;
+    .episode-info-box {
+        padding: var(--space-6);
+        display: flex;
+        flex-direction: column;
+        gap: var(--space-3);
+        position: relative;
         z-index: 1;
     }
     
-    .episode-info-box {
-        display: flex;
-        flex-direction: column;
-        gap: var(--space-4);
-    }
-    
-    .episode-meta-line {
+    .episode-meta {
         display: flex;
         flex-wrap: wrap;
-        gap: var(--space-3);
+        gap: var(--space-2);
         align-items: center;
-        font-size: var(--text-sm);
+        font-size: var(--text-xs);
         color: var(--ink-3);
         font-weight: 600;
         text-transform: uppercase;
         letter-spacing: var(--tracking-wide);
     }
     
-    .episode-meta-line span {
+    .episode-meta span {
         color: var(--ink-2);
     }
     
-    .episode-heading {
+    .episode-title {
         font-family: var(--font-heading);
-        font-size: var(--text-4xl);
+        font-size: var(--text-3xl);
         line-height: var(--leading-tight);
         color: var(--ink-0);
         margin: 0;
@@ -117,118 +128,103 @@
     }
     
     @media (min-width: 768px) {
-        .episode-heading {
-            font-size: var(--text-5xl);
+        .episode-title {
+            font-size: var(--text-4xl);
         }
     }
     
-    .episode-description {
-        font-size: var(--text-lg);
+    .episode-tagline {
+        font-size: var(--text-base);
         line-height: var(--leading-relaxed);
         color: var(--ink-2);
         margin: 0;
     }
     
-    /* Audio Player - Full width card */
-    .player-card {
-        background: white;
-        border: 4px solid var(--ink-0);
-        box-shadow: 8px 8px 0px rgba(0, 0, 0, 0.12);
-        padding: var(--space-6);
-        margin-bottom: var(--space-8);
-        position: relative;
-    }
-    
-    .player-card::before {
-        content: '';
-        position: absolute;
-        inset: 0;
-        background-image: url('assets/textures/paper-grain.svg');
-        background-size: 120px 120px;
-        opacity: 0.08;
-        pointer-events: none;
-    }
-    
-    .player-inner {
+    /* Use the same player style as main page */
+    .episode-player {
         display: flex;
         align-items: center;
-        gap: var(--space-4);
-        position: relative;
-        z-index: 1;
+        gap: var(--space-3);
+        padding: var(--space-3);
+        background: var(--paper-1);
+        margin-top: var(--space-2);
     }
     
-    .player-button {
-        width: 64px;
-        height: 64px;
-        border: none;
+    .episode-play-btn {
+        width: 48px;
+        height: 48px;
         background: var(--accent-0);
-        border-radius: 50%;
+        border: none;
+        border-radius: var(--radius-full);
         display: flex;
         align-items: center;
         justify-content: center;
         cursor: pointer;
-        transition: all 0.2s;
         flex-shrink: 0;
-        box-shadow: 4px 4px 0px rgba(0, 0, 0, 0.15);
+        transition: all var(--transition-fast);
     }
     
-    .player-button:hover {
+    .episode-play-btn:hover {
         background: var(--accent-1);
-        transform: translate(-2px, -2px);
-        box-shadow: 6px 6px 0px rgba(0, 0, 0, 0.2);
+        transform: scale(1.05);
     }
     
-    .player-button svg {
-        width: 28px;
-        height: 28px;
+    .episode-play-btn svg {
+        width: 20px;
+        height: 20px;
         fill: white;
     }
     
-    .player-track-container {
+    .episode-progress-area {
         flex: 1;
-        display: flex;
-        flex-direction: column;
-        gap: var(--space-2);
+        min-width: 0;
     }
     
-    .player-track {
-        height: 48px;
-        background: var(--paper-2);
-        border: 3px solid var(--ink-0);
-        position: relative;
+    .episode-track {
+        height: 8px;
+        background: var(--paper-3);
+        border-radius: var(--radius-full);
+        overflow: hidden;
         cursor: pointer;
+        margin-bottom: var(--space-1);
     }
     
-    .player-progress-bar {
+    .episode-progress {
         height: 100%;
-        background: var(--accent-0);
+        width: 0%;
+        background: linear-gradient(90deg, var(--accent-0), var(--teal-0));
+        border-radius: var(--radius-full);
         transition: width 0.1s linear;
     }
     
-    .player-time-display {
+    .episode-times {
         display: flex;
         justify-content: space-between;
-        font-size: var(--text-sm);
+        font-size: var(--text-xs);
         color: var(--ink-2);
         font-weight: 600;
         font-variant-numeric: tabular-nums;
     }
     
-    /* Action Buttons */
+    /* Action buttons */
     .episode-actions {
         display: flex;
         flex-wrap: wrap;
-        gap: var(--space-3);
-        margin-bottom: var(--space-12);
+        gap: var(--space-2);
+        padding: var(--space-3) var(--space-6);
+        background: var(--paper-1);
+        border-top: 2px solid var(--paper-3);
+        position: relative;
+        z-index: 1;
     }
     
-    /* Content Cards */
+    /* Content cards - match episode-card style */
     .content-card {
         background: white;
         border: 4px solid var(--ink-0);
         box-shadow: 8px 8px 0px rgba(0, 0, 0, 0.12);
-        padding: var(--space-8);
-        margin-bottom: var(--space-8);
+        padding: var(--space-6);
+        margin-bottom: var(--space-6);
         position: relative;
     }
     
@@ -244,40 +240,30 @@
     
     .content-card h2 {
         font-family: var(--font-heading);
-        font-size: var(--text-3xl);
+        font-size: var(--text-2xl);
         line-height: var(--leading-tight);
         color: var(--ink-0);
-        margin: 0 0 var(--space-6) 0;
+        margin: 0 0 var(--space-5) 0;
         font-weight: 700;
         position: relative;
         z-index: 1;
     }
     
-    .content-card-subtitle {
-        font-size: var(--text-base);
-        color: var(--ink-3);
-        margin: calc(var(--space-3) * -1) 0 var(--space-6) 0;
-        position: relative;
-        z-index: 1;
-    }
-    
-    .stories-list {
+    /* Simple story list */
+    .story-list {
         list-style: none;
         padding: 0;
         margin: 0;
         display: flex;
         flex-direction: column;
-        gap: var(--space-6);
+        gap: var(--space-4);
         position: relative;
         z-index: 1;
     }
     
     .story-item {
-        display: grid;
-        grid-template-columns: 40px 1fr;
-        gap: var(--space-4);
-        padding-bottom: var(--space-6);
-        border-bottom: 2px solid var(--paper-3);
+        padding-bottom: var(--space-4);
+        border-bottom: 1px solid var(--paper-3);
     }
     
     .story-item:last-child {
@@ -285,37 +271,15 @@
         padding-bottom: 0;
     }
     
-    .story-badge {
-        width: 40px;
-        height: 40px;
-        background: var(--accent-0);
-        color: white;
-        border-radius: 50%;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        font-weight: 700;
-        font-size: var(--text-base);
-        flex-shrink: 0;
-    }
-    
-    .story-content {
-        display: flex;
-        flex-direction: column;
-        gap: var(--space-2);
-        min-width: 0;
-    }
-    
     .story-title {
-        font-size: var(--text-xl);
+        font-size: var(--text-lg);
         font-weight: 600;
-        color: var(--ink-0);
         line-height: var(--leading-snug);
-        margin: 0;
+        margin: 0 0 var(--space-1) 0;
     }
     
     .story-title a {
-        color: inherit;
+        color: var(--ink-0);
         text-decoration: none;
         transition: color 0.2s;
     }
@@ -324,15 +288,27 @@
         color: var(--accent-0);
     }
     
-    .story-meta {
+    .story-source {
         font-size: var(--text-sm);
         color: var(--ink-3);
         font-weight: 600;
-        text-transform: uppercase;
-        letter-spacing: var(--tracking-wide);
     }
     
-    /* Loading and Error States */
+    .story-author {
+        font-size: var(--text-sm);
+        color: var(--ink-2);
+        margin-top: var(--space-1);
+    }
+    
+    /* Empty state */
+    .empty-state {
+        text-align: center;
+        padding: var(--space-6);
+        color: var(--ink-3);
+        font-size: var(--text-base);
+    }
+    
+    /* Loading and error states */
     .state-screen {
         min-height: 60vh;
         display: flex;
@@ -341,31 +317,23 @@
         padding: var(--space-16);
     }
     
-    .error-container {
+    .error-box {
         text-align: center;
         max-width: 500px;
     }
     
-    .error-container h1 {
+    .error-box h1 {
         font-family: var(--font-heading);
         font-size: var(--text-4xl);
         color: var(--ink-0);
         margin-bottom: var(--space-4);
     }
     
-    .error-container p {
+    .error-box p {
         font-size: var(--text-lg);
         color: var(--ink-2);
         margin-bottom: var(--space-8);
         line-height: var(--leading-relaxed);
-    }
-    
-    /* Empty state for stories */
-    .empty-state {
-        text-align: center;
-        padding: var(--space-8);
-        color: var(--ink-3);
-        font-size: var(--text-base);
     }
     </style>
 </head>
@@ -404,7 +372,7 @@
     </div>
 </div>
 
-<!-- Episode Content (hidden until loaded) -->
+<!-- Episode Content -->
 <div id="episode-content" class="episode-page-container" style="display: none;">
     <a href="index.html" class="episode-back">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
@@ -414,93 +382,71 @@
         Back to Episodes
     </a>
     
-    <!-- Episode Header -->
-    <div class="episode-header-section">
+    <!-- Episode Header Card -->
+    <div class="episode-header-card">
         <div class="episode-artwork-box">
             <img id="episode-artwork" src="default-episode-art.png" alt="Episode artwork" />
         </div>
         
         <div class="episode-info-box">
-            <div class="episode-meta-line">
+            <div class="episode-meta">
                 <span id="episode-date">Loading...</span>
                 <span>•</span>
                 <span id="episode-duration"></span>
             </div>
             
-            <h1 class="episode-heading" id="episode-title">Loading Episode...</h1>
+            <h1 class="episode-title" id="episode-title">Loading Episode...</h1>
             
-            <p class="episode-description" id="episode-description">Tech, science, and what's actually interesting</p>
-        </div>
-    </div>
-    
-    <!-- Audio Player -->
-    <div class="player-card">
-        <audio id="episode-audio" preload="metadata"></audio>
-        
-        <div class="player-inner">
-            <button class="player-button" id="play-btn" onclick="togglePlay()">
-                <svg viewBox="0 0 24 24" id="play-icon">
-                    <polygon points="6,3 20,12 6,21" />
-                </svg>
-            </button>
+            <p class="episode-tagline" id="episode-tagline">Tech, science, and what's actually interesting</p>
             
-            <div class="player-track-container">
-                <div class="player-track" onclick="seek(event)">
-                    <div class="player-progress-bar" id="progress"></div>
-                </div>
-                <div class="player-time-display">
-                    <span id="current-time">0:00</span>
-                    <span id="duration-time">--:--</span>
+            <!-- Audio Player - matches main page style -->
+            <div class="episode-player">
+                <audio id="episode-audio" preload="metadata"></audio>
+                
+                <button class="episode-play-btn" id="play-btn" onclick="togglePlay()">
+                    <svg viewBox="0 0 24 24" id="play-icon">
+                        <polygon points="6,3 20,12 6,21" />
+                    </svg>
+                </button>
+                
+                <div class="episode-progress-area">
+                    <div class="episode-track" onclick="seek(event)">
+                        <div class="episode-progress" id="progress"></div>
+                    </div>
+                    <div class="episode-times">
+                        <span id="current-time">0:00</span>
+                        <span id="duration-time">--:--</span>
+                    </div>
                 </div>
             </div>
         </div>
+        
+        <!-- Action Buttons -->
+        <div class="episode-actions">
+            <button class="btn btn-ghost btn-sm" onclick="openTranscript()">Transcript</button>
+            <a id="newspaper-link" href="#" target="_blank" class="btn btn-ghost btn-sm" style="display: none;">Newspaper PDF</a>
+        </div>
     </div>
     
-    <!-- Action Buttons -->
-    <div class="episode-actions">
-        <button class="btn btn-primary btn-sm" onclick="openTranscript()">
-            <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16">
-                <path d="M14 2H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V8l-6-6zM6 20V4h7v5h5v11H6z"/>
-            </svg>
-            Transcript
-        </button>
-        
-        <a id="newspaper-link" href="#" target="_blank" class="btn btn-secondary btn-sm" style="display: none;">
-            <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16">
-                <path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zM9 17H7v-7h2v7zm4 0h-2V7h2v10zm4 0h-2v-4h2v4z"/>
-            </svg>
-            Newspaper
-        </a>
-        
-        <button class="btn btn-ghost btn-sm" onclick="copyEpisodeLink()">
-            <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16">
-                <path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/>
-            </svg>
-            Share
-        </button>
-    </div>
-    
-    <!-- Show Notes -->
+    <!-- Stories -->
     <div class="content-card">
         <h2>In This Episode</h2>
-        <p class="content-card-subtitle">Stories covered in today's episode</p>
-        <ol class="stories-list" id="stories-list">
+        <ul class="story-list" id="stories-list">
             <li class="empty-state">Loading show notes...</li>
-        </ol>
+        </ul>
     </div>
     
     <!-- Reading List -->
     <div class="content-card" id="reading-card" style="display: none;">
         <h2>Reading List</h2>
-        <p class="content-card-subtitle">Additional stories worth checking out</p>
-        <ol class="stories-list" id="reading-list"></ol>
+        <ul class="story-list" id="reading-list"></ul>
     </div>
 </div>
 
 <!-- Error State -->
 <div id="error-state" style="display: none;">
     <div class="state-screen">
-        <div class="error-container">
+        <div class="error-box">
             <h1>Episode Not Found</h1>
             <p>The episode you're looking for doesn't exist or couldn't be loaded.</p>
             <a href="index.html" class="btn btn-primary">
@@ -548,19 +494,19 @@
         // Configuration
         const feedUrl = 'feed.xml';
         const r2BaseUrl = 'https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev';
-        const transcriptBaseUrl = r2BaseUrl + '/transcripts/';
+        const episodeJsonUrl = r2BaseUrl + '/episodes/';
         
         // State
         let currentEpisode = null;
         let audio = null;
         
-        // Get episode ID from URL parameter
+        // Get episode ID from URL
         function getEpisodeId() {
             const params = new URLSearchParams(window.location.search);
             return params.get('id');
         }
         
-        // Load and display episode
+        // Load episode from JSON
         async function loadEpisode() {
             const episodeId = getEpisodeId();
             
@@ -570,41 +516,56 @@
             }
             
             try {
-                // Fetch RSS feed
-                const response = await fetch(feedUrl);
-                const text = await response.text();
-                const parser = new DOMParser();
-                const xml = parser.parseFromString(text, 'text/xml');
-                const items = xml.querySelectorAll('item');
+                // Try to load from episode JSON first
+                const jsonUrl = episodeJsonUrl + episodeId + '.json';
+                const response = await fetch(jsonUrl);
                 
-                // Find matching episode
-                let foundEpisode = null;
-                
-                for (const item of items) {
-                    const guid = item.querySelector('guid');
-                    const guidText = guid ? guid.textContent : '';
-                    
-                    if (guidText === episodeId) {
-                        foundEpisode = parseEpisodeFromItem(item);
-                        break;
-                    }
+                if (response.ok) {
+                    const episodeData = await response.json();
+                    currentEpisode = episodeData;
+                    displayEpisode(episodeData);
+                } else {
+                    // Fallback to RSS feed
+                    await loadFromFeed(episodeId);
                 }
-                
-                if (!foundEpisode) {
-                    showError();
-                    return;
-                }
-                
-                currentEpisode = foundEpisode;
-                displayEpisode(foundEpisode);
                 
             } catch (error) {
                 console.error('Failed to load episode:', error);
-                showError();
+                // Try RSS feed as fallback
+                try {
+                    await loadFromFeed(episodeId);
+                } catch (feedError) {
+                    console.error('Failed to load from feed:', feedError);
+                    showError();
+                }
             }
         }
         
-        function parseEpisodeFromItem(item) {
+        // Fallback: Load from RSS feed
+        async function loadFromFeed(episodeId) {
+            const response = await fetch(feedUrl);
+            const text = await response.text();
+            const parser = new DOMParser();
+            const xml = parser.parseFromString(text, 'text/xml');
+            const items = xml.querySelectorAll('item');
+            
+            for (const item of items) {
+                const guid = item.querySelector('guid');
+                const guidText = guid ? guid.textContent : '';
+                
+                if (guidText === episodeId) {
+                    const episodeData = parseEpisodeFromRSS(item);
+                    currentEpisode = episodeData;
+                    displayEpisode(episodeData);
+                    return;
+                }
+            }
+            
+            showError();
+        }
+        
+        // Parse episode from RSS item
+        function parseEpisodeFromRSS(item) {
             const title = item.querySelector('title')?.textContent || 'Untitled';
             const description = item.querySelector('description')?.textContent || '';
             const pubDate = new Date(item.querySelector('pubDate')?.textContent);
@@ -613,99 +574,106 @@
             const enclosure = item.querySelector('enclosure');
             const audioUrl = enclosure?.getAttribute('url') || '';
             
-            // Try to get episode artwork
             let artworkUrl = '';
             const imageElements = item.getElementsByTagNameNS('http://www.itunes.com/dtds/podcast-1.0.dtd', 'image');
             if (imageElements && imageElements.length > 0) {
                 artworkUrl = imageElements[0].getAttribute('href');
             }
-            if (!artworkUrl) {
-                const allElements = item.getElementsByTagName('*');
-                for (let el of allElements) {
-                    if (el.localName === 'image' && el.namespaceURI === 'http://www.itunes.com/dtds/podcast-1.0.dtd') {
-                        const href = el.getAttribute('href');
-                        if (href) {
-                            artworkUrl = href;
-                            break;
-                        }
-                    }
-                }
-            }
             
             const duration = item.querySelector('duration')?.textContent || '';
             
-            // Parse show notes for stories
+            // Parse stories from description
             const stories = [];
             const readingList = [];
             
-            const descText = description || '';
-            
-            // Extract stories from "IN THIS EPISODE:" section
-            const storiesMatch = descText.match(/IN THIS EPISODE:(.*?)(?=READING LIST:|$)/s);
+            const storiesMatch = description.match(/IN THIS EPISODE:(.*?)(?=REFERENCES:|READING LIST:|$)/s);
             if (storiesMatch) {
                 const storiesText = storiesMatch[1];
-                // Match numbered items with title and source
-                const storyMatches = storiesText.matchAll(/(\d+)\.\s+(.+?)\s+Source:\s+(.+?)(?=\n\d+\.|\n\n|READING LIST:|$)/gs);
+                const storyMatches = storiesText.matchAll(/(\d+)\.\s+(.+?)(?=\n\d+\.|\n\n|REFERENCES:|READING LIST:|$)/gs);
                 for (const match of storyMatches) {
-                    const title = match[2].trim();
-                    const source = match[3].trim();
-                    if (title && source) {
-                        stories.push({ title, source });
+                    const title = match[2].trim().replace(/\s+Source:.*$/, '');
+                    const sourceMatch = match[2].match(/Source:\s+(.+?)$/);
+                    const source = sourceMatch ? sourceMatch[1].trim() : '';
+                    if (title) {
+                        stories.push({ title, source, url: '' });
                     }
                 }
             }
             
-            // Extract reading list
-            const readingMatch = descText.match(/READING LIST:(.*?)$/s);
+            const readingMatch = description.match(/READING LIST:(.*?)$/s);
             if (readingMatch) {
                 const readingText = readingMatch[1];
-                const readingMatches = readingText.matchAll(/(\d+)\.\s+(.+?)\s+Source:\s+(.+?)(?=\n\d+\.|\n\n|$)/gs);
+                const readingMatches = readingText.matchAll(/(\d+)\.\s+(.+?)(?=\n\d+\.|\n\n|$)/gs);
                 for (const match of readingMatches) {
-                    const title = match[2].trim();
-                    const source = match[3].trim();
-                    if (title && source) {
-                        readingList.push({ title, source });
+                    const fullText = match[2].trim();
+                    const titleMatch = fullText.match(/^(.+?)\s+by\s+(.+?)$/);
+                    if (titleMatch) {
+                        readingList.push({ 
+                            title: titleMatch[1].trim(), 
+                            author: titleMatch[2].trim(),
+                            source: '',
+                            url: '' 
+                        });
+                    } else {
+                        readingList.push({ 
+                            title: fullText, 
+                            author: '',
+                            source: '',
+                            url: '' 
+                        });
                     }
                 }
             }
             
             return {
                 guid,
+                date: pubDate.toISOString(),
                 title,
-                description,
-                audioUrl,
-                artworkUrl,
-                pubDate,
-                dateStr: pubDate.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric', year: 'numeric' }).toUpperCase(),
-                duration,
+                tagline: 'Tech, science, and what\'s actually interesting',
+                duration_formatted: duration,
+                media: {
+                    audio_url: audioUrl,
+                    artwork_url: artworkUrl,
+                    newspaper_url: null,
+                    transcript_url: r2BaseUrl + '/transcripts/' + guid + '.txt'
+                },
                 stories,
-                readingList
+                reading_list: readingList
             };
         }
         
+        // Display episode data
         function displayEpisode(episode) {
-            // Hide loading, show content
             document.getElementById('loading-state').style.display = 'none';
             document.getElementById('episode-content').style.display = 'block';
             
             // Set page title
-            document.getElementById('page-title').textContent = `${episode.title} - Vibecast`;
             document.title = `${episode.title} - Vibecast`;
+            document.getElementById('page-title').textContent = `${episode.title} - Vibecast`;
             
             // Set episode info
             document.getElementById('episode-title').textContent = episode.title;
-            document.getElementById('episode-date').textContent = episode.dateStr;
-            document.getElementById('episode-duration').textContent = episode.duration;
-            document.getElementById('episode-description').textContent = 'Tech, science, and what\'s actually interesting';
+            document.getElementById('episode-tagline').textContent = episode.tagline;
+            
+            // Format date
+            const date = new Date(episode.date);
+            const dateStr = date.toLocaleDateString('en-US', { 
+                weekday: 'short', 
+                month: 'short', 
+                day: 'numeric', 
+                year: 'numeric' 
+            }).toUpperCase();
+            document.getElementById('episode-date').textContent = dateStr;
+            document.getElementById('episode-duration').textContent = episode.duration_formatted;
             
             // Set artwork
-            if (episode.artworkUrl) {
-                document.getElementById('episode-artwork').src = episode.artworkUrl;
+            if (episode.media.artwork_url) {
+                document.getElementById('episode-artwork').src = episode.media.artwork_url;
             }
             
             // Setup audio
             audio = document.getElementById('episode-audio');
-            audio.src = episode.audioUrl;
+            audio.src = episode.media.audio_url;
             
             audio.addEventListener('loadedmetadata', () => {
                 document.getElementById('duration-time').textContent = formatTime(audio.duration);
@@ -721,34 +689,58 @@
                 document.getElementById('play-icon').innerHTML = '<polygon points="6,3 20,12 6,21" />';
             });
             
+            // Show newspaper link if available
+            if (episode.media.newspaper_url) {
+                const newspaperLink = document.getElementById('newspaper-link');
+                newspaperLink.href = episode.media.newspaper_url;
+                newspaperLink.style.display = 'inline-flex';
+            }
+            
             // Display stories
             const storiesList = document.getElementById('stories-list');
             if (episode.stories && episode.stories.length > 0) {
-                storiesList.innerHTML = episode.stories.map((story, idx) => `
-                    <li class="story-item">
-                        <div class="story-badge">${idx + 1}</div>
-                        <div class="story-content">
-                            <h3 class="story-title">${escapeHtml(story.title)}</h3>
-                            <div class="story-meta">${escapeHtml(story.source)}</div>
-                        </div>
-                    </li>
-                `).join('');
+                storiesList.innerHTML = episode.stories.map(story => {
+                    const titleHtml = story.url 
+                        ? `<a href="${escapeAttr(story.url)}" target="_blank" rel="noopener">${escapeHtml(story.title)}</a>`
+                        : escapeHtml(story.title);
+                    
+                    return `
+                        <li class="story-item">
+                            <div class="story-title">${titleHtml}</div>
+                            ${story.source ? `<div class="story-source">${escapeHtml(story.source)}</div>` : ''}
+                        </li>
+                    `;
+                }).join('');
             } else {
-                storiesList.innerHTML = '<li class="empty-state">No show notes available for this episode.</li>';
+                storiesList.innerHTML = '<li class="empty-state">No show notes available</li>';
             }
             
             // Display reading list
-            if (episode.readingList && episode.readingList.length > 0) {
+            if (episode.reading_list && episode.reading_list.length > 0) {
                 document.getElementById('reading-card').style.display = 'block';
-                document.getElementById('reading-list').innerHTML = episode.readingList.map((item, idx) => `
-                    <li class="story-item">
-                        <div class="story-badge">${idx + 1}</div>
-                        <div class="story-content">
-                            <h3 class="story-title">${escapeHtml(item.title)}</h3>
-                            <div class="story-meta">${escapeHtml(item.source)}</div>
-                        </div>
-                    </li>
-                `).join('');
+                
+                const readingListEl = document.getElementById('reading-list');
+                readingListEl.innerHTML = episode.reading_list.map(item => {
+                    const titleHtml = item.url 
+                        ? `<a href="${escapeAttr(item.url)}" target="_blank" rel="noopener">${escapeHtml(item.title)}</a>`
+                        : escapeHtml(item.title);
+                    
+                    let metaHtml = '';
+                    if (item.author && item.source) {
+                        metaHtml = `<div class="story-author">by ${escapeHtml(item.author)} • ${escapeHtml(item.source)}</div>`;
+                    } else if (item.author) {
+                        metaHtml = `<div class="story-author">by ${escapeHtml(item.author)}</div>`;
+                    } else if (item.source) {
+                        metaHtml = `<div class="story-source">${escapeHtml(item.source)}</div>`;
+                    }
+                    
+                    return `
+                        <li class="story-item">
+                            <div class="story-title">${titleHtml}</div>
+                            ${metaHtml}
+                        </li>
+                    `;
+                }).join('');
             }
         }
         
@@ -756,6 +748,10 @@
             const div = document.createElement('div');
             div.textContent = text;
             return div.innerHTML;
+        }
+        
+        function escapeAttr(text) {
+            return text.replace(/"/g, '&quot;').replace(/'/g, '&#39;');
         }
         
         function showError() {
@@ -794,7 +790,7 @@
         function openTranscript() {
             if (!currentEpisode) return;
             
-            const transcriptUrl = transcriptBaseUrl + currentEpisode.guid + '.txt';
+            const transcriptUrl = currentEpisode.media.transcript_url;
             
             openModal('Transcript', '<div class="loading"><div class="loading-spinner"></div></div>');
             
@@ -815,13 +811,6 @@
                 .catch(() => {
                     document.getElementById('modal-content').innerHTML = '<p style="color: var(--error); text-align: center;">Could not load transcript</p>';
                 });
-        }
-        
-        function copyEpisodeLink() {
-            const url = window.location.href;
-            navigator.clipboard.writeText(url).then(() => {
-                alert('Episode link copied to clipboard!');
-            });
         }
         
         function openModal(title, content) {
