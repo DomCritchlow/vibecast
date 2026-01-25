@@ -631,7 +631,6 @@
             
             // Set episode info
             document.getElementById('episode-title').textContent = episode.title;
-            document.getElementById('episode-tagline').textContent = episode.tagline;
             
             // Format date
             const date = new Date(episode.date);
@@ -644,10 +643,6 @@
             document.getElementById('episode-date').textContent = dateStr;
             document.getElementById('episode-duration').textContent = episode.duration_formatted;
             
-            // Set artwork
-            if (episode.media.artwork_url) {
-                document.getElementById('episode-artwork').src = episode.media.artwork_url;
-            }
             
             // Setup audio
             audio = document.getElementById('episode-audio');
@@ -671,7 +666,7 @@
             if (episode.media.newspaper_url) {
                 const newspaperLink = document.getElementById('newspaper-link');
                 newspaperLink.href = episode.media.newspaper_url;
-                newspaperLink.style.display = 'inline-flex';
+                newspaperLink.style.display = 'inline';
             }
             
             // Display stories
