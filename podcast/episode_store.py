@@ -107,12 +107,12 @@ def get_latest_episode() -> Optional[dict]:
 
 def count_episodes() -> int:
     """Count total number of episodes.
-    
+
     Returns:
         Number of episode JSON files.
     """
     EPISODES_DIR.mkdir(parents=True, exist_ok=True)
-    return len(list(EPISODES_DIR.glob("*.json"))) - 1  # Exclude .gitkeep
+    return len(list(EPISODES_DIR.glob("*.json")))
 
 
 def search_episodes(query: str, field: str = "title") -> List[dict]:
