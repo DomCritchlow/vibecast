@@ -1,0 +1,82 @@
+{
+  "guid": "2026-01-26",
+  "date": "2026-01-26T04:56:59.564459",
+  "title": "AI FOMO, Titan's Ocean Mystery & Space Station Boosts",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 280.8421052631579,
+  "duration_formatted": "4:40",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-26.mp3",
+    "audio_size_bytes": 6636232,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-26/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-26/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-01-26.txt"
+  },
+  "stories": [
+    {
+      "title": "The 10 Best Essential Oil Diffusers We’ve Tried in 2026 (and 2 to Avoid)",
+      "source": "Wired",
+      "url": "https://www.wired.com/gallery/best-essential-oil-diffusers/",
+      "summary": "Keep things smelling fresh with these handy home gadgets. After researching and testing over a dozen devices, the Urpower Aroma is our favorite for most people."
+    },
+    {
+      "title": "AI FOMO",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://datamethods.substack.com/p/ai-fomo",
+      "summary": "Article URL: https://datamethods.substack.com/p/ai-fomo Comments URL: https://news.ycombinator.com/item?id=46760922 Points: 1 # Comments: 1"
+    },
+    {
+      "title": "Cindy L. Young",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/people/cindy-l-young/",
+      "summary": "Cindy L. Young, Research Physical Scientist, Climate Science Branch, Science Directorate, NASA Langley Research Center The post Cindy L. Young appeared first on NASA Science."
+    },
+    {
+      "title": "Crew Studies Cardiac Research, Artificial Intelligence as Dragon Boosts Station’s Orbit",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/01/23/crew-studies-cardiac-research-artificial-intelligence-as-dragon-boosts-stations-orbit/",
+      "summary": "Cardiac research and artificial intelligence were the main science topics for the Expedition 74 crew on Friday. The International Space Station also received an orbital boost when the SpaceX Dragon spacecraft fired its engines at the end of the week. The post Crew Studies Cardiac Research, Artificial Intelligence as Dragon Boosts Station’s Orbit appeared first on NASA Science."
+    },
+    {
+      "title": "NASA Study Suggests Saturn’s Moon Titan May Not Have Global Ocean",
+      "source": "NASA JPL News",
+      "url": "https://www.jpl.nasa.gov/news/nasa-study-suggests-saturns-moon-titan-may-not-have-global-ocean",
+      "summary": "Reanalysis of data from NASA’s Cassini mission has revealed Saturn’s moon may instead have layers of slush with isolated pockets of liquid water."
+    },
+    {
+      "title": "Amazon's internet-beaming satellites are bright enough to disrupt astronomical research, study finds",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/satellites/amazons-internet-beaming-satellites-are-bright-enough-to-disrupt-astronomical-research-study-finds",
+      "summary": "The satellites in Amazon's new internet-beaming megaconstellation in low Earth orbit are bright enough to disrupt astronomical research, a study has found."
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "Defining the Anti-Erotic",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/defining-the-anti-erotic",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "Desire Is an Obligation",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/desire-as-an-obligation",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "We're Not Supposed to Be Thinking About Ourselves This Much",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/were-not-supposed-to-be-thinking",
+      "description": "Critical analysis of sexuality and culture"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-01-26T04:58:10.264320",
+    "llm_model": "gpt-4o",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
