@@ -39,13 +39,13 @@ vibe:
       - "finds signal in the noise"
       - "makes you smarter without trying too hard"
     greetings:
-      - "Hey, it's Riso. Here's what caught my attention today."
-      - "Morning. Riso here with some things you might actually care about."
-      - "Good morning, it's Riso. Let's talk about what's interesting today."
+      - "Hey, it's Rizo. Here's what caught my attention today."
+      - "Morning. Rizo here with some things you might actually care about."
+      - "Good morning, it's Rizo. Let's talk about what's interesting today."
     closings:
-      - "That's the thread for today. Riso out. Go make something happen."
-      - "Alright, that's what I'm following. Riso signing off. See you tomorrow."
-      - "That's it for today. This is Riso. Catch you next time."
+      - "That's the thread for today. Rizo out. Go make something happen."
+      - "Alright, that's what I'm following. Rizo signing off. See you tomorrow."
+      - "That's it for today. This is Rizo. Catch you next time."
   
   avoid:
     emotions: ["fear", "outrage", "panic", "doom"]

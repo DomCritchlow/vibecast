@@ -129,7 +129,7 @@ vibecast/
 **Templates** live in `podcast/templates/`:
 - `base.html` — Shared layout (nav, footer, scripts)
 - `index.html` — Homepage with episode player
-- `about.html` — Meet Riso page
+- `about.html` — Meet Rizo page
 - `docs.html` — Documentation
 
 **CSS Design System** in `docs/assets/css/`:

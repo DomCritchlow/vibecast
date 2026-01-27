@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate new Vibecast podcast cover artwork using our Riso style."""
+"""Generate new Vibecast podcast cover artwork using our Rizo style."""
 
 import os
 import sys
@@ -11,7 +11,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 from podcast.artwork.openai_provider import OpenAIArtworkProvider
 
 
-# Podcast cover prompt using our locked Riso style
+# Podcast cover prompt using our locked Rizo style
 COVER_PROMPT = """Editorial collage illustration in a modern risograph / screenprint poster style.
 High-contrast cut-paper look: black ink + warm off-white paper + one accent color (burnt orange).
 Halftone (Ben-Day) dot shading for clouds and shadows, visible paper grain, ink noise, subtle layer misregistration.
