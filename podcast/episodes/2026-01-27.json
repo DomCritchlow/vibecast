@@ -1,0 +1,82 @@
+{
+  "guid": "2026-01-27",
+  "date": "2026-01-27T04:50:04.098436",
+  "title": "AI's Impact on Science & Google's 2025 Breakthroughs",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 249.26315789473682,
+  "duration_formatted": "4:09",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-27.mp3",
+    "audio_size_bytes": 6068183,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-27/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-27/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-01-27.txt"
+  },
+  "stories": [
+    {
+      "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
+      "summary": "Google 2025 recap: Research breakthroughs of the year"
+    },
+    {
+      "title": "Fara-7B: An Efficient Agentic Model for Computer Use",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/",
+      "summary": "Fara-7B is our first agentic small language model for computer use. This experimental model includes robust safety measures to aid responsible deployment. Despite its size, Fara-7B holds its own against larger, more resource-intensive agentic systems. The post Fara-7B: An Efficient Agentic Model for Computer Use appeared first on Microsoft Research."
+    },
+    {
+      "title": "MMCTAgent: Enabling multimodal reasoning over large video and image collections",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/",
+      "summary": "MMCTAgent enables dynamic multimodal reasoning with iterative planning and reflection. Built on Microsoft’s AutoGen framework, it integrates language, vision, and temporal understanding for complex tasks like long video and image analysis. The post MMCTAgent: Enabling multimodal reasoning over large video and image collections appeared first on Microsoft Research."
+    },
+    {
+      "title": "Audio long read: ‘I rarely get outside’ — scientists ditch fieldwork in the age of AI",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00255-y",
+      "summary": "Nature, Published online: 26 January 2026; doi:10.1038/d41586-026-00255-yIn the wake of new computer-based methods, some ecologists fear their field is losing touch with nature."
+    },
+    {
+      "title": "Technology is changing how we write — and how we think about writing",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00245-0",
+      "summary": "Nature, Published online: 26 January 2026; doi:10.1038/d41586-026-00245-0An exploration of how writing systems, from ancient Chinese characters to modern alphabets, shape language, and whether users of ChatGPT can be said to be authors at all."
+    },
+    {
+      "title": "Inside OpenAI’s big play for science",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/01/26/1131728/inside-openais-big-play-for-science/",
+      "summary": "In the three years since ChatGPT’s explosive debut, OpenAI’s technology has upended a remarkable range of everyday activities at home, at work, in schools—anywhere people have a browser open or a phone out, which is everywhere. Now OpenAI is making an explicit play for scientists. In October, the firm announced that it had launched a&#8230;"
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "Is Avoiding Embarrassment the Only Goal?",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/is-avoiding-embarrassment-the-only",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "What Is \"Cuffing Season\" Asking of You?",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/what-is-cuffing-season-asking-of",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "The Disney-Adultification of Halloween",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/the-disney-adultification-of-halloween",
+      "description": "Critical analysis of sexuality and culture"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-01-27T04:51:13.563200",
+    "llm_model": "gpt-4o",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Jan 2026 04:58:10 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 04:51:13 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,114 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>AI&#x27;s Impact on Science &amp; Google&#x27;s 2025 Breakthroughs</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Google's year in review: 8 areas with research breakthroughs in 2025
+   Source: DeepMind Blog
+2. Fara-7B: An Efficient Agentic Model for Computer Use
+   Source: Microsoft Research Blog
+3. MMCTAgent: Enabling multimodal reasoning over large video and image collections
+   Source: Microsoft Research Blog
+4. Audio long read: ‘I rarely get outside’ — scientists ditch fieldwork in the age of AI
+   Source: Nature News
+5. Technology is changing how we write — and how we think about writing
+   Source: Nature News
+6. Inside OpenAI’s big play for science
+   Source: MIT Technology Review
+
+REFERENCES:
+
+1. Google's year in review: 8 areas with research breakthroughs in 2025
+   https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/
+
+2. Fara-7B: An Efficient Agentic Model for Computer Use
+   https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/
+
+3. MMCTAgent: Enabling multimodal reasoning over large video and image collections
+   https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/
+
+4. Audio long read: ‘I rarely get outside’ — scientists ditch fieldwork in the age of AI
+   https://www.nature.com/articles/d41586-026-00255-y
+
+5. Technology is changing how we write — and how we think about writing
+   https://www.nature.com/articles/d41586-026-00245-0
+
+6. Inside OpenAI’s big play for science
+   https://www.technologyreview.com/2026/01/26/1131728/inside-openais-big-play-for-science/
+
+READING LIST:
+Articles recommended for further reading
+
+1. Is Avoiding Embarrassment the Only Goal? by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/is-avoiding-embarrassment-the-only
+
+2. What Is "Cuffing Season" Asking of You? by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/what-is-cuffing-season-asking-of
+
+3. The Disney-Adultification of Halloween by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/the-disney-adultification-of-halloween
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-27/newspaper.pdf]]></description>
+      <pubDate>Tue, 27 Jan 2026 04:50:04 -0000</pubDate>
+      <guid isPermaLink="false">2026-01-27</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-27.mp3" length="6068183" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Google's year in review: 8 areas with research breakthroughs in 2025
+   Source: DeepMind Blog
+2. Fara-7B: An Efficient Agentic Model for Computer Use
+   Source: Microsoft Research Blog
+3. MMCTAgent: Enabling multimodal reasoning over large video and image collections
+   Source: Microsoft Research Blog
+4. Audio long read: ‘I rarely get outside’ — scientists ditch fieldwork in the age of AI
+   Source: Nature News
+5. Technology is changing how we write — and how we think about writing
+   Source: Nature News
+6. Inside OpenAI’s big play for science
+   Source: MIT Technology Review
+
+REFERENCES:
+
+1. Google's year in review: 8 areas with research breakthroughs in 2025
+   https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/
+
+2. Fara-7B: An Efficient Agentic Model for Computer Use
+   https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/
+
+3. MMCTAgent: Enabling multimodal reasoning over large video and image collections
+   https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/
+
+4. Audio long read: ‘I rarely get outside’ — scientists ditch fieldwork in the age of AI
+   https://www.nature.com/articles/d41586-026-00255-y
+
+5. Technology is changing how we write — and how we think about writing
+   https://www.nature.com/articles/d41586-026-00245-0
+
+6. Inside OpenAI’s big play for science
+   https://www.technologyreview.com/2026/01/26/1131728/inside-openais-big-play-for-science/
+
+READING LIST:
+Articles recommended for further reading
+
+1. Is Avoiding Embarrassment the Only Goal? by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/is-avoiding-embarrassment-the-only
+
+2. What Is "Cuffing Season" Asking of You? by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/what-is-cuffing-season-asking-of
+
+3. The Disney-Adultification of Halloween by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/the-disney-adultification-of-halloween
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-27/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:09</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-27/episode-art.png"/>
+    </item>
     <item>
       <title>AI FOMO, Titan&#x27;s Ocean Mystery &amp; Space Station Boosts</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2492,85 +2600,6 @@ REFERENCES:
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:36</itunes:duration>
-    </item>
-    <item>
-      <title>Morning Vibe</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Merry Kiss-mas: Thousands Gather Under 10-Foot Mistletoe in DC to Set Guinness Record for Festive Smooches
-   Source: Good News Network
-2. New York state has set a record for flu cases ahead of peak season
-   Source: Gothamist (NYC)
-3. Ctrl+Alt+Defy, the white-hat hacker rewriting the cybersecurity rulebook
-   Source: Positive News
-4. Solar, reimagined: meet the bright minds pushing it into the future
-   Source: Positive News
-5. Veteran Inspired Drone Company Finds Lost Dog in Frigid Cold in Just 41 Minutes–On Mission to Rescue Pets or People
-   Source: Good News Network
-6. Continuously hardening ChatGPT Atlas against prompt injection
-   Source: OpenAI News
-
-REFERENCES:
-
-1. Merry Kiss-mas: Thousands Gather Under 10-Foot Mistletoe in DC to Set Guinness Record for Festive Smooches
-   https://www.goodnewsnetwork.org/merry-kiss-mas-thousands-gather-under-10-foot-mistletoe-in-nations-capital-to-set-the-guinness-record-for-festive-smooches/
-
-2. New York state has set a record for flu cases ahead of peak season
-   https://gothamist.com/news/new-york-state-has-set-a-record-for-flu-cases-ahead-of-peak-season
-
-3. Ctrl+Alt+Defy, the white-hat hacker rewriting the cybersecurity rulebook
-   https://www.positive.news/science/technology/ctrlaltdefy-the-white-hat-hacker-rewriting-the-cybersecurity-rulebook/
-
-4. Solar, reimagined: meet the bright minds pushing it into the future
-   https://www.positive.news/environment/solar-reimagined-meet-the-bright-minds-pushing-it-into-the-future/
-
-5. Veteran Inspired Drone Company Finds Lost Dog in Frigid Cold in Just 41 Minutes–On Mission to Rescue Pets or People
-   https://www.goodnewsnetwork.org/veteran-inspired-drone-company-finds-lost-dog-in-frigid-cold-in-just-41-minutes/
-
-6. Continuously hardening ChatGPT Atlas against prompt injection
-   https://openai.com/index/hardening-atlas-against-prompt-injection
-]]></description>
-      <pubDate>Sun, 28 Dec 2025 00:00:00 -0000</pubDate>
-      <guid isPermaLink="false">2025-12-28</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2025-12-28.mp3" length="2392748" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Merry Kiss-mas: Thousands Gather Under 10-Foot Mistletoe in DC to Set Guinness Record for Festive Smooches
-   Source: Good News Network
-2. New York state has set a record for flu cases ahead of peak season
-   Source: Gothamist (NYC)
-3. Ctrl+Alt+Defy, the white-hat hacker rewriting the cybersecurity rulebook
-   Source: Positive News
-4. Solar, reimagined: meet the bright minds pushing it into the future
-   Source: Positive News
-5. Veteran Inspired Drone Company Finds Lost Dog in Frigid Cold in Just 41 Minutes–On Mission to Rescue Pets or People
-   Source: Good News Network
-6. Continuously hardening ChatGPT Atlas against prompt injection
-   Source: OpenAI News
-
-REFERENCES:
-
-1. Merry Kiss-mas: Thousands Gather Under 10-Foot Mistletoe in DC to Set Guinness Record for Festive Smooches
-   https://www.goodnewsnetwork.org/merry-kiss-mas-thousands-gather-under-10-foot-mistletoe-in-nations-capital-to-set-the-guinness-record-for-festive-smooches/
-
-2. New York state has set a record for flu cases ahead of peak season
-   https://gothamist.com/news/new-york-state-has-set-a-record-for-flu-cases-ahead-of-peak-season
-
-3. Ctrl+Alt+Defy, the white-hat hacker rewriting the cybersecurity rulebook
-   https://www.positive.news/science/technology/ctrlaltdefy-the-white-hat-hacker-rewriting-the-cybersecurity-rulebook/
-
-4. Solar, reimagined: meet the bright minds pushing it into the future
-   https://www.positive.news/environment/solar-reimagined-meet-the-bright-minds-pushing-it-into-the-future/
-
-5. Veteran Inspired Drone Company Finds Lost Dog in Frigid Cold in Just 41 Minutes–On Mission to Rescue Pets or People
-   https://www.goodnewsnetwork.org/veteran-inspired-drone-company-finds-lost-dog-in-frigid-cold-in-just-41-minutes/
-
-6. Continuously hardening ChatGPT Atlas against prompt injection
-   https://openai.com/index/hardening-atlas-against-prompt-injection
-]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:54</itunes:duration>
     </item>
   </channel>
 </rss>
