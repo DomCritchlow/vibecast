@@ -1,0 +1,82 @@
+{
+  "guid": "2026-01-28",
+  "date": "2026-01-28T04:47:15.601963",
+  "title": "AI Tax Donations & First Human Rejuvenation Test",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 308.2105263157895,
+  "duration_formatted": "5:08",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-28.mp3",
+    "audio_size_bytes": 7364108,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-28/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-28/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-01-28.txt"
+  },
+  "stories": [
+    {
+      "title": "Powering tax donations with AI powered personalized recommendations",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/trustbank",
+      "summary": "TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, delivering personalized, conversational recommendations that simplify Furusato Nozei gift discovery. A multi-agent system helps donors navigate thousands of options and find gifts that match their preferences."
+    },
+    {
+      "title": "Introducing Prism",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/introducing-prism",
+      "summary": "Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place."
+    },
+    {
+      "title": "UniRG: Scaling medical imaging report generation with multimodal reinforcement learning",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/",
+      "summary": "AI can help generate medical image reports, but today’s models struggle with varying reporting schemes. Learn how UniRG uses reinforcement learning to boost performance of medical vision-language models. The post UniRG: Scaling medical imaging report generation with multimodal reinforcement learning appeared first on Microsoft Research."
+    },
+    {
+      "title": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
+      "summary": ""
+    },
+    {
+      "title": "The first human test of a rejuvenation method will begin “shortly”",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/01/27/1131796/the-first-human-test-of-a-rejuvenation-method-will-begin-shortly/",
+      "summary": "When Elon Musk was at Davos last week, an interviewer asked him if he thought aging could be reversed. Musk said he hasn’t put much time into the problem but suspects it is “very solvable” and that when scientists discover why we age, it’s going to be something “obvious.” Not long after, the Harvard professor&#8230;"
+    },
+    {
+      "title": "The best Android phones",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/23674658/best-android-phone",
+      "summary": "The Android ecosystem is all about choice. While iPhone owners have a smaller pool of new devices to pick from when it’s time to upgrade, there’s a wider range of choices on Android. Some Android phones even fold in half! Imagine. On the flip side, all that choice can make for some hard decisions. Here’s [&#8230;]"
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "You're Already a Sexual Cyborg",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/youre-already-a-sexual-cyborg",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "We Have to Try to Be Nice to Each Other",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/we-have-to-try-to-be-nice-to-each",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "Filling in the Dating Gaps",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/filling-in-the-dating-gaps",
+      "description": "Critical analysis of sexuality and culture"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-01-28T04:48:34.617440",
+    "llm_model": "gpt-4o",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
