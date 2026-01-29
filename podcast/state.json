@@ -1,17 +1,5 @@
 {
   "used_urls": [
-    "https://www.nature.com/articles/d41586-026-00163-1",
-    "https://www.nature.com/articles/d41586-026-00090-1",
-    "https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/",
-    "https://www.technologyreview.com/2026/01/20/1129965/reimagining-erp-for-the-agentic-ai-era/",
-    "https://www.technologyreview.com/2026/01/20/1131462/the-uk-government-is-backing-ai-scientists-that-can-run-their-own-experiments/",
-    "https://www.wired.com/story/the-big-interview-podcast-jimmy-wales/",
-    "https://www.nasa.gov/missions/artemis/artemis-2/nasas-artemis-ii-mission-to-fly-legacy-keepsakes-with-astronaut-crew/",
-    "https://openai.com/index/edu-for-countries",
-    "https://openai.com/index/how-countries-can-end-the-capability-overhang",
-    "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
-    "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
-    "https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/",
     "https://www.nature.com/articles/d41586-026-00207-6",
     "https://www.nature.com/articles/d41586-026-00153-3",
     "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
@@ -56,21 +44,18 @@
     "https://www.theverge.com/23674658/best-android-phone",
     "https://www.sexual-culture.com/p/youre-already-a-sexual-cyborg",
     "https://www.sexual-culture.com/p/we-have-to-try-to-be-nice-to-each",
-    "https://www.sexual-culture.com/p/filling-in-the-dating-gaps"
+    "https://www.sexual-culture.com/p/filling-in-the-dating-gaps",
+    "https://www.nature.com/articles/s41586-025-10041-x",
+    "https://www.theverge.com/news/869731/google-gemini-ai-chrome-auto-browse",
+    "https://www.nature.com/articles/d41586-026-00103-z",
+    "https://openai.com/index/emea-youth-and-wellbeing-grant",
+    "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
+    "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
+    "https://www.sexual-culture.com/p/the-last-chopper-out-of-nam",
+    "https://www.sexual-culture.com/p/the-moral-panic-in-your-hands",
+    "https://www.sexual-culture.com/p/who-is-allowed-to-perform-gender"
   ],
   "url_timestamps": {
-    "https://www.nature.com/articles/d41586-026-00163-1": "2026-01-21T04:48:09.406162",
-    "https://www.nature.com/articles/d41586-026-00090-1": "2026-01-21T04:48:09.406162",
-    "https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/": "2026-01-21T04:48:09.406162",
-    "https://www.technologyreview.com/2026/01/20/1129965/reimagining-erp-for-the-agentic-ai-era/": "2026-01-21T04:48:09.406162",
-    "https://www.technologyreview.com/2026/01/20/1131462/the-uk-government-is-backing-ai-scientists-that-can-run-their-own-experiments/": "2026-01-21T04:48:09.406162",
-    "https://www.wired.com/story/the-big-interview-podcast-jimmy-wales/": "2026-01-21T04:48:09.406162",
-    "https://www.nasa.gov/missions/artemis/artemis-2/nasas-artemis-ii-mission-to-fly-legacy-keepsakes-with-astronaut-crew/": "2026-01-22T04:52:03.075220",
-    "https://openai.com/index/edu-for-countries": "2026-01-22T04:52:03.075220",
-    "https://openai.com/index/how-countries-can-end-the-capability-overhang": "2026-01-22T04:52:03.075220",
-    "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/": "2026-01-22T04:52:03.075220",
-    "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/": "2026-01-22T04:52:03.075220",
-    "https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/": "2026-01-22T04:52:03.075220",
     "https://www.nature.com/articles/d41586-026-00207-6": "2026-01-23T04:46:24.505736",
     "https://www.nature.com/articles/d41586-026-00153-3": "2026-01-23T04:46:24.505736",
     "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/": "2026-01-23T04:46:24.505736",
@@ -115,7 +100,16 @@
     "https://www.theverge.com/23674658/best-android-phone": "2026-01-28T04:48:34.639734",
     "https://www.sexual-culture.com/p/youre-already-a-sexual-cyborg": "2026-01-28T04:48:34.639734",
     "https://www.sexual-culture.com/p/we-have-to-try-to-be-nice-to-each": "2026-01-28T04:48:34.639734",
-    "https://www.sexual-culture.com/p/filling-in-the-dating-gaps": "2026-01-28T04:48:34.639734"
+    "https://www.sexual-culture.com/p/filling-in-the-dating-gaps": "2026-01-28T04:48:34.639734",
+    "https://www.nature.com/articles/s41586-025-10041-x": "2026-01-29T05:08:07.723340",
+    "https://www.theverge.com/news/869731/google-gemini-ai-chrome-auto-browse": "2026-01-29T05:08:07.723340",
+    "https://www.nature.com/articles/d41586-026-00103-z": "2026-01-29T05:08:07.723340",
+    "https://openai.com/index/emea-youth-and-wellbeing-grant": "2026-01-29T05:08:07.723340",
+    "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/": "2026-01-29T05:08:07.723340",
+    "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/": "2026-01-29T05:08:07.723340",
+    "https://www.sexual-culture.com/p/the-last-chopper-out-of-nam": "2026-01-29T05:08:07.723340",
+    "https://www.sexual-culture.com/p/the-moral-panic-in-your-hands": "2026-01-29T05:08:07.723340",
+    "https://www.sexual-culture.com/p/who-is-allowed-to-perform-gender": "2026-01-29T05:08:07.723340"
   },
-  "last_run": "2026-01-28T04:48:34.639734"
+  "last_run": "2026-01-29T05:08:07.723340"
 }

@@ -1,0 +1,82 @@
+{
+  "guid": "2026-01-29",
+  "date": "2026-01-29T05:06:50.586773",
+  "title": "Gemini AI in Chrome & UK AI Security Partnership",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 288.84210526315786,
+  "duration_formatted": "4:48",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-29.mp3",
+    "audio_size_bytes": 6814910,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-29/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-29/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-01-29.txt"
+  },
+  "stories": [
+    {
+      "title": "Multimodal learning with next-token prediction for large multimodal models",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-025-10041-x",
+      "summary": "Nature, Published online: 28 January 2026; doi:10.1038/s41586-025-10041-xEmu3 enables large-scale text, image and video learning based solely on next-token prediction, matching the generation and perception performance of task-specific methods, with implications for the development of scalable and unified multimodal intelligence systems."
+    },
+    {
+      "title": "Google adds Gemini AI-powered ‘auto browse’ to Chrome",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/869731/google-gemini-ai-chrome-auto-browse",
+      "summary": "Google is launching a new \"auto browse\" feature inside Chrome that can perform multi-step tasks on your behalf. The Gemini AI-powered capability is coming to Google AI Pro and Ultra subscribers in the US, and can do things like research hotel and flight costs, schedule appointments, fill out online forms, manage subscriptions, and more. The [&#8230;]"
+    },
+    {
+      "title": "Preserving the respiratory system",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00103-z",
+      "summary": "Nature, Published online: 28 January 2026; doi:10.1038/d41586-026-00103-zBetter air quality, disease diagnostics and treatment will improve lung health."
+    },
+    {
+      "title": "EMEA Youth & Wellbeing Grant",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
+      "summary": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI."
+    },
+    {
+      "title": "Deepening our partnership with the UK AI Security Institute",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
+      "summary": "Google DeepMind and UK AI Security Institute (AISI) strengthen collaboration on critical AI safety and security research"
+    },
+    {
+      "title": "FACTS Benchmark Suite: Systematically evaluating the factuality of large language models",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
+      "summary": "Systematically evaluating the factuality of large language models with the FACTS Benchmark Suite."
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "The Last Chopper Out of Nam",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/the-last-chopper-out-of-nam",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "The Moral Panic In Your Hands",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/the-moral-panic-in-your-hands",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "Who Is Allowed to \"Perform\" Gender and Identity?",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/who-is-allowed-to-perform-gender",
+      "description": "Critical analysis of sexuality and culture"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-01-29T05:08:07.704400",
+    "llm_model": "gpt-4o",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
