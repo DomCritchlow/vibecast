@@ -1,0 +1,82 @@
+{
+  "guid": "2026-01-30",
+  "date": "2026-01-30T05:10:01.951141",
+  "title": "Europa's Ammonia & AI's Chemical Leap Forward",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 254.3157894736842,
+  "duration_formatted": "4:14",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-30.mp3",
+    "audio_size_bytes": 6036836,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-30/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-30/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-01-30.txt"
+  },
+  "stories": [
+    {
+      "title": "Ammonia-Bearing Compounds Discovered at Surface of Jupiter’s Moon Europa",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/photojournal/ammonia-bearing-compounds-discovered-at-surface-of-jupiters-moon-europa/",
+      "summary": "Description Advanced analysis of decades-old data from NASA’s Galileo spacecraft identifies ammonia-bearing compounds discovered on the surface of Jupiter’s moon Europa, as shown in this composite image. Zooming in on an area about 250 miles (about 400 kilometers) wide, the black-and-white mosaic to the right is composed of multiple images from Galileo’s Solid-State Imaging camera. [&#8230;] The post Ammonia-Bearing Compounds Discovered at Surface of Jupiter’s Moon Europa appeared first on NASA Science."
+    },
+    {
+      "title": "This AI has chemical expertise — and helps synthesize 35 new compounds",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00240-5",
+      "summary": "Nature, Published online: 29 January 2026; doi:10.1038/d41586-026-00240-5An open-source program helps researchers bypass a major bottleneck in the process chemical synthesis."
+    },
+    {
+      "title": "48 hours without lungs: artificial organ kept man alive until transplant",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00239-y",
+      "summary": "Nature, Published online: 29 January 2026; doi:10.1038/d41586-026-00239-yThe external, artificial-lung system could be used to treat other people who are critically unwell and awaiting transplants."
+    },
+    {
+      "title": "Project Genie: Experimenting with infinite, interactive worlds",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/",
+      "summary": "Google AI Ultra subscribers in the U.S. can try out Project Genie, an experimental research prototype that lets you create and explore worlds."
+    },
+    {
+      "title": "D4RT: Teaching AI to see the world in four dimensions",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
+      "summary": "D4RT: Unified, efficient 4D reconstruction and tracking up to 300x faster than prior methods."
+    },
+    {
+      "title": "Multimodal reinforcement learning with agentic verifier for AI agents",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/",
+      "summary": "Argos improves multimodal RL by evaluating whether an agent’s reasoning aligns with what it observes over time. The approach reduces visual hallucinations and produces more reliable, data-efficient agents for real-world applications. The post Multimodal reinforcement learning with agentic verifier for AI agents appeared first on Microsoft Research."
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "Gender Relations Have Made Dating a Hostile Act",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/gender-relations-have-made-dating",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "Sex For Sex's Sake",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/sex-for-sexs-sake",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "Treating Romance Like a Math Problem",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/everyones-treating-romance-like-a",
+      "description": "Critical analysis of sexuality and culture"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-01-30T05:11:11.393138",
+    "llm_model": "gpt-4o",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

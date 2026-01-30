@@ -1,11 +1,5 @@
 {
   "used_urls": [
-    "https://www.nature.com/articles/d41586-026-00207-6",
-    "https://www.nature.com/articles/d41586-026-00153-3",
-    "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
-    "https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/",
-    "https://www.theverge.com/news/866441/ring-verify-security-camera-ai-fakes-video-verification",
-    "https://restofworld.org/2026/tech-jobs-2026-ai-layoffs-hybrid-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
     "https://www.nature.com/articles/d41586-026-00067-0",
     "https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/",
     "https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/",
@@ -53,15 +47,18 @@
     "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
     "https://www.sexual-culture.com/p/the-last-chopper-out-of-nam",
     "https://www.sexual-culture.com/p/the-moral-panic-in-your-hands",
-    "https://www.sexual-culture.com/p/who-is-allowed-to-perform-gender"
+    "https://www.sexual-culture.com/p/who-is-allowed-to-perform-gender",
+    "https://science.nasa.gov/photojournal/ammonia-bearing-compounds-discovered-at-surface-of-jupiters-moon-europa/",
+    "https://www.nature.com/articles/d41586-026-00240-5",
+    "https://www.nature.com/articles/d41586-026-00239-y",
+    "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/",
+    "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
+    "https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/",
+    "https://www.sexual-culture.com/p/gender-relations-have-made-dating",
+    "https://www.sexual-culture.com/p/sex-for-sexs-sake",
+    "https://www.sexual-culture.com/p/everyones-treating-romance-like-a"
   ],
   "url_timestamps": {
-    "https://www.nature.com/articles/d41586-026-00207-6": "2026-01-23T04:46:24.505736",
-    "https://www.nature.com/articles/d41586-026-00153-3": "2026-01-23T04:46:24.505736",
-    "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/": "2026-01-23T04:46:24.505736",
-    "https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/": "2026-01-23T04:46:24.505736",
-    "https://www.theverge.com/news/866441/ring-verify-security-camera-ai-fakes-video-verification": "2026-01-23T04:46:24.505736",
-    "https://restofworld.org/2026/tech-jobs-2026-ai-layoffs-hybrid-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds": "2026-01-23T04:46:24.505736",
     "https://www.nature.com/articles/d41586-026-00067-0": "2026-01-24T04:38:01.845825",
     "https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/": "2026-01-24T04:38:01.845825",
     "https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/": "2026-01-24T04:38:01.845825",
@@ -109,7 +106,16 @@
     "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/": "2026-01-29T05:08:07.723340",
     "https://www.sexual-culture.com/p/the-last-chopper-out-of-nam": "2026-01-29T05:08:07.723340",
     "https://www.sexual-culture.com/p/the-moral-panic-in-your-hands": "2026-01-29T05:08:07.723340",
-    "https://www.sexual-culture.com/p/who-is-allowed-to-perform-gender": "2026-01-29T05:08:07.723340"
+    "https://www.sexual-culture.com/p/who-is-allowed-to-perform-gender": "2026-01-29T05:08:07.723340",
+    "https://science.nasa.gov/photojournal/ammonia-bearing-compounds-discovered-at-surface-of-jupiters-moon-europa/": "2026-01-30T05:11:11.411895",
+    "https://www.nature.com/articles/d41586-026-00240-5": "2026-01-30T05:11:11.411895",
+    "https://www.nature.com/articles/d41586-026-00239-y": "2026-01-30T05:11:11.411895",
+    "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/": "2026-01-30T05:11:11.411895",
+    "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/": "2026-01-30T05:11:11.411895",
+    "https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/": "2026-01-30T05:11:11.411895",
+    "https://www.sexual-culture.com/p/gender-relations-have-made-dating": "2026-01-30T05:11:11.411895",
+    "https://www.sexual-culture.com/p/sex-for-sexs-sake": "2026-01-30T05:11:11.411895",
+    "https://www.sexual-culture.com/p/everyones-treating-romance-like-a": "2026-01-30T05:11:11.411895"
   },
-  "last_run": "2026-01-29T05:08:07.723340"
+  "last_run": "2026-01-30T05:11:11.411895"
 }
