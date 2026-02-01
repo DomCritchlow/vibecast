@@ -1,0 +1,75 @@
+{
+  "guid": "2026-02-01",
+  "date": "2026-02-01T05:22:38.359657",
+  "title": "AI Legal Revolution & NASA's Earth Energy Breakthrough",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 264.42105263157896,
+  "duration_formatted": "4:24",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-01.mp3",
+    "audio_size_bytes": 5960350,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-01/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-01/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-02-01.txt"
+  },
+  "stories": [
+    {
+      "title": "Ideas: Community building, machine learning, and the future of AI",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/",
+      "summary": "As the Women in Machine Learning Workshop (WiML) marks its 20th annual gathering, cofounders, friends, and collaborators Jenn Wortman Vaughan and Hanna Wallach reflect on WiML’s evolution, navigating the field of ML, and their work in responsible AI. The post Ideas: Community building, machine learning, and the future of AI appeared first on Microsoft Research."
+    },
+    {
+      "title": "Research roundup: 6 cool stories we almost missed",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/01/research-roundup-6-cool-stories-we-almost-missed-2/",
+      "summary": "A lip-syncing robot, Leonardo's DNA, and new evidence that humans, not glaciers, moved stones to Stonehenge"
+    },
+    {
+      "title": "Show HN: OpenJuris – AI legal research with citations from primary sources",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://openjuris.org/",
+      "summary": "We built tooling that connects LLMs directly to case law databases with citation verification to address hallucination in legal AI. Think of it as giving the model access to actual legal sources instead of relying on training data. Comments URL: https://news.ycombinator.com/item?id=46843162 Points: 2 # Comments: 0"
+    },
+    {
+      "title": "NASA Earth Energy Instrument Completes Testing, Ready for Delivery",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/missions/libera/nasa-earth-energy-instrument-completes-testing-ready-for-delivery/",
+      "summary": "NASA’s Libera instrument, which is designed to maintain the global data record of Earth’s radiation budget, has successfully completed comprehensive environmental testing. This critical milestone included thermal vacuum tests that simulate the expected space temperature and environments that Libera will experience during its mission. The Libera instrument will fly on Joint Polar Satellite System-4 (JPSS-4), [&#8230;] The post NASA Earth Energy Instrument Completes Testing, Ready for Delivery appeared first on NASA Science."
+    },
+    {
+      "title": "Amendment 42: Several Changes to F.10 PRISM",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-42-several-changes-to-f-10-prism/",
+      "summary": "F.10 Payloads and Research Investigations on the Surface of the Moon (PRISM) solicits development and flight of a science-driven suite of instruments and supporting technology demonstration payloads tailored to complete scientific investigations at a lunar landing destination, that address the science goals of 1) any SMD division, e.g., Planetary Science, Earth Science, Heliophysics, Astrophysics, and [&#8230;] The post Amendment 42: Several Changes to F.10 PRISM appeared first on NASA Science."
+    },
+    {
+      "title": "From a new flagship space telescope to lunar exploration, global cooperation – and competition – will make 2026 an exciting year for space",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/from-a-new-flagship-space-telescope-to-lunar-exploration-global-cooperation-and-competition-will-make-2026-an-exciting-year-for-space",
+      "summary": "Coming from one of the world's largest astrophysical research institutes, I can tell you, the anticipation across the global space science community is electric."
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "Men and Women Still Don't Get Each Other. But Aren't We Supposed to Try?",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/men-and-women-still-dont-get-each",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "\"When did sl*t-shaming come back? Did it ever leave?\"",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/when-did-slt-shaming-come-back-did",
+      "description": "Critical analysis of sexuality and culture"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-02-01T05:23:43.927718",
+    "llm_model": "gpt-4o",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
