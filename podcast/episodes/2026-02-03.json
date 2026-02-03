@@ -1,0 +1,82 @@
+{
+  "guid": "2026-02-03",
+  "date": "2026-02-03T05:16:00.375403",
+  "title": "Google Breakthroughs & Mind-Reading Tech Unveiled",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 276.2105263157895,
+  "duration_formatted": "4:36",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-03.mp3",
+    "audio_size_bytes": 7017411,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-03/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-03/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-02-03.txt"
+  },
+  "stories": [
+    {
+      "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
+      "summary": "Google 2025 recap: Research breakthroughs of the year"
+    },
+    {
+      "title": "Fara-7B: An Efficient Agentic Model for Computer Use",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/",
+      "summary": "Fara-7B is our first agentic small language model for computer use. This experimental model includes robust safety measures to aid responsible deployment. Despite its size, Fara-7B holds its own against larger, more resource-intensive agentic systems. The post Fara-7B: An Efficient Agentic Model for Computer Use appeared first on Microsoft Research."
+    },
+    {
+      "title": "MMCTAgent: Enabling multimodal reasoning over large video and image collections",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/",
+      "summary": "MMCTAgent enables dynamic multimodal reasoning with iterative planning and reflection. Built on Microsoft’s AutoGen framework, it integrates language, vision, and temporal understanding for complex tasks like long video and image analysis. The post MMCTAgent: Enabling multimodal reasoning over large video and image collections appeared first on Microsoft Research."
+    },
+    {
+      "title": "Science finds its song",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00316-2",
+      "summary": "Nature, Published online: 02 February 2026; doi:10.1038/d41586-026-00316-2Turning data into sound and music helps researchers to build community and communicate their science to a broader audience."
+    },
+    {
+      "title": "OpenAI-backed firm to use ultrasound to read minds. Does the science stand up?",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00329-x",
+      "summary": "Nature, Published online: 02 February 2026; doi:10.1038/d41586-026-00329-xSpin-out Merge Labs aims to rival Elon Musk’s brain-chip company Neuralink. But researchers say the technology is still at an early stage."
+    },
+    {
+      "title": "The crucial first step for designing a successful enterprise AI system",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/02/02/1131822/the-crucial-first-step-for-designing-a-successful-enterprise-ai-system/",
+      "summary": "Many organizations rushed into generative AI, only to see pilots fail to deliver value. Now, companies want measurable outcomes—but how do you design for success? At Mistral AI, we partner with global industry leaders to co-design tailored AI solutions that solve their most difficult problems. Whether it’s increasing CX productivity with Cisco, building a more&#8230;"
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "Defining the Anti-Erotic",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/defining-the-anti-erotic",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "Desire Is an Obligation",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/desire-as-an-obligation",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "We're Not Supposed to Be Thinking About Ourselves This Much",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/were-not-supposed-to-be-thinking",
+      "description": "Critical analysis of sexuality and culture"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-02-03T05:17:16.528267",
+    "llm_model": "gpt-4o",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
