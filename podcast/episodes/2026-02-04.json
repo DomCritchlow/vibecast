@@ -1,0 +1,82 @@
+{
+  "guid": "2026-02-04",
+  "date": "2026-02-04T05:10:37.423568",
+  "title": "AI Ecosystem's Future & Borderlands 4 Update",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 242.5263157894737,
+  "duration_formatted": "4:02",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-04.mp3",
+    "audio_size_bytes": 5673212,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-04/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-04/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-02-04.txt"
+  },
+  "stories": [
+    {
+      "title": "Amendment 44: Final Text for B.2 Heliophysics Foundational Research",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-44-final-text-for-b-2-heliophysics-foundational-research/",
+      "summary": "B.2 Heliophysics Foundational Research (HFR) solicits investigations that advance the fundamental physical understanding of the Sun-Heliosphere-Planetary system. The emphasis of HFR is on uncovering and characterizing the underlying drivers, couplings, and governing processes that shape heliophysical phenomena across spatial and temporal scales, from the solar interior to planetary environments. B.2 HFR focuses on foundational science: [&#8230;] The post Amendment 44: Final Text for B.2 Heliophysics Foundational Research appeared first on NASA Science."
+    },
+    {
+      "title": "UniRG: Scaling medical imaging report generation with multimodal reinforcement learning",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/",
+      "summary": "AI can help generate medical image reports, but today’s models struggle with varying reporting schemes. Learn how UniRG uses reinforcement learning to boost performance of medical vision-language models. The post UniRG: Scaling medical imaging report generation with multimodal reinforcement learning appeared first on Microsoft Research."
+    },
+    {
+      "title": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
+      "summary": ""
+    },
+    {
+      "title": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
+      "summary": ""
+    },
+    {
+      "title": "Borderlands 4 for Switch 2 is on ‘pause’",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/873409/borderlands-4-nintendo-switch-2-development-pause",
+      "summary": "Development on the Nintendo Switch 2 version of Borderlands 4 is on \"pause,\" according to a statement from a Take-Two spokesperson given to Variety. \"We made the difficult decision to pause development on that SKU,\" Take-Two spokesperson Alan Lewis said in the statement published by Variety. \"Our focus continues to be delivering quality post-launch content [&#8230;]"
+    },
+    {
+      "title": "An ‘Intimacy Crisis’ Is Driving the Dating Divide",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/justin-garcia-the-intimate-animal-sex-and-relationships/",
+      "summary": "In his book The Intimate Animal, sex and relationships researcher Justin Garcia says people have miscalculated their need for human intimacy, which is the real issue at the root of the loneliness epidemic."
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "Is Avoiding Embarrassment the Only Goal?",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/is-avoiding-embarrassment-the-only",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "What Is \"Cuffing Season\" Asking of You?",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/what-is-cuffing-season-asking-of",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "The Disney-Adultification of Halloween",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/the-disney-adultification-of-halloween",
+      "description": "Critical analysis of sexuality and culture"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-02-04T05:11:47.145393",
+    "llm_model": "gpt-4o",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
