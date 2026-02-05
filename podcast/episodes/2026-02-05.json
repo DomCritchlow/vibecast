@@ -1,0 +1,82 @@
+{
+  "guid": "2026-02-05",
+  "date": "2026-02-05T05:18:01.995996",
+  "title": "NASA's New Era & AI in Soccer: A Game Changer",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 258.10526315789474,
+  "duration_formatted": "4:18",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-05.mp3",
+    "audio_size_bytes": 6198586,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-05/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-05/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-02-05.txt"
+  },
+  "stories": [
+    {
+      "title": "NASA, University of Texas Expand Research and Workforce Development",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-university-of-texas-expand-research-and-workforce-development/",
+      "summary": "NASA’s Johnson Space Center in Houston and the University of Texas System (UT System) announced the signing of a collaborative Space Act Agreement on Jan. 9, 2026. The agreement expands research and workforce development partnership opportunities across NASA centers and UT System facilities. The agreement builds upon decades of collaboration between NASA and the UT […] The post NASA, University of Texas Expand Research and Workforce Development appeared first on NASA Science."
+    },
+    {
+      "title": "These mysterious ridges could help skin regenerate",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00363-9",
+      "summary": "Nature, Published online: 04 February 2026; doi:10.1038/d41586-026-00363-9Research identifies how stem-cell filled structures known as rete ridges form — plus, the open-source AI tool that performs literature reviews."
+    },
+    {
+      "title": "Atmospheric H<sub>2</sub> variability over the past 1,100 years",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10099-1",
+      "summary": "Nature, Published online: 04 February 2026; doi:10.1038/s41586-026-10099-1Analysis of the atmospheric H2 variability over the past millennium suggests that the sensitivity of H2 to climate change should be considered in estimates of the radiative consequences of rising anthropogenic H2 emissions."
+    },
+    {
+      "title": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/vfl-wolfsburg",
+      "summary": "By focusing on people, not pilots, the Bundesliga club is scaling efficiency, creativity, and knowledge—without losing its football identity."
+    },
+    {
+      "title": "EMEA Youth & Wellbeing Grant",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
+      "summary": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI."
+    },
+    {
+      "title": "Deepening our partnership with the UK AI Security Institute",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
+      "summary": "Google DeepMind and UK AI Security Institute (AISI) strengthen collaboration on critical AI safety and security research"
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "You're Already a Sexual Cyborg",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/youre-already-a-sexual-cyborg",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "We Have to Try to Be Nice to Each Other",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/we-have-to-try-to-be-nice-to-each",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "Filling in the Dating Gaps",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/filling-in-the-dating-gaps",
+      "description": "Critical analysis of sexuality and culture"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-02-05T05:19:11.569958",
+    "llm_model": "gpt-4o",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

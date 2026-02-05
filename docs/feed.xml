@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Feb 2026 05:11:47 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 05:19:11 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,114 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>NASA&#x27;s New Era &amp; AI in Soccer: A Game Changer</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. NASA, University of Texas Expand Research and Workforce Development
+   Source: NASA Science
+2. These mysterious ridges could help skin regenerate
+   Source: Nature News
+3. Atmospheric H<sub>2</sub> variability over the past 1,100 years
+   Source: Nature News
+4. VfL Wolfsburg turns ChatGPT into a club-wide capability
+   Source: OpenAI News
+5. EMEA Youth & Wellbeing Grant
+   Source: OpenAI News
+6. Deepening our partnership with the UK AI Security Institute
+   Source: DeepMind Blog
+
+REFERENCES:
+
+1. NASA, University of Texas Expand Research and Workforce Development
+   https://www.nasa.gov/centers-and-facilities/johnson/nasa-university-of-texas-expand-research-and-workforce-development/
+
+2. These mysterious ridges could help skin regenerate
+   https://www.nature.com/articles/d41586-026-00363-9
+
+3. Atmospheric H<sub>2</sub> variability over the past 1,100 years
+   https://www.nature.com/articles/s41586-026-10099-1
+
+4. VfL Wolfsburg turns ChatGPT into a club-wide capability
+   https://openai.com/index/vfl-wolfsburg
+
+5. EMEA Youth & Wellbeing Grant
+   https://openai.com/index/emea-youth-and-wellbeing-grant
+
+6. Deepening our partnership with the UK AI Security Institute
+   https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/
+
+READING LIST:
+Articles recommended for further reading
+
+1. You're Already a Sexual Cyborg by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/youre-already-a-sexual-cyborg
+
+2. We Have to Try to Be Nice to Each Other by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/we-have-to-try-to-be-nice-to-each
+
+3. Filling in the Dating Gaps by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/filling-in-the-dating-gaps
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-05/newspaper.pdf]]></description>
+      <pubDate>Thu, 05 Feb 2026 05:18:01 -0000</pubDate>
+      <guid isPermaLink="false">2026-02-05</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-05.mp3" length="6198586" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. NASA, University of Texas Expand Research and Workforce Development
+   Source: NASA Science
+2. These mysterious ridges could help skin regenerate
+   Source: Nature News
+3. Atmospheric H<sub>2</sub> variability over the past 1,100 years
+   Source: Nature News
+4. VfL Wolfsburg turns ChatGPT into a club-wide capability
+   Source: OpenAI News
+5. EMEA Youth & Wellbeing Grant
+   Source: OpenAI News
+6. Deepening our partnership with the UK AI Security Institute
+   Source: DeepMind Blog
+
+REFERENCES:
+
+1. NASA, University of Texas Expand Research and Workforce Development
+   https://www.nasa.gov/centers-and-facilities/johnson/nasa-university-of-texas-expand-research-and-workforce-development/
+
+2. These mysterious ridges could help skin regenerate
+   https://www.nature.com/articles/d41586-026-00363-9
+
+3. Atmospheric H<sub>2</sub> variability over the past 1,100 years
+   https://www.nature.com/articles/s41586-026-10099-1
+
+4. VfL Wolfsburg turns ChatGPT into a club-wide capability
+   https://openai.com/index/vfl-wolfsburg
+
+5. EMEA Youth & Wellbeing Grant
+   https://openai.com/index/emea-youth-and-wellbeing-grant
+
+6. Deepening our partnership with the UK AI Security Institute
+   https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/
+
+READING LIST:
+Articles recommended for further reading
+
+1. You're Already a Sexual Cyborg by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/youre-already-a-sexual-cyborg
+
+2. We Have to Try to Be Nice to Each Other by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/we-have-to-try-to-be-nice-to-each
+
+3. Filling in the Dating Gaps by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/filling-in-the-dating-gaps
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-05/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:18</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-05/episode-art.png"/>
+    </item>
     <item>
       <title>AI Ecosystem&#x27;s Future &amp; Borderlands 4 Update</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2718,85 +2826,6 @@ REFERENCES:
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:48</itunes:duration>
-    </item>
-    <item>
-      <title>DOE Partnership &amp; Google&#x27;s 2025 AI Breakthroughs</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Deepening our collaboration with the U.S. Department of Energy
-   Source: OpenAI News
-2. Google's year in review: 8 areas with research breakthroughs in 2025
-   Source: DeepMind Blog
-3. Fara-7B: An Efficient Agentic Model for Computer Use
-   Source: Microsoft Research Blog
-4. MMCTAgent: Enabling multimodal reasoning over large video and image collections
-   Source: Microsoft Research Blog
-5. Addendum to GPT-5.2 System Card: GPT-5.2-Codex
-   Source: OpenAI News
-6. Ikea’s new $4 USB-C charger is cheaper than Apple’s and Anker’s
-   Source: The Verge
-
-REFERENCES:
-
-1. Deepening our collaboration with the U.S. Department of Energy
-   https://openai.com/index/us-department-of-energy-collaboration
-
-2. Google's year in review: 8 areas with research breakthroughs in 2025
-   https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/
-
-3. Fara-7B: An Efficient Agentic Model for Computer Use
-   https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/
-
-4. MMCTAgent: Enabling multimodal reasoning over large video and image collections
-   https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/
-
-5. Addendum to GPT-5.2 System Card: GPT-5.2-Codex
-   https://openai.com/index/gpt-5-2-codex-system-card
-
-6. Ikea’s new $4 USB-C charger is cheaper than Apple’s and Anker’s
-   https://www.theverge.com/tech/854333/ikea-sjoss-20w-usb-c-wall-charger
-]]></description>
-      <pubDate>Mon, 05 Jan 2026 00:00:00 -0000</pubDate>
-      <guid isPermaLink="false">2026-01-05</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-05.mp3" length="4878336" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Deepening our collaboration with the U.S. Department of Energy
-   Source: OpenAI News
-2. Google's year in review: 8 areas with research breakthroughs in 2025
-   Source: DeepMind Blog
-3. Fara-7B: An Efficient Agentic Model for Computer Use
-   Source: Microsoft Research Blog
-4. MMCTAgent: Enabling multimodal reasoning over large video and image collections
-   Source: Microsoft Research Blog
-5. Addendum to GPT-5.2 System Card: GPT-5.2-Codex
-   Source: OpenAI News
-6. Ikea’s new $4 USB-C charger is cheaper than Apple’s and Anker’s
-   Source: The Verge
-
-REFERENCES:
-
-1. Deepening our collaboration with the U.S. Department of Energy
-   https://openai.com/index/us-department-of-energy-collaboration
-
-2. Google's year in review: 8 areas with research breakthroughs in 2025
-   https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/
-
-3. Fara-7B: An Efficient Agentic Model for Computer Use
-   https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/
-
-4. MMCTAgent: Enabling multimodal reasoning over large video and image collections
-   https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/
-
-5. Addendum to GPT-5.2 System Card: GPT-5.2-Codex
-   https://openai.com/index/gpt-5-2-codex-system-card
-
-6. Ikea’s new $4 USB-C charger is cheaper than Apple’s and Anker’s
-   https://www.theverge.com/tech/854333/ikea-sjoss-20w-usb-c-wall-charger
-]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:24</itunes:duration>
     </item>
   </channel>
 </rss>
