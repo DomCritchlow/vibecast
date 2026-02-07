@@ -1,0 +1,82 @@
+{
+  "guid": "2026-02-07",
+  "date": "2026-02-07T05:07:02.746028",
+  "title": "Epstein's Science Ties & AI's Multimodal Breakthroughs",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 232.42105263157896,
+  "duration_formatted": "3:52",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-07.mp3",
+    "audio_size_bytes": 5725874,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-07/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-07/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-02-07.txt"
+  },
+  "stories": [
+    {
+      "title": "Epstein files reveal deeper ties to scientists than previously known",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00388-0",
+      "summary": "Nature, Published online: 06 February 2026; doi:10.1038/d41586-026-00388-0Latest batch of documents show researchers consulting the financier and sex offender on publications, visas and more."
+    },
+    {
+      "title": "US grant applicants surge at prestigious European research agency",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00362-w",
+      "summary": "Nature, Published online: 06 February 2026; doi:10.1038/d41586-026-00362-wRush for funds to relocate laboratories to Europe is latest hint of a US brain drain."
+    },
+    {
+      "title": "FACTS Benchmark Suite: Systematically evaluating the factuality of large language models",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
+      "summary": "Systematically evaluating the factuality of large language models with the FACTS Benchmark Suite."
+    },
+    {
+      "title": "Paza: Introducing automatic speech recognition benchmarks and models for low resource languages",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/",
+      "summary": "Microsoft Research unveils Paza, a human-centered speech pipeline, and PazaBench, the first leaderboard for low-resource languages. It covers 39 African languages and 52 models and is tested with communities in real settings. The post Paza: Introducing automatic speech recognition benchmarks and models for low resource languages appeared first on Microsoft Research."
+    },
+    {
+      "title": "Multimodal reinforcement learning with agentic verifier for AI agents",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/",
+      "summary": "Argos improves multimodal RL by evaluating whether an agent’s reasoning aligns with what it observes over time. The approach reduces visual hallucinations and produces more reliable, data-efficient agents for real-world applications. The post Multimodal reinforcement learning with agentic verifier for AI agents appeared first on Microsoft Research."
+    },
+    {
+      "title": "Moltbook was peak AI theater",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/",
+      "summary": "For a few days this week the hottest new hangout on the internet was a vibe-coded Reddit clone called Moltbook, which billed itself as a social network for bots. As the website’s tagline puts it: “Where AI agents share, discuss, and upvote. Humans welcome to observe.” We observed! Launched on January 28 by Matt Schlicht,&#8230;"
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "Gender Relations Have Made Dating a Hostile Act",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/gender-relations-have-made-dating",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "Sex For Sex's Sake",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/sex-for-sexs-sake",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "Treating Romance Like a Math Problem",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/everyones-treating-romance-like-a",
+      "description": "Critical analysis of sexuality and culture"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-02-07T05:08:09.396987",
+    "llm_model": "gpt-4o",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
