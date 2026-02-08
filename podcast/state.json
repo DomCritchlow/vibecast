@@ -1,13 +1,5 @@
 {
   "used_urls": [
-    "https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/",
-    "https://arstechnica.com/science/2026/01/research-roundup-6-cool-stories-we-almost-missed-2/",
-    "https://openjuris.org/",
-    "https://science.nasa.gov/missions/libera/nasa-earth-energy-instrument-completes-testing-ready-for-delivery/",
-    "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-42-several-changes-to-f-10-prism/",
-    "https://www.space.com/space-exploration/from-a-new-flagship-space-telescope-to-lunar-exploration-global-cooperation-and-competition-will-make-2026-an-exciting-year-for-space",
-    "https://www.sexual-culture.com/p/men-and-women-still-dont-get-each",
-    "https://www.sexual-culture.com/p/when-did-slt-shaming-come-back-did",
     "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
     "https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/",
     "https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/",
@@ -52,17 +44,18 @@
     "https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/",
     "https://www.sexual-culture.com/p/gender-relations-have-made-dating",
     "https://www.sexual-culture.com/p/sex-for-sexs-sake",
-    "https://www.sexual-culture.com/p/everyones-treating-romance-like-a"
+    "https://www.sexual-culture.com/p/everyones-treating-romance-like-a",
+    "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-196-becoming-martian",
+    "https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/",
+    "https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/",
+    "https://www.technologyreview.com/2026/02/05/1132200/consolidating-systems-for-ai-with-ipaas/",
+    "https://www.technologyreview.com/2026/02/04/1131014/from-guardrails-to-governance-a-ceos-guide-for-securing-agentic-systems/",
+    "https://www.theverge.com/games/874914/cairn-review-pc-playstation-5",
+    "https://www.sexual-culture.com/p/what-does-a-nice-woman-want-from",
+    "https://www.sexual-culture.com/p/the-pursuit-of-male-friendship-is",
+    "https://www.sexual-culture.com/p/what-is-the-sexual-wellness-industry"
   ],
   "url_timestamps": {
-    "https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/": "2026-02-01T05:23:43.946664",
-    "https://arstechnica.com/science/2026/01/research-roundup-6-cool-stories-we-almost-missed-2/": "2026-02-01T05:23:43.946664",
-    "https://openjuris.org/": "2026-02-01T05:23:43.946664",
-    "https://science.nasa.gov/missions/libera/nasa-earth-energy-instrument-completes-testing-ready-for-delivery/": "2026-02-01T05:23:43.946664",
-    "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-42-several-changes-to-f-10-prism/": "2026-02-01T05:23:43.946664",
-    "https://www.space.com/space-exploration/from-a-new-flagship-space-telescope-to-lunar-exploration-global-cooperation-and-competition-will-make-2026-an-exciting-year-for-space": "2026-02-01T05:23:43.946664",
-    "https://www.sexual-culture.com/p/men-and-women-still-dont-get-each": "2026-02-01T05:23:43.946664",
-    "https://www.sexual-culture.com/p/when-did-slt-shaming-come-back-did": "2026-02-01T05:23:43.946664",
     "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/": "2026-02-03T05:17:16.546952",
     "https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/": "2026-02-03T05:17:16.546952",
     "https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/": "2026-02-03T05:17:16.546952",
@@ -107,7 +100,16 @@
     "https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/": "2026-02-07T05:08:09.416362",
     "https://www.sexual-culture.com/p/gender-relations-have-made-dating": "2026-02-07T05:08:09.416362",
     "https://www.sexual-culture.com/p/sex-for-sexs-sake": "2026-02-07T05:08:09.416362",
-    "https://www.sexual-culture.com/p/everyones-treating-romance-like-a": "2026-02-07T05:08:09.416362"
+    "https://www.sexual-culture.com/p/everyones-treating-romance-like-a": "2026-02-07T05:08:09.416362",
+    "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-196-becoming-martian": "2026-02-08T05:25:55.786501",
+    "https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/": "2026-02-08T05:25:55.786501",
+    "https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/": "2026-02-08T05:25:55.786501",
+    "https://www.technologyreview.com/2026/02/05/1132200/consolidating-systems-for-ai-with-ipaas/": "2026-02-08T05:25:55.786501",
+    "https://www.technologyreview.com/2026/02/04/1131014/from-guardrails-to-governance-a-ceos-guide-for-securing-agentic-systems/": "2026-02-08T05:25:55.786501",
+    "https://www.theverge.com/games/874914/cairn-review-pc-playstation-5": "2026-02-08T05:25:55.786501",
+    "https://www.sexual-culture.com/p/what-does-a-nice-woman-want-from": "2026-02-08T05:25:55.786501",
+    "https://www.sexual-culture.com/p/the-pursuit-of-male-friendship-is": "2026-02-08T05:25:55.786501",
+    "https://www.sexual-culture.com/p/what-is-the-sexual-wellness-industry": "2026-02-08T05:25:55.786501"
   },
-  "last_run": "2026-02-07T05:08:09.416362"
+  "last_run": "2026-02-08T05:25:55.786501"
 }
