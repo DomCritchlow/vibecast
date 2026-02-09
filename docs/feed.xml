@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Feb 2026 05:25:55 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 05:29:31 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,108 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>AI&#x27;s Future &amp; DIY Star Trek Dream Panel Unveiled</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Ideas: Community building, machine learning, and the future of AI
+   Source: Microsoft Research Blog
+2. How I Built the Star Trek control panel of my dreams
+   Source: The Verge
+3. Target Darts Omni Auto Scoring System Hits the Mark
+   Source: Wired
+4. Memory Infrastructure for AI Systems – Cascade, PyTorch Memory, Hebbian Mind
+   Source: Hacker News (AI filtered)
+5. NASA Conducts Repairs, Analysis Ahead of Next Artemis II Fueling Test
+   Source: NASA Science
+6. Atmospheric Science Branch Page
+   Source: NASA Science
+
+REFERENCES:
+
+1. Ideas: Community building, machine learning, and the future of AI
+   https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/
+
+2. How I Built the Star Trek control panel of my dreams
+   https://www.theverge.com/tech/862070/lcars-homes-assistant-star-trek
+
+3. Target Darts Omni Auto Scoring System Hits the Mark
+   https://www.wired.com/story/target-darts-omni-auto-scoring-system-rave/
+
+4. Memory Infrastructure for AI Systems – Cascade, PyTorch Memory, Hebbian Mind
+   https://cipscorps.io/
+
+5. NASA Conducts Repairs, Analysis Ahead of Next Artemis II Fueling Test
+   https://www.nasa.gov/blogs/missions/2026/02/08/nasa-conducts-repairs-analysis-ahead-of-next-artemis-ii-fueling-test/
+
+6. Atmospheric Science Branch Page
+   https://www.nasa.gov/earth-science-at-ames/who-we-are/atmospheric-science/
+
+READING LIST:
+Articles recommended for further reading
+
+1. Men and Women Still Don't Get Each Other. But Aren't We Supposed to Try? by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/men-and-women-still-dont-get-each
+
+2. "When did sl*t-shaming come back? Did it ever leave?" by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/when-did-slt-shaming-come-back-did
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-09/newspaper.pdf]]></description>
+      <pubDate>Mon, 09 Feb 2026 05:28:30 -0000</pubDate>
+      <guid isPermaLink="false">2026-02-09</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-09.mp3" length="5822423" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Ideas: Community building, machine learning, and the future of AI
+   Source: Microsoft Research Blog
+2. How I Built the Star Trek control panel of my dreams
+   Source: The Verge
+3. Target Darts Omni Auto Scoring System Hits the Mark
+   Source: Wired
+4. Memory Infrastructure for AI Systems – Cascade, PyTorch Memory, Hebbian Mind
+   Source: Hacker News (AI filtered)
+5. NASA Conducts Repairs, Analysis Ahead of Next Artemis II Fueling Test
+   Source: NASA Science
+6. Atmospheric Science Branch Page
+   Source: NASA Science
+
+REFERENCES:
+
+1. Ideas: Community building, machine learning, and the future of AI
+   https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/
+
+2. How I Built the Star Trek control panel of my dreams
+   https://www.theverge.com/tech/862070/lcars-homes-assistant-star-trek
+
+3. Target Darts Omni Auto Scoring System Hits the Mark
+   https://www.wired.com/story/target-darts-omni-auto-scoring-system-rave/
+
+4. Memory Infrastructure for AI Systems – Cascade, PyTorch Memory, Hebbian Mind
+   https://cipscorps.io/
+
+5. NASA Conducts Repairs, Analysis Ahead of Next Artemis II Fueling Test
+   https://www.nasa.gov/blogs/missions/2026/02/08/nasa-conducts-repairs-analysis-ahead-of-next-artemis-ii-fueling-test/
+
+6. Atmospheric Science Branch Page
+   https://www.nasa.gov/earth-science-at-ames/who-we-are/atmospheric-science/
+
+READING LIST:
+Articles recommended for further reading
+
+1. Men and Women Still Don't Get Each Other. But Aren't We Supposed to Try? by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/men-and-women-still-dont-get-each
+
+2. "When did sl*t-shaming come back? Did it ever leave?" by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/when-did-slt-shaming-come-back-did
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-09/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:11</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-09/episode-art.png"/>
+    </item>
     <item>
       <title>Martian AI: Reinforcement Learning &amp; Tumor Modeling</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2834,85 +2936,6 @@ REFERENCES:
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:30</itunes:duration>
-    </item>
-    <item>
-      <title>Immune &#x27;Night Mode&#x27; &amp; AI&#x27;s Evolving Role in Health</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Putting immune cells into ‘night mode’ reduces heart-attack damage
-   Source: Nature News
-2. Will mpox go global again? Research shows it's evolving in curious ways
-   Source: Nature News
-3. Netomi’s lessons for scaling agentic systems into the enterprise
-   Source: OpenAI News
-4. Ideas: Community building, machine learning, and the future of AI
-   Source: Microsoft Research Blog
-5. BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI
-   Source: Microsoft Research Blog
-6. AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems
-   Source: Hugging Face Blog
-
-REFERENCES:
-
-1. Putting immune cells into ‘night mode’ reduces heart-attack damage
-   https://www.nature.com/articles/d41586-026-00008-x
-
-2. Will mpox go global again? Research shows it's evolving in curious ways
-   https://www.nature.com/articles/d41586-025-04154-6
-
-3. Netomi’s lessons for scaling agentic systems into the enterprise
-   https://openai.com/index/netomi
-
-4. Ideas: Community building, machine learning, and the future of AI
-   https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/
-
-5. BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI
-   https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/
-
-6. AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems
-   https://huggingface.co/blog/ServiceNow-AI/aprielguard
-]]></description>
-      <pubDate>Fri, 09 Jan 2026 00:00:00 -0000</pubDate>
-      <guid isPermaLink="false">2026-01-09</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-09.mp3" length="5026176" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Putting immune cells into ‘night mode’ reduces heart-attack damage
-   Source: Nature News
-2. Will mpox go global again? Research shows it's evolving in curious ways
-   Source: Nature News
-3. Netomi’s lessons for scaling agentic systems into the enterprise
-   Source: OpenAI News
-4. Ideas: Community building, machine learning, and the future of AI
-   Source: Microsoft Research Blog
-5. BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI
-   Source: Microsoft Research Blog
-6. AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems
-   Source: Hugging Face Blog
-
-REFERENCES:
-
-1. Putting immune cells into ‘night mode’ reduces heart-attack damage
-   https://www.nature.com/articles/d41586-026-00008-x
-
-2. Will mpox go global again? Research shows it's evolving in curious ways
-   https://www.nature.com/articles/d41586-025-04154-6
-
-3. Netomi’s lessons for scaling agentic systems into the enterprise
-   https://openai.com/index/netomi
-
-4. Ideas: Community building, machine learning, and the future of AI
-   https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/
-
-5. BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI
-   https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/
-
-6. AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems
-   https://huggingface.co/blog/ServiceNow-AI/aprielguard
-]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:36</itunes:duration>
     </item>
   </channel>
 </rss>

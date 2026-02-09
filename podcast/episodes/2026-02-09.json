@@ -1,0 +1,75 @@
+{
+  "guid": "2026-02-09",
+  "date": "2026-02-09T05:28:30.268238",
+  "title": "AI's Future & DIY Star Trek Dream Panel Unveiled",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 251.36842105263156,
+  "duration_formatted": "4:11",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-09.mp3",
+    "audio_size_bytes": 5822423,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-09/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-09/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-02-09.txt"
+  },
+  "stories": [
+    {
+      "title": "Ideas: Community building, machine learning, and the future of AI",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/",
+      "summary": "As the Women in Machine Learning Workshop (WiML) marks its 20th annual gathering, cofounders, friends, and collaborators Jenn Wortman Vaughan and Hanna Wallach reflect on WiML’s evolution, navigating the field of ML, and their work in responsible AI. The post Ideas: Community building, machine learning, and the future of AI appeared first on Microsoft Research."
+    },
+    {
+      "title": "How I Built the Star Trek control panel of my dreams",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/862070/lcars-homes-assistant-star-trek",
+      "summary": "One of my pandemic hobbies that stuck was home automation. I discovered Home Assistant - the popular open source, extremely customizable home automation platform - and all the intricate things you can do with it to make your home work better. I have ADHD and have found Home Assistant to be a valuable tool for [&#8230;]"
+    },
+    {
+      "title": "Target Darts Omni Auto Scoring System Hits the Mark",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/target-darts-omni-auto-scoring-system-rave/",
+      "summary": "Step up to the oche and hit the bull’s-eye with this automatic darts scoring system for online play."
+    },
+    {
+      "title": "Memory Infrastructure for AI Systems – Cascade, PyTorch Memory, Hebbian Mind",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://cipscorps.io/",
+      "summary": "Article URL: https://cipscorps.io/# Comments URL: https://news.ycombinator.com/item?id=46941508 Points: 1 # Comments: 1"
+    },
+    {
+      "title": "NASA Conducts Repairs, Analysis Ahead of Next Artemis II Fueling Test",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/blogs/missions/2026/02/08/nasa-conducts-repairs-analysis-ahead-of-next-artemis-ii-fueling-test/",
+      "summary": "Since concluding a wet dress rehearsal Feb. 3 ahead of Artemis II, technicians have replaced two seals in an area where operators saw higher than allowable hydrogen gas concentrations during the test. Engineers are analyzing the removed seals and developing plans to address all issues ahead of the next rehearsal. Once the SLS (Space Launch […] The post NASA Conducts Repairs, Analysis Ahead of Next Artemis II Fueling Test appeared first on NASA Science."
+    },
+    {
+      "title": "Atmospheric Science Branch Page",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/earth-science-at-ames/who-we-are/atmospheric-science/",
+      "summary": "Satellite Missions: The Atmospheric Science Branch (SGG) leads and contributes to a range of NASA missions, field campaigns, and technology development efforts that support atmospheric research, satellite validation, and next-generation exploration. Below is a spotlight on some of our current high-impact projects: The post Atmospheric Science Branch Page appeared first on NASA Science."
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "Men and Women Still Don't Get Each Other. But Aren't We Supposed to Try?",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/men-and-women-still-dont-get-each",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "\"When did sl*t-shaming come back? Did it ever leave?\"",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/when-did-slt-shaming-come-back-did",
+      "description": "Critical analysis of sexuality and culture"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-02-09T05:29:31.633477",
+    "llm_model": "gpt-4o",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
