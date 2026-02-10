@@ -1,0 +1,82 @@
+{
+  "guid": "2026-02-10",
+  "date": "2026-02-10T05:28:51.956006",
+  "title": "Google Breakthroughs & AI-Powered Radio Show Unveiled",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 277.4736842105263,
+  "duration_formatted": "4:37",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-10.mp3",
+    "audio_size_bytes": 6564761,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-10/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-10/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-02-10.txt"
+  },
+  "stories": [
+    {
+      "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
+      "summary": "Google 2025 recap: Research breakthroughs of the year"
+    },
+    {
+      "title": "AI Agents That Execute Business Workflows (Claude Code for ERP)",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://news.ycombinator.com/item?id=46955034",
+      "summary": "TL;DR: Built an ERP where AI agents execute workflows like procurement and invoice processing. Uses Cases (workspaces) and Tasks (sessions) like Claude Code. Agent completes one task, automatically triggers the next. Mac app live, looking for early users.Mac App: https://apps.apple.com/be/app/swiftly-ai-native-erp/id6755155607?mt=12TestFlight: https://testflight.apple.com/join/aYc16FmATHE PROBLEMAfter 8 years implementing ERPs across Europe, I kept seeing the same issue: ERP systems store data but can't execute processes. Employees still manually click through forms for invoicing, procurement, onboarding.WHAT WE BUILTAI agents that execute multi-step business workflows autonomously.Example: Vendor Procurement Case: \"Source Steel Pipes - Q1 2026\" Task 1: Research Suppliers → finds 3 vendors Task 2: Compare Pricing → creates comparison Task 3: Negotiate → drafts proposal, waits for approval Task 4: Create PO → auto-triggered after approval Each task has specific instructions. Status c..."
+    },
+    {
+      "title": "How to stop the survey-taking AI chatbots that threaten to upend social science",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00386-2",
+      "summary": "Nature, Published online: 09 February 2026; doi:10.1038/d41586-026-00386-2Researchers need new bot-detection strategies that exploit the limits of human reasoning rather than AI weaknesses."
+    },
+    {
+      "title": "Riot is already cutting staff on its new fighting game",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/876038/riot-games-2xko-layoffs-job-cuts-league-of-legends",
+      "summary": "Riot Games is already \"reducing the size\" of the team working on its recently-released free-to-play fighting game 2XKO, according to a post from executive producer Tom Cannon. The game, set in the League of Legends universe, launched in early access on PC in October and hit consoles just a few weeks ago. 2XKO has been [&#8230;]"
+    },
+    {
+      "title": "Show HN: I built an AI-powered late-night call-in radio show from my RV",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://lukeattheroost.com",
+      "summary": "Show HN: I built an AI-powered late-night call-in radio show from my RV I live in an RV in the desert and I built a system that generates AI callers who phone into my late-night talk show. Each caller has a unique voice, name, backstory, job, vehicle, and opinions. They know the local weather, road conditions, and what's happening in the towns around southern New Mexico. Some are recurring characters who call back with updates on their lives. The stack: - FastAPI backend running the show control panel - OpenRouter for LLM (caller personalities, dialog, topics) — mostly Grok and MiniMax - ElevenLabs / Inworld for TTS with 25+ distinct voices - Caller personality system with memory — regulars remember past conversations - Live phone integration via SignalWire so real people can call in too - Post-production pipeline: stem recording, gap removal, voice compression, music ducking, EBU R128 loudness normalization - Self-hosted on Castopod, episodes served from BunnyCDN The callers aren't..."
+    },
+    {
+      "title": "Compton “Jim” Tucker",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/people/compton-jim-tucker/",
+      "summary": "Compton “Jim” Tucker is a Senior Scientist in the Earth Sciences Division at NASA’s Goddard Spaceflight Center (GSFC). Tucker has been able to travel to some pretty exciting places to do research. This image was taken while in the field in the Amazon. Jim’s beard, usually white, appears red in this picture. He used a [&#8230;] The post Compton “Jim” Tucker appeared first on NASA Science."
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "Defining the Anti-Erotic",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/defining-the-anti-erotic",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "Desire Is an Obligation",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/desire-as-an-obligation",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "We're Not Supposed to Be Thinking About Ourselves This Much",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/were-not-supposed-to-be-thinking",
+      "description": "Critical analysis of sexuality and culture"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-02-10T05:30:03.007958",
+    "llm_model": "gpt-4o",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
