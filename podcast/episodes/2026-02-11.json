@@ -1,0 +1,82 @@
+{
+  "guid": "2026-02-11",
+  "date": "2026-02-11T05:28:07.285596",
+  "title": "US to France Talent Shift & Open-Source AI Evolution",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 278.3157894736842,
+  "duration_formatted": "4:38",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-11.mp3",
+    "audio_size_bytes": 6731527,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-11/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-11/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-02-11.txt"
+  },
+  "stories": [
+    {
+      "title": "Publishing less won’t save the research system",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00419-w",
+      "summary": "Nature, Published online: 10 February 2026; doi:10.1038/d41586-026-00419-wPublishing less won’t save the research system"
+    },
+    {
+      "title": "Dozens of researchers will move to France from US following high-profile bid to lure talent",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00405-2",
+      "summary": "Nature, Published online: 10 February 2026; doi:10.1038/d41586-026-00405-2Large proportion worked at Columbia University, which had its grants cut and frozen by the administration of US President Donald Trump."
+    },
+    {
+      "title": "UniRG: Scaling medical imaging report generation with multimodal reinforcement learning",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/",
+      "summary": "AI can help generate medical image reports, but today’s models struggle with varying reporting schemes. Learn how UniRG uses reinforcement learning to boost performance of medical vision-language models. The post UniRG: Scaling medical imaging report generation with multimodal reinforcement learning appeared first on Microsoft Research."
+    },
+    {
+      "title": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
+      "summary": ""
+    },
+    {
+      "title": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
+      "summary": ""
+    },
+    {
+      "title": "The Download: Making AI Work, and why the Moltbook hype is similar to Pokémon",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/02/10/1132608/the-download-making-ai-work-and-why-the-moltbook-hype-is-similar-to-pokemon/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A first look at Making AI Work, MIT Technology Review’s new AI newsletter Are you interested in learning more about the ways in which AI is actually being used? We’ve launched a new&#8230;"
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "Is Avoiding Embarrassment the Only Goal?",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/is-avoiding-embarrassment-the-only",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "What Is \"Cuffing Season\" Asking of You?",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/what-is-cuffing-season-asking-of",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "The Disney-Adultification of Halloween",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/the-disney-adultification-of-halloween",
+      "description": "Critical analysis of sexuality and culture"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-02-11T05:29:12.772112",
+    "llm_model": "gpt-4o",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

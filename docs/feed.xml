@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Feb 2026 05:30:03 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 05:29:12 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,114 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>US to France Talent Shift &amp; Open-Source AI Evolution</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Publishing less won’t save the research system
+   Source: Nature News
+2. Dozens of researchers will move to France from US following high-profile bid to lure talent
+   Source: Nature News
+3. UniRG: Scaling medical imaging report generation with multimodal reinforcement learning
+   Source: Microsoft Research Blog
+4. The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+
+   Source: Hugging Face Blog
+5. Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek
+   Source: Hugging Face Blog
+6. The Download: Making AI Work, and why the Moltbook hype is similar to Pokémon
+   Source: MIT Technology Review
+
+REFERENCES:
+
+1. Publishing less won’t save the research system
+   https://www.nature.com/articles/d41586-026-00419-w
+
+2. Dozens of researchers will move to France from US following high-profile bid to lure talent
+   https://www.nature.com/articles/d41586-026-00405-2
+
+3. UniRG: Scaling medical imaging report generation with multimodal reinforcement learning
+   https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/
+
+4. The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+
+   https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3
+
+5. Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek
+   https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2
+
+6. The Download: Making AI Work, and why the Moltbook hype is similar to Pokémon
+   https://www.technologyreview.com/2026/02/10/1132608/the-download-making-ai-work-and-why-the-moltbook-hype-is-similar-to-pokemon/
+
+READING LIST:
+Articles recommended for further reading
+
+1. Is Avoiding Embarrassment the Only Goal? by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/is-avoiding-embarrassment-the-only
+
+2. What Is "Cuffing Season" Asking of You? by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/what-is-cuffing-season-asking-of
+
+3. The Disney-Adultification of Halloween by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/the-disney-adultification-of-halloween
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-11/newspaper.pdf]]></description>
+      <pubDate>Wed, 11 Feb 2026 05:28:07 -0000</pubDate>
+      <guid isPermaLink="false">2026-02-11</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-11.mp3" length="6731527" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Publishing less won’t save the research system
+   Source: Nature News
+2. Dozens of researchers will move to France from US following high-profile bid to lure talent
+   Source: Nature News
+3. UniRG: Scaling medical imaging report generation with multimodal reinforcement learning
+   Source: Microsoft Research Blog
+4. The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+
+   Source: Hugging Face Blog
+5. Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek
+   Source: Hugging Face Blog
+6. The Download: Making AI Work, and why the Moltbook hype is similar to Pokémon
+   Source: MIT Technology Review
+
+REFERENCES:
+
+1. Publishing less won’t save the research system
+   https://www.nature.com/articles/d41586-026-00419-w
+
+2. Dozens of researchers will move to France from US following high-profile bid to lure talent
+   https://www.nature.com/articles/d41586-026-00405-2
+
+3. UniRG: Scaling medical imaging report generation with multimodal reinforcement learning
+   https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/
+
+4. The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+
+   https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3
+
+5. Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek
+   https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2
+
+6. The Download: Making AI Work, and why the Moltbook hype is similar to Pokémon
+   https://www.technologyreview.com/2026/02/10/1132608/the-download-making-ai-work-and-why-the-moltbook-hype-is-similar-to-pokemon/
+
+READING LIST:
+Articles recommended for further reading
+
+1. Is Avoiding Embarrassment the Only Goal? by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/is-avoiding-embarrassment-the-only
+
+2. What Is "Cuffing Season" Asking of You? by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/what-is-cuffing-season-asking-of
+
+3. The Disney-Adultification of Halloween by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/the-disney-adultification-of-halloween
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-11/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:38</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-11/episode-art.png"/>
+    </item>
     <item>
       <title>Google Breakthroughs &amp; AI-Powered Radio Show Unveiled</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2886,85 +2994,6 @@ REFERENCES:
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:42</itunes:duration>
-    </item>
-    <item>
-      <title>AI Therapy Concerns &amp; China&#x27;s Fusion Breakthrough</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. AI models were given four weeks of therapy: the results worried researchers
-   Source: Nature News
-2. Chinese nuclear fusion reactor pushes plasma past crucial limit: what happens next
-   Source: Nature News
-3. America’s new dietary guidelines ignore decades of scientific research
-   Source: MIT Technology Review
-4. The Download: mimicking pregnancy’s first moments in a lab, and AI parameters explained
-   Source: MIT Technology Review
-5. I replaced Windows with Linux and everything’s going great
-   Source: The Verge
-6. OpenAI has launched ChatGPT Health. Should we trust it?
-   Source: Rest of World
-
-REFERENCES:
-
-1. AI models were given four weeks of therapy: the results worried researchers
-   https://www.nature.com/articles/d41586-025-04112-2
-
-2. Chinese nuclear fusion reactor pushes plasma past crucial limit: what happens next
-   https://www.nature.com/articles/d41586-026-00063-4
-
-3. America’s new dietary guidelines ignore decades of scientific research
-   https://www.technologyreview.com/2026/01/08/1130905/americas-diet-guidelines-ignore-scientific-research-red-meat-beef-tallow/
-
-4. The Download: mimicking pregnancy’s first moments in a lab, and AI parameters explained
-   https://www.technologyreview.com/2026/01/08/1130880/the-download-mimicking-pregnancys-first-moments-in-a-lab-and-ai-parameters-explained/
-
-5. I replaced Windows with Linux and everything’s going great
-   https://www.theverge.com/tech/858910/linux-diary-gaming-desktop
-
-6. OpenAI has launched ChatGPT Health. Should we trust it?
-   https://restofworld.org/2026/openai-has-launched-chatgpt-health-should-we-trust-it/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
-]]></description>
-      <pubDate>Sun, 11 Jan 2026 00:00:00 -0000</pubDate>
-      <guid isPermaLink="false">2026-01-11</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-11.mp3" length="4576896" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. AI models were given four weeks of therapy: the results worried researchers
-   Source: Nature News
-2. Chinese nuclear fusion reactor pushes plasma past crucial limit: what happens next
-   Source: Nature News
-3. America’s new dietary guidelines ignore decades of scientific research
-   Source: MIT Technology Review
-4. The Download: mimicking pregnancy’s first moments in a lab, and AI parameters explained
-   Source: MIT Technology Review
-5. I replaced Windows with Linux and everything’s going great
-   Source: The Verge
-6. OpenAI has launched ChatGPT Health. Should we trust it?
-   Source: Rest of World
-
-REFERENCES:
-
-1. AI models were given four weeks of therapy: the results worried researchers
-   https://www.nature.com/articles/d41586-025-04112-2
-
-2. Chinese nuclear fusion reactor pushes plasma past crucial limit: what happens next
-   https://www.nature.com/articles/d41586-026-00063-4
-
-3. America’s new dietary guidelines ignore decades of scientific research
-   https://www.technologyreview.com/2026/01/08/1130905/americas-diet-guidelines-ignore-scientific-research-red-meat-beef-tallow/
-
-4. The Download: mimicking pregnancy’s first moments in a lab, and AI parameters explained
-   https://www.technologyreview.com/2026/01/08/1130880/the-download-mimicking-pregnancys-first-moments-in-a-lab-and-ai-parameters-explained/
-
-5. I replaced Windows with Linux and everything’s going great
-   https://www.theverge.com/tech/858910/linux-diary-gaming-desktop
-
-6. OpenAI has launched ChatGPT Health. Should we trust it?
-   https://restofworld.org/2026/openai-has-launched-chatgpt-health-should-we-trust-it/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
-]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:30</itunes:duration>
     </item>
   </channel>
 </rss>

@@ -1,14 +1,5 @@
 {
   "used_urls": [
-    "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-44-final-text-for-b-2-heliophysics-foundational-research/",
-    "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/",
-    "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
-    "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
-    "https://www.theverge.com/games/873409/borderlands-4-nintendo-switch-2-development-pause",
-    "https://www.wired.com/story/justin-garcia-the-intimate-animal-sex-and-relationships/",
-    "https://www.sexual-culture.com/p/is-avoiding-embarrassment-the-only",
-    "https://www.sexual-culture.com/p/what-is-cuffing-season-asking-of",
-    "https://www.sexual-culture.com/p/the-disney-adultification-of-halloween",
     "https://www.nasa.gov/centers-and-facilities/johnson/nasa-university-of-texas-expand-research-and-workforce-development/",
     "https://www.nature.com/articles/d41586-026-00363-9",
     "https://www.nature.com/articles/s41586-026-10099-1",
@@ -61,18 +52,18 @@
     "https://science.nasa.gov/people/compton-jim-tucker/",
     "https://www.sexual-culture.com/p/defining-the-anti-erotic",
     "https://www.sexual-culture.com/p/desire-as-an-obligation",
-    "https://www.sexual-culture.com/p/were-not-supposed-to-be-thinking"
+    "https://www.sexual-culture.com/p/were-not-supposed-to-be-thinking",
+    "https://www.nature.com/articles/d41586-026-00419-w",
+    "https://www.nature.com/articles/d41586-026-00405-2",
+    "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/",
+    "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
+    "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
+    "https://www.technologyreview.com/2026/02/10/1132608/the-download-making-ai-work-and-why-the-moltbook-hype-is-similar-to-pokemon/",
+    "https://www.sexual-culture.com/p/is-avoiding-embarrassment-the-only",
+    "https://www.sexual-culture.com/p/what-is-cuffing-season-asking-of",
+    "https://www.sexual-culture.com/p/the-disney-adultification-of-halloween"
   ],
   "url_timestamps": {
-    "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-44-final-text-for-b-2-heliophysics-foundational-research/": "2026-02-04T05:11:47.163835",
-    "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/": "2026-02-04T05:11:47.163835",
-    "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3": "2026-02-04T05:11:47.163835",
-    "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2": "2026-02-04T05:11:47.163835",
-    "https://www.theverge.com/games/873409/borderlands-4-nintendo-switch-2-development-pause": "2026-02-04T05:11:47.163835",
-    "https://www.wired.com/story/justin-garcia-the-intimate-animal-sex-and-relationships/": "2026-02-04T05:11:47.163835",
-    "https://www.sexual-culture.com/p/is-avoiding-embarrassment-the-only": "2026-02-04T05:11:47.163835",
-    "https://www.sexual-culture.com/p/what-is-cuffing-season-asking-of": "2026-02-04T05:11:47.163835",
-    "https://www.sexual-culture.com/p/the-disney-adultification-of-halloween": "2026-02-04T05:11:47.163835",
     "https://www.nasa.gov/centers-and-facilities/johnson/nasa-university-of-texas-expand-research-and-workforce-development/": "2026-02-05T05:19:11.588504",
     "https://www.nature.com/articles/d41586-026-00363-9": "2026-02-05T05:19:11.588504",
     "https://www.nature.com/articles/s41586-026-10099-1": "2026-02-05T05:19:11.588504",
@@ -125,7 +116,16 @@
     "https://science.nasa.gov/people/compton-jim-tucker/": "2026-02-10T05:30:03.031290",
     "https://www.sexual-culture.com/p/defining-the-anti-erotic": "2026-02-10T05:30:03.031290",
     "https://www.sexual-culture.com/p/desire-as-an-obligation": "2026-02-10T05:30:03.031290",
-    "https://www.sexual-culture.com/p/were-not-supposed-to-be-thinking": "2026-02-10T05:30:03.031290"
+    "https://www.sexual-culture.com/p/were-not-supposed-to-be-thinking": "2026-02-10T05:30:03.031290",
+    "https://www.nature.com/articles/d41586-026-00419-w": "2026-02-11T05:29:12.790903",
+    "https://www.nature.com/articles/d41586-026-00405-2": "2026-02-11T05:29:12.790903",
+    "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/": "2026-02-11T05:29:12.790903",
+    "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3": "2026-02-11T05:29:12.790903",
+    "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2": "2026-02-11T05:29:12.790903",
+    "https://www.technologyreview.com/2026/02/10/1132608/the-download-making-ai-work-and-why-the-moltbook-hype-is-similar-to-pokemon/": "2026-02-11T05:29:12.790903",
+    "https://www.sexual-culture.com/p/is-avoiding-embarrassment-the-only": "2026-02-11T05:29:12.790903",
+    "https://www.sexual-culture.com/p/what-is-cuffing-season-asking-of": "2026-02-11T05:29:12.790903",
+    "https://www.sexual-culture.com/p/the-disney-adultification-of-halloween": "2026-02-11T05:29:12.790903"
   },
-  "last_run": "2026-02-10T05:30:03.031290"
+  "last_run": "2026-02-11T05:29:12.790903"
 }
