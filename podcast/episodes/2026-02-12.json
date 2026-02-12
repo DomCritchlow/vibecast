@@ -1,0 +1,82 @@
+{
+  "guid": "2026-02-12",
+  "date": "2026-02-12T05:25:52.756455",
+  "title": "Brain Boost: Monk Meditation & EV Cost Revolution",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 257.2631578947368,
+  "duration_formatted": "4:17",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-12.mp3",
+    "audio_size_bytes": 6377891,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-12/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-12/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-02-12.txt"
+  },
+  "stories": [
+    {
+      "title": "Amendment 47: Corrections to B.2 Heliophysics Foundational Research",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-47-corrections-to-b-2-heliophysics-foundational-research/",
+      "summary": "B.2 Heliophysics Foundational Research (HFR) solicits investigations that advance the fundamental physical understanding of the Sun-Heliosphere-Planetary system. The emphasis of HFR is on uncovering and characterizing the underlying drivers, couplings, and governing processes that shape heliophysical phenomena across spatial and temporal scales, from the solar interior to planetary environments. ROSES-2025 Amendment 47 makes two corrections [&#8230;] The post Amendment 47: Corrections to B.2 Heliophysics Foundational Research appeared first on NASA Science."
+    },
+    {
+      "title": "China to punish universities that fail to sanction research misconduct",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00321-5",
+      "summary": "Nature, Published online: 11 February 2026; doi:10.1038/d41586-026-00321-5Policy follows establishment of a national database of papers retracted for serious misconduct."
+    },
+    {
+      "title": "EVs could be cheaper to own than gas cars in Africa by 2040",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/02/11/1132714/evs-africa-cost/",
+      "summary": "Electric vehicles could be economically competitive in Africa sooner than expected. Just 1% of new cars sold across the continent in 2025 were electric, but a new analysis finds that with solar off-grid charging, EVs could be cheaper to own than gas vehicles by 2040. There are major barriers to higher EV uptake in many&#8230;"
+    },
+    {
+      "title": "Highguard’s developer reportedly lays off ‘most’ of its staff just over two weeks after launch",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/877674/highguard-wildlight-entertainment-layoffs",
+      "summary": "Highguard, a new multiplayer shooter from developers who worked on games like Apex Legends and Call of Duty, launched just over two weeks ago, but developer Wildlight Entertainment is already cutting jobs at the company, according to posts from affected staffers on LinkedIn. Former Wildlight level designer Alex Graner says that \"most of the team [&#8230;]"
+    },
+    {
+      "title": "Study of Buddhist Monks Finds Meditation Alters Brain Activity",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/study-of-buddhist-monks-finds-meditation-alters-brain-activity/",
+      "summary": "Meditation isn’t thinking about nothing. New research reinforces that it’s a mind-altering, dynamic state that promotes focus, learning, and well-being."
+    },
+    {
+      "title": "Show HN: Membrane, revisable memory for long lived AI agents",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://github.com/GustyCube/membrane",
+      "summary": "Membrane is a general-purpose memory substrate for agentic systems.Most agent memory today is either context window state or an append only retrieval store. That allows recall but not learning. Facts become stale, procedures drift, and agents cannot revise knowledge safely without losing provenance or auditability.Membrane treats memory as something that can evolve over time. It ingests raw experience, promotes it into structured knowledge, and allows records to be superseded, forked, contested, merged, or retracted with evidence. The goal is to let long lived agents improve while remaining predictable and inspectable.The core ideas are simple.- Memory is typed instead of stored as flat text - Knowledge is revisable and keeps provenance - Agents can learn competences and procedures, not just facts - Salience decays over time so unused knowledge fades - Retrieval is filtered by trust and sensitivity levels - Revision history remains auditableMembrane runs either as a daemon with a gR..."
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "Selling the Sex Recession",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/selling-the-sex-recession",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "You're Already a Sexual Cyborg",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/youre-already-a-sexual-cyborg",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "We Have to Try to Be Nice to Each Other",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/we-have-to-try-to-be-nice-to-each",
+      "description": "Critical analysis of sexuality and culture"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-02-12T05:26:58.710692",
+    "llm_model": "gpt-4o",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

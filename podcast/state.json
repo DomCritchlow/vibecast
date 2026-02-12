@@ -1,14 +1,5 @@
 {
   "used_urls": [
-    "https://www.nasa.gov/centers-and-facilities/johnson/nasa-university-of-texas-expand-research-and-workforce-development/",
-    "https://www.nature.com/articles/d41586-026-00363-9",
-    "https://www.nature.com/articles/s41586-026-10099-1",
-    "https://openai.com/index/vfl-wolfsburg",
-    "https://openai.com/index/emea-youth-and-wellbeing-grant",
-    "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
-    "https://www.sexual-culture.com/p/youre-already-a-sexual-cyborg",
-    "https://www.sexual-culture.com/p/we-have-to-try-to-be-nice-to-each",
-    "https://www.sexual-culture.com/p/filling-in-the-dating-gaps",
     "https://www.theverge.com/report/874176/meta-zuckerberg-new-mexico-email-teen-girls-research",
     "https://www.nature.com/articles/d41586-026-00346-w",
     "https://openai.com/index/gpt-5-3-codex-system-card",
@@ -61,18 +52,18 @@
     "https://www.technologyreview.com/2026/02/10/1132608/the-download-making-ai-work-and-why-the-moltbook-hype-is-similar-to-pokemon/",
     "https://www.sexual-culture.com/p/is-avoiding-embarrassment-the-only",
     "https://www.sexual-culture.com/p/what-is-cuffing-season-asking-of",
-    "https://www.sexual-culture.com/p/the-disney-adultification-of-halloween"
+    "https://www.sexual-culture.com/p/the-disney-adultification-of-halloween",
+    "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-47-corrections-to-b-2-heliophysics-foundational-research/",
+    "https://www.nature.com/articles/d41586-026-00321-5",
+    "https://www.technologyreview.com/2026/02/11/1132714/evs-africa-cost/",
+    "https://www.theverge.com/games/877674/highguard-wildlight-entertainment-layoffs",
+    "https://www.wired.com/story/study-of-buddhist-monks-finds-meditation-alters-brain-activity/",
+    "https://github.com/GustyCube/membrane",
+    "https://www.sexual-culture.com/p/selling-the-sex-recession",
+    "https://www.sexual-culture.com/p/youre-already-a-sexual-cyborg",
+    "https://www.sexual-culture.com/p/we-have-to-try-to-be-nice-to-each"
   ],
   "url_timestamps": {
-    "https://www.nasa.gov/centers-and-facilities/johnson/nasa-university-of-texas-expand-research-and-workforce-development/": "2026-02-05T05:19:11.588504",
-    "https://www.nature.com/articles/d41586-026-00363-9": "2026-02-05T05:19:11.588504",
-    "https://www.nature.com/articles/s41586-026-10099-1": "2026-02-05T05:19:11.588504",
-    "https://openai.com/index/vfl-wolfsburg": "2026-02-05T05:19:11.588504",
-    "https://openai.com/index/emea-youth-and-wellbeing-grant": "2026-02-05T05:19:11.588504",
-    "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/": "2026-02-05T05:19:11.588504",
-    "https://www.sexual-culture.com/p/youre-already-a-sexual-cyborg": "2026-02-05T05:19:11.588504",
-    "https://www.sexual-culture.com/p/we-have-to-try-to-be-nice-to-each": "2026-02-05T05:19:11.588504",
-    "https://www.sexual-culture.com/p/filling-in-the-dating-gaps": "2026-02-05T05:19:11.588504",
     "https://www.theverge.com/report/874176/meta-zuckerberg-new-mexico-email-teen-girls-research": "2026-02-06T05:17:40.458688",
     "https://www.nature.com/articles/d41586-026-00346-w": "2026-02-06T05:17:40.458688",
     "https://openai.com/index/gpt-5-3-codex-system-card": "2026-02-06T05:17:40.458688",
@@ -125,7 +116,16 @@
     "https://www.technologyreview.com/2026/02/10/1132608/the-download-making-ai-work-and-why-the-moltbook-hype-is-similar-to-pokemon/": "2026-02-11T05:29:12.790903",
     "https://www.sexual-culture.com/p/is-avoiding-embarrassment-the-only": "2026-02-11T05:29:12.790903",
     "https://www.sexual-culture.com/p/what-is-cuffing-season-asking-of": "2026-02-11T05:29:12.790903",
-    "https://www.sexual-culture.com/p/the-disney-adultification-of-halloween": "2026-02-11T05:29:12.790903"
+    "https://www.sexual-culture.com/p/the-disney-adultification-of-halloween": "2026-02-11T05:29:12.790903",
+    "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-47-corrections-to-b-2-heliophysics-foundational-research/": "2026-02-12T05:26:58.729696",
+    "https://www.nature.com/articles/d41586-026-00321-5": "2026-02-12T05:26:58.729696",
+    "https://www.technologyreview.com/2026/02/11/1132714/evs-africa-cost/": "2026-02-12T05:26:58.729696",
+    "https://www.theverge.com/games/877674/highguard-wildlight-entertainment-layoffs": "2026-02-12T05:26:58.729696",
+    "https://www.wired.com/story/study-of-buddhist-monks-finds-meditation-alters-brain-activity/": "2026-02-12T05:26:58.729696",
+    "https://github.com/GustyCube/membrane": "2026-02-12T05:26:58.729696",
+    "https://www.sexual-culture.com/p/selling-the-sex-recession": "2026-02-12T05:26:58.729696",
+    "https://www.sexual-culture.com/p/youre-already-a-sexual-cyborg": "2026-02-12T05:26:58.729696",
+    "https://www.sexual-culture.com/p/we-have-to-try-to-be-nice-to-each": "2026-02-12T05:26:58.729696"
   },
-  "last_run": "2026-02-11T05:29:12.790903"
+  "last_run": "2026-02-12T05:26:58.729696"
 }
