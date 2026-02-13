@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Feb 2026 05:26:58 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 05:24:02 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,114 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Inside Out Planets &amp; New Vaccine Insights</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. How some COVID vaccines triggered rare blood-clot disorder
+   Source: Nature News
+2. Scientists have found a weird 'inside out' planetary system. Here's what it looks like
+   Source: Space.com
+3. Science funding needs fixing — but not through chaotic reforms
+   Source: Nature News
+4. Novel paint could aid drought-hit regions
+   Source: Positive News
+5. Introducing GPT-5.3-Codex-Spark
+   Source: OpenAI News
+6. Gemini 3 Deep Think: Advancing science, research and engineering
+   Source: DeepMind Blog
+
+REFERENCES:
+
+1. How some COVID vaccines triggered rare blood-clot disorder
+   https://www.nature.com/articles/d41586-026-00457-4
+
+2. Scientists have found a weird 'inside out' planetary system. Here's what it looks like
+   https://www.space.com/astronomy/exoplanets/scientists-have-found-an-inside-out-planetary-system-heres-what-it-looks-like
+
+3. Science funding needs fixing — but not through chaotic reforms
+   https://www.nature.com/articles/d41586-026-00447-6
+
+4. Novel paint could aid drought-hit regions
+   https://www.positive.news/environment/novel-paint-could-aid-drought-hit-regions/
+
+5. Introducing GPT-5.3-Codex-Spark
+   https://openai.com/index/introducing-gpt-5-3-codex-spark
+
+6. Gemini 3 Deep Think: Advancing science, research and engineering
+   https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/
+
+READING LIST:
+Articles recommended for further reading
+
+1. Filling in the Dating Gaps by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/filling-in-the-dating-gaps
+
+2. The Last Chopper Out of Nam by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/the-last-chopper-out-of-nam
+
+3. The Moral Panic In Your Hands by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/the-moral-panic-in-your-hands
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-13/newspaper.pdf]]></description>
+      <pubDate>Fri, 13 Feb 2026 05:22:52 -0000</pubDate>
+      <guid isPermaLink="false">2026-02-13</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-13.mp3" length="6480082" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. How some COVID vaccines triggered rare blood-clot disorder
+   Source: Nature News
+2. Scientists have found a weird 'inside out' planetary system. Here's what it looks like
+   Source: Space.com
+3. Science funding needs fixing — but not through chaotic reforms
+   Source: Nature News
+4. Novel paint could aid drought-hit regions
+   Source: Positive News
+5. Introducing GPT-5.3-Codex-Spark
+   Source: OpenAI News
+6. Gemini 3 Deep Think: Advancing science, research and engineering
+   Source: DeepMind Blog
+
+REFERENCES:
+
+1. How some COVID vaccines triggered rare blood-clot disorder
+   https://www.nature.com/articles/d41586-026-00457-4
+
+2. Scientists have found a weird 'inside out' planetary system. Here's what it looks like
+   https://www.space.com/astronomy/exoplanets/scientists-have-found-an-inside-out-planetary-system-heres-what-it-looks-like
+
+3. Science funding needs fixing — but not through chaotic reforms
+   https://www.nature.com/articles/d41586-026-00447-6
+
+4. Novel paint could aid drought-hit regions
+   https://www.positive.news/environment/novel-paint-could-aid-drought-hit-regions/
+
+5. Introducing GPT-5.3-Codex-Spark
+   https://openai.com/index/introducing-gpt-5-3-codex-spark
+
+6. Gemini 3 Deep Think: Advancing science, research and engineering
+   https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/
+
+READING LIST:
+Articles recommended for further reading
+
+1. Filling in the Dating Gaps by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/filling-in-the-dating-gaps
+
+2. The Last Chopper Out of Nam by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/the-last-chopper-out-of-nam
+
+3. The Moral Panic In Your Hands by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/the-moral-panic-in-your-hands
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-13/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:24</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-13/episode-art.png"/>
+    </item>
     <item>
       <title>Brain Boost: Monk Meditation &amp; EV Cost Revolution</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2944,85 +3052,6 @@ REFERENCES:
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>3:42</itunes:duration>
-    </item>
-    <item>
-      <title>Google&#x27;s 2025 Breakthroughs &amp; Emission-Free Air Freight</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Google's year in review: 8 areas with research breakthroughs in 2025
-   Source: DeepMind Blog
-2. Fara-7B: An Efficient Agentic Model for Computer Use
-   Source: Microsoft Research Blog
-3. MMCTAgent: Enabling multimodal reasoning over large video and image collections
-   Source: Microsoft Research Blog
-4. Mitigating emissions from air freight: Unlocking the potential of SAF with book and claim
-   Source: MIT Technology Review
-5. US scientists push back as Trump eyes Greenland
-   Source: Nature News
-6. Fresh starts: how to thrive when you leave academia
-   Source: Nature News
-
-REFERENCES:
-
-1. Google's year in review: 8 areas with research breakthroughs in 2025
-   https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/
-
-2. Fara-7B: An Efficient Agentic Model for Computer Use
-   https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/
-
-3. MMCTAgent: Enabling multimodal reasoning over large video and image collections
-   https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/
-
-4. Mitigating emissions from air freight: Unlocking the potential of SAF with book and claim
-   https://www.technologyreview.com/2026/01/12/1128939/mitigating-emissions-from-air-freight-unlocking-the-potential-of-saf-with-book-and-claim/
-
-5. US scientists push back as Trump eyes Greenland
-   https://www.nature.com/articles/d41586-026-00068-z
-
-6. Fresh starts: how to thrive when you leave academia
-   https://www.nature.com/articles/d41586-026-00085-y
-]]></description>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 -0000</pubDate>
-      <guid isPermaLink="false">2026-01-13</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-13.mp3" length="4555776" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Google's year in review: 8 areas with research breakthroughs in 2025
-   Source: DeepMind Blog
-2. Fara-7B: An Efficient Agentic Model for Computer Use
-   Source: Microsoft Research Blog
-3. MMCTAgent: Enabling multimodal reasoning over large video and image collections
-   Source: Microsoft Research Blog
-4. Mitigating emissions from air freight: Unlocking the potential of SAF with book and claim
-   Source: MIT Technology Review
-5. US scientists push back as Trump eyes Greenland
-   Source: Nature News
-6. Fresh starts: how to thrive when you leave academia
-   Source: Nature News
-
-REFERENCES:
-
-1. Google's year in review: 8 areas with research breakthroughs in 2025
-   https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/
-
-2. Fara-7B: An Efficient Agentic Model for Computer Use
-   https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/
-
-3. MMCTAgent: Enabling multimodal reasoning over large video and image collections
-   https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/
-
-4. Mitigating emissions from air freight: Unlocking the potential of SAF with book and claim
-   https://www.technologyreview.com/2026/01/12/1128939/mitigating-emissions-from-air-freight-unlocking-the-potential-of-saf-with-book-and-claim/
-
-5. US scientists push back as Trump eyes Greenland
-   https://www.nature.com/articles/d41586-026-00068-z
-
-6. Fresh starts: how to thrive when you leave academia
-   https://www.nature.com/articles/d41586-026-00085-y
-]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:18</itunes:duration>
     </item>
   </channel>
 </rss>

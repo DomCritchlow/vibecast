@@ -1,0 +1,82 @@
+{
+  "guid": "2026-02-13",
+  "date": "2026-02-13T05:22:52.456277",
+  "title": "Inside Out Planets & New Vaccine Insights",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 264.42105263157896,
+  "duration_formatted": "4:24",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-13.mp3",
+    "audio_size_bytes": 6480082,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-13/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-13/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-02-13.txt"
+  },
+  "stories": [
+    {
+      "title": "How some COVID vaccines triggered rare blood-clot disorder",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00457-4",
+      "summary": "Nature, Published online: 12 February 2026; doi:10.1038/d41586-026-00457-4Researchers identify genetic mutation in small group of people who developed the serious disorder after receiving the AstraZeneca or Johnson & Johnson vaccine."
+    },
+    {
+      "title": "Scientists have found a weird 'inside out' planetary system. Here's what it looks like",
+      "source": "Space.com",
+      "url": "https://www.space.com/astronomy/exoplanets/scientists-have-found-an-inside-out-planetary-system-heres-what-it-looks-like",
+      "summary": "Astronomers have discovered a planetary system that appears to flip one of astronomy's most reliable rules on its head."
+    },
+    {
+      "title": "Science funding needs fixing — but not through chaotic reforms",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00447-6",
+      "summary": "Nature, Published online: 12 February 2026; doi:10.1038/d41586-026-00447-6The changes announced by a major UK science funder are putting scientists — and the future of research — in a difficult position."
+    },
+    {
+      "title": "Novel paint could aid drought-hit regions",
+      "source": "Positive News",
+      "url": "https://www.positive.news/environment/novel-paint-could-aid-drought-hit-regions/",
+      "summary": "Researchers in Australia have developed a dual-purpose paint that tackles rising heat and water scarcity in one stroke The post Novel paint could aid drought-hit regions appeared first on Positive News."
+    },
+    {
+      "title": "Introducing GPT-5.3-Codex-Spark",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
+      "summary": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users."
+    },
+    {
+      "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
+      "summary": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges."
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "Filling in the Dating Gaps",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/filling-in-the-dating-gaps",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "The Last Chopper Out of Nam",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/the-last-chopper-out-of-nam",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "The Moral Panic In Your Hands",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/the-moral-panic-in-your-hands",
+      "description": "Critical analysis of sexuality and culture"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-02-13T05:24:02.141448",
+    "llm_model": "gpt-4o",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
