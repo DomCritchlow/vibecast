@@ -1,14 +1,5 @@
 {
   "used_urls": [
-    "https://www.nature.com/articles/d41586-026-00388-0",
-    "https://www.nature.com/articles/d41586-026-00362-w",
-    "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
-    "https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/",
-    "https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/",
-    "https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/",
-    "https://www.sexual-culture.com/p/gender-relations-have-made-dating",
-    "https://www.sexual-culture.com/p/sex-for-sexs-sake",
-    "https://www.sexual-culture.com/p/everyones-treating-romance-like-a",
     "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-196-becoming-martian",
     "https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/",
     "https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/",
@@ -61,18 +52,18 @@
     "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
     "https://www.sexual-culture.com/p/filling-in-the-dating-gaps",
     "https://www.sexual-culture.com/p/the-last-chopper-out-of-nam",
-    "https://www.sexual-culture.com/p/the-moral-panic-in-your-hands"
+    "https://www.sexual-culture.com/p/the-moral-panic-in-your-hands",
+    "https://www.space.com/space-exploration/satellites/satellite-megaconstellations-continue-to-grow-could-their-debris-fall-on-us",
+    "https://www.nature.com/articles/d41586-026-00433-y",
+    "https://openai.com/index/beyond-rate-limits",
+    "https://openai.com/index/scaling-social-science-research",
+    "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
+    "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/",
+    "https://www.sexual-culture.com/p/who-is-allowed-to-perform-gender",
+    "https://www.sexual-culture.com/p/gender-relations-have-made-dating",
+    "https://www.sexual-culture.com/p/sex-for-sexs-sake"
   ],
   "url_timestamps": {
-    "https://www.nature.com/articles/d41586-026-00388-0": "2026-02-07T05:08:09.416362",
-    "https://www.nature.com/articles/d41586-026-00362-w": "2026-02-07T05:08:09.416362",
-    "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/": "2026-02-07T05:08:09.416362",
-    "https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/": "2026-02-07T05:08:09.416362",
-    "https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/": "2026-02-07T05:08:09.416362",
-    "https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/": "2026-02-07T05:08:09.416362",
-    "https://www.sexual-culture.com/p/gender-relations-have-made-dating": "2026-02-07T05:08:09.416362",
-    "https://www.sexual-culture.com/p/sex-for-sexs-sake": "2026-02-07T05:08:09.416362",
-    "https://www.sexual-culture.com/p/everyones-treating-romance-like-a": "2026-02-07T05:08:09.416362",
     "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-196-becoming-martian": "2026-02-08T05:25:55.786501",
     "https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/": "2026-02-08T05:25:55.786501",
     "https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/": "2026-02-08T05:25:55.786501",
@@ -125,7 +116,16 @@
     "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/": "2026-02-13T05:24:02.160360",
     "https://www.sexual-culture.com/p/filling-in-the-dating-gaps": "2026-02-13T05:24:02.160360",
     "https://www.sexual-culture.com/p/the-last-chopper-out-of-nam": "2026-02-13T05:24:02.160360",
-    "https://www.sexual-culture.com/p/the-moral-panic-in-your-hands": "2026-02-13T05:24:02.160360"
+    "https://www.sexual-culture.com/p/the-moral-panic-in-your-hands": "2026-02-13T05:24:02.160360",
+    "https://www.space.com/space-exploration/satellites/satellite-megaconstellations-continue-to-grow-could-their-debris-fall-on-us": "2026-02-14T05:11:53.087408",
+    "https://www.nature.com/articles/d41586-026-00433-y": "2026-02-14T05:11:53.087408",
+    "https://openai.com/index/beyond-rate-limits": "2026-02-14T05:11:53.087408",
+    "https://openai.com/index/scaling-social-science-research": "2026-02-14T05:11:53.087408",
+    "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/": "2026-02-14T05:11:53.087408",
+    "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/": "2026-02-14T05:11:53.087408",
+    "https://www.sexual-culture.com/p/who-is-allowed-to-perform-gender": "2026-02-14T05:11:53.087408",
+    "https://www.sexual-culture.com/p/gender-relations-have-made-dating": "2026-02-14T05:11:53.087408",
+    "https://www.sexual-culture.com/p/sex-for-sexs-sake": "2026-02-14T05:11:53.087408"
   },
-  "last_run": "2026-02-13T05:24:02.160360"
+  "last_run": "2026-02-14T05:11:53.087408"
 }

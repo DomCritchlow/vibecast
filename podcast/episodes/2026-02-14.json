@@ -1,0 +1,82 @@
+{
+  "guid": "2026-02-14",
+  "date": "2026-02-14T05:10:38.513980",
+  "title": "Satellite Risks & Teen Social Media Debate",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 298.10526315789474,
+  "duration_formatted": "4:58",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-14.mp3",
+    "audio_size_bytes": 7058789,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-14/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-14/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-02-14.txt"
+  },
+  "stories": [
+    {
+      "title": "Satellite megaconstellations continue to grow. Could their debris fall on us?",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/satellites/satellite-megaconstellations-continue-to-grow-could-their-debris-fall-on-us",
+      "summary": "As more satellite megaconstellations continue to be launched, researchers are exploring the odds people could be struck by falling debris from reentering spacecraft."
+    },
+    {
+      "title": "Is social media addictive for teens? US courts wade into scientific debate",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00433-y",
+      "summary": "Nature, Published online: 13 February 2026; doi:10.1038/d41586-026-00433-yA wave of lawsuits will push juries to decide on an issue that researchers are still debating."
+    },
+    {
+      "title": "Beyond rate limits: scaling access to Codex and Sora",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/beyond-rate-limits",
+      "summary": "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex."
+    },
+    {
+      "title": "Scaling social science research",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/scaling-social-science-research",
+      "summary": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale."
+    },
+    {
+      "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
+      "summary": "Research papers point to the growing impact of Deep Think across fields"
+    },
+    {
+      "title": "Project Genie: Experimenting with infinite, interactive worlds",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/",
+      "summary": "Google AI Ultra subscribers in the U.S. can try out Project Genie, an experimental research prototype that lets you create and explore worlds."
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "Who Is Allowed to \"Perform\" Gender and Identity?",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/who-is-allowed-to-perform-gender",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "Gender Relations Have Made Dating a Hostile Act",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/gender-relations-have-made-dating",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "Sex For Sex's Sake",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/sex-for-sexs-sake",
+      "description": "Critical analysis of sexuality and culture"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-02-14T05:11:53.068814",
+    "llm_model": "gpt-4o",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
