@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Feb 2026 05:11:53 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 05:21:04 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,102 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>AI Vision in 4D &amp; Speech Tech for Low-Resource Languages</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. D4RT: Teaching AI to see the world in four dimensions
+   Source: DeepMind Blog
+2. Deepening our partnership with the UK AI Security Institute
+   Source: DeepMind Blog
+3. Rethinking imitation learning with Predictive Inverse Dynamics Models
+   Source: Microsoft Research Blog
+4. Paza: Introducing automatic speech recognition benchmarks and models for low resource languages
+   Source: Microsoft Research Blog
+5. Best Alternatives to Google’s Android Operating System (2026), Tested and Reviewed
+   Source: Wired
+6. Following Confidence Test, NASA Continues Artemis II Data Review
+   Source: NASA Science
+
+REFERENCES:
+
+1. D4RT: Teaching AI to see the world in four dimensions
+   https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/
+
+2. Deepening our partnership with the UK AI Security Institute
+   https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/
+
+3. Rethinking imitation learning with Predictive Inverse Dynamics Models
+   https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models/
+
+4. Paza: Introducing automatic speech recognition benchmarks and models for low resource languages
+   https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/
+
+5. Best Alternatives to Google’s Android Operating System (2026), Tested and Reviewed
+   https://www.wired.com/story/best-android-alternatives/
+
+6. Following Confidence Test, NASA Continues Artemis II Data Review
+   https://www.nasa.gov/blogs/missions/2026/02/13/following-confidence-test-nasa-continues-artemis-ii-data-review/
+
+READING LIST:
+Articles recommended for further reading
+
+1. Treating Romance Like a Math Problem by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/everyones-treating-romance-like-a
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-15/newspaper.pdf]]></description>
+      <pubDate>Sun, 15 Feb 2026 05:20:01 -0000</pubDate>
+      <guid isPermaLink="false">2026-02-15</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-15.mp3" length="6128996" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. D4RT: Teaching AI to see the world in four dimensions
+   Source: DeepMind Blog
+2. Deepening our partnership with the UK AI Security Institute
+   Source: DeepMind Blog
+3. Rethinking imitation learning with Predictive Inverse Dynamics Models
+   Source: Microsoft Research Blog
+4. Paza: Introducing automatic speech recognition benchmarks and models for low resource languages
+   Source: Microsoft Research Blog
+5. Best Alternatives to Google’s Android Operating System (2026), Tested and Reviewed
+   Source: Wired
+6. Following Confidence Test, NASA Continues Artemis II Data Review
+   Source: NASA Science
+
+REFERENCES:
+
+1. D4RT: Teaching AI to see the world in four dimensions
+   https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/
+
+2. Deepening our partnership with the UK AI Security Institute
+   https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/
+
+3. Rethinking imitation learning with Predictive Inverse Dynamics Models
+   https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models/
+
+4. Paza: Introducing automatic speech recognition benchmarks and models for low resource languages
+   https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/
+
+5. Best Alternatives to Google’s Android Operating System (2026), Tested and Reviewed
+   https://www.wired.com/story/best-android-alternatives/
+
+6. Following Confidence Test, NASA Continues Artemis II Data Review
+   https://www.nasa.gov/blogs/missions/2026/02/13/following-confidence-test-nasa-continues-artemis-ii-data-review/
+
+READING LIST:
+Articles recommended for further reading
+
+1. Treating Romance Like a Math Problem by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/everyones-treating-romance-like-a
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-15/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:22</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-15/episode-art.png"/>
+    </item>
     <item>
       <title>Satellite Risks &amp; Teen Social Media Debate</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2998,85 +3094,6 @@ REFERENCES:
 
 6. The Download: introducing this year’s 10 Breakthrough Technologies
    https://www.technologyreview.com/2026/01/12/1131176/the-download-introducing-this-years-10-breakthrough-technologies/
-]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>3:48</itunes:duration>
-    </item>
-    <item>
-      <title>Brain on Procrastination &amp; AI&#x27;s Impact on Science Careers</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. ROSES-25 Amendment 38: D.5 Astrophysics Pioneers Updates
-   Source: NASA Science
-2. Neuroscientists Decipher Procrastination: A Brain Mechanism Explains Why People Leave Certain Tasks for Later
-   Source: Wired
-3. Do you have a side hustle alongside your PhD studies? Take <i>Nature</i>’s poll
-   Source: Nature News
-4. AI can turbocharge scientists’ careers — but limit their scope
-   Source: Nature News
-5. FACTS Benchmark Suite: Systematically evaluating the factuality of large language models
-   Source: DeepMind Blog
-6. Agent Lightning: Adding reinforcement learning to AI agents without code rewrites
-   Source: Microsoft Research Blog
-
-REFERENCES:
-
-1. ROSES-25 Amendment 38: D.5 Astrophysics Pioneers Updates
-   https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/roses-25-amendment-38-d-5-astrophysics-pioneers-updates/
-
-2. Neuroscientists Decipher Procrastination: A Brain Mechanism Explains Why People Leave Certain Tasks for Later
-   https://www.wired.com/story/neuroscience-procrastination-brain-mechanism-task-avoidance/
-
-3. Do you have a side hustle alongside your PhD studies? Take <i>Nature</i>’s poll
-   https://www.nature.com/articles/d41586-026-00145-3
-
-4. AI can turbocharge scientists’ careers — but limit their scope
-   https://www.nature.com/articles/d41586-026-00162-2
-
-5. FACTS Benchmark Suite: Systematically evaluating the factuality of large language models
-   https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/
-
-6. Agent Lightning: Adding reinforcement learning to AI agents without code rewrites
-   https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/
-]]></description>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 -0000</pubDate>
-      <guid isPermaLink="false">2026-01-15</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-15.mp3" length="5685750" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. ROSES-25 Amendment 38: D.5 Astrophysics Pioneers Updates
-   Source: NASA Science
-2. Neuroscientists Decipher Procrastination: A Brain Mechanism Explains Why People Leave Certain Tasks for Later
-   Source: Wired
-3. Do you have a side hustle alongside your PhD studies? Take <i>Nature</i>’s poll
-   Source: Nature News
-4. AI can turbocharge scientists’ careers — but limit their scope
-   Source: Nature News
-5. FACTS Benchmark Suite: Systematically evaluating the factuality of large language models
-   Source: DeepMind Blog
-6. Agent Lightning: Adding reinforcement learning to AI agents without code rewrites
-   Source: Microsoft Research Blog
-
-REFERENCES:
-
-1. ROSES-25 Amendment 38: D.5 Astrophysics Pioneers Updates
-   https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/roses-25-amendment-38-d-5-astrophysics-pioneers-updates/
-
-2. Neuroscientists Decipher Procrastination: A Brain Mechanism Explains Why People Leave Certain Tasks for Later
-   https://www.wired.com/story/neuroscience-procrastination-brain-mechanism-task-avoidance/
-
-3. Do you have a side hustle alongside your PhD studies? Take <i>Nature</i>’s poll
-   https://www.nature.com/articles/d41586-026-00145-3
-
-4. AI can turbocharge scientists’ careers — but limit their scope
-   https://www.nature.com/articles/d41586-026-00162-2
-
-5. FACTS Benchmark Suite: Systematically evaluating the factuality of large language models
-   https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/
-
-6. Agent Lightning: Adding reinforcement learning to AI agents without code rewrites
-   https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/
 ]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>

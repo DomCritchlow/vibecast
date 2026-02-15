@@ -1,0 +1,68 @@
+{
+  "guid": "2026-02-15",
+  "date": "2026-02-15T05:20:01.007851",
+  "title": "AI Vision in 4D & Speech Tech for Low-Resource Languages",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 262.7368421052632,
+  "duration_formatted": "4:22",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-15.mp3",
+    "audio_size_bytes": 6128996,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-15/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-15/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-02-15.txt"
+  },
+  "stories": [
+    {
+      "title": "D4RT: Teaching AI to see the world in four dimensions",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
+      "summary": "D4RT: Unified, efficient 4D reconstruction and tracking up to 300x faster than prior methods."
+    },
+    {
+      "title": "Deepening our partnership with the UK AI Security Institute",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
+      "summary": "Google DeepMind and UK AI Security Institute (AISI) strengthen collaboration on critical AI safety and security research"
+    },
+    {
+      "title": "Rethinking imitation learning with Predictive Inverse Dynamics Models",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models/",
+      "summary": "This research looks at why Predictive Inverse Dynamics Models often outperform standard Behavior Cloning in imitation learning. By using simple predictions of what happens next, PIDMs reduce ambiguity and learn from far fewer demonstrations. The post Rethinking imitation learning with Predictive Inverse Dynamics Models appeared first on Microsoft Research."
+    },
+    {
+      "title": "Paza: Introducing automatic speech recognition benchmarks and models for low resource languages",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/",
+      "summary": "Microsoft Research unveils Paza, a human-centered speech pipeline, and PazaBench, the first leaderboard for low-resource languages. It covers 39 African languages and 52 models and is tested with communities in real settings. The post Paza: Introducing automatic speech recognition benchmarks and models for low resource languages appeared first on Microsoft Research."
+    },
+    {
+      "title": "Best Alternatives to Google’s Android Operating System (2026), Tested and Reviewed",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/best-android-alternatives/",
+      "summary": "Whether you have privacy concerns or you just want to freely tinker, these are our favorite alternatives to stock Android."
+    },
+    {
+      "title": "Following Confidence Test, NASA Continues Artemis II Data Review",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/blogs/missions/2026/02/13/following-confidence-test-nasa-continues-artemis-ii-data-review/",
+      "summary": "As part of robustly testing the vehicle prior to flight, NASA engineers are reviewing data after a confidence test Feb. 12, in which operators partially filled the SLS (Space Launch System) core stage liquid hydrogen tank to assess newly replaced seals in an area used to fill the rocket with propellant. During the test, teams […] The post Following Confidence Test, NASA Continues Artemis II Data Review appeared first on NASA Science."
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "Treating Romance Like a Math Problem",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/everyones-treating-romance-like-a",
+      "description": "Critical analysis of sexuality and culture"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-02-15T05:21:04.849695",
+    "llm_model": "gpt-4o",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
