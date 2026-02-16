@@ -1,0 +1,82 @@
+{
+  "guid": "2026-02-16",
+  "date": "2026-02-16T05:27:49.360251",
+  "title": "Agent Lightning & Bigfoot Hunters: AI's Diverse Frontier",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 270.3157894736842,
+  "duration_formatted": "4:30",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-16.mp3",
+    "audio_size_bytes": 6305793,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-16/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-16/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-02-16.txt"
+  },
+  "stories": [
+    {
+      "title": "Multimodal reinforcement learning with agentic verifier for AI agents",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/",
+      "summary": "Argos improves multimodal RL by evaluating whether an agent’s reasoning aligns with what it observes over time. The approach reduces visual hallucinations and produces more reliable, data-efficient agents for real-world applications. The post Multimodal reinforcement learning with agentic verifier for AI agents appeared first on Microsoft Research."
+    },
+    {
+      "title": "Agent Lightning: Adding reinforcement learning to AI agents without code rewrites",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/",
+      "summary": "By decoupling how agents work from how they’re trained, Agent Lightning turns each step an agent takes into data for reinforcement learning. This makes it easy for developers to improve agent performance with almost zero code changes. The post Agent Lightning: Adding reinforcement learning to AI agents without code rewrites appeared first on Microsoft Research."
+    },
+    {
+      "title": "\"It ain't no unicorn\": These researchers have interviewed 130 Bigfoot hunters",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/02/it-aint-no-unicorn-these-researchers-have-interviewed-130-bigfoot-hunters/",
+      "summary": "What prompts this community to spend time looking for a creature that likely doesn't exist?"
+    },
+    {
+      "title": "We are in the \"gentleman scientist\" era of AI research",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://www.seangoedecke.com/ai-and-informal-science/",
+      "summary": "Article URL: https://www.seangoedecke.com/ai-and-informal-science/ Comments URL: https://news.ycombinator.com/item?id=47030628 Points: 2 # Comments: 0"
+    },
+    {
+      "title": "Kristopher Bedka",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/people/kristopher-bedka/",
+      "summary": "Kristopher Bedka, Research Physical Scientist, Climate Science Branch, Science Directorate, NASA Langley Research Center The post Kristopher Bedka appeared first on NASA Science."
+    },
+    {
+      "title": "Crew-12 Launches",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/image-article/crew-12-launches/",
+      "summary": "A SpaceX Falcon 9 rocket carrying the company’s Dragon spacecraft is launched on NASA’s SpaceX Crew-12 mission to the International Space Station with NASA astronauts Jessica Meir, Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev onboard, Friday, Feb. 13, 2026, from Cape Canaveral Space Force Station in Florida. NASA’s […] The post Crew-12 Launches appeared first on NASA Science."
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "\"What Does a Nice Woman Want from a Man?\"",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/what-does-a-nice-woman-want-from",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "The Pursuit of Male Friendship is Horrifying",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/the-pursuit-of-male-friendship-is",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "What Is the \"Sexual Wellness\" Industry Trying to Tell Us?",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/what-is-the-sexual-wellness-industry",
+      "description": "Critical analysis of sexuality and culture"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-02-16T05:28:59.146238",
+    "llm_model": "gpt-4o",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

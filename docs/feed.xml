@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Feb 2026 05:21:04 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 05:28:59 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,114 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Agent Lightning &amp; Bigfoot Hunters: AI&#x27;s Diverse Frontier</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Multimodal reinforcement learning with agentic verifier for AI agents
+   Source: Microsoft Research Blog
+2. Agent Lightning: Adding reinforcement learning to AI agents without code rewrites
+   Source: Microsoft Research Blog
+3. "It ain't no unicorn": These researchers have interviewed 130 Bigfoot hunters
+   Source: Ars Technica
+4. We are in the "gentleman scientist" era of AI research
+   Source: Hacker News (AI filtered)
+5. Kristopher Bedka
+   Source: NASA Science
+6. Crew-12 Launches
+   Source: NASA Science
+
+REFERENCES:
+
+1. Multimodal reinforcement learning with agentic verifier for AI agents
+   https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/
+
+2. Agent Lightning: Adding reinforcement learning to AI agents without code rewrites
+   https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/
+
+3. "It ain't no unicorn": These researchers have interviewed 130 Bigfoot hunters
+   https://arstechnica.com/science/2026/02/it-aint-no-unicorn-these-researchers-have-interviewed-130-bigfoot-hunters/
+
+4. We are in the "gentleman scientist" era of AI research
+   https://www.seangoedecke.com/ai-and-informal-science/
+
+5. Kristopher Bedka
+   https://www.nasa.gov/people/kristopher-bedka/
+
+6. Crew-12 Launches
+   https://www.nasa.gov/image-article/crew-12-launches/
+
+READING LIST:
+Articles recommended for further reading
+
+1. "What Does a Nice Woman Want from a Man?" by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/what-does-a-nice-woman-want-from
+
+2. The Pursuit of Male Friendship is Horrifying by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/the-pursuit-of-male-friendship-is
+
+3. What Is the "Sexual Wellness" Industry Trying to Tell Us? by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/what-is-the-sexual-wellness-industry
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-16/newspaper.pdf]]></description>
+      <pubDate>Mon, 16 Feb 2026 05:27:49 -0000</pubDate>
+      <guid isPermaLink="false">2026-02-16</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-16.mp3" length="6305793" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Multimodal reinforcement learning with agentic verifier for AI agents
+   Source: Microsoft Research Blog
+2. Agent Lightning: Adding reinforcement learning to AI agents without code rewrites
+   Source: Microsoft Research Blog
+3. "It ain't no unicorn": These researchers have interviewed 130 Bigfoot hunters
+   Source: Ars Technica
+4. We are in the "gentleman scientist" era of AI research
+   Source: Hacker News (AI filtered)
+5. Kristopher Bedka
+   Source: NASA Science
+6. Crew-12 Launches
+   Source: NASA Science
+
+REFERENCES:
+
+1. Multimodal reinforcement learning with agentic verifier for AI agents
+   https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/
+
+2. Agent Lightning: Adding reinforcement learning to AI agents without code rewrites
+   https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/
+
+3. "It ain't no unicorn": These researchers have interviewed 130 Bigfoot hunters
+   https://arstechnica.com/science/2026/02/it-aint-no-unicorn-these-researchers-have-interviewed-130-bigfoot-hunters/
+
+4. We are in the "gentleman scientist" era of AI research
+   https://www.seangoedecke.com/ai-and-informal-science/
+
+5. Kristopher Bedka
+   https://www.nasa.gov/people/kristopher-bedka/
+
+6. Crew-12 Launches
+   https://www.nasa.gov/image-article/crew-12-launches/
+
+READING LIST:
+Articles recommended for further reading
+
+1. "What Does a Nice Woman Want from a Man?" by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/what-does-a-nice-woman-want-from
+
+2. The Pursuit of Male Friendship is Horrifying by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/the-pursuit-of-male-friendship-is
+
+3. What Is the "Sexual Wellness" Industry Trying to Tell Us? by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/what-is-the-sexual-wellness-industry
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-16/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:30</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-16/episode-art.png"/>
+    </item>
     <item>
       <title>AI Vision in 4D &amp; Speech Tech for Low-Resource Languages</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -3019,85 +3127,6 @@ REFERENCES:
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:12</itunes:duration>
-    </item>
-    <item>
-      <title>AI Tumor Models &amp; Climate Tech Breakthroughs</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Making progress on global health will need high-quality evidence
-   Source: Nature News
-2. PhD students’ taste for risk mirrors their supervisors’
-   Source: Nature News
-3. GigaTIME: Scaling tumor microenvironment modeling using virtual population generated by multimodal AI
-   Source: Microsoft Research Blog
-4. Introducing OptiMind, a research model designed for optimization
-   Source: Hugging Face Blog
-5. Three climate technologies breaking through in 2026
-   Source: MIT Technology Review
-6. The Download: introducing this year’s 10 Breakthrough Technologies
-   Source: MIT Technology Review
-
-REFERENCES:
-
-1. Making progress on global health will need high-quality evidence
-   https://www.nature.com/articles/d41586-026-00073-2
-
-2. PhD students’ taste for risk mirrors their supervisors’
-   https://www.nature.com/articles/d41586-026-00160-4
-
-3. GigaTIME: Scaling tumor microenvironment modeling using virtual population generated by multimodal AI
-   https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/
-
-4. Introducing OptiMind, a research model designed for optimization
-   https://huggingface.co/blog/microsoft/optimind
-
-5. Three climate technologies breaking through in 2026
-   https://www.technologyreview.com/2026/01/15/1131348/climate-technologies-2026/
-
-6. The Download: introducing this year’s 10 Breakthrough Technologies
-   https://www.technologyreview.com/2026/01/12/1131176/the-download-introducing-this-years-10-breakthrough-technologies/
-]]></description>
-      <pubDate>Fri, 16 Jan 2026 00:00:00 -0000</pubDate>
-      <guid isPermaLink="false">2026-01-16</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-16.mp3" length="5218054" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Making progress on global health will need high-quality evidence
-   Source: Nature News
-2. PhD students’ taste for risk mirrors their supervisors’
-   Source: Nature News
-3. GigaTIME: Scaling tumor microenvironment modeling using virtual population generated by multimodal AI
-   Source: Microsoft Research Blog
-4. Introducing OptiMind, a research model designed for optimization
-   Source: Hugging Face Blog
-5. Three climate technologies breaking through in 2026
-   Source: MIT Technology Review
-6. The Download: introducing this year’s 10 Breakthrough Technologies
-   Source: MIT Technology Review
-
-REFERENCES:
-
-1. Making progress on global health will need high-quality evidence
-   https://www.nature.com/articles/d41586-026-00073-2
-
-2. PhD students’ taste for risk mirrors their supervisors’
-   https://www.nature.com/articles/d41586-026-00160-4
-
-3. GigaTIME: Scaling tumor microenvironment modeling using virtual population generated by multimodal AI
-   https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/
-
-4. Introducing OptiMind, a research model designed for optimization
-   https://huggingface.co/blog/microsoft/optimind
-
-5. Three climate technologies breaking through in 2026
-   https://www.technologyreview.com/2026/01/15/1131348/climate-technologies-2026/
-
-6. The Download: introducing this year’s 10 Breakthrough Technologies
-   https://www.technologyreview.com/2026/01/12/1131176/the-download-introducing-this-years-10-breakthrough-technologies/
-]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>3:48</itunes:duration>
     </item>
   </channel>
 </rss>
