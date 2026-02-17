@@ -1,13 +1,5 @@
 {
   "used_urls": [
-    "https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/",
-    "https://www.theverge.com/tech/862070/lcars-homes-assistant-star-trek",
-    "https://www.wired.com/story/target-darts-omni-auto-scoring-system-rave/",
-    "https://cipscorps.io/",
-    "https://www.nasa.gov/blogs/missions/2026/02/08/nasa-conducts-repairs-analysis-ahead-of-next-artemis-ii-fueling-test/",
-    "https://www.nasa.gov/earth-science-at-ames/who-we-are/atmospheric-science/",
-    "https://www.sexual-culture.com/p/men-and-women-still-dont-get-each",
-    "https://www.sexual-culture.com/p/when-did-slt-shaming-come-back-did",
     "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
     "https://news.ycombinator.com/item?id=46955034",
     "https://www.nature.com/articles/d41586-026-00386-2",
@@ -68,17 +60,16 @@
     "https://www.nasa.gov/image-article/crew-12-launches/",
     "https://www.sexual-culture.com/p/what-does-a-nice-woman-want-from",
     "https://www.sexual-culture.com/p/the-pursuit-of-male-friendship-is",
-    "https://www.sexual-culture.com/p/what-is-the-sexual-wellness-industry"
+    "https://www.sexual-culture.com/p/what-is-the-sexual-wellness-industry",
+    "https://www.nasa.gov/ames/aviationsystems/publications/suas/",
+    "https://www.nature.com/articles/d41586-026-00475-2",
+    "https://www.nature.com/articles/d41586-026-00435-w",
+    "https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/",
+    "https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/",
+    "https://www.technologyreview.com/2026/02/16/1133008/the-download-unraveling-a-death-threat-mystery-and-ai-voice-recreation-for-musicians/",
+    "https://www.sexual-culture.com/p/men-and-women-still-dont-get-each"
   ],
   "url_timestamps": {
-    "https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/": "2026-02-09T05:29:31.652367",
-    "https://www.theverge.com/tech/862070/lcars-homes-assistant-star-trek": "2026-02-09T05:29:31.652367",
-    "https://www.wired.com/story/target-darts-omni-auto-scoring-system-rave/": "2026-02-09T05:29:31.652367",
-    "https://cipscorps.io/": "2026-02-09T05:29:31.652367",
-    "https://www.nasa.gov/blogs/missions/2026/02/08/nasa-conducts-repairs-analysis-ahead-of-next-artemis-ii-fueling-test/": "2026-02-09T05:29:31.652367",
-    "https://www.nasa.gov/earth-science-at-ames/who-we-are/atmospheric-science/": "2026-02-09T05:29:31.652367",
-    "https://www.sexual-culture.com/p/men-and-women-still-dont-get-each": "2026-02-09T05:29:31.652367",
-    "https://www.sexual-culture.com/p/when-did-slt-shaming-come-back-did": "2026-02-09T05:29:31.652367",
     "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/": "2026-02-10T05:30:03.031290",
     "https://news.ycombinator.com/item?id=46955034": "2026-02-10T05:30:03.031290",
     "https://www.nature.com/articles/d41586-026-00386-2": "2026-02-10T05:30:03.031290",
@@ -139,7 +130,14 @@
     "https://www.nasa.gov/image-article/crew-12-launches/": "2026-02-16T05:28:59.165185",
     "https://www.sexual-culture.com/p/what-does-a-nice-woman-want-from": "2026-02-16T05:28:59.165185",
     "https://www.sexual-culture.com/p/the-pursuit-of-male-friendship-is": "2026-02-16T05:28:59.165185",
-    "https://www.sexual-culture.com/p/what-is-the-sexual-wellness-industry": "2026-02-16T05:28:59.165185"
+    "https://www.sexual-culture.com/p/what-is-the-sexual-wellness-industry": "2026-02-16T05:28:59.165185",
+    "https://www.nasa.gov/ames/aviationsystems/publications/suas/": "2026-02-17T05:23:18.818398",
+    "https://www.nature.com/articles/d41586-026-00475-2": "2026-02-17T05:23:18.818398",
+    "https://www.nature.com/articles/d41586-026-00435-w": "2026-02-17T05:23:18.818398",
+    "https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/": "2026-02-17T05:23:18.818398",
+    "https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/": "2026-02-17T05:23:18.818398",
+    "https://www.technologyreview.com/2026/02/16/1133008/the-download-unraveling-a-death-threat-mystery-and-ai-voice-recreation-for-musicians/": "2026-02-17T05:23:18.818398",
+    "https://www.sexual-culture.com/p/men-and-women-still-dont-get-each": "2026-02-17T05:23:18.818398"
   },
-  "last_run": "2026-02-16T05:28:59.165185"
+  "last_run": "2026-02-17T05:23:18.818398"
 }
