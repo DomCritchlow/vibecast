@@ -1,0 +1,82 @@
+{
+  "guid": "2026-02-19",
+  "date": "2026-02-19T05:22:38.337168",
+  "title": "Glass Tech Breakthrough & AI Reinvents Medical Imaging",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 274.5263157894737,
+  "duration_formatted": "4:34",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-19.mp3",
+    "audio_size_bytes": 6515233,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-19/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-19/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-02-19.txt"
+  },
+  "stories": [
+    {
+      "title": "Project Silica’s advances in glass storage technology",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/project-silicas-advances-in-glass-storage-technology/",
+      "summary": "Project Silica introduces new techniques for encoding data in borosilicate glass, as described in the journal Nature. These advances lower media cost and simplify writing and reading systems while supporting 10,000-year data preservation. The post Project Silica’s advances in glass storage technology appeared first on Microsoft Research."
+    },
+    {
+      "title": "The natural architecture of oyster reefs maximizes recruit survival",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10103-8",
+      "summary": "Nature, Published online: 18 February 2026; doi:10.1038/s41586-026-10103-8Survival of reef-building oysters peaks at specific combinations of fractal dimension and height that reduce predation, showing how optimal three-dimensional habitat geometry can guide more effective ecosystem restoration."
+    },
+    {
+      "title": "UniRG: Scaling medical imaging report generation with multimodal reinforcement learning",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/",
+      "summary": "AI can help generate medical image reports, but today’s models struggle with varying reporting schemes. Learn how UniRG uses reinforcement learning to boost performance of medical vision-language models. The post UniRG: Scaling medical imaging report generation with multimodal reinforcement learning appeared first on Microsoft Research."
+    },
+    {
+      "title": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
+      "summary": ""
+    },
+    {
+      "title": "Verizon acknowledges \"pain\" of new unlock policy, suggests change is coming",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/02/verizon-might-drop-its-annoying-35-day-wait-for-unlocking-paid-off-phones/",
+      "summary": "Report: Verizon's goal is \"immediate unlock for all payment methods really soon.\""
+    },
+    {
+      "title": "Ring’s AI-powered Search Party won’t stop at finding lost dogs, leaked email shows",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/880906/ring-siminoff-email-leak-search-party-expansion",
+      "summary": "A leaked internal email obtained by 404 Media shows that Ring has bigger plans for its AI-powered neighborhood search capability than just looking for lost dogs. The outlet reports the email, sent last October by founder Jamie Siminoff to all Ring employees, says that with Search Party, \"You can now see a future where we [&#8230;]"
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "Is Avoiding Embarrassment the Only Goal?",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/is-avoiding-embarrassment-the-only",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "What Is \"Cuffing Season\" Asking of You?",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/what-is-cuffing-season-asking-of",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "The Disney-Adultification of Halloween",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/the-disney-adultification-of-halloween",
+      "description": "Critical analysis of sexuality and culture"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-02-19T05:23:51.360031",
+    "llm_model": "gpt-4o",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
