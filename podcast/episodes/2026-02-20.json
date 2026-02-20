@@ -1,0 +1,82 @@
+{
+  "guid": "2026-02-20",
+  "date": "2026-02-20T05:17:38.322356",
+  "title": "Artemis II Launch Prep & AI Alignment Insights",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 280.8421052631579,
+  "duration_formatted": "4:40",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-20.mp3",
+    "audio_size_bytes": 6513352,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-20/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-20/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-02-20.txt"
+  },
+  "stories": [
+    {
+      "title": "NASA Begins Artemis II Launch Pad Ops After Successful Fuel Test",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/blogs/missions/2026/02/19/nasa-begins-artemis-ii-launch-pad-ops-after-successful-fuel-test/",
+      "summary": "NASA successfully fueled its SLS (Space Launch System) rocket and demonstrated the launch countdown for Artemis II on Thursday during a wet dress rehearsal at the agency’s Kennedy Space Center in Florida. Engineers loaded more than 700,000 gallons of liquid propellant into the rocket, sent a closeout crew to the launch pad to demonstrate closing the Orion spacecraft’s hatches, and completed two runs of terminal count — the final phase of the launch countdown. The Artemis II crew also observed part of […] The post NASA Begins Artemis II Launch Pad Ops After Successful Fuel Test appeared first on NASA Science."
+    },
+    {
+      "title": "Biotech investor set to lead US National Science Foundation",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00537-5",
+      "summary": "Nature, Published online: 19 February 2026; doi:10.1038/d41586-026-00537-5If confirmed by the US Senate, Jim O'Neill would be the first non-scientist or engineer to lead the agency, a big funder of US basic research."
+    },
+    {
+      "title": "Academia’s parent trap: the struggles faced by researcher mothers",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00157-z",
+      "summary": "Nature, Published online: 19 February 2026; doi:10.1038/d41586-026-00157-zHow effective is the sector at supporting early career scientists hoping to start a family, including those who face fertility challenges?"
+    },
+    {
+      "title": "Advancing independent research on AI alignment",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
+      "summary": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks."
+    },
+    {
+      "title": "The executive that helped build Meta’s ad machine is trying to expose it",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/881706/meta-executive-brian-boland-testimony-social-media-addiction-trial",
+      "summary": "Brian Boland spent more than a decade figuring out how to build a system that would make Meta money. On Thursday, he told a California jury it incentivized drawing more and more users, including teens, onto Facebook and Instagram - despite the risks. Boland's testimony came a day after Meta CEO Mark Zuckerberg took the [&#8230;]"
+    },
+    {
+      "title": "Bhutan’s crypto experiment shows how hard digital money is in the real world",
+      "source": "Rest of World",
+      "url": "https://restofworld.org/2026/bhutan-bitcoin-tourism-payment-adoption-failure/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "summary": "Nearly a year after launching a nationwide crypto payment system for tourists, merchants say hardly anyone is using it — raising questions about who the experiment really serves."
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "The Most Beautiful Corpse on the Livestream",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/clavicular-and-the-nihilism-of-looksmaxxing",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "Selling the Sex Recession",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/selling-the-sex-recession",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "You're Already a Sexual Cyborg",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/youre-already-a-sexual-cyborg",
+      "description": "Critical analysis of sexuality and culture"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-02-20T05:18:50.456361",
+    "llm_model": "gpt-4o",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

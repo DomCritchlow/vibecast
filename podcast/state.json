@@ -1,14 +1,5 @@
 {
   "used_urls": [
-    "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-47-corrections-to-b-2-heliophysics-foundational-research/",
-    "https://www.nature.com/articles/d41586-026-00321-5",
-    "https://www.technologyreview.com/2026/02/11/1132714/evs-africa-cost/",
-    "https://www.theverge.com/games/877674/highguard-wildlight-entertainment-layoffs",
-    "https://www.wired.com/story/study-of-buddhist-monks-finds-meditation-alters-brain-activity/",
-    "https://github.com/GustyCube/membrane",
-    "https://www.sexual-culture.com/p/selling-the-sex-recession",
-    "https://www.sexual-culture.com/p/youre-already-a-sexual-cyborg",
-    "https://www.sexual-culture.com/p/we-have-to-try-to-be-nice-to-each",
     "https://www.nature.com/articles/d41586-026-00457-4",
     "https://www.space.com/astronomy/exoplanets/scientists-have-found-an-inside-out-planetary-system-heres-what-it-looks-like",
     "https://www.nature.com/articles/d41586-026-00447-6",
@@ -67,18 +58,18 @@
     "https://www.theverge.com/tech/880906/ring-siminoff-email-leak-search-party-expansion",
     "https://www.sexual-culture.com/p/is-avoiding-embarrassment-the-only",
     "https://www.sexual-culture.com/p/what-is-cuffing-season-asking-of",
-    "https://www.sexual-culture.com/p/the-disney-adultification-of-halloween"
+    "https://www.sexual-culture.com/p/the-disney-adultification-of-halloween",
+    "https://www.nasa.gov/blogs/missions/2026/02/19/nasa-begins-artemis-ii-launch-pad-ops-after-successful-fuel-test/",
+    "https://www.nature.com/articles/d41586-026-00537-5",
+    "https://www.nature.com/articles/d41586-026-00157-z",
+    "https://openai.com/index/advancing-independent-research-ai-alignment",
+    "https://www.theverge.com/policy/881706/meta-executive-brian-boland-testimony-social-media-addiction-trial",
+    "https://restofworld.org/2026/bhutan-bitcoin-tourism-payment-adoption-failure/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "https://www.sexual-culture.com/p/clavicular-and-the-nihilism-of-looksmaxxing",
+    "https://www.sexual-culture.com/p/selling-the-sex-recession",
+    "https://www.sexual-culture.com/p/youre-already-a-sexual-cyborg"
   ],
   "url_timestamps": {
-    "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-47-corrections-to-b-2-heliophysics-foundational-research/": "2026-02-12T05:26:58.729696",
-    "https://www.nature.com/articles/d41586-026-00321-5": "2026-02-12T05:26:58.729696",
-    "https://www.technologyreview.com/2026/02/11/1132714/evs-africa-cost/": "2026-02-12T05:26:58.729696",
-    "https://www.theverge.com/games/877674/highguard-wildlight-entertainment-layoffs": "2026-02-12T05:26:58.729696",
-    "https://www.wired.com/story/study-of-buddhist-monks-finds-meditation-alters-brain-activity/": "2026-02-12T05:26:58.729696",
-    "https://github.com/GustyCube/membrane": "2026-02-12T05:26:58.729696",
-    "https://www.sexual-culture.com/p/selling-the-sex-recession": "2026-02-12T05:26:58.729696",
-    "https://www.sexual-culture.com/p/youre-already-a-sexual-cyborg": "2026-02-12T05:26:58.729696",
-    "https://www.sexual-culture.com/p/we-have-to-try-to-be-nice-to-each": "2026-02-12T05:26:58.729696",
     "https://www.nature.com/articles/d41586-026-00457-4": "2026-02-13T05:24:02.160360",
     "https://www.space.com/astronomy/exoplanets/scientists-have-found-an-inside-out-planetary-system-heres-what-it-looks-like": "2026-02-13T05:24:02.160360",
     "https://www.nature.com/articles/d41586-026-00447-6": "2026-02-13T05:24:02.160360",
@@ -137,7 +128,16 @@
     "https://www.theverge.com/tech/880906/ring-siminoff-email-leak-search-party-expansion": "2026-02-19T05:23:51.379555",
     "https://www.sexual-culture.com/p/is-avoiding-embarrassment-the-only": "2026-02-19T05:23:51.379555",
     "https://www.sexual-culture.com/p/what-is-cuffing-season-asking-of": "2026-02-19T05:23:51.379555",
-    "https://www.sexual-culture.com/p/the-disney-adultification-of-halloween": "2026-02-19T05:23:51.379555"
+    "https://www.sexual-culture.com/p/the-disney-adultification-of-halloween": "2026-02-19T05:23:51.379555",
+    "https://www.nasa.gov/blogs/missions/2026/02/19/nasa-begins-artemis-ii-launch-pad-ops-after-successful-fuel-test/": "2026-02-20T05:18:50.475343",
+    "https://www.nature.com/articles/d41586-026-00537-5": "2026-02-20T05:18:50.475343",
+    "https://www.nature.com/articles/d41586-026-00157-z": "2026-02-20T05:18:50.475343",
+    "https://openai.com/index/advancing-independent-research-ai-alignment": "2026-02-20T05:18:50.475343",
+    "https://www.theverge.com/policy/881706/meta-executive-brian-boland-testimony-social-media-addiction-trial": "2026-02-20T05:18:50.475343",
+    "https://restofworld.org/2026/bhutan-bitcoin-tourism-payment-adoption-failure/?utm_source=rss&utm_medium=rss&utm_campaign=feeds": "2026-02-20T05:18:50.475343",
+    "https://www.sexual-culture.com/p/clavicular-and-the-nihilism-of-looksmaxxing": "2026-02-20T05:18:50.475343",
+    "https://www.sexual-culture.com/p/selling-the-sex-recession": "2026-02-20T05:18:50.475343",
+    "https://www.sexual-culture.com/p/youre-already-a-sexual-cyborg": "2026-02-20T05:18:50.475343"
   },
-  "last_run": "2026-02-19T05:23:51.379555"
+  "last_run": "2026-02-20T05:18:50.475343"
 }

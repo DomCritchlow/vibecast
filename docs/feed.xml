@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Feb 2026 05:23:51 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 05:18:50 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,114 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Artemis II Launch Prep &amp; AI Alignment Insights</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. NASA Begins Artemis II Launch Pad Ops After Successful Fuel Test
+   Source: NASA Science
+2. Biotech investor set to lead US National Science Foundation
+   Source: Nature News
+3. Academia’s parent trap: the struggles faced by researcher mothers
+   Source: Nature News
+4. Advancing independent research on AI alignment
+   Source: OpenAI News
+5. The executive that helped build Meta’s ad machine is trying to expose it
+   Source: The Verge
+6. Bhutan’s crypto experiment shows how hard digital money is in the real world
+   Source: Rest of World
+
+REFERENCES:
+
+1. NASA Begins Artemis II Launch Pad Ops After Successful Fuel Test
+   https://www.nasa.gov/blogs/missions/2026/02/19/nasa-begins-artemis-ii-launch-pad-ops-after-successful-fuel-test/
+
+2. Biotech investor set to lead US National Science Foundation
+   https://www.nature.com/articles/d41586-026-00537-5
+
+3. Academia’s parent trap: the struggles faced by researcher mothers
+   https://www.nature.com/articles/d41586-026-00157-z
+
+4. Advancing independent research on AI alignment
+   https://openai.com/index/advancing-independent-research-ai-alignment
+
+5. The executive that helped build Meta’s ad machine is trying to expose it
+   https://www.theverge.com/policy/881706/meta-executive-brian-boland-testimony-social-media-addiction-trial
+
+6. Bhutan’s crypto experiment shows how hard digital money is in the real world
+   https://restofworld.org/2026/bhutan-bitcoin-tourism-payment-adoption-failure/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+
+READING LIST:
+Articles recommended for further reading
+
+1. The Most Beautiful Corpse on the Livestream by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/clavicular-and-the-nihilism-of-looksmaxxing
+
+2. Selling the Sex Recession by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/selling-the-sex-recession
+
+3. You're Already a Sexual Cyborg by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/youre-already-a-sexual-cyborg
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-20/newspaper.pdf]]></description>
+      <pubDate>Fri, 20 Feb 2026 05:17:38 -0000</pubDate>
+      <guid isPermaLink="false">2026-02-20</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-20.mp3" length="6513352" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. NASA Begins Artemis II Launch Pad Ops After Successful Fuel Test
+   Source: NASA Science
+2. Biotech investor set to lead US National Science Foundation
+   Source: Nature News
+3. Academia’s parent trap: the struggles faced by researcher mothers
+   Source: Nature News
+4. Advancing independent research on AI alignment
+   Source: OpenAI News
+5. The executive that helped build Meta’s ad machine is trying to expose it
+   Source: The Verge
+6. Bhutan’s crypto experiment shows how hard digital money is in the real world
+   Source: Rest of World
+
+REFERENCES:
+
+1. NASA Begins Artemis II Launch Pad Ops After Successful Fuel Test
+   https://www.nasa.gov/blogs/missions/2026/02/19/nasa-begins-artemis-ii-launch-pad-ops-after-successful-fuel-test/
+
+2. Biotech investor set to lead US National Science Foundation
+   https://www.nature.com/articles/d41586-026-00537-5
+
+3. Academia’s parent trap: the struggles faced by researcher mothers
+   https://www.nature.com/articles/d41586-026-00157-z
+
+4. Advancing independent research on AI alignment
+   https://openai.com/index/advancing-independent-research-ai-alignment
+
+5. The executive that helped build Meta’s ad machine is trying to expose it
+   https://www.theverge.com/policy/881706/meta-executive-brian-boland-testimony-social-media-addiction-trial
+
+6. Bhutan’s crypto experiment shows how hard digital money is in the real world
+   https://restofworld.org/2026/bhutan-bitcoin-tourism-payment-adoption-failure/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+
+READING LIST:
+Articles recommended for further reading
+
+1. The Most Beautiful Corpse on the Livestream by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/clavicular-and-the-nihilism-of-looksmaxxing
+
+2. Selling the Sex Recession by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/selling-the-sex-recession
+
+3. You're Already a Sexual Cyborg by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/youre-already-a-sexual-cyborg
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-20/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:40</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-20/episode-art.png"/>
+    </item>
     <item>
       <title>Glass Tech Breakthrough &amp; AI Reinvents Medical Imaging</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -3122,86 +3230,6 @@ Articles recommended for further reading
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:12</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-21/episode-art.png"/>
-    </item>
-    <item>
-      <title>Google Breakthroughs &amp; China&#x27;s Space Telescope Preview</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Google's year in review: 8 areas with research breakthroughs in 2025
-   Source: DeepMind Blog
-2. Fara-7B: An Efficient Agentic Model for Computer Use
-   Source: Microsoft Research Blog
-3. MMCTAgent: Enabling multimodal reasoning over large video and image collections
-   Source: Microsoft Research Blog
-4. China previews how powerful its new Xuntian space telescope will be ahead of 2027 launch (video)
-   Source: Space.com
-5. Floating science stations: my month on a research vessel looking after buoys
-   Source: Nature News
-6. AI for self empowerment
-   Source: OpenAI News
-
-REFERENCES:
-
-1. Google's year in review: 8 areas with research breakthroughs in 2025
-   https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/
-
-2. Fara-7B: An Efficient Agentic Model for Computer Use
-   https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/
-
-3. MMCTAgent: Enabling multimodal reasoning over large video and image collections
-   https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/
-
-4. China previews how powerful its new Xuntian space telescope will be ahead of 2027 launch (video)
-   https://www.space.com/astronomy/china-previews-how-powerful-its-new-xuntian-space-telescope-will-be-ahead-of-2027-launch-video
-
-5. Floating science stations: my month on a research vessel looking after buoys
-   https://www.nature.com/articles/d41586-026-00189-5
-
-6. AI for self empowerment
-   https://openai.com/index/ai-for-self-empowerment
-]]></description>
-      <pubDate>Tue, 20 Jan 2026 00:00:00 -0000</pubDate>
-      <guid isPermaLink="false">2026-01-20</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-20.mp3" length="5734652" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Google's year in review: 8 areas with research breakthroughs in 2025
-   Source: DeepMind Blog
-2. Fara-7B: An Efficient Agentic Model for Computer Use
-   Source: Microsoft Research Blog
-3. MMCTAgent: Enabling multimodal reasoning over large video and image collections
-   Source: Microsoft Research Blog
-4. China previews how powerful its new Xuntian space telescope will be ahead of 2027 launch (video)
-   Source: Space.com
-5. Floating science stations: my month on a research vessel looking after buoys
-   Source: Nature News
-6. AI for self empowerment
-   Source: OpenAI News
-
-REFERENCES:
-
-1. Google's year in review: 8 areas with research breakthroughs in 2025
-   https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/
-
-2. Fara-7B: An Efficient Agentic Model for Computer Use
-   https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/
-
-3. MMCTAgent: Enabling multimodal reasoning over large video and image collections
-   https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/
-
-4. China previews how powerful its new Xuntian space telescope will be ahead of 2027 launch (video)
-   https://www.space.com/astronomy/china-previews-how-powerful-its-new-xuntian-space-telescope-will-be-ahead-of-2027-launch-video
-
-5. Floating science stations: my month on a research vessel looking after buoys
-   https://www.nature.com/articles/d41586-026-00189-5
-
-6. AI for self empowerment
-   https://openai.com/index/ai-for-self-empowerment
-]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:00</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-20/episode-art.png"/>
     </item>
   </channel>
 </rss>
