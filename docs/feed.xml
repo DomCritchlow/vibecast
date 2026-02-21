@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Feb 2026 05:18:50 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 05:08:38 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,114 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>AI &amp; Militarization: Shaping Future Science Careers</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Jeremy Marquis
+   Source: NASA Science
+2. Five ways increased militarization could change scientific careers
+   Source: Nature News
+3. AI is threatening science jobs. Which ones are most at risk?
+   Source: Nature News
+4. Novel paint could aid drought-hit regions
+   Source: Positive News
+5. Our First Proof submissions
+   Source: OpenAI News
+6. Introducing GPT-5.3-Codex-Spark
+   Source: OpenAI News
+
+REFERENCES:
+
+1. Jeremy Marquis
+   https://www.nasa.gov/people/jeremy-marquis/
+
+2. Five ways increased militarization could change scientific careers
+   https://www.nature.com/articles/d41586-025-04168-0
+
+3. AI is threatening science jobs. Which ones are most at risk?
+   https://www.nature.com/articles/d41586-026-00444-9
+
+4. Novel paint could aid drought-hit regions
+   https://www.positive.news/environment/novel-paint-could-aid-drought-hit-regions/
+
+5. Our First Proof submissions
+   https://openai.com/index/first-proof-submissions
+
+6. Introducing GPT-5.3-Codex-Spark
+   https://openai.com/index/introducing-gpt-5-3-codex-spark
+
+READING LIST:
+Articles recommended for further reading
+
+1. We Have to Try to Be Nice to Each Other by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/we-have-to-try-to-be-nice-to-each
+
+2. Filling in the Dating Gaps by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/filling-in-the-dating-gaps
+
+3. The Last Chopper Out of Nam by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/the-last-chopper-out-of-nam
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-21/newspaper.pdf]]></description>
+      <pubDate>Sat, 21 Feb 2026 05:07:32 -0000</pubDate>
+      <guid isPermaLink="false">2026-02-21</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-21.mp3" length="6293297" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Jeremy Marquis
+   Source: NASA Science
+2. Five ways increased militarization could change scientific careers
+   Source: Nature News
+3. AI is threatening science jobs. Which ones are most at risk?
+   Source: Nature News
+4. Novel paint could aid drought-hit regions
+   Source: Positive News
+5. Our First Proof submissions
+   Source: OpenAI News
+6. Introducing GPT-5.3-Codex-Spark
+   Source: OpenAI News
+
+REFERENCES:
+
+1. Jeremy Marquis
+   https://www.nasa.gov/people/jeremy-marquis/
+
+2. Five ways increased militarization could change scientific careers
+   https://www.nature.com/articles/d41586-025-04168-0
+
+3. AI is threatening science jobs. Which ones are most at risk?
+   https://www.nature.com/articles/d41586-026-00444-9
+
+4. Novel paint could aid drought-hit regions
+   https://www.positive.news/environment/novel-paint-could-aid-drought-hit-regions/
+
+5. Our First Proof submissions
+   https://openai.com/index/first-proof-submissions
+
+6. Introducing GPT-5.3-Codex-Spark
+   https://openai.com/index/introducing-gpt-5-3-codex-spark
+
+READING LIST:
+Articles recommended for further reading
+
+1. We Have to Try to Be Nice to Each Other by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/we-have-to-try-to-be-nice-to-each
+
+2. Filling in the Dating Gaps by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/filling-in-the-dating-gaps
+
+3. The Last Chopper Out of Nam by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/the-last-chopper-out-of-nam
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-21/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:31</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-21/episode-art.png"/>
+    </item>
     <item>
       <title>Artemis II Launch Prep &amp; AI Alignment Insights</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -3122,114 +3230,6 @@ Articles recommended for further reading
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:30</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-22/episode-art.png"/>
-    </item>
-    <item>
-      <title>Rejecting Science Cuts &amp; AI&#x27;s Lab Revolution</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. US Congress set to reject Trump’s sweeping science budget cuts
-   Source: Nature News
-2. Trump one year on: How six US researchers plan to protect science amid chaos and cuts
-   Source: Nature News
-3. Multimodal reinforcement learning with agentic verifier for AI agents
-   Source: Microsoft Research Blog
-4. Reimagining ERP for the agentic AI era
-   Source: MIT Technology Review
-5. The UK government is backing AI that can run its own lab experiments
-   Source: MIT Technology Review
-6. Jimmy Wales Will Never Edit Donald Trump’s Wikipedia Page: He ‘Makes Me Insane’
-   Source: Wired
-
-REFERENCES:
-
-1. US Congress set to reject Trump’s sweeping science budget cuts
-   https://www.nature.com/articles/d41586-026-00163-1
-
-2. Trump one year on: How six US researchers plan to protect science amid chaos and cuts
-   https://www.nature.com/articles/d41586-026-00090-1
-
-3. Multimodal reinforcement learning with agentic verifier for AI agents
-   https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/
-
-4. Reimagining ERP for the agentic AI era
-   https://www.technologyreview.com/2026/01/20/1129965/reimagining-erp-for-the-agentic-ai-era/
-
-5. The UK government is backing AI that can run its own lab experiments
-   https://www.technologyreview.com/2026/01/20/1131462/the-uk-government-is-backing-ai-scientists-that-can-run-their-own-experiments/
-
-6. Jimmy Wales Will Never Edit Donald Trump’s Wikipedia Page: He ‘Makes Me Insane’
-   https://www.wired.com/story/the-big-interview-podcast-jimmy-wales/
-
-READING LIST:
-Articles recommended for further reading
-
-1. How Pinterest Built An Async Compute Platform for Billions of Task Executions by Alex Xu
-   https://blog.bytebytego.com/p/how-pinterest-built-an-async-compute
-
-2. Why AI Needs GPUs and TPUs: The Hardware Behind LLMs by Alex Xu
-   https://blog.bytebytego.com/p/why-ai-needs-gpus-and-tpus-the-hardware
-
-3. EP198: Best Resources to Learn AI in 2026 by Alex Xu
-   https://blog.bytebytego.com/p/ep198-best-resources-to-learn-ai
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-21/newspaper.pdf]]></description>
-      <pubDate>Wed, 21 Jan 2026 00:00:00 -0000</pubDate>
-      <guid isPermaLink="false">2026-01-21</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-21.mp3" length="6212379" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. US Congress set to reject Trump’s sweeping science budget cuts
-   Source: Nature News
-2. Trump one year on: How six US researchers plan to protect science amid chaos and cuts
-   Source: Nature News
-3. Multimodal reinforcement learning with agentic verifier for AI agents
-   Source: Microsoft Research Blog
-4. Reimagining ERP for the agentic AI era
-   Source: MIT Technology Review
-5. The UK government is backing AI that can run its own lab experiments
-   Source: MIT Technology Review
-6. Jimmy Wales Will Never Edit Donald Trump’s Wikipedia Page: He ‘Makes Me Insane’
-   Source: Wired
-
-REFERENCES:
-
-1. US Congress set to reject Trump’s sweeping science budget cuts
-   https://www.nature.com/articles/d41586-026-00163-1
-
-2. Trump one year on: How six US researchers plan to protect science amid chaos and cuts
-   https://www.nature.com/articles/d41586-026-00090-1
-
-3. Multimodal reinforcement learning with agentic verifier for AI agents
-   https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/
-
-4. Reimagining ERP for the agentic AI era
-   https://www.technologyreview.com/2026/01/20/1129965/reimagining-erp-for-the-agentic-ai-era/
-
-5. The UK government is backing AI that can run its own lab experiments
-   https://www.technologyreview.com/2026/01/20/1131462/the-uk-government-is-backing-ai-scientists-that-can-run-their-own-experiments/
-
-6. Jimmy Wales Will Never Edit Donald Trump’s Wikipedia Page: He ‘Makes Me Insane’
-   https://www.wired.com/story/the-big-interview-podcast-jimmy-wales/
-
-READING LIST:
-Articles recommended for further reading
-
-1. How Pinterest Built An Async Compute Platform for Billions of Task Executions by Alex Xu
-   https://blog.bytebytego.com/p/how-pinterest-built-an-async-compute
-
-2. Why AI Needs GPUs and TPUs: The Hardware Behind LLMs by Alex Xu
-   https://blog.bytebytego.com/p/why-ai-needs-gpus-and-tpus-the-hardware
-
-3. EP198: Best Resources to Learn AI in 2026 by Alex Xu
-   https://blog.bytebytego.com/p/ep198-best-resources-to-learn-ai
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-21/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:12</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-21/episode-art.png"/>
     </item>
   </channel>
 </rss>
