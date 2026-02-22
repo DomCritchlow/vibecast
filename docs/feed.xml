@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Feb 2026 05:08:38 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 05:17:41 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,114 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Scaling Science: Codex Access &amp; Gemini 3 Innovations</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Scaling social science research
+   Source: OpenAI News
+2. Beyond rate limits: scaling access to Codex and Sora
+   Source: OpenAI News
+3. Gemini 3 Deep Think: Advancing science, research and engineering
+   Source: DeepMind Blog
+4. Accelerating Mathematical and Scientific Discovery with Gemini Deep Think
+   Source: DeepMind Blog
+5. Job titles of the future: Breast biomechanic
+   Source: MIT Technology Review
+6. Major government research lab appears to be squeezing out foreign scientists
+   Source: Ars Technica
+
+REFERENCES:
+
+1. Scaling social science research
+   https://openai.com/index/scaling-social-science-research
+
+2. Beyond rate limits: scaling access to Codex and Sora
+   https://openai.com/index/beyond-rate-limits
+
+3. Gemini 3 Deep Think: Advancing science, research and engineering
+   https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/
+
+4. Accelerating Mathematical and Scientific Discovery with Gemini Deep Think
+   https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/
+
+5. Job titles of the future: Breast biomechanic
+   https://www.technologyreview.com/2026/02/20/1132629/job-titles-future-breast-biomechanic/
+
+6. Major government research lab appears to be squeezing out foreign scientists
+   https://arstechnica.com/science/2026/02/major-government-research-lab-appears-to-be-squeezing-out-foreign-scientists/
+
+READING LIST:
+Articles recommended for further reading
+
+1. The Moral Panic In Your Hands by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/the-moral-panic-in-your-hands
+
+2. Who Is Allowed to "Perform" Gender and Identity? by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/who-is-allowed-to-perform-gender
+
+3. Gender Relations Have Made Dating a Hostile Act by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/gender-relations-have-made-dating
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-22/newspaper.pdf]]></description>
+      <pubDate>Sun, 22 Feb 2026 05:16:33 -0000</pubDate>
+      <guid isPermaLink="false">2026-02-22</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-22.mp3" length="6644383" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Scaling social science research
+   Source: OpenAI News
+2. Beyond rate limits: scaling access to Codex and Sora
+   Source: OpenAI News
+3. Gemini 3 Deep Think: Advancing science, research and engineering
+   Source: DeepMind Blog
+4. Accelerating Mathematical and Scientific Discovery with Gemini Deep Think
+   Source: DeepMind Blog
+5. Job titles of the future: Breast biomechanic
+   Source: MIT Technology Review
+6. Major government research lab appears to be squeezing out foreign scientists
+   Source: Ars Technica
+
+REFERENCES:
+
+1. Scaling social science research
+   https://openai.com/index/scaling-social-science-research
+
+2. Beyond rate limits: scaling access to Codex and Sora
+   https://openai.com/index/beyond-rate-limits
+
+3. Gemini 3 Deep Think: Advancing science, research and engineering
+   https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/
+
+4. Accelerating Mathematical and Scientific Discovery with Gemini Deep Think
+   https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/
+
+5. Job titles of the future: Breast biomechanic
+   https://www.technologyreview.com/2026/02/20/1132629/job-titles-future-breast-biomechanic/
+
+6. Major government research lab appears to be squeezing out foreign scientists
+   https://arstechnica.com/science/2026/02/major-government-research-lab-appears-to-be-squeezing-out-foreign-scientists/
+
+READING LIST:
+Articles recommended for further reading
+
+1. The Moral Panic In Your Hands by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/the-moral-panic-in-your-hands
+
+2. Who Is Allowed to "Perform" Gender and Identity? by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/who-is-allowed-to-perform-gender
+
+3. Gender Relations Have Made Dating a Hostile Act by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/gender-relations-have-made-dating
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-22/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:31</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-22/episode-art.png"/>
+    </item>
     <item>
       <title>AI &amp; Militarization: Shaping Future Science Careers</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -3122,114 +3230,6 @@ Articles recommended for further reading
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:18</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-23/episode-art.png"/>
-    </item>
-    <item>
-      <title>Artemis II Legacy &amp; AI Factuality Benchmark Unveiled</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. NASA’s Artemis II Mission to Fly Legacy Keepsakes with Astronaut Crew
-   Source: NASA Science
-2. Introducing Edu for Countries
-   Source: OpenAI News
-3. How countries can end the capability overhang
-   Source: OpenAI News
-4. Deepening our partnership with the UK AI Security Institute
-   Source: DeepMind Blog
-5. FACTS Benchmark Suite: Systematically evaluating the factuality of large language models
-   Source: DeepMind Blog
-6. Agent Lightning: Adding reinforcement learning to AI agents without code rewrites
-   Source: Microsoft Research Blog
-
-REFERENCES:
-
-1. NASA’s Artemis II Mission to Fly Legacy Keepsakes with Astronaut Crew
-   https://www.nasa.gov/missions/artemis/artemis-2/nasas-artemis-ii-mission-to-fly-legacy-keepsakes-with-astronaut-crew/
-
-2. Introducing Edu for Countries
-   https://openai.com/index/edu-for-countries
-
-3. How countries can end the capability overhang
-   https://openai.com/index/how-countries-can-end-the-capability-overhang
-
-4. Deepening our partnership with the UK AI Security Institute
-   https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/
-
-5. FACTS Benchmark Suite: Systematically evaluating the factuality of large language models
-   https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/
-
-6. Agent Lightning: Adding reinforcement learning to AI agents without code rewrites
-   https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/
-
-READING LIST:
-Articles recommended for further reading
-
-1. How Netflix Built a Real-Time Distributed Graph for Internet Scale by Alex Xu
-   https://blog.bytebytego.com/p/how-netflix-built-a-real-time-distributed
-
-2. How Pinterest Built An Async Compute Platform for Billions of Task Executions by Alex Xu
-   https://blog.bytebytego.com/p/how-pinterest-built-an-async-compute
-
-3. Why AI Needs GPUs and TPUs: The Hardware Behind LLMs by Alex Xu
-   https://blog.bytebytego.com/p/why-ai-needs-gpus-and-tpus-the-hardware
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-22/newspaper.pdf]]></description>
-      <pubDate>Thu, 22 Jan 2026 00:00:00 -0000</pubDate>
-      <guid isPermaLink="false">2026-01-22</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-22.mp3" length="6455047" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. NASA’s Artemis II Mission to Fly Legacy Keepsakes with Astronaut Crew
-   Source: NASA Science
-2. Introducing Edu for Countries
-   Source: OpenAI News
-3. How countries can end the capability overhang
-   Source: OpenAI News
-4. Deepening our partnership with the UK AI Security Institute
-   Source: DeepMind Blog
-5. FACTS Benchmark Suite: Systematically evaluating the factuality of large language models
-   Source: DeepMind Blog
-6. Agent Lightning: Adding reinforcement learning to AI agents without code rewrites
-   Source: Microsoft Research Blog
-
-REFERENCES:
-
-1. NASA’s Artemis II Mission to Fly Legacy Keepsakes with Astronaut Crew
-   https://www.nasa.gov/missions/artemis/artemis-2/nasas-artemis-ii-mission-to-fly-legacy-keepsakes-with-astronaut-crew/
-
-2. Introducing Edu for Countries
-   https://openai.com/index/edu-for-countries
-
-3. How countries can end the capability overhang
-   https://openai.com/index/how-countries-can-end-the-capability-overhang
-
-4. Deepening our partnership with the UK AI Security Institute
-   https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/
-
-5. FACTS Benchmark Suite: Systematically evaluating the factuality of large language models
-   https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/
-
-6. Agent Lightning: Adding reinforcement learning to AI agents without code rewrites
-   https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/
-
-READING LIST:
-Articles recommended for further reading
-
-1. How Netflix Built a Real-Time Distributed Graph for Internet Scale by Alex Xu
-   https://blog.bytebytego.com/p/how-netflix-built-a-real-time-distributed
-
-2. How Pinterest Built An Async Compute Platform for Billions of Task Executions by Alex Xu
-   https://blog.bytebytego.com/p/how-pinterest-built-an-async-compute
-
-3. Why AI Needs GPUs and TPUs: The Hardware Behind LLMs by Alex Xu
-   https://blog.bytebytego.com/p/why-ai-needs-gpus-and-tpus-the-hardware
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-22/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:30</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-01-22/episode-art.png"/>
     </item>
   </channel>
 </rss>
