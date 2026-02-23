@@ -1,12 +1,5 @@
 {
   "used_urls": [
-    "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
-    "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
-    "https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models/",
-    "https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/",
-    "https://www.wired.com/story/best-android-alternatives/",
-    "https://www.nasa.gov/blogs/missions/2026/02/13/following-confidence-test-nasa-continues-artemis-ii-data-review/",
-    "https://www.sexual-culture.com/p/everyones-treating-romance-like-a",
     "https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/",
     "https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/",
     "https://arstechnica.com/science/2026/02/it-aint-no-unicorn-these-researchers-have-interviewed-130-bigfoot-hunters/",
@@ -67,16 +60,17 @@
     "https://arstechnica.com/science/2026/02/major-government-research-lab-appears-to-be-squeezing-out-foreign-scientists/",
     "https://www.sexual-culture.com/p/the-moral-panic-in-your-hands",
     "https://www.sexual-culture.com/p/who-is-allowed-to-perform-gender",
-    "https://www.sexual-culture.com/p/gender-relations-have-made-dating"
+    "https://www.sexual-culture.com/p/gender-relations-have-made-dating",
+    "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/",
+    "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
+    "https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models/",
+    "https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/",
+    "https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai",
+    "https://www.theverge.com/tech/882852/arturia-fx-collection-6",
+    "https://www.sexual-culture.com/p/sex-for-sexs-sake",
+    "https://www.sexual-culture.com/p/everyones-treating-romance-like-a"
   ],
   "url_timestamps": {
-    "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/": "2026-02-15T05:21:04.869451",
-    "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/": "2026-02-15T05:21:04.869451",
-    "https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models/": "2026-02-15T05:21:04.869451",
-    "https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/": "2026-02-15T05:21:04.869451",
-    "https://www.wired.com/story/best-android-alternatives/": "2026-02-15T05:21:04.869451",
-    "https://www.nasa.gov/blogs/missions/2026/02/13/following-confidence-test-nasa-continues-artemis-ii-data-review/": "2026-02-15T05:21:04.869451",
-    "https://www.sexual-culture.com/p/everyones-treating-romance-like-a": "2026-02-15T05:21:04.869451",
     "https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/": "2026-02-16T05:28:59.165185",
     "https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/": "2026-02-16T05:28:59.165185",
     "https://arstechnica.com/science/2026/02/it-aint-no-unicorn-these-researchers-have-interviewed-130-bigfoot-hunters/": "2026-02-16T05:28:59.165185",
@@ -137,7 +131,15 @@
     "https://arstechnica.com/science/2026/02/major-government-research-lab-appears-to-be-squeezing-out-foreign-scientists/": "2026-02-22T05:17:41.239621",
     "https://www.sexual-culture.com/p/the-moral-panic-in-your-hands": "2026-02-22T05:17:41.239621",
     "https://www.sexual-culture.com/p/who-is-allowed-to-perform-gender": "2026-02-22T05:17:41.239621",
-    "https://www.sexual-culture.com/p/gender-relations-have-made-dating": "2026-02-22T05:17:41.239621"
+    "https://www.sexual-culture.com/p/gender-relations-have-made-dating": "2026-02-22T05:17:41.239621",
+    "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/": "2026-02-23T05:27:58.325261",
+    "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/": "2026-02-23T05:27:58.325261",
+    "https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models/": "2026-02-23T05:27:58.325261",
+    "https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/": "2026-02-23T05:27:58.325261",
+    "https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai": "2026-02-23T05:27:58.325261",
+    "https://www.theverge.com/tech/882852/arturia-fx-collection-6": "2026-02-23T05:27:58.325261",
+    "https://www.sexual-culture.com/p/sex-for-sexs-sake": "2026-02-23T05:27:58.325261",
+    "https://www.sexual-culture.com/p/everyones-treating-romance-like-a": "2026-02-23T05:27:58.325261"
   },
-  "last_run": "2026-02-22T05:17:41.239621"
+  "last_run": "2026-02-23T05:27:58.325261"
 }

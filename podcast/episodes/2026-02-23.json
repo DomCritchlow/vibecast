@@ -1,0 +1,75 @@
+{
+  "guid": "2026-02-23",
+  "date": "2026-02-23T05:26:39.729768",
+  "title": "Infinite Worlds & AI's 4D Vision Transformation",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 301.4736842105263,
+  "duration_formatted": "5:01",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-23.mp3",
+    "audio_size_bytes": 7124617,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-23/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-23/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-02-23.txt"
+  },
+  "stories": [
+    {
+      "title": "Project Genie: Experimenting with infinite, interactive worlds",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/",
+      "summary": "Google AI Ultra subscribers in the U.S. can try out Project Genie, an experimental research prototype that lets you create and explore worlds."
+    },
+    {
+      "title": "D4RT: Teaching AI to see the world in four dimensions",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
+      "summary": "D4RT: Unified, efficient 4D reconstruction and tracking up to 300x faster than prior methods."
+    },
+    {
+      "title": "Rethinking imitation learning with Predictive Inverse Dynamics Models",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models/",
+      "summary": "This research looks at why Predictive Inverse Dynamics Models often outperform standard Behavior Cloning in imitation learning. By using simple predictions of what happens next, PIDMs reduce ambiguity and learn from far fewer demonstrations. The post Rethinking imitation learning with Predictive Inverse Dynamics Models appeared first on Microsoft Research."
+    },
+    {
+      "title": "Paza: Introducing automatic speech recognition benchmarks and models for low resource languages",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/",
+      "summary": "Microsoft Research unveils Paza, a human-centered speech pipeline, and PazaBench, the first leaderboard for low-resource languages. It covers 39 African languages and 52 models and is tested with communities in real settings. The post Paza: Introducing automatic speech recognition benchmarks and models for low resource languages appeared first on Microsoft Research."
+    },
+    {
+      "title": "Samsung is adding Perplexity to Galaxy AI",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai",
+      "summary": "In addition to summoning Bixby or Gemini, Galaxy S26 users will be able to call on Perplexity by saying \"hey, Plex.\" The integration of Perplexity into Galaxy AI is just one element of the company's embrace of a \"multi-agent ecosystem.\" Often, people will use different AI agents for different tasks, depending on where their strengths [&#8230;]"
+    },
+    {
+      "title": "Arturia’s FX Collection 6 adds two new effects and a $99 intro version",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/882852/arturia-fx-collection-6",
+      "summary": "Arturia launched a new version of its flagship effects suite, FX Collection, which includes two new plugins, EFX Ambient and Pitch Shifter-910. FX Collection 6 also marks the introduction of an Intro version with a selection of six effects covering the basics for $99. That pales in comparison to the 39 effects in the full [&#8230;]"
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "Sex For Sex's Sake",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/sex-for-sexs-sake",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "Treating Romance Like a Math Problem",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/everyones-treating-romance-like-a",
+      "description": "Critical analysis of sexuality and culture"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-02-23T05:27:58.306284",
+    "llm_model": "gpt-4o",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
