@@ -1,12 +1,5 @@
 {
   "used_urls": [
-    "https://www.nasa.gov/ames/aviationsystems/publications/suas/",
-    "https://www.nature.com/articles/d41586-026-00475-2",
-    "https://www.nature.com/articles/d41586-026-00435-w",
-    "https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/",
-    "https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/",
-    "https://www.technologyreview.com/2026/02/16/1133008/the-download-unraveling-a-death-threat-mystery-and-ai-voice-recreation-for-musicians/",
-    "https://www.sexual-culture.com/p/men-and-women-still-dont-get-each",
     "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
     "https://www.nature.com/articles/d41586-026-00498-9",
     "https://www.nature.com/articles/d41586-026-00469-0",
@@ -68,16 +61,15 @@
     "https://www.theverge.com/tech/878369/discord-persona-age-verification",
     "https://www.sexual-culture.com/p/what-does-a-nice-woman-want-from",
     "https://www.sexual-culture.com/p/the-pursuit-of-male-friendship-is",
-    "https://www.sexual-culture.com/p/what-is-the-sexual-wellness-industry"
+    "https://www.sexual-culture.com/p/what-is-the-sexual-wellness-industry",
+    "https://news.ycombinator.com/item?id=47147351",
+    "https://www.technologyreview.com/2026/02/24/1132074/just-pull-a-string-to-turn-these-tile-patterns-into-useful-3d-structures/",
+    "https://www.technologyreview.com/2026/02/24/1132080/a-new-way-to-rejuvenate-the-immune-system/",
+    "https://dapto.ai",
+    "https://www.nature.com/articles/d41586-026-00446-7",
+    "https://www.nature.com/articles/d41586-026-00514-y"
   ],
   "url_timestamps": {
-    "https://www.nasa.gov/ames/aviationsystems/publications/suas/": "2026-02-17T05:23:18.818398",
-    "https://www.nature.com/articles/d41586-026-00475-2": "2026-02-17T05:23:18.818398",
-    "https://www.nature.com/articles/d41586-026-00435-w": "2026-02-17T05:23:18.818398",
-    "https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/": "2026-02-17T05:23:18.818398",
-    "https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/": "2026-02-17T05:23:18.818398",
-    "https://www.technologyreview.com/2026/02/16/1133008/the-download-unraveling-a-death-threat-mystery-and-ai-voice-recreation-for-musicians/": "2026-02-17T05:23:18.818398",
-    "https://www.sexual-culture.com/p/men-and-women-still-dont-get-each": "2026-02-17T05:23:18.818398",
     "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/": "2026-02-18T05:25:12.207443",
     "https://www.nature.com/articles/d41586-026-00498-9": "2026-02-18T05:25:12.207443",
     "https://www.nature.com/articles/d41586-026-00469-0": "2026-02-18T05:25:12.207443",
@@ -139,7 +131,13 @@
     "https://www.theverge.com/tech/878369/discord-persona-age-verification": "2026-02-24T05:23:32.307766",
     "https://www.sexual-culture.com/p/what-does-a-nice-woman-want-from": "2026-02-24T05:23:32.307766",
     "https://www.sexual-culture.com/p/the-pursuit-of-male-friendship-is": "2026-02-24T05:23:32.307766",
-    "https://www.sexual-culture.com/p/what-is-the-sexual-wellness-industry": "2026-02-24T05:23:32.307766"
+    "https://www.sexual-culture.com/p/what-is-the-sexual-wellness-industry": "2026-02-24T05:23:32.307766",
+    "https://news.ycombinator.com/item?id=47147351": "2026-02-25T05:25:10.722212",
+    "https://www.technologyreview.com/2026/02/24/1132074/just-pull-a-string-to-turn-these-tile-patterns-into-useful-3d-structures/": "2026-02-25T05:25:10.722212",
+    "https://www.technologyreview.com/2026/02/24/1132080/a-new-way-to-rejuvenate-the-immune-system/": "2026-02-25T05:25:10.722212",
+    "https://dapto.ai": "2026-02-25T05:25:10.722212",
+    "https://www.nature.com/articles/d41586-026-00446-7": "2026-02-25T05:25:10.722212",
+    "https://www.nature.com/articles/d41586-026-00514-y": "2026-02-25T05:25:10.722212"
   },
-  "last_run": "2026-02-24T05:23:32.307766"
+  "last_run": "2026-02-25T05:25:10.722212"
 }
