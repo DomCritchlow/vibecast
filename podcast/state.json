@@ -1,14 +1,5 @@
 {
   "used_urls": [
-    "https://www.microsoft.com/en-us/research/blog/project-silicas-advances-in-glass-storage-technology/",
-    "https://www.nature.com/articles/s41586-026-10103-8",
-    "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/",
-    "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
-    "https://arstechnica.com/tech-policy/2026/02/verizon-might-drop-its-annoying-35-day-wait-for-unlocking-paid-off-phones/",
-    "https://www.theverge.com/tech/880906/ring-siminoff-email-leak-search-party-expansion",
-    "https://www.sexual-culture.com/p/is-avoiding-embarrassment-the-only",
-    "https://www.sexual-culture.com/p/what-is-cuffing-season-asking-of",
-    "https://www.sexual-culture.com/p/the-disney-adultification-of-halloween",
     "https://www.nasa.gov/blogs/missions/2026/02/19/nasa-begins-artemis-ii-launch-pad-ops-after-successful-fuel-test/",
     "https://www.nature.com/articles/d41586-026-00537-5",
     "https://www.nature.com/articles/d41586-026-00157-z",
@@ -67,18 +58,18 @@
     "https://www.technologyreview.com/2026/02/25/1132873/roundtables-why-2026-is-the-year-for-sodium-ion-batteries/",
     "https://www.sexual-culture.com/p/defining-the-anti-erotic",
     "https://www.sexual-culture.com/p/desire-as-an-obligation",
-    "https://www.sexual-culture.com/p/were-not-supposed-to-be-thinking"
+    "https://www.sexual-culture.com/p/were-not-supposed-to-be-thinking",
+    "https://www.microsoft.com/en-us/research/blog/project-silicas-advances-in-glass-storage-technology/",
+    "https://www.nasa.gov/reference/sls-space-launch-system-secondary-payloads/",
+    "https://www.nature.com/articles/d41586-026-00158-y",
+    "https://www.nature.com/articles/d41586-026-00542-8",
+    "https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/",
+    "https://www.technologyreview.com/2026/02/26/1133722/solid-state-batteries-donut-lab/",
+    "https://www.sexual-culture.com/p/is-avoiding-embarrassment-the-only",
+    "https://www.sexual-culture.com/p/what-is-cuffing-season-asking-of",
+    "https://www.sexual-culture.com/p/the-disney-adultification-of-halloween"
   ],
   "url_timestamps": {
-    "https://www.microsoft.com/en-us/research/blog/project-silicas-advances-in-glass-storage-technology/": "2026-02-19T05:23:51.379555",
-    "https://www.nature.com/articles/s41586-026-10103-8": "2026-02-19T05:23:51.379555",
-    "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/": "2026-02-19T05:23:51.379555",
-    "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3": "2026-02-19T05:23:51.379555",
-    "https://arstechnica.com/tech-policy/2026/02/verizon-might-drop-its-annoying-35-day-wait-for-unlocking-paid-off-phones/": "2026-02-19T05:23:51.379555",
-    "https://www.theverge.com/tech/880906/ring-siminoff-email-leak-search-party-expansion": "2026-02-19T05:23:51.379555",
-    "https://www.sexual-culture.com/p/is-avoiding-embarrassment-the-only": "2026-02-19T05:23:51.379555",
-    "https://www.sexual-culture.com/p/what-is-cuffing-season-asking-of": "2026-02-19T05:23:51.379555",
-    "https://www.sexual-culture.com/p/the-disney-adultification-of-halloween": "2026-02-19T05:23:51.379555",
     "https://www.nasa.gov/blogs/missions/2026/02/19/nasa-begins-artemis-ii-launch-pad-ops-after-successful-fuel-test/": "2026-02-20T05:18:50.475343",
     "https://www.nature.com/articles/d41586-026-00537-5": "2026-02-20T05:18:50.475343",
     "https://www.nature.com/articles/d41586-026-00157-z": "2026-02-20T05:18:50.475343",
@@ -137,7 +128,16 @@
     "https://www.technologyreview.com/2026/02/25/1132873/roundtables-why-2026-is-the-year-for-sodium-ion-batteries/": "2026-02-26T05:22:19.667212",
     "https://www.sexual-culture.com/p/defining-the-anti-erotic": "2026-02-26T05:22:19.667212",
     "https://www.sexual-culture.com/p/desire-as-an-obligation": "2026-02-26T05:22:19.667212",
-    "https://www.sexual-culture.com/p/were-not-supposed-to-be-thinking": "2026-02-26T05:22:19.667212"
+    "https://www.sexual-culture.com/p/were-not-supposed-to-be-thinking": "2026-02-26T05:22:19.667212",
+    "https://www.microsoft.com/en-us/research/blog/project-silicas-advances-in-glass-storage-technology/": "2026-02-27T05:17:20.663552",
+    "https://www.nasa.gov/reference/sls-space-launch-system-secondary-payloads/": "2026-02-27T05:17:20.663552",
+    "https://www.nature.com/articles/d41586-026-00158-y": "2026-02-27T05:17:20.663552",
+    "https://www.nature.com/articles/d41586-026-00542-8": "2026-02-27T05:17:20.663552",
+    "https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/": "2026-02-27T05:17:20.663552",
+    "https://www.technologyreview.com/2026/02/26/1133722/solid-state-batteries-donut-lab/": "2026-02-27T05:17:20.663552",
+    "https://www.sexual-culture.com/p/is-avoiding-embarrassment-the-only": "2026-02-27T05:17:20.663552",
+    "https://www.sexual-culture.com/p/what-is-cuffing-season-asking-of": "2026-02-27T05:17:20.663552",
+    "https://www.sexual-culture.com/p/the-disney-adultification-of-halloween": "2026-02-27T05:17:20.663552"
   },
-  "last_run": "2026-02-26T05:22:19.667212"
+  "last_run": "2026-02-27T05:17:20.663552"
 }

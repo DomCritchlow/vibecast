@@ -1,0 +1,82 @@
+{
+  "guid": "2026-02-27",
+  "date": "2026-02-27T05:15:21.123203",
+  "title": "AI Advisory Panel & Glass Storage Tech Innovations",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 280.0,
+  "duration_formatted": "4:40",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-27.mp3",
+    "audio_size_bytes": 6376053,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-27/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-27/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-02-27.txt"
+  },
+  "stories": [
+    {
+      "title": "Project Silica’s advances in glass storage technology",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/project-silicas-advances-in-glass-storage-technology/",
+      "summary": "Project Silica introduces new techniques for encoding data in borosilicate glass, as described in the journal Nature. These advances lower media cost and simplify writing and reading systems while supporting 10,000-year data preservation. The post Project Silica’s advances in glass storage technology appeared first on Microsoft Research."
+    },
+    {
+      "title": "SLS (Space Launch System) Secondary Payloads",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/reference/sls-space-launch-system-secondary-payloads/",
+      "summary": "of exploration to destinations beyond Earth’s orbit with the successful launch of Artemis I in November 2022. In addition to demonstrating NASA’s heavy-lift capability and sending the Orion spacecraft into deep space, SLS also has the ability to carry CubeSats to deep space. The post SLS (Space Launch System) Secondary Payloads appeared first on NASA Science."
+    },
+    {
+      "title": "Why an industry career move is a taboo topic in academia",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00158-y",
+      "summary": "Nature, Published online: 26 February 2026; doi:10.1038/d41586-026-00158-yAdam Levy investigates why researchers are sometimes reluctant to disclose their plans to colleagues."
+    },
+    {
+      "title": "UN creates new scientific AI advisory panel: what will it do?",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00542-8",
+      "summary": "Nature, Published online: 26 February 2026; doi:10.1038/d41586-026-00542-8The panel has been compared to the IPCC – the international panel whose research helped to shape landmark climate agreements."
+    },
+    {
+      "title": "CORPGEN advances AI agents for real work",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/",
+      "summary": "By mid-morning, a typical knowledge worker is already juggling a client report, a budget spreadsheet, a slide deck, and an email backlog, all interdependent and all demanding attention at once. For AI agents to be genuinely useful in that environment, they will need to operate the same way, but today’s best models are evaluated one [&#8230;] The post CORPGEN advances AI agents for real work appeared first on Microsoft Research."
+    },
+    {
+      "title": "This company claims a battery breakthrough. Now they need to prove it.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/02/26/1133722/solid-state-batteries-donut-lab/",
+      "summary": "When a company claims to have created what’s essentially the holy grail of batteries, there are bound to be some questions. Interest has been swirling since Donut Lab, a Finnish company, announced last month that it had a new solid-state battery technology, one that was ready for large-scale production. The company said its batteries can&#8230;"
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "Is Avoiding Embarrassment the Only Goal?",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/is-avoiding-embarrassment-the-only",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "What Is \"Cuffing Season\" Asking of You?",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/what-is-cuffing-season-asking-of",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "The Disney-Adultification of Halloween",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/the-disney-adultification-of-halloween",
+      "description": "Critical analysis of sexuality and culture"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-02-27T05:17:20.644312",
+    "llm_model": "gpt-4o",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
