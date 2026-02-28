@@ -1,0 +1,82 @@
+{
+  "guid": "2026-02-28",
+  "date": "2026-02-28T04:57:03.906061",
+  "title": "Pokémon's Legacy & AI in Medicine: A New Era Unveiled",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 282.10526315789474,
+  "duration_formatted": "4:42",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-28.mp3",
+    "audio_size_bytes": 6708330,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-28/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-28/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-02-28.txt"
+  },
+  "stories": [
+    {
+      "title": "Briefing chat: Pokémon turns 30 — how Pikachu and pals inspired generations of researchers",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00674-x",
+      "summary": "Nature, Published online: 27 February 2026; doi:10.1038/d41586-026-00674-xNature staff discuss some of the week’s top science news."
+    },
+    {
+      "title": "I will continue the fight for environmental justice in Black communities",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00538-4",
+      "summary": "Nature, Published online: 27 February 2026; doi:10.1038/d41586-026-00538-4Nicknamed the father of environmental justice, Robert Bullard argues that researchers in the field have more reason than ever to back up their work with action."
+    },
+    {
+      "title": "Joint Statement from OpenAI and Microsoft",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/continuing-microsoft-partnership",
+      "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success."
+    },
+    {
+      "title": "UniRG: Scaling medical imaging report generation with multimodal reinforcement learning",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/",
+      "summary": "AI can help generate medical image reports, but today’s models struggle with varying reporting schemes. Learn how UniRG uses reinforcement learning to boost performance of medical vision-language models. The post UniRG: Scaling medical imaging report generation with multimodal reinforcement learning appeared first on Microsoft Research."
+    },
+    {
+      "title": "Archival Data From NASA’s NEOWISE Tracks Star Turning Into Black Hole",
+      "source": "NASA JPL News",
+      "url": "https://www.jpl.nasa.gov/news/archival-data-from-nasas-neowise-tracks-star-turning-into-black-hole",
+      "summary": "Researchers used data from the now-retired spacecraft and other space and ground-based observatories helped to piece together the mystery of a ‘failed’ supernova."
+    },
+    {
+      "title": "Apollo moon rocks may have finally solved an old lunar mystery",
+      "source": "Space.com",
+      "url": "https://www.space.com/astronomy/moon/apollo-moon-rocks-may-have-finally-solved-an-old-lunar-mystery",
+      "summary": "A new analysis of Apollo moon samples reveals insight into the history of the lunar magnetic field."
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "The Most Beautiful Corpse on the Livestream",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/clavicular-and-the-nihilism-of-looksmaxxing",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "Selling the Sex Recession",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/selling-the-sex-recession",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "You're Already a Sexual Cyborg",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/youre-already-a-sexual-cyborg",
+      "description": "Critical analysis of sexuality and culture"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-02-28T04:58:19.967092",
+    "llm_model": "gpt-4o",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
