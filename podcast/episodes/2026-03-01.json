@@ -1,0 +1,82 @@
+{
+  "guid": "2026-03-01",
+  "date": "2026-03-01T05:18:06.230813",
+  "title": "Pokémon's 30th & Gemini's Scientific Leap",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 246.73684210526318,
+  "duration_formatted": "4:06",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-01.mp3",
+    "audio_size_bytes": 5863801,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/static/default-episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-01/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-03-01.txt"
+  },
+  "stories": [
+    {
+      "title": "Pokémon turns 30 — how the fictional pocket monsters shaped science",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00441-y",
+      "summary": "Nature, Published online: 27 February 2026; doi:10.1038/d41586-026-00441-yThe Japanese media sensation has inspired generations of researchers in fields as diverse as evolution, biodiversity and research integrity."
+    },
+    {
+      "title": "Is a ‘selfish gene’ making a Utah family have twice as many boys as girls?",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00505-z",
+      "summary": "Nature, Published online: 27 February 2026; doi:10.1038/d41586-026-00505-zGenealogy study claims first conclusive case of sex ‘distortion’ in humans — but not all researchers are convinced."
+    },
+    {
+      "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
+      "summary": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges."
+    },
+    {
+      "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
+      "summary": "Research papers point to the growing impact of Deep Think across fields"
+    },
+    {
+      "title": "The Rubin Observatory’s alert system sent 800,000 pings on its first night",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/science/887037/vera-c-rubin-observatory-800000-alerts",
+      "summary": "The Vera C. Rubin Observatory's automated alert system is online and already bombarding astronomers with things to look at in the night sky. The system went live publicly on Tuesday, February 24th, and on the first night dropped some 800,000 alerts about asteroids, supernovas, and feasting black holes. And that number is only expected to [&#8230;]"
+    },
+    {
+      "title": "Xiaomi 17 is a small(ish) phone with a big(ish) battery",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/886322/xiaomi-17-release-specs-price-mwc-ultra-leica",
+      "summary": "Xiaomi has just given a global launch to two of its latest flagship phones, the Xiaomi 17 and 17 Ultra, along with a Leica-branded Leitzphone edition of the Ultra. There's no sign, however, of the 17 Pro, which launched in China with an additional display mounted next to the rear cameras. The 17 and 17 [&#8230;]"
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "We Have to Try to Be Nice to Each Other",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/we-have-to-try-to-be-nice-to-each",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "Filling in the Dating Gaps",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/filling-in-the-dating-gaps",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "The Last Chopper Out of Nam",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/the-last-chopper-out-of-nam",
+      "description": "Critical analysis of sexuality and culture"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-03-01T05:19:24.644642",
+    "llm_model": "gpt-4o",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
