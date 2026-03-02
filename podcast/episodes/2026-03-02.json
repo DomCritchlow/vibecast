@@ -1,0 +1,82 @@
+{
+  "guid": "2026-03-02",
+  "date": "2026-03-02T05:16:11.955152",
+  "title": "Soundcore's Space 2 & Moons of the Solar System Puzzle",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 272.42105263157896,
+  "duration_formatted": "4:32",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-02.mp3",
+    "audio_size_bytes": 5895148,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-02/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-02/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-03-02.txt"
+  },
+  "stories": [
+    {
+      "title": "Soundcore’s Space 2 are an evolution of its budget headphones",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/886180/soundcore-space-2-announcement-mwc-2026",
+      "summary": "We finally have an update to the Soundcore Space One that launched two and a half years ago. At MWC 2026, Soundcore has announced the Space 2, which will be available in the US on April 21st in three colors - linen white, jet black, and seafoam green - for $129.99. That's $30 more than [&#8230;]"
+    },
+    {
+      "title": "Static taint analysis for LLM agents",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://deepclause.substack.com/p/static-taint-analysis-for-llm-agents",
+      "summary": "Article URL: https://deepclause.substack.com/p/static-taint-analysis-for-llm-agents Comments URL: https://news.ycombinator.com/item?id=47213688 Points: 2 # Comments: 0"
+    },
+    {
+      "title": "Moons of the solar system: A space-themed word search",
+      "source": "Space.com",
+      "url": "https://www.space.com/astronomy/solar-system/moons-of-the-solar-system-a-space-themed-word-search",
+      "summary": "Hunt for the names of the many moons surrounding our solar system's eight planets."
+    },
+    {
+      "title": "The squeal of peeling tape, explained",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00516-w",
+      "summary": "Nature, Published online: 02 March 2026; doi:10.1038/d41586-026-00516-wWeak shock waves triggered by micro-cracks in the adhesive layer of tape cause it to screech when being unspooled from its roll."
+    },
+    {
+      "title": "Editorial Expression of&#xa0;Concern: The gene product Murr1 restricts HIV-1 replication in resting CD4+ lymphocytes",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10308-x",
+      "summary": "Nature, Published online: 27 February 2026; doi:10.1038/s41586-026-10308-xEditorial Expression of&#xa0;Concern: The gene product Murr1 restricts HIV-1 replication in resting CD4+ lymphocytes"
+    },
+    {
+      "title": "What went right this week: a ‘powerful message’ against online abuse, plus more",
+      "source": "Positive News",
+      "url": "https://www.positive.news/society/good-news-stories-from-week-8-of-2026/",
+      "summary": "A law to protect survivors of online abuse was proposed, two rare birds made a resurgence, and new psychedelics research emerged, plus more The post What went right this week: a ‘powerful message’ against online abuse, plus more appeared first on Positive News."
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "The Moral Panic In Your Hands",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/the-moral-panic-in-your-hands",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "Who Is Allowed to \"Perform\" Gender and Identity?",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/who-is-allowed-to-perform-gender",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "Gender Relations Have Made Dating a Hostile Act",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/gender-relations-have-made-dating",
+      "description": "Critical analysis of sexuality and culture"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-03-02T05:17:16.911363",
+    "llm_model": "gpt-4o",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
