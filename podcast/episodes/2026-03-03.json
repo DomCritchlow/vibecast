@@ -1,0 +1,75 @@
+{
+  "guid": "2026-03-03",
+  "date": "2026-03-03T05:14:52.027700",
+  "title": "PantheonOS & China's Firewall: Shaping Digital Worlds",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 290.5263157894737,
+  "duration_formatted": "4:50",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-03.mp3",
+    "audio_size_bytes": 7076971,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-03/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-03/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-03-03.txt"
+  },
+  "stories": [
+    {
+      "title": "Show HN: PantheonOS–An Evolvable, Distributed Multi-Agent System for Science",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://pantheonos.stanford.edu/",
+      "summary": "We are thrilled to share our preprint on PantheonOS, an evolvable, distributed multi-agent system for automatic genomics discovery.Preprint: https://www.biorxiv.org/content/10.64898/2026.02.26.707870v1 Website(online platform free to everyone): https://pantheonos.stanford.edu/PantheonOS unites LLM-powered agents, reinforcement learning, and agentic code evolution to push beyond routine analysis — evolving state-of-the-art algorithms to super-human performance.Applications: Evolved batch correction (Harmony, Scanorama, BBKNN) and Reinforcement learning or RL agumented algorithms RL–augmented gene panel design Intelligent routing across 22+ virtual cell foundation models Autonomous discovery from newly generated 3D early mouse embryo data Integrated human fetal heart multi-omics with 3D whole-heart spatial dataPantheon is highly extensible, although it is currently showcased with applications in genomics, the architecture is very general. The code has now been open-sourced, and we hop..."
+    },
+    {
+      "title": "The hidden lives behind China’s great Internet firewall",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00664-z",
+      "summary": "Nature, Published online: 02 March 2026; doi:10.1038/d41586-026-00664-zThe country’s tightly controlled digital ecosystem is replete with human stories and acts of subtle resistance."
+    },
+    {
+      "title": "AI agents are ‘aeroplanes for the mind’: five ways to ensure that scientists are responsible pilots",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00665-y",
+      "summary": "Nature, Published online: 02 March 2026; doi:10.1038/d41586-026-00665-yAs artificial-intelligence systems take on more of the scientific workflow, the central goal should not be complete automation, but designing platforms that preserve creativity, responsibility and surprise."
+    },
+    {
+      "title": "Project Genie: Experimenting with infinite, interactive worlds",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/",
+      "summary": "Google AI Ultra subscribers in the U.S. can try out Project Genie, an experimental research prototype that lets you create and explore worlds."
+    },
+    {
+      "title": "D4RT: Teaching AI to see the world in four dimensions",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
+      "summary": "D4RT: Unified, efficient 4D reconstruction and tracking up to 300x faster than prior methods."
+    },
+    {
+      "title": "Rethinking imitation learning with Predictive Inverse Dynamics Models",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models/",
+      "summary": "This research looks at why Predictive Inverse Dynamics Models often outperform standard Behavior Cloning in imitation learning. By using simple predictions of what happens next, PIDMs reduce ambiguity and learn from far fewer demonstrations. The post Rethinking imitation learning with Predictive Inverse Dynamics Models appeared first on Microsoft Research."
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "Sex For Sex's Sake",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/sex-for-sexs-sake",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "Treating Romance Like a Math Problem",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/everyones-treating-romance-like-a",
+      "description": "Critical analysis of sexuality and culture"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-03-03T05:16:04.753634",
+    "llm_model": "gpt-4o",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

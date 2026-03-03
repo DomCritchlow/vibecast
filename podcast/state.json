@@ -1,13 +1,5 @@
 {
   "used_urls": [
-    "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/",
-    "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
-    "https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models/",
-    "https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/",
-    "https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai",
-    "https://www.theverge.com/tech/882852/arturia-fx-collection-6",
-    "https://www.sexual-culture.com/p/sex-for-sexs-sake",
-    "https://www.sexual-culture.com/p/everyones-treating-romance-like-a",
     "https://www.nature.com/articles/d41586-026-00568-y",
     "https://www.nature.com/articles/d41586-026-00566-0",
     "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
@@ -67,17 +59,17 @@
     "https://www.positive.news/society/good-news-stories-from-week-8-of-2026/",
     "https://www.sexual-culture.com/p/the-moral-panic-in-your-hands",
     "https://www.sexual-culture.com/p/who-is-allowed-to-perform-gender",
-    "https://www.sexual-culture.com/p/gender-relations-have-made-dating"
+    "https://www.sexual-culture.com/p/gender-relations-have-made-dating",
+    "https://pantheonos.stanford.edu/",
+    "https://www.nature.com/articles/d41586-026-00664-z",
+    "https://www.nature.com/articles/d41586-026-00665-y",
+    "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/",
+    "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
+    "https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models/",
+    "https://www.sexual-culture.com/p/sex-for-sexs-sake",
+    "https://www.sexual-culture.com/p/everyones-treating-romance-like-a"
   ],
   "url_timestamps": {
-    "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/": "2026-02-23T05:27:58.325261",
-    "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/": "2026-02-23T05:27:58.325261",
-    "https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models/": "2026-02-23T05:27:58.325261",
-    "https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/": "2026-02-23T05:27:58.325261",
-    "https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai": "2026-02-23T05:27:58.325261",
-    "https://www.theverge.com/tech/882852/arturia-fx-collection-6": "2026-02-23T05:27:58.325261",
-    "https://www.sexual-culture.com/p/sex-for-sexs-sake": "2026-02-23T05:27:58.325261",
-    "https://www.sexual-culture.com/p/everyones-treating-romance-like-a": "2026-02-23T05:27:58.325261",
     "https://www.nature.com/articles/d41586-026-00568-y": "2026-02-24T05:23:32.307766",
     "https://www.nature.com/articles/d41586-026-00566-0": "2026-02-24T05:23:32.307766",
     "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified": "2026-02-24T05:23:32.307766",
@@ -137,7 +129,15 @@
     "https://www.positive.news/society/good-news-stories-from-week-8-of-2026/": "2026-03-02T05:17:16.930542",
     "https://www.sexual-culture.com/p/the-moral-panic-in-your-hands": "2026-03-02T05:17:16.930542",
     "https://www.sexual-culture.com/p/who-is-allowed-to-perform-gender": "2026-03-02T05:17:16.930542",
-    "https://www.sexual-culture.com/p/gender-relations-have-made-dating": "2026-03-02T05:17:16.930542"
+    "https://www.sexual-culture.com/p/gender-relations-have-made-dating": "2026-03-02T05:17:16.930542",
+    "https://pantheonos.stanford.edu/": "2026-03-03T05:16:04.770972",
+    "https://www.nature.com/articles/d41586-026-00664-z": "2026-03-03T05:16:04.770972",
+    "https://www.nature.com/articles/d41586-026-00665-y": "2026-03-03T05:16:04.770972",
+    "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/": "2026-03-03T05:16:04.770972",
+    "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/": "2026-03-03T05:16:04.770972",
+    "https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models/": "2026-03-03T05:16:04.770972",
+    "https://www.sexual-culture.com/p/sex-for-sexs-sake": "2026-03-03T05:16:04.770972",
+    "https://www.sexual-culture.com/p/everyones-treating-romance-like-a": "2026-03-03T05:16:04.770972"
   },
-  "last_run": "2026-03-02T05:17:16.930542"
+  "last_run": "2026-03-03T05:16:04.770972"
 }
