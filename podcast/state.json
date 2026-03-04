@@ -1,14 +1,5 @@
 {
   "used_urls": [
-    "https://www.nature.com/articles/d41586-026-00568-y",
-    "https://www.nature.com/articles/d41586-026-00566-0",
-    "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
-    "https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/",
-    "https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/",
-    "https://www.theverge.com/tech/878369/discord-persona-age-verification",
-    "https://www.sexual-culture.com/p/what-does-a-nice-woman-want-from",
-    "https://www.sexual-culture.com/p/the-pursuit-of-male-friendship-is",
-    "https://www.sexual-culture.com/p/what-is-the-sexual-wellness-industry",
     "https://news.ycombinator.com/item?id=47147351",
     "https://www.technologyreview.com/2026/02/24/1132074/just-pull-a-string-to-turn-these-tile-patterns-into-useful-3d-structures/",
     "https://www.technologyreview.com/2026/02/24/1132080/a-new-way-to-rejuvenate-the-immune-system/",
@@ -67,18 +58,18 @@
     "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
     "https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models/",
     "https://www.sexual-culture.com/p/sex-for-sexs-sake",
-    "https://www.sexual-culture.com/p/everyones-treating-romance-like-a"
+    "https://www.sexual-culture.com/p/everyones-treating-romance-like-a",
+    "https://www.nasa.gov/human-systems-integration-division/performance-data-analysis-and-reporting-system/",
+    "https://www.nasa.gov/human-systems-integration-division/visuomotor-control-laboratory/",
+    "https://www.nature.com/articles/s41586-026-10332-x",
+    "https://www.nature.com/articles/d41586-026-00667-w",
+    "https://openai.com/index/gpt-5-3-instant-system-card",
+    "https://www.microsoft.com/en-us/research/podcast/trailer-the-shape-of-things-to-come/",
+    "https://www.sexual-culture.com/p/dont-let-the-gooners-get-you-down",
+    "https://www.sexual-culture.com/p/what-does-a-nice-woman-want-from",
+    "https://www.sexual-culture.com/p/the-pursuit-of-male-friendship-is"
   ],
   "url_timestamps": {
-    "https://www.nature.com/articles/d41586-026-00568-y": "2026-02-24T05:23:32.307766",
-    "https://www.nature.com/articles/d41586-026-00566-0": "2026-02-24T05:23:32.307766",
-    "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified": "2026-02-24T05:23:32.307766",
-    "https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/": "2026-02-24T05:23:32.307766",
-    "https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/": "2026-02-24T05:23:32.307766",
-    "https://www.theverge.com/tech/878369/discord-persona-age-verification": "2026-02-24T05:23:32.307766",
-    "https://www.sexual-culture.com/p/what-does-a-nice-woman-want-from": "2026-02-24T05:23:32.307766",
-    "https://www.sexual-culture.com/p/the-pursuit-of-male-friendship-is": "2026-02-24T05:23:32.307766",
-    "https://www.sexual-culture.com/p/what-is-the-sexual-wellness-industry": "2026-02-24T05:23:32.307766",
     "https://news.ycombinator.com/item?id=47147351": "2026-02-25T05:25:10.722212",
     "https://www.technologyreview.com/2026/02/24/1132074/just-pull-a-string-to-turn-these-tile-patterns-into-useful-3d-structures/": "2026-02-25T05:25:10.722212",
     "https://www.technologyreview.com/2026/02/24/1132080/a-new-way-to-rejuvenate-the-immune-system/": "2026-02-25T05:25:10.722212",
@@ -137,7 +128,16 @@
     "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/": "2026-03-03T05:16:04.770972",
     "https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models/": "2026-03-03T05:16:04.770972",
     "https://www.sexual-culture.com/p/sex-for-sexs-sake": "2026-03-03T05:16:04.770972",
-    "https://www.sexual-culture.com/p/everyones-treating-romance-like-a": "2026-03-03T05:16:04.770972"
+    "https://www.sexual-culture.com/p/everyones-treating-romance-like-a": "2026-03-03T05:16:04.770972",
+    "https://www.nasa.gov/human-systems-integration-division/performance-data-analysis-and-reporting-system/": "2026-03-04T05:10:35.275630",
+    "https://www.nasa.gov/human-systems-integration-division/visuomotor-control-laboratory/": "2026-03-04T05:10:35.275630",
+    "https://www.nature.com/articles/s41586-026-10332-x": "2026-03-04T05:10:35.275630",
+    "https://www.nature.com/articles/d41586-026-00667-w": "2026-03-04T05:10:35.275630",
+    "https://openai.com/index/gpt-5-3-instant-system-card": "2026-03-04T05:10:35.275630",
+    "https://www.microsoft.com/en-us/research/podcast/trailer-the-shape-of-things-to-come/": "2026-03-04T05:10:35.275630",
+    "https://www.sexual-culture.com/p/dont-let-the-gooners-get-you-down": "2026-03-04T05:10:35.275630",
+    "https://www.sexual-culture.com/p/what-does-a-nice-woman-want-from": "2026-03-04T05:10:35.275630",
+    "https://www.sexual-culture.com/p/the-pursuit-of-male-friendship-is": "2026-03-04T05:10:35.275630"
   },
-  "last_run": "2026-03-03T05:16:04.770972"
+  "last_run": "2026-03-04T05:10:35.275630"
 }

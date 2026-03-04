@@ -1,0 +1,82 @@
+{
+  "guid": "2026-03-04",
+  "date": "2026-03-04T05:09:20.335629",
+  "title": "Star System Discovery & AI Advancing Forest Safeguards",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 281.68421052631584,
+  "duration_formatted": "4:41",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-04.mp3",
+    "audio_size_bytes": 6479498,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-04/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-04/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-03-04.txt"
+  },
+  "stories": [
+    {
+      "title": "Performance Data Analysis and Reporting System",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/human-systems-integration-division/performance-data-analysis-and-reporting-system/",
+      "summary": "Performance Data Analysis and Reporting System (PDARS) PDARS Objective The Performance Data Analysis and Reporting System (PDARS) was a joint Federal Aviation Administration (FAA)-NASA effort that was an element of the Aviation Safety Monitoring and Modeling (ASMM) Project to develop the technologies that enabled a system-wide capability to monitor day-to-day operations of the National Airspace […] The post Performance Data Analysis and Reporting System appeared first on NASA Science."
+    },
+    {
+      "title": "Visuomotor Control Laboratory",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/human-systems-integration-division/visuomotor-control-laboratory/",
+      "summary": "Visuomotor Control Laboratory The Visuomotor Control Laboratory at NASA Ames Research Center conducted neuroscience research with the aim of understanding the link between eye movements and brain function. The lab worked to systematically validate the use of oculometrics to quantify visual motion perception (for a review, see Stone, L. S., Beutter, B. R., Eckstein, M. […] The post Visuomotor Control Laboratory appeared first on NASA Science."
+    },
+    {
+      "title": "Author Correction: Healthy forests safeguard traditional wild meat food systems in Amazonia",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10332-x",
+      "summary": "Nature, Published online: 03 March 2026; doi:10.1038/s41586-026-10332-xAuthor Correction: Healthy forests safeguard traditional wild meat food systems in Amazonia"
+    },
+    {
+      "title": "Jam-packed star system is most compact of its kind ever found",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00667-w",
+      "summary": "Nature, Published online: 03 March 2026; doi:10.1038/d41586-026-00667-wAll four Sun-like stars would fit inside the area of Jupiter’s orbit."
+    },
+    {
+      "title": "GPT-5.3 Instant System Card",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/gpt-5-3-instant-system-card",
+      "summary": ""
+    },
+    {
+      "title": "Trailer: The Shape of Things to Come",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/podcast/trailer-the-shape-of-things-to-come/",
+      "summary": "Microsoft research lead Doug Burger introduces his new podcast series, \"The Shape of Things to Come\", an exploration into the fundamental truths about AI and how the technology will reshape the future. The post Trailer: The Shape of Things to Come appeared first on Microsoft Research."
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "Don't Let the Gooners Get You Down",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/dont-let-the-gooners-get-you-down",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "\"What Does a Nice Woman Want from a Man?\"",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/what-does-a-nice-woman-want-from",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "The Pursuit of Male Friendship is Horrifying",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/the-pursuit-of-male-friendship-is",
+      "description": "Critical analysis of sexuality and culture"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-03-04T05:10:35.256579",
+    "llm_model": "gpt-4o",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
