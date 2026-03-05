@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Mar 2026 05:10:35 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 05:15:07 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,90 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Evo 2 Genome Design &amp; Paza&#x27;s Speech Recognition Leap</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Airspace Operations and Safety Program
+   Source: NASA Science
+2. Genome modelling and design across all domains of life with Evo 2
+   Source: Nature News
+3. A metabolic alarmin from keratinocytes potentiates systemic humoral immunity
+   Source: Nature News
+4. Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model
+   Source: Microsoft Research Blog
+5. Paza: Introducing automatic speech recognition benchmarks and models for low resource languages
+   Source: Microsoft Research Blog
+6. Large genome model: Open source AI trained on trillions of bases
+   Source: Ars Technica
+
+REFERENCES:
+
+1. Airspace Operations and Safety Program
+   https://www.nasa.gov/directorates/armd/aosp/
+
+2. Genome modelling and design across all domains of life with Evo 2
+   https://www.nature.com/articles/s41586-026-10176-5
+
+3. A metabolic alarmin from keratinocytes potentiates systemic humoral immunity
+   https://www.nature.com/articles/s41586-026-10167-6
+
+4. Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model
+   https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/
+
+5. Paza: Introducing automatic speech recognition benchmarks and models for low resource languages
+   https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/
+
+6. Large genome model: Open source AI trained on trillions of bases
+   https://arstechnica.com/science/2026/03/large-genome-model-open-source-ai-trained-on-trillions-of-bases/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-05/newspaper.pdf]]></description>
+      <pubDate>Thu, 05 Mar 2026 05:13:50 -0000</pubDate>
+      <guid isPermaLink="false">2026-03-05</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-05.mp3" length="6576673" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Airspace Operations and Safety Program
+   Source: NASA Science
+2. Genome modelling and design across all domains of life with Evo 2
+   Source: Nature News
+3. A metabolic alarmin from keratinocytes potentiates systemic humoral immunity
+   Source: Nature News
+4. Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model
+   Source: Microsoft Research Blog
+5. Paza: Introducing automatic speech recognition benchmarks and models for low resource languages
+   Source: Microsoft Research Blog
+6. Large genome model: Open source AI trained on trillions of bases
+   Source: Ars Technica
+
+REFERENCES:
+
+1. Airspace Operations and Safety Program
+   https://www.nasa.gov/directorates/armd/aosp/
+
+2. Genome modelling and design across all domains of life with Evo 2
+   https://www.nature.com/articles/s41586-026-10176-5
+
+3. A metabolic alarmin from keratinocytes potentiates systemic humoral immunity
+   https://www.nature.com/articles/s41586-026-10167-6
+
+4. Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model
+   https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/
+
+5. Paza: Introducing automatic speech recognition benchmarks and models for low resource languages
+   https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/
+
+6. Large genome model: Open source AI trained on trillions of bases
+   https://arstechnica.com/science/2026/03/large-genome-model-open-source-ai-trained-on-trillions-of-bases/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-05/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:16</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-05/episode-art.png"/>
+    </item>
     <item>
       <title>Star System Discovery &amp; AI Advancing Forest Safeguards</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -3092,114 +3176,6 @@ Articles recommended for further reading
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:02</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-04/episode-art.png"/>
-    </item>
-    <item>
-      <title>Google Breakthroughs &amp; Mind-Reading Tech Unveiled</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Google's year in review: 8 areas with research breakthroughs in 2025
-   Source: DeepMind Blog
-2. Fara-7B: An Efficient Agentic Model for Computer Use
-   Source: Microsoft Research Blog
-3. MMCTAgent: Enabling multimodal reasoning over large video and image collections
-   Source: Microsoft Research Blog
-4. Science finds its song
-   Source: Nature News
-5. OpenAI-backed firm to use ultrasound to read minds. Does the science stand up?
-   Source: Nature News
-6. The crucial first step for designing a successful enterprise AI system
-   Source: MIT Technology Review
-
-REFERENCES:
-
-1. Google's year in review: 8 areas with research breakthroughs in 2025
-   https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/
-
-2. Fara-7B: An Efficient Agentic Model for Computer Use
-   https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/
-
-3. MMCTAgent: Enabling multimodal reasoning over large video and image collections
-   https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/
-
-4. Science finds its song
-   https://www.nature.com/articles/d41586-026-00316-2
-
-5. OpenAI-backed firm to use ultrasound to read minds. Does the science stand up?
-   https://www.nature.com/articles/d41586-026-00329-x
-
-6. The crucial first step for designing a successful enterprise AI system
-   https://www.technologyreview.com/2026/02/02/1131822/the-crucial-first-step-for-designing-a-successful-enterprise-ai-system/
-
-READING LIST:
-Articles recommended for further reading
-
-1. Defining the Anti-Erotic by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/defining-the-anti-erotic
-
-2. Desire Is an Obligation by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/desire-as-an-obligation
-
-3. We're Not Supposed to Be Thinking About Ourselves This Much by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/were-not-supposed-to-be-thinking
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-03/newspaper.pdf]]></description>
-      <pubDate>Tue, 03 Feb 2026 05:16:00 -0000</pubDate>
-      <guid isPermaLink="false">2026-02-03</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-03.mp3" length="7017411" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Google's year in review: 8 areas with research breakthroughs in 2025
-   Source: DeepMind Blog
-2. Fara-7B: An Efficient Agentic Model for Computer Use
-   Source: Microsoft Research Blog
-3. MMCTAgent: Enabling multimodal reasoning over large video and image collections
-   Source: Microsoft Research Blog
-4. Science finds its song
-   Source: Nature News
-5. OpenAI-backed firm to use ultrasound to read minds. Does the science stand up?
-   Source: Nature News
-6. The crucial first step for designing a successful enterprise AI system
-   Source: MIT Technology Review
-
-REFERENCES:
-
-1. Google's year in review: 8 areas with research breakthroughs in 2025
-   https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/
-
-2. Fara-7B: An Efficient Agentic Model for Computer Use
-   https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/
-
-3. MMCTAgent: Enabling multimodal reasoning over large video and image collections
-   https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/
-
-4. Science finds its song
-   https://www.nature.com/articles/d41586-026-00316-2
-
-5. OpenAI-backed firm to use ultrasound to read minds. Does the science stand up?
-   https://www.nature.com/articles/d41586-026-00329-x
-
-6. The crucial first step for designing a successful enterprise AI system
-   https://www.technologyreview.com/2026/02/02/1131822/the-crucial-first-step-for-designing-a-successful-enterprise-ai-system/
-
-READING LIST:
-Articles recommended for further reading
-
-1. Defining the Anti-Erotic by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/defining-the-anti-erotic
-
-2. Desire Is an Obligation by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/desire-as-an-obligation
-
-3. We're Not Supposed to Be Thinking About Ourselves This Much by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/were-not-supposed-to-be-thinking
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-03/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:36</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-03/episode-art.png"/>
     </item>
   </channel>
 </rss>

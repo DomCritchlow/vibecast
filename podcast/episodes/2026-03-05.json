@@ -1,0 +1,60 @@
+{
+  "guid": "2026-03-05",
+  "date": "2026-03-05T05:13:50.751788",
+  "title": "Evo 2 Genome Design & Paza's Speech Recognition Leap",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 256.42105263157896,
+  "duration_formatted": "4:16",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-05.mp3",
+    "audio_size_bytes": 6576673,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-05/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-05/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-03-05.txt"
+  },
+  "stories": [
+    {
+      "title": "Airspace Operations and Safety Program",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/directorates/armd/aosp/",
+      "summary": "Airspace Operations and Safety ProgramHomeAeronautics Research Mission…Airspace Operations and Safety…Airspace Operations and Safety…ProjectsAdvanced Capabilities for Emergency ResponseAir Mobility PathfindersAir Traffic Management—ExplorationSystem-Wide SafetyAboutLeadership and TeamContact NASA Airspace Operations and Safety Program The Airspace Operations and Safety Program (AOSP) transforms the national airspace to meet the variety, density, and complexity of current and future users—keeping our skies safer, smarter, and globally competitive. By digitizing information and [&#8230;] The post Airspace Operations and Safety Program appeared first on NASA Science."
+    },
+    {
+      "title": "Genome modelling and design across all domains of life with Evo 2",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10176-5",
+      "summary": "Nature, Published online: 04 March 2026; doi:10.1038/s41586-026-10176-5Evo 2 is an artificial intelligence-based biological foundation model trained on 9 trillion DNA base pairs spanning all domains of life that predicts functional properties from genomic sequences and provides a rich generative model for researchers in biology."
+    },
+    {
+      "title": "A metabolic alarmin from keratinocytes potentiates systemic humoral immunity",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10167-6",
+      "summary": "Nature, Published online: 04 March 2026; doi:10.1038/s41586-026-10167-6Farnesyl pyrophosphate—a mevalonate pathway metabolic intermediate—is an endogenous alarmin that enhances IgG antibody responses through keratinocyte-derived IL-6 and CCL20."
+    },
+    {
+      "title": "Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/",
+      "summary": "We are pleased to announce Phi-4-reasoning-vision-15B, a 15 billion parameter open‑weight multimodal reasoning model, available through Microsoft Foundry (opens in new tab), HuggingFace (opens in new tab) and GitHub (opens in new tab). Phi-4-reasoning-vision-15B is a broadly capable model that can be used for a wide array of vision-language tasks such as image captioning, asking [&#8230;] The post Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model appeared first on Microsoft Research."
+    },
+    {
+      "title": "Paza: Introducing automatic speech recognition benchmarks and models for low resource languages",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/",
+      "summary": "Microsoft Research unveils Paza, a human-centered speech pipeline, and PazaBench, the first leaderboard for low-resource languages. It covers 39 African languages and 52 models and is tested with communities in real settings. The post Paza: Introducing automatic speech recognition benchmarks and models for low resource languages appeared first on Microsoft Research."
+    },
+    {
+      "title": "Large genome model: Open source AI trained on trillions of bases",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/03/large-genome-model-open-source-ai-trained-on-trillions-of-bases/",
+      "summary": "System can identify genes, regulatory sequences, splice sites, and more."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-03-05T05:15:07.074241",
+    "llm_model": "gpt-4o",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

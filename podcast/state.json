@@ -1,11 +1,5 @@
 {
   "used_urls": [
-    "https://news.ycombinator.com/item?id=47147351",
-    "https://www.technologyreview.com/2026/02/24/1132074/just-pull-a-string-to-turn-these-tile-patterns-into-useful-3d-structures/",
-    "https://www.technologyreview.com/2026/02/24/1132080/a-new-way-to-rejuvenate-the-immune-system/",
-    "https://dapto.ai",
-    "https://www.nature.com/articles/d41586-026-00446-7",
-    "https://www.nature.com/articles/d41586-026-00514-y",
     "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
     "https://www.technologyreview.com/2026/02/24/1132083/a-i-designed-proteins-may-help-spot-cancer/",
     "https://www.nature.com/articles/d41586-026-00620-x",
@@ -67,15 +61,15 @@
     "https://www.microsoft.com/en-us/research/podcast/trailer-the-shape-of-things-to-come/",
     "https://www.sexual-culture.com/p/dont-let-the-gooners-get-you-down",
     "https://www.sexual-culture.com/p/what-does-a-nice-woman-want-from",
-    "https://www.sexual-culture.com/p/the-pursuit-of-male-friendship-is"
+    "https://www.sexual-culture.com/p/the-pursuit-of-male-friendship-is",
+    "https://www.nasa.gov/directorates/armd/aosp/",
+    "https://www.nature.com/articles/s41586-026-10176-5",
+    "https://www.nature.com/articles/s41586-026-10167-6",
+    "https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/",
+    "https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/",
+    "https://arstechnica.com/science/2026/03/large-genome-model-open-source-ai-trained-on-trillions-of-bases/"
   ],
   "url_timestamps": {
-    "https://news.ycombinator.com/item?id=47147351": "2026-02-25T05:25:10.722212",
-    "https://www.technologyreview.com/2026/02/24/1132074/just-pull-a-string-to-turn-these-tile-patterns-into-useful-3d-structures/": "2026-02-25T05:25:10.722212",
-    "https://www.technologyreview.com/2026/02/24/1132080/a-new-way-to-rejuvenate-the-immune-system/": "2026-02-25T05:25:10.722212",
-    "https://dapto.ai": "2026-02-25T05:25:10.722212",
-    "https://www.nature.com/articles/d41586-026-00446-7": "2026-02-25T05:25:10.722212",
-    "https://www.nature.com/articles/d41586-026-00514-y": "2026-02-25T05:25:10.722212",
     "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/": "2026-02-26T05:22:19.667212",
     "https://www.technologyreview.com/2026/02/24/1132083/a-i-designed-proteins-may-help-spot-cancer/": "2026-02-26T05:22:19.667212",
     "https://www.nature.com/articles/d41586-026-00620-x": "2026-02-26T05:22:19.667212",
@@ -137,7 +131,13 @@
     "https://www.microsoft.com/en-us/research/podcast/trailer-the-shape-of-things-to-come/": "2026-03-04T05:10:35.275630",
     "https://www.sexual-culture.com/p/dont-let-the-gooners-get-you-down": "2026-03-04T05:10:35.275630",
     "https://www.sexual-culture.com/p/what-does-a-nice-woman-want-from": "2026-03-04T05:10:35.275630",
-    "https://www.sexual-culture.com/p/the-pursuit-of-male-friendship-is": "2026-03-04T05:10:35.275630"
+    "https://www.sexual-culture.com/p/the-pursuit-of-male-friendship-is": "2026-03-04T05:10:35.275630",
+    "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
+    "https://www.nature.com/articles/s41586-026-10176-5": "2026-03-05T05:15:07.093876",
+    "https://www.nature.com/articles/s41586-026-10167-6": "2026-03-05T05:15:07.093876",
+    "https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/": "2026-03-05T05:15:07.093876",
+    "https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/": "2026-03-05T05:15:07.093876",
+    "https://arstechnica.com/science/2026/03/large-genome-model-open-source-ai-trained-on-trillions-of-bases/": "2026-03-05T05:15:07.093876"
   },
-  "last_run": "2026-03-04T05:10:35.275630"
+  "last_run": "2026-03-05T05:15:07.093876"
 }
