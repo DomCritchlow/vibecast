@@ -1,14 +1,5 @@
 {
   "used_urls": [
-    "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
-    "https://www.technologyreview.com/2026/02/24/1132083/a-i-designed-proteins-may-help-spot-cancer/",
-    "https://www.nature.com/articles/d41586-026-00620-x",
-    "https://www.nature.com/articles/s41586-025-10062-6",
-    "https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/",
-    "https://www.technologyreview.com/2026/02/25/1132873/roundtables-why-2026-is-the-year-for-sodium-ion-batteries/",
-    "https://www.sexual-culture.com/p/defining-the-anti-erotic",
-    "https://www.sexual-culture.com/p/desire-as-an-obligation",
-    "https://www.sexual-culture.com/p/were-not-supposed-to-be-thinking",
     "https://www.microsoft.com/en-us/research/blog/project-silicas-advances-in-glass-storage-technology/",
     "https://www.nasa.gov/reference/sls-space-launch-system-secondary-payloads/",
     "https://www.nature.com/articles/d41586-026-00158-y",
@@ -67,18 +58,18 @@
     "https://www.nature.com/articles/s41586-026-10167-6",
     "https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/",
     "https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/",
-    "https://arstechnica.com/science/2026/03/large-genome-model-open-source-ai-trained-on-trillions-of-bases/"
+    "https://arstechnica.com/science/2026/03/large-genome-model-open-source-ai-trained-on-trillions-of-bases/",
+    "https://www.nature.com/articles/d41586-026-00521-z",
+    "https://openai.com/index/chatgpt-for-excel",
+    "https://www.nasa.gov/directorates/armd/aosp/atms/about-atms/",
+    "https://www.nasa.gov/directorates/armd/aosp/amp/about-aamp/",
+    "https://www.nature.com/articles/d41586-026-00533-9",
+    "https://openai.com/index/gpt-5-4-thinking-system-card",
+    "https://www.sexual-culture.com/p/defining-the-anti-erotic",
+    "https://www.sexual-culture.com/p/desire-as-an-obligation",
+    "https://www.sexual-culture.com/p/were-not-supposed-to-be-thinking"
   ],
   "url_timestamps": {
-    "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/": "2026-02-26T05:22:19.667212",
-    "https://www.technologyreview.com/2026/02/24/1132083/a-i-designed-proteins-may-help-spot-cancer/": "2026-02-26T05:22:19.667212",
-    "https://www.nature.com/articles/d41586-026-00620-x": "2026-02-26T05:22:19.667212",
-    "https://www.nature.com/articles/s41586-025-10062-6": "2026-02-26T05:22:19.667212",
-    "https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/": "2026-02-26T05:22:19.667212",
-    "https://www.technologyreview.com/2026/02/25/1132873/roundtables-why-2026-is-the-year-for-sodium-ion-batteries/": "2026-02-26T05:22:19.667212",
-    "https://www.sexual-culture.com/p/defining-the-anti-erotic": "2026-02-26T05:22:19.667212",
-    "https://www.sexual-culture.com/p/desire-as-an-obligation": "2026-02-26T05:22:19.667212",
-    "https://www.sexual-culture.com/p/were-not-supposed-to-be-thinking": "2026-02-26T05:22:19.667212",
     "https://www.microsoft.com/en-us/research/blog/project-silicas-advances-in-glass-storage-technology/": "2026-02-27T05:17:20.663552",
     "https://www.nasa.gov/reference/sls-space-launch-system-secondary-payloads/": "2026-02-27T05:17:20.663552",
     "https://www.nature.com/articles/d41586-026-00158-y": "2026-02-27T05:17:20.663552",
@@ -137,7 +128,16 @@
     "https://www.nature.com/articles/s41586-026-10167-6": "2026-03-05T05:15:07.093876",
     "https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/": "2026-03-05T05:15:07.093876",
     "https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/": "2026-03-05T05:15:07.093876",
-    "https://arstechnica.com/science/2026/03/large-genome-model-open-source-ai-trained-on-trillions-of-bases/": "2026-03-05T05:15:07.093876"
+    "https://arstechnica.com/science/2026/03/large-genome-model-open-source-ai-trained-on-trillions-of-bases/": "2026-03-05T05:15:07.093876",
+    "https://www.nature.com/articles/d41586-026-00521-z": "2026-03-06T05:11:57.765680",
+    "https://openai.com/index/chatgpt-for-excel": "2026-03-06T05:11:57.765680",
+    "https://www.nasa.gov/directorates/armd/aosp/atms/about-atms/": "2026-03-06T05:11:57.765680",
+    "https://www.nasa.gov/directorates/armd/aosp/amp/about-aamp/": "2026-03-06T05:11:57.765680",
+    "https://www.nature.com/articles/d41586-026-00533-9": "2026-03-06T05:11:57.765680",
+    "https://openai.com/index/gpt-5-4-thinking-system-card": "2026-03-06T05:11:57.765680",
+    "https://www.sexual-culture.com/p/defining-the-anti-erotic": "2026-03-06T05:11:57.765680",
+    "https://www.sexual-culture.com/p/desire-as-an-obligation": "2026-03-06T05:11:57.765680",
+    "https://www.sexual-culture.com/p/were-not-supposed-to-be-thinking": "2026-03-06T05:11:57.765680"
   },
-  "last_run": "2026-03-05T05:15:07.093876"
+  "last_run": "2026-03-06T05:11:57.765680"
 }

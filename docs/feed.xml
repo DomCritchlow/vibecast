@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Mar 2026 05:15:07 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 05:11:57 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,114 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Twins&#x27; DNA Mystery &amp; ChatGPT Enhances Excel</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Identical twins on trial: can DNA testing tell them apart?
+   Source: Nature News
+2. Introducing ChatGPT for Excel and new financial data integrations
+   Source: OpenAI News
+3. About Air Traffic Management and Safety Project
+   Source: NASA Science
+4. About Advanced Air Mobility Pathfinders Project
+   Source: NASA Science
+5. Inside Mexico’s stem-cell industry
+   Source: Nature News
+6. GPT-5.4 Thinking System Card
+   Source: OpenAI News
+
+REFERENCES:
+
+1. Identical twins on trial: can DNA testing tell them apart?
+   https://www.nature.com/articles/d41586-026-00521-z
+
+2. Introducing ChatGPT for Excel and new financial data integrations
+   https://openai.com/index/chatgpt-for-excel
+
+3. About Air Traffic Management and Safety Project
+   https://www.nasa.gov/directorates/armd/aosp/atms/about-atms/
+
+4. About Advanced Air Mobility Pathfinders Project
+   https://www.nasa.gov/directorates/armd/aosp/amp/about-aamp/
+
+5. Inside Mexico’s stem-cell industry
+   https://www.nature.com/articles/d41586-026-00533-9
+
+6. GPT-5.4 Thinking System Card
+   https://openai.com/index/gpt-5-4-thinking-system-card
+
+READING LIST:
+Articles recommended for further reading
+
+1. Defining the Anti-Erotic by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/defining-the-anti-erotic
+
+2. Desire Is an Obligation by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/desire-as-an-obligation
+
+3. We're Not Supposed to Be Thinking About Ourselves This Much by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/were-not-supposed-to-be-thinking
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-06/newspaper.pdf]]></description>
+      <pubDate>Fri, 06 Mar 2026 05:10:52 -0000</pubDate>
+      <guid isPermaLink="false">2026-03-06</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-06.mp3" length="5895148" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Identical twins on trial: can DNA testing tell them apart?
+   Source: Nature News
+2. Introducing ChatGPT for Excel and new financial data integrations
+   Source: OpenAI News
+3. About Air Traffic Management and Safety Project
+   Source: NASA Science
+4. About Advanced Air Mobility Pathfinders Project
+   Source: NASA Science
+5. Inside Mexico’s stem-cell industry
+   Source: Nature News
+6. GPT-5.4 Thinking System Card
+   Source: OpenAI News
+
+REFERENCES:
+
+1. Identical twins on trial: can DNA testing tell them apart?
+   https://www.nature.com/articles/d41586-026-00521-z
+
+2. Introducing ChatGPT for Excel and new financial data integrations
+   https://openai.com/index/chatgpt-for-excel
+
+3. About Air Traffic Management and Safety Project
+   https://www.nasa.gov/directorates/armd/aosp/atms/about-atms/
+
+4. About Advanced Air Mobility Pathfinders Project
+   https://www.nasa.gov/directorates/armd/aosp/amp/about-aamp/
+
+5. Inside Mexico’s stem-cell industry
+   https://www.nature.com/articles/d41586-026-00533-9
+
+6. GPT-5.4 Thinking System Card
+   https://openai.com/index/gpt-5-4-thinking-system-card
+
+READING LIST:
+Articles recommended for further reading
+
+1. Defining the Anti-Erotic by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/defining-the-anti-erotic
+
+2. Desire Is an Obligation by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/desire-as-an-obligation
+
+3. We're Not Supposed to Be Thinking About Ourselves This Much by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/were-not-supposed-to-be-thinking
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-06/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3:44</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-06/episode-art.png"/>
+    </item>
     <item>
       <title>Evo 2 Genome Design &amp; Paza&#x27;s Speech Recognition Leap</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -3068,114 +3176,6 @@ Articles recommended for further reading
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:18</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-05/episode-art.png"/>
-    </item>
-    <item>
-      <title>AI Ecosystem&#x27;s Future &amp; Borderlands 4 Update</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Amendment 44: Final Text for B.2 Heliophysics Foundational Research
-   Source: NASA Science
-2. UniRG: Scaling medical imaging report generation with multimodal reinforcement learning
-   Source: Microsoft Research Blog
-3. The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+
-   Source: Hugging Face Blog
-4. Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek
-   Source: Hugging Face Blog
-5. Borderlands 4 for Switch 2 is on ‘pause’
-   Source: The Verge
-6. An ‘Intimacy Crisis’ Is Driving the Dating Divide
-   Source: Wired
-
-REFERENCES:
-
-1. Amendment 44: Final Text for B.2 Heliophysics Foundational Research
-   https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-44-final-text-for-b-2-heliophysics-foundational-research/
-
-2. UniRG: Scaling medical imaging report generation with multimodal reinforcement learning
-   https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/
-
-3. The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+
-   https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3
-
-4. Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek
-   https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2
-
-5. Borderlands 4 for Switch 2 is on ‘pause’
-   https://www.theverge.com/games/873409/borderlands-4-nintendo-switch-2-development-pause
-
-6. An ‘Intimacy Crisis’ Is Driving the Dating Divide
-   https://www.wired.com/story/justin-garcia-the-intimate-animal-sex-and-relationships/
-
-READING LIST:
-Articles recommended for further reading
-
-1. Is Avoiding Embarrassment the Only Goal? by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/is-avoiding-embarrassment-the-only
-
-2. What Is "Cuffing Season" Asking of You? by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/what-is-cuffing-season-asking-of
-
-3. The Disney-Adultification of Halloween by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/the-disney-adultification-of-halloween
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-04/newspaper.pdf]]></description>
-      <pubDate>Wed, 04 Feb 2026 05:10:37 -0000</pubDate>
-      <guid isPermaLink="false">2026-02-04</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-04.mp3" length="5673212" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Amendment 44: Final Text for B.2 Heliophysics Foundational Research
-   Source: NASA Science
-2. UniRG: Scaling medical imaging report generation with multimodal reinforcement learning
-   Source: Microsoft Research Blog
-3. The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+
-   Source: Hugging Face Blog
-4. Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek
-   Source: Hugging Face Blog
-5. Borderlands 4 for Switch 2 is on ‘pause’
-   Source: The Verge
-6. An ‘Intimacy Crisis’ Is Driving the Dating Divide
-   Source: Wired
-
-REFERENCES:
-
-1. Amendment 44: Final Text for B.2 Heliophysics Foundational Research
-   https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-44-final-text-for-b-2-heliophysics-foundational-research/
-
-2. UniRG: Scaling medical imaging report generation with multimodal reinforcement learning
-   https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/
-
-3. The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+
-   https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3
-
-4. Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek
-   https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2
-
-5. Borderlands 4 for Switch 2 is on ‘pause’
-   https://www.theverge.com/games/873409/borderlands-4-nintendo-switch-2-development-pause
-
-6. An ‘Intimacy Crisis’ Is Driving the Dating Divide
-   https://www.wired.com/story/justin-garcia-the-intimate-animal-sex-and-relationships/
-
-READING LIST:
-Articles recommended for further reading
-
-1. Is Avoiding Embarrassment the Only Goal? by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/is-avoiding-embarrassment-the-only
-
-2. What Is "Cuffing Season" Asking of You? by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/what-is-cuffing-season-asking-of
-
-3. The Disney-Adultification of Halloween by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/the-disney-adultification-of-halloween
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-04/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:02</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-04/episode-art.png"/>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,82 @@
+{
+  "guid": "2026-03-06",
+  "date": "2026-03-06T05:10:52.862606",
+  "title": "Twins' DNA Mystery & ChatGPT Enhances Excel",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 224.42105263157896,
+  "duration_formatted": "3:44",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-06.mp3",
+    "audio_size_bytes": 5895148,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-06/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-06/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-03-06.txt"
+  },
+  "stories": [
+    {
+      "title": "Identical twins on trial: can DNA testing tell them apart?",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00521-z",
+      "summary": "Nature, Published online: 05 March 2026; doi:10.1038/d41586-026-00521-zIn a French criminal trial, conventional DNA analysis couldn’t distinguish between twin brothers, but emerging scientific methods could help in such cases."
+    },
+    {
+      "title": "Introducing ChatGPT for Excel and new financial data integrations",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/chatgpt-for-excel",
+      "summary": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments."
+    },
+    {
+      "title": "About Air Traffic Management and Safety Project",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/directorates/armd/aosp/atms/about-atms/",
+      "summary": "The Air Traffic Management and Safety (ATMS) project defines, validates, and transfers advanced requirements and technologies to shift air traffic management from tactical to strategic. This change enables efficient, productive, and resilient operations while reducing safety assurance and compliance costs for highly automated systems. ATMS researches and develops technologies that safely integrate new air vehicles with traditional aviation operations to meet growing demand. Through close collaboration with the FAA, ATMS delivers actionable automation solutions, advanced operational concepts, […] The post About Air Traffic Management and Safety Project appeared first on NASA Science."
+    },
+    {
+      "title": "About Advanced Air Mobility Pathfinders Project",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/directorates/armd/aosp/amp/about-aamp/",
+      "summary": "The Advanced Air Mobility Pathfinders (AAMP) project accelerates advanced air mobility technologies for wildfire response and urban transportation through real-world demonstrations and strategic partnerships. AAMP researches emerging technologies, establishes aircraft strategic deconfliction frameworks, and validates solutions in metropolitan areas to enable larger-scale urban air mobility. The project enhances Unmanned Aircraft Systems capabilities for wildfire mitigation and disaster response by transferring Portable Airspace Management System technologies to enable routine, safe, […] The post About Advanced Air Mobility Pathfinders Project appeared first on NASA Science."
+    },
+    {
+      "title": "Inside Mexico’s stem-cell industry",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00533-9",
+      "summary": "Nature, Published online: 05 March 2026; doi:10.1038/d41586-026-00533-9Researchers in the country are calling for stronger regulation of treatments that many people make long journeys to receive."
+    },
+    {
+      "title": "GPT-5.4 Thinking System Card",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
+      "summary": ""
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "Defining the Anti-Erotic",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/defining-the-anti-erotic",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "Desire Is an Obligation",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/desire-as-an-obligation",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "We're Not Supposed to Be Thinking About Ourselves This Much",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/were-not-supposed-to-be-thinking",
+      "description": "Critical analysis of sexuality and culture"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-03-06T05:11:57.746933",
+    "llm_model": "gpt-4o",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
