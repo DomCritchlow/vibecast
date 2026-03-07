@@ -1,0 +1,82 @@
+{
+  "guid": "2026-03-07",
+  "date": "2026-03-07T05:01:14.364545",
+  "title": "AI in Investing & Glass Storage Innovation",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 281.2631578947369,
+  "duration_formatted": "4:41",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-07.mp3",
+    "audio_size_bytes": 6954090,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-07/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-07/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-03-07.txt"
+  },
+  "stories": [
+    {
+      "title": "How Balyasny Asset Management built an AI research engine for investing",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/balyasny-asset-management",
+      "summary": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale."
+    },
+    {
+      "title": "Project Silica’s advances in glass storage technology",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/project-silicas-advances-in-glass-storage-technology/",
+      "summary": "Project Silica introduces new techniques for encoding data in borosilicate glass, as described in the journal Nature. These advances lower media cost and simplify writing and reading systems while supporting 10,000-year data preservation. The post Project Silica’s advances in glass storage technology appeared first on Microsoft Research."
+    },
+    {
+      "title": "Should AI web agents skip sponsored/ad results by default?",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://news.ycombinator.com/item?id=47284593",
+      "summary": "AI agents are increasingly performing automated web research — browsing pages, following links, and sometimes clicking results as part of information gathering.There's a small but potentially significant side effect: these systems can end up clicking paid advertisements.Most online advertising runs on a pay-per-click (PPC) model. When a human clicks an ad, there's at least some level of commercial intent. When an AI agent clicks an ad during automated research, there's zero purchase intent — but the advertiser may still be charged.At the individual level this is negligible. But AI agents are beginning to operate at scale — millions of automated queries. The cumulative effect on advertisers, particularly small businesses with tight budgets, could become meaningful.This raises a few questions:1. Should AI agents avoid clicking sponsored/promoted results by default? 2. Should browsers and agent frameworks detect labels like \"Sponsored,\" \"Promoted,\" or \"Ad\" and skip those results unless..."
+    },
+    {
+      "title": "Show HN: SurvivalIndex – which developer tools do AI agents choose?",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://survivalindex.org/",
+      "summary": "We've been running coding agents against standardized repos with natural-language prompts — no tool names, no hints — and measuring what they actually choose.Early finding: Claude Code picks Custom/DIY in 12 of 20 categories. Not because it can't use the tools (BFCL scores suggest it can) but because it doesn't reach for them. That's a different failure mode than capability benchmarks measure.We score each tool on: agent visibility, pick rate vs Custom/DIY, cross-context breadth, expert human ratings, and implementation success rate. Tools above survival=1 persist. Below it, agents synthesize around them.Methodology is at survivalindex.org/methodology. Very curious what people think of the measurement approach, especially the human coefficient variable. Comments URL: https://news.ycombinator.com/item?id=47284175 Points: 1 # Comments: 1"
+    },
+    {
+      "title": "ARMD Research Solicitations (Updated March 6)",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/aeronautics/armd-solicitations/",
+      "summary": "THIS PAGE WAS UPDATED ON MARCH 6, 2026 This Aeronautics Research Mission Directorate (ARMD) solicitations page compiles the opportunities to collaborate with NASA’s aeronautical innovators and/or contribute to their research to enable new and improved air transportation systems. Most opportunities to participate in research are officially announced through the Web-based NASA Solicitation and Proposal Integrated […] The post ARMD Research Solicitations (Updated March 6) appeared first on NASA Science."
+    },
+    {
+      "title": "Celebrate women in research and the networks that sustain them",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00761-z",
+      "summary": "Nature, Published online: 06 March 2026; doi:10.1038/d41586-026-00761-zOn International Women’s Day, we celebrate technology pioneers and recognize the mentorship that is necessary to inspire the current generation and those of the future."
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "The Most Beautiful Corpse on the Livestream",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/clavicular-and-the-nihilism-of-looksmaxxing",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "Selling the Sex Recession",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/selling-the-sex-recession",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "Is Avoiding Embarrassment the Only Goal?",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/is-avoiding-embarrassment-the-only",
+      "description": "Critical analysis of sexuality and culture"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-03-07T05:03:06.973245",
+    "llm_model": "gpt-4o",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

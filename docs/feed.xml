@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Mar 2026 05:11:57 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 05:03:06 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,114 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>AI in Investing &amp; Glass Storage Innovation</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. How Balyasny Asset Management built an AI research engine for investing
+   Source: OpenAI News
+2. Project Silica’s advances in glass storage technology
+   Source: Microsoft Research Blog
+3. Should AI web agents skip sponsored/ad results by default?
+   Source: Hacker News (AI filtered)
+4. Show HN: SurvivalIndex – which developer tools do AI agents choose?
+   Source: Hacker News (AI filtered)
+5. ARMD Research Solicitations (Updated March 6)
+   Source: NASA Science
+6. Celebrate women in research and the networks that sustain them
+   Source: Nature News
+
+REFERENCES:
+
+1. How Balyasny Asset Management built an AI research engine for investing
+   https://openai.com/index/balyasny-asset-management
+
+2. Project Silica’s advances in glass storage technology
+   https://www.microsoft.com/en-us/research/blog/project-silicas-advances-in-glass-storage-technology/
+
+3. Should AI web agents skip sponsored/ad results by default?
+   https://news.ycombinator.com/item?id=47284593
+
+4. Show HN: SurvivalIndex – which developer tools do AI agents choose?
+   https://survivalindex.org/
+
+5. ARMD Research Solicitations (Updated March 6)
+   https://www.nasa.gov/aeronautics/armd-solicitations/
+
+6. Celebrate women in research and the networks that sustain them
+   https://www.nature.com/articles/d41586-026-00761-z
+
+READING LIST:
+Articles recommended for further reading
+
+1. The Most Beautiful Corpse on the Livestream by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/clavicular-and-the-nihilism-of-looksmaxxing
+
+2. Selling the Sex Recession by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/selling-the-sex-recession
+
+3. Is Avoiding Embarrassment the Only Goal? by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/is-avoiding-embarrassment-the-only
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-07/newspaper.pdf]]></description>
+      <pubDate>Sat, 07 Mar 2026 05:01:14 -0000</pubDate>
+      <guid isPermaLink="false">2026-03-07</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-07.mp3" length="6954090" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. How Balyasny Asset Management built an AI research engine for investing
+   Source: OpenAI News
+2. Project Silica’s advances in glass storage technology
+   Source: Microsoft Research Blog
+3. Should AI web agents skip sponsored/ad results by default?
+   Source: Hacker News (AI filtered)
+4. Show HN: SurvivalIndex – which developer tools do AI agents choose?
+   Source: Hacker News (AI filtered)
+5. ARMD Research Solicitations (Updated March 6)
+   Source: NASA Science
+6. Celebrate women in research and the networks that sustain them
+   Source: Nature News
+
+REFERENCES:
+
+1. How Balyasny Asset Management built an AI research engine for investing
+   https://openai.com/index/balyasny-asset-management
+
+2. Project Silica’s advances in glass storage technology
+   https://www.microsoft.com/en-us/research/blog/project-silicas-advances-in-glass-storage-technology/
+
+3. Should AI web agents skip sponsored/ad results by default?
+   https://news.ycombinator.com/item?id=47284593
+
+4. Show HN: SurvivalIndex – which developer tools do AI agents choose?
+   https://survivalindex.org/
+
+5. ARMD Research Solicitations (Updated March 6)
+   https://www.nasa.gov/aeronautics/armd-solicitations/
+
+6. Celebrate women in research and the networks that sustain them
+   https://www.nature.com/articles/d41586-026-00761-z
+
+READING LIST:
+Articles recommended for further reading
+
+1. The Most Beautiful Corpse on the Livestream by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/clavicular-and-the-nihilism-of-looksmaxxing
+
+2. Selling the Sex Recession by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/selling-the-sex-recession
+
+3. Is Avoiding Embarrassment the Only Goal? by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/is-avoiding-embarrassment-the-only
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-07/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:41</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-07/episode-art.png"/>
+    </item>
     <item>
       <title>Twins&#x27; DNA Mystery &amp; ChatGPT Enhances Excel</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -3068,114 +3176,6 @@ Articles recommended for further reading
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:24</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-06/episode-art.png"/>
-    </item>
-    <item>
-      <title>NASA&#x27;s New Era &amp; AI in Soccer: A Game Changer</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. NASA, University of Texas Expand Research and Workforce Development
-   Source: NASA Science
-2. These mysterious ridges could help skin regenerate
-   Source: Nature News
-3. Atmospheric H<sub>2</sub> variability over the past 1,100 years
-   Source: Nature News
-4. VfL Wolfsburg turns ChatGPT into a club-wide capability
-   Source: OpenAI News
-5. EMEA Youth & Wellbeing Grant
-   Source: OpenAI News
-6. Deepening our partnership with the UK AI Security Institute
-   Source: DeepMind Blog
-
-REFERENCES:
-
-1. NASA, University of Texas Expand Research and Workforce Development
-   https://www.nasa.gov/centers-and-facilities/johnson/nasa-university-of-texas-expand-research-and-workforce-development/
-
-2. These mysterious ridges could help skin regenerate
-   https://www.nature.com/articles/d41586-026-00363-9
-
-3. Atmospheric H<sub>2</sub> variability over the past 1,100 years
-   https://www.nature.com/articles/s41586-026-10099-1
-
-4. VfL Wolfsburg turns ChatGPT into a club-wide capability
-   https://openai.com/index/vfl-wolfsburg
-
-5. EMEA Youth & Wellbeing Grant
-   https://openai.com/index/emea-youth-and-wellbeing-grant
-
-6. Deepening our partnership with the UK AI Security Institute
-   https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/
-
-READING LIST:
-Articles recommended for further reading
-
-1. You're Already a Sexual Cyborg by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/youre-already-a-sexual-cyborg
-
-2. We Have to Try to Be Nice to Each Other by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/we-have-to-try-to-be-nice-to-each
-
-3. Filling in the Dating Gaps by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/filling-in-the-dating-gaps
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-05/newspaper.pdf]]></description>
-      <pubDate>Thu, 05 Feb 2026 05:18:01 -0000</pubDate>
-      <guid isPermaLink="false">2026-02-05</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-05.mp3" length="6198586" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. NASA, University of Texas Expand Research and Workforce Development
-   Source: NASA Science
-2. These mysterious ridges could help skin regenerate
-   Source: Nature News
-3. Atmospheric H<sub>2</sub> variability over the past 1,100 years
-   Source: Nature News
-4. VfL Wolfsburg turns ChatGPT into a club-wide capability
-   Source: OpenAI News
-5. EMEA Youth & Wellbeing Grant
-   Source: OpenAI News
-6. Deepening our partnership with the UK AI Security Institute
-   Source: DeepMind Blog
-
-REFERENCES:
-
-1. NASA, University of Texas Expand Research and Workforce Development
-   https://www.nasa.gov/centers-and-facilities/johnson/nasa-university-of-texas-expand-research-and-workforce-development/
-
-2. These mysterious ridges could help skin regenerate
-   https://www.nature.com/articles/d41586-026-00363-9
-
-3. Atmospheric H<sub>2</sub> variability over the past 1,100 years
-   https://www.nature.com/articles/s41586-026-10099-1
-
-4. VfL Wolfsburg turns ChatGPT into a club-wide capability
-   https://openai.com/index/vfl-wolfsburg
-
-5. EMEA Youth & Wellbeing Grant
-   https://openai.com/index/emea-youth-and-wellbeing-grant
-
-6. Deepening our partnership with the UK AI Security Institute
-   https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/
-
-READING LIST:
-Articles recommended for further reading
-
-1. You're Already a Sexual Cyborg by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/youre-already-a-sexual-cyborg
-
-2. We Have to Try to Be Nice to Each Other by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/we-have-to-try-to-be-nice-to-each
-
-3. Filling in the Dating Gaps by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/filling-in-the-dating-gaps
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-05/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:18</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-05/episode-art.png"/>
     </item>
   </channel>
 </rss>
