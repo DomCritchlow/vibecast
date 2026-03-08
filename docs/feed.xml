@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Mar 2026 05:03:06 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 05:11:41 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,114 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>AI in Education &amp; Women’s Health Unveiled</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Uncharted: Understanding women’s health across the body
+   Source: Nature News
+2. Codex Security: now in research preview
+   Source: OpenAI News
+3. Ensuring AI use in education leads to opportunity
+   Source: OpenAI News
+4. CORPGEN advances AI agents for real work
+   Source: Microsoft Research Blog
+5. UniRG: Scaling medical imaging report generation with multimodal reinforcement learning
+   Source: Microsoft Research Blog
+6. How much wildfire prevention is too much?
+   Source: MIT Technology Review
+
+REFERENCES:
+
+1. Uncharted: Understanding women’s health across the body
+   https://www.nature.com/articles/d41586-026-00526-8
+
+2. Codex Security: now in research preview
+   https://openai.com/index/codex-security-now-in-research-preview
+
+3. Ensuring AI use in education leads to opportunity
+   https://openai.com/index/ai-education-opportunity
+
+4. CORPGEN advances AI agents for real work
+   https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/
+
+5. UniRG: Scaling medical imaging report generation with multimodal reinforcement learning
+   https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/
+
+6. How much wildfire prevention is too much?
+   https://www.technologyreview.com/2026/03/05/1133960/wildfire-prevention-limits/
+
+READING LIST:
+Articles recommended for further reading
+
+1. What Is "Cuffing Season" Asking of You? by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/what-is-cuffing-season-asking-of
+
+2. The Disney-Adultification of Halloween by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/the-disney-adultification-of-halloween
+
+3. You're Already a Sexual Cyborg by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/youre-already-a-sexual-cyborg
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-08/newspaper.pdf]]></description>
+      <pubDate>Sun, 08 Mar 2026 05:10:35 -0000</pubDate>
+      <guid isPermaLink="false">2026-03-08</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-08.mp3" length="6818044" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Uncharted: Understanding women’s health across the body
+   Source: Nature News
+2. Codex Security: now in research preview
+   Source: OpenAI News
+3. Ensuring AI use in education leads to opportunity
+   Source: OpenAI News
+4. CORPGEN advances AI agents for real work
+   Source: Microsoft Research Blog
+5. UniRG: Scaling medical imaging report generation with multimodal reinforcement learning
+   Source: Microsoft Research Blog
+6. How much wildfire prevention is too much?
+   Source: MIT Technology Review
+
+REFERENCES:
+
+1. Uncharted: Understanding women’s health across the body
+   https://www.nature.com/articles/d41586-026-00526-8
+
+2. Codex Security: now in research preview
+   https://openai.com/index/codex-security-now-in-research-preview
+
+3. Ensuring AI use in education leads to opportunity
+   https://openai.com/index/ai-education-opportunity
+
+4. CORPGEN advances AI agents for real work
+   https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/
+
+5. UniRG: Scaling medical imaging report generation with multimodal reinforcement learning
+   https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/
+
+6. How much wildfire prevention is too much?
+   https://www.technologyreview.com/2026/03/05/1133960/wildfire-prevention-limits/
+
+READING LIST:
+Articles recommended for further reading
+
+1. What Is "Cuffing Season" Asking of You? by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/what-is-cuffing-season-asking-of
+
+2. The Disney-Adultification of Halloween by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/the-disney-adultification-of-halloween
+
+3. You're Already a Sexual Cyborg by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/youre-already-a-sexual-cyborg
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-08/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:42</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-08/episode-art.png"/>
+    </item>
     <item>
       <title>AI in Investing &amp; Glass Storage Innovation</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -3068,114 +3176,6 @@ Articles recommended for further reading
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>3:52</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-07/episode-art.png"/>
-    </item>
-    <item>
-      <title>Meta&#x27;s Social Shift &amp; UK Science Funding Chaos</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Zuckerberg considered changing how Meta studies social issues after research got it in trouble
-   Source: The Verge
-2. Is UK science in jeopardy? Huge funding reforms spark chaos and anxiety
-   Source: Nature News
-3. GPT-5.3-Codex System Card
-   Source: OpenAI News
-4. Project Genie: Experimenting with infinite, interactive worlds
-   Source: DeepMind Blog
-5. D4RT: Teaching AI to see the world in four dimensions
-   Source: DeepMind Blog
-6. Rethinking imitation learning with Predictive Inverse Dynamics Models
-   Source: Microsoft Research Blog
-
-REFERENCES:
-
-1. Zuckerberg considered changing how Meta studies social issues after research got it in trouble
-   https://www.theverge.com/report/874176/meta-zuckerberg-new-mexico-email-teen-girls-research
-
-2. Is UK science in jeopardy? Huge funding reforms spark chaos and anxiety
-   https://www.nature.com/articles/d41586-026-00346-w
-
-3. GPT-5.3-Codex System Card
-   https://openai.com/index/gpt-5-3-codex-system-card
-
-4. Project Genie: Experimenting with infinite, interactive worlds
-   https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/
-
-5. D4RT: Teaching AI to see the world in four dimensions
-   https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/
-
-6. Rethinking imitation learning with Predictive Inverse Dynamics Models
-   https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models/
-
-READING LIST:
-Articles recommended for further reading
-
-1. The Last Chopper Out of Nam by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/the-last-chopper-out-of-nam
-
-2. The Moral Panic In Your Hands by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/the-moral-panic-in-your-hands
-
-3. Who Is Allowed to "Perform" Gender and Identity? by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/who-is-allowed-to-perform-gender
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-06/newspaper.pdf]]></description>
-      <pubDate>Fri, 06 Feb 2026 05:16:28 -0000</pubDate>
-      <guid isPermaLink="false">2026-02-06</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-06.mp3" length="6631801" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Zuckerberg considered changing how Meta studies social issues after research got it in trouble
-   Source: The Verge
-2. Is UK science in jeopardy? Huge funding reforms spark chaos and anxiety
-   Source: Nature News
-3. GPT-5.3-Codex System Card
-   Source: OpenAI News
-4. Project Genie: Experimenting with infinite, interactive worlds
-   Source: DeepMind Blog
-5. D4RT: Teaching AI to see the world in four dimensions
-   Source: DeepMind Blog
-6. Rethinking imitation learning with Predictive Inverse Dynamics Models
-   Source: Microsoft Research Blog
-
-REFERENCES:
-
-1. Zuckerberg considered changing how Meta studies social issues after research got it in trouble
-   https://www.theverge.com/report/874176/meta-zuckerberg-new-mexico-email-teen-girls-research
-
-2. Is UK science in jeopardy? Huge funding reforms spark chaos and anxiety
-   https://www.nature.com/articles/d41586-026-00346-w
-
-3. GPT-5.3-Codex System Card
-   https://openai.com/index/gpt-5-3-codex-system-card
-
-4. Project Genie: Experimenting with infinite, interactive worlds
-   https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/
-
-5. D4RT: Teaching AI to see the world in four dimensions
-   https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/
-
-6. Rethinking imitation learning with Predictive Inverse Dynamics Models
-   https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models/
-
-READING LIST:
-Articles recommended for further reading
-
-1. The Last Chopper Out of Nam by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/the-last-chopper-out-of-nam
-
-2. The Moral Panic In Your Hands by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/the-moral-panic-in-your-hands
-
-3. Who Is Allowed to "Perform" Gender and Identity? by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/who-is-allowed-to-perform-gender
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-06/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:24</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-06/episode-art.png"/>
     </item>
   </channel>
 </rss>
