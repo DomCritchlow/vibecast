@@ -1,0 +1,82 @@
+{
+  "guid": "2026-03-09",
+  "date": "2026-03-09T05:20:20.484129",
+  "title": "Gemini AI Breakthroughs & Global Cybersecurity Threats",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 279.15789473684214,
+  "duration_formatted": "4:39",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-09.mp3",
+    "audio_size_bytes": 6458809,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-09/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-09/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-03-09.txt"
+  },
+  "stories": [
+    {
+      "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
+      "summary": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges."
+    },
+    {
+      "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
+      "summary": "Research papers point to the growing impact of Deep Think across fields"
+    },
+    {
+      "title": "Multimodal reinforcement learning with agentic verifier for AI agents",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/",
+      "summary": "Argos improves multimodal RL by evaluating whether an agent’s reasoning aligns with what it observes over time. The approach reduces visual hallucinations and produces more reliable, data-efficient agents for real-world applications. The post Multimodal reinforcement learning with agentic verifier for AI agents appeared first on Microsoft Research."
+    },
+    {
+      "title": "From Iran to Ukraine, everyone's trying to hack security cameras",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/03/from-iran-to-ukraine-everyones-trying-to-hack-security-cameras/",
+      "summary": "Research shows apparent Iranian state hackers trying to hijack consumer-grade cameras."
+    },
+    {
+      "title": "India’s tech sovereignty is built on digital dependence",
+      "source": "Rest of World",
+      "url": "https://restofworld.org/2026/dwaipayan-banerjee-india-technology-book/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "summary": "In his new book, “Computing in the Age of Decolonization: India’s Lost Technological Revolution,” researcher Dwaipayan Banerjee argues that a focus on technical solutions has made the country dependent on big tech firms and failed to solve fundamental social problems."
+    },
+    {
+      "title": "Agent Operating System",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://github.com/iii-hq/agentos",
+      "summary": "Article URL: https://github.com/iii-hq/agentos Comments URL: https://news.ycombinator.com/item?id=47304963 Points: 1 # Comments: 0"
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "We Have to Try to Be Nice to Each Other",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/we-have-to-try-to-be-nice-to-each",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "Filling in the Dating Gaps",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/filling-in-the-dating-gaps",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "The Last Chopper Out of Nam",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/the-last-chopper-out-of-nam",
+      "description": "Critical analysis of sexuality and culture"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-03-09T05:21:32.272206",
+    "llm_model": "gpt-4o",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
