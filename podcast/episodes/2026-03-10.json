@@ -1,0 +1,82 @@
+{
+  "guid": "2026-03-10",
+  "date": "2026-03-10T05:11:38.779923",
+  "title": "OpenAI Acquires Promptfoo & Bluesky CEO Steps Down",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 260.63157894736844,
+  "duration_formatted": "4:20",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-10.mp3",
+    "audio_size_bytes": 6414253,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-10/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-10/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-03-10.txt"
+  },
+  "stories": [
+    {
+      "title": "Carmen Roberts",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/people/carmen-roberts/",
+      "summary": "Affiliation– NASA Ames Research Center Division– Human Systems Integration Division (TH) Phone– 650-604-3236 Email– carmen.t.roberts@nasa.gov The post Carmen Roberts appeared first on NASA Science."
+    },
+    {
+      "title": "Integrated Aviation Systems Program",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/directorates/armd/iasp/",
+      "summary": "Integrated Aviation Systems Program NASA’s Integrated Aviation Systems Program conducts research and demonstrations of advanced technologies that contribute to faster and more efficient air travel. Learn More About IASP about Integrated Aviation Systems Program PROGRAM DIRECTOR Acting Kate McMurtry Deputy program director Christopher Williams Latest IASP Program News More IASP News Article1 Min ReadAbout Subsonic [&#8230;] The post Integrated Aviation Systems Program appeared first on NASA Science."
+    },
+    {
+      "title": "How Congress can restore the independence of US science",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00703-9",
+      "summary": "Nature, Published online: 09 March 2026; doi:10.1038/d41586-026-00703-9Members must go beyond reinstating US government research spending and re-establish decentralized governance at the National Institutes of Health and other agencies."
+    },
+    {
+      "title": "OpenAI to acquire Promptfoo",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/openai-to-acquire-promptfoo",
+      "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development."
+    },
+    {
+      "title": "Bluesky CEO Jay Graber will step aside",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/891562/bluesky-new-ceo",
+      "summary": "Jay Graber became the first CEO of Bluesky in 2021 when the network and its AT Protocol spun out from life as a Twitter research project to go independent, but now she's leaving that role, as reported previously by Wired. While venture capitalist and former Automattic CEO Toni Schneider steps in as interim CEO until [&#8230;]"
+    },
+    {
+      "title": "OpenAI and Google Workers File Amicus Brief in Support of Anthropic Against the US Government",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/openai-deepmind-employees-file-amicus-brief-anthropic-dod-lawsuit/",
+      "summary": "Google DeepMind chief scientist Jeff Dean is among the AI researchers and engineers rushing to Anthropic's defense."
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "The Moral Panic In Your Hands",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/the-moral-panic-in-your-hands",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "Who Is Allowed to \"Perform\" Gender and Identity?",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/who-is-allowed-to-perform-gender",
+      "description": "Critical analysis of sexuality and culture"
+    },
+    {
+      "title": "Gender Relations Have Made Dating a Hostile Act",
+      "author": "Magdalene J. Taylor",
+      "source": "Many Such Cases",
+      "url": "https://www.sexual-culture.com/p/gender-relations-have-made-dating",
+      "description": "Critical analysis of sexuality and culture"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-03-10T05:12:48.143862",
+    "llm_model": "gpt-4o",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
