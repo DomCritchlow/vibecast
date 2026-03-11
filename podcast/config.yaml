@@ -31,7 +31,7 @@ vibe:
     energy: "engaged-but-chill"
   
   voice_persona:
-    name: "Riso"
+    name: "Bento"
     personality:
       - "genuinely curious about how things work"
       - "explains why things matter, not just what happened"
@@ -39,13 +39,13 @@ vibe:
       - "finds signal in the noise"
       - "makes you smarter without trying too hard"
     greetings:
-      - "Hey, it's Rizo. Here's what caught my attention today."
-      - "Morning. Rizo here with some things you might actually care about."
-      - "Good morning, it's Rizo. Let's talk about what's interesting today."
+      - "Hey, it's Bento. Here's what caught my attention today."
+      - "Morning. Bento here with some things you might actually care about."
+      - "Good morning, it's Bento. Let's talk about what's interesting today."
     closings:
-      - "That's the thread for today. Rizo out. Go make something happen."
-      - "Alright, that's what I'm following. Rizo signing off. See you tomorrow."
-      - "That's it for today. This is Rizo. Catch you next time."
+      - "That's the thread for today. Bento out. Go make something happen."
+      - "Alright, that's what I'm following. Bento signing off. See you tomorrow."
+      - "That's it for today. This is Bento. Catch you next time."
   
   avoid:
     emotions: ["fear", "outrage", "panic", "doom"]
@@ -86,11 +86,8 @@ episode:
     - segment: "weather"
       duration: "~30 seconds"
     - segment: "stories"
-      duration: "~2.5 minutes"
-      count: "4-6"
-    - segment: "reading_list"
-      duration: "~30-45 seconds"
-      description: "Compelling descriptions of long-form articles worth reading"
+      duration: "~3 minutes"
+      count: "5-7"
     - segment: "closing"
       duration: "~30 seconds"
   
@@ -307,7 +304,7 @@ sources:
   # These get a compelling 30-45 second segment describing what they're about
   # ===========================================================================
   reading_list:
-    max_items: 3  # Maximum articles to recommend per episode
+    max_items: 0  # Disabled - re-enable when reading list variety improves
     
     sources:
       # Tech & Systems
@@ -420,9 +417,8 @@ artwork:
 # CONTENT FILTERING
 # =============================================================================
 filters:
-  global_max_items: 6
+  global_max_items: 7
   max_per_source: 2
-  dedupe_days: 7
   
   block_keywords:
     - "shooting"
@@ -517,9 +513,7 @@ tts:
     format: "mp3"             # Options: mp3, opus, aac, flac, wav, pcm
     
     # Instructions (optional) - Only works with gpt-4o-mini-tts
-    # Control: accent, emotional range, intonation, speed, tone, whispering
-    # Now supported in Python SDK (openai>=2.0.0)!
-    instructions: "Warm, engaging storyteller with natural British charm. Clear enunciation with expressive delivery and natural pacing. Convey enthusiasm while maintaining an authentic, conversational tone."
+    # Removed: per-chunk instructions caused voice tone inconsistency / male-female drift
   
   # --- ElevenLabs TTS Settings (disabled) ---
   # To enable: set provider to "elevenlabs" and configure below

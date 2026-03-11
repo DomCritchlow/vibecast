@@ -79,7 +79,7 @@
   z-index: 0;
 }
 
-/* Sun disc - rizo print style with texture */
+/* Sun disc - bento print style with texture */
 .hero::after {
   content: '';
   position: absolute;
@@ -1403,7 +1403,7 @@
   }
 }
 
-/* About page Rizo image */
+/* About page Bento image */
 .about-hero-image .hero-host-frame img {
   max-width: 120px;
 }

@@ -275,7 +275,7 @@ vibecast/
 │   ├── templates/            # Jinja2 HTML templates
 │   │   ├── base.html         # Shared layout (nav, footer)
 │   │   ├── index.html        # Homepage with episodes
-│   │   ├── about.html        # Meet Rizo page
+│   │   ├── about.html        # Meet Bento page
 │   │   └── docs.html         # Documentation page
 │   ├── writer.py             # AI script generation
 │   ├── tts/                  # TTS providers (pluggable)

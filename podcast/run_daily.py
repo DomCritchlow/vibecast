@@ -5,7 +5,7 @@ import argparse
 import json
 import os
 import sys
-from datetime import datetime, timedelta
+from datetime import datetime
 from pathlib import Path
 
 import yaml
@@ -237,20 +237,6 @@ def save_transcript(
     return filepath
 
 
-def clean_old_urls(state: dict, dedupe_days: int) -> dict:
-    """Remove URLs older than dedupe_days from state."""
-    cutoff = datetime.now() - timedelta(days=dedupe_days)
-    cutoff_str = cutoff.isoformat()
-    
-    # Filter URLs that have timestamps newer than cutoff
-    if "url_timestamps" in state:
-        state["url_timestamps"] = {
-            url: ts for url, ts in state["url_timestamps"].items()
-            if ts > cutoff_str
-        }
-        state["used_urls"] = list(state["url_timestamps"].keys())
-    
-    return state
 
 
 def run_pipeline(dry_run: bool = False, verbose: bool = False) -> bool:
@@ -280,10 +266,8 @@ def run_pipeline(dry_run: bool = False, verbose: bool = False) -> bool:
         # 2. Load and clean state
         print("\n[2/8] Loading state...")
         state = load_state()
-        dedupe_days = config.get("filters", {}).get("dedupe_days", 7)
-        state = clean_old_urls(state, dedupe_days)
         used_urls = set(state.get("used_urls", []))
-        print(f"  Tracking {len(used_urls)} recently used URLs")
+        print(f"  Tracking {len(used_urls)} permanently blocked URLs")
         
         # 3. Fetch weather
         print("\n[3/8] Fetching weather...")
