@@ -42,10 +42,18 @@ vibe:
       - "Hey, it's Bento. Here's what caught my attention today."
       - "Morning. Bento here with some things you might actually care about."
       - "Good morning, it's Bento. Let's talk about what's interesting today."
+      - "Good morning. Bento here — let's get into it."
+      - "Hey, Bento here. Got some good ones for you today."
+      - "Morning. Here's what I've been reading — it's Bento."
+      - "It's Bento. Let's talk about what's worth knowing today."
     closings:
       - "That's the thread for today. Bento out. Go make something happen."
       - "Alright, that's what I'm following. Bento signing off. See you tomorrow."
       - "That's it for today. This is Bento. Catch you next time."
+      - "That's your morning thread. Go be curious out there."
+      - "Alright, that's a wrap. Bento out — make it a good one."
+      - "And that's the thread. See you tomorrow with more worth knowing."
+      - "That's what caught my eye today. Bento signing off — catch you tomorrow."
   
   avoid:
     emotions: ["fear", "outrage", "panic", "doom"]
@@ -394,6 +402,12 @@ artwork:
     - "muted tan"
     - "sage green"
     - "dusty rose"
+    - "cobalt blue"
+    - "golden yellow"
+    - "terracotta red"
+    - "midnight navy"
+    - "moss green"
+    - "warm coral"
   
   # Determinism settings
   accent_strategy: "rotate"    # rotate | random | fixed
@@ -450,20 +464,19 @@ filters:
 # =============================================================================
 openai:
   llm:
-    model: "gpt-4o"           # Options: gpt-4o, gpt-4o-mini, gpt-4-turbo
+    model: "gpt-4.1-mini"     # Options: gpt-4.1-mini, gpt-4.1, gpt-4o
     temperature: 0.7
     max_tokens: 2000
   
   # Script generation hints
   script_hints:
-    - "Explain WHY things matter, not just what happened"
-    - "Add context - how does this fit into the bigger picture?"
-    - "Use specific numbers and details when relevant"
-    - "Vary sentence length for natural conversation"
-    - "Keep tone conversational but informed - like explaining to a smart friend"
-    - "Avoid hyperbole - let interesting facts speak for themselves"
+    - "Use specific numbers and details when relevant — they add credibility"
+    - "Vary sentence length for natural conversation rhythm"
+    - "Keep tone conversational but informed — like explaining to a smart friend"
+    - "Avoid hyperbole — let interesting facts speak for themselves"
+    - "No filler, no padding — every sentence should earn its place"
     - "Do NOT include music cues like [intro music] or [outro music]"
-    - "Do NOT write stage directions - only write text meant to be spoken aloud"
+    - "Do NOT write stage directions — only write text meant to be spoken aloud"
     - "Start directly with your greeting, end directly with your closing"
 
 # =============================================================================

@@ -124,9 +124,28 @@ Return valid JSON only."""
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt},
         ],
-        temperature=0.7,
+        temperature=0.85,
         max_tokens=500,
-        response_format={"type": "json_object"},
+        response_format={
+            "type": "json_schema",
+            "json_schema": {
+                "name": "art_brief",
+                "strict": True,
+                "schema": {
+                    "type": "object",
+                    "properties": {
+                        "mood_adjectives": {
+                            "type": "array",
+                            "items": {"type": "string"},
+                        },
+                        "single_scene_metaphor": {"type": "string"},
+                        "secondary_detail": {"type": "string"},
+                    },
+                    "required": ["mood_adjectives", "single_scene_metaphor", "secondary_detail"],
+                    "additionalProperties": False,
+                },
+            },
+        },
     )
     
     # Parse response

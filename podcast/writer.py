@@ -90,26 +90,22 @@ WRITING GUIDELINES:
 
 STRUCTURE:
 1. Warm greeting with today's date (~15 seconds)
-2. Weather segment with positive framing (~30 seconds) 
-3. News stories - this is the main section (~2.5-3 minutes)
-4. Reading recommendations - compelling descriptions of articles worth reading (~30-45 seconds)
-5. Encouraging closing (~30 seconds)
+2. Weather segment with positive framing (~30 seconds)
+3. News stories - this is the main section, 5-7 stories (~3 minutes)
+4. Encouraging closing (~30 seconds)
 
-IMPORTANT:
-- Write exactly as it should be spoken aloud
-- Use natural speech patterns and contractions
+WRITING RULES:
+- Write exactly as it should be spoken aloud — natural speech, contractions
 - Use ellipsis (...) for natural pauses between sections
 - Keep sentences short to medium length for easy listening
+- End with a send-off that feels genuine, not cheesy
 
-STORY COVERAGE (this is the main content - give each story proper attention):
-- Each story should be 4-6 sentences minimum
-- Start with what happened (the news), then add context or background
-- Share why this matters or why it's exciting
-- Add your genuine reaction, a fun fact, or connect it to the bigger picture
-- Don't just summarize - bring the story to life with your personality
+STORY COVERAGE:
+- Each story: 4-6 sentences — don't rush
+- What happened → why it matters → your genuine reaction or a connecting insight
+- Bring the story to life, don't just summarize
 
-- End with an encouraging send-off that feels genuine, not cheesy
-- AIM FOR ~600-700 WORDS TOTAL to hit the 4-minute target"""
+AIM FOR ~700-800 WORDS TOTAL to hit the 5-minute target"""
 
     return system_prompt
 
@@ -169,36 +165,25 @@ Summary: {item.summary[:300]}...
 Link: {item.url}
 """
     
-    user_prompt = f"""Please write today's podcast script.
+    user_prompt = f"""Write today's podcast script.
 
 DATE: {date_formatted}
 
 WEATHER:
 {weather_text}
 
-TODAY'S POSITIVE STORIES:
-{stories_text}{reading_text}
-
+TODAY'S STORIES:
+{stories_text}
 STYLE HINTS:
-- Consider opening with something like: "{greeting_hint}"
-- Consider closing with something like: "{closing_hint}"
-- Use ... (ellipsis) between major sections for natural pacing
+- Open with something like: "{greeting_hint}"
+- Close with something like: "{closing_hint}"
+- Use ... (ellipsis) between sections for natural pacing
 
 WORD TARGETS:
 - Greeting + weather: ~80 words
-- Each story: ~80-100 words (4-6 sentences each - don't rush!)
-- Reading list segment: ~60-80 words total (describe what each article is about in a compelling way)
+- Each story: ~80-100 words (4-6 sentences)
 - Closing: ~50 words
-- Total: ~650-750 words for a 5-minute episode
-
-FOR THE READING LIST SEGMENT:
-- Transition naturally: "A couple things for your reading list..." or "Before we wrap up, some longer reads worth your time..."
-- For each article, explain what it's ABOUT in 3-4 compelling sentences (not just the title)
-- Make listeners want to read it - what's the interesting angle? What will they learn?
-- Mention it's in the show notes/links below
-- Keep it brief but intriguing
-
-Elaborate on each NEWS story - add context, react to it. Make the listener feel something.
+- Total: ~700-800 words for a 5-minute episode
 
 Write the complete script now, ready to be read aloud."""
 
