@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Mar 2026 05:12:48 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 05:14:10 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,114 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Infinite Worlds &amp; AI&#x27;s 4D Vision: A New Frontier</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Spatially Resolved UV Spectroscopy Science Analysis Group (SRUVS SAG)
+   Source: NASA Science
+2. Keep calm and be transparent: advice from scientists who retracted their papers
+   Source: Nature News
+3. Project Genie: Experimenting with infinite, interactive worlds
+   Source: DeepMind Blog
+4. D4RT: Teaching AI to see the world in four dimensions
+   Source: DeepMind Blog
+5. From raw interaction to reusable knowledge: Rethinking memory for AI agents
+   Source: Microsoft Research Blog
+6. Trailer: The Shape of Things to Come
+   Source: Microsoft Research Blog
+
+REFERENCES:
+
+1. Spatially Resolved UV Spectroscopy Science Analysis Group (SRUVS SAG)
+   https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/sruvs-sag/
+
+2. Keep calm and be transparent: advice from scientists who retracted their papers
+   https://www.nature.com/articles/d41586-026-00763-x
+
+3. Project Genie: Experimenting with infinite, interactive worlds
+   https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/
+
+4. D4RT: Teaching AI to see the world in four dimensions
+   https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/
+
+5. From raw interaction to reusable knowledge: Rethinking memory for AI agents
+   https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/
+
+6. Trailer: The Shape of Things to Come
+   https://www.microsoft.com/en-us/research/podcast/trailer-the-shape-of-things-to-come/
+
+READING LIST:
+Articles recommended for further reading
+
+1. Don't Let the Gooners Get You Down by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/dont-let-the-gooners-get-you-down
+
+2. Sex For Sex's Sake by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/sex-for-sexs-sake
+
+3. Treating Romance Like a Math Problem by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/everyones-treating-romance-like-a
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-11/newspaper.pdf]]></description>
+      <pubDate>Wed, 11 Mar 2026 05:13:08 -0000</pubDate>
+      <guid isPermaLink="false">2026-03-11</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-11.mp3" length="6290746" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Spatially Resolved UV Spectroscopy Science Analysis Group (SRUVS SAG)
+   Source: NASA Science
+2. Keep calm and be transparent: advice from scientists who retracted their papers
+   Source: Nature News
+3. Project Genie: Experimenting with infinite, interactive worlds
+   Source: DeepMind Blog
+4. D4RT: Teaching AI to see the world in four dimensions
+   Source: DeepMind Blog
+5. From raw interaction to reusable knowledge: Rethinking memory for AI agents
+   Source: Microsoft Research Blog
+6. Trailer: The Shape of Things to Come
+   Source: Microsoft Research Blog
+
+REFERENCES:
+
+1. Spatially Resolved UV Spectroscopy Science Analysis Group (SRUVS SAG)
+   https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/sruvs-sag/
+
+2. Keep calm and be transparent: advice from scientists who retracted their papers
+   https://www.nature.com/articles/d41586-026-00763-x
+
+3. Project Genie: Experimenting with infinite, interactive worlds
+   https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/
+
+4. D4RT: Teaching AI to see the world in four dimensions
+   https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/
+
+5. From raw interaction to reusable knowledge: Rethinking memory for AI agents
+   https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents/
+
+6. Trailer: The Shape of Things to Come
+   https://www.microsoft.com/en-us/research/podcast/trailer-the-shape-of-things-to-come/
+
+READING LIST:
+Articles recommended for further reading
+
+1. Don't Let the Gooners Get You Down by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/dont-let-the-gooners-get-you-down
+
+2. Sex For Sex's Sake by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/sex-for-sexs-sake
+
+3. Treating Romance Like a Math Problem by Magdalene J. Taylor
+   https://www.sexual-culture.com/p/everyones-treating-romance-like-a
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-11/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:26</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-11/episode-art.png"/>
+    </item>
     <item>
       <title>OpenAI Acquires Promptfoo &amp; Bluesky CEO Steps Down</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -3074,108 +3182,6 @@ Articles recommended for further reading
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:37</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-10/episode-art.png"/>
-    </item>
-    <item>
-      <title>AI&#x27;s Future &amp; DIY Star Trek Dream Panel Unveiled</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Ideas: Community building, machine learning, and the future of AI
-   Source: Microsoft Research Blog
-2. How I Built the Star Trek control panel of my dreams
-   Source: The Verge
-3. Target Darts Omni Auto Scoring System Hits the Mark
-   Source: Wired
-4. Memory Infrastructure for AI Systems – Cascade, PyTorch Memory, Hebbian Mind
-   Source: Hacker News (AI filtered)
-5. NASA Conducts Repairs, Analysis Ahead of Next Artemis II Fueling Test
-   Source: NASA Science
-6. Atmospheric Science Branch Page
-   Source: NASA Science
-
-REFERENCES:
-
-1. Ideas: Community building, machine learning, and the future of AI
-   https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/
-
-2. How I Built the Star Trek control panel of my dreams
-   https://www.theverge.com/tech/862070/lcars-homes-assistant-star-trek
-
-3. Target Darts Omni Auto Scoring System Hits the Mark
-   https://www.wired.com/story/target-darts-omni-auto-scoring-system-rave/
-
-4. Memory Infrastructure for AI Systems – Cascade, PyTorch Memory, Hebbian Mind
-   https://cipscorps.io/
-
-5. NASA Conducts Repairs, Analysis Ahead of Next Artemis II Fueling Test
-   https://www.nasa.gov/blogs/missions/2026/02/08/nasa-conducts-repairs-analysis-ahead-of-next-artemis-ii-fueling-test/
-
-6. Atmospheric Science Branch Page
-   https://www.nasa.gov/earth-science-at-ames/who-we-are/atmospheric-science/
-
-READING LIST:
-Articles recommended for further reading
-
-1. Men and Women Still Don't Get Each Other. But Aren't We Supposed to Try? by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/men-and-women-still-dont-get-each
-
-2. "When did sl*t-shaming come back? Did it ever leave?" by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/when-did-slt-shaming-come-back-did
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-09/newspaper.pdf]]></description>
-      <pubDate>Mon, 09 Feb 2026 05:28:30 -0000</pubDate>
-      <guid isPermaLink="false">2026-02-09</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-09.mp3" length="5822423" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Ideas: Community building, machine learning, and the future of AI
-   Source: Microsoft Research Blog
-2. How I Built the Star Trek control panel of my dreams
-   Source: The Verge
-3. Target Darts Omni Auto Scoring System Hits the Mark
-   Source: Wired
-4. Memory Infrastructure for AI Systems – Cascade, PyTorch Memory, Hebbian Mind
-   Source: Hacker News (AI filtered)
-5. NASA Conducts Repairs, Analysis Ahead of Next Artemis II Fueling Test
-   Source: NASA Science
-6. Atmospheric Science Branch Page
-   Source: NASA Science
-
-REFERENCES:
-
-1. Ideas: Community building, machine learning, and the future of AI
-   https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/
-
-2. How I Built the Star Trek control panel of my dreams
-   https://www.theverge.com/tech/862070/lcars-homes-assistant-star-trek
-
-3. Target Darts Omni Auto Scoring System Hits the Mark
-   https://www.wired.com/story/target-darts-omni-auto-scoring-system-rave/
-
-4. Memory Infrastructure for AI Systems – Cascade, PyTorch Memory, Hebbian Mind
-   https://cipscorps.io/
-
-5. NASA Conducts Repairs, Analysis Ahead of Next Artemis II Fueling Test
-   https://www.nasa.gov/blogs/missions/2026/02/08/nasa-conducts-repairs-analysis-ahead-of-next-artemis-ii-fueling-test/
-
-6. Atmospheric Science Branch Page
-   https://www.nasa.gov/earth-science-at-ames/who-we-are/atmospheric-science/
-
-READING LIST:
-Articles recommended for further reading
-
-1. Men and Women Still Don't Get Each Other. But Aren't We Supposed to Try? by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/men-and-women-still-dont-get-each
-
-2. "When did sl*t-shaming come back? Did it ever leave?" by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/when-did-slt-shaming-come-back-did
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-09/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:11</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-09/episode-art.png"/>
     </item>
   </channel>
 </rss>
