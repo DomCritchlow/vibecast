@@ -59,7 +59,14 @@
     "https://www.microsoft.com/en-us/research/podcast/trailer-the-shape-of-things-to-come/",
     "https://www.sexual-culture.com/p/dont-let-the-gooners-get-you-down",
     "https://www.sexual-culture.com/p/sex-for-sexs-sake",
-    "https://www.sexual-culture.com/p/everyones-treating-romance-like-a"
+    "https://www.sexual-culture.com/p/everyones-treating-romance-like-a",
+    "https://www.nasa.gov/fueleap/",
+    "https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models/",
+    "https://huggingface.co/blog/nvidia/how-nvidia-won-deepresearch-bench",
+    "https://autoicdapi.com",
+    "https://www.militarytimes.com/industry/techwatch/2026/03/12/pentagon-seeks-system-to-ensure-ai-models-work-as-planned/",
+    "https://www.nasa.gov/risk-assessment-for-unmanned-aircraft-systems-uas/",
+    "https://www.jpl.nasa.gov/news/nasas-dart-mission-changed-orbit-of-asteroid-didymos-around-sun"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -121,7 +128,14 @@
     "https://www.microsoft.com/en-us/research/podcast/trailer-the-shape-of-things-to-come/": "2026-03-11T05:14:10.352699",
     "https://www.sexual-culture.com/p/dont-let-the-gooners-get-you-down": "2026-03-11T05:14:10.352699",
     "https://www.sexual-culture.com/p/sex-for-sexs-sake": "2026-03-11T05:14:10.352699",
-    "https://www.sexual-culture.com/p/everyones-treating-romance-like-a": "2026-03-11T05:14:10.352699"
+    "https://www.sexual-culture.com/p/everyones-treating-romance-like-a": "2026-03-11T05:14:10.352699",
+    "https://www.nasa.gov/fueleap/": "2026-03-12T05:18:03.510167",
+    "https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models/": "2026-03-12T05:18:03.510167",
+    "https://huggingface.co/blog/nvidia/how-nvidia-won-deepresearch-bench": "2026-03-12T05:18:03.510167",
+    "https://autoicdapi.com": "2026-03-12T05:18:03.510167",
+    "https://www.militarytimes.com/industry/techwatch/2026/03/12/pentagon-seeks-system-to-ensure-ai-models-work-as-planned/": "2026-03-12T05:18:03.510167",
+    "https://www.nasa.gov/risk-assessment-for-unmanned-aircraft-systems-uas/": "2026-03-12T05:18:03.510167",
+    "https://www.jpl.nasa.gov/news/nasas-dart-mission-changed-orbit-of-asteroid-didymos-around-sun": "2026-03-12T05:18:03.510167"
   },
-  "last_run": "2026-03-11T05:14:10.352699"
+  "last_run": "2026-03-12T05:18:03.510167"
 }

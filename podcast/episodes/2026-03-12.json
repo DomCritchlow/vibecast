@@ -1,0 +1,66 @@
+{
+  "guid": "2026-03-12",
+  "date": "2026-03-12T05:16:53.817110",
+  "title": "FUELEAP Insights & NVIDIA AI-Q’s DeepResearch Victory",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 299.3684210526316,
+  "duration_formatted": "4:59",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-12.mp3",
+    "audio_size_bytes": 7334642,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-12/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-12/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-03-12.txt"
+  },
+  "stories": [
+    {
+      "title": "FUELEAP",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/fueleap/",
+      "summary": "Fostering Ultra Efficient, Low-Emitting Aviation Power (FUELEAP) NASA has supported the development of fuel cell electric power systems for decades, a history dating back to Project Gemini in the 1960s. Continuing the legacy, NASA Langley’s ASAB branch recently led research to power future electric aircraft using a hybrid-electric fuel cell power system under the Fostering […] The post FUELEAP appeared first on NASA Science."
+    },
+    {
+      "title": "Rethinking imitation learning with Predictive Inverse Dynamics Models",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models/",
+      "summary": "This research looks at why Predictive Inverse Dynamics Models often outperform standard Behavior Cloning in imitation learning. By using simple predictions of what happens next, PIDMs reduce ambiguity and learn from far fewer demonstrations. The post Rethinking imitation learning with Predictive Inverse Dynamics Models appeared first on Microsoft Research."
+    },
+    {
+      "title": "How NVIDIA AI-Q Reached \\#1 on DeepResearch Bench I and II",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/nvidia/how-nvidia-won-deepresearch-bench",
+      "summary": ""
+    },
+    {
+      "title": "Show HN: AutoICD API – AI clinical coding platform for ICD-10 and SNOMED",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://autoicdapi.com",
+      "summary": "Hi HN,I built AutoICD, an AI-powered clinical coding platform that converts unstructured medical text into ICD-10 and SNOMED-CT codes. This is not an LLM wrapper. The platform uses a multi-layer machine learning architecture internally, combining custom-trained models with curated medical knowledge.Platform and tooling:- JS SDK – https://github.com/fcggamou/autoicd-js - Python SDK – https://github.com/fcggamou/autoicd-python - MCP Server – https://github.com/fcggamou/autoicd-mcpUse cases and benefits:- Automated ICD-10 and SNOMED coding from clinical notes - Creation of structured datasets for research and analytics - Integration with AI assistants via MCP - Scalable pipelines optimized for real-world healthcare data - Access to ICD-10 codes and metadata programmaticallyFeedback from anyone working on medical AI, clinical NLP, or MCP tooling is welcome. Comments URL: https://news.ycombinator.com/item?id=47346296 Points: 1 # Comments: 0"
+    },
+    {
+      "title": "Pentagon seeks system to ensure AI models work as planned",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://www.militarytimes.com/industry/techwatch/2026/03/12/pentagon-seeks-system-to-ensure-ai-models-work-as-planned/",
+      "summary": "Article URL: https://www.militarytimes.com/industry/techwatch/2026/03/12/pentagon-seeks-system-to-ensure-ai-models-work-as-planned/ Comments URL: https://news.ycombinator.com/item?id=47346001 Points: 2 # Comments: 0"
+    },
+    {
+      "title": "Risk Assessment for Unmanned Aircraft Systems (UAS)",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/risk-assessment-for-unmanned-aircraft-systems-uas/",
+      "summary": "Risk Assessment for Unmanned Aircraft Systems (UAS) Commercial use of small unmanned aircraft systems (UAS) is expected to grow significantly in the coming years due to the vehicles anticipated benefits. Several private industries have proposed using UAS to transport goods while others have considered using the aircrafts to support news coverage and spotting wildfires. Law […] The post Risk Assessment for Unmanned Aircraft Systems (UAS) appeared first on NASA Science."
+    },
+    {
+      "title": "NASA’s DART Mission Changed Orbit of Asteroid Didymos Around Sun",
+      "source": "NASA JPL News",
+      "url": "https://www.jpl.nasa.gov/news/nasas-dart-mission-changed-orbit-of-asteroid-didymos-around-sun",
+      "summary": "The spacecraft changed the binary system’s orbit, confirming that a kinetic impactor can be an effective planetary defense technique for deflecting a near-Earth object."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-03-12T05:18:03.490953",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
