@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Mar 2026 05:18:03 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 05:15:22 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>AgentRx Debugging &amp; NASA’s Tiny Exoplanet Explorer</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Systematic debugging for AI agents: Introducing the AgentRx framework
+   Source: Microsoft Research Blog
+2. About Integrated Aviation Systems Program (IASP)
+   Source: NASA Science
+3. Tiny NASA Spacecraft Delivers Exoplanet Mission’s First Images
+   Source: NASA Science
+4. ‘Baked, not fried’: five highlights from nutrition research
+   Source: Nature News
+5. How bioRxiv changed the way biologists share ideas – in numbers
+   Source: Nature News
+6. A defense official reveals how AI chatbots could be used for targeting decisions
+   Source: MIT Technology Review
+7. Centuries before the Inca, Peru's wealthy imported parrots from afar
+   Source: Ars Technica
+
+REFERENCES:
+
+1. Systematic debugging for AI agents: Introducing the AgentRx framework
+   https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/
+
+2. About Integrated Aviation Systems Program (IASP)
+   https://www.nasa.gov/directorates/armd/iasp/about-iasp/
+
+3. Tiny NASA Spacecraft Delivers Exoplanet Mission’s First Images
+   https://www.nasa.gov/science-research/astrophysics/exoplanet-science/tiny-nasa-spacecraft-delivers-exoplanet-missions-first-images/
+
+4. ‘Baked, not fried’: five highlights from nutrition research
+   https://www.nature.com/articles/d41586-026-00598-6
+
+5. How bioRxiv changed the way biologists share ideas – in numbers
+   https://www.nature.com/articles/d41586-026-00709-3
+
+6. A defense official reveals how AI chatbots could be used for targeting decisions
+   https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/
+
+7. Centuries before the Inca, Peru's wealthy imported parrots from afar
+   https://arstechnica.com/science/2026/03/centuries-before-the-inca-perus-wealthy-imported-parrots-from-afar/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-13/newspaper.pdf]]></description>
+      <pubDate>Fri, 13 Mar 2026 05:14:10 -0000</pubDate>
+      <guid isPermaLink="false">2026-03-13</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-13.mp3" length="6885754" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Systematic debugging for AI agents: Introducing the AgentRx framework
+   Source: Microsoft Research Blog
+2. About Integrated Aviation Systems Program (IASP)
+   Source: NASA Science
+3. Tiny NASA Spacecraft Delivers Exoplanet Mission’s First Images
+   Source: NASA Science
+4. ‘Baked, not fried’: five highlights from nutrition research
+   Source: Nature News
+5. How bioRxiv changed the way biologists share ideas – in numbers
+   Source: Nature News
+6. A defense official reveals how AI chatbots could be used for targeting decisions
+   Source: MIT Technology Review
+7. Centuries before the Inca, Peru's wealthy imported parrots from afar
+   Source: Ars Technica
+
+REFERENCES:
+
+1. Systematic debugging for AI agents: Introducing the AgentRx framework
+   https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/
+
+2. About Integrated Aviation Systems Program (IASP)
+   https://www.nasa.gov/directorates/armd/iasp/about-iasp/
+
+3. Tiny NASA Spacecraft Delivers Exoplanet Mission’s First Images
+   https://www.nasa.gov/science-research/astrophysics/exoplanet-science/tiny-nasa-spacecraft-delivers-exoplanet-missions-first-images/
+
+4. ‘Baked, not fried’: five highlights from nutrition research
+   https://www.nature.com/articles/d41586-026-00598-6
+
+5. How bioRxiv changed the way biologists share ideas – in numbers
+   https://www.nature.com/articles/d41586-026-00709-3
+
+6. A defense official reveals how AI chatbots could be used for targeting decisions
+   https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/
+
+7. Centuries before the Inca, Peru's wealthy imported parrots from afar
+   https://arstechnica.com/science/2026/03/centuries-before-the-inca-perus-wealthy-imported-parrots-from-afar/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-13/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:50</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-13/episode-art.png"/>
+    </item>
     <item>
       <title>FUELEAP Insights &amp; NVIDIA AI-Q’s DeepResearch Victory</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -3060,114 +3154,6 @@ Articles recommended for further reading
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:17</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-12/episode-art.png"/>
-    </item>
-    <item>
-      <title>US to France Talent Shift &amp; Open-Source AI Evolution</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Publishing less won’t save the research system
-   Source: Nature News
-2. Dozens of researchers will move to France from US following high-profile bid to lure talent
-   Source: Nature News
-3. UniRG: Scaling medical imaging report generation with multimodal reinforcement learning
-   Source: Microsoft Research Blog
-4. The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+
-   Source: Hugging Face Blog
-5. Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek
-   Source: Hugging Face Blog
-6. The Download: Making AI Work, and why the Moltbook hype is similar to Pokémon
-   Source: MIT Technology Review
-
-REFERENCES:
-
-1. Publishing less won’t save the research system
-   https://www.nature.com/articles/d41586-026-00419-w
-
-2. Dozens of researchers will move to France from US following high-profile bid to lure talent
-   https://www.nature.com/articles/d41586-026-00405-2
-
-3. UniRG: Scaling medical imaging report generation with multimodal reinforcement learning
-   https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/
-
-4. The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+
-   https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3
-
-5. Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek
-   https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2
-
-6. The Download: Making AI Work, and why the Moltbook hype is similar to Pokémon
-   https://www.technologyreview.com/2026/02/10/1132608/the-download-making-ai-work-and-why-the-moltbook-hype-is-similar-to-pokemon/
-
-READING LIST:
-Articles recommended for further reading
-
-1. Is Avoiding Embarrassment the Only Goal? by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/is-avoiding-embarrassment-the-only
-
-2. What Is "Cuffing Season" Asking of You? by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/what-is-cuffing-season-asking-of
-
-3. The Disney-Adultification of Halloween by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/the-disney-adultification-of-halloween
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-11/newspaper.pdf]]></description>
-      <pubDate>Wed, 11 Feb 2026 05:28:07 -0000</pubDate>
-      <guid isPermaLink="false">2026-02-11</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-11.mp3" length="6731527" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Publishing less won’t save the research system
-   Source: Nature News
-2. Dozens of researchers will move to France from US following high-profile bid to lure talent
-   Source: Nature News
-3. UniRG: Scaling medical imaging report generation with multimodal reinforcement learning
-   Source: Microsoft Research Blog
-4. The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+
-   Source: Hugging Face Blog
-5. Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek
-   Source: Hugging Face Blog
-6. The Download: Making AI Work, and why the Moltbook hype is similar to Pokémon
-   Source: MIT Technology Review
-
-REFERENCES:
-
-1. Publishing less won’t save the research system
-   https://www.nature.com/articles/d41586-026-00419-w
-
-2. Dozens of researchers will move to France from US following high-profile bid to lure talent
-   https://www.nature.com/articles/d41586-026-00405-2
-
-3. UniRG: Scaling medical imaging report generation with multimodal reinforcement learning
-   https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/
-
-4. The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+
-   https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3
-
-5. Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek
-   https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2
-
-6. The Download: Making AI Work, and why the Moltbook hype is similar to Pokémon
-   https://www.technologyreview.com/2026/02/10/1132608/the-download-making-ai-work-and-why-the-moltbook-hype-is-similar-to-pokemon/
-
-READING LIST:
-Articles recommended for further reading
-
-1. Is Avoiding Embarrassment the Only Goal? by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/is-avoiding-embarrassment-the-only
-
-2. What Is "Cuffing Season" Asking of You? by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/what-is-cuffing-season-asking-of
-
-3. The Disney-Adultification of Halloween by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/the-disney-adultification-of-halloween
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-11/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:38</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-11/episode-art.png"/>
     </item>
   </channel>
 </rss>

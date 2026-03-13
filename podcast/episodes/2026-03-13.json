@@ -1,0 +1,66 @@
+{
+  "guid": "2026-03-13",
+  "date": "2026-03-13T05:14:10.270886",
+  "title": "AgentRx Debugging & NASA’s Tiny Exoplanet Explorer",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 290.5263157894737,
+  "duration_formatted": "4:50",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-13.mp3",
+    "audio_size_bytes": 6885754,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-13/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-13/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-03-13.txt"
+  },
+  "stories": [
+    {
+      "title": "Systematic debugging for AI agents: Introducing the AgentRx framework",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/",
+      "summary": "As AI agents transition from simple chatbots to autonomous systems capable of managing cloud incidents, navigating complex web interfaces, and executing multi-step API workflows, a new challenge has emerged: transparency. When a human makes a mistake, we can usually trace the logic. But when an AI agent fails, perhaps by hallucinating a tool output or [&#8230;] The post Systematic debugging for AI agents: Introducing the AgentRx framework appeared first on Microsoft Research."
+    },
+    {
+      "title": "About Integrated Aviation Systems Program (IASP)",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/directorates/armd/iasp/about-iasp/",
+      "summary": "The Integrated Aviation Systems Program (IASP) conducts research and integrated, systems-level demonstrations in a flight environment to prove, mature and transition them into future aircraft and systems. The program aims to determine feasibility and accelerate development of less mature technologies, and for more mature technologies, execute highly complex flight demonstrations to prove and accelerate technology […] The post About Integrated Aviation Systems Program (IASP) appeared first on NASA Science."
+    },
+    {
+      "title": "Tiny NASA Spacecraft Delivers Exoplanet Mission’s First Images",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/science-research/astrophysics/exoplanet-science/tiny-nasa-spacecraft-delivers-exoplanet-missions-first-images/",
+      "summary": "With the first images from the spacecraft now in hand, the team behind NASA’s Star-Planet Activity Research CubeSat, or SPARCS, is ready to begin charting the energetic lives of the galaxy’s most common stars to help answer one of humanity’s most profound questions: Which distant worlds beyond our solar system might be habitable? Initial, or […] The post Tiny NASA Spacecraft Delivers Exoplanet Mission’s First Images appeared first on NASA Science."
+    },
+    {
+      "title": "‘Baked, not fried’: five highlights from nutrition research",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00598-6",
+      "summary": "Nature, Published online: 12 March 2026; doi:10.1038/d41586-026-00598-6Potatoes, coffee and protein are at the centre of some intriguing studies from the past five years."
+    },
+    {
+      "title": "How bioRxiv changed the way biologists share ideas – in numbers",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00709-3",
+      "summary": "Nature, Published online: 12 March 2026; doi:10.1038/d41586-026-00709-3Four million articles are now downloaded from bioRxiv every month, according to an analysis of the life-science preprint server’s first 13 years of existence."
+    },
+    {
+      "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
+      "summary": "The US military might use generative AI systems to rank lists of targets and make recommendations—which would be vetted by humans—about which to strike first, according to a Defense Department official with knowledge of the matter. The disclosure about how the military may use AI chatbots comes as the Pentagon faces scrutiny over a strike&#8230;"
+    },
+    {
+      "title": "Centuries before the Inca, Peru's wealthy imported parrots from afar",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/03/centuries-before-the-inca-perus-wealthy-imported-parrots-from-afar/",
+      "summary": "The Inca Empire's system of roads were built on centuries-old trade routes."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-03-13T05:15:22.981416",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

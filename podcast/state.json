@@ -66,7 +66,14 @@
     "https://autoicdapi.com",
     "https://www.militarytimes.com/industry/techwatch/2026/03/12/pentagon-seeks-system-to-ensure-ai-models-work-as-planned/",
     "https://www.nasa.gov/risk-assessment-for-unmanned-aircraft-systems-uas/",
-    "https://www.jpl.nasa.gov/news/nasas-dart-mission-changed-orbit-of-asteroid-didymos-around-sun"
+    "https://www.jpl.nasa.gov/news/nasas-dart-mission-changed-orbit-of-asteroid-didymos-around-sun",
+    "https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/",
+    "https://www.nasa.gov/directorates/armd/iasp/about-iasp/",
+    "https://www.nasa.gov/science-research/astrophysics/exoplanet-science/tiny-nasa-spacecraft-delivers-exoplanet-missions-first-images/",
+    "https://www.nature.com/articles/d41586-026-00598-6",
+    "https://www.nature.com/articles/d41586-026-00709-3",
+    "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
+    "https://arstechnica.com/science/2026/03/centuries-before-the-inca-perus-wealthy-imported-parrots-from-afar/"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -135,7 +142,14 @@
     "https://autoicdapi.com": "2026-03-12T05:18:03.510167",
     "https://www.militarytimes.com/industry/techwatch/2026/03/12/pentagon-seeks-system-to-ensure-ai-models-work-as-planned/": "2026-03-12T05:18:03.510167",
     "https://www.nasa.gov/risk-assessment-for-unmanned-aircraft-systems-uas/": "2026-03-12T05:18:03.510167",
-    "https://www.jpl.nasa.gov/news/nasas-dart-mission-changed-orbit-of-asteroid-didymos-around-sun": "2026-03-12T05:18:03.510167"
+    "https://www.jpl.nasa.gov/news/nasas-dart-mission-changed-orbit-of-asteroid-didymos-around-sun": "2026-03-12T05:18:03.510167",
+    "https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/": "2026-03-13T05:15:22.998948",
+    "https://www.nasa.gov/directorates/armd/iasp/about-iasp/": "2026-03-13T05:15:22.998948",
+    "https://www.nasa.gov/science-research/astrophysics/exoplanet-science/tiny-nasa-spacecraft-delivers-exoplanet-missions-first-images/": "2026-03-13T05:15:22.998948",
+    "https://www.nature.com/articles/d41586-026-00598-6": "2026-03-13T05:15:22.998948",
+    "https://www.nature.com/articles/d41586-026-00709-3": "2026-03-13T05:15:22.998948",
+    "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/": "2026-03-13T05:15:22.998948",
+    "https://arstechnica.com/science/2026/03/centuries-before-the-inca-perus-wealthy-imported-parrots-from-afar/": "2026-03-13T05:15:22.998948"
   },
-  "last_run": "2026-03-12T05:18:03.510167"
+  "last_run": "2026-03-13T05:15:22.998948"
 }
