@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Mar 2026 05:15:22 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 05:13:22 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>China’s Tech Ambitions &amp; NASA’s Black Hole Discovery</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. ASAB Activities
+   Source: NASA Science
+2. VAB Activities
+   Source: NASA Science
+3. Top brass in China reaffirm goal to be world leaders in tech, AI
+   Source: Nature News
+4. The problem with Canada’s plan to buy scientific prestige
+   Source: Nature News
+5. Archival Data From NASA’s NEOWISE Tracks Star Turning Into Black Hole
+   Source: NASA JPL News
+6. Can't wait for Artemis 2 to make history? Get up to 20% off these awesome Lego NASA Artemis rocket sets
+   Source: Space.com
+7. What went right this week: progress in tumultuous times, plus more
+   Source: Positive News
+
+REFERENCES:
+
+1. ASAB Activities
+   https://www.nasa.gov/asab-activities/
+
+2. VAB Activities
+   https://www.nasa.gov/vab-activities/
+
+3. Top brass in China reaffirm goal to be world leaders in tech, AI
+   https://www.nature.com/articles/d41586-026-00814-3
+
+4. The problem with Canada’s plan to buy scientific prestige
+   https://www.nature.com/articles/d41586-026-00743-1
+
+5. Archival Data From NASA’s NEOWISE Tracks Star Turning Into Black Hole
+   https://www.jpl.nasa.gov/news/archival-data-from-nasas-neowise-tracks-star-turning-into-black-hole
+
+6. Can't wait for Artemis 2 to make history? Get up to 20% off these awesome Lego NASA Artemis rocket sets
+   https://www.space.com/entertainment/space-toys-lego/get-up-to-20-percent-off-these-awesome-lego-nasa-artemis-rocket-sets-amazon-uk-big-spring-deal-days
+
+7. What went right this week: progress in tumultuous times, plus more
+   https://www.positive.news/society/good-news-stories-from-week-10-of-2026/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-14/newspaper.pdf]]></description>
+      <pubDate>Sat, 14 Mar 2026 05:12:20 -0000</pubDate>
+      <guid isPermaLink="false">2026-03-14</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-14.mp3" length="6242472" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. ASAB Activities
+   Source: NASA Science
+2. VAB Activities
+   Source: NASA Science
+3. Top brass in China reaffirm goal to be world leaders in tech, AI
+   Source: Nature News
+4. The problem with Canada’s plan to buy scientific prestige
+   Source: Nature News
+5. Archival Data From NASA’s NEOWISE Tracks Star Turning Into Black Hole
+   Source: NASA JPL News
+6. Can't wait for Artemis 2 to make history? Get up to 20% off these awesome Lego NASA Artemis rocket sets
+   Source: Space.com
+7. What went right this week: progress in tumultuous times, plus more
+   Source: Positive News
+
+REFERENCES:
+
+1. ASAB Activities
+   https://www.nasa.gov/asab-activities/
+
+2. VAB Activities
+   https://www.nasa.gov/vab-activities/
+
+3. Top brass in China reaffirm goal to be world leaders in tech, AI
+   https://www.nature.com/articles/d41586-026-00814-3
+
+4. The problem with Canada’s plan to buy scientific prestige
+   https://www.nature.com/articles/d41586-026-00743-1
+
+5. Archival Data From NASA’s NEOWISE Tracks Star Turning Into Black Hole
+   https://www.jpl.nasa.gov/news/archival-data-from-nasas-neowise-tracks-star-turning-into-black-hole
+
+6. Can't wait for Artemis 2 to make history? Get up to 20% off these awesome Lego NASA Artemis rocket sets
+   https://www.space.com/entertainment/space-toys-lego/get-up-to-20-percent-off-these-awesome-lego-nasa-artemis-rocket-sets-amazon-uk-big-spring-deal-days
+
+7. What went right this week: progress in tumultuous times, plus more
+   https://www.positive.news/society/good-news-stories-from-week-10-of-2026/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-14/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:26</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-14/episode-art.png"/>
+    </item>
     <item>
       <title>AgentRx Debugging &amp; NASA’s Tiny Exoplanet Explorer</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -3046,114 +3140,6 @@ Articles recommended for further reading
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:24</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-13/episode-art.png"/>
-    </item>
-    <item>
-      <title>Brain Boost: Monk Meditation &amp; EV Cost Revolution</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Amendment 47: Corrections to B.2 Heliophysics Foundational Research
-   Source: NASA Science
-2. China to punish universities that fail to sanction research misconduct
-   Source: Nature News
-3. EVs could be cheaper to own than gas cars in Africa by 2040
-   Source: MIT Technology Review
-4. Highguard’s developer reportedly lays off ‘most’ of its staff just over two weeks after launch
-   Source: The Verge
-5. Study of Buddhist Monks Finds Meditation Alters Brain Activity
-   Source: Wired
-6. Show HN: Membrane, revisable memory for long lived AI agents
-   Source: Hacker News (AI filtered)
-
-REFERENCES:
-
-1. Amendment 47: Corrections to B.2 Heliophysics Foundational Research
-   https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-47-corrections-to-b-2-heliophysics-foundational-research/
-
-2. China to punish universities that fail to sanction research misconduct
-   https://www.nature.com/articles/d41586-026-00321-5
-
-3. EVs could be cheaper to own than gas cars in Africa by 2040
-   https://www.technologyreview.com/2026/02/11/1132714/evs-africa-cost/
-
-4. Highguard’s developer reportedly lays off ‘most’ of its staff just over two weeks after launch
-   https://www.theverge.com/games/877674/highguard-wildlight-entertainment-layoffs
-
-5. Study of Buddhist Monks Finds Meditation Alters Brain Activity
-   https://www.wired.com/story/study-of-buddhist-monks-finds-meditation-alters-brain-activity/
-
-6. Show HN: Membrane, revisable memory for long lived AI agents
-   https://github.com/GustyCube/membrane
-
-READING LIST:
-Articles recommended for further reading
-
-1. Selling the Sex Recession by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/selling-the-sex-recession
-
-2. You're Already a Sexual Cyborg by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/youre-already-a-sexual-cyborg
-
-3. We Have to Try to Be Nice to Each Other by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/we-have-to-try-to-be-nice-to-each
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-12/newspaper.pdf]]></description>
-      <pubDate>Thu, 12 Feb 2026 05:25:52 -0000</pubDate>
-      <guid isPermaLink="false">2026-02-12</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-12.mp3" length="6377891" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Amendment 47: Corrections to B.2 Heliophysics Foundational Research
-   Source: NASA Science
-2. China to punish universities that fail to sanction research misconduct
-   Source: Nature News
-3. EVs could be cheaper to own than gas cars in Africa by 2040
-   Source: MIT Technology Review
-4. Highguard’s developer reportedly lays off ‘most’ of its staff just over two weeks after launch
-   Source: The Verge
-5. Study of Buddhist Monks Finds Meditation Alters Brain Activity
-   Source: Wired
-6. Show HN: Membrane, revisable memory for long lived AI agents
-   Source: Hacker News (AI filtered)
-
-REFERENCES:
-
-1. Amendment 47: Corrections to B.2 Heliophysics Foundational Research
-   https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-47-corrections-to-b-2-heliophysics-foundational-research/
-
-2. China to punish universities that fail to sanction research misconduct
-   https://www.nature.com/articles/d41586-026-00321-5
-
-3. EVs could be cheaper to own than gas cars in Africa by 2040
-   https://www.technologyreview.com/2026/02/11/1132714/evs-africa-cost/
-
-4. Highguard’s developer reportedly lays off ‘most’ of its staff just over two weeks after launch
-   https://www.theverge.com/games/877674/highguard-wildlight-entertainment-layoffs
-
-5. Study of Buddhist Monks Finds Meditation Alters Brain Activity
-   https://www.wired.com/story/study-of-buddhist-monks-finds-meditation-alters-brain-activity/
-
-6. Show HN: Membrane, revisable memory for long lived AI agents
-   https://github.com/GustyCube/membrane
-
-READING LIST:
-Articles recommended for further reading
-
-1. Selling the Sex Recession by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/selling-the-sex-recession
-
-2. You're Already a Sexual Cyborg by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/youre-already-a-sexual-cyborg
-
-3. We Have to Try to Be Nice to Each Other by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/we-have-to-try-to-be-nice-to-each
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-12/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:17</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-12/episode-art.png"/>
     </item>
   </channel>
 </rss>

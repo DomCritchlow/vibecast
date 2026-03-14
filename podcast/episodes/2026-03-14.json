@@ -1,0 +1,66 @@
+{
+  "guid": "2026-03-14",
+  "date": "2026-03-14T05:12:20.392498",
+  "title": "China’s Tech Ambitions & NASA’s Black Hole Discovery",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 266.1052631578947,
+  "duration_formatted": "4:26",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-14.mp3",
+    "audio_size_bytes": 6242472,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-14/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-14/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-03-14.txt"
+  },
+  "stories": [
+    {
+      "title": "ASAB Activities",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/asab-activities/",
+      "summary": "ASAB is focused on creating advanced concepts and technologies, in relation to aeronautics, to improve connectivity and save valuable resources. ASAB does this through developing aircraft concepts, airspace and aviation safety systems analysis, aerospace systems research strategic planning, and design and analysis method development. Meet the ASAB Team ASAB Activities RAVEN X-59 QUESST X-57 Maxwell Regional Air Mobility […] The post ASAB Activities appeared first on NASA Science."
+    },
+    {
+      "title": "VAB Activities",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/vab-activities/",
+      "summary": "VAB designs and evaluates revolutionary aircraft, launch vehicles, and spacecraft, with a focus on advancing aeronautics and space exploration. VAB supports decision makers by providing independent analysis and evaluation of vehicle system concepts and vehicle design. Meet the VAB Team VAB Activities Space Launch System (SLS) Human Landing System (HLS) Hypersonics Entry, Descent, and Landing […] The post VAB Activities appeared first on NASA Science."
+    },
+    {
+      "title": "Top brass in China reaffirm goal to be world leaders in tech, AI",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00814-3",
+      "summary": "Nature, Published online: 14 March 2026; doi:10.1038/d41586-026-00814-3The new five-year plan calls for more original scientific research to facilitate the country's bid for self-reliance."
+    },
+    {
+      "title": "The problem with Canada’s plan to buy scientific prestige",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00743-1",
+      "summary": "Nature, Published online: 13 March 2026; doi:10.1038/d41586-026-00743-1The government’s plans to poach 100 US researchers might make good economic sense. But what about the existing community?"
+    },
+    {
+      "title": "Archival Data From NASA’s NEOWISE Tracks Star Turning Into Black Hole",
+      "source": "NASA JPL News",
+      "url": "https://www.jpl.nasa.gov/news/archival-data-from-nasas-neowise-tracks-star-turning-into-black-hole",
+      "summary": "Researchers used data from the now-retired spacecraft and other space and ground-based observatories helped to piece together the mystery of a ‘failed’ supernova."
+    },
+    {
+      "title": "Can't wait for Artemis 2 to make history? Get up to 20% off these awesome Lego NASA Artemis rocket sets",
+      "source": "Space.com",
+      "url": "https://www.space.com/entertainment/space-toys-lego/get-up-to-20-percent-off-these-awesome-lego-nasa-artemis-rocket-sets-amazon-uk-big-spring-deal-days",
+      "summary": "Artemis 2's launch may have been pushed back but you build your own adventure with these Lego Ideas and Lego Technic Artemis Space Launch System sets, up to 20% off in Amazon UK's Big Spring Deal sales."
+    },
+    {
+      "title": "What went right this week: progress in tumultuous times, plus more",
+      "source": "Positive News",
+      "url": "https://www.positive.news/society/good-news-stories-from-week-10-of-2026/",
+      "summary": "Health breakthroughs, a Ukrainian conservation success, and a win for river defenders in the Amazon, plus more The post What went right this week: progress in tumultuous times, plus more appeared first on Positive News."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-03-14T05:13:22.239113",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
