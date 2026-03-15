@@ -1,0 +1,66 @@
+{
+  "guid": "2026-03-15",
+  "date": "2026-03-15T05:28:17.068646",
+  "title": "Sci-Fi Comics, AI Research & Japan’s Cell Therapy Breakth...",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 318.31578947368416,
+  "duration_formatted": "5:18",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-15.mp3",
+    "audio_size_bytes": 7381035,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-15/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-15/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-03-15.txt"
+  },
+  "stories": [
+    {
+      "title": "A Scavengers Reign artist explores contemplative sci-fi in new comics",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/894514/jonathan-djob-nkondo-artist-interview-kickstarter-scavengers-reign",
+      "summary": "You may recognize Jonathan Djob Nkondo's work from animated projects like the surreal sci-fi series Scavengers Reign or the recent Gorillaz short film The Mountain, The Moon Cave and The Sad God. But before that the French artist and animator made self-published comics that depicted strange alien worlds and future societies. Now he's revisiting that [&#8230;]"
+    },
+    {
+      "title": "Japan Approves the World’s First Treatment Made With Reprogrammed Human Cells",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/japan-approves-the-worlds-first-treatment-made-with-reprogrammed-human-cells/",
+      "summary": "Researchers in Japan pioneered reprogrammed cells 20 years ago. Now the country has given the first-ever authorizations to manufacture and sell medical products based on the technology."
+    },
+    {
+      "title": "Tree style invite systems reduce AI slop",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://abyss.fish/tree-style_invite_systems_reduce_AI_slop",
+      "summary": "Article URL: https://abyss.fish/tree-style_invite_systems_reduce_AI_slop Comments URL: https://news.ycombinator.com/item?id=47384374 Points: 3 # Comments: 1"
+    },
+    {
+      "title": "I Asked 4 AI Models to Research the Parasite Cleanse Hype",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://christiantech.substack.com/p/i-asked-4-ai-models-to-research-the",
+      "summary": "Article URL: https://christiantech.substack.com/p/i-asked-4-ai-models-to-research-the Comments URL: https://news.ycombinator.com/item?id=47383941 Points: 2 # Comments: 0"
+    },
+    {
+      "title": "Mars Swing",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/mars-swing/",
+      "summary": "Mars Swing This project has been archived. When traveling to Mars, the entry, descent, and landing (EDL) stages are among the most difficult to complete successfully. NASA Langley’s Vehicle Analysis Branch (VAB) conducted an internal study to tackle these challenges. Of the proposed solutions, the Mars Swing is among the most creative and innovative ideas. […] The post Mars Swing appeared first on NASA Science."
+    },
+    {
+      "title": "Two days, two coasts, two more SpaceX Starlink batches launched",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-launch-group-17-31-b1071-vsfb-ocisly-group-10-48-b1095-ccsfs-jrti",
+      "summary": "Two SpaceX Falcon 9 rockets carrying Starlink satellites were launched from Vandenberg Space Force Base in California and Cape Canaveral Space Force Station in Florida on March 13 and 14, 2026."
+    },
+    {
+      "title": "Author Correction: SLAMF6 as a drug-targetable suppressor of T cell immunity against cancer",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10376-z",
+      "summary": "Nature, Published online: 13 March 2026; doi:10.1038/s41586-026-10376-zAuthor Correction: SLAMF6 as a drug-targetable suppressor of T cell immunity against cancer"
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-03-15T05:29:26.498089",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
