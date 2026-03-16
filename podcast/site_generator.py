@@ -208,7 +208,7 @@ def save_site_pages(config: dict, site_dir: Path) -> None:
     ensure_asset_dirs(site_dir)
     
     # Render and save main pages
-    pages = ["index.html", "about.html", "docs.html"]
+    pages = ["index.html", "about.html", "docs.html", "art.html"]
     for page in pages:
         template = env.get_template(page)
         html = template.render(**context)
