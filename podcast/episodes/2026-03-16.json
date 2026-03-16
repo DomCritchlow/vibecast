@@ -1,0 +1,66 @@
+{
+  "guid": "2026-03-16",
+  "date": "2026-03-16T05:49:53.052629",
+  "title": "At-Home Hair Growth Drop & AI Devs Play Doom",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 293.4736842105263,
+  "duration_formatted": "4:53",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-16.mp3",
+    "audio_size_bytes": 7054400,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-16/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-16/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-03-16.txt"
+  },
+  "stories": [
+    {
+      "title": "This At-Home Hair Growth System Just Dropped in Price",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/irestore-deals-amazon-spring-sale-2026/",
+      "summary": "Our favorite red light therapy device for hair growth just dropped in price. Grab it while it lasts."
+    },
+    {
+      "title": "The AI Journey for Developers – explaining AI systems simply",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://www.amazon.com/dp/B0GSMTVWW5",
+      "summary": "Article URL: https://www.amazon.com/dp/B0GSMTVWW5 Comments URL: https://news.ycombinator.com/item?id=47394935 Points: 1 # Comments: 1"
+    },
+    {
+      "title": "Cañon Fiord’s Whirling Waters",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/earth/earth-observatory/canon-fiords-whirling-waters/",
+      "summary": "During the 2022 summer melt season, sediment plumes and fractured sea ice traced swirling eddies in a branch of the Nansen Sound fjord system in the Canadian Arctic. The post Cañon Fiord’s Whirling Waters appeared first on NASA Science."
+    },
+    {
+      "title": "Polymers with purpose: molecules can squirm free of the pack",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00767-7",
+      "summary": "Nature, Published online: 13 March 2026; doi:10.1038/d41586-026-00767-7Tightly packed molecular chains can start to wiggle in many directions when an enzyme introduces energy."
+    },
+    {
+      "title": "Briefing chat: ‘Can it run <i>Doom</i>?’ — why scientists got brain cells and a satellite to play the classic game",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00845-w",
+      "summary": "Nature, Published online: 13 March 2026; doi:10.1038/d41586-026-00845-wNature staff discuss some of the week's top science news."
+    },
+    {
+      "title": "Could solar panels help strengthen global food security?",
+      "source": "Positive News",
+      "url": "https://www.positive.news/environment/agriculture/could-solar-panels-help-strengthen-global-food-security/",
+      "summary": "Solar panels could increase global crop yields by creating cooler, more resilient growing conditions, researchers say The post Could solar panels help strengthen global food security? appeared first on Positive News."
+    },
+    {
+      "title": "Designing AI agents to resist prompt injection",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+      "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-03-16T05:51:02.043302",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

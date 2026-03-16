@@ -87,7 +87,14 @@
     "https://christiantech.substack.com/p/i-asked-4-ai-models-to-research-the",
     "https://www.nasa.gov/mars-swing/",
     "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-launch-group-17-31-b1071-vsfb-ocisly-group-10-48-b1095-ccsfs-jrti",
-    "https://www.nature.com/articles/s41586-026-10376-z"
+    "https://www.nature.com/articles/s41586-026-10376-z",
+    "https://www.wired.com/story/irestore-deals-amazon-spring-sale-2026/",
+    "https://www.amazon.com/dp/B0GSMTVWW5",
+    "https://science.nasa.gov/earth/earth-observatory/canon-fiords-whirling-waters/",
+    "https://www.nature.com/articles/d41586-026-00767-7",
+    "https://www.nature.com/articles/d41586-026-00845-w",
+    "https://www.positive.news/environment/agriculture/could-solar-panels-help-strengthen-global-food-security/",
+    "https://openai.com/index/designing-agents-to-resist-prompt-injection"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -177,7 +184,14 @@
     "https://christiantech.substack.com/p/i-asked-4-ai-models-to-research-the": "2026-03-15T05:29:26.515043",
     "https://www.nasa.gov/mars-swing/": "2026-03-15T05:29:26.515043",
     "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-launch-group-17-31-b1071-vsfb-ocisly-group-10-48-b1095-ccsfs-jrti": "2026-03-15T05:29:26.515043",
-    "https://www.nature.com/articles/s41586-026-10376-z": "2026-03-15T05:29:26.515043"
+    "https://www.nature.com/articles/s41586-026-10376-z": "2026-03-15T05:29:26.515043",
+    "https://www.wired.com/story/irestore-deals-amazon-spring-sale-2026/": "2026-03-16T05:51:02.062287",
+    "https://www.amazon.com/dp/B0GSMTVWW5": "2026-03-16T05:51:02.062287",
+    "https://science.nasa.gov/earth/earth-observatory/canon-fiords-whirling-waters/": "2026-03-16T05:51:02.062287",
+    "https://www.nature.com/articles/d41586-026-00767-7": "2026-03-16T05:51:02.062287",
+    "https://www.nature.com/articles/d41586-026-00845-w": "2026-03-16T05:51:02.062287",
+    "https://www.positive.news/environment/agriculture/could-solar-panels-help-strengthen-global-food-security/": "2026-03-16T05:51:02.062287",
+    "https://openai.com/index/designing-agents-to-resist-prompt-injection": "2026-03-16T05:51:02.062287"
   },
-  "last_run": "2026-03-15T05:29:26.515043"
+  "last_run": "2026-03-16T05:51:02.062287"
 }
