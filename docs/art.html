@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Art — Vibecast</title>
+    <meta name="description" content="Tech, science, and what&#39;s actually interesting">
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="alternate" type="application/rss+xml" title="Vibecast: Morning Thread RSS Feed" href="feed.xml">
+    
+    <!-- Google Fonts: Fraunces (headings) + Inter (body) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700;9..144,900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Design System + Components + Pages -->
+    <link rel="stylesheet" href="assets/css/design-system.css">
+    <link rel="stylesheet" href="assets/css/components.css">
+    <link rel="stylesheet" href="assets/css/pages.css">
+    
+    
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;1,300&family=Space+Mono&display=swap" rel="stylesheet">
+  <style>
+    .art-header {
+      padding: 20px 48px;
+    }
+
+    .art-header h1 {
+      font-size: clamp(1.6rem, 3vw, 2.6rem);
+      font-weight: 300;
+      letter-spacing: 0.04em;
+      color: #c0b8a8;
+      line-height: 1.1;
+      font-family: 'Cormorant Garamond', Georgia, serif;
+    }
+
+    .art-header h1 em {
+      font-style: italic;
+      color: #5a5550;
+    }
+
+    .art-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 2px;
+    }
+
+    @media (max-width: 1100px) {
+      .art-grid { grid-template-columns: repeat(3, 1fr); }
+    }
+
+    @media (max-width: 680px) {
+      .art-grid { grid-template-columns: repeat(2, 1fr); }
+      .art-header { padding: 48px 24px 40px; }
+    }
+
+    .art-episode {
+      aspect-ratio: 1;
+      position: relative;
+      overflow: hidden;
+      background: #141210;
+    }
+
+    .art-episode img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+  </style>
+
+</head>
+<body>
+    <div class="page">
+        <!-- Navigation -->
+        <nav class="nav">
+            <div class="nav-inner">
+                <div class="nav-brand">
+                    <a href="index.html" class="nav-logo">Vibecast</a>
+                    <span class="nav-host">with <strong>Bento</strong></span>
+                </div>
+                <button class="nav-toggle" aria-label="Toggle navigation" onclick="toggleNav()">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <line x1="3" y1="6" x2="21" y2="6"></line>
+                        <line x1="3" y1="12" x2="21" y2="12"></line>
+                        <line x1="3" y1="18" x2="21" y2="18"></line>
+                    </svg>
+                </button>
+                <ul class="nav-links" id="nav-links">
+                    <li><a href="index.html" class="nav-link ">Home</a></li>
+                    <li><a href="about.html" class="nav-link ">About</a></li>
+                    <li><a href="docs.html" class="nav-link ">Docs</a></li>
+                </ul>
+            </div>
+        </nav>
+        
+        <!-- Main Content -->
+        <main class="page-main">
+            
+  <div class="art-header">
+    <h1>Vibecast<em>: Art</em></h1>
+  </div>
+
+  <div class="art-grid" id="art-grid"></div>
+
+        </main>
+        
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="container footer-inner">
+                <div class="footer-brand">Vibecast</div>
+                <div class="footer-links">
+                    <a href="index.html" class="footer-link">Home</a>
+                    <a href="about.html" class="footer-link">About</a>
+                    <a href="docs.html" class="footer-link">Docs</a>
+                    
+                    <a href="https://github.com/domcritchlow/vibecast" class="footer-link" target="_blank" rel="noopener">GitHub</a>
+                    
+                </div>
+                <div class="footer-copy">© 2026 Dominic</div>
+            </div>
+        </footer>
+    </div>
+    
+    <!-- Transcript/Show Notes Modal -->
+    <div class="modal-overlay" id="transcript-modal">
+        <div class="modal">
+            <div class="modal-header">
+                <h3 class="modal-title" id="modal-title">Transcript</h3>
+                <button class="modal-close" onclick="closeModal()">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div id="modal-content"></div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        // Navigation toggle for mobile
+        function toggleNav() {
+            document.getElementById('nav-links').classList.toggle('open');
+        }
+        
+        // Modal functions
+        function openModal(title, content) {
+            const modal = document.getElementById('transcript-modal');
+            document.getElementById('modal-title').textContent = title;
+            document.getElementById('modal-content').innerHTML = content;
+            modal.classList.add('active');
+            document.body.style.overflow = 'hidden';
+        }
+        
+        function closeModal() {
+            document.getElementById('transcript-modal').classList.remove('active');
+            document.body.style.overflow = '';
+        }
+        
+        // Close modal on overlay click or Escape key
+        document.getElementById('transcript-modal').addEventListener('click', (e) => {
+            if (e.target.classList.contains('modal-overlay')) closeModal();
+        });
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') closeModal();
+        });
+        
+        // Utility: escape HTML
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+        
+        // Utility: convert URLs to links
+        function linkify(text) {
+            return text.split(' ').map(word => {
+                if (word.startsWith('http://') || word.startsWith('https://')) {
+                    return `<a href="${word}" target="_blank" rel="noopener">${word}</a>`;
+                }
+                return word;
+            }).join(' ');
+        }
+        
+        // Format text for display
+        function formatTextForDisplay(text) {
+            const escaped = escapeHtml(text);
+            const linked = linkify(escaped);
+            return linked.split('\n').join('<br>');
+        }
+        
+        // Copy to clipboard
+        function copyToClipboard(el) {
+            navigator.clipboard.writeText(el.textContent);
+            const original = el.textContent;
+            el.textContent = 'Copied!';
+            setTimeout(() => el.textContent = original, 1500);
+        }
+    </script>
+    
+    
+  <script>
+    const START_DATE = '2026-01-20';
+    const BASE_URL = 'https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes';
+
+    function generateDates(startStr) {
+      const dates = [];
+      const start = new Date(startStr + 'T12:00:00');
+      const today = new Date();
+      today.setHours(12, 0, 0, 0);
+      for (let d = new Date(today); d >= start; d.setDate(d.getDate() - 1)) {
+        dates.push(d.toISOString().split('T')[0]);
+      }
+      return dates;
+    }
+
+    const grid = document.getElementById('art-grid');
+
+    generateDates(START_DATE).forEach((dateStr, i) => {
+      const episode = document.createElement('div');
+      episode.className = 'art-episode';
+
+      const img = document.createElement('img');
+      img.alt = `Episode ${dateStr}`;
+      img.loading = i < 12 ? 'eager' : 'lazy';
+      img.decoding = 'async';
+
+      img.onerror = () => episode.remove();
+      img.src = `${BASE_URL}/${dateStr}/episode-art.png`;
+
+      episode.appendChild(img);
+      grid.appendChild(episode);
+    });
+  </script>
+
+</body>
+</html>

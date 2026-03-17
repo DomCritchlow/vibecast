@@ -94,7 +94,14 @@
     "https://www.nature.com/articles/d41586-026-00767-7",
     "https://www.nature.com/articles/d41586-026-00845-w",
     "https://www.positive.news/environment/agriculture/could-solar-panels-help-strengthen-global-food-security/",
-    "https://openai.com/index/designing-agents-to-resist-prompt-injection"
+    "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+    "https://science.nasa.gov/photojournal/sparcs-cubesat-first-light-images/",
+    "https://www.youtube.com/watch?v=dJACkKbN-Eo",
+    "https://science.nasa.gov/mission/roman-space-telescope/roman-knit-pattern/",
+    "https://www.space.com/space-exploration/100-years-after-robert-goddards-1st-liquid-fueled-rocket-launch-nasa-is-using-the-technology-to-send-astronauts-back-to-the-moon",
+    "https://www.space.com/astronomy/exoplanets/astronomers-discover-a-new-type-of-planet-that-probably-smells-like-rotten-eggs",
+    "https://www.nature.com/articles/s41586-026-10372-3",
+    "https://www.nature.com/articles/d41586-026-00769-5"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -191,7 +198,14 @@
     "https://www.nature.com/articles/d41586-026-00767-7": "2026-03-16T05:51:02.062287",
     "https://www.nature.com/articles/d41586-026-00845-w": "2026-03-16T05:51:02.062287",
     "https://www.positive.news/environment/agriculture/could-solar-panels-help-strengthen-global-food-security/": "2026-03-16T05:51:02.062287",
-    "https://openai.com/index/designing-agents-to-resist-prompt-injection": "2026-03-16T05:51:02.062287"
+    "https://openai.com/index/designing-agents-to-resist-prompt-injection": "2026-03-16T05:51:02.062287",
+    "https://science.nasa.gov/photojournal/sparcs-cubesat-first-light-images/": "2026-03-17T05:23:57.136529",
+    "https://www.youtube.com/watch?v=dJACkKbN-Eo": "2026-03-17T05:23:57.136529",
+    "https://science.nasa.gov/mission/roman-space-telescope/roman-knit-pattern/": "2026-03-17T05:23:57.136529",
+    "https://www.space.com/space-exploration/100-years-after-robert-goddards-1st-liquid-fueled-rocket-launch-nasa-is-using-the-technology-to-send-astronauts-back-to-the-moon": "2026-03-17T05:23:57.136529",
+    "https://www.space.com/astronomy/exoplanets/astronomers-discover-a-new-type-of-planet-that-probably-smells-like-rotten-eggs": "2026-03-17T05:23:57.136529",
+    "https://www.nature.com/articles/s41586-026-10372-3": "2026-03-17T05:23:57.136529",
+    "https://www.nature.com/articles/d41586-026-00769-5": "2026-03-17T05:23:57.136529"
   },
-  "last_run": "2026-03-16T05:51:02.062287"
+  "last_run": "2026-03-17T05:23:57.136529"
 }

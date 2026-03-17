@@ -1,0 +1,66 @@
+{
+  "guid": "2026-03-17",
+  "date": "2026-03-17T05:22:46.182033",
+  "title": "SPARCS CubeSat Images & Nvidia DLSS 5 Breakthrough",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 284.6315789473684,
+  "duration_formatted": "4:44",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-17.mp3",
+    "audio_size_bytes": 6787325,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-17/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-17/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-03-17.txt"
+  },
+  "stories": [
+    {
+      "title": "SPARCS CubeSat ‘First Light’ Images",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/photojournal/sparcs-cubesat-first-light-images/",
+      "summary": "Description This pair of images shows stars observed by the SPARCS (Star-Planet Activity Research CubeSat) space telescope simultaneously in the near-ultraviolet, left, and far-ultraviolet, right. These observations were recorded on Feb. 6, 2026, three weeks after the cube satellite, or CubeSat, launched aboard a SpaceX Falcon 9 on Jan. 11. The fact that one star [&#8230;] The post SPARCS CubeSat ‘First Light’ Images appeared first on NASA Science."
+    },
+    {
+      "title": "Nvidia DLSS 5 – AI-Powered Breakthrough in Visual Fidelity for Games [video]",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://www.youtube.com/watch?v=dJACkKbN-Eo",
+      "summary": "Article URL: https://www.youtube.com/watch?v=dJACkKbN-Eo Comments URL: https://news.ycombinator.com/item?id=47408587 Points: 3 # Comments: 0"
+    },
+    {
+      "title": "Roman Knit Pattern",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/mission/roman-space-telescope/roman-knit-pattern/",
+      "summary": "[From Nancy Grace Roman Space Telescope Spacecraft Systems Engineer, Missie Vess] Below you will find the color work pattern for the Roman emblem, the Wide Field Instrument focal plane, seen on figurine Nancy’s knitted blanket in the images below. This color work pattern can be incorporated into a myriad of different knitting projects such as [&#8230;] The post Roman Knit Pattern appeared first on NASA Science."
+    },
+    {
+      "title": "100 years after Robert Goddard's 1st liquid-fueled rocket launch, NASA is using the technology to send astronauts back to the moon",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/100-years-after-robert-goddards-1st-liquid-fueled-rocket-launch-nasa-is-using-the-technology-to-send-astronauts-back-to-the-moon",
+      "summary": "100 years after Robert Goddard launched the first liquid-fueled rocket, NASA is preparing a return to the moon with the Artemis program to extend humanity's reach into deep space."
+    },
+    {
+      "title": "Astronomers discover a new type of planet that probably smells like rotten eggs",
+      "source": "Space.com",
+      "url": "https://www.space.com/astronomy/exoplanets/astronomers-discover-a-new-type-of-planet-that-probably-smells-like-rotten-eggs",
+      "summary": "Using the James Webb Space Telescope, astronomers have discovered an example of a new class of exoplanet, and it smells like rotten eggs."
+    },
+    {
+      "title": "Direct conversion from alkenes to alkynes",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10372-3",
+      "summary": "Nature, Published online: 16 March 2026; doi:10.1038/s41586-026-10372-3Direct conversion from alkenes to alkynes"
+    },
+    {
+      "title": "A single course of antibiotics can cause lingering changes in gut microbes",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00769-5",
+      "summary": "Nature, Published online: 16 March 2026; doi:10.1038/d41586-026-00769-5Microbial diversity loss seen after a course of some commonly prescribed antibiotics can persist for years."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-03-17T05:23:57.115295",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
