@@ -108,7 +108,14 @@
     "https://www.nature.com/articles/d41586-026-00863-8",
     "https://openai.com/index/equipping-workers-with-insights-about-compensation",
     "https://arstechnica.com/science/2026/03/university-group-sues-trump-administration-over-shutdown-of-climate-center/",
-    "https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/"
+    "https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/",
+    "https://www.nature.com/articles/s41586-026-10235-x",
+    "https://www.nature.com/articles/s41586-026-10287-z",
+    "https://www.theverge.com/tech/897114/amazon-usps-contract-money-running-out",
+    "https://www.ui-stack.dev/",
+    "https://www.nasa.gov/stmd-flight-opportunities/transitions-of-flight-tested-technologies/in-space-relay-and-wifi-service/",
+    "https://www.space.com/astronomy/stars/at-the-edge-of-what-we-thought-possible-astronomers-find-extremely-rare-star-from-ancient-universe",
+    "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -219,7 +226,14 @@
     "https://www.nature.com/articles/d41586-026-00863-8": "2026-03-18T05:27:44.921683",
     "https://openai.com/index/equipping-workers-with-insights-about-compensation": "2026-03-18T05:27:44.921683",
     "https://arstechnica.com/science/2026/03/university-group-sues-trump-administration-over-shutdown-of-climate-center/": "2026-03-18T05:27:44.921683",
-    "https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/": "2026-03-18T05:27:44.921683"
+    "https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/": "2026-03-18T05:27:44.921683",
+    "https://www.nature.com/articles/s41586-026-10235-x": "2026-03-19T05:24:56.415675",
+    "https://www.nature.com/articles/s41586-026-10287-z": "2026-03-19T05:24:56.415675",
+    "https://www.theverge.com/tech/897114/amazon-usps-contract-money-running-out": "2026-03-19T05:24:56.415675",
+    "https://www.ui-stack.dev/": "2026-03-19T05:24:56.415675",
+    "https://www.nasa.gov/stmd-flight-opportunities/transitions-of-flight-tested-technologies/in-space-relay-and-wifi-service/": "2026-03-19T05:24:56.415675",
+    "https://www.space.com/astronomy/stars/at-the-edge-of-what-we-thought-possible-astronomers-find-extremely-rare-star-from-ancient-universe": "2026-03-19T05:24:56.415675",
+    "https://openai.com/index/introducing-gpt-5-4-mini-and-nano": "2026-03-19T05:24:56.415675"
   },
-  "last_run": "2026-03-18T05:27:44.921683"
+  "last_run": "2026-03-19T05:24:56.415675"
 }

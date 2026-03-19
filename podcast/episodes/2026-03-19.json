@@ -1,0 +1,66 @@
+{
+  "guid": "2026-03-19",
+  "date": "2026-03-19T05:23:42.100100",
+  "title": "T Cell Reprogramming & Satellite River Pulse Insights",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 291.36842105263156,
+  "duration_formatted": "4:51",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-19.mp3",
+    "audio_size_bytes": 7130887,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-19/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-19/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-03-19.txt"
+  },
+  "stories": [
+    {
+      "title": "In vivo site-specific engineering to reprogram T cells",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10235-x",
+      "summary": "Nature, Published online: 18 March 2026; doi:10.1038/s41586-026-10235-xStable and cell-specific transgene expression can be achieved through in vivo site-specific integration of large DNA payloads using a two-vector system of enveloped delivery vehicles and adeno-associated viruses."
+    },
+    {
+      "title": "Observing the tidal pulse of rivers from wide-swath satellite altimetry",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10287-z",
+      "summary": "Nature, Published online: 18 March 2026; doi:10.1038/s41586-026-10287-zData from the recently launched SWOT satellite, a wide-swath satellite altimeter, have been used to map tidal dynamics for thousands of coastal rivers and to document the factors controlling the inland extent of tides."
+    },
+    {
+      "title": "Amazon doesn’t want the blame for the Post Office going under",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/897114/amazon-usps-contract-money-running-out",
+      "summary": "Amazon is going on the defensive after a report from The Wall Street Journal revealed that the ecommerce giant plans to slash shipments with the United States Postal Service, which said this week that it's running out of money. In a lengthy statement published on Wednesday, Amazon says it didn't want to reduce shipments with [&#8230;]"
+    },
+    {
+      "title": "Show HN: UI-stack – Claude skill that enforces design system on AI-generated UI",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://www.ui-stack.dev/",
+      "summary": "The problem with AI-generated frontend code is that without constraints, every generation picks different spacing, colors, and patterns. The 50th component looks nothing like the first. ui-stack is a Claude Code skill — a set of structured reference files that Claude reads when building UI.It's built for Next.js + Tailwind + Shadcn but the principles are framework-agnostic. What's interesting about the \"skill\" approach vs. a system prompt: the reference is modular and file-based, so you can update one file (say, colors.md) and the change propagates everywhere. There's also a browser-based config dashboard so you can customize your brand palette and font before the skill activates. Would love feedback — especially from anyone who's tried to enforce design consistency across a large Claude Code project. Comments URL: https://news.ycombinator.com/item?id=47435063 Points: 1 # Comments: 1"
+    },
+    {
+      "title": "In-Space Relay and Wifi Service",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/stmd-flight-opportunities/transitions-of-flight-tested-technologies/in-space-relay-and-wifi-service/",
+      "summary": "In-space wifi technology matured through NASA’s Flight Opportunities program will be demonstrated on an upcoming commercial orbital flight, illustrating how suborbital flight testing advances technology readiness for space missions. The post In-Space Relay and Wifi Service appeared first on NASA Science."
+    },
+    {
+      "title": "'At the edge of what we thought possible': Astronomers find extremely rare star from ancient universe",
+      "source": "Space.com",
+      "url": "https://www.space.com/astronomy/stars/at-the-edge-of-what-we-thought-possible-astronomers-find-extremely-rare-star-from-ancient-universe",
+      "summary": "\"Cosmic archaeologists\" have discovered an iron-deficient second-generation star, which provides evidence of how ancient stars enriched their successors."
+    },
+    {
+      "title": "Introducing GPT-5.4 mini and nano",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+      "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-03-19T05:24:56.394629",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
