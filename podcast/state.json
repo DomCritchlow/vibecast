@@ -115,7 +115,14 @@
     "https://www.ui-stack.dev/",
     "https://www.nasa.gov/stmd-flight-opportunities/transitions-of-flight-tested-technologies/in-space-relay-and-wifi-service/",
     "https://www.space.com/astronomy/stars/at-the-edge-of-what-we-thought-possible-astronomers-find-extremely-rare-star-from-ancient-universe",
-    "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
+    "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+    "https://science.nasa.gov/centers-and-facilities/goddard/nasa-laser-reflecting-instrument-makes-gps-satellite-more-accurate/",
+    "https://www.nature.com/articles/d41586-026-00850-z",
+    "https://www.nature.com/articles/d41586-026-00618-5",
+    "https://arstechnica.com/security/2026/03/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
+    "https://www.wired.com/story/made-in-china-a-new-game-turns-the-h-1b-visa-system-into-a-surreal-simulation/",
+    "https://www.nasa.gov/blogs/missions/2026/03/20/artemis-ii-moon-rocket-heads-back-to-launch-pad/",
+    "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -233,7 +240,14 @@
     "https://www.ui-stack.dev/": "2026-03-19T05:24:56.415675",
     "https://www.nasa.gov/stmd-flight-opportunities/transitions-of-flight-tested-technologies/in-space-relay-and-wifi-service/": "2026-03-19T05:24:56.415675",
     "https://www.space.com/astronomy/stars/at-the-edge-of-what-we-thought-possible-astronomers-find-extremely-rare-star-from-ancient-universe": "2026-03-19T05:24:56.415675",
-    "https://openai.com/index/introducing-gpt-5-4-mini-and-nano": "2026-03-19T05:24:56.415675"
+    "https://openai.com/index/introducing-gpt-5-4-mini-and-nano": "2026-03-19T05:24:56.415675",
+    "https://science.nasa.gov/centers-and-facilities/goddard/nasa-laser-reflecting-instrument-makes-gps-satellite-more-accurate/": "2026-03-20T05:17:59.949455",
+    "https://www.nature.com/articles/d41586-026-00850-z": "2026-03-20T05:17:59.949455",
+    "https://www.nature.com/articles/d41586-026-00618-5": "2026-03-20T05:17:59.949455",
+    "https://arstechnica.com/security/2026/03/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/": "2026-03-20T05:17:59.949455",
+    "https://www.wired.com/story/made-in-china-a-new-game-turns-the-h-1b-visa-system-into-a-surreal-simulation/": "2026-03-20T05:17:59.949455",
+    "https://www.nasa.gov/blogs/missions/2026/03/20/artemis-ii-moon-rocket-heads-back-to-launch-pad/": "2026-03-20T05:17:59.949455",
+    "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment": "2026-03-20T05:17:59.949455"
   },
-  "last_run": "2026-03-19T05:24:56.415675"
+  "last_run": "2026-03-20T05:17:59.949455"
 }

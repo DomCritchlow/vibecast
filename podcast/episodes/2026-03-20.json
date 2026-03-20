@@ -1,0 +1,66 @@
+{
+  "guid": "2026-03-20",
+  "date": "2026-03-20T05:16:39.621741",
+  "title": "NASA GPS Boost & Ocean Pollution Crisis Explored",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 311.15789473684214,
+  "duration_formatted": "5:11",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-20.mp3",
+    "audio_size_bytes": 7165369,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-20/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-20/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-03-20.txt"
+  },
+  "stories": [
+    {
+      "title": "NASA Laser Reflecting Instrument Makes GPS Satellite More Accurate",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/centers-and-facilities/goddard/nasa-laser-reflecting-instrument-makes-gps-satellite-more-accurate/",
+      "summary": "A NASA laser reflecting technology that will aid Global Positioning System (GPS) accuracy is now operational as of March 9. The instrument, known as a laser retroreflector array, or LRA, launched aboard GPS III SV-09, the ninth of U.S. Space Force’s Block III Global Positioning System satellites, on Jan. 27. LRAs are sets of mirrors [&#8230;] The post NASA Laser Reflecting Instrument Makes GPS Satellite More Accurate appeared first on NASA Science."
+    },
+    {
+      "title": "Chemical pollutants are rife across the world’s oceans",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00850-z",
+      "summary": "Nature, Published online: 20 March 2026; doi:10.1038/d41586-026-00850-zCompounds that are used to make plastics and personal-care products were found in all types of marine environment, a meta-analysis shows."
+    },
+    {
+      "title": "China could be the world’s biggest public funder of science within two years",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00618-5",
+      "summary": "Nature, Published online: 19 March 2026; doi:10.1038/d41586-026-00618-5Forecast by science-policy researchers raises questions about where the epicentre of global research will shift to in the coming decade."
+    },
+    {
+      "title": "Millions of iPhones can be hacked with a new tool found in the wild",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/03/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
+      "summary": "DarkSword, a powerful iPhone-hacking technique, has been discovered in use by Russian hackers."
+    },
+    {
+      "title": "A New Game Turns the H-1B Visa System Into a Surreal Simulation",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/made-in-china-a-new-game-turns-the-h-1b-visa-system-into-a-surreal-simulation/",
+      "summary": "Inspired by real immigrant stories, H1B.Life captures the uncertainty, trade-offs, and pure luck that shape the lives of people trying to build a future in the US."
+    },
+    {
+      "title": "Artemis II Moon Rocket Heads Back to Launch Pad",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/blogs/missions/2026/03/20/artemis-ii-moon-rocket-heads-back-to-launch-pad/",
+      "summary": "NASA’s Artemis II SLS (Space Launch System) rocket and Orion spacecraft slated to send four astronauts around the Moon began rolling to Launch Pad 39B at 12:20 a.m. EDT on Friday, March 20. Rollout operations at the agency’s Kennedy Space Center in Florida were delayed earlier in the day due to high winds in the area. The trek to the pad is expected to take […] The post Artemis II Moon Rocket Heads Back to Launch Pad appeared first on NASA Science."
+    },
+    {
+      "title": "How we monitor internal coding agents for misalignment",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-03-20T05:17:59.928683",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
