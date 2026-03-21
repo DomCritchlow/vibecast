@@ -1,0 +1,66 @@
+{
+  "guid": "2026-03-21",
+  "date": "2026-03-21T05:07:26.555790",
+  "title": "OpenAI’s Automated Researcher & Australia’s Visa Crisis",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 252.6315789473684,
+  "duration_formatted": "4:12",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-21.mp3",
+    "audio_size_bytes": 5643745,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-21/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-21/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-03-21.txt"
+  },
+  "stories": [
+    {
+      "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI is throwing everything into building a fully automated researcher&#160; OpenAI has a new grand challenge: building an AI researcher—a fully automated agent-based system capable of tackling large, complex problems by&#8230;"
+    },
+    {
+      "title": "OpenAI is throwing everything into building a fully automated researcher",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
+      "summary": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated agent-based system that will be able to go off and tackle large, complex problems by itself. ​​OpenAI says that this new&#8230;"
+    },
+    {
+      "title": "SACD in Action",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/sacd-in-action/",
+      "summary": "The Systems Analysis and Concepts Directorate (SACD) in Action Learn more about our work for NASA and the nation. The post SACD in Action appeared first on NASA Science."
+    },
+    {
+      "title": "‘Unaffordable’ visa price hike threatens Australia’s researcher pipeline",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00822-3",
+      "summary": "Nature, Published online: 20 March 2026; doi:10.1038/d41586-026-00822-3Doubling of the cost of a key visa used by graduates to stay in the country between jobs has sparked critique and consternation."
+    },
+    {
+      "title": "The mid-career reset: how to be strategic about your research direction",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-025-04077-2",
+      "summary": "Nature, Published online: 20 March 2026; doi:10.1038/d41586-025-04077-2A decade after completing a PhD, your research can begin to lose direction. So consider each opportunity carefully, says Mohamed Ezat."
+    },
+    {
+      "title": "An automated moderation error left Tumblr users panicked",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/898402/tumblr-automated-account-bans-march-2026",
+      "summary": "Tumblr users were left scrambling on Wednesday after dozens of accounts were banned in the same afternoon by an automated system. Numerous users contacted The Verge about the incident, claiming that the wave of bans disproportionately seemed to impact accounts run by users who identify as trans women, many of whom were given no specific [&#8230;]"
+    },
+    {
+      "title": "Windows 11 is finally getting a movable taskbar",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/897849/microsoft-windows-11-taskbar-vertical-top-movable",
+      "summary": "It's taken almost five years, but Microsoft is finally bringing back the ability to move the Windows taskbar to the top or sides of your screen. The movable taskbar is part of some much bigger changes coming to Windows 11 this year in response to growing criticism of the operating system's performance, reliability, and user [&#8230;]"
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-03-21T05:08:26.747889",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
