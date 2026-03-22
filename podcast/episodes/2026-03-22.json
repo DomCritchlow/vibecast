@@ -1,0 +1,66 @@
+{
+  "guid": "2026-03-22",
+  "date": "2026-03-22T05:19:46.784155",
+  "title": "AI Bugs in Linux & Mind-Altering Drug Trials Fail",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 283.36842105263156,
+  "duration_formatted": "4:43",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-22.mp3",
+    "audio_size_bytes": 6637486,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-22/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-22/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-03-22.txt"
+  },
+  "stories": [
+    {
+      "title": "Mind-altering substances are (still) falling short in clinical trials",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/",
+      "summary": "This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major focus of clinical research. Compounds like psilocybin—which is found in magic mushrooms—are being explored for all sorts of health applications, including treatments for depression, PTSD, addiction, and even obesity. Over&#8230;"
+    },
+    {
+      "title": "Sashiko: AI code review system for the Linux kernel spots bugs humans miss",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://www.theregister.com/2026/03/20/sashiko_code_review_linux/",
+      "summary": "Article URL: https://www.theregister.com/2026/03/20/sashiko_code_review_linux/ Comments URL: https://news.ycombinator.com/item?id=47474684 Points: 1 # Comments: 0"
+    },
+    {
+      "title": "Show HN: CRSS v0.1 – a primitive for sharing agent memory and behavior",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://gitlab.com/0xc4ff31n3/crss",
+      "summary": "cRSS enables Agents to have shared memory (Agent B knows your preferences because you told Agent A) or to share behavior. (Agent B adopts behavioral characteristics of Agent A).Not a library, framework, nor storage system.cRSS is a primitive.cRSS turns LLM context mutation into structured, deterministic, auditable event feed (like RSS + event sourcing + git-like diffs), so multiple agents can share, replay, audit, and deterministically reconstruct what went into each model inference. Comments URL: https://news.ycombinator.com/item?id=47473767 Points: 1 # Comments: 0"
+    },
+    {
+      "title": "Hangar One Restoration Project",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/centers-and-facilities/ames/hangar-one-restoration-project/",
+      "summary": "Editor’s Note: This article was originally published on April 25, 2022 and has been updated to reflect changes including the completion of Hangar One’s restoration. Restoration has been completed on Hangar One, a historic landmark in the San Francisco Bay Area and a key part of the region’s early aviation history. In December 2025, Planetary Ventures completed restoration of […] The post Hangar One Restoration Project appeared first on NASA Science."
+    },
+    {
+      "title": "NASA Selects University Finalists for Technology Concepts Competition",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-selects-university-finalists-for-technology-concepts-competition/",
+      "summary": "NASA selected 14 university teams from across the nation as finalists in the 2026 Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) Competition. This NASA challenge tasks students to design innovative concepts that could further human life and work on the Moon, Mars, and beyond. The competition links academia and the aerospace community, fostering innovation, […] The post NASA Selects University Finalists for Technology Concepts Competition appeared first on NASA Science."
+    },
+    {
+      "title": "The Jellies That Evolved a Different Way To Keep Time",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/the-jellies-that-evolved-a-different-way-to-keep-time-20260320/",
+      "summary": "Off the coast of Japan, biologists netted a pea-size jellyfish with an unusual circadian clock — a chance finding that suggests there are likely more overlooked biological timekeeping mechanisms to be discovered. The post The Jellies That Evolved a Different Way To Keep Time first appeared on Quanta Magazine"
+    },
+    {
+      "title": "Author Correction: A PP1–PP2A phosphatase relay controls mitotic progression",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10411-z",
+      "summary": "Nature, Published online: 20 March 2026; doi:10.1038/s41586-026-10411-zAuthor Correction: A PP1–PP2A phosphatase relay controls mitotic progression"
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-03-22T05:20:53.085382",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
