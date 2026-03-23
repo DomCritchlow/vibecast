@@ -1,0 +1,66 @@
+{
+  "guid": "2026-03-23",
+  "date": "2026-03-23T05:40:43.942361",
+  "title": "Mighty Mini-Magnets, Scientist Humor & OpenAI's Astral Deal",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 292.2105263157895,
+  "duration_formatted": "4:52",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-23.mp3",
+    "audio_size_bytes": 7095151,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-23/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-23/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-03-23.txt"
+  },
+  "stories": [
+    {
+      "title": "About Transformational Tools and Technologies (TTT)",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/feature/about-transformational-tools-technologies/",
+      "summary": "About TTT Transformational Tools and Technologies The Transformational Tools and Technologies (TTT) project conducts cutting-edge, foundational research and delivers impactful solutions that are vital to NASA’s missions in aviation and space. TTT advances the state of the art by integrating innovative methods and world-class computational, experimental, and flight capabilities to transform aerospace engineering and discover [&#8230;] The post About Transformational Tools and Technologies (TTT) appeared first on NASA Science."
+    },
+    {
+      "title": "Transformational Tools and Technologies Resources",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/directorates/armd/tacp/ttt/ttt-resources/",
+      "summary": "Vision Studies, Analysis of Alternatives (AoA) Studies, and White Papers The post Transformational Tools and Technologies Resources appeared first on NASA Science."
+    },
+    {
+      "title": "Mighty mini-magnet is low in cost and light on energy use",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00851-y",
+      "summary": "Nature, Published online: 20 March 2026; doi:10.1038/d41586-026-00851-yA compact device can produce a magnetic field that is more than 800,000 times stronger than Earth’s."
+    },
+    {
+      "title": "Briefing Chat: Are scientists funny? The evidence is in — and it's no joke",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00937-7",
+      "summary": "Nature, Published online: 20 March 2026; doi:10.1038/d41586-026-00937-7Nature staff discuss some of the week’s top science news."
+    },
+    {
+      "title": "OpenAI to acquire Astral",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/openai-to-acquire-astral",
+      "summary": "Accelerates Codex growth to power the next generation of Python developer tools"
+    },
+    {
+      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/japan-teen-safety-blueprint",
+      "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI."
+    },
+    {
+      "title": "From games to biology and beyond: 10 years of AlphaGo’s impact",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/10-years-of-alphago/",
+      "summary": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-03-23T05:42:00.763641",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

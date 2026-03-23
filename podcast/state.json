@@ -136,7 +136,14 @@
     "https://www.nasa.gov/centers-and-facilities/ames/hangar-one-restoration-project/",
     "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-selects-university-finalists-for-technology-concepts-competition/",
     "https://www.quantamagazine.org/the-jellies-that-evolved-a-different-way-to-keep-time-20260320/",
-    "https://www.nature.com/articles/s41586-026-10411-z"
+    "https://www.nature.com/articles/s41586-026-10411-z",
+    "https://www.nasa.gov/feature/about-transformational-tools-technologies/",
+    "https://www.nasa.gov/directorates/armd/tacp/ttt/ttt-resources/",
+    "https://www.nature.com/articles/d41586-026-00851-y",
+    "https://www.nature.com/articles/d41586-026-00937-7",
+    "https://openai.com/index/openai-to-acquire-astral",
+    "https://openai.com/index/japan-teen-safety-blueprint",
+    "https://deepmind.google/blog/10-years-of-alphago/"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -275,7 +282,14 @@
     "https://www.nasa.gov/centers-and-facilities/ames/hangar-one-restoration-project/": "2026-03-22T05:20:53.106383",
     "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-selects-university-finalists-for-technology-concepts-competition/": "2026-03-22T05:20:53.106383",
     "https://www.quantamagazine.org/the-jellies-that-evolved-a-different-way-to-keep-time-20260320/": "2026-03-22T05:20:53.106383",
-    "https://www.nature.com/articles/s41586-026-10411-z": "2026-03-22T05:20:53.106383"
+    "https://www.nature.com/articles/s41586-026-10411-z": "2026-03-22T05:20:53.106383",
+    "https://www.nasa.gov/feature/about-transformational-tools-technologies/": "2026-03-23T05:42:00.784332",
+    "https://www.nasa.gov/directorates/armd/tacp/ttt/ttt-resources/": "2026-03-23T05:42:00.784332",
+    "https://www.nature.com/articles/d41586-026-00851-y": "2026-03-23T05:42:00.784332",
+    "https://www.nature.com/articles/d41586-026-00937-7": "2026-03-23T05:42:00.784332",
+    "https://openai.com/index/openai-to-acquire-astral": "2026-03-23T05:42:00.784332",
+    "https://openai.com/index/japan-teen-safety-blueprint": "2026-03-23T05:42:00.784332",
+    "https://deepmind.google/blog/10-years-of-alphago/": "2026-03-23T05:42:00.784332"
   },
-  "last_run": "2026-03-22T05:20:53.106383"
+  "last_run": "2026-03-23T05:42:00.784332"
 }
