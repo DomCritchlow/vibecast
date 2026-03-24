@@ -1,0 +1,66 @@
+{
+  "guid": "2026-03-24",
+  "date": "2026-03-24T05:24:05.405185",
+  "title": "Animal Welfare Meets AI & Kalshi’s New Trading Rules",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 322.5263157894737,
+  "duration_formatted": "5:22",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-24.mp3",
+    "audio_size_bytes": 7579148,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-24/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-24/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-03-24.txt"
+  },
+  "stories": [
+    {
+      "title": "How I squeeze fresh science from public data",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00434-x",
+      "summary": "Nature, Published online: 23 March 2026; doi:10.1038/d41586-026-00434-xFor cash-strapped and early-career researchers, archived data sets can fuel new science."
+    },
+    {
+      "title": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Bay Area’s animal welfare movement wants to recruit AI&#160; In early February, animal welfare advocates and AI researchers arrived in stocking feet at Mox, a scrappy, shoes-free coworking space in&#8230;"
+    },
+    {
+      "title": "The Bay Area’s animal welfare movement wants to recruit AI",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/",
+      "summary": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Persian rugs blanketed the floor, and mosaic lamps glowed beside potted plants.&#160; In the common area, a wildlife advocate spoke passionately to a crowd lounging in&#8230;"
+    },
+    {
+      "title": "Kalshi says it will block politicians and athletes from trading in markets they’re tied to",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/899097/kalshi-politicians-athletes-insider-trading-blocked",
+      "summary": "The prediction market platform Kalshi says it's rolling out new guardrails to \"preemptively block\" political candidates and athletes from trading in their own markets, as reported earlier by Axios. In addition to blocking political candidates from trading on their own campaigns, Kalshi says its system will also prevent professional and college sports athletes, referees, and [&#8230;]"
+    },
+    {
+      "title": "PDP’s wireless guitar controller has returned to its best price to date",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/898962/pdp-riffmaster-guitar-controller-amazon-big-spring-sale-2026-deal",
+      "summary": "The early 2020s were kind of a dark time if you were a fan of Rock Band. PlayStation 5 and Xbox Series X owners didn&#8217;t get an improved, more feature-packed guitar controller until early 2024 when PDP launched the Riffmaster. While it launched for $129.99 and later rose to $149.99, you can now grab it [&#8230;]"
+    },
+    {
+      "title": "A Billionaire-Backed Startup Wants to Grow 'Organ Sacks' to Replace Animal Testing",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/a-billionaire-backed-startup-wants-to-grow-organ-sacks-to-replace-animal-testing/",
+      "summary": "R3 Bio has a bold idea for replacing lab animals: genetically-engineered whole organ systems that lack a brain. The long-term goal, says a cofounder, is to make human versions."
+    },
+    {
+      "title": "Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://twitter.com/danveloper/status/2034353876753592372",
+      "summary": "Article URL: https://twitter.com/danveloper/status/2034353876753592372 Comments URL: https://news.ycombinator.com/item?id=47498414 Points: 1 # Comments: 1"
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-03-24T05:25:24.950831",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
