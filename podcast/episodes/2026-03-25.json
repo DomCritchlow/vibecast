@@ -1,0 +1,66 @@
+{
+  "guid": "2026-03-25",
+  "date": "2026-03-25T05:23:55.792366",
+  "title": "UK Airborne Lab Axed & Mouse Cloning Breakthrough",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 283.36842105263156,
+  "duration_formatted": "4:43",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-25.mp3",
+    "audio_size_bytes": 7085748,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-25/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-25/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-03-25.txt"
+  },
+  "stories": [
+    {
+      "title": "UK scraps airborne lab that tracks climate, pollution and weather systems",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00941-x",
+      "summary": "Nature, Published online: 24 March 2026; doi:10.1038/d41586-026-00941-xUK scraps airborne lab that tracks climate, pollution and weather systems"
+    },
+    {
+      "title": "Can a mouse be cloned indefinitely? Decades-long experiment has answers",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00945-7",
+      "summary": "Nature, Published online: 24 March 2026; doi:10.1038/d41586-026-00945-7Repeated cloning from a single mouse failed after 58 generations. Researchers say harmful DNA changes are to blame."
+    },
+    {
+      "title": "Helping developers build safer AI experiences for teens",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+      "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems."
+    },
+    {
+      "title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The hardest question to answer about AI-fueled&#160;delusions&#160; What&#160;actually happens&#160;when people spiral into delusion with AI? To find out, Stanford researchers&#160;analyzed&#160;transcripts from chatbot users who experienced these spirals.&#160; Their findings suggest that&#8230;"
+    },
+    {
+      "title": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt",
+      "summary": "On Tuesday afternoon, OpenAI announced \"We're saying goodbye to Sora,\" the video generation tool that it launched at the end of 2024, and centered in a massive licensing deal with Disney only a few months ago. The Wall Street Journal reported the move earlier, saying that OpenAI boss Sam Altman had informed staff that both [&#8230;]"
+    },
+    {
+      "title": "Apple is testing a standalone app for its overhauled Siri",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/899801/apple-wwdc-2026-new-siri-apple-intelligence-standalone-app",
+      "summary": "Apple's efforts to rebuild its Apple Intelligence AI platform will make its debut at its Worldwide Developers Conference on June 8th. A new version of Siri that transforms the voice assistant into a \"systemwide AI agent with deep integration across applications\" will be announced at WWDC 2026, according to a new report from Bloomberg's Mark [&#8230;]"
+    },
+    {
+      "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+      "summary": "Article URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/ Comments URL: https://news.ycombinator.com/item?id=47513475 Points: 2 # Comments: 0"
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-03-25T05:25:01.206706",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
