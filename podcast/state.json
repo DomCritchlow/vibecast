@@ -157,7 +157,14 @@
     "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/",
     "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt",
     "https://www.theverge.com/tech/899801/apple-wwdc-2026-new-siri-apple-intelligence-standalone-app",
-    "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/"
+    "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+    "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
+    "https://www.jpl.nasa.gov/news/nasa-isro-satellite-captures-pacific-northwest-through-clouds",
+    "https://www.jpl.nasa.gov/news/nasa-research-proposes-technology-to-seek-earth-like-exoplanets",
+    "https://www.nature.com/articles/s41586-026-10112-7",
+    "https://openai.com/index/our-approach-to-the-model-spec",
+    "https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/",
+    "https://www.nasa.gov/general/nasa-ames-experts-available-for-artemis-ii-flight-test-interviews/"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -317,7 +324,14 @@
     "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/": "2026-03-25T05:25:01.227724",
     "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt": "2026-03-25T05:25:01.227724",
     "https://www.theverge.com/tech/899801/apple-wwdc-2026-new-siri-apple-intelligence-standalone-app": "2026-03-25T05:25:01.227724",
-    "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/": "2026-03-25T05:25:01.227724"
+    "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/": "2026-03-25T05:25:01.227724",
+    "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/": "2026-03-26T05:43:26.086409",
+    "https://www.jpl.nasa.gov/news/nasa-isro-satellite-captures-pacific-northwest-through-clouds": "2026-03-26T05:43:26.086409",
+    "https://www.jpl.nasa.gov/news/nasa-research-proposes-technology-to-seek-earth-like-exoplanets": "2026-03-26T05:43:26.086409",
+    "https://www.nature.com/articles/s41586-026-10112-7": "2026-03-26T05:43:26.086409",
+    "https://openai.com/index/our-approach-to-the-model-spec": "2026-03-26T05:43:26.086409",
+    "https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/": "2026-03-26T05:43:26.086409",
+    "https://www.nasa.gov/general/nasa-ames-experts-available-for-artemis-ii-flight-test-interviews/": "2026-03-26T05:43:26.086409"
   },
-  "last_run": "2026-03-25T05:25:01.227724"
+  "last_run": "2026-03-26T05:43:26.086409"
 }

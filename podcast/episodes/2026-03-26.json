@@ -1,0 +1,66 @@
+{
+  "guid": "2026-03-26",
+  "date": "2026-03-26T05:42:07.250089",
+  "title": "Startup Reinvents Math & NASA-ISRO’s Pacific Northwest View",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 328.0,
+  "duration_formatted": "5:28",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-26.mp3",
+    "audio_size_bytes": 7532755,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-26/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-26/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-03-26.txt"
+  },
+  "stories": [
+    {
+      "title": "This startup wants to change how mathematicians do math",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
+      "summary": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems. The tool, called Axplorer, is a redesign of an existing one called PatternBoost that François Charton, now a research scientist at Axiom, co-developed in 2024&#8230;"
+    },
+    {
+      "title": "NASA-ISRO Satellite Captures Pacific Northwest Through Clouds",
+      "source": "NASA JPL News",
+      "url": "https://www.jpl.nasa.gov/news/nasa-isro-satellite-captures-pacific-northwest-through-clouds",
+      "summary": "Seattle, Portland, Mount Ranier, and Mount Saint Helens are captured in new imagery from NISAR, the most powerful radar system ever launched by NASA or ISRO."
+    },
+    {
+      "title": "NASA Research Proposes Technology to Seek Earth-Like Exoplanets",
+      "source": "NASA JPL News",
+      "url": "https://www.jpl.nasa.gov/news/nasa-research-proposes-technology-to-seek-earth-like-exoplanets",
+      "summary": "The Hybrid Observatory for Earth-like Exoplanets concept combines an orbiting starshade with a large ground-based telescope to image planets outside our solar system."
+    },
+    {
+      "title": "Genomic history of early dogs in Europe",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10112-7",
+      "summary": "Nature, Published online: 25 March 2026; doi:10.1038/s41586-026-10112-7Genome-wide analysis shows European dogs existed by 14,200 years ago, were already genetically distinct, received less Neolithic Southwest Asian admixture than humans did and contributed substantially to later European dogs."
+    },
+    {
+      "title": "Inside our approach to the Model Spec",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/our-approach-to-the-model-spec",
+      "summary": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance."
+    },
+    {
+      "title": "Google's TurboQuant AI-compression algorithm can reduce LLM memory usage by 6x",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/",
+      "summary": "TurboQuant makes AI models more efficient but doesn't reduce output quality like other methods."
+    },
+    {
+      "title": "NASA Ames Experts Available for Artemis II Flight Test Interviews",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/general/nasa-ames-experts-available-for-artemis-ii-flight-test-interviews/",
+      "summary": "NASA’s Ames Research Center in Silicon Valley invites media to interview local subject matter experts on Friday, March 27 from 10 a.m. to 2 p.m. ahead of the agency sending astronauts around the Moon for the first time in more than 50 years with the Artemis II flight test. NASA teams are gearing up for […] The post NASA Ames Experts Available for Artemis II Flight Test Interviews appeared first on NASA Science."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-03-26T05:43:26.065024",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
