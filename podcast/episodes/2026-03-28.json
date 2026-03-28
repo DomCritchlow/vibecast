@@ -1,0 +1,66 @@
+{
+  "guid": "2026-03-28",
+  "date": "2026-03-28T05:21:57.428841",
+  "title": "Earliest Dog Genome & NASA Artemis II Moon Crew Reveal",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 277.89473684210526,
+  "duration_formatted": "4:37",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-28.mp3",
+    "audio_size_bytes": 6631843,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-28/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-28/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-03-28.txt"
+  },
+  "stories": [
+    {
+      "title": "Daily briefing: Earliest known dog genome pushes genetic record back 5,000 years",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00992-0",
+      "summary": "Nature, Published online: 26 March 2026; doi:10.1038/d41586-026-00992-0The 15,000-year-old remains of domestic dogs hint at their importance to early communities with different ways of living. Plus, ‘grade inflation’ hits PhDs and how environmental scientists can reinvent their research when funding is scarce."
+    },
+    {
+      "title": "Here’s why some people choose cryonics to store their bodies and brains after death",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/03/27/1134705/cryonics-store-bodies-brains-after-death/",
+      "summary": "This week I reported on some rather unusual research that focuses on the brain of L. Stephen Coles. Coles was a gerontologist who died from pancreatic cancer in 2014. He had spent the latter part of his career specializing in human longevity. And before he died, he decided to have his brain preserved by a&#8230;"
+    },
+    {
+      "title": "AI Research Is Getting Harder to Separate From Geopolitics",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/",
+      "summary": "A policy change announced by NeurIPS, the world’s leading AI research conference, drew widespread backlash from Chinese researchers this week and then was quickly reversed."
+    },
+    {
+      "title": "Your #NASAMoonCrew for Artemis II!",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/gallery/your-nasamooncrew-for-artemis-ii/",
+      "summary": "Ahead of the Artemis II mission NASA wants to know: who is in YOUR #NASAMoonCrew? Share your photos, art, videos—anything depicting your crew—with the world! This gallery includes a variety of submissions received throughout the campaign. During Artemis II, over the course of about ten days, four astronauts will travel approximately 685,000 miles from Earth, venture around the Moon, and return home. The flight will—for the first time with astronauts—test NASA’s human deep space exploration capabilities, including the agency’s Exploration Ground Systems, SLS (Space Launch System) rocket, and Orion spacecraft. The post Your #NASAMoonCrew for Artemis II! appeared first on NASA Science."
+    },
+    {
+      "title": "NASA Tech and Science Bound for Low Earth Orbit on Commercial Launch",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/directorates/stmd/nasa-tech-and-science-bound-for-low-earth-orbit-on-commercial-launch/",
+      "summary": "Technology and science demonstrations, supported by various NASA industry collaborations and agency developments, are set to launch to low Earth orbit aboard a SpaceX Falcon 9 rocket as part of the company’s Transporter-16 commercial rideshare mission. These demonstrations will test thermal protection systems, advance in-space communications, deepen our understanding of Earth’s atmosphere, and foster capabilities […] The post NASA Tech and Science Bound for Low Earth Orbit on Commercial Launch appeared first on NASA Science."
+    },
+    {
+      "title": "When Coupled Volcanoes Talk, These Researchers Listen",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/when-coupled-volcanoes-talk-these-researchers-listen-20260327/",
+      "summary": "Around the world, volcanologists are following the path of magma as it travels between connected volcanoes, in an effort that could lead to improved eruption forecasts. The post When Coupled Volcanoes Talk, These Researchers Listen first appeared on Quanta Magazine"
+    },
+    {
+      "title": "Giants of the deep and the wonder of space: Books in Brief",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00995-x",
+      "summary": "Nature, Published online: 27 March 2026; doi:10.1038/d41586-026-00995-xAndrew Robinson reviews five of the best science picks."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-03-28T05:23:01.579826",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
