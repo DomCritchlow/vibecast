@@ -1,0 +1,66 @@
+{
+  "guid": "2026-03-29",
+  "date": "2026-03-29T05:44:04.370479",
+  "title": "Sunken Soviet Sub & Zombie Cells Resurrected with Genes",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 294.7368421052632,
+  "duration_formatted": "4:54",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-29.mp3",
+    "audio_size_bytes": 6854407,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-29/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-29/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-03-29.txt"
+  },
+  "stories": [
+    {
+      "title": "Sunken Soviet nuclear submarine’s radioactive release",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00953-7",
+      "summary": "Nature, Published online: 27 March 2026; doi:10.1038/d41586-026-00953-7Low levels of radioactive strontium and caesium are emanating from a pipe on the wreck of the Komsomolets."
+    },
+    {
+      "title": "Briefing Chat: ‘Zombie cells’ resurrected with new genes",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00996-w",
+      "summary": "Nature, Published online: 27 March 2026; doi:10.1038/d41586-026-00996-wNature staff discuss some of the week's top science news."
+    },
+    {
+      "title": "STADLER reshapes knowledge work at a 230-year-old company",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/stadler",
+      "summary": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees."
+    },
+    {
+      "title": "Introducing the OpenAI Safety Bug Bounty program",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/safety-bug-bounty",
+      "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration."
+    },
+    {
+      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+      "summary": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise."
+    },
+    {
+      "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+      "summary": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet."
+    },
+    {
+      "title": "Liberate your OpenClaw",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/liberate-your-openclaw",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-03-29T05:45:07.340428",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

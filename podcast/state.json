@@ -178,7 +178,14 @@
     "https://www.nasa.gov/gallery/your-nasamooncrew-for-artemis-ii/",
     "https://www.nasa.gov/directorates/stmd/nasa-tech-and-science-bound-for-low-earth-orbit-on-commercial-launch/",
     "https://www.quantamagazine.org/when-coupled-volcanoes-talk-these-researchers-listen-20260327/",
-    "https://www.nature.com/articles/d41586-026-00995-x"
+    "https://www.nature.com/articles/d41586-026-00995-x",
+    "https://www.nature.com/articles/d41586-026-00953-7",
+    "https://www.nature.com/articles/d41586-026-00996-w",
+    "https://openai.com/index/stadler",
+    "https://openai.com/index/safety-bug-bounty",
+    "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+    "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+    "https://huggingface.co/blog/liberate-your-openclaw"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -359,7 +366,14 @@
     "https://www.nasa.gov/gallery/your-nasamooncrew-for-artemis-ii/": "2026-03-28T05:23:01.600503",
     "https://www.nasa.gov/directorates/stmd/nasa-tech-and-science-bound-for-low-earth-orbit-on-commercial-launch/": "2026-03-28T05:23:01.600503",
     "https://www.quantamagazine.org/when-coupled-volcanoes-talk-these-researchers-listen-20260327/": "2026-03-28T05:23:01.600503",
-    "https://www.nature.com/articles/d41586-026-00995-x": "2026-03-28T05:23:01.600503"
+    "https://www.nature.com/articles/d41586-026-00995-x": "2026-03-28T05:23:01.600503",
+    "https://www.nature.com/articles/d41586-026-00953-7": "2026-03-29T05:45:07.361910",
+    "https://www.nature.com/articles/d41586-026-00996-w": "2026-03-29T05:45:07.361910",
+    "https://openai.com/index/stadler": "2026-03-29T05:45:07.361910",
+    "https://openai.com/index/safety-bug-bounty": "2026-03-29T05:45:07.361910",
+    "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/": "2026-03-29T05:45:07.361910",
+    "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/": "2026-03-29T05:45:07.361910",
+    "https://huggingface.co/blog/liberate-your-openclaw": "2026-03-29T05:45:07.361910"
   },
-  "last_run": "2026-03-28T05:23:01.600503"
+  "last_run": "2026-03-29T05:45:07.361910"
 }
