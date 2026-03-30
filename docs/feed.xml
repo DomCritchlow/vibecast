@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Mar 2026 05:45:07 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 06:01:16 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Polygraph Flaws &amp; Meta AI Risks + Pig Semen Cancer Cure</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Polygraphs have major flaws. Are there better options?
+   Source: Ars Technica
+2. Meta's court losses spell potential trouble for AI research, consumer safety
+   Source: Hacker News (AI filtered)
+3. Motherhood derails women’s academic careers — these data reveal how and why
+   Source: Nature News
+4. Eye drops made from pig semen deliver cancer treatment to mice
+   Source: Nature News
+5. Helping disaster response teams turn AI into action across Asia
+   Source: OpenAI News
+6. Powering product discovery in ChatGPT
+   Source: OpenAI News
+7. Nano Banana 2: Combining Pro capabilities with lightning-fast speed
+   Source: DeepMind Blog
+
+REFERENCES:
+
+1. Polygraphs have major flaws. Are there better options?
+   https://arstechnica.com/science/2026/03/polygraphs-have-major-flaws-are-there-better-options/
+
+2. Meta's court losses spell potential trouble for AI research, consumer safety
+   https://www.cnbc.com/2026/03/29/metas-court-losses-spell-trouble-for-ai-research-consumer-safety.html
+
+3. Motherhood derails women’s academic careers — these data reveal how and why
+   https://www.nature.com/articles/d41586-026-00981-3
+
+4. Eye drops made from pig semen deliver cancer treatment to mice
+   https://www.nature.com/articles/d41586-026-00982-2
+
+5. Helping disaster response teams turn AI into action across Asia
+   https://openai.com/index/helping-disaster-response-teams-asia
+
+6. Powering product discovery in ChatGPT
+   https://openai.com/index/powering-product-discovery-in-chatgpt
+
+7. Nano Banana 2: Combining Pro capabilities with lightning-fast speed
+   https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-30/newspaper.pdf]]></description>
+      <pubDate>Mon, 30 Mar 2026 06:00:00 -0000</pubDate>
+      <guid isPermaLink="false">2026-03-30</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-30.mp3" length="7695131" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Polygraphs have major flaws. Are there better options?
+   Source: Ars Technica
+2. Meta's court losses spell potential trouble for AI research, consumer safety
+   Source: Hacker News (AI filtered)
+3. Motherhood derails women’s academic careers — these data reveal how and why
+   Source: Nature News
+4. Eye drops made from pig semen deliver cancer treatment to mice
+   Source: Nature News
+5. Helping disaster response teams turn AI into action across Asia
+   Source: OpenAI News
+6. Powering product discovery in ChatGPT
+   Source: OpenAI News
+7. Nano Banana 2: Combining Pro capabilities with lightning-fast speed
+   Source: DeepMind Blog
+
+REFERENCES:
+
+1. Polygraphs have major flaws. Are there better options?
+   https://arstechnica.com/science/2026/03/polygraphs-have-major-flaws-are-there-better-options/
+
+2. Meta's court losses spell potential trouble for AI research, consumer safety
+   https://www.cnbc.com/2026/03/29/metas-court-losses-spell-trouble-for-ai-research-consumer-safety.html
+
+3. Motherhood derails women’s academic careers — these data reveal how and why
+   https://www.nature.com/articles/d41586-026-00981-3
+
+4. Eye drops made from pig semen deliver cancer treatment to mice
+   https://www.nature.com/articles/d41586-026-00982-2
+
+5. Helping disaster response teams turn AI into action across Asia
+   https://openai.com/index/helping-disaster-response-teams-asia
+
+6. Powering product discovery in ChatGPT
+   https://openai.com/index/powering-product-discovery-in-chatgpt
+
+7. Nano Banana 2: Combining Pro capabilities with lightning-fast speed
+   https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-30/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>5:16</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-30/episode-art.png"/>
+    </item>
     <item>
       <title>Sunken Soviet Sub &amp; Zombie Cells Resurrected with Genes</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2876,114 +2970,6 @@ Articles recommended for further reading
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:06</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/static/default-episode-art.png"/>
-    </item>
-    <item>
-      <title>Pokémon&#x27;s Legacy &amp; AI in Medicine: A New Era Unveiled</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Briefing chat: Pokémon turns 30 — how Pikachu and pals inspired generations of researchers
-   Source: Nature News
-2. I will continue the fight for environmental justice in Black communities
-   Source: Nature News
-3. Joint Statement from OpenAI and Microsoft
-   Source: OpenAI News
-4. UniRG: Scaling medical imaging report generation with multimodal reinforcement learning
-   Source: Microsoft Research Blog
-5. Archival Data From NASA’s NEOWISE Tracks Star Turning Into Black Hole
-   Source: NASA JPL News
-6. Apollo moon rocks may have finally solved an old lunar mystery
-   Source: Space.com
-
-REFERENCES:
-
-1. Briefing chat: Pokémon turns 30 — how Pikachu and pals inspired generations of researchers
-   https://www.nature.com/articles/d41586-026-00674-x
-
-2. I will continue the fight for environmental justice in Black communities
-   https://www.nature.com/articles/d41586-026-00538-4
-
-3. Joint Statement from OpenAI and Microsoft
-   https://openai.com/index/continuing-microsoft-partnership
-
-4. UniRG: Scaling medical imaging report generation with multimodal reinforcement learning
-   https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/
-
-5. Archival Data From NASA’s NEOWISE Tracks Star Turning Into Black Hole
-   https://www.jpl.nasa.gov/news/archival-data-from-nasas-neowise-tracks-star-turning-into-black-hole
-
-6. Apollo moon rocks may have finally solved an old lunar mystery
-   https://www.space.com/astronomy/moon/apollo-moon-rocks-may-have-finally-solved-an-old-lunar-mystery
-
-READING LIST:
-Articles recommended for further reading
-
-1. The Most Beautiful Corpse on the Livestream by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/clavicular-and-the-nihilism-of-looksmaxxing
-
-2. Selling the Sex Recession by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/selling-the-sex-recession
-
-3. You're Already a Sexual Cyborg by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/youre-already-a-sexual-cyborg
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-28/newspaper.pdf]]></description>
-      <pubDate>Sat, 28 Feb 2026 04:57:03 -0000</pubDate>
-      <guid isPermaLink="false">2026-02-28</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-28.mp3" length="6708330" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Briefing chat: Pokémon turns 30 — how Pikachu and pals inspired generations of researchers
-   Source: Nature News
-2. I will continue the fight for environmental justice in Black communities
-   Source: Nature News
-3. Joint Statement from OpenAI and Microsoft
-   Source: OpenAI News
-4. UniRG: Scaling medical imaging report generation with multimodal reinforcement learning
-   Source: Microsoft Research Blog
-5. Archival Data From NASA’s NEOWISE Tracks Star Turning Into Black Hole
-   Source: NASA JPL News
-6. Apollo moon rocks may have finally solved an old lunar mystery
-   Source: Space.com
-
-REFERENCES:
-
-1. Briefing chat: Pokémon turns 30 — how Pikachu and pals inspired generations of researchers
-   https://www.nature.com/articles/d41586-026-00674-x
-
-2. I will continue the fight for environmental justice in Black communities
-   https://www.nature.com/articles/d41586-026-00538-4
-
-3. Joint Statement from OpenAI and Microsoft
-   https://openai.com/index/continuing-microsoft-partnership
-
-4. UniRG: Scaling medical imaging report generation with multimodal reinforcement learning
-   https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/
-
-5. Archival Data From NASA’s NEOWISE Tracks Star Turning Into Black Hole
-   https://www.jpl.nasa.gov/news/archival-data-from-nasas-neowise-tracks-star-turning-into-black-hole
-
-6. Apollo moon rocks may have finally solved an old lunar mystery
-   https://www.space.com/astronomy/moon/apollo-moon-rocks-may-have-finally-solved-an-old-lunar-mystery
-
-READING LIST:
-Articles recommended for further reading
-
-1. The Most Beautiful Corpse on the Livestream by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/clavicular-and-the-nihilism-of-looksmaxxing
-
-2. Selling the Sex Recession by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/selling-the-sex-recession
-
-3. You're Already a Sexual Cyborg by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/youre-already-a-sexual-cyborg
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-28/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:42</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-02-28/episode-art.png"/>
     </item>
   </channel>
 </rss>

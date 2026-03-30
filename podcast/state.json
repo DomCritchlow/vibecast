@@ -185,7 +185,14 @@
     "https://openai.com/index/safety-bug-bounty",
     "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
     "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
-    "https://huggingface.co/blog/liberate-your-openclaw"
+    "https://huggingface.co/blog/liberate-your-openclaw",
+    "https://arstechnica.com/science/2026/03/polygraphs-have-major-flaws-are-there-better-options/",
+    "https://www.cnbc.com/2026/03/29/metas-court-losses-spell-trouble-for-ai-research-consumer-safety.html",
+    "https://www.nature.com/articles/d41586-026-00981-3",
+    "https://www.nature.com/articles/d41586-026-00982-2",
+    "https://openai.com/index/helping-disaster-response-teams-asia",
+    "https://openai.com/index/powering-product-discovery-in-chatgpt",
+    "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -373,7 +380,14 @@
     "https://openai.com/index/safety-bug-bounty": "2026-03-29T05:45:07.361910",
     "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/": "2026-03-29T05:45:07.361910",
     "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/": "2026-03-29T05:45:07.361910",
-    "https://huggingface.co/blog/liberate-your-openclaw": "2026-03-29T05:45:07.361910"
+    "https://huggingface.co/blog/liberate-your-openclaw": "2026-03-29T05:45:07.361910",
+    "https://arstechnica.com/science/2026/03/polygraphs-have-major-flaws-are-there-better-options/": "2026-03-30T06:01:16.039556",
+    "https://www.cnbc.com/2026/03/29/metas-court-losses-spell-trouble-for-ai-research-consumer-safety.html": "2026-03-30T06:01:16.039556",
+    "https://www.nature.com/articles/d41586-026-00981-3": "2026-03-30T06:01:16.039556",
+    "https://www.nature.com/articles/d41586-026-00982-2": "2026-03-30T06:01:16.039556",
+    "https://openai.com/index/helping-disaster-response-teams-asia": "2026-03-30T06:01:16.039556",
+    "https://openai.com/index/powering-product-discovery-in-chatgpt": "2026-03-30T06:01:16.039556",
+    "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/": "2026-03-30T06:01:16.039556"
   },
-  "last_run": "2026-03-29T05:45:07.361910"
+  "last_run": "2026-03-30T06:01:16.039556"
 }

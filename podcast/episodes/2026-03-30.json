@@ -1,0 +1,66 @@
+{
+  "guid": "2026-03-30",
+  "date": "2026-03-30T06:00:00.922060",
+  "title": "Polygraph Flaws & Meta AI Risks + Pig Semen Cancer Cure",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 316.2105263157895,
+  "duration_formatted": "5:16",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-30.mp3",
+    "audio_size_bytes": 7695131,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-30/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-30/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-03-30.txt"
+  },
+  "stories": [
+    {
+      "title": "Polygraphs have major flaws. Are there better options?",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/03/polygraphs-have-major-flaws-are-there-better-options/",
+      "summary": "Research proceeds on alternatives, but some doubt whether true lie detection is possible."
+    },
+    {
+      "title": "Meta's court losses spell potential trouble for AI research, consumer safety",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://www.cnbc.com/2026/03/29/metas-court-losses-spell-trouble-for-ai-research-consumer-safety.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/03/29/metas-court-losses-spell-trouble-for-ai-research-consumer-safety.html Comments URL: https://news.ycombinator.com/item?id=47570450 Points: 5 # Comments: 0"
+    },
+    {
+      "title": "Motherhood derails women’s academic careers — these data reveal how and why",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00981-3",
+      "summary": "Nature, Published online: 27 March 2026; doi:10.1038/d41586-026-00981-3Mothers in academia take on considerably more childcare-related responsibilities than do fathers."
+    },
+    {
+      "title": "Eye drops made from pig semen deliver cancer treatment to mice",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00982-2",
+      "summary": "Nature, Published online: 27 March 2026; doi:10.1038/d41586-026-00982-2Minuscule particles with the ability to cross hard-to-penetrate barriers can be loaded with drug treatments to target intractable diseases."
+    },
+    {
+      "title": "Helping disaster response teams turn AI into action across Asia",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/helping-disaster-response-teams-asia",
+      "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation"
+    },
+    {
+      "title": "Powering product discovery in ChatGPT",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+      "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration."
+    },
+    {
+      "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
+      "summary": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-03-30T06:01:16.017865",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
