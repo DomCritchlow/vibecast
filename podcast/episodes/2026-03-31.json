@@ -1,0 +1,66 @@
+{
+  "guid": "2026-03-31",
+  "date": "2026-03-31T05:45:51.805646",
+  "title": "Laser-Sealed Packaging & AI Health Tools Reviewed",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 313.6842105263158,
+  "duration_formatted": "5:13",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-31.mp3",
+    "audio_size_bytes": 7626168,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-31/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-31/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-03-31.txt"
+  },
+  "stories": [
+    {
+      "title": "A new manufacturing process uses lasers to seal paper packaging instead of glue",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/903280/papure-project-fraunhofer-institute-laser-paper-packaging-recycling",
+      "summary": "Although paper is a more environmentally friendly packaging material than plastic, it's often contaminated with additives, such as adhesives used to create a secure seal. That complicates the recycling process and reduces the quality of recycled paper. Now, German researchers at four Fraunhofer institutes have developed an alternative process that can seal paper packaging without [&#8230;]"
+    },
+    {
+      "title": "A.4 Rapid Response and Novel Research in Earth Science Corrections",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/researchers/solicitations/roses-2025/a-4-rapid-response-and-novel-research-in-earth-science-corrections/",
+      "summary": "A.4 Rapid Response and Novel Research in Earth Science (RRNES) solicits proposals that advance the goals and objectives of NASA&#8217;s Earth Science Division by conducting unique research to investigate 1) unforeseen or unpredictable Earth system events and opportunities that require a rapid response, and 2) novel ideas of potential high merit and relevance for ESD [&#8230;] The post A.4 Rapid Response and Novel Research in Earth Science Corrections appeared first on NASA Science."
+    },
+    {
+      "title": "Now is the time for scientific societies to guide global research",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-025-04155-5",
+      "summary": "Nature, Published online: 30 March 2026; doi:10.1038/d41586-025-04155-5Electrical engineer Ratko Magjarević explains the benefits of joining and leading scientific societies."
+    },
+    {
+      "title": "There are more AI health tools than ever—but how well do they work?",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
+      "summary": "Earlier this month, Microsoft launched Copilot Health, a new space within its Copilot app where users will be able to connect their medical records and ask specific questions about their health. A couple of days earlier, Amazon had announced that Health AI, an LLM-based tool previously restricted to members of its One Medical service, would&#8230;"
+    },
+    {
+      "title": "The latest Pixel 11 leak shows slimmer bezels and an all-black camera bar",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/903381/google-pixel-11-leak-bezels-camera-bar",
+      "summary": "The launch of the Google Pixel 11 is still months away, but leaked renders shared by Android Headlines may give us an idea of what to expect. Based on the images, the Pixel 11 could come with slimmer bezels than its predecessor, along with a completely black rear camera bar. The Pixel 10, which launched [&#8230;]"
+    },
+    {
+      "title": "The IRS Wants Smarter Audits. Palantir Could Help Decide Who Gets Flagged",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/documents-reveal-palantir-irs-contract-fraud-clean-energy-credits/",
+      "summary": "Documents show the tax agency is testing a Palantir tool to surface “highest-value” audit and investigation targets from a maze of legacy systems."
+    },
+    {
+      "title": "Show HN: An AI Operating System",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://getariaos.com/",
+      "summary": "Article URL: https://getariaos.com/ Comments URL: https://news.ycombinator.com/item?id=47582706 Points: 2 # Comments: 1"
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-03-31T05:47:07.754128",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
