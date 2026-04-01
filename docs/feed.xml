@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Mar 2026 05:47:07 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 05:57:15 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>UK Biobank CNVs &amp; AI Model Shift &amp; ChatGPT in CarPlay</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Author Correction: Phenome-wide analysis of copy number variants in 470,727 UK Biobank genomes
+   Source: Nature News
+2. A solar system is born
+   Source: Nature News
+3. Shifting to AI model customization is an architectural imperative
+   Source: MIT Technology Review
+4. Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent
+   Source: The Verge
+5. You can now use ChatGPT with Apple’s CarPlay
+   Source: The Verge
+6. Multi-agent systems have a distributed systems problem
+   Source: Hacker News (AI filtered)
+7. Medical Tests, Microbiology Top Research Schedule Aboard Station
+   Source: NASA Science
+
+REFERENCES:
+
+1. Author Correction: Phenome-wide analysis of copy number variants in 470,727 UK Biobank genomes
+   https://www.nature.com/articles/s41586-026-10389-8
+
+2. A solar system is born
+   https://www.nature.com/articles/d41586-026-01002-z
+
+3. Shifting to AI model customization is an architectural imperative
+   https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/
+
+4. Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent
+   https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak
+
+5. You can now use ChatGPT with Apple’s CarPlay
+   https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt
+
+6. Multi-agent systems have a distributed systems problem
+   https://christophermeiklejohn.com/ai/agents/distributed/zabriskie/2026/03/30/multi-agent-systems-have-a-distributed-systems-problem.html
+
+7. Medical Tests, Microbiology Top Research Schedule Aboard Station
+   https://www.nasa.gov/blogs/spacestation/2026/03/31/medical-tests-microbiology-top-research-schedule-aboard-station/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-01/newspaper.pdf]]></description>
+      <pubDate>Wed, 01 Apr 2026 05:56:05 -0000</pubDate>
+      <guid isPermaLink="false">2026-04-01</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-01.mp3" length="6905189" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Author Correction: Phenome-wide analysis of copy number variants in 470,727 UK Biobank genomes
+   Source: Nature News
+2. A solar system is born
+   Source: Nature News
+3. Shifting to AI model customization is an architectural imperative
+   Source: MIT Technology Review
+4. Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent
+   Source: The Verge
+5. You can now use ChatGPT with Apple’s CarPlay
+   Source: The Verge
+6. Multi-agent systems have a distributed systems problem
+   Source: Hacker News (AI filtered)
+7. Medical Tests, Microbiology Top Research Schedule Aboard Station
+   Source: NASA Science
+
+REFERENCES:
+
+1. Author Correction: Phenome-wide analysis of copy number variants in 470,727 UK Biobank genomes
+   https://www.nature.com/articles/s41586-026-10389-8
+
+2. A solar system is born
+   https://www.nature.com/articles/d41586-026-01002-z
+
+3. Shifting to AI model customization is an architectural imperative
+   https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/
+
+4. Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent
+   https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak
+
+5. You can now use ChatGPT with Apple’s CarPlay
+   https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt
+
+6. Multi-agent systems have a distributed systems problem
+   https://christophermeiklejohn.com/ai/agents/distributed/zabriskie/2026/03/30/multi-agent-systems-have-a-distributed-systems-problem.html
+
+7. Medical Tests, Microbiology Top Research Schedule Aboard Station
+   https://www.nasa.gov/blogs/spacestation/2026/03/31/medical-tests-microbiology-top-research-schedule-aboard-station/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-01/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>5:01</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-01/episode-art.png"/>
+    </item>
     <item>
       <title>Laser-Sealed Packaging &amp; AI Health Tools Reviewed</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2848,114 +2942,6 @@ Articles recommended for further reading
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:50</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-03/episode-art.png"/>
-    </item>
-    <item>
-      <title>Soundcore&#x27;s Space 2 &amp; Moons of the Solar System Puzzle</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Soundcore’s Space 2 are an evolution of its budget headphones
-   Source: The Verge
-2. Static taint analysis for LLM agents
-   Source: Hacker News (AI filtered)
-3. Moons of the solar system: A space-themed word search
-   Source: Space.com
-4. The squeal of peeling tape, explained
-   Source: Nature News
-5. Editorial Expression of&#xa0;Concern: The gene product Murr1 restricts HIV-1 replication in resting CD4+ lymphocytes
-   Source: Nature News
-6. What went right this week: a ‘powerful message’ against online abuse, plus more
-   Source: Positive News
-
-REFERENCES:
-
-1. Soundcore’s Space 2 are an evolution of its budget headphones
-   https://www.theverge.com/tech/886180/soundcore-space-2-announcement-mwc-2026
-
-2. Static taint analysis for LLM agents
-   https://deepclause.substack.com/p/static-taint-analysis-for-llm-agents
-
-3. Moons of the solar system: A space-themed word search
-   https://www.space.com/astronomy/solar-system/moons-of-the-solar-system-a-space-themed-word-search
-
-4. The squeal of peeling tape, explained
-   https://www.nature.com/articles/d41586-026-00516-w
-
-5. Editorial Expression of&#xa0;Concern: The gene product Murr1 restricts HIV-1 replication in resting CD4+ lymphocytes
-   https://www.nature.com/articles/s41586-026-10308-x
-
-6. What went right this week: a ‘powerful message’ against online abuse, plus more
-   https://www.positive.news/society/good-news-stories-from-week-8-of-2026/
-
-READING LIST:
-Articles recommended for further reading
-
-1. The Moral Panic In Your Hands by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/the-moral-panic-in-your-hands
-
-2. Who Is Allowed to "Perform" Gender and Identity? by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/who-is-allowed-to-perform-gender
-
-3. Gender Relations Have Made Dating a Hostile Act by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/gender-relations-have-made-dating
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-02/newspaper.pdf]]></description>
-      <pubDate>Mon, 02 Mar 2026 05:16:11 -0000</pubDate>
-      <guid isPermaLink="false">2026-03-02</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-02.mp3" length="5895148" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Soundcore’s Space 2 are an evolution of its budget headphones
-   Source: The Verge
-2. Static taint analysis for LLM agents
-   Source: Hacker News (AI filtered)
-3. Moons of the solar system: A space-themed word search
-   Source: Space.com
-4. The squeal of peeling tape, explained
-   Source: Nature News
-5. Editorial Expression of&#xa0;Concern: The gene product Murr1 restricts HIV-1 replication in resting CD4+ lymphocytes
-   Source: Nature News
-6. What went right this week: a ‘powerful message’ against online abuse, plus more
-   Source: Positive News
-
-REFERENCES:
-
-1. Soundcore’s Space 2 are an evolution of its budget headphones
-   https://www.theverge.com/tech/886180/soundcore-space-2-announcement-mwc-2026
-
-2. Static taint analysis for LLM agents
-   https://deepclause.substack.com/p/static-taint-analysis-for-llm-agents
-
-3. Moons of the solar system: A space-themed word search
-   https://www.space.com/astronomy/solar-system/moons-of-the-solar-system-a-space-themed-word-search
-
-4. The squeal of peeling tape, explained
-   https://www.nature.com/articles/d41586-026-00516-w
-
-5. Editorial Expression of&#xa0;Concern: The gene product Murr1 restricts HIV-1 replication in resting CD4+ lymphocytes
-   https://www.nature.com/articles/s41586-026-10308-x
-
-6. What went right this week: a ‘powerful message’ against online abuse, plus more
-   https://www.positive.news/society/good-news-stories-from-week-8-of-2026/
-
-READING LIST:
-Articles recommended for further reading
-
-1. The Moral Panic In Your Hands by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/the-moral-panic-in-your-hands
-
-2. Who Is Allowed to "Perform" Gender and Identity? by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/who-is-allowed-to-perform-gender
-
-3. Gender Relations Have Made Dating a Hostile Act by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/gender-relations-have-made-dating
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-02/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:32</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-02/episode-art.png"/>
     </item>
   </channel>
 </rss>

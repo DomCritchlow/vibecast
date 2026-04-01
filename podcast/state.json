@@ -199,7 +199,14 @@
     "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
     "https://www.theverge.com/tech/903381/google-pixel-11-leak-bezels-camera-bar",
     "https://www.wired.com/story/documents-reveal-palantir-irs-contract-fraud-clean-energy-credits/",
-    "https://getariaos.com/"
+    "https://getariaos.com/",
+    "https://www.nature.com/articles/s41586-026-10389-8",
+    "https://www.nature.com/articles/d41586-026-01002-z",
+    "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
+    "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
+    "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
+    "https://christophermeiklejohn.com/ai/agents/distributed/zabriskie/2026/03/30/multi-agent-systems-have-a-distributed-systems-problem.html",
+    "https://www.nasa.gov/blogs/spacestation/2026/03/31/medical-tests-microbiology-top-research-schedule-aboard-station/"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -401,7 +408,14 @@
     "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/": "2026-03-31T05:47:07.775326",
     "https://www.theverge.com/tech/903381/google-pixel-11-leak-bezels-camera-bar": "2026-03-31T05:47:07.775326",
     "https://www.wired.com/story/documents-reveal-palantir-irs-contract-fraud-clean-energy-credits/": "2026-03-31T05:47:07.775326",
-    "https://getariaos.com/": "2026-03-31T05:47:07.775326"
+    "https://getariaos.com/": "2026-03-31T05:47:07.775326",
+    "https://www.nature.com/articles/s41586-026-10389-8": "2026-04-01T05:57:15.906689",
+    "https://www.nature.com/articles/d41586-026-01002-z": "2026-04-01T05:57:15.906689",
+    "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/": "2026-04-01T05:57:15.906689",
+    "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak": "2026-04-01T05:57:15.906689",
+    "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt": "2026-04-01T05:57:15.906689",
+    "https://christophermeiklejohn.com/ai/agents/distributed/zabriskie/2026/03/30/multi-agent-systems-have-a-distributed-systems-problem.html": "2026-04-01T05:57:15.906689",
+    "https://www.nasa.gov/blogs/spacestation/2026/03/31/medical-tests-microbiology-top-research-schedule-aboard-station/": "2026-04-01T05:57:15.906689"
   },
-  "last_run": "2026-03-31T05:47:07.775326"
+  "last_run": "2026-04-01T05:57:15.906689"
 }

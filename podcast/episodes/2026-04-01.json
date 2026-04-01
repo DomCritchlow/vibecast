@@ -1,0 +1,66 @@
+{
+  "guid": "2026-04-01",
+  "date": "2026-04-01T05:56:05.150801",
+  "title": "UK Biobank CNVs & AI Model Shift & ChatGPT in CarPlay",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 301.4736842105263,
+  "duration_formatted": "5:01",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-01.mp3",
+    "audio_size_bytes": 6905189,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-01/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-01/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-04-01.txt"
+  },
+  "stories": [
+    {
+      "title": "Author Correction: Phenome-wide analysis of copy number variants in 470,727 UK Biobank genomes",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10389-8",
+      "summary": "Nature, Published online: 31 March 2026; doi:10.1038/s41586-026-10389-8Author Correction: Phenome-wide analysis of copy number variants in 470,727 UK Biobank genomes"
+    },
+    {
+      "title": "A solar system is born",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01002-z",
+      "summary": "Nature, Published online: 31 March 2026; doi:10.1038/d41586-026-01002-zAstronomers have spotted a second planet taking shape from the material orbiting a young star — only the second such example known."
+    },
+    {
+      "title": "Shifting to AI model customization is an architectural imperative",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
+      "summary": "In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into incremental gains. The exception is domain-specialized intelligence, where true step-function improvements are still the norm. When a model is fused with an organization’s&#8230;"
+    },
+    {
+      "title": "Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
+      "summary": "After Anthropic released Claude Code's 2.1.88 update, users quickly discovered that it contained a package with a source map file containing its TypeScript codebase, with one person on X calling attention to the leak and posting a file containing the code. The leaked data reportedly contains more than 512,000 lines of code and provides a [&#8230;]"
+    },
+    {
+      "title": "You can now use ChatGPT with Apple’s CarPlay",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
+      "summary": "ChatGPT is now accessible from your CarPlay dashboard if you have iOS 26.4 or newer and the latest version of the ChatGPT app, 9to5Mac reports. Apple's recently launched iOS 26.4 update added support for \"voice-based conversational apps\" in CarPlay, opening the door to let you use AI chatbots with voice features through Apple's in-car platform. [&#8230;]"
+    },
+    {
+      "title": "Multi-agent systems have a distributed systems problem",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://christophermeiklejohn.com/ai/agents/distributed/zabriskie/2026/03/30/multi-agent-systems-have-a-distributed-systems-problem.html",
+      "summary": "Article URL: https://christophermeiklejohn.com/ai/agents/distributed/zabriskie/2026/03/30/multi-agent-systems-have-a-distributed-systems-problem.html Comments URL: https://news.ycombinator.com/item?id=47597279 Points: 1 # Comments: 0"
+    },
+    {
+      "title": "Medical Tests, Microbiology Top Research Schedule Aboard Station",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/03/31/medical-tests-microbiology-top-research-schedule-aboard-station/",
+      "summary": "Medical tests and microbiology topped the research schedule for the Expedition 74 crew aboard the International Space Station on Tuesday. The seven crewmates also worked on spacesuits, cargo operations, and life support maintenance. The post Medical Tests, Microbiology Top Research Schedule Aboard Station appeared first on NASA Science."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-04-01T05:57:15.885816",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
