@@ -1,0 +1,66 @@
+{
+  "guid": "2026-04-02",
+  "date": "2026-04-02T05:42:30.009262",
+  "title": "Single-Cell Genomics, AI Predictions & Kia’s New EV3 Reveal",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 309.89473684210526,
+  "duration_formatted": "5:09",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-02.mp3",
+    "audio_size_bytes": 7288875,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-02/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-02/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-04-02.txt"
+  },
+  "stories": [
+    {
+      "title": "Gene regulatory landscape dissected by single-cell four-omics sequencing",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10322-z",
+      "summary": "Nature, Published online: 01 April 2026; doi:10.1038/s41586-026-10322-zCombining single-cell parallel profiling of genome conformation, histone modifications, chromatin accessibility and gene expression reveals dynamics and intranuclear spatial clustering of epigenome profiles, enabling sophisticated analysis of the regulatory landscape across cell types and tissues."
+    },
+    {
+      "title": "ADeLe: Predicting and explaining AI performance across tasks",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/",
+      "summary": "AI benchmarks report how large language models (LLMs) perform on specific tasks but provide little insight into their underlying capabilities that drive their performance. They do not explain failures or reliably predict outcomes on new tasks. To address this, Microsoft researchers in collaboration with Princeton University and&#160;Universitat&#160;Politècnica&#160;de València introduce ADeLe (opens in new tab) (AI [&#8230;] The post ADeLe: Predicting and explaining AI performance across tasks appeared first on Microsoft Research."
+    },
+    {
+      "title": "Research roundup: 7 cool science stories we almost missed",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/04/research-roundup-7-cool-science-stories-we-almost-missed-3/",
+      "summary": "Sperm gets lost in space; raccoons solve puzzles; the physics of folding a crepe; and more."
+    },
+    {
+      "title": "Kia&#8217;s compact EV3 is coming to the US this year, with 320 miles of range",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/transportation/905363/kia-ev3-north-america-launch",
+      "summary": "At the New York International Auto Show on Wednesday, Kia announced that its compact electric SUV, the EV3, will be available in the US \"in late 2026.\" The EV3 has been available overseas since 2024, when it launched in South Korea and Europe. The 2027 model coming to the US appears to have the same [&#8230;]"
+    },
+    {
+      "title": "Show HN: An SSR Java framework for real-time user interfaces and AI agents",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://github.com/vadimv/server-components",
+      "summary": "Why? - Implement stateful, server-driven rendering (SSR over WebSockets) framework for Java simlilar to Phoenix LiveView. - Introduce a user interfaces component system that enables easy composition. - Provide a vertically integrated solution targeting near-zero runtime dependencies. It takes an \"all-included\" monolithic approach, inspired by the Linux kernel philosophy. - Embrace AI agent support for development, distribution, and runtime. Paradoxically, at the same time, it empowers developers to fully own/understand the stack: a small core (~12K LOC) written in modern Java with no annotations and no implicit execution flows. Comments URL: https://news.ycombinator.com/item?id=47610258 Points: 1 # Comments: 0"
+    },
+    {
+      "title": "Ames Partnerships Office Annual Report 2025",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/ames-partnerships-office-annual-report-2025/",
+      "summary": "Ames Partnerships Office Annual Report 2025 Last year the Ames Agreements office brought in $133,011,050 from Reimbursable Agreements. The Ames Small Business Innovation Research / Small Business Technology Transfer (SBIR/STTR) program gave $321,190,616 in seed funding. The Ames Technology Transfer Office received $655,231 in Patent and Copyright Royalty. Learn More about Ames Partnerships Office Annual [&#8230;] The post Ames Partnerships Office Annual Report 2025 appeared first on NASA Science."
+    },
+    {
+      "title": "Liftoff! NASA Launches Astronauts on Historic Artemis Moon Mission",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/news-release/liftoff-nasa-launches-astronauts-on-historic-artemis-moon-mission/",
+      "summary": "Spurred by American ingenuity, astronauts on NASA’s Artemis II mission are in flight, preparing for the first crewed lunar flyby in more than 50 years. NASA’s SLS (Space Launch System) rocket lifted off from Launch Pad 39B at the agency’s Kennedy Space Center in Florida at 6:35 p.m. EDT Wednesday, sending four astronauts aboard the […] The post Liftoff! NASA Launches Astronauts on Historic Artemis Moon Mission appeared first on NASA Science."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-04-02T05:43:39.483428",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

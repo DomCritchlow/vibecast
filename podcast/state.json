@@ -206,7 +206,14 @@
     "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
     "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
     "https://christophermeiklejohn.com/ai/agents/distributed/zabriskie/2026/03/30/multi-agent-systems-have-a-distributed-systems-problem.html",
-    "https://www.nasa.gov/blogs/spacestation/2026/03/31/medical-tests-microbiology-top-research-schedule-aboard-station/"
+    "https://www.nasa.gov/blogs/spacestation/2026/03/31/medical-tests-microbiology-top-research-schedule-aboard-station/",
+    "https://www.nature.com/articles/s41586-026-10322-z",
+    "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/",
+    "https://arstechnica.com/science/2026/04/research-roundup-7-cool-science-stories-we-almost-missed-3/",
+    "https://www.theverge.com/transportation/905363/kia-ev3-north-america-launch",
+    "https://github.com/vadimv/server-components",
+    "https://www.nasa.gov/ames-partnerships-office-annual-report-2025/",
+    "https://www.nasa.gov/news-release/liftoff-nasa-launches-astronauts-on-historic-artemis-moon-mission/"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -415,7 +422,14 @@
     "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak": "2026-04-01T05:57:15.906689",
     "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt": "2026-04-01T05:57:15.906689",
     "https://christophermeiklejohn.com/ai/agents/distributed/zabriskie/2026/03/30/multi-agent-systems-have-a-distributed-systems-problem.html": "2026-04-01T05:57:15.906689",
-    "https://www.nasa.gov/blogs/spacestation/2026/03/31/medical-tests-microbiology-top-research-schedule-aboard-station/": "2026-04-01T05:57:15.906689"
+    "https://www.nasa.gov/blogs/spacestation/2026/03/31/medical-tests-microbiology-top-research-schedule-aboard-station/": "2026-04-01T05:57:15.906689",
+    "https://www.nature.com/articles/s41586-026-10322-z": "2026-04-02T05:43:39.506301",
+    "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/": "2026-04-02T05:43:39.506301",
+    "https://arstechnica.com/science/2026/04/research-roundup-7-cool-science-stories-we-almost-missed-3/": "2026-04-02T05:43:39.506301",
+    "https://www.theverge.com/transportation/905363/kia-ev3-north-america-launch": "2026-04-02T05:43:39.506301",
+    "https://github.com/vadimv/server-components": "2026-04-02T05:43:39.506301",
+    "https://www.nasa.gov/ames-partnerships-office-annual-report-2025/": "2026-04-02T05:43:39.506301",
+    "https://www.nasa.gov/news-release/liftoff-nasa-launches-astronauts-on-historic-artemis-moon-mission/": "2026-04-02T05:43:39.506301"
   },
-  "last_run": "2026-04-01T05:57:15.906689"
+  "last_run": "2026-04-02T05:43:39.506301"
 }
