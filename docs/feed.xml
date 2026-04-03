@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Apr 2026 05:43:39 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 05:43:57 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Antiviral Proteins, Quantum Risks &amp; Artemis II Moon Launch</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. ‘Treasure trove’ of antiviral proteins could inspire powerful molecular tools
+   Source: Nature News
+2. ‘It’s a real shock’: quantum-computing breakthroughs pose imminent risks to cybersecurity
+   Source: Nature News
+3. The ABS Challenge System is exposing the worst umpire in baseball
+   Source: The Verge
+4. Brain and Eye Studies, Advanced Life Support Tech Top Station Crew’s Day
+   Source: NASA Science
+5. Artemis II Astronauts Launch to Moon
+   Source: NASA Science
+6. NASA's Artemis 2 moon launch seen from space | Space photo of the day for April 2, 2026
+   Source: Space.com
+7. What went right this week: the good news that matters
+   Source: Positive News
+
+REFERENCES:
+
+1. ‘Treasure trove’ of antiviral proteins could inspire powerful molecular tools
+   https://www.nature.com/articles/d41586-026-01011-y
+
+2. ‘It’s a real shock’: quantum-computing breakthroughs pose imminent risks to cybersecurity
+   https://www.nature.com/articles/d41586-026-01054-1
+
+3. The ABS Challenge System is exposing the worst umpire in baseball
+   https://www.theverge.com/entertainment/906151/mlb-abs-challenge-system-cb-bucknor-worst-umpire-baseball
+
+4. Brain and Eye Studies, Advanced Life Support Tech Top Station Crew’s Day
+   https://www.nasa.gov/blogs/spacestation/2026/04/02/brain-and-eye-studies-advanced-life-support-tech-top-station-crews-day/
+
+5. Artemis II Astronauts Launch to Moon
+   https://www.nasa.gov/image-article/artemis-ii-astronauts-launch-to-moon/
+
+6. NASA's Artemis 2 moon launch seen from space | Space photo of the day for April 2, 2026
+   https://www.space.com/space-exploration/artemis/artemis-2-launch-spotted-from-space-space-photo-of-the-day-for-april-2-2026
+
+7. What went right this week: the good news that matters
+   https://www.positive.news/society/good-news-stories-from-week-14-of-2026/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-03/newspaper.pdf]]></description>
+      <pubDate>Fri, 03 Apr 2026 05:42:55 -0000</pubDate>
+      <guid isPermaLink="false">2026-04-03</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-03.mp3" length="5498923" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. ‘Treasure trove’ of antiviral proteins could inspire powerful molecular tools
+   Source: Nature News
+2. ‘It’s a real shock’: quantum-computing breakthroughs pose imminent risks to cybersecurity
+   Source: Nature News
+3. The ABS Challenge System is exposing the worst umpire in baseball
+   Source: The Verge
+4. Brain and Eye Studies, Advanced Life Support Tech Top Station Crew’s Day
+   Source: NASA Science
+5. Artemis II Astronauts Launch to Moon
+   Source: NASA Science
+6. NASA's Artemis 2 moon launch seen from space | Space photo of the day for April 2, 2026
+   Source: Space.com
+7. What went right this week: the good news that matters
+   Source: Positive News
+
+REFERENCES:
+
+1. ‘Treasure trove’ of antiviral proteins could inspire powerful molecular tools
+   https://www.nature.com/articles/d41586-026-01011-y
+
+2. ‘It’s a real shock’: quantum-computing breakthroughs pose imminent risks to cybersecurity
+   https://www.nature.com/articles/d41586-026-01054-1
+
+3. The ABS Challenge System is exposing the worst umpire in baseball
+   https://www.theverge.com/entertainment/906151/mlb-abs-challenge-system-cb-bucknor-worst-umpire-baseball
+
+4. Brain and Eye Studies, Advanced Life Support Tech Top Station Crew’s Day
+   https://www.nasa.gov/blogs/spacestation/2026/04/02/brain-and-eye-studies-advanced-life-support-tech-top-station-crews-day/
+
+5. Artemis II Astronauts Launch to Moon
+   https://www.nasa.gov/image-article/artemis-ii-astronauts-launch-to-moon/
+
+6. NASA's Artemis 2 moon launch seen from space | Space photo of the day for April 2, 2026
+   https://www.space.com/space-exploration/artemis/artemis-2-launch-spotted-from-space-space-photo-of-the-day-for-april-2-2026
+
+7. What went right this week: the good news that matters
+   https://www.positive.news/society/good-news-stories-from-week-14-of-2026/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-03/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:04</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-03/episode-art.png"/>
+    </item>
     <item>
       <title>Single-Cell Genomics, AI Predictions &amp; Kia’s New EV3 Reveal</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2826,114 +2920,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:16</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-05/episode-art.png"/>
-    </item>
-    <item>
-      <title>Star System Discovery &amp; AI Advancing Forest Safeguards</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Performance Data Analysis and Reporting System
-   Source: NASA Science
-2. Visuomotor Control Laboratory
-   Source: NASA Science
-3. Author Correction: Healthy forests safeguard traditional wild meat food systems in Amazonia
-   Source: Nature News
-4. Jam-packed star system is most compact of its kind ever found
-   Source: Nature News
-5. GPT-5.3 Instant System Card
-   Source: OpenAI News
-6. Trailer: The Shape of Things to Come
-   Source: Microsoft Research Blog
-
-REFERENCES:
-
-1. Performance Data Analysis and Reporting System
-   https://www.nasa.gov/human-systems-integration-division/performance-data-analysis-and-reporting-system/
-
-2. Visuomotor Control Laboratory
-   https://www.nasa.gov/human-systems-integration-division/visuomotor-control-laboratory/
-
-3. Author Correction: Healthy forests safeguard traditional wild meat food systems in Amazonia
-   https://www.nature.com/articles/s41586-026-10332-x
-
-4. Jam-packed star system is most compact of its kind ever found
-   https://www.nature.com/articles/d41586-026-00667-w
-
-5. GPT-5.3 Instant System Card
-   https://openai.com/index/gpt-5-3-instant-system-card
-
-6. Trailer: The Shape of Things to Come
-   https://www.microsoft.com/en-us/research/podcast/trailer-the-shape-of-things-to-come/
-
-READING LIST:
-Articles recommended for further reading
-
-1. Don't Let the Gooners Get You Down by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/dont-let-the-gooners-get-you-down
-
-2. "What Does a Nice Woman Want from a Man?" by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/what-does-a-nice-woman-want-from
-
-3. The Pursuit of Male Friendship is Horrifying by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/the-pursuit-of-male-friendship-is
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-04/newspaper.pdf]]></description>
-      <pubDate>Wed, 04 Mar 2026 05:09:20 -0000</pubDate>
-      <guid isPermaLink="false">2026-03-04</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-04.mp3" length="6479498" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Performance Data Analysis and Reporting System
-   Source: NASA Science
-2. Visuomotor Control Laboratory
-   Source: NASA Science
-3. Author Correction: Healthy forests safeguard traditional wild meat food systems in Amazonia
-   Source: Nature News
-4. Jam-packed star system is most compact of its kind ever found
-   Source: Nature News
-5. GPT-5.3 Instant System Card
-   Source: OpenAI News
-6. Trailer: The Shape of Things to Come
-   Source: Microsoft Research Blog
-
-REFERENCES:
-
-1. Performance Data Analysis and Reporting System
-   https://www.nasa.gov/human-systems-integration-division/performance-data-analysis-and-reporting-system/
-
-2. Visuomotor Control Laboratory
-   https://www.nasa.gov/human-systems-integration-division/visuomotor-control-laboratory/
-
-3. Author Correction: Healthy forests safeguard traditional wild meat food systems in Amazonia
-   https://www.nature.com/articles/s41586-026-10332-x
-
-4. Jam-packed star system is most compact of its kind ever found
-   https://www.nature.com/articles/d41586-026-00667-w
-
-5. GPT-5.3 Instant System Card
-   https://openai.com/index/gpt-5-3-instant-system-card
-
-6. Trailer: The Shape of Things to Come
-   https://www.microsoft.com/en-us/research/podcast/trailer-the-shape-of-things-to-come/
-
-READING LIST:
-Articles recommended for further reading
-
-1. Don't Let the Gooners Get You Down by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/dont-let-the-gooners-get-you-down
-
-2. "What Does a Nice Woman Want from a Man?" by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/what-does-a-nice-woman-want-from
-
-3. The Pursuit of Male Friendship is Horrifying by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/the-pursuit-of-male-friendship-is
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-04/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:41</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-04/episode-art.png"/>
     </item>
   </channel>
 </rss>

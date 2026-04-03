@@ -1,0 +1,66 @@
+{
+  "guid": "2026-04-03",
+  "date": "2026-04-03T05:42:55.533516",
+  "title": "Antiviral Proteins, Quantum Risks & Artemis II Moon Launch",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 244.21052631578948,
+  "duration_formatted": "4:04",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-03.mp3",
+    "audio_size_bytes": 5498923,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-03/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-03/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-04-03.txt"
+  },
+  "stories": [
+    {
+      "title": "‘Treasure trove’ of antiviral proteins could inspire powerful molecular tools",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01011-y",
+      "summary": "Nature, Published online: 02 April 2026; doi:10.1038/d41586-026-01011-yTwo research teams mined genomic data from bacteria to create databases containing thousands of antiviral defence proteins that could inspire powerful biotechnologies."
+    },
+    {
+      "title": "‘It’s a real shock’: quantum-computing breakthroughs pose imminent risks to cybersecurity",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01054-1",
+      "summary": "Nature, Published online: 02 April 2026; doi:10.1038/d41586-026-01054-1Two analyses suggest that quantum computers could crack ubiquitous security keys and cryptocurrencies before the decade is over."
+    },
+    {
+      "title": "The ABS Challenge System is exposing the worst umpire in baseball",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/906151/mlb-abs-challenge-system-cb-bucknor-worst-umpire-baseball",
+      "summary": "During Wednesday's game between the Tampa Bay Rays and the Milwaukee Brewers, umpire CB Bucknor took a foul ball to the mask and had to be helped off the field. It was the cap to what has been a particularly bad week for one of the most controversial umpires in baseball. It started with perhaps [&#8230;]"
+    },
+    {
+      "title": "Brain and Eye Studies, Advanced Life Support Tech Top Station Crew’s Day",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/04/02/brain-and-eye-studies-advanced-life-support-tech-top-station-crews-day/",
+      "summary": "The Expedition 74 crew studied how the brain receives signals in space and demonstrated advanced technology to remove humidity from spacecraft on Thursday. Other activities aboard the International Space Station included servicing a metal 3D printer and continuing to unpack a cargo resupply ship. The post Brain and Eye Studies, Advanced Life Support Tech Top Station Crew’s Day appeared first on NASA Science."
+    },
+    {
+      "title": "Artemis II Astronauts Launch to Moon",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/image-article/artemis-ii-astronauts-launch-to-moon/",
+      "summary": "NASA’s Space Launch System rocket and Orion spacecraft lift off in this April 1, 2026, image. NASA’s Artemis II mission will take NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy on an approximately 10-day journey around the Moon and back aboard their Orion spacecraft. See more launch […] The post Artemis II Astronauts Launch to Moon appeared first on NASA Science."
+    },
+    {
+      "title": "NASA's Artemis 2 moon launch seen from space | Space photo of the day for April 2, 2026",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/artemis/artemis-2-launch-spotted-from-space-space-photo-of-the-day-for-april-2-2026",
+      "summary": "NASA's Artemis 2 has launched on a history-making journey around the moon and back, and the moment was captured from space."
+    },
+    {
+      "title": "What went right this week: the good news that matters",
+      "source": "Positive News",
+      "url": "https://www.positive.news/society/good-news-stories-from-week-14-of-2026/",
+      "summary": "A ‘breakthrough’ for migratory species, Africa’s road safety ‘milestone’ and a quantum leap for solar, plus more The post What went right this week: the good news that matters appeared first on Positive News."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-04-03T05:43:57.882798",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
