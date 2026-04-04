@@ -1,0 +1,66 @@
+{
+  "guid": "2026-04-04",
+  "date": "2026-04-04T05:22:18.719568",
+  "title": "French Fry Breakthrough & AI Chips Revolutionize Tech",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 264.8421052631579,
+  "duration_formatted": "4:24",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-04.mp3",
+    "audio_size_bytes": 6112696,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-04/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-04/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-04-04.txt"
+  },
+  "stories": [
+    {
+      "title": "Scientists Have Made a French Fry Breakthrough",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/scientists-have-made-french-fry-breakthrough/",
+      "summary": "Researchers have developed a method of making french fries that results in a healthier bite without sacrificing crispiness."
+    },
+    {
+      "title": "Breakthrough computer chip tech could help meet ‘monumental demand’ driven by AI",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01050-5",
+      "summary": "Nature, Published online: 02 April 2026; doi:10.1038/d41586-026-01050-5Innovative tool for producing computer chips uses giant, nearly perfect mirrors to make tiny transistors and circuits."
+    },
+    {
+      "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/",
+      "summary": "Experiments show large majorities uncritically accepting \"faulty\" AI answers."
+    },
+    {
+      "title": "Mercedes adds steer-by-wire — and a dang steering yoke — to the EQS",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/transportation/906539/mercedes-steer-by-wire-steering-yoke-eqs",
+      "summary": "Steer-by-wire, in which a car can be steered electronically rather than through a physical connection between the steering wheel and steering rack, is coming to Mercedes-Benz. The German automaker says it will use the steering technology in its forthcoming refreshed EQS sedan, marking its first foray into the world of steer-by-wire. Steer-by-wire systems replace traditional [&#8230;]"
+    },
+    {
+      "title": "Thoughts on AI and Research [pdf]",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://economics.mit.edu/sites/default/files/2026-04/IA%20AI%20note_1.pdf",
+      "summary": "Article URL: https://economics.mit.edu/sites/default/files/2026-04/IA%20AI%20note_1.pdf Comments URL: https://news.ycombinator.com/item?id=47636006 Points: 2 # Comments: 0"
+    },
+    {
+      "title": "Jacob L. Keaton",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/people/jacob-l-keaton/",
+      "summary": "Jacob Keaton is the acting director of the International Space Station within NASA’s Space Operations Mission Directorate at the agency’s headquarters in Washington. In this role, Keaton leads agency-level strategy, policy, integration, and stakeholder engagement for the space station. His responsibilities include overseeing use of the station for research and technology demonstrations, including work aboard the orbital complex supporting NASA’s Artemis program. He also guides […] The post Jacob L. Keaton appeared first on NASA Science."
+    },
+    {
+      "title": "Christy Hansen",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/people/christy-hansen/",
+      "summary": "Christy Hansen is the acting director of the Commercial Space Division within NASA’s Space Operations Mission Directorate at the agency’s headquarters in Washington. In this role, Hansen leads agency strategy, policy, integration, and engagement for NASA’s Commercial Low Earth Orbit Development and Commercial Crew programs. She oversees development of future commercial platforms for continuous research and technology demonstrations, supports Artemis related technologies, sustains […] The post Christy Hansen appeared first on NASA Science."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-04-04T05:23:19.585316",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

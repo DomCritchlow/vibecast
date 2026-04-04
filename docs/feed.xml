@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Apr 2026 05:43:57 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 05:23:19 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>French Fry Breakthrough &amp; AI Chips Revolutionize Tech</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Scientists Have Made a French Fry Breakthrough
+   Source: Wired
+2. Breakthrough computer chip tech could help meet ‘monumental demand’ driven by AI
+   Source: Nature News
+3. "Cognitive surrender" leads AI users to abandon logical thinking, research finds
+   Source: Ars Technica
+4. Mercedes adds steer-by-wire — and a dang steering yoke — to the EQS
+   Source: The Verge
+5. Thoughts on AI and Research [pdf]
+   Source: Hacker News (AI filtered)
+6. Jacob L. Keaton
+   Source: NASA Science
+7. Christy Hansen
+   Source: NASA Science
+
+REFERENCES:
+
+1. Scientists Have Made a French Fry Breakthrough
+   https://www.wired.com/story/scientists-have-made-french-fry-breakthrough/
+
+2. Breakthrough computer chip tech could help meet ‘monumental demand’ driven by AI
+   https://www.nature.com/articles/d41586-026-01050-5
+
+3. "Cognitive surrender" leads AI users to abandon logical thinking, research finds
+   https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/
+
+4. Mercedes adds steer-by-wire — and a dang steering yoke — to the EQS
+   https://www.theverge.com/transportation/906539/mercedes-steer-by-wire-steering-yoke-eqs
+
+5. Thoughts on AI and Research [pdf]
+   https://economics.mit.edu/sites/default/files/2026-04/IA%20AI%20note_1.pdf
+
+6. Jacob L. Keaton
+   https://www.nasa.gov/people/jacob-l-keaton/
+
+7. Christy Hansen
+   https://www.nasa.gov/people/christy-hansen/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-04/newspaper.pdf]]></description>
+      <pubDate>Sat, 04 Apr 2026 05:22:18 -0000</pubDate>
+      <guid isPermaLink="false">2026-04-04</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-04.mp3" length="6112696" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Scientists Have Made a French Fry Breakthrough
+   Source: Wired
+2. Breakthrough computer chip tech could help meet ‘monumental demand’ driven by AI
+   Source: Nature News
+3. "Cognitive surrender" leads AI users to abandon logical thinking, research finds
+   Source: Ars Technica
+4. Mercedes adds steer-by-wire — and a dang steering yoke — to the EQS
+   Source: The Verge
+5. Thoughts on AI and Research [pdf]
+   Source: Hacker News (AI filtered)
+6. Jacob L. Keaton
+   Source: NASA Science
+7. Christy Hansen
+   Source: NASA Science
+
+REFERENCES:
+
+1. Scientists Have Made a French Fry Breakthrough
+   https://www.wired.com/story/scientists-have-made-french-fry-breakthrough/
+
+2. Breakthrough computer chip tech could help meet ‘monumental demand’ driven by AI
+   https://www.nature.com/articles/d41586-026-01050-5
+
+3. "Cognitive surrender" leads AI users to abandon logical thinking, research finds
+   https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/
+
+4. Mercedes adds steer-by-wire — and a dang steering yoke — to the EQS
+   https://www.theverge.com/transportation/906539/mercedes-steer-by-wire-steering-yoke-eqs
+
+5. Thoughts on AI and Research [pdf]
+   https://economics.mit.edu/sites/default/files/2026-04/IA%20AI%20note_1.pdf
+
+6. Jacob L. Keaton
+   https://www.nasa.gov/people/jacob-l-keaton/
+
+7. Christy Hansen
+   https://www.nasa.gov/people/christy-hansen/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-04/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:24</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-04/episode-art.png"/>
+    </item>
     <item>
       <title>Antiviral Proteins, Quantum Risks &amp; Artemis II Moon Launch</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2836,90 +2930,6 @@ Articles recommended for further reading
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>3:44</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-06/episode-art.png"/>
-    </item>
-    <item>
-      <title>Evo 2 Genome Design &amp; Paza&#x27;s Speech Recognition Leap</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Airspace Operations and Safety Program
-   Source: NASA Science
-2. Genome modelling and design across all domains of life with Evo 2
-   Source: Nature News
-3. A metabolic alarmin from keratinocytes potentiates systemic humoral immunity
-   Source: Nature News
-4. Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model
-   Source: Microsoft Research Blog
-5. Paza: Introducing automatic speech recognition benchmarks and models for low resource languages
-   Source: Microsoft Research Blog
-6. Large genome model: Open source AI trained on trillions of bases
-   Source: Ars Technica
-
-REFERENCES:
-
-1. Airspace Operations and Safety Program
-   https://www.nasa.gov/directorates/armd/aosp/
-
-2. Genome modelling and design across all domains of life with Evo 2
-   https://www.nature.com/articles/s41586-026-10176-5
-
-3. A metabolic alarmin from keratinocytes potentiates systemic humoral immunity
-   https://www.nature.com/articles/s41586-026-10167-6
-
-4. Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model
-   https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/
-
-5. Paza: Introducing automatic speech recognition benchmarks and models for low resource languages
-   https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/
-
-6. Large genome model: Open source AI trained on trillions of bases
-   https://arstechnica.com/science/2026/03/large-genome-model-open-source-ai-trained-on-trillions-of-bases/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-05/newspaper.pdf]]></description>
-      <pubDate>Thu, 05 Mar 2026 05:13:50 -0000</pubDate>
-      <guid isPermaLink="false">2026-03-05</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-05.mp3" length="6576673" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Airspace Operations and Safety Program
-   Source: NASA Science
-2. Genome modelling and design across all domains of life with Evo 2
-   Source: Nature News
-3. A metabolic alarmin from keratinocytes potentiates systemic humoral immunity
-   Source: Nature News
-4. Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model
-   Source: Microsoft Research Blog
-5. Paza: Introducing automatic speech recognition benchmarks and models for low resource languages
-   Source: Microsoft Research Blog
-6. Large genome model: Open source AI trained on trillions of bases
-   Source: Ars Technica
-
-REFERENCES:
-
-1. Airspace Operations and Safety Program
-   https://www.nasa.gov/directorates/armd/aosp/
-
-2. Genome modelling and design across all domains of life with Evo 2
-   https://www.nature.com/articles/s41586-026-10176-5
-
-3. A metabolic alarmin from keratinocytes potentiates systemic humoral immunity
-   https://www.nature.com/articles/s41586-026-10167-6
-
-4. Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model
-   https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/
-
-5. Paza: Introducing automatic speech recognition benchmarks and models for low resource languages
-   https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/
-
-6. Large genome model: Open source AI trained on trillions of bases
-   https://arstechnica.com/science/2026/03/large-genome-model-open-source-ai-trained-on-trillions-of-bases/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-05/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:16</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-05/episode-art.png"/>
     </item>
   </channel>
 </rss>
