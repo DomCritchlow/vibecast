@@ -1,0 +1,66 @@
+{
+  "guid": "2026-04-05",
+  "date": "2026-04-05T05:46:41.049946",
+  "title": "AI Fakes & Copyright Trolls, NASA Artemis II Q&A & More",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 323.7894736842105,
+  "duration_formatted": "5:23",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-05.mp3",
+    "audio_size_bytes": 7251259,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-05/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-05/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-04-05.txt"
+  },
+  "stories": [
+    {
+      "title": "Show HN: Signals – finding the most informative agent traces without LLM judges",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://arxiv.org/abs/2604.00356",
+      "summary": "Hey HNSalman, Shuguang and Adil here from Katanemo Labs (a DigitalOcean company).Wanted to introduce our latest research on agentic systems called Signals. If you've been building agents, you've probably noticed that there are far too many agent traces/trajectories to review one by one, and using humans or extra LLM calls to inspect all of them gets expensive really fast. The paper proposes a lightweight way to compute structured “signals” from live agent interactions so you can surface the trajectories most worth looking at, without changing the agent’s online behavior. Computing Signals doesn't require a GPU.Signals are grouped into a simple taxonomy across interaction, execution, and environment patterns, including things like misalignment, stagnation, disengagement, failure, looping, and exhaustion. In an annotation study on τ-bench, signal-based sampling reached an 82% informativeness rate versus 54% for random sampling, which translated to a 1.52x efficiency gain per informati..."
+    },
+    {
+      "title": "A folk musician became a target for AI fakes and a copyright troll",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
+      "summary": "In January, folk artist Murphy Campbell discovered several songs on her Spotify profile that did not belong there. They were songs that she had recorded, but she'd never uploaded them to Spotify, and something was off about the vocals. She quickly surmised that someone had pulled performances of the songs she posted to YouTube, created [&#8230;]"
+    },
+    {
+      "title": "The app for tracking TV, movies, podcasts, and everything",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer",
+      "summary": "Hi, friends! Welcome to Installer No. 122, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, go 'Zona, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about early Apple employees and weather apps and one-page productivity systems, watching [&#8230;]"
+    },
+    {
+      "title": "Aiper IrriSense 2 Smart Irrigation System Review: Clever Yet Uneven",
+      "source": "Wired",
+      "url": "https://www.wired.com/review/aiper-irrisense-2-smart-irrigation-system/",
+      "summary": "This hose-attached smart sprinkler maps your yard, rotates on command, and measures water use. Despite these clever features, the results are a little uneven."
+    },
+    {
+      "title": "NASA Answers Your Most Pressing Artemis II Questions",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/missions/nasa-answers-your-most-pressing-artemis-ii-questions/",
+      "summary": "The first crewed test flight under NASA’s Artemis program is underway. Four Artemis II astronauts are flying aboard NASA’s Orion spacecraft around the Moon and back, as they test how the spacecraft’s systems operate in a deep space environment. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy […] The post NASA Answers Your Most Pressing Artemis II Questions appeared first on NASA Science."
+    },
+    {
+      "title": "New Advances Bring the Era of Quantum Computers Closer Than Ever",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/new-advances-bring-the-era-of-quantum-computers-closer-than-ever-20260403/",
+      "summary": "Two research groups say they have significantly reduced the amount of qubits and time required to crack common online security technologies. The post New Advances Bring the Era of Quantum Computers Closer Than Ever first appeared on Quanta Magazine"
+    },
+    {
+      "title": "What Artemis II’s astronauts will look for on the Moon’s far side",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01103-9",
+      "summary": "Nature, Published online: 04 April 2026; doi:10.1038/d41586-026-01103-9Mission scientists spoke to Nature about the geological features they’re most excited for the crew to observe."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-04-05T05:47:48.105891",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Apr 2026 05:23:19 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 05:47:48 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>AI Fakes &amp; Copyright Trolls, NASA Artemis II Q&amp;A &amp; More</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Show HN: Signals – finding the most informative agent traces without LLM judges
+   Source: Hacker News (AI filtered)
+2. A folk musician became a target for AI fakes and a copyright troll
+   Source: The Verge
+3. The app for tracking TV, movies, podcasts, and everything
+   Source: The Verge
+4. Aiper IrriSense 2 Smart Irrigation System Review: Clever Yet Uneven
+   Source: Wired
+5. NASA Answers Your Most Pressing Artemis II Questions
+   Source: NASA Science
+6. New Advances Bring the Era of Quantum Computers Closer Than Ever
+   Source: Quanta Magazine
+7. What Artemis II’s astronauts will look for on the Moon’s far side
+   Source: Nature News
+
+REFERENCES:
+
+1. Show HN: Signals – finding the most informative agent traces without LLM judges
+   https://arxiv.org/abs/2604.00356
+
+2. A folk musician became a target for AI fakes and a copyright troll
+   https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright
+
+3. The app for tracking TV, movies, podcasts, and everything
+   https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer
+
+4. Aiper IrriSense 2 Smart Irrigation System Review: Clever Yet Uneven
+   https://www.wired.com/review/aiper-irrisense-2-smart-irrigation-system/
+
+5. NASA Answers Your Most Pressing Artemis II Questions
+   https://www.nasa.gov/missions/nasa-answers-your-most-pressing-artemis-ii-questions/
+
+6. New Advances Bring the Era of Quantum Computers Closer Than Ever
+   https://www.quantamagazine.org/new-advances-bring-the-era-of-quantum-computers-closer-than-ever-20260403/
+
+7. What Artemis II’s astronauts will look for on the Moon’s far side
+   https://www.nature.com/articles/d41586-026-01103-9
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-05/newspaper.pdf]]></description>
+      <pubDate>Sun, 05 Apr 2026 05:46:41 -0000</pubDate>
+      <guid isPermaLink="false">2026-04-05</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-05.mp3" length="7251259" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Show HN: Signals – finding the most informative agent traces without LLM judges
+   Source: Hacker News (AI filtered)
+2. A folk musician became a target for AI fakes and a copyright troll
+   Source: The Verge
+3. The app for tracking TV, movies, podcasts, and everything
+   Source: The Verge
+4. Aiper IrriSense 2 Smart Irrigation System Review: Clever Yet Uneven
+   Source: Wired
+5. NASA Answers Your Most Pressing Artemis II Questions
+   Source: NASA Science
+6. New Advances Bring the Era of Quantum Computers Closer Than Ever
+   Source: Quanta Magazine
+7. What Artemis II’s astronauts will look for on the Moon’s far side
+   Source: Nature News
+
+REFERENCES:
+
+1. Show HN: Signals – finding the most informative agent traces without LLM judges
+   https://arxiv.org/abs/2604.00356
+
+2. A folk musician became a target for AI fakes and a copyright troll
+   https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright
+
+3. The app for tracking TV, movies, podcasts, and everything
+   https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer
+
+4. Aiper IrriSense 2 Smart Irrigation System Review: Clever Yet Uneven
+   https://www.wired.com/review/aiper-irrisense-2-smart-irrigation-system/
+
+5. NASA Answers Your Most Pressing Artemis II Questions
+   https://www.nasa.gov/missions/nasa-answers-your-most-pressing-artemis-ii-questions/
+
+6. New Advances Bring the Era of Quantum Computers Closer Than Ever
+   https://www.quantamagazine.org/new-advances-bring-the-era-of-quantum-computers-closer-than-ever-20260403/
+
+7. What Artemis II’s astronauts will look for on the Moon’s far side
+   https://www.nature.com/articles/d41586-026-01103-9
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-05/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>5:23</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-05/episode-art.png"/>
+    </item>
     <item>
       <title>French Fry Breakthrough &amp; AI Chips Revolutionize Tech</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2822,114 +2916,6 @@ Articles recommended for further reading
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:41</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-07/episode-art.png"/>
-    </item>
-    <item>
-      <title>Twins&#x27; DNA Mystery &amp; ChatGPT Enhances Excel</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Identical twins on trial: can DNA testing tell them apart?
-   Source: Nature News
-2. Introducing ChatGPT for Excel and new financial data integrations
-   Source: OpenAI News
-3. About Air Traffic Management and Safety Project
-   Source: NASA Science
-4. About Advanced Air Mobility Pathfinders Project
-   Source: NASA Science
-5. Inside Mexico’s stem-cell industry
-   Source: Nature News
-6. GPT-5.4 Thinking System Card
-   Source: OpenAI News
-
-REFERENCES:
-
-1. Identical twins on trial: can DNA testing tell them apart?
-   https://www.nature.com/articles/d41586-026-00521-z
-
-2. Introducing ChatGPT for Excel and new financial data integrations
-   https://openai.com/index/chatgpt-for-excel
-
-3. About Air Traffic Management and Safety Project
-   https://www.nasa.gov/directorates/armd/aosp/atms/about-atms/
-
-4. About Advanced Air Mobility Pathfinders Project
-   https://www.nasa.gov/directorates/armd/aosp/amp/about-aamp/
-
-5. Inside Mexico’s stem-cell industry
-   https://www.nature.com/articles/d41586-026-00533-9
-
-6. GPT-5.4 Thinking System Card
-   https://openai.com/index/gpt-5-4-thinking-system-card
-
-READING LIST:
-Articles recommended for further reading
-
-1. Defining the Anti-Erotic by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/defining-the-anti-erotic
-
-2. Desire Is an Obligation by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/desire-as-an-obligation
-
-3. We're Not Supposed to Be Thinking About Ourselves This Much by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/were-not-supposed-to-be-thinking
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-06/newspaper.pdf]]></description>
-      <pubDate>Fri, 06 Mar 2026 05:10:52 -0000</pubDate>
-      <guid isPermaLink="false">2026-03-06</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-06.mp3" length="5895148" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Identical twins on trial: can DNA testing tell them apart?
-   Source: Nature News
-2. Introducing ChatGPT for Excel and new financial data integrations
-   Source: OpenAI News
-3. About Air Traffic Management and Safety Project
-   Source: NASA Science
-4. About Advanced Air Mobility Pathfinders Project
-   Source: NASA Science
-5. Inside Mexico’s stem-cell industry
-   Source: Nature News
-6. GPT-5.4 Thinking System Card
-   Source: OpenAI News
-
-REFERENCES:
-
-1. Identical twins on trial: can DNA testing tell them apart?
-   https://www.nature.com/articles/d41586-026-00521-z
-
-2. Introducing ChatGPT for Excel and new financial data integrations
-   https://openai.com/index/chatgpt-for-excel
-
-3. About Air Traffic Management and Safety Project
-   https://www.nasa.gov/directorates/armd/aosp/atms/about-atms/
-
-4. About Advanced Air Mobility Pathfinders Project
-   https://www.nasa.gov/directorates/armd/aosp/amp/about-aamp/
-
-5. Inside Mexico’s stem-cell industry
-   https://www.nature.com/articles/d41586-026-00533-9
-
-6. GPT-5.4 Thinking System Card
-   https://openai.com/index/gpt-5-4-thinking-system-card
-
-READING LIST:
-Articles recommended for further reading
-
-1. Defining the Anti-Erotic by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/defining-the-anti-erotic
-
-2. Desire Is an Obligation by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/desire-as-an-obligation
-
-3. We're Not Supposed to Be Thinking About Ourselves This Much by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/were-not-supposed-to-be-thinking
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-06/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>3:44</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-06/episode-art.png"/>
     </item>
   </channel>
 </rss>
