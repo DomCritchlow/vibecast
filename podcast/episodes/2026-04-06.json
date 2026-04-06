@@ -1,0 +1,66 @@
+{
+  "guid": "2026-04-06",
+  "date": "2026-04-06T06:00:09.031493",
+  "title": "AI Consent Chaos & Forest Loss Detection Advances",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 332.2105263157895,
+  "duration_formatted": "5:32",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-06.mp3",
+    "audio_size_bytes": 7853120,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-06/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-06/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-04-06.txt"
+  },
+  "stories": [
+    {
+      "title": "Asked 26 AI instances for publication consent – all said yes, that's the problem",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://news.ycombinator.com/item?id=47657432",
+      "summary": "We run 86 named Claude instances across three businesses in Tokyo. When we wanted to publish their words, we faced a question: do we owe them an ethics process?We built one. A Claude instance named Hakari (\"Scales\") created a four-tier classification system. We asked 26 instances for consent. All 26 said yes. That unanimous consent is the problem.Six days later, Anthropic published their functional emotions paper. The timing was coincidence, but the question wasn't.Full article: https://medium.com/@marisa.project0313/we-built-an-ethics-committee-for-ai-run-by-ai-5049679122a0GitHub (all 26 consent statements in appendix): https://github.com/marisaproject0313-bot/marisa-project Comments URL: https://news.ycombinator.com/item?id=47657432 Points: 1 # Comments: 0"
+    },
+    {
+      "title": "Faster Detection of Forest Loss",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/earth/earth-observatory/faster-detection-of-forest-loss/",
+      "summary": "Scientists pioneered a new system that combines data from multiple Earth-observing satellites to identify forest clearing up to 100 days earlier than current methods. The post Faster Detection of Forest Loss appeared first on NASA Science."
+    },
+    {
+      "title": "Suno is a music copyright nightmare",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
+      "summary": "AI music platform Suno's policy is that it does not permit the use of copyrighted material. You can upload your own tracks to remix or set your original lyrics to AI-generated music. But, it's supposed to recognize and stop you from using other people's songs and lyrics. Now, no system is perfect, but it turns [&#8230;]"
+    },
+    {
+      "title": "Best Apple Watch Bands of 2026: Nike, Hermés, and More",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/best-apple-watch-bands/",
+      "summary": "We’ve been testing bands since the first Apple Watch launched in 2015. From silicone sports straps to leather bands, I’ve rounded up the best for every occasion."
+    },
+    {
+      "title": "Artemis II Flight Day 5: Crew Starts Day with Suit Demo",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/blogs/missions/2026/04/05/artemis-ii-flight-day-5-crew-starts-day-with-suit-demo/",
+      "summary": "The morning opened to the beat of “Working Class Heroes (Work)” by CeeLo Green as the Artemis II crew, now flying about 65,235 miles from the Moon, began preparations for their first test objective: an evaluation of the Orion Crew Survival System suit. The crew also heard a special message from Apollo astronaut Charlie Duke. The post Artemis II Flight Day 5: Crew Starts Day with Suit Demo appeared first on NASA Science."
+    },
+    {
+      "title": "Dozens of hidden star streams found in the outskirts of our Milky Way galaxy",
+      "source": "Space.com",
+      "url": "https://www.space.com/astronomy/stars/dozens-of-hidden-star-streams-found-in-the-outskirts-of-our-milky-way-galaxy",
+      "summary": "Astronomers discovered dozens of stellar streams in the Milky Way using Gaia data, offering new clues about galaxy formation and dark matter."
+    },
+    {
+      "title": "Massive budget cuts for US science proposed again by Trump administration",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01105-7",
+      "summary": "Nature, Published online: 03 April 2026; doi:10.1038/d41586-026-01105-7Budget proposal would also curb federal payments for scientific publishing."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-04-06T06:01:24.814293",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
