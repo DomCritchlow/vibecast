@@ -1,0 +1,66 @@
+{
+  "guid": "2026-04-08",
+  "date": "2026-04-08T05:48:07.481155",
+  "title": "Cellular Ageing Test, Laptop Repairability & AI Security ...",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 318.31578947368416,
+  "duration_formatted": "5:18",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-08.mp3",
+    "audio_size_bytes": 7665039,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-08/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-08/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-04-08.txt"
+  },
+  "stories": [
+    {
+      "title": "Enabling agent-first process redesign",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/",
+      "summary": "Unlike static, rules-based systems, AI agents can learn, adapt, and optimize processes dynamically. As they interact with data, systems, people, and other agents in real time, AI agents can execute entire workflows autonomously. But unlocking their potential requires redesigning processes around agents rather than bolting them onto fragmented legacy workflows using traditional optimization methods. Companies&#8230;"
+    },
+    {
+      "title": "This method to reverse cellular ageing is about to be tested in humans",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01024-7",
+      "summary": "Nature, Published online: 07 April 2026; doi:10.1038/d41586-026-01024-7A burgeoning field is launching its first clinical trial to find out whether dialling back cell development can safely refresh aged tissues and organs."
+    },
+    {
+      "title": "Apple and Lenovo have the least repairable laptops, analysis finds",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/04/apple-has-the-lowest-grades-in-laptop-phone-repairability-analysis/",
+      "summary": "The MacBook Neo is a step in the right direction, though."
+    },
+    {
+      "title": "Spotify&#8217;s Prompted Playlists can help you find new podcasts to listen to",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts",
+      "summary": "On Tuesday, Spotify expanded its Prompted Playlists feature to include podcasts, an update that could make it easier for Premium users to find new shows to listen to. Prompted Playlists were originally launched as a beta feature in December, but previously only worked for music. You can use the feature to effectively generate customized Discover [&#8230;]"
+    },
+    {
+      "title": "A new Anthropic model found security problems &#8216;in every major operating system and web browser&#8217;",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity",
+      "summary": "Anthropic is debuting a new AI model as part of a cybersecurity partnership with Nvidia, Google, Amazon Web Services, Apple, Microsoft, and other companies. Project Glasswing, as it's called, is billed as a way for large companies, and potentially even the government, to flag vulnerabilities in their systems with virtually no human intervention. Anthropic is [&#8230;]"
+    },
+    {
+      "title": "He Started a Social Network Alone. Then 5 Million People Signed Up",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-upscrolled-founder-issam-hijazi/",
+      "summary": "Issam Hijazi launched UpScrolled after users alleged censorship on other platforms. Nine months later, its user base is soaring—while Hijazi tries to catch up with his own success."
+    },
+    {
+      "title": "Station Crew Talks to Artemis II Crew Amid Busy Research Schedule",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/04/07/station-crew-talks-to-artemis-ii-crew-amid-busy-research-schedule/",
+      "summary": "Four Expedition 74 astronauts had a ship-to-ship call with the four Artemis II astronauts on Tuesday after they flew around the Moon in a historic first for NASA and its international partners. The International Space Station residents also continued their ongoing biomedical research, trained to capture a U.S. cargo craft, and installed a small experimental robotic arm. The post Station Crew Talks to Artemis II Crew Amid Busy Research Schedule appeared first on NASA Science."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-04-08T05:49:21.032481",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

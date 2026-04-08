@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Apr 2026 05:48:43 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 05:49:21 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Cellular Ageing Test, Laptop Repairability &amp; AI Security ...</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Enabling agent-first process redesign
+   Source: MIT Technology Review
+2. This method to reverse cellular ageing is about to be tested in humans
+   Source: Nature News
+3. Apple and Lenovo have the least repairable laptops, analysis finds
+   Source: Ars Technica
+4. Spotify&#8217;s Prompted Playlists can help you find new podcasts to listen to
+   Source: The Verge
+5. A new Anthropic model found security problems &#8216;in every major operating system and web browser&#8217;
+   Source: The Verge
+6. He Started a Social Network Alone. Then 5 Million People Signed Up
+   Source: Wired
+7. Station Crew Talks to Artemis II Crew Amid Busy Research Schedule
+   Source: NASA Science
+
+REFERENCES:
+
+1. Enabling agent-first process redesign
+   https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/
+
+2. This method to reverse cellular ageing is about to be tested in humans
+   https://www.nature.com/articles/d41586-026-01024-7
+
+3. Apple and Lenovo have the least repairable laptops, analysis finds
+   https://arstechnica.com/gadgets/2026/04/apple-has-the-lowest-grades-in-laptop-phone-repairability-analysis/
+
+4. Spotify&#8217;s Prompted Playlists can help you find new podcasts to listen to
+   https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts
+
+5. A new Anthropic model found security problems &#8216;in every major operating system and web browser&#8217;
+   https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity
+
+6. He Started a Social Network Alone. Then 5 Million People Signed Up
+   https://www.wired.com/story/the-big-interview-podcast-upscrolled-founder-issam-hijazi/
+
+7. Station Crew Talks to Artemis II Crew Amid Busy Research Schedule
+   https://www.nasa.gov/blogs/spacestation/2026/04/07/station-crew-talks-to-artemis-ii-crew-amid-busy-research-schedule/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-08/newspaper.pdf]]></description>
+      <pubDate>Wed, 08 Apr 2026 05:48:07 -0000</pubDate>
+      <guid isPermaLink="false">2026-04-08</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-08.mp3" length="7665039" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Enabling agent-first process redesign
+   Source: MIT Technology Review
+2. This method to reverse cellular ageing is about to be tested in humans
+   Source: Nature News
+3. Apple and Lenovo have the least repairable laptops, analysis finds
+   Source: Ars Technica
+4. Spotify&#8217;s Prompted Playlists can help you find new podcasts to listen to
+   Source: The Verge
+5. A new Anthropic model found security problems &#8216;in every major operating system and web browser&#8217;
+   Source: The Verge
+6. He Started a Social Network Alone. Then 5 Million People Signed Up
+   Source: Wired
+7. Station Crew Talks to Artemis II Crew Amid Busy Research Schedule
+   Source: NASA Science
+
+REFERENCES:
+
+1. Enabling agent-first process redesign
+   https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/
+
+2. This method to reverse cellular ageing is about to be tested in humans
+   https://www.nature.com/articles/d41586-026-01024-7
+
+3. Apple and Lenovo have the least repairable laptops, analysis finds
+   https://arstechnica.com/gadgets/2026/04/apple-has-the-lowest-grades-in-laptop-phone-repairability-analysis/
+
+4. Spotify&#8217;s Prompted Playlists can help you find new podcasts to listen to
+   https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts
+
+5. A new Anthropic model found security problems &#8216;in every major operating system and web browser&#8217;
+   https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity
+
+6. He Started a Social Network Alone. Then 5 Million People Signed Up
+   https://www.wired.com/story/the-big-interview-podcast-upscrolled-founder-issam-hijazi/
+
+7. Station Crew Talks to Artemis II Crew Amid Busy Research Schedule
+   https://www.nasa.gov/blogs/spacestation/2026/04/07/station-crew-talks-to-artemis-ii-crew-amid-busy-research-schedule/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-08/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>5:18</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-08/episode-art.png"/>
+    </item>
     <item>
       <title>Poetry &amp; Science, Health Innovation &amp; OpenAI Safety Fello...</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2780,114 +2874,6 @@ Articles recommended for further reading
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:20</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-10/episode-art.png"/>
-    </item>
-    <item>
-      <title>Gemini AI Breakthroughs &amp; Global Cybersecurity Threats</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Gemini 3 Deep Think: Advancing science, research and engineering
-   Source: DeepMind Blog
-2. Accelerating Mathematical and Scientific Discovery with Gemini Deep Think
-   Source: DeepMind Blog
-3. Multimodal reinforcement learning with agentic verifier for AI agents
-   Source: Microsoft Research Blog
-4. From Iran to Ukraine, everyone's trying to hack security cameras
-   Source: Ars Technica
-5. India’s tech sovereignty is built on digital dependence
-   Source: Rest of World
-6. Agent Operating System
-   Source: Hacker News (AI filtered)
-
-REFERENCES:
-
-1. Gemini 3 Deep Think: Advancing science, research and engineering
-   https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/
-
-2. Accelerating Mathematical and Scientific Discovery with Gemini Deep Think
-   https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/
-
-3. Multimodal reinforcement learning with agentic verifier for AI agents
-   https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/
-
-4. From Iran to Ukraine, everyone's trying to hack security cameras
-   https://arstechnica.com/security/2026/03/from-iran-to-ukraine-everyones-trying-to-hack-security-cameras/
-
-5. India’s tech sovereignty is built on digital dependence
-   https://restofworld.org/2026/dwaipayan-banerjee-india-technology-book/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
-
-6. Agent Operating System
-   https://github.com/iii-hq/agentos
-
-READING LIST:
-Articles recommended for further reading
-
-1. We Have to Try to Be Nice to Each Other by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/we-have-to-try-to-be-nice-to-each
-
-2. Filling in the Dating Gaps by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/filling-in-the-dating-gaps
-
-3. The Last Chopper Out of Nam by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/the-last-chopper-out-of-nam
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-09/newspaper.pdf]]></description>
-      <pubDate>Mon, 09 Mar 2026 05:20:20 -0000</pubDate>
-      <guid isPermaLink="false">2026-03-09</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-09.mp3" length="6458809" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Gemini 3 Deep Think: Advancing science, research and engineering
-   Source: DeepMind Blog
-2. Accelerating Mathematical and Scientific Discovery with Gemini Deep Think
-   Source: DeepMind Blog
-3. Multimodal reinforcement learning with agentic verifier for AI agents
-   Source: Microsoft Research Blog
-4. From Iran to Ukraine, everyone's trying to hack security cameras
-   Source: Ars Technica
-5. India’s tech sovereignty is built on digital dependence
-   Source: Rest of World
-6. Agent Operating System
-   Source: Hacker News (AI filtered)
-
-REFERENCES:
-
-1. Gemini 3 Deep Think: Advancing science, research and engineering
-   https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/
-
-2. Accelerating Mathematical and Scientific Discovery with Gemini Deep Think
-   https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/
-
-3. Multimodal reinforcement learning with agentic verifier for AI agents
-   https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/
-
-4. From Iran to Ukraine, everyone's trying to hack security cameras
-   https://arstechnica.com/security/2026/03/from-iran-to-ukraine-everyones-trying-to-hack-security-cameras/
-
-5. India’s tech sovereignty is built on digital dependence
-   https://restofworld.org/2026/dwaipayan-banerjee-india-technology-book/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
-
-6. Agent Operating System
-   https://github.com/iii-hq/agentos
-
-READING LIST:
-Articles recommended for further reading
-
-1. We Have to Try to Be Nice to Each Other by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/we-have-to-try-to-be-nice-to-each
-
-2. Filling in the Dating Gaps by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/filling-in-the-dating-gaps
-
-3. The Last Chopper Out of Nam by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/the-last-chopper-out-of-nam
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-09/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:39</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-09/episode-art.png"/>
     </item>
   </channel>
 </rss>
