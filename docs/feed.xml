@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Apr 2026 05:49:21 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 05:51:22 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Meta’s Muse Spark &amp; Oobleck’s Liquid-Solid Mystery</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Meta's Superintelligence Lab unveils its first public model, Muse Spark
+   Source: Ars Technica
+2. Solar System Bibliography
+   Source: NASA Science
+3. JSC Building 37
+   Source: NASA Science
+4. Liquid or solid? Oobleck droplets are both
+   Source: Nature News
+5. Author Correction: Foundation model of neural activity predicts response to new stimulus types
+   Source: Nature News
+6. The next phase of enterprise AI
+   Source: OpenAI News
+7. Introducing the Child Safety Blueprint
+   Source: OpenAI News
+
+REFERENCES:
+
+1. Meta's Superintelligence Lab unveils its first public model, Muse Spark
+   https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/
+
+2. Solar System Bibliography
+   https://science.nasa.gov/solar-system/solar-system-bibliography/
+
+3. JSC Building 37
+   https://www.nasa.gov/johnson/history/jsc-building-37/
+
+4. Liquid or solid? Oobleck droplets are both
+   https://www.nature.com/articles/d41586-026-01109-3
+
+5. Author Correction: Foundation model of neural activity predicts response to new stimulus types
+   https://www.nature.com/articles/s41586-026-10457-z
+
+6. The next phase of enterprise AI
+   https://openai.com/index/next-phase-of-enterprise-ai
+
+7. Introducing the Child Safety Blueprint
+   https://openai.com/index/introducing-child-safety-blueprint
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-09/newspaper.pdf]]></description>
+      <pubDate>Thu, 09 Apr 2026 05:50:10 -0000</pubDate>
+      <guid isPermaLink="false">2026-04-09</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-09.mp3" length="7082613" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Meta's Superintelligence Lab unveils its first public model, Muse Spark
+   Source: Ars Technica
+2. Solar System Bibliography
+   Source: NASA Science
+3. JSC Building 37
+   Source: NASA Science
+4. Liquid or solid? Oobleck droplets are both
+   Source: Nature News
+5. Author Correction: Foundation model of neural activity predicts response to new stimulus types
+   Source: Nature News
+6. The next phase of enterprise AI
+   Source: OpenAI News
+7. Introducing the Child Safety Blueprint
+   Source: OpenAI News
+
+REFERENCES:
+
+1. Meta's Superintelligence Lab unveils its first public model, Muse Spark
+   https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/
+
+2. Solar System Bibliography
+   https://science.nasa.gov/solar-system/solar-system-bibliography/
+
+3. JSC Building 37
+   https://www.nasa.gov/johnson/history/jsc-building-37/
+
+4. Liquid or solid? Oobleck droplets are both
+   https://www.nature.com/articles/d41586-026-01109-3
+
+5. Author Correction: Foundation model of neural activity predicts response to new stimulus types
+   https://www.nature.com/articles/s41586-026-10457-z
+
+6. The next phase of enterprise AI
+   https://openai.com/index/next-phase-of-enterprise-ai
+
+7. Introducing the Child Safety Blueprint
+   https://openai.com/index/introducing-child-safety-blueprint
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-09/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:58</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-09/episode-art.png"/>
+    </item>
     <item>
       <title>Cellular Ageing Test, Laptop Repairability &amp; AI Security ...</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2766,114 +2860,6 @@ Articles recommended for further reading
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:26</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-11/episode-art.png"/>
-    </item>
-    <item>
-      <title>OpenAI Acquires Promptfoo &amp; Bluesky CEO Steps Down</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Carmen Roberts
-   Source: NASA Science
-2. Integrated Aviation Systems Program
-   Source: NASA Science
-3. How Congress can restore the independence of US science
-   Source: Nature News
-4. OpenAI to acquire Promptfoo
-   Source: OpenAI News
-5. Bluesky CEO Jay Graber will step aside
-   Source: The Verge
-6. OpenAI and Google Workers File Amicus Brief in Support of Anthropic Against the US Government
-   Source: Wired
-
-REFERENCES:
-
-1. Carmen Roberts
-   https://www.nasa.gov/people/carmen-roberts/
-
-2. Integrated Aviation Systems Program
-   https://www.nasa.gov/directorates/armd/iasp/
-
-3. How Congress can restore the independence of US science
-   https://www.nature.com/articles/d41586-026-00703-9
-
-4. OpenAI to acquire Promptfoo
-   https://openai.com/index/openai-to-acquire-promptfoo
-
-5. Bluesky CEO Jay Graber will step aside
-   https://www.theverge.com/tech/891562/bluesky-new-ceo
-
-6. OpenAI and Google Workers File Amicus Brief in Support of Anthropic Against the US Government
-   https://www.wired.com/story/openai-deepmind-employees-file-amicus-brief-anthropic-dod-lawsuit/
-
-READING LIST:
-Articles recommended for further reading
-
-1. The Moral Panic In Your Hands by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/the-moral-panic-in-your-hands
-
-2. Who Is Allowed to "Perform" Gender and Identity? by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/who-is-allowed-to-perform-gender
-
-3. Gender Relations Have Made Dating a Hostile Act by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/gender-relations-have-made-dating
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-10/newspaper.pdf]]></description>
-      <pubDate>Tue, 10 Mar 2026 05:11:38 -0000</pubDate>
-      <guid isPermaLink="false">2026-03-10</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-10.mp3" length="6414253" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Carmen Roberts
-   Source: NASA Science
-2. Integrated Aviation Systems Program
-   Source: NASA Science
-3. How Congress can restore the independence of US science
-   Source: Nature News
-4. OpenAI to acquire Promptfoo
-   Source: OpenAI News
-5. Bluesky CEO Jay Graber will step aside
-   Source: The Verge
-6. OpenAI and Google Workers File Amicus Brief in Support of Anthropic Against the US Government
-   Source: Wired
-
-REFERENCES:
-
-1. Carmen Roberts
-   https://www.nasa.gov/people/carmen-roberts/
-
-2. Integrated Aviation Systems Program
-   https://www.nasa.gov/directorates/armd/iasp/
-
-3. How Congress can restore the independence of US science
-   https://www.nature.com/articles/d41586-026-00703-9
-
-4. OpenAI to acquire Promptfoo
-   https://openai.com/index/openai-to-acquire-promptfoo
-
-5. Bluesky CEO Jay Graber will step aside
-   https://www.theverge.com/tech/891562/bluesky-new-ceo
-
-6. OpenAI and Google Workers File Amicus Brief in Support of Anthropic Against the US Government
-   https://www.wired.com/story/openai-deepmind-employees-file-amicus-brief-anthropic-dod-lawsuit/
-
-READING LIST:
-Articles recommended for further reading
-
-1. The Moral Panic In Your Hands by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/the-moral-panic-in-your-hands
-
-2. Who Is Allowed to "Perform" Gender and Identity? by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/who-is-allowed-to-perform-gender
-
-3. Gender Relations Have Made Dating a Hostile Act by Magdalene J. Taylor
-   https://www.sexual-culture.com/p/gender-relations-have-made-dating
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-10/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:20</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-10/episode-art.png"/>
     </item>
   </channel>
 </rss>

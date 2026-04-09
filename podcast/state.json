@@ -255,7 +255,14 @@
     "https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts",
     "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity",
     "https://www.wired.com/story/the-big-interview-podcast-upscrolled-founder-issam-hijazi/",
-    "https://www.nasa.gov/blogs/spacestation/2026/04/07/station-crew-talks-to-artemis-ii-crew-amid-busy-research-schedule/"
+    "https://www.nasa.gov/blogs/spacestation/2026/04/07/station-crew-talks-to-artemis-ii-crew-amid-busy-research-schedule/",
+    "https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/",
+    "https://science.nasa.gov/solar-system/solar-system-bibliography/",
+    "https://www.nasa.gov/johnson/history/jsc-building-37/",
+    "https://www.nature.com/articles/d41586-026-01109-3",
+    "https://www.nature.com/articles/s41586-026-10457-z",
+    "https://openai.com/index/next-phase-of-enterprise-ai",
+    "https://openai.com/index/introducing-child-safety-blueprint"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -513,7 +520,14 @@
     "https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts": "2026-04-08T05:49:21.051048",
     "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity": "2026-04-08T05:49:21.051048",
     "https://www.wired.com/story/the-big-interview-podcast-upscrolled-founder-issam-hijazi/": "2026-04-08T05:49:21.051048",
-    "https://www.nasa.gov/blogs/spacestation/2026/04/07/station-crew-talks-to-artemis-ii-crew-amid-busy-research-schedule/": "2026-04-08T05:49:21.051048"
+    "https://www.nasa.gov/blogs/spacestation/2026/04/07/station-crew-talks-to-artemis-ii-crew-amid-busy-research-schedule/": "2026-04-08T05:49:21.051048",
+    "https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/": "2026-04-09T05:51:22.845398",
+    "https://science.nasa.gov/solar-system/solar-system-bibliography/": "2026-04-09T05:51:22.845398",
+    "https://www.nasa.gov/johnson/history/jsc-building-37/": "2026-04-09T05:51:22.845398",
+    "https://www.nature.com/articles/d41586-026-01109-3": "2026-04-09T05:51:22.845398",
+    "https://www.nature.com/articles/s41586-026-10457-z": "2026-04-09T05:51:22.845398",
+    "https://openai.com/index/next-phase-of-enterprise-ai": "2026-04-09T05:51:22.845398",
+    "https://openai.com/index/introducing-child-safety-blueprint": "2026-04-09T05:51:22.845398"
   },
-  "last_run": "2026-04-08T05:49:21.051048"
+  "last_run": "2026-04-09T05:51:22.845398"
 }

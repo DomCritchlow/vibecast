@@ -1,0 +1,66 @@
+{
+  "guid": "2026-04-09",
+  "date": "2026-04-09T05:50:10.034483",
+  "title": "Meta’s Muse Spark & Oobleck’s Liquid-Solid Mystery",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 298.94736842105266,
+  "duration_formatted": "4:58",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-09.mp3",
+    "audio_size_bytes": 7082613,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-09/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-09/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-04-09.txt"
+  },
+  "stories": [
+    {
+      "title": "Meta's Superintelligence Lab unveils its first public model, Muse Spark",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/",
+      "summary": "Meta touts strong benchmarks but admits \"performance gaps\" in agentic and coding systems."
+    },
+    {
+      "title": "Solar System Bibliography",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/solar-system/solar-system-bibliography/",
+      "summary": "We use a&#160;best of&#160;approach with images, selecting a key set of images that best tell the story of the planet, celestial object or spacecraft. Comprehensive planetary image libraries can be found at&#160;http://photojournal.jpl.nasa.gov/&#160;and&#160;http://hubblesite.org/gallery/. Many missions and observatories also have excellent and unique image collections. These are the primary sources for information in this section: Jet Propulsion [&#8230;] The post Solar System Bibliography appeared first on NASA Science."
+    },
+    {
+      "title": "JSC Building 37",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/johnson/history/jsc-building-37/",
+      "summary": "Building 37, Lunar Receiving Laboratory NASA Lyndon B. Johnson Space CenterHouston, Texas Building 37, originally called the Lunar Receiving Laboratory, was renamed Life Sciences Laboratory in 1974. This facility was purpose-built in 1967 to quarantine crews, equipment, and samples returning from the moon, allowing for safe study and scientific analysis following reentry into Earth’s atmosphere. […] The post JSC Building 37 appeared first on NASA Science."
+    },
+    {
+      "title": "Liquid or solid? Oobleck droplets are both",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01109-3",
+      "summary": "Nature, Published online: 09 April 2026; doi:10.1038/d41586-026-01109-3High-speed cameras can observe the strange behaviour of a cornstarch–water mixture."
+    },
+    {
+      "title": "Author Correction: Foundation model of neural activity predicts response to new stimulus types",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10457-z",
+      "summary": "Nature, Published online: 08 April 2026; doi:10.1038/s41586-026-10457-zAuthor Correction: Foundation model of neural activity predicts response to new stimulus types"
+    },
+    {
+      "title": "The next phase of enterprise AI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/next-phase-of-enterprise-ai",
+      "summary": "OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents."
+    },
+    {
+      "title": "Introducing the Child Safety Blueprint",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/introducing-child-safety-blueprint",
+      "summary": "Discover OpenAI’s Child Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-04-09T05:51:22.824796",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
