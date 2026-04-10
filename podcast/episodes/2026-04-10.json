@@ -1,0 +1,66 @@
+{
+  "guid": "2026-04-10",
+  "date": "2026-04-10T05:59:29.026846",
+  "title": "NASA's NUARC Labs & AI's Impact on Work & Ethics Debate",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 300.2105263157894,
+  "duration_formatted": "5:00",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-10.mp3",
+    "audio_size_bytes": 7018038,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-10/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-10/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-04-10.txt"
+  },
+  "stories": [
+    {
+      "title": "Indoor Testing Facilities available at the NASA Unmanned Autonomy Research Complex (NUARC)",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/aeronautics/indoor-testing-facilities-available-at-the-nasa-unmanned-autonomy-research-complex-nuarc/",
+      "summary": "Windshaper A large WindShaper fan array is available for dynamic low-speed and hovering flight research. The WindShaper is ideal for generating arbitrary wind gradients and wind gusts via a simple Python API. A companion WindProbe is also available for quick surveys of flows. The WindProbe utilizes the lab’s OptiTrack motion capture system to extract the […] The post Indoor Testing Facilities available at the NASA Unmanned Autonomy Research Complex (NUARC) appeared first on NASA Science."
+    },
+    {
+      "title": "Indoor Testing Facilities available at the NASA Unmanned Autonomy Research Complex (NUARC)",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/image-article/indoor-testing-facilities-available-at-the-nasa-unmanned-autonomy-research-complex-nuarc/",
+      "summary": "WindShaper A large WindShaper fan array is available for dynamic low-speed and hovering flight research. The WindShaper is ideal for generating arbitrary wind gradients and wind gusts via a simple Python API. A companion WindProbe is also available for quick surveys of flows. The WindProbe utilizes the lab’s OptiTrack motion capture system to extract the […] The post Indoor Testing Facilities available at the NASA Unmanned Autonomy Research Complex (NUARC) appeared first on NASA Science."
+    },
+    {
+      "title": "Should academic misconduct be catalogued? Proposed US database sparks debate",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01147-x",
+      "summary": "Nature, Published online: 09 April 2026; doi:10.1038/d41586-026-01147-xRepository would require US universities to register research fraud and workplace harassment."
+    },
+    {
+      "title": "New Future of Work: AI is driving rapid change, uneven benefits",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/",
+      "summary": "For the past five years, the New Future of Work report has captured how work is changing. This year, the shift feels especially sharp. Previous editions have focused on technology’s role in increasing productivity by automating tasks, accelerating communication, and expanding access to information, as well as the rise of remote work. Today, generative AI [&#8230;] The post New Future of Work: AI is driving rapid change, uneven benefits appeared first on Microsoft Research."
+    },
+    {
+      "title": "Here are the best Apple Watch deals available right now",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/21289209/best-apple-watch-deals",
+      "summary": "In September, Apple launched its latest batch of smartwatches, including the Apple Watch Series 11, the SE 3, and the Ultra 3. Each has its own pros and cons, but the introduction of Apple’s newest wearables also means there are now more Apple Watch models on the market than ever before — and a lot [&#8230;]"
+    },
+    {
+      "title": "Transparency and knowledge exchange in AI-assisted data analysis code generation",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://www.nature.com/articles/s43588-025-00781-1",
+      "summary": "Article URL: https://www.nature.com/articles/s43588-025-00781-1 Comments URL: https://news.ycombinator.com/item?id=47714135 Points: 1 # Comments: 0"
+    },
+    {
+      "title": "Crew of tiny worms readies for April 11 launch to International Space Station",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/crew-of-tiny-worms-readies-for-april-10-launch-to-international-space-station",
+      "summary": "A crew of tiny worms will spend six months aboard the International Space Station, helping researchers better understand how long-term spaceflight affects human astronauts."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-04-10T06:00:39.630017",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

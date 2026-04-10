@@ -262,7 +262,14 @@
     "https://www.nature.com/articles/d41586-026-01109-3",
     "https://www.nature.com/articles/s41586-026-10457-z",
     "https://openai.com/index/next-phase-of-enterprise-ai",
-    "https://openai.com/index/introducing-child-safety-blueprint"
+    "https://openai.com/index/introducing-child-safety-blueprint",
+    "https://www.nasa.gov/aeronautics/indoor-testing-facilities-available-at-the-nasa-unmanned-autonomy-research-complex-nuarc/",
+    "https://www.nasa.gov/image-article/indoor-testing-facilities-available-at-the-nasa-unmanned-autonomy-research-complex-nuarc/",
+    "https://www.nature.com/articles/d41586-026-01147-x",
+    "https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/",
+    "https://www.theverge.com/21289209/best-apple-watch-deals",
+    "https://www.nature.com/articles/s43588-025-00781-1",
+    "https://www.space.com/space-exploration/launches-spacecraft/crew-of-tiny-worms-readies-for-april-10-launch-to-international-space-station"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -527,7 +534,14 @@
     "https://www.nature.com/articles/d41586-026-01109-3": "2026-04-09T05:51:22.845398",
     "https://www.nature.com/articles/s41586-026-10457-z": "2026-04-09T05:51:22.845398",
     "https://openai.com/index/next-phase-of-enterprise-ai": "2026-04-09T05:51:22.845398",
-    "https://openai.com/index/introducing-child-safety-blueprint": "2026-04-09T05:51:22.845398"
+    "https://openai.com/index/introducing-child-safety-blueprint": "2026-04-09T05:51:22.845398",
+    "https://www.nasa.gov/aeronautics/indoor-testing-facilities-available-at-the-nasa-unmanned-autonomy-research-complex-nuarc/": "2026-04-10T06:00:39.651021",
+    "https://www.nasa.gov/image-article/indoor-testing-facilities-available-at-the-nasa-unmanned-autonomy-research-complex-nuarc/": "2026-04-10T06:00:39.651021",
+    "https://www.nature.com/articles/d41586-026-01147-x": "2026-04-10T06:00:39.651021",
+    "https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/": "2026-04-10T06:00:39.651021",
+    "https://www.theverge.com/21289209/best-apple-watch-deals": "2026-04-10T06:00:39.651021",
+    "https://www.nature.com/articles/s43588-025-00781-1": "2026-04-10T06:00:39.651021",
+    "https://www.space.com/space-exploration/launches-spacecraft/crew-of-tiny-worms-readies-for-april-10-launch-to-international-space-station": "2026-04-10T06:00:39.651021"
   },
-  "last_run": "2026-04-09T05:51:22.845398"
+  "last_run": "2026-04-10T06:00:39.651021"
 }
