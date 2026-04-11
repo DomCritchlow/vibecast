@@ -1,0 +1,66 @@
+{
+  "guid": "2026-04-11",
+  "date": "2026-04-11T05:25:44.407861",
+  "title": "ChatGPT for Research & Artemis II Re-Entry Updates",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 255.57894736842104,
+  "duration_formatted": "4:15",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-11.mp3",
+    "audio_size_bytes": 5987308,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-11/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-11/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-04-11.txt"
+  },
+  "stories": [
+    {
+      "title": "Research with ChatGPT",
+      "source": "OpenAI News",
+      "url": "https://openai.com/academy/search-and-deep-research",
+      "summary": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights."
+    },
+    {
+      "title": "ChatGPT for research",
+      "source": "OpenAI News",
+      "url": "https://openai.com/academy/research",
+      "summary": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights."
+    },
+    {
+      "title": "Show HN: HyperFlow – A self-improving agent framework built on LangGraph",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://news.ycombinator.com/item?id=47727255",
+      "summary": "Hi HN, I am Umer. I recently built an experimental framework called HyperFlow to explore the idea of self-improving AI agents.Usually, when an agent fails a task, we developers step in to manually tweak the prompt or adjust the code logic. I wanted to see if an agent could automate its own improvement loop.Built on LangChain and LangGraph, HyperFlow uses two agents: - A TaskAgent that solves the domain problem. - A MetaAgent that acts as the improver.The MetaAgent looks at the TaskAgent's evaluation logs, rewrites the underlying Python code, tools, and prompt files, and then tests the new version in an isolated sandbox (like Docker). Over several generations, it saves the versions that achieve the highest scores to an archive.It is highly experimental right now, but the architecture is heavily inspired by the recent HyperAgents paper (Meta Research, 2026).I would love to hear your feedback on the architecture, your thoughts on self-referential agents, or answer any questions you mig..."
+    },
+    {
+      "title": "Human Perception and Performance Laboratory",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/human-systems-integration-division/human-performance/human-perception-and-performance-laboratory/",
+      "summary": "Human Perception and Performance Laboratory Mission Statement The Human Perception &#038; Performance Lab advances NASA’s understanding of how human perceptual processes, physiological responses, and task demands influence performance in complex environments. Research Areas/Projects Applied Human Performance: Spaceflight Spaceflight provides a natural laboratory for understanding how perception, physiology, and behavior adapt in extreme environments. Our lab […] The post Human Perception and Performance Laboratory appeared first on NASA Science."
+    },
+    {
+      "title": "Artemis II Flight Day 10: Live Re-Entry Updates",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/blogs/missions/2026/04/10/artemis-ii-flight-day-10-re-entry-live-updates/",
+      "summary": "Live re-entry updates for NASA’s Artemis II mission will be published on this page. All times are Eastern. 9:58 p.m. The Artemis II crew is safely aboard the USS John P. Murtha, where they will undergo post-mission medical evaluations in the ship’s medical bay before traveling back to shore to board a NASA aircraft bound for […] The post Artemis II Flight Day 10: Live Re-Entry Updates appeared first on NASA Science."
+    },
+    {
+      "title": "Author Correction: Multi-omic profiling reveals age-related immune dynamics in healthy adults",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10484-w",
+      "summary": "Nature, Published online: 10 April 2026; doi:10.1038/s41586-026-10484-wAuthor Correction: Multi-omic profiling reveals age-related immune dynamics in healthy adults"
+    },
+    {
+      "title": "How the butterfly got its name: Books in brief",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01160-0",
+      "summary": "Nature, Published online: 10 April 2026; doi:10.1038/d41586-026-01160-0Andrew Robinson reviews five of the best science picks."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-04-11T05:26:47.483006",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

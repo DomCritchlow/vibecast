@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Apr 2026 06:00:39 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 05:26:47 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>ChatGPT for Research &amp; Artemis II Re-Entry Updates</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Research with ChatGPT
+   Source: OpenAI News
+2. ChatGPT for research
+   Source: OpenAI News
+3. Show HN: HyperFlow – A self-improving agent framework built on LangGraph
+   Source: Hacker News (AI filtered)
+4. Human Perception and Performance Laboratory
+   Source: NASA Science
+5. Artemis II Flight Day 10: Live Re-Entry Updates
+   Source: NASA Science
+6. Author Correction: Multi-omic profiling reveals age-related immune dynamics in healthy adults
+   Source: Nature News
+7. How the butterfly got its name: Books in brief
+   Source: Nature News
+
+REFERENCES:
+
+1. Research with ChatGPT
+   https://openai.com/academy/search-and-deep-research
+
+2. ChatGPT for research
+   https://openai.com/academy/research
+
+3. Show HN: HyperFlow – A self-improving agent framework built on LangGraph
+   https://news.ycombinator.com/item?id=47727255
+
+4. Human Perception and Performance Laboratory
+   https://www.nasa.gov/human-systems-integration-division/human-performance/human-perception-and-performance-laboratory/
+
+5. Artemis II Flight Day 10: Live Re-Entry Updates
+   https://www.nasa.gov/blogs/missions/2026/04/10/artemis-ii-flight-day-10-re-entry-live-updates/
+
+6. Author Correction: Multi-omic profiling reveals age-related immune dynamics in healthy adults
+   https://www.nature.com/articles/s41586-026-10484-w
+
+7. How the butterfly got its name: Books in brief
+   https://www.nature.com/articles/d41586-026-01160-0
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-11/newspaper.pdf]]></description>
+      <pubDate>Sat, 11 Apr 2026 05:25:44 -0000</pubDate>
+      <guid isPermaLink="false">2026-04-11</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-11.mp3" length="5987308" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Research with ChatGPT
+   Source: OpenAI News
+2. ChatGPT for research
+   Source: OpenAI News
+3. Show HN: HyperFlow – A self-improving agent framework built on LangGraph
+   Source: Hacker News (AI filtered)
+4. Human Perception and Performance Laboratory
+   Source: NASA Science
+5. Artemis II Flight Day 10: Live Re-Entry Updates
+   Source: NASA Science
+6. Author Correction: Multi-omic profiling reveals age-related immune dynamics in healthy adults
+   Source: Nature News
+7. How the butterfly got its name: Books in brief
+   Source: Nature News
+
+REFERENCES:
+
+1. Research with ChatGPT
+   https://openai.com/academy/search-and-deep-research
+
+2. ChatGPT for research
+   https://openai.com/academy/research
+
+3. Show HN: HyperFlow – A self-improving agent framework built on LangGraph
+   https://news.ycombinator.com/item?id=47727255
+
+4. Human Perception and Performance Laboratory
+   https://www.nasa.gov/human-systems-integration-division/human-performance/human-perception-and-performance-laboratory/
+
+5. Artemis II Flight Day 10: Live Re-Entry Updates
+   https://www.nasa.gov/blogs/missions/2026/04/10/artemis-ii-flight-day-10-re-entry-live-updates/
+
+6. Author Correction: Multi-omic profiling reveals age-related immune dynamics in healthy adults
+   https://www.nature.com/articles/s41586-026-10484-w
+
+7. How the butterfly got its name: Books in brief
+   https://www.nature.com/articles/d41586-026-01160-0
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-11/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:15</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-11/episode-art.png"/>
+    </item>
     <item>
       <title>NASA&#x27;s NUARC Labs &amp; AI&#x27;s Impact on Work &amp; Ethics Debate</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:50</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-13/episode-art.png"/>
-    </item>
-    <item>
-      <title>FUELEAP Insights &amp; NVIDIA AI-Q’s DeepResearch Victory</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. FUELEAP
-   Source: NASA Science
-2. Rethinking imitation learning with Predictive Inverse Dynamics Models
-   Source: Microsoft Research Blog
-3. How NVIDIA AI-Q Reached \#1 on DeepResearch Bench I and II
-   Source: Hugging Face Blog
-4. Show HN: AutoICD API – AI clinical coding platform for ICD-10 and SNOMED
-   Source: Hacker News (AI filtered)
-5. Pentagon seeks system to ensure AI models work as planned
-   Source: Hacker News (AI filtered)
-6. Risk Assessment for Unmanned Aircraft Systems (UAS)
-   Source: NASA Science
-7. NASA’s DART Mission Changed Orbit of Asteroid Didymos Around Sun
-   Source: NASA JPL News
-
-REFERENCES:
-
-1. FUELEAP
-   https://www.nasa.gov/fueleap/
-
-2. Rethinking imitation learning with Predictive Inverse Dynamics Models
-   https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models/
-
-3. How NVIDIA AI-Q Reached \#1 on DeepResearch Bench I and II
-   https://huggingface.co/blog/nvidia/how-nvidia-won-deepresearch-bench
-
-4. Show HN: AutoICD API – AI clinical coding platform for ICD-10 and SNOMED
-   https://autoicdapi.com
-
-5. Pentagon seeks system to ensure AI models work as planned
-   https://www.militarytimes.com/industry/techwatch/2026/03/12/pentagon-seeks-system-to-ensure-ai-models-work-as-planned/
-
-6. Risk Assessment for Unmanned Aircraft Systems (UAS)
-   https://www.nasa.gov/risk-assessment-for-unmanned-aircraft-systems-uas/
-
-7. NASA’s DART Mission Changed Orbit of Asteroid Didymos Around Sun
-   https://www.jpl.nasa.gov/news/nasas-dart-mission-changed-orbit-of-asteroid-didymos-around-sun
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-12/newspaper.pdf]]></description>
-      <pubDate>Thu, 12 Mar 2026 05:16:53 -0000</pubDate>
-      <guid isPermaLink="false">2026-03-12</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-12.mp3" length="7334642" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. FUELEAP
-   Source: NASA Science
-2. Rethinking imitation learning with Predictive Inverse Dynamics Models
-   Source: Microsoft Research Blog
-3. How NVIDIA AI-Q Reached \#1 on DeepResearch Bench I and II
-   Source: Hugging Face Blog
-4. Show HN: AutoICD API – AI clinical coding platform for ICD-10 and SNOMED
-   Source: Hacker News (AI filtered)
-5. Pentagon seeks system to ensure AI models work as planned
-   Source: Hacker News (AI filtered)
-6. Risk Assessment for Unmanned Aircraft Systems (UAS)
-   Source: NASA Science
-7. NASA’s DART Mission Changed Orbit of Asteroid Didymos Around Sun
-   Source: NASA JPL News
-
-REFERENCES:
-
-1. FUELEAP
-   https://www.nasa.gov/fueleap/
-
-2. Rethinking imitation learning with Predictive Inverse Dynamics Models
-   https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models/
-
-3. How NVIDIA AI-Q Reached \#1 on DeepResearch Bench I and II
-   https://huggingface.co/blog/nvidia/how-nvidia-won-deepresearch-bench
-
-4. Show HN: AutoICD API – AI clinical coding platform for ICD-10 and SNOMED
-   https://autoicdapi.com
-
-5. Pentagon seeks system to ensure AI models work as planned
-   https://www.militarytimes.com/industry/techwatch/2026/03/12/pentagon-seeks-system-to-ensure-ai-models-work-as-planned/
-
-6. Risk Assessment for Unmanned Aircraft Systems (UAS)
-   https://www.nasa.gov/risk-assessment-for-unmanned-aircraft-systems-uas/
-
-7. NASA’s DART Mission Changed Orbit of Asteroid Didymos Around Sun
-   https://www.jpl.nasa.gov/news/nasas-dart-mission-changed-orbit-of-asteroid-didymos-around-sun
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-12/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:59</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-12/episode-art.png"/>
     </item>
   </channel>
 </rss>
