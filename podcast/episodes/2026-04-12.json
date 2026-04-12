@@ -1,0 +1,66 @@
+{
+  "guid": "2026-04-12",
+  "date": "2026-04-12T05:54:57.889305",
+  "title": "AI Fails Soccer Bets & Artemis II Moon Mission Insights",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 278.7368421052632,
+  "duration_formatted": "4:38",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-12.mp3",
+    "audio_size_bytes": 6619305,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-12/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-12/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-04-12.txt"
+  },
+  "stories": [
+    {
+      "title": "AI models are terrible at betting on soccer—especially xAI Grok",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/",
+      "summary": "Systems from Google, OpenAI, Anthropic, and xAI struggle with the Premier League."
+    },
+    {
+      "title": "You don’t have to spend more than $50 on a great USB-C dock for your Switch 2",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/907645/nintendo-switch-2-genki-jsaux-usb-c-dock-hands-on",
+      "summary": "Nintendo seemingly designed its latest console to be a mystery for third-party accessory makers. With the Switch 2, the company changed the wireless protocol for connecting controllers to the new system, as well as how it outputs video over USB-C, making it clear at launch that every third-party manufacturer needed to start over from scratch. [&#8230;]"
+    },
+    {
+      "title": "How the Internet Broke Everyone’s Bullshit Detectors",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/",
+      "summary": "From AI-generated images to restricted satellite data, the systems used to verify what’s real online are struggling to keep up."
+    },
+    {
+      "title": "Catalog of AI Knowledge Retrieval, Memory and RAG Systems",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://github.com/machinarii/ai-knowledge-systems-catalog",
+      "summary": "Article URL: https://github.com/machinarii/ai-knowledge-systems-catalog Comments URL: https://news.ycombinator.com/item?id=47736291 Points: 2 # Comments: 0"
+    },
+    {
+      "title": "Behind the scenes with Artemis II’s scientists during the historic Moon fly-by",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01208-1",
+      "summary": "Nature, Published online: 10 April 2026; doi:10.1038/d41586-026-01208-1Nature correspondent Alexandra Witze tells us about being in NASA’s scientific nerve centre."
+    },
+    {
+      "title": "Homelessness of the heart",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01063-0",
+      "summary": "Nature, Published online: 10 April 2026; doi:10.1038/d41586-026-01063-0The past is a foreign country."
+    },
+    {
+      "title": "Getting started with ChatGPT",
+      "source": "OpenAI News",
+      "url": "https://openai.com/academy/getting-started",
+      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-04-12T05:56:05.281121",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

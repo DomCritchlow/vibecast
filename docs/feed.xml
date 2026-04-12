@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Apr 2026 05:26:47 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 05:56:05 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>AI Fails Soccer Bets &amp; Artemis II Moon Mission Insights</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. AI models are terrible at betting on soccer—especially xAI Grok
+   Source: Ars Technica
+2. You don’t have to spend more than $50 on a great USB-C dock for your Switch 2
+   Source: The Verge
+3. How the Internet Broke Everyone’s Bullshit Detectors
+   Source: Wired
+4. Catalog of AI Knowledge Retrieval, Memory and RAG Systems
+   Source: Hacker News (AI filtered)
+5. Behind the scenes with Artemis II’s scientists during the historic Moon fly-by
+   Source: Nature News
+6. Homelessness of the heart
+   Source: Nature News
+7. Getting started with ChatGPT
+   Source: OpenAI News
+
+REFERENCES:
+
+1. AI models are terrible at betting on soccer—especially xAI Grok
+   https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/
+
+2. You don’t have to spend more than $50 on a great USB-C dock for your Switch 2
+   https://www.theverge.com/gadgets/907645/nintendo-switch-2-genki-jsaux-usb-c-dock-hands-on
+
+3. How the Internet Broke Everyone’s Bullshit Detectors
+   https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/
+
+4. Catalog of AI Knowledge Retrieval, Memory and RAG Systems
+   https://github.com/machinarii/ai-knowledge-systems-catalog
+
+5. Behind the scenes with Artemis II’s scientists during the historic Moon fly-by
+   https://www.nature.com/articles/d41586-026-01208-1
+
+6. Homelessness of the heart
+   https://www.nature.com/articles/d41586-026-01063-0
+
+7. Getting started with ChatGPT
+   https://openai.com/academy/getting-started
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-12/newspaper.pdf]]></description>
+      <pubDate>Sun, 12 Apr 2026 05:54:57 -0000</pubDate>
+      <guid isPermaLink="false">2026-04-12</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-12.mp3" length="6619305" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. AI models are terrible at betting on soccer—especially xAI Grok
+   Source: Ars Technica
+2. You don’t have to spend more than $50 on a great USB-C dock for your Switch 2
+   Source: The Verge
+3. How the Internet Broke Everyone’s Bullshit Detectors
+   Source: Wired
+4. Catalog of AI Knowledge Retrieval, Memory and RAG Systems
+   Source: Hacker News (AI filtered)
+5. Behind the scenes with Artemis II’s scientists during the historic Moon fly-by
+   Source: Nature News
+6. Homelessness of the heart
+   Source: Nature News
+7. Getting started with ChatGPT
+   Source: OpenAI News
+
+REFERENCES:
+
+1. AI models are terrible at betting on soccer—especially xAI Grok
+   https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/
+
+2. You don’t have to spend more than $50 on a great USB-C dock for your Switch 2
+   https://www.theverge.com/gadgets/907645/nintendo-switch-2-genki-jsaux-usb-c-dock-hands-on
+
+3. How the Internet Broke Everyone’s Bullshit Detectors
+   https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/
+
+4. Catalog of AI Knowledge Retrieval, Memory and RAG Systems
+   https://github.com/machinarii/ai-knowledge-systems-catalog
+
+5. Behind the scenes with Artemis II’s scientists during the historic Moon fly-by
+   https://www.nature.com/articles/d41586-026-01208-1
+
+6. Homelessness of the heart
+   https://www.nature.com/articles/d41586-026-01063-0
+
+7. Getting started with ChatGPT
+   https://openai.com/academy/getting-started
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-12/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:38</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-12/episode-art.png"/>
+    </item>
     <item>
       <title>ChatGPT for Research &amp; Artemis II Re-Entry Updates</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:26</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-14/episode-art.png"/>
-    </item>
-    <item>
-      <title>AgentRx Debugging &amp; NASA’s Tiny Exoplanet Explorer</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Systematic debugging for AI agents: Introducing the AgentRx framework
-   Source: Microsoft Research Blog
-2. About Integrated Aviation Systems Program (IASP)
-   Source: NASA Science
-3. Tiny NASA Spacecraft Delivers Exoplanet Mission’s First Images
-   Source: NASA Science
-4. ‘Baked, not fried’: five highlights from nutrition research
-   Source: Nature News
-5. How bioRxiv changed the way biologists share ideas – in numbers
-   Source: Nature News
-6. A defense official reveals how AI chatbots could be used for targeting decisions
-   Source: MIT Technology Review
-7. Centuries before the Inca, Peru's wealthy imported parrots from afar
-   Source: Ars Technica
-
-REFERENCES:
-
-1. Systematic debugging for AI agents: Introducing the AgentRx framework
-   https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/
-
-2. About Integrated Aviation Systems Program (IASP)
-   https://www.nasa.gov/directorates/armd/iasp/about-iasp/
-
-3. Tiny NASA Spacecraft Delivers Exoplanet Mission’s First Images
-   https://www.nasa.gov/science-research/astrophysics/exoplanet-science/tiny-nasa-spacecraft-delivers-exoplanet-missions-first-images/
-
-4. ‘Baked, not fried’: five highlights from nutrition research
-   https://www.nature.com/articles/d41586-026-00598-6
-
-5. How bioRxiv changed the way biologists share ideas – in numbers
-   https://www.nature.com/articles/d41586-026-00709-3
-
-6. A defense official reveals how AI chatbots could be used for targeting decisions
-   https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/
-
-7. Centuries before the Inca, Peru's wealthy imported parrots from afar
-   https://arstechnica.com/science/2026/03/centuries-before-the-inca-perus-wealthy-imported-parrots-from-afar/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-13/newspaper.pdf]]></description>
-      <pubDate>Fri, 13 Mar 2026 05:14:10 -0000</pubDate>
-      <guid isPermaLink="false">2026-03-13</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-13.mp3" length="6885754" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Systematic debugging for AI agents: Introducing the AgentRx framework
-   Source: Microsoft Research Blog
-2. About Integrated Aviation Systems Program (IASP)
-   Source: NASA Science
-3. Tiny NASA Spacecraft Delivers Exoplanet Mission’s First Images
-   Source: NASA Science
-4. ‘Baked, not fried’: five highlights from nutrition research
-   Source: Nature News
-5. How bioRxiv changed the way biologists share ideas – in numbers
-   Source: Nature News
-6. A defense official reveals how AI chatbots could be used for targeting decisions
-   Source: MIT Technology Review
-7. Centuries before the Inca, Peru's wealthy imported parrots from afar
-   Source: Ars Technica
-
-REFERENCES:
-
-1. Systematic debugging for AI agents: Introducing the AgentRx framework
-   https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/
-
-2. About Integrated Aviation Systems Program (IASP)
-   https://www.nasa.gov/directorates/armd/iasp/about-iasp/
-
-3. Tiny NASA Spacecraft Delivers Exoplanet Mission’s First Images
-   https://www.nasa.gov/science-research/astrophysics/exoplanet-science/tiny-nasa-spacecraft-delivers-exoplanet-missions-first-images/
-
-4. ‘Baked, not fried’: five highlights from nutrition research
-   https://www.nature.com/articles/d41586-026-00598-6
-
-5. How bioRxiv changed the way biologists share ideas – in numbers
-   https://www.nature.com/articles/d41586-026-00709-3
-
-6. A defense official reveals how AI chatbots could be used for targeting decisions
-   https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/
-
-7. Centuries before the Inca, Peru's wealthy imported parrots from afar
-   https://arstechnica.com/science/2026/03/centuries-before-the-inca-perus-wealthy-imported-parrots-from-afar/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-13/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:50</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-13/episode-art.png"/>
     </item>
   </channel>
 </rss>
