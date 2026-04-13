@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Apr 2026 05:56:05 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 06:17:42 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Self-Improving AI &amp; ChatGPT Projects for Marketing Teams</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Self-Improving AI Agent
+   Source: Hacker News (AI filtered)
+2. The middle years of my life and career: balancing two experiments at once
+   Source: Nature News
+3. Ambiphilic cross-coupling with aryl-bismuth reagents
+   Source: Nature News
+4. Using projects in ChatGPT
+   Source: OpenAI News
+5. ChatGPT for marketing teams
+   Source: OpenAI News
+6. Gemma 4: Byte for byte, the most capable open models
+   Source: DeepMind Blog
+7. Gemini 3.1 Pro: A smarter model for your most complex tasks
+   Source: DeepMind Blog
+
+REFERENCES:
+
+1. Self-Improving AI Agent
+   https://github.com/NousResearch/hermes-agent
+
+2. The middle years of my life and career: balancing two experiments at once
+   https://www.nature.com/articles/d41586-026-00195-7
+
+3. Ambiphilic cross-coupling with aryl-bismuth reagents
+   https://www.nature.com/articles/s41586-026-10486-8
+
+4. Using projects in ChatGPT
+   https://openai.com/academy/projects
+
+5. ChatGPT for marketing teams
+   https://openai.com/academy/marketing
+
+6. Gemma 4: Byte for byte, the most capable open models
+   https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/
+
+7. Gemini 3.1 Pro: A smarter model for your most complex tasks
+   https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-13/newspaper.pdf]]></description>
+      <pubDate>Mon, 13 Apr 2026 06:16:35 -0000</pubDate>
+      <guid isPermaLink="false">2026-04-13</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-13.mp3" length="6380399" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Self-Improving AI Agent
+   Source: Hacker News (AI filtered)
+2. The middle years of my life and career: balancing two experiments at once
+   Source: Nature News
+3. Ambiphilic cross-coupling with aryl-bismuth reagents
+   Source: Nature News
+4. Using projects in ChatGPT
+   Source: OpenAI News
+5. ChatGPT for marketing teams
+   Source: OpenAI News
+6. Gemma 4: Byte for byte, the most capable open models
+   Source: DeepMind Blog
+7. Gemini 3.1 Pro: A smarter model for your most complex tasks
+   Source: DeepMind Blog
+
+REFERENCES:
+
+1. Self-Improving AI Agent
+   https://github.com/NousResearch/hermes-agent
+
+2. The middle years of my life and career: balancing two experiments at once
+   https://www.nature.com/articles/d41586-026-00195-7
+
+3. Ambiphilic cross-coupling with aryl-bismuth reagents
+   https://www.nature.com/articles/s41586-026-10486-8
+
+4. Using projects in ChatGPT
+   https://openai.com/academy/projects
+
+5. ChatGPT for marketing teams
+   https://openai.com/academy/marketing
+
+6. Gemma 4: Byte for byte, the most capable open models
+   https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/
+
+7. Gemini 3.1 Pro: A smarter model for your most complex tasks
+   https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-13/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:26</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-13/episode-art.png"/>
+    </item>
     <item>
       <title>AI Fails Soccer Bets &amp; Artemis II Moon Mission Insights</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>5:18</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-15/episode-art.png"/>
-    </item>
-    <item>
-      <title>China’s Tech Ambitions &amp; NASA’s Black Hole Discovery</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. ASAB Activities
-   Source: NASA Science
-2. VAB Activities
-   Source: NASA Science
-3. Top brass in China reaffirm goal to be world leaders in tech, AI
-   Source: Nature News
-4. The problem with Canada’s plan to buy scientific prestige
-   Source: Nature News
-5. Archival Data From NASA’s NEOWISE Tracks Star Turning Into Black Hole
-   Source: NASA JPL News
-6. Can't wait for Artemis 2 to make history? Get up to 20% off these awesome Lego NASA Artemis rocket sets
-   Source: Space.com
-7. What went right this week: progress in tumultuous times, plus more
-   Source: Positive News
-
-REFERENCES:
-
-1. ASAB Activities
-   https://www.nasa.gov/asab-activities/
-
-2. VAB Activities
-   https://www.nasa.gov/vab-activities/
-
-3. Top brass in China reaffirm goal to be world leaders in tech, AI
-   https://www.nature.com/articles/d41586-026-00814-3
-
-4. The problem with Canada’s plan to buy scientific prestige
-   https://www.nature.com/articles/d41586-026-00743-1
-
-5. Archival Data From NASA’s NEOWISE Tracks Star Turning Into Black Hole
-   https://www.jpl.nasa.gov/news/archival-data-from-nasas-neowise-tracks-star-turning-into-black-hole
-
-6. Can't wait for Artemis 2 to make history? Get up to 20% off these awesome Lego NASA Artemis rocket sets
-   https://www.space.com/entertainment/space-toys-lego/get-up-to-20-percent-off-these-awesome-lego-nasa-artemis-rocket-sets-amazon-uk-big-spring-deal-days
-
-7. What went right this week: progress in tumultuous times, plus more
-   https://www.positive.news/society/good-news-stories-from-week-10-of-2026/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-14/newspaper.pdf]]></description>
-      <pubDate>Sat, 14 Mar 2026 05:12:20 -0000</pubDate>
-      <guid isPermaLink="false">2026-03-14</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-14.mp3" length="6242472" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. ASAB Activities
-   Source: NASA Science
-2. VAB Activities
-   Source: NASA Science
-3. Top brass in China reaffirm goal to be world leaders in tech, AI
-   Source: Nature News
-4. The problem with Canada’s plan to buy scientific prestige
-   Source: Nature News
-5. Archival Data From NASA’s NEOWISE Tracks Star Turning Into Black Hole
-   Source: NASA JPL News
-6. Can't wait for Artemis 2 to make history? Get up to 20% off these awesome Lego NASA Artemis rocket sets
-   Source: Space.com
-7. What went right this week: progress in tumultuous times, plus more
-   Source: Positive News
-
-REFERENCES:
-
-1. ASAB Activities
-   https://www.nasa.gov/asab-activities/
-
-2. VAB Activities
-   https://www.nasa.gov/vab-activities/
-
-3. Top brass in China reaffirm goal to be world leaders in tech, AI
-   https://www.nature.com/articles/d41586-026-00814-3
-
-4. The problem with Canada’s plan to buy scientific prestige
-   https://www.nature.com/articles/d41586-026-00743-1
-
-5. Archival Data From NASA’s NEOWISE Tracks Star Turning Into Black Hole
-   https://www.jpl.nasa.gov/news/archival-data-from-nasas-neowise-tracks-star-turning-into-black-hole
-
-6. Can't wait for Artemis 2 to make history? Get up to 20% off these awesome Lego NASA Artemis rocket sets
-   https://www.space.com/entertainment/space-toys-lego/get-up-to-20-percent-off-these-awesome-lego-nasa-artemis-rocket-sets-amazon-uk-big-spring-deal-days
-
-7. What went right this week: progress in tumultuous times, plus more
-   https://www.positive.news/society/good-news-stories-from-week-10-of-2026/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-14/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:26</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-14/episode-art.png"/>
     </item>
   </channel>
 </rss>
