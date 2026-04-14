@@ -1,0 +1,66 @@
+{
+  "guid": "2026-04-14",
+  "date": "2026-04-14T06:01:52.571477",
+  "title": "Humans Beat AI & NASA’s Artemis III Rocket Unveiled",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 243.78947368421055,
+  "duration_formatted": "4:03",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-14.mp3",
+    "audio_size_bytes": 5978531,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-14/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-14/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-04-14.txt"
+  },
+  "stories": [
+    {
+      "title": "Human scientists trounce the best AI agents on complex tasks",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01199-z",
+      "summary": "Nature, Published online: 13 April 2026; doi:10.1038/d41586-026-01199-zState-of-the-industry report finds that, despite the limitations of artificial-intelligence systems, researchers have embraced them."
+    },
+    {
+      "title": "Huge analysis of 320,000 careers suggests that productive researchers stay that way",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00744-0",
+      "summary": "Nature, Published online: 13 April 2026; doi:10.1038/d41586-026-00744-0Early publishing success, team size and international collaborations are some of the best predictors of future publication rates."
+    },
+    {
+      "title": "You have no choice in reading this article—maybe",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/",
+      "summary": "Uri Maoz loved doing his human research, back when he was getting his PhD. He was studying a very specific topic in computational neuroscience: how the brain instructs our arms to move and how our gray matter in turn perceives that motion.&#160; Then his professor asked him to deliver an undergrad lecture. Maoz assumed his&#8230;"
+    },
+    {
+      "title": "NASA Invites Media to Rollout Event for Artemis III Moon Rocket Stage",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-rollout-event-for-artemis-iii-moon-rocket-stage/",
+      "summary": "NASA will roll the largest section of the agency’s SLS (Space Launch System) rocket, which will launch the second crewed Artemis mission, out of the agency’s Michoud Assembly Facility in New Orleans on Monday, April 20. What’s called the top four-fifths of the SLS core stage – the section containing the liquid hydrogen tank, liquid […] The post NASA Invites Media to Rollout Event for Artemis III Moon Rocket Stage appeared first on NASA Science."
+    },
+    {
+      "title": "Canadarm2 Installs Cygnus XL Cargo Craft to Unity Module",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/04/13/canadarm2-installs-cygnus-xl-cargo-craft-to-unity-module/",
+      "summary": "Northrop Grumman’s Cygnus XL spacecraft has been installed to the Unity module’s Earth-facing port of the International Space Station. The mission is known as NASA’s Northrop Grumman Commercial Resupply Services 24, or Northrop Grumman CRS-24. Filled with more than 11,000 pounds of research and supplies, the Northrop Grumman Cygnus XL spacecraft, carried on a SpaceX Falcon […] The post Canadarm2 Installs Cygnus XL Cargo Craft to Unity Module appeared first on NASA Science."
+    },
+    {
+      "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+      "summary": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security."
+    },
+    {
+      "title": "ChatGPT for operations teams",
+      "source": "OpenAI News",
+      "url": "https://openai.com/academy/operations",
+      "summary": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-04-14T06:02:58.212168",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

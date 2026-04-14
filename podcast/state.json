@@ -290,7 +290,14 @@
     "https://openai.com/academy/projects",
     "https://openai.com/academy/marketing",
     "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
-    "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/"
+    "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
+    "https://www.nature.com/articles/d41586-026-01199-z",
+    "https://www.nature.com/articles/d41586-026-00744-0",
+    "https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/",
+    "https://www.nasa.gov/news-release/nasa-invites-media-to-rollout-event-for-artemis-iii-moon-rocket-stage/",
+    "https://www.nasa.gov/blogs/spacestation/2026/04/13/canadarm2-installs-cygnus-xl-cargo-craft-to-unity-module/",
+    "https://openai.com/index/cloudflare-openai-agent-cloud",
+    "https://openai.com/academy/operations"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -583,7 +590,14 @@
     "https://openai.com/academy/projects": "2026-04-13T06:17:42.788616",
     "https://openai.com/academy/marketing": "2026-04-13T06:17:42.788616",
     "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/": "2026-04-13T06:17:42.788616",
-    "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/": "2026-04-13T06:17:42.788616"
+    "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/": "2026-04-13T06:17:42.788616",
+    "https://www.nature.com/articles/d41586-026-01199-z": "2026-04-14T06:02:58.228439",
+    "https://www.nature.com/articles/d41586-026-00744-0": "2026-04-14T06:02:58.228439",
+    "https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/": "2026-04-14T06:02:58.228439",
+    "https://www.nasa.gov/news-release/nasa-invites-media-to-rollout-event-for-artemis-iii-moon-rocket-stage/": "2026-04-14T06:02:58.228439",
+    "https://www.nasa.gov/blogs/spacestation/2026/04/13/canadarm2-installs-cygnus-xl-cargo-craft-to-unity-module/": "2026-04-14T06:02:58.228439",
+    "https://openai.com/index/cloudflare-openai-agent-cloud": "2026-04-14T06:02:58.228439",
+    "https://openai.com/academy/operations": "2026-04-14T06:02:58.228439"
   },
-  "last_run": "2026-04-13T06:17:42.788616"
+  "last_run": "2026-04-14T06:02:58.228439"
 }
