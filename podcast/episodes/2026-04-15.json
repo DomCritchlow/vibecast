@@ -1,0 +1,66 @@
+{
+  "guid": "2026-04-15",
+  "date": "2026-04-15T06:01:34.872735",
+  "title": "AI Insights & NASA Stars Dim Fast; SpaceX Starlink Launches",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 311.57894736842104,
+  "duration_formatted": "5:11",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-15.mp3",
+    "audio_size_bytes": 7174772,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-15/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-15/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-04-15.txt"
+  },
+  "stories": [
+    {
+      "title": "Coming soon: 10 Things That Matter in AI Right Now",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/",
+      "summary": "Each year we compile our 10 Breakthrough Technologies list, featuring our educated predictions for which technologies will have the biggest impact on how we live and work. This year, however, we had a dilemma. While our final picks encompass all our core coverage areas (energy, AI, and biotech, plus a few more), our 2026 list&#8230;"
+    },
+    {
+      "title": "UK gov's Mythos AI tests help separate cybersecurity threat from hype",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/",
+      "summary": "New model is the first AI system to complete a difficult multistep infiltration challenge."
+    },
+    {
+      "title": "NASA Finds Young Stars Dim in X-rays Surprisingly Quickly",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/missions/chandra/nasa-finds-young-stars-dim-in-x-rays-surprisingly-quickly/",
+      "summary": "Scientists have found that young stellar cousins of our Sun are calming down and dimming more quickly in their X-ray output than previously thought, according to a new study using NASA’s Chandra X-ray Observatory. A paper describing the results published Monday in The Astrophysical Journal. Unlike in the new movie “Project Hail Mary,” this quieting [&#8230;] The post NASA Finds Young Stars Dim in X-rays Surprisingly Quickly appeared first on NASA Science."
+    },
+    {
+      "title": "Amendment 52: NASA SMD Graduate Student Research Solicitation – Future Investigators in NASA Earth and Space Science and Technology",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-52-nasa-smd-graduate-student-research-solicitation-future-investigators-in-nasa-earth-and-space-science-and-technology/",
+      "summary": "Future Investigators in NASA Earth and Space Science and Technology (FINESST) F.5 of ROSES-25 solicits proposals from accredited U.S. universities and other eligible organizations for graduate student-designed and performed research projects that contribute to SMD&#8217;s science, technology, and exploration goals. The Future Investigator, i.e., the student, shall have the primary initiative to define the proposed [&#8230;] The post Amendment 52: NASA SMD Graduate Student Research Solicitation &#8211; Future Investigators in NASA Earth and Space Science and Technology appeared first on NASA Science."
+    },
+    {
+      "title": "SpaceX launches two Starlink satellite groups 19 hours apart",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/satellites/spacex-starlink-10-24-b1080-ccsfs-jrti-17-27-b1082-vsfb-ocisly",
+      "summary": "SpaceX launched two Falcon 9 rockets 19 hours apart, both carrying batches of Starlink satellites. The liftoffs took place from Florida and California on Tuesday, April 14, 2026 (by local time zone)."
+    },
+    {
+      "title": "The moon's oldest and darkest craters could be hiding the most water ice. That's good news for future astronauts",
+      "source": "Space.com",
+      "url": "https://www.space.com/astronomy/moon/the-moons-oldest-and-darkest-craters-could-be-hiding-the-most-water-ice-thats-good-news-for-future-astronauts",
+      "summary": "New research shows that craters near the moon's south pole that have been in permanent shadow the longest are more likely to contain the most water ice."
+    },
+    {
+      "title": "Imaging interface-controlled bulk oxygen spillover",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10324-x",
+      "summary": "Nature, Published online: 15 April 2026; doi:10.1038/s41586-026-10324-xIn situ microscopic single-particle imaging demonstrates the significance of rationally engineered metal–support interfaces for activating the oxygen in bulk catalyst, helping elucidate reaction pathways in catalytic conversions."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-04-15T06:02:44.043359",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
