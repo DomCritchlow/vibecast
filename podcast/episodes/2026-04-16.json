@@ -1,0 +1,66 @@
+{
+  "guid": "2026-04-16",
+  "date": "2026-04-16T06:03:16.829511",
+  "title": "Monolithic 3D Photonics & NASA’s CubeSats Launch",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 275.7894736842105,
+  "duration_formatted": "4:35",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-16.mp3",
+    "audio_size_bytes": 6724003,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-16/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-16/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-04-16.txt"
+  },
+  "stories": [
+    {
+      "title": "Monolithic 3D integration of tantalum pentoxide nonlinear photonics",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10379-w",
+      "summary": "Nature, Published online: 15 April 2026; doi:10.1038/s41586-026-10379-wMonolithic three-dimensional (3D) integration of tantalum pentoxide on a lithium niobate substrate enables scalable, multifunctional photonic systems and the incorporation of nonlinear optics directly into existing and emerging photonics infrastructure."
+    },
+    {
+      "title": "Who Tried Hermes Agent?",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://github.com/aipoch/medical-research-skills",
+      "summary": "Article URL: https://github.com/aipoch/medical-research-skills Comments URL: https://news.ycombinator.com/item?id=47789149 Points: 1 # Comments: 1"
+    },
+    {
+      "title": "NASA Launches Six CubeSats to International Space Station",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/image-article/nasa-launches-six-cubesats-to-international-space-station/",
+      "summary": "Experiments and supplies bound for the International Space Station launched on April 11 as part of the agency’s Northrop Grumman Commercial Resupply Services 24 mission. As part of the approximately 11,000 pounds cargo that lifted off inside the company’s Cygnus XL spacecraft, NASA’s CubeSat Launch Initiative (CSLI) launched six CubeSats built by U.S. educational institutions […] The post NASA Launches Six CubeSats to International Space Station appeared first on NASA Science."
+    },
+    {
+      "title": "Cosmic Structure SIG Seminar, 30 April 2026",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/cosmic-structure-sig-seminar-30-april-2026/",
+      "summary": "Mission Concepts for the Astrophysics Strategic Technology &#38; Research Accelerator (ASTRA) Initiative The post Cosmic Structure SIG Seminar, 30 April 2026 appeared first on NASA Science."
+    },
+    {
+      "title": "The Ancient Weapons Active in Your Immune System Today",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/the-ancient-weapons-active-in-your-immune-system-today-20260415/",
+      "summary": "Dozens of new discoveries reveal that defenses evolved by bacteria and viruses billions of years ago still define our own innate immune system. The post The Ancient Weapons Active in Your Immune System Today first appeared on Quanta Magazine"
+    },
+    {
+      "title": "Cytoplasmic lattices are megadalton storage complexes in mammalian oocytes",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10513-8",
+      "summary": "Nature, Published online: 15 April 2026; doi:10.1038/s41586-026-10513-8Cytoplasmic lattices are megadalton storage complexes in mammalian oocytes"
+    },
+    {
+      "title": "The next evolution of the Agents SDK",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+      "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-04-16T06:04:22.166065",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

@@ -304,7 +304,14 @@
     "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-52-nasa-smd-graduate-student-research-solicitation-future-investigators-in-nasa-earth-and-space-science-and-technology/",
     "https://www.space.com/space-exploration/satellites/spacex-starlink-10-24-b1080-ccsfs-jrti-17-27-b1082-vsfb-ocisly",
     "https://www.space.com/astronomy/moon/the-moons-oldest-and-darkest-craters-could-be-hiding-the-most-water-ice-thats-good-news-for-future-astronauts",
-    "https://www.nature.com/articles/s41586-026-10324-x"
+    "https://www.nature.com/articles/s41586-026-10324-x",
+    "https://www.nature.com/articles/s41586-026-10379-w",
+    "https://github.com/aipoch/medical-research-skills",
+    "https://www.nasa.gov/image-article/nasa-launches-six-cubesats-to-international-space-station/",
+    "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/cosmic-structure-sig-seminar-30-april-2026/",
+    "https://www.quantamagazine.org/the-ancient-weapons-active-in-your-immune-system-today-20260415/",
+    "https://www.nature.com/articles/s41586-026-10513-8",
+    "https://openai.com/index/the-next-evolution-of-the-agents-sdk"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -611,7 +618,14 @@
     "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-52-nasa-smd-graduate-student-research-solicitation-future-investigators-in-nasa-earth-and-space-science-and-technology/": "2026-04-15T06:02:44.064044",
     "https://www.space.com/space-exploration/satellites/spacex-starlink-10-24-b1080-ccsfs-jrti-17-27-b1082-vsfb-ocisly": "2026-04-15T06:02:44.064044",
     "https://www.space.com/astronomy/moon/the-moons-oldest-and-darkest-craters-could-be-hiding-the-most-water-ice-thats-good-news-for-future-astronauts": "2026-04-15T06:02:44.064044",
-    "https://www.nature.com/articles/s41586-026-10324-x": "2026-04-15T06:02:44.064044"
+    "https://www.nature.com/articles/s41586-026-10324-x": "2026-04-15T06:02:44.064044",
+    "https://www.nature.com/articles/s41586-026-10379-w": "2026-04-16T06:04:22.187968",
+    "https://github.com/aipoch/medical-research-skills": "2026-04-16T06:04:22.187968",
+    "https://www.nasa.gov/image-article/nasa-launches-six-cubesats-to-international-space-station/": "2026-04-16T06:04:22.187968",
+    "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/cosmic-structure-sig-seminar-30-april-2026/": "2026-04-16T06:04:22.187968",
+    "https://www.quantamagazine.org/the-ancient-weapons-active-in-your-immune-system-today-20260415/": "2026-04-16T06:04:22.187968",
+    "https://www.nature.com/articles/s41586-026-10513-8": "2026-04-16T06:04:22.187968",
+    "https://openai.com/index/the-next-evolution-of-the-agents-sdk": "2026-04-16T06:04:22.187968"
   },
-  "last_run": "2026-04-15T06:02:44.064044"
+  "last_run": "2026-04-16T06:04:22.187968"
 }
