@@ -1,0 +1,66 @@
+{
+  "guid": "2026-04-17",
+  "date": "2026-04-17T06:04:49.846265",
+  "title": "GPT-Rosalind Breakthrough & Science Defenders in Politics",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 280.42105263157896,
+  "duration_formatted": "4:40",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-17.mp3",
+    "audio_size_bytes": 6698926,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-17/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-17/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-04-17.txt"
+  },
+  "stories": [
+    {
+      "title": "Introducing GPT-Rosalind for life sciences research",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/introducing-gpt-rosalind",
+      "summary": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows."
+    },
+    {
+      "title": "‘Science needs defending’: record number of researchers run for office in US mid-terms",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01134-2",
+      "summary": "Nature, Published online: 16 April 2026; doi:10.1038/d41586-026-01134-2Many Democrats making the switch to politics are motivated by the Trump administration’s cuts to science — whereas energy and AI are a pull for some Republicans."
+    },
+    {
+      "title": "Accelerating the cyber defense ecosystem that protects us all",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+      "summary": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense."
+    },
+    {
+      "title": "Treating enterprise AI as an operating layer",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
+      "summary": "There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks—GPT versus Gemini, reasoning scores, and marginal capability gains. But in practice, the more durable advantage is structural: who owns the operating layer where intelligence is applied, governed, and improved.&#8230;"
+    },
+    {
+      "title": "The quest to measure our relationship with nature",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/04/16/1135245/measure-relationship-with-nature-index/",
+      "summary": "As a movement, environmentalism has been pretty misanthropic. Understandably so—we humans have done some destructive things to the ecosystems around us. In the 21st century, though, mainstream conservation is learning that humans can be a force for good. Foresters are turning to Indigenous burning practices to prevent wildfires. Biologists are realizing that flower-dotted meadows were&#8230;"
+    },
+    {
+      "title": "NASA CubeSat Begins Mission to Study Radio Waves in Space",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/blogs/smallsatellites/2026/04/16/nasa-cubesat-begins-mission-to-study-radio-waves-in-space/",
+      "summary": "NASA’s latest small satellite mission is now in orbit studying how natural and human-made radio waves travel from Earth’s surface into space, helping scientists better understand and predict changes in the near‑Earth space environment. The Climatology of Anthropogenic and Natural VLF wave Activity in Space (CANVAS) mission launched April 7 aboard a Minotaur IV rocket […] The post NASA CubeSat Begins Mission to Study Radio Waves in Space appeared first on NASA Science."
+    },
+    {
+      "title": "Correction to F.5 FINESST, SMD’s Graduate Student Research Opportunity",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/researchers/solicitations/roses-2025/correction-to-f-5-finesst-smds-graduate-student-research-opportunity/",
+      "summary": "Future Investigators in NASA Earth and Space Science and Technology (FINESST) F.5 of ROSES-25 solicits proposals for graduate student research relevant to SMD. On or about April 16, 2026 the following correction was made: the month of the pre-proposal webinar in 12.7 on page 26 of Future Investigators in NASA Earth and Space Science and [&#8230;] The post Correction to F.5 FINESST, SMD’s Graduate Student Research Opportunity appeared first on NASA Science."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-04-17T06:05:56.889201",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

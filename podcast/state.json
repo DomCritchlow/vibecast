@@ -311,7 +311,14 @@
     "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/cosmic-structure-sig-seminar-30-april-2026/",
     "https://www.quantamagazine.org/the-ancient-weapons-active-in-your-immune-system-today-20260415/",
     "https://www.nature.com/articles/s41586-026-10513-8",
-    "https://openai.com/index/the-next-evolution-of-the-agents-sdk"
+    "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+    "https://openai.com/index/introducing-gpt-rosalind",
+    "https://www.nature.com/articles/d41586-026-01134-2",
+    "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+    "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
+    "https://www.technologyreview.com/2026/04/16/1135245/measure-relationship-with-nature-index/",
+    "https://www.nasa.gov/blogs/smallsatellites/2026/04/16/nasa-cubesat-begins-mission-to-study-radio-waves-in-space/",
+    "https://science.nasa.gov/researchers/solicitations/roses-2025/correction-to-f-5-finesst-smds-graduate-student-research-opportunity/"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -625,7 +632,14 @@
     "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/cosmic-structure-sig-seminar-30-april-2026/": "2026-04-16T06:04:22.187968",
     "https://www.quantamagazine.org/the-ancient-weapons-active-in-your-immune-system-today-20260415/": "2026-04-16T06:04:22.187968",
     "https://www.nature.com/articles/s41586-026-10513-8": "2026-04-16T06:04:22.187968",
-    "https://openai.com/index/the-next-evolution-of-the-agents-sdk": "2026-04-16T06:04:22.187968"
+    "https://openai.com/index/the-next-evolution-of-the-agents-sdk": "2026-04-16T06:04:22.187968",
+    "https://openai.com/index/introducing-gpt-rosalind": "2026-04-17T06:05:56.910368",
+    "https://www.nature.com/articles/d41586-026-01134-2": "2026-04-17T06:05:56.910368",
+    "https://openai.com/index/accelerating-cyber-defense-ecosystem": "2026-04-17T06:05:56.910368",
+    "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/": "2026-04-17T06:05:56.910368",
+    "https://www.technologyreview.com/2026/04/16/1135245/measure-relationship-with-nature-index/": "2026-04-17T06:05:56.910368",
+    "https://www.nasa.gov/blogs/smallsatellites/2026/04/16/nasa-cubesat-begins-mission-to-study-radio-waves-in-space/": "2026-04-17T06:05:56.910368",
+    "https://science.nasa.gov/researchers/solicitations/roses-2025/correction-to-f-5-finesst-smds-graduate-student-research-opportunity/": "2026-04-17T06:05:56.910368"
   },
-  "last_run": "2026-04-16T06:04:22.187968"
+  "last_run": "2026-04-17T06:05:56.910368"
 }
