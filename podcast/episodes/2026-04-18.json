@@ -1,0 +1,66 @@
+{
+  "guid": "2026-04-18",
+  "date": "2026-04-18T05:42:22.680177",
+  "title": "Robots Learning & AI Consciousness Fallacy Explained",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 290.10526315789474,
+  "duration_formatted": "4:50",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-18.mp3",
+    "audio_size_bytes": 6656295,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-18/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-18/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-04-18.txt"
+  },
+  "stories": [
+    {
+      "title": "How robots learn: A brief, contemporary history",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
+      "summary": "Roboticists used to dream big but build small. They’d hope to match or exceed the extraordinary complexity of the human body, and then they’d spend their career refining robotic arms for auto plants. Aim for C-3P0; end up with the Roomba.&#160; The real ambition for many of these researchers was the robot of science fiction—one&#8230;"
+    },
+    {
+      "title": "LLM wiki daemon with per-wiki filesystem isolation",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://github.com/wastedcode/memex",
+      "summary": "Article URL: https://github.com/wastedcode/memex Comments URL: https://news.ycombinator.com/item?id=47812934 Points: 3 # Comments: 0"
+    },
+    {
+      "title": "The Abstraction Fallacy: Why AI Can Simulate but Not Instantiate Consciousness",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://deepmind.google/research/publications/231971/",
+      "summary": "Article URL: https://deepmind.google/research/publications/231971/ Comments URL: https://news.ycombinator.com/item?id=47812768 Points: 2 # Comments: 0"
+    },
+    {
+      "title": "SWERV: REAL-TIME CAPABILITIES AND IONOSPHERIC DISRUPTIONS OF COMMUNICATIONS",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/learn/heat/resource/swerv-real-time-capabilities-and-ionospheric-disruptions-of-communications/",
+      "summary": "&#124; Presentation &#124; Professional Development &#124; This presentation provides a deep dive into real-time space weather capabilities and ionospheric impacts on communication and navigation systems. It is useful for understanding how ionospheric disturbances like scintillation and plasma irregularities disrupt RF systems in operational environments. Professionals can apply this by examining forecasting tools such as SAMI3 and assessing model limitations to better predict and mitigate communication disruptions. The post SWERV: REAL-TIME CAPABILITIES AND IONOSPHERIC DISRUPTIONS OF COMMUNICATIONS appeared first on NASA Science."
+    },
+    {
+      "title": "SWERV: Operationally Significant Phenomena and Impacts for Ground Operations",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/learn/heat/resource/swerv-operationally-significant-phenomena-and-impacts-for-ground-operations/",
+      "summary": "&#124; Presentation &#124; Professional Development &#124; This presentation provides a professional overview of space weather impacts on ground-based infrastructure, including communications, navigation, and power systems. It is highly useful for professionals seeking to understand risks from geomagnetically induced currents and ionospheric disturbances. You can apply this resource by integrating the slides into a lecture or training session to illustrate how solar activity affects global technology. This resource was produced by M2M-SWAO and Chris Stubenrauch. The post SWERV: Operationally Significant Phenomena and Impacts for Ground Operations appeared first on NASA Science."
+    },
+    {
+      "title": "Interstellar invader comet 3I/ATLAS made a startling transformation as it passed the sun",
+      "source": "Space.com",
+      "url": "https://www.space.com/astronomy/comets/interstellar-invader-comet-3i-atlas-made-a-startling-transformation-as-it-passed-the-sun",
+      "summary": "The interstellar comet 3I/ATLAS changed significantly as it flew by the sun last fall, astronomers have discovered."
+    },
+    {
+      "title": "Quantum ‘Jamming’ Explores the Truly Fundamental Principles of Nature",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/quantum-jamming-explores-the-truly-fundamental-principles-of-nature-20260417/",
+      "summary": "Some quantum cryptographers want to find ways to keep messages secret even if the rules of quantum mechanics don’t hold. The recently rediscovered idea of quantum jamming complicates things. The post Quantum ‘Jamming’ Explores the Truly Fundamental Principles of Nature first appeared on Quanta Magazine"
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-04-18T05:43:28.772405",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

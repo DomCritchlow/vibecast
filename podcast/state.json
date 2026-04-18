@@ -318,7 +318,14 @@
     "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
     "https://www.technologyreview.com/2026/04/16/1135245/measure-relationship-with-nature-index/",
     "https://www.nasa.gov/blogs/smallsatellites/2026/04/16/nasa-cubesat-begins-mission-to-study-radio-waves-in-space/",
-    "https://science.nasa.gov/researchers/solicitations/roses-2025/correction-to-f-5-finesst-smds-graduate-student-research-opportunity/"
+    "https://science.nasa.gov/researchers/solicitations/roses-2025/correction-to-f-5-finesst-smds-graduate-student-research-opportunity/",
+    "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
+    "https://github.com/wastedcode/memex",
+    "https://deepmind.google/research/publications/231971/",
+    "https://science.nasa.gov/learn/heat/resource/swerv-real-time-capabilities-and-ionospheric-disruptions-of-communications/",
+    "https://science.nasa.gov/learn/heat/resource/swerv-operationally-significant-phenomena-and-impacts-for-ground-operations/",
+    "https://www.space.com/astronomy/comets/interstellar-invader-comet-3i-atlas-made-a-startling-transformation-as-it-passed-the-sun",
+    "https://www.quantamagazine.org/quantum-jamming-explores-the-truly-fundamental-principles-of-nature-20260417/"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -639,7 +646,14 @@
     "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/": "2026-04-17T06:05:56.910368",
     "https://www.technologyreview.com/2026/04/16/1135245/measure-relationship-with-nature-index/": "2026-04-17T06:05:56.910368",
     "https://www.nasa.gov/blogs/smallsatellites/2026/04/16/nasa-cubesat-begins-mission-to-study-radio-waves-in-space/": "2026-04-17T06:05:56.910368",
-    "https://science.nasa.gov/researchers/solicitations/roses-2025/correction-to-f-5-finesst-smds-graduate-student-research-opportunity/": "2026-04-17T06:05:56.910368"
+    "https://science.nasa.gov/researchers/solicitations/roses-2025/correction-to-f-5-finesst-smds-graduate-student-research-opportunity/": "2026-04-17T06:05:56.910368",
+    "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/": "2026-04-18T05:43:28.793984",
+    "https://github.com/wastedcode/memex": "2026-04-18T05:43:28.793984",
+    "https://deepmind.google/research/publications/231971/": "2026-04-18T05:43:28.793984",
+    "https://science.nasa.gov/learn/heat/resource/swerv-real-time-capabilities-and-ionospheric-disruptions-of-communications/": "2026-04-18T05:43:28.793984",
+    "https://science.nasa.gov/learn/heat/resource/swerv-operationally-significant-phenomena-and-impacts-for-ground-operations/": "2026-04-18T05:43:28.793984",
+    "https://www.space.com/astronomy/comets/interstellar-invader-comet-3i-atlas-made-a-startling-transformation-as-it-passed-the-sun": "2026-04-18T05:43:28.793984",
+    "https://www.quantamagazine.org/quantum-jamming-explores-the-truly-fundamental-principles-of-nature-20260417/": "2026-04-18T05:43:28.793984"
   },
-  "last_run": "2026-04-17T06:05:56.910368"
+  "last_run": "2026-04-18T05:43:28.793984"
 }
