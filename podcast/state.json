@@ -325,7 +325,14 @@
     "https://science.nasa.gov/learn/heat/resource/swerv-real-time-capabilities-and-ionospheric-disruptions-of-communications/",
     "https://science.nasa.gov/learn/heat/resource/swerv-operationally-significant-phenomena-and-impacts-for-ground-operations/",
     "https://www.space.com/astronomy/comets/interstellar-invader-comet-3i-atlas-made-a-startling-transformation-as-it-passed-the-sun",
-    "https://www.quantamagazine.org/quantum-jamming-explores-the-truly-fundamental-principles-of-nature-20260417/"
+    "https://www.quantamagazine.org/quantum-jamming-explores-the-truly-fundamental-principles-of-nature-20260417/",
+    "https://www.nature.com/articles/d41586-026-01014-9",
+    "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ai-ml-stig-lecture-series-20-april-2026/",
+    "https://science.nasa.gov/uncategorized/csda-quality-assessment-report-evaluates-satellogic-newsat-data/",
+    "https://www.nature.com/articles/d41586-026-01263-8",
+    "https://www.positive.news/society/good-news-stories-from-week-16-of-2026/",
+    "https://openai.com/index/codex-for-almost-everything",
+    "https://openai.com/index/scaling-trusted-access-for-cyber-defense"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -653,7 +660,14 @@
     "https://science.nasa.gov/learn/heat/resource/swerv-real-time-capabilities-and-ionospheric-disruptions-of-communications/": "2026-04-18T05:43:28.793984",
     "https://science.nasa.gov/learn/heat/resource/swerv-operationally-significant-phenomena-and-impacts-for-ground-operations/": "2026-04-18T05:43:28.793984",
     "https://www.space.com/astronomy/comets/interstellar-invader-comet-3i-atlas-made-a-startling-transformation-as-it-passed-the-sun": "2026-04-18T05:43:28.793984",
-    "https://www.quantamagazine.org/quantum-jamming-explores-the-truly-fundamental-principles-of-nature-20260417/": "2026-04-18T05:43:28.793984"
+    "https://www.quantamagazine.org/quantum-jamming-explores-the-truly-fundamental-principles-of-nature-20260417/": "2026-04-18T05:43:28.793984",
+    "https://www.nature.com/articles/d41586-026-01014-9": "2026-04-19T06:00:17.949377",
+    "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ai-ml-stig-lecture-series-20-april-2026/": "2026-04-19T06:00:17.949377",
+    "https://science.nasa.gov/uncategorized/csda-quality-assessment-report-evaluates-satellogic-newsat-data/": "2026-04-19T06:00:17.949377",
+    "https://www.nature.com/articles/d41586-026-01263-8": "2026-04-19T06:00:17.949377",
+    "https://www.positive.news/society/good-news-stories-from-week-16-of-2026/": "2026-04-19T06:00:17.949377",
+    "https://openai.com/index/codex-for-almost-everything": "2026-04-19T06:00:17.949377",
+    "https://openai.com/index/scaling-trusted-access-for-cyber-defense": "2026-04-19T06:00:17.949377"
   },
-  "last_run": "2026-04-18T05:43:28.793984"
+  "last_run": "2026-04-19T06:00:17.949377"
 }

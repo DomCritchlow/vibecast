@@ -1,0 +1,66 @@
+{
+  "guid": "2026-04-19",
+  "date": "2026-04-19T05:59:15.242737",
+  "title": "Breakthrough Prizes, AI Lecture & Penguins' Pollution Alert",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 256.8421052631579,
+  "duration_formatted": "4:16",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-19.mp3",
+    "audio_size_bytes": 6461274,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-19/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-19/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-04-19.txt"
+  },
+  "stories": [
+    {
+      "title": "Magnetic muon measurements and gene-therapy advances win US$3 million Breakthrough prizes",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01014-9",
+      "summary": "Nature, Published online: 18 April 2026; doi:10.1038/d41586-026-01014-9This year’s winners include hundreds of physicists across more than 30 institutions."
+    },
+    {
+      "title": "AI/ML STIG Lecture Series, 20 April 2026",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ai-ml-stig-lecture-series-20-april-2026/",
+      "summary": "We are pleased to announce that this week&#8217;s seminar will feature Andrea Berlind (NSF), who will speak on the funding landscape for AI at the National Science Foundation. Given the growing role of AI across scientific disciplines, this promises to be a timely and valuable session for researchers looking to understand current funding opportunities and [&#8230;] The post AI/ML STIG Lecture Series, 20 April 2026 appeared first on NASA Science."
+    },
+    {
+      "title": "CSDA Quality Assessment Report Evaluates Satellogic NewSat Data",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/uncategorized/csda-quality-assessment-report-evaluates-satellogic-newsat-data/",
+      "summary": "The report adds to the growing documentation on commercial data's contributions to Earth science research and applications. The post CSDA Quality Assessment Report Evaluates Satellogic NewSat Data appeared first on NASA Science."
+    },
+    {
+      "title": "Briefing Chat: Penguins pick up PFAS pollution",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01263-8",
+      "summary": "Nature, Published online: 17 April 2026; doi:10.1038/d41586-026-01263-8Nature staff discuss some of the week's top science news."
+    },
+    {
+      "title": "What went right this week: the good news that matters",
+      "source": "Positive News",
+      "url": "https://www.positive.news/society/good-news-stories-from-week-16-of-2026/",
+      "summary": "School dinners got a healthy kickstart, golden eagles could soon grace England's skies, and the new issue of Positive News launched, plus more The post What went right this week: the good news that matters appeared first on Positive News."
+    },
+    {
+      "title": "Codex for (almost) everything",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/codex-for-almost-everything",
+      "summary": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows."
+    },
+    {
+      "title": "Trusted access for the next era of cyber defense",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
+      "summary": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-04-19T06:00:17.924931",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
