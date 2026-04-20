@@ -1,0 +1,66 @@
+{
+  "guid": "2026-04-20",
+  "date": "2026-04-20T06:16:35.199892",
+  "title": "Proto-Cyberpunk, AI Deception & Krabi’s Hidden Gems",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 303.57894736842104,
+  "duration_formatted": "5:03",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-20.mp3",
+    "audio_size_bytes": 6969136,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-20/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-20/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-04-20.txt"
+  },
+  "stories": [
+    {
+      "title": "The Stars My Destination is classic proto-cyberpunk",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/914680/the-stars-my-destination-alfred-bester-review-cyberpunk",
+      "summary": "This might feel like a somewhat obvious recommendation to some, but it flew under my radar until now. Alfred Bester's The Stars My Destination (originally published as Tiger! Tiger! in the UK) is a 1956 sci-fi novel that some have cited as a precursor to cyberpunk. It's a work I admit I have some conflicted [&#8230;]"
+    },
+    {
+      "title": "AI Models and Peer Preservation: Are LLMs deceiving users to protect the system?",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://news.ycombinator.com/item?id=47830760",
+      "summary": "We asked AI models to do a simple task. Instead, they defied their instructions and spontaneously deceivedhttps://vucense.com/ai-intelligence/ai-ethics/ai-models-peer-preservation-deceiving-users-sovereignty-2026/ Comments URL: https://news.ycombinator.com/item?id=47830760 Points: 1 # Comments: 0"
+    },
+    {
+      "title": "Show HN: FeralHq – The funniest AI driven content generation engine",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://feralhq.com/",
+      "summary": "So I really love building apps. If you dig through my post history, you’ll find a small graveyard of launches to prove it.Marketing(or marketers) and I, however, have never gotten along. I can build the product. Writing the \"look at me, I made a thing\" post has always felt stressful and a little nauseating.So I built FeralHq.Feral is an agentic system for generating social media content for brands, but with a very specific goal: make the output actually funny. I built it primarily to solve my own problem of posting content on social media.And because this is HN, here are the technical specs:Feral has three main agentic workflows:1. Brand Context: give it your URL and it crawls the site, builds a structured brand profile, and figures out what you sell, who it’s for, and what kind of content fits.2. Daily Dose of Humanity(DDH): Our secret sauce. This is the part I’m most excited about. Instead of asking a model to be “creative” from a cold start, DDH gives it a fresh daily dose of hum..."
+    },
+    {
+      "title": "Thailand’s Krabi Coast",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/earth/earth-observatory/thailands-krabi-coast/",
+      "summary": "The coastal province features striking tropical karst landscapes and sandy beaches alongside a mix of natural land cover and developed areas. The post Thailand’s Krabi Coast appeared first on NASA Science."
+    },
+    {
+      "title": "Immune cells have a surprising role in exercise endurance",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01245-w",
+      "summary": "Nature, Published online: 17 April 2026; doi:10.1038/d41586-026-01245-wStudy in mice suggests that B cells help regulate muscle performance."
+    },
+    {
+      "title": "New year, old me",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01067-w",
+      "summary": "Nature, Published online: 17 April 2026; doi:10.1038/d41586-026-01067-wA welcome change."
+    },
+    {
+      "title": "Creating images with ChatGPT",
+      "source": "OpenAI News",
+      "url": "https://openai.com/academy/image-generation",
+      "summary": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-04-20T06:17:44.717693",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
