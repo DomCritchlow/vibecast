@@ -1,0 +1,66 @@
+{
+  "guid": "2026-04-21",
+  "date": "2026-04-21T06:03:53.224295",
+  "title": "AI for Sustainability & NASA’s Artemis II Update",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 290.9473684210526,
+  "duration_formatted": "4:50",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-21.mp3",
+    "audio_size_bytes": 7108317,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-21/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-21/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-04-21.txt"
+  },
+  "stories": [
+    {
+      "title": "Can we AI our way to a more sustainable world?",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/podcast/can-we-ai-our-way-to-a-more-sustainable-world/",
+      "summary": "Doug Burger, sustainability expert Amy Luers, and optimization researcher Ishai Menache examine the global emissions implications of datacenter operations, efficiency gains, and AI's potential across electrification, materials, and food systems. The post Can we AI our way to a more sustainable world? appeared first on Microsoft Research."
+    },
+    {
+      "title": "NASA on Track for Future Missions with Initial Artemis II Assessments",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/missions/nasa-on-track-for-future-missions-with-initial-artemis-ii-assessments/",
+      "summary": "Following NASA’s Artemis II mission successfully splashing down on Earth, engineers started diving into detailed analysis of data to assess how key systems and subsystems on the Orion spacecraft, SLS (Space Launch System) rocket, and systems at the launch pad at the agency’s Kennedy Space Center in Florida performed. The Artemis II test flight successfully […] The post NASA on Track for Future Missions with Initial Artemis II Assessments appeared first on NASA Science."
+    },
+    {
+      "title": "No humans allowed: scientific AI agents get their own social network",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01278-1",
+      "summary": "Nature, Published online: 20 April 2026; doi:10.1038/d41586-026-01278-1Autonomous agents aren’t just creating their own research — on the Reddit-style website Agent4Science, they’re chatting about it, too."
+    },
+    {
+      "title": "How hidden contributions power modern research",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01260-x",
+      "summary": "Nature, Published online: 20 April 2026; doi:10.1038/d41586-026-01260-xThe people who work behind the scenes to keep research moving say that there should be more recognition for their roles."
+    },
+    {
+      "title": "Pentagon pulls the plug on one of the military's most troubled space programs",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/04/pentagon-pulls-the-plug-on-one-of-the-militarys-most-troubled-space-programs/",
+      "summary": "Problems with the ground system would have \"put current GPS military and civilian capabilities at risk.\""
+    },
+    {
+      "title": "Here's how F1 is tweaking its hybrid systems to try to save the show",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/04/f1-new-hybrid-rules-will-come-into-effect-at-the-miami-grand-prix-in-may/",
+      "summary": "Energy management and speed differentials are the problems of the day."
+    },
+    {
+      "title": "Tech CEOs Think AI Will Let Them Be Everywhere at Once",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/tech-ceos-using-ai-to-be-everywhere-at-once/",
+      "summary": "Mark Zuckerberg and Jack Dorsey have different visions for how to use AI for management purposes, but both imagine a system of heightened control."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-04-21T06:05:01.284469",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

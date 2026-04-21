@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Apr 2026 06:17:44 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 06:05:01 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>AI for Sustainability &amp; NASA’s Artemis II Update</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Can we AI our way to a more sustainable world?
+   Source: Microsoft Research Blog
+2. NASA on Track for Future Missions with Initial Artemis II Assessments
+   Source: NASA Science
+3. No humans allowed: scientific AI agents get their own social network
+   Source: Nature News
+4. How hidden contributions power modern research
+   Source: Nature News
+5. Pentagon pulls the plug on one of the military's most troubled space programs
+   Source: Ars Technica
+6. Here's how F1 is tweaking its hybrid systems to try to save the show
+   Source: Ars Technica
+7. Tech CEOs Think AI Will Let Them Be Everywhere at Once
+   Source: Wired
+
+REFERENCES:
+
+1. Can we AI our way to a more sustainable world?
+   https://www.microsoft.com/en-us/research/podcast/can-we-ai-our-way-to-a-more-sustainable-world/
+
+2. NASA on Track for Future Missions with Initial Artemis II Assessments
+   https://www.nasa.gov/missions/nasa-on-track-for-future-missions-with-initial-artemis-ii-assessments/
+
+3. No humans allowed: scientific AI agents get their own social network
+   https://www.nature.com/articles/d41586-026-01278-1
+
+4. How hidden contributions power modern research
+   https://www.nature.com/articles/d41586-026-01260-x
+
+5. Pentagon pulls the plug on one of the military's most troubled space programs
+   https://arstechnica.com/space/2026/04/pentagon-pulls-the-plug-on-one-of-the-militarys-most-troubled-space-programs/
+
+6. Here's how F1 is tweaking its hybrid systems to try to save the show
+   https://arstechnica.com/cars/2026/04/f1-new-hybrid-rules-will-come-into-effect-at-the-miami-grand-prix-in-may/
+
+7. Tech CEOs Think AI Will Let Them Be Everywhere at Once
+   https://www.wired.com/story/tech-ceos-using-ai-to-be-everywhere-at-once/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-21/newspaper.pdf]]></description>
+      <pubDate>Tue, 21 Apr 2026 06:03:53 -0000</pubDate>
+      <guid isPermaLink="false">2026-04-21</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-21.mp3" length="7108317" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Can we AI our way to a more sustainable world?
+   Source: Microsoft Research Blog
+2. NASA on Track for Future Missions with Initial Artemis II Assessments
+   Source: NASA Science
+3. No humans allowed: scientific AI agents get their own social network
+   Source: Nature News
+4. How hidden contributions power modern research
+   Source: Nature News
+5. Pentagon pulls the plug on one of the military's most troubled space programs
+   Source: Ars Technica
+6. Here's how F1 is tweaking its hybrid systems to try to save the show
+   Source: Ars Technica
+7. Tech CEOs Think AI Will Let Them Be Everywhere at Once
+   Source: Wired
+
+REFERENCES:
+
+1. Can we AI our way to a more sustainable world?
+   https://www.microsoft.com/en-us/research/podcast/can-we-ai-our-way-to-a-more-sustainable-world/
+
+2. NASA on Track for Future Missions with Initial Artemis II Assessments
+   https://www.nasa.gov/missions/nasa-on-track-for-future-missions-with-initial-artemis-ii-assessments/
+
+3. No humans allowed: scientific AI agents get their own social network
+   https://www.nature.com/articles/d41586-026-01278-1
+
+4. How hidden contributions power modern research
+   https://www.nature.com/articles/d41586-026-01260-x
+
+5. Pentagon pulls the plug on one of the military's most troubled space programs
+   https://arstechnica.com/space/2026/04/pentagon-pulls-the-plug-on-one-of-the-militarys-most-troubled-space-programs/
+
+6. Here's how F1 is tweaking its hybrid systems to try to save the show
+   https://arstechnica.com/cars/2026/04/f1-new-hybrid-rules-will-come-into-effect-at-the-miami-grand-prix-in-may/
+
+7. Tech CEOs Think AI Will Let Them Be Everywhere at Once
+   https://www.wired.com/story/tech-ceos-using-ai-to-be-everywhere-at-once/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-21/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:50</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-21/episode-art.png"/>
+    </item>
     <item>
       <title>Proto-Cyberpunk, AI Deception &amp; Krabi’s Hidden Gems</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:52</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-23/episode-art.png"/>
-    </item>
-    <item>
-      <title>AI Bugs in Linux &amp; Mind-Altering Drug Trials Fail</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Mind-altering substances are (still) falling short in clinical trials
-   Source: MIT Technology Review
-2. Sashiko: AI code review system for the Linux kernel spots bugs humans miss
-   Source: Hacker News (AI filtered)
-3. Show HN: CRSS v0.1 – a primitive for sharing agent memory and behavior
-   Source: Hacker News (AI filtered)
-4. Hangar One Restoration Project
-   Source: NASA Science
-5. NASA Selects University Finalists for Technology Concepts Competition
-   Source: NASA Science
-6. The Jellies That Evolved a Different Way To Keep Time
-   Source: Quanta Magazine
-7. Author Correction: A PP1–PP2A phosphatase relay controls mitotic progression
-   Source: Nature News
-
-REFERENCES:
-
-1. Mind-altering substances are (still) falling short in clinical trials
-   https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/
-
-2. Sashiko: AI code review system for the Linux kernel spots bugs humans miss
-   https://www.theregister.com/2026/03/20/sashiko_code_review_linux/
-
-3. Show HN: CRSS v0.1 – a primitive for sharing agent memory and behavior
-   https://gitlab.com/0xc4ff31n3/crss
-
-4. Hangar One Restoration Project
-   https://www.nasa.gov/centers-and-facilities/ames/hangar-one-restoration-project/
-
-5. NASA Selects University Finalists for Technology Concepts Competition
-   https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-selects-university-finalists-for-technology-concepts-competition/
-
-6. The Jellies That Evolved a Different Way To Keep Time
-   https://www.quantamagazine.org/the-jellies-that-evolved-a-different-way-to-keep-time-20260320/
-
-7. Author Correction: A PP1–PP2A phosphatase relay controls mitotic progression
-   https://www.nature.com/articles/s41586-026-10411-z
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-22/newspaper.pdf]]></description>
-      <pubDate>Sun, 22 Mar 2026 05:19:46 -0000</pubDate>
-      <guid isPermaLink="false">2026-03-22</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-22.mp3" length="6637486" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Mind-altering substances are (still) falling short in clinical trials
-   Source: MIT Technology Review
-2. Sashiko: AI code review system for the Linux kernel spots bugs humans miss
-   Source: Hacker News (AI filtered)
-3. Show HN: CRSS v0.1 – a primitive for sharing agent memory and behavior
-   Source: Hacker News (AI filtered)
-4. Hangar One Restoration Project
-   Source: NASA Science
-5. NASA Selects University Finalists for Technology Concepts Competition
-   Source: NASA Science
-6. The Jellies That Evolved a Different Way To Keep Time
-   Source: Quanta Magazine
-7. Author Correction: A PP1–PP2A phosphatase relay controls mitotic progression
-   Source: Nature News
-
-REFERENCES:
-
-1. Mind-altering substances are (still) falling short in clinical trials
-   https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/
-
-2. Sashiko: AI code review system for the Linux kernel spots bugs humans miss
-   https://www.theregister.com/2026/03/20/sashiko_code_review_linux/
-
-3. Show HN: CRSS v0.1 – a primitive for sharing agent memory and behavior
-   https://gitlab.com/0xc4ff31n3/crss
-
-4. Hangar One Restoration Project
-   https://www.nasa.gov/centers-and-facilities/ames/hangar-one-restoration-project/
-
-5. NASA Selects University Finalists for Technology Concepts Competition
-   https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-selects-university-finalists-for-technology-concepts-competition/
-
-6. The Jellies That Evolved a Different Way To Keep Time
-   https://www.quantamagazine.org/the-jellies-that-evolved-a-different-way-to-keep-time-20260320/
-
-7. Author Correction: A PP1–PP2A phosphatase relay controls mitotic progression
-   https://www.nature.com/articles/s41586-026-10411-z
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-22/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:43</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-22/episode-art.png"/>
     </item>
   </channel>
 </rss>
