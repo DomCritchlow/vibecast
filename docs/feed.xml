@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Apr 2026 06:05:01 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 06:02:22 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Extracting Space Insights &amp; AI Limits in Social Change</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Researchers: How Would You Extract Meaningful Insights from Just Four Astronauts?
+   Source: NASA Science
+2. Analog computing from waste heat
+   Source: MIT Technology Review
+3. This tool could show how consciousness works
+   Source: MIT Technology Review
+4. Mozilla: Anthropic's Mythos found 271 security vulnerabilities in Firefox 150
+   Source: Ars Technica
+5. Why AI alone cannot fix social problems
+   Source: Rest of World
+6. Belts of Green in the Washington Suburbs
+   Source: NASA Science
+7. 'Dancing' jets erupting from a cannibalistic black hole have the power of 10,000 suns
+   Source: Space.com
+
+REFERENCES:
+
+1. Researchers: How Would You Extract Meaningful Insights from Just Four Astronauts?
+   https://www.nasa.gov/hrp/researchers-how-would-you-extract-meaningful-insights-from-just-four-astronauts/
+
+2. Analog computing from waste heat
+   https://www.technologyreview.com/2026/04/21/1134870/analog-computing-from-waste-heat/
+
+3. This tool could show how consciousness works
+   https://www.technologyreview.com/2026/04/21/1134862/this-tool-could-show-how-consciousness-works/
+
+4. Mozilla: Anthropic's Mythos found 271 security vulnerabilities in Firefox 150
+   https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/
+
+5. Why AI alone cannot fix social problems
+   https://restofworld.org/2026/ai-social-good-humans/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+
+6. Belts of Green in the Washington Suburbs
+   https://science.nasa.gov/earth/earth-observatory/belts-of-green-in-the-washington-suburbs/
+
+7. 'Dancing' jets erupting from a cannibalistic black hole have the power of 10,000 suns
+   https://www.space.com/astronomy/black-holes/dancing-jets-erupting-from-a-cannibalistic-black-hole-have-the-power-of-10-000-suns
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-22/newspaper.pdf]]></description>
+      <pubDate>Wed, 22 Apr 2026 06:01:14 -0000</pubDate>
+      <guid isPermaLink="false">2026-04-22</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-22.mp3" length="6269430" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Researchers: How Would You Extract Meaningful Insights from Just Four Astronauts?
+   Source: NASA Science
+2. Analog computing from waste heat
+   Source: MIT Technology Review
+3. This tool could show how consciousness works
+   Source: MIT Technology Review
+4. Mozilla: Anthropic's Mythos found 271 security vulnerabilities in Firefox 150
+   Source: Ars Technica
+5. Why AI alone cannot fix social problems
+   Source: Rest of World
+6. Belts of Green in the Washington Suburbs
+   Source: NASA Science
+7. 'Dancing' jets erupting from a cannibalistic black hole have the power of 10,000 suns
+   Source: Space.com
+
+REFERENCES:
+
+1. Researchers: How Would You Extract Meaningful Insights from Just Four Astronauts?
+   https://www.nasa.gov/hrp/researchers-how-would-you-extract-meaningful-insights-from-just-four-astronauts/
+
+2. Analog computing from waste heat
+   https://www.technologyreview.com/2026/04/21/1134870/analog-computing-from-waste-heat/
+
+3. This tool could show how consciousness works
+   https://www.technologyreview.com/2026/04/21/1134862/this-tool-could-show-how-consciousness-works/
+
+4. Mozilla: Anthropic's Mythos found 271 security vulnerabilities in Firefox 150
+   https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/
+
+5. Why AI alone cannot fix social problems
+   https://restofworld.org/2026/ai-social-good-humans/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+
+6. Belts of Green in the Washington Suburbs
+   https://science.nasa.gov/earth/earth-observatory/belts-of-green-in-the-washington-suburbs/
+
+7. 'Dancing' jets erupting from a cannibalistic black hole have the power of 10,000 suns
+   https://www.space.com/astronomy/black-holes/dancing-jets-erupting-from-a-cannibalistic-black-hole-have-the-power-of-10-000-suns
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-22/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:25</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-22/episode-art.png"/>
+    </item>
     <item>
       <title>AI for Sustainability &amp; NASA’s Artemis II Update</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>5:22</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-24/episode-art.png"/>
-    </item>
-    <item>
-      <title>Mighty Mini-Magnets, Scientist Humor &amp; OpenAI&#x27;s Astral Deal</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. About Transformational Tools and Technologies (TTT)
-   Source: NASA Science
-2. Transformational Tools and Technologies Resources
-   Source: NASA Science
-3. Mighty mini-magnet is low in cost and light on energy use
-   Source: Nature News
-4. Briefing Chat: Are scientists funny? The evidence is in — and it's no joke
-   Source: Nature News
-5. OpenAI to acquire Astral
-   Source: OpenAI News
-6. OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first
-   Source: OpenAI News
-7. From games to biology and beyond: 10 years of AlphaGo’s impact
-   Source: DeepMind Blog
-
-REFERENCES:
-
-1. About Transformational Tools and Technologies (TTT)
-   https://www.nasa.gov/feature/about-transformational-tools-technologies/
-
-2. Transformational Tools and Technologies Resources
-   https://www.nasa.gov/directorates/armd/tacp/ttt/ttt-resources/
-
-3. Mighty mini-magnet is low in cost and light on energy use
-   https://www.nature.com/articles/d41586-026-00851-y
-
-4. Briefing Chat: Are scientists funny? The evidence is in — and it's no joke
-   https://www.nature.com/articles/d41586-026-00937-7
-
-5. OpenAI to acquire Astral
-   https://openai.com/index/openai-to-acquire-astral
-
-6. OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first
-   https://openai.com/index/japan-teen-safety-blueprint
-
-7. From games to biology and beyond: 10 years of AlphaGo’s impact
-   https://deepmind.google/blog/10-years-of-alphago/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-23/newspaper.pdf]]></description>
-      <pubDate>Mon, 23 Mar 2026 05:40:43 -0000</pubDate>
-      <guid isPermaLink="false">2026-03-23</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-23.mp3" length="7095151" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. About Transformational Tools and Technologies (TTT)
-   Source: NASA Science
-2. Transformational Tools and Technologies Resources
-   Source: NASA Science
-3. Mighty mini-magnet is low in cost and light on energy use
-   Source: Nature News
-4. Briefing Chat: Are scientists funny? The evidence is in — and it's no joke
-   Source: Nature News
-5. OpenAI to acquire Astral
-   Source: OpenAI News
-6. OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first
-   Source: OpenAI News
-7. From games to biology and beyond: 10 years of AlphaGo’s impact
-   Source: DeepMind Blog
-
-REFERENCES:
-
-1. About Transformational Tools and Technologies (TTT)
-   https://www.nasa.gov/feature/about-transformational-tools-technologies/
-
-2. Transformational Tools and Technologies Resources
-   https://www.nasa.gov/directorates/armd/tacp/ttt/ttt-resources/
-
-3. Mighty mini-magnet is low in cost and light on energy use
-   https://www.nature.com/articles/d41586-026-00851-y
-
-4. Briefing Chat: Are scientists funny? The evidence is in — and it's no joke
-   https://www.nature.com/articles/d41586-026-00937-7
-
-5. OpenAI to acquire Astral
-   https://openai.com/index/openai-to-acquire-astral
-
-6. OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first
-   https://openai.com/index/japan-teen-safety-blueprint
-
-7. From games to biology and beyond: 10 years of AlphaGo’s impact
-   https://deepmind.google/blog/10-years-of-alphago/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-23/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:52</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-23/episode-art.png"/>
     </item>
   </channel>
 </rss>
