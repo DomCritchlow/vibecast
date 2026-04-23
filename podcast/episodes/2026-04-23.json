@@ -1,0 +1,66 @@
+{
+  "guid": "2026-04-23",
+  "date": "2026-04-23T06:07:27.379041",
+  "title": "QR Codes in Math & AI Advances in Robotics & Healthcare",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 293.89473684210526,
+  "duration_formatted": "4:53",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-23.mp3",
+    "audio_size_bytes": 7104556,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-23/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-23/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-04-23.txt"
+  },
+  "stories": [
+    {
+      "title": "A Powerful New ‘QR Code’ Untangles Math’s Knottiest Knots",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/a-powerful-new-qr-code-untangles-maths-knottiest-knots-20260422/",
+      "summary": "With a newly discovered mathematical tool, researchers are hoping to gain unprecedented insight into the structure of complex knots. The post A Powerful New ‘QR Code’ Untangles Math’s Knottiest Knots first appeared on Quanta Magazine"
+    },
+    {
+      "title": "Meet Ace, the table-tennis robot that can beat elite players",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01341-x",
+      "summary": "Nature, Published online: 22 April 2026; doi:10.1038/d41586-026-01341-xA high-speed perception system allows the robot to predict complex ball movements — plus, the decade-long experiment measuring the strength of Big G."
+    },
+    {
+      "title": "Making ChatGPT better for clinicians",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+      "summary": "OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research."
+    },
+    {
+      "title": "AutoAdapt: Automated domain adaptation for large language models",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/",
+      "summary": "Deploying large language models (LLMs) in real-world, high-stakes settings is harder than it should be. In high-stakes settings like law, medicine, and cloud incident response, performance and reliability can quickly break down because adapting models to domain-specific requirements is a slow and manual process that is difficult to reproduce. The core challenge is domain adaptation, [&#8230;] The post AutoAdapt: Automated domain adaptation for large language models appeared first on Microsoft Research."
+    },
+    {
+      "title": "AI needs a strong data fabric to deliver business value",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+      "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least three business functions, according to a recent survey. But as AI becomes&#8230;"
+    },
+    {
+      "title": "Los Angeles is finally going underground",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/04/22/1135449/los-angeles-subway-going-underground/",
+      "summary": "Los Angeles deserves its reputation as the quintessential car city—the rhythms of its 2,200 square miles are dictated by wide boulevards and concrete arcs of freeways. But it once had a world-class rail transit system, and for the last three decades, the city has been rebuilding a network of trolleys and subways. In May, a&#8230;"
+    },
+    {
+      "title": "Watch Sony’s elite ping-pong robot beat top-ranked players",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/916800/sony-ai-ace-ping-pong-table-tennis-robot-cameras",
+      "summary": "Humans have been building ping-pong playing robots for decades, such as Omron's FORPHEUS that challenged amateur competitors at CES 2017. What sets Ace apart from the rest is that the robot, which was developed by Sony's AI division, is the first that can hold its own against top-ranked human players and occasionally even beat them [&#8230;]"
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-04-23T06:08:39.236802",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

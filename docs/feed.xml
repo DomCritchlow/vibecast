@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Apr 2026 06:02:22 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 06:08:39 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>QR Codes in Math &amp; AI Advances in Robotics &amp; Healthcare</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. A Powerful New ‘QR Code’ Untangles Math’s Knottiest Knots
+   Source: Quanta Magazine
+2. Meet Ace, the table-tennis robot that can beat elite players
+   Source: Nature News
+3. Making ChatGPT better for clinicians
+   Source: OpenAI News
+4. AutoAdapt: Automated domain adaptation for large language models
+   Source: Microsoft Research Blog
+5. AI needs a strong data fabric to deliver business value
+   Source: MIT Technology Review
+6. Los Angeles is finally going underground
+   Source: MIT Technology Review
+7. Watch Sony’s elite ping-pong robot beat top-ranked players
+   Source: The Verge
+
+REFERENCES:
+
+1. A Powerful New ‘QR Code’ Untangles Math’s Knottiest Knots
+   https://www.quantamagazine.org/a-powerful-new-qr-code-untangles-maths-knottiest-knots-20260422/
+
+2. Meet Ace, the table-tennis robot that can beat elite players
+   https://www.nature.com/articles/d41586-026-01341-x
+
+3. Making ChatGPT better for clinicians
+   https://openai.com/index/making-chatgpt-better-for-clinicians
+
+4. AutoAdapt: Automated domain adaptation for large language models
+   https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/
+
+5. AI needs a strong data fabric to deliver business value
+   https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/
+
+6. Los Angeles is finally going underground
+   https://www.technologyreview.com/2026/04/22/1135449/los-angeles-subway-going-underground/
+
+7. Watch Sony’s elite ping-pong robot beat top-ranked players
+   https://www.theverge.com/tech/916800/sony-ai-ace-ping-pong-table-tennis-robot-cameras
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-23/newspaper.pdf]]></description>
+      <pubDate>Thu, 23 Apr 2026 06:07:27 -0000</pubDate>
+      <guid isPermaLink="false">2026-04-23</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-23.mp3" length="7104556" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. A Powerful New ‘QR Code’ Untangles Math’s Knottiest Knots
+   Source: Quanta Magazine
+2. Meet Ace, the table-tennis robot that can beat elite players
+   Source: Nature News
+3. Making ChatGPT better for clinicians
+   Source: OpenAI News
+4. AutoAdapt: Automated domain adaptation for large language models
+   Source: Microsoft Research Blog
+5. AI needs a strong data fabric to deliver business value
+   Source: MIT Technology Review
+6. Los Angeles is finally going underground
+   Source: MIT Technology Review
+7. Watch Sony’s elite ping-pong robot beat top-ranked players
+   Source: The Verge
+
+REFERENCES:
+
+1. A Powerful New ‘QR Code’ Untangles Math’s Knottiest Knots
+   https://www.quantamagazine.org/a-powerful-new-qr-code-untangles-maths-knottiest-knots-20260422/
+
+2. Meet Ace, the table-tennis robot that can beat elite players
+   https://www.nature.com/articles/d41586-026-01341-x
+
+3. Making ChatGPT better for clinicians
+   https://openai.com/index/making-chatgpt-better-for-clinicians
+
+4. AutoAdapt: Automated domain adaptation for large language models
+   https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/
+
+5. AI needs a strong data fabric to deliver business value
+   https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/
+
+6. Los Angeles is finally going underground
+   https://www.technologyreview.com/2026/04/22/1135449/los-angeles-subway-going-underground/
+
+7. Watch Sony’s elite ping-pong robot beat top-ranked players
+   https://www.theverge.com/tech/916800/sony-ai-ace-ping-pong-table-tennis-robot-cameras
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-23/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:53</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-23/episode-art.png"/>
+    </item>
     <item>
       <title>Extracting Space Insights &amp; AI Limits in Social Change</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:43</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-25/episode-art.png"/>
-    </item>
-    <item>
-      <title>Animal Welfare Meets AI &amp; Kalshi’s New Trading Rules</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. How I squeeze fresh science from public data
-   Source: Nature News
-2. The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy
-   Source: MIT Technology Review
-3. The Bay Area’s animal welfare movement wants to recruit AI
-   Source: MIT Technology Review
-4. Kalshi says it will block politicians and athletes from trading in markets they’re tied to
-   Source: The Verge
-5. PDP’s wireless guitar controller has returned to its best price to date
-   Source: The Verge
-6. A Billionaire-Backed Startup Wants to Grow 'Organ Sacks' to Replace Animal Testing
-   Source: Wired
-7. Autoresearching Apple's "LLM in a Flash" to run Qwen 397B locally
-   Source: Hacker News (AI filtered)
-
-REFERENCES:
-
-1. How I squeeze fresh science from public data
-   https://www.nature.com/articles/d41586-026-00434-x
-
-2. The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy
-   https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/
-
-3. The Bay Area’s animal welfare movement wants to recruit AI
-   https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/
-
-4. Kalshi says it will block politicians and athletes from trading in markets they’re tied to
-   https://www.theverge.com/tech/899097/kalshi-politicians-athletes-insider-trading-blocked
-
-5. PDP’s wireless guitar controller has returned to its best price to date
-   https://www.theverge.com/gadgets/898962/pdp-riffmaster-guitar-controller-amazon-big-spring-sale-2026-deal
-
-6. A Billionaire-Backed Startup Wants to Grow 'Organ Sacks' to Replace Animal Testing
-   https://www.wired.com/story/a-billionaire-backed-startup-wants-to-grow-organ-sacks-to-replace-animal-testing/
-
-7. Autoresearching Apple's "LLM in a Flash" to run Qwen 397B locally
-   https://twitter.com/danveloper/status/2034353876753592372
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-24/newspaper.pdf]]></description>
-      <pubDate>Tue, 24 Mar 2026 05:24:05 -0000</pubDate>
-      <guid isPermaLink="false">2026-03-24</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-24.mp3" length="7579148" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. How I squeeze fresh science from public data
-   Source: Nature News
-2. The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy
-   Source: MIT Technology Review
-3. The Bay Area’s animal welfare movement wants to recruit AI
-   Source: MIT Technology Review
-4. Kalshi says it will block politicians and athletes from trading in markets they’re tied to
-   Source: The Verge
-5. PDP’s wireless guitar controller has returned to its best price to date
-   Source: The Verge
-6. A Billionaire-Backed Startup Wants to Grow 'Organ Sacks' to Replace Animal Testing
-   Source: Wired
-7. Autoresearching Apple's "LLM in a Flash" to run Qwen 397B locally
-   Source: Hacker News (AI filtered)
-
-REFERENCES:
-
-1. How I squeeze fresh science from public data
-   https://www.nature.com/articles/d41586-026-00434-x
-
-2. The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy
-   https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/
-
-3. The Bay Area’s animal welfare movement wants to recruit AI
-   https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/
-
-4. Kalshi says it will block politicians and athletes from trading in markets they’re tied to
-   https://www.theverge.com/tech/899097/kalshi-politicians-athletes-insider-trading-blocked
-
-5. PDP’s wireless guitar controller has returned to its best price to date
-   https://www.theverge.com/gadgets/898962/pdp-riffmaster-guitar-controller-amazon-big-spring-sale-2026-deal
-
-6. A Billionaire-Backed Startup Wants to Grow 'Organ Sacks' to Replace Animal Testing
-   https://www.wired.com/story/a-billionaire-backed-startup-wants-to-grow-organ-sacks-to-replace-animal-testing/
-
-7. Autoresearching Apple's "LLM in a Flash" to run Qwen 397B locally
-   https://twitter.com/danveloper/status/2034353876753592372
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-24/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>5:22</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-24/episode-art.png"/>
     </item>
   </channel>
 </rss>
