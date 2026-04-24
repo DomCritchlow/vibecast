@@ -1,0 +1,66 @@
+{
+  "guid": "2026-04-24",
+  "date": "2026-04-24T06:09:30.845441",
+  "title": "China Journal Closure & GPT-5.5 Launchs Space Threat Update",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 293.0526315789474,
+  "duration_formatted": "4:53",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-24.mp3",
+    "audio_size_bytes": 6727765,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-24/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-24/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-04-24.txt"
+  },
+  "stories": [
+    {
+      "title": "Closure of China’s influential journal ranking leaves academics reeling — what will take its place?",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01277-2",
+      "summary": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01277-2Several other lists have been launched in the past year, but some scholars want research evaluation to take new forms."
+    },
+    {
+      "title": "Introducing GPT-5.5",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/introducing-gpt-5-5",
+      "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools."
+    },
+    {
+      "title": "Publisher Correction: Reproducibility and robustness of economics and political science research",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10503-w",
+      "summary": "Nature, Published online: 23 April 2026; doi:10.1038/s41586-026-10503-wPublisher Correction: Reproducibility and robustness of economics and political science research"
+    },
+    {
+      "title": "GPT-5.5 System Card",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/gpt-5-5-system-card",
+      "summary": ""
+    },
+    {
+      "title": "US Space Command: Russia is now operationalizing co-orbital ASAT weapons",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/04/us-space-command-russia-is-now-operationalizing-co-orbital-asat-weapons/",
+      "summary": "\"They’re putting operational systems up within orbit reach of our high-value satellites.\""
+    },
+    {
+      "title": "Meta is laying off 10 percent of its staff",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff",
+      "summary": "Meta is planning to layoff around 10 percent of employees in May, according to a memo from the company's chief people officer, Janelle Gale, published by Bloomberg. That means approximately 8,000 people will see their jobs cut. Meta will also be closing around 6,000 open roles, according to Gale. The cuts follow Meta's significant investments [&#8230;]"
+    },
+    {
+      "title": "These 'interstellar glaciers' could give water to young star systems. Could they support alien life, too?",
+      "source": "Space.com",
+      "url": "https://www.space.com/astronomy/stars/these-interstellar-glaciers-could-give-water-to-young-star-systems-could-they-support-alien-life-too",
+      "summary": "NASA's SPHEREx space telescope reveals widespread water ice in Cygnus X, showing how dust shields molecules in star-forming regions across the Milky Way."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-04-24T06:10:41.392795",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
