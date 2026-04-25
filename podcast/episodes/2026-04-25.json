@@ -1,0 +1,66 @@
+{
+  "guid": "2026-04-25",
+  "date": "2026-04-25T05:49:35.198046",
+  "title": "Scientific Fraud Secrets & Cretaceous Kraken Unveiled",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 271.1578947368421,
+  "duration_formatted": "4:31",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-25.mp3",
+    "audio_size_bytes": 6628082,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-25/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-25/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-04-25.txt"
+  },
+  "stories": [
+    {
+      "title": "How much for a fake authorship? Ad database reveals secrets of scientific fraud",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01340-y",
+      "summary": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01340-yAn analysis of thousands of paper-mill adverts could help journals to crack down on misconduct."
+    },
+    {
+      "title": "Meet the 19-meter Cretaceous kraken that swam with mosasaurs",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/04/meet-the-19-meter-cretaceous-kraken-that-swam-with-mosasaurs/",
+      "summary": "Layer by layer, researchers revealed the jaws of an ancient predator."
+    },
+    {
+      "title": "How Project Maven taught the military to love AI",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson",
+      "summary": "In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was made possible by AI systems that speed up the targeting process. Chief among them is the Maven Smart [&#8230;]"
+    },
+    {
+      "title": "AI optimism surges in Asia, unlike in the U.S.",
+      "source": "Rest of World",
+      "url": "https://restofworld.org/2026/ai-optimism-asia/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "summary": "New research shows Americans are far less excited about AI — and far less trusting of regulators — than their counterparts across Asia."
+    },
+    {
+      "title": "ASTRA Initiative Seminar on 30 April 2026",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/astra-initiative-seminar-on-30-april-2026/",
+      "summary": "As part of the NASA Astrophysics Strategic Technology &#38; Research Accelerator (ASTRA) initiative [PDF], and in preparation for the Ad ASTRA Community Science Workshop in September. The post ASTRA Initiative Seminar on 30 April 2026 appeared first on NASA Science."
+    },
+    {
+      "title": "Cargo Mission Launching Saturday as Crew Wraps Week with Research",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/04/24/cargo-mission-launching-saturday-as-crew-wraps-week-with-research/",
+      "summary": "The Progress 95 cargo spacecraft from Roscosmos stands atop its launch pad at the Baikonur Cosmodrome in Kazakhstan counting down to a liftoff at 6:21p.m. EDT on Saturday to resupply the Expedition 74 crew. The post Cargo Mission Launching Saturday as Crew Wraps Week with Research appeared first on NASA Science."
+    },
+    {
+      "title": "This X-ray image shows our solar system 'breathing'",
+      "source": "Space.com",
+      "url": "https://www.space.com/astronomy/solar-system/this-x-ray-image-shows-our-solar-system-breathing",
+      "summary": "The eROSITA spacecraft has built the most precise map of soft X-rays over Earth, observing a fascinating phenomenon driven by solar winds from the sun."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-04-25T05:50:41.158168",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
