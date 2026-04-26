@@ -1,0 +1,66 @@
+{
+  "guid": "2026-04-26",
+  "date": "2026-04-26T06:08:01.943529",
+  "title": "Trump Fires Science Board & AI Systems Outpace Singles",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 262.7368421052632,
+  "duration_formatted": "4:22",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-26.mp3",
+    "audio_size_bytes": 6401714,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-26/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-26/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-04-26.txt"
+  },
+  "stories": [
+    {
+      "title": "Trump fires the entire National Science Board",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board",
+      "summary": "Multiple sources are reporting that the Trump administration has dismissed the entire National Science Board (NSB). The NSB advises the president and Congress on the National Science Foundation (NSF), which has already been funding research at historically low levels and has seen significant delays in doling out that funding. The NSF has been fundamental in [&#8230;]"
+    },
+    {
+      "title": "Researchers say we’re talking less than ever",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/science/918753/researchers-talking-less",
+      "summary": "Researchers at the University of Missouri-Kansas City and the University of Arizona say that between 2005 and 2019, the number of words we speak out loud to another human being fell by nearly 28 percent. And that has likely only gotten worse following the pandemic. The researchers actually counted the number of words we were [&#8230;]"
+    },
+    {
+      "title": "Multi-Agent AI Systems Are Eating Single Agents",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://aistackinsights.ai/blog/multi-agent-ai-systems-langgraph-crewai-production-guide",
+      "summary": "Article URL: https://aistackinsights.ai/blog/multi-agent-ai-systems-langgraph-crewai-production-guide Comments URL: https://news.ycombinator.com/item?id=47906692 Points: 2 # Comments: 0"
+    },
+    {
+      "title": "Author Correction: Commensal yeast promotes <i>Salmonella</i> Typhimurium virulence",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10518-3",
+      "summary": "Nature, Published online: 24 April 2026; doi:10.1038/s41586-026-10518-3Author Correction: Commensal yeast promotes Salmonella Typhimurium virulence"
+    },
+    {
+      "title": "Author Correction: A µ-opioid receptor superagonist analgesic with minimal adverse effects",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10552-1",
+      "summary": "Nature, Published online: 24 April 2026; doi:10.1038/s41586-026-10552-1Author Correction: A µ-opioid receptor superagonist analgesic with minimal adverse effects"
+    },
+    {
+      "title": "Ready to take charge: three innovative types of energy storage",
+      "source": "Positive News",
+      "url": "https://www.positive.news/society/ready-to-take-charge-three-innovative-types-of-energy-storage/",
+      "summary": "From mammoth molten salt-filled thermal storage units to systems that use liquid air, here’s the latest in energy storage tech The post Ready to take charge: three innovative types of energy storage appeared first on Positive News."
+    },
+    {
+      "title": "Automations",
+      "source": "OpenAI News",
+      "url": "https://openai.com/academy/codex-automations",
+      "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-04-26T06:09:07.168106",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

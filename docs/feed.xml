@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Apr 2026 05:50:41 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 06:09:07 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Trump Fires Science Board &amp; AI Systems Outpace Singles</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Trump fires the entire National Science Board
+   Source: The Verge
+2. Researchers say we’re talking less than ever
+   Source: The Verge
+3. Multi-Agent AI Systems Are Eating Single Agents
+   Source: Hacker News (AI filtered)
+4. Author Correction: Commensal yeast promotes <i>Salmonella</i> Typhimurium virulence
+   Source: Nature News
+5. Author Correction: A µ-opioid receptor superagonist analgesic with minimal adverse effects
+   Source: Nature News
+6. Ready to take charge: three innovative types of energy storage
+   Source: Positive News
+7. Automations
+   Source: OpenAI News
+
+REFERENCES:
+
+1. Trump fires the entire National Science Board
+   https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board
+
+2. Researchers say we’re talking less than ever
+   https://www.theverge.com/science/918753/researchers-talking-less
+
+3. Multi-Agent AI Systems Are Eating Single Agents
+   https://aistackinsights.ai/blog/multi-agent-ai-systems-langgraph-crewai-production-guide
+
+4. Author Correction: Commensal yeast promotes <i>Salmonella</i> Typhimurium virulence
+   https://www.nature.com/articles/s41586-026-10518-3
+
+5. Author Correction: A µ-opioid receptor superagonist analgesic with minimal adverse effects
+   https://www.nature.com/articles/s41586-026-10552-1
+
+6. Ready to take charge: three innovative types of energy storage
+   https://www.positive.news/society/ready-to-take-charge-three-innovative-types-of-energy-storage/
+
+7. Automations
+   https://openai.com/academy/codex-automations
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-26/newspaper.pdf]]></description>
+      <pubDate>Sun, 26 Apr 2026 06:08:01 -0000</pubDate>
+      <guid isPermaLink="false">2026-04-26</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-26.mp3" length="6401714" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Trump fires the entire National Science Board
+   Source: The Verge
+2. Researchers say we’re talking less than ever
+   Source: The Verge
+3. Multi-Agent AI Systems Are Eating Single Agents
+   Source: Hacker News (AI filtered)
+4. Author Correction: Commensal yeast promotes <i>Salmonella</i> Typhimurium virulence
+   Source: Nature News
+5. Author Correction: A µ-opioid receptor superagonist analgesic with minimal adverse effects
+   Source: Nature News
+6. Ready to take charge: three innovative types of energy storage
+   Source: Positive News
+7. Automations
+   Source: OpenAI News
+
+REFERENCES:
+
+1. Trump fires the entire National Science Board
+   https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board
+
+2. Researchers say we’re talking less than ever
+   https://www.theverge.com/science/918753/researchers-talking-less
+
+3. Multi-Agent AI Systems Are Eating Single Agents
+   https://aistackinsights.ai/blog/multi-agent-ai-systems-langgraph-crewai-production-guide
+
+4. Author Correction: Commensal yeast promotes <i>Salmonella</i> Typhimurium virulence
+   https://www.nature.com/articles/s41586-026-10518-3
+
+5. Author Correction: A µ-opioid receptor superagonist analgesic with minimal adverse effects
+   https://www.nature.com/articles/s41586-026-10552-1
+
+6. Ready to take charge: three innovative types of energy storage
+   https://www.positive.news/society/ready-to-take-charge-three-innovative-types-of-energy-storage/
+
+7. Automations
+   https://openai.com/academy/codex-automations
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-26/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:22</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-26/episode-art.png"/>
+    </item>
     <item>
       <title>Scientific Fraud Secrets &amp; Cretaceous Kraken Unveiled</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:37</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-28/episode-art.png"/>
-    </item>
-    <item>
-      <title>AsgardBench &amp; GroundedPlanBench: Advancing Robot Planning</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. AsgardBench: A benchmark for visually grounded interactive planning
-   Source: Microsoft Research Blog
-2. GroundedPlanBench: Spatially grounded long-horizon task planning for robot manipulation
-   Source: Microsoft Research Blog
-3. Protecting people from harmful manipulation
-   Source: DeepMind Blog
-4. You Can Skip a Lot of Amazon’s Spring Sale, but Don’t Skip This Travel Upgrade
-   Source: Wired
-5. Javier Bosch-Lluis
-   Source: NASA Science
-6. Jessica Fisher
-   Source: NASA Science
-7. Huge lung-cancer screening campaign boosts early diagnosis
-   Source: Nature News
-
-REFERENCES:
-
-1. AsgardBench: A benchmark for visually grounded interactive planning
-   https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning/
-
-2. GroundedPlanBench: Spatially grounded long-horizon task planning for robot manipulation
-   https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/
-
-3. Protecting people from harmful manipulation
-   https://deepmind.google/blog/protecting-people-from-harmful-manipulation/
-
-4. You Can Skip a Lot of Amazon’s Spring Sale, but Don’t Skip This Travel Upgrade
-   https://www.wired.com/story/cadence-capsules-amazon-spring-sale-2026/
-
-5. Javier Bosch-Lluis
-   https://science.nasa.gov/people/javier-bosch-lluis/
-
-6. Jessica Fisher
-   https://science.nasa.gov/people/jessica-fisher/
-
-7. Huge lung-cancer screening campaign boosts early diagnosis
-   https://www.nature.com/articles/d41586-026-00954-6
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-27/newspaper.pdf]]></description>
-      <pubDate>Fri, 27 Mar 2026 05:43:38 -0000</pubDate>
-      <guid isPermaLink="false">2026-03-27</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-27.mp3" length="6991706" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. AsgardBench: A benchmark for visually grounded interactive planning
-   Source: Microsoft Research Blog
-2. GroundedPlanBench: Spatially grounded long-horizon task planning for robot manipulation
-   Source: Microsoft Research Blog
-3. Protecting people from harmful manipulation
-   Source: DeepMind Blog
-4. You Can Skip a Lot of Amazon’s Spring Sale, but Don’t Skip This Travel Upgrade
-   Source: Wired
-5. Javier Bosch-Lluis
-   Source: NASA Science
-6. Jessica Fisher
-   Source: NASA Science
-7. Huge lung-cancer screening campaign boosts early diagnosis
-   Source: Nature News
-
-REFERENCES:
-
-1. AsgardBench: A benchmark for visually grounded interactive planning
-   https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning/
-
-2. GroundedPlanBench: Spatially grounded long-horizon task planning for robot manipulation
-   https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/
-
-3. Protecting people from harmful manipulation
-   https://deepmind.google/blog/protecting-people-from-harmful-manipulation/
-
-4. You Can Skip a Lot of Amazon’s Spring Sale, but Don’t Skip This Travel Upgrade
-   https://www.wired.com/story/cadence-capsules-amazon-spring-sale-2026/
-
-5. Javier Bosch-Lluis
-   https://science.nasa.gov/people/javier-bosch-lluis/
-
-6. Jessica Fisher
-   https://science.nasa.gov/people/jessica-fisher/
-
-7. Huge lung-cancer screening campaign boosts early diagnosis
-   https://www.nature.com/articles/d41586-026-00954-6
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-27/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:50</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-27/episode-art.png"/>
     </item>
   </channel>
 </rss>
