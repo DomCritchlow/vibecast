@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Apr 2026 06:09:07 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 06:30:18 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Della Optima AC Review &amp; Cosmic-Ray Neutrino Breakthrough</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Della Optima TP Series Mini-Split AC Review: Cheap, Smart, and (Mostly) Reliable
+   Source: Wired
+2. Entire NSF science advisory board fired by Trump administration
+   Source: Nature News
+3. Cosmic-ray detection heralds era of mega-observatories for neutrinos
+   Source: Nature News
+4. Our principles
+   Source: OpenAI News
+5. How to get started with Codex
+   Source: OpenAI News
+6. Decoupled DiLoCo: A new frontier for resilient, distributed AI training
+   Source: DeepMind Blog
+7. Partnering with industry leaders to accelerate AI transformation
+   Source: DeepMind Blog
+
+REFERENCES:
+
+1. Della Optima TP Series Mini-Split AC Review: Cheap, Smart, and (Mostly) Reliable
+   https://www.wired.com/review/della-optima-tp-series-mini-split-air-conditioner/
+
+2. Entire NSF science advisory board fired by Trump administration
+   https://www.nature.com/articles/d41586-026-01361-7
+
+3. Cosmic-ray detection heralds era of mega-observatories for neutrinos
+   https://www.nature.com/articles/d41586-026-01282-5
+
+4. Our principles
+   https://openai.com/index/our-principles
+
+5. How to get started with Codex
+   https://openai.com/academy/codex-how-to-start
+
+6. Decoupled DiLoCo: A new frontier for resilient, distributed AI training
+   https://deepmind.google/blog/decoupled-diloco/
+
+7. Partnering with industry leaders to accelerate AI transformation
+   https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-27/newspaper.pdf]]></description>
+      <pubDate>Mon, 27 Apr 2026 06:29:17 -0000</pubDate>
+      <guid isPermaLink="false">2026-04-27</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-27.mp3" length="5999220" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Della Optima TP Series Mini-Split AC Review: Cheap, Smart, and (Mostly) Reliable
+   Source: Wired
+2. Entire NSF science advisory board fired by Trump administration
+   Source: Nature News
+3. Cosmic-ray detection heralds era of mega-observatories for neutrinos
+   Source: Nature News
+4. Our principles
+   Source: OpenAI News
+5. How to get started with Codex
+   Source: OpenAI News
+6. Decoupled DiLoCo: A new frontier for resilient, distributed AI training
+   Source: DeepMind Blog
+7. Partnering with industry leaders to accelerate AI transformation
+   Source: DeepMind Blog
+
+REFERENCES:
+
+1. Della Optima TP Series Mini-Split AC Review: Cheap, Smart, and (Mostly) Reliable
+   https://www.wired.com/review/della-optima-tp-series-mini-split-air-conditioner/
+
+2. Entire NSF science advisory board fired by Trump administration
+   https://www.nature.com/articles/d41586-026-01361-7
+
+3. Cosmic-ray detection heralds era of mega-observatories for neutrinos
+   https://www.nature.com/articles/d41586-026-01282-5
+
+4. Our principles
+   https://openai.com/index/our-principles
+
+5. How to get started with Codex
+   https://openai.com/academy/codex-how-to-start
+
+6. Decoupled DiLoCo: A new frontier for resilient, distributed AI training
+   https://deepmind.google/blog/decoupled-diloco/
+
+7. Partnering with industry leaders to accelerate AI transformation
+   https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-27/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:02</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-27/episode-art.png"/>
+    </item>
     <item>
       <title>Trump Fires Science Board &amp; AI Systems Outpace Singles</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:54</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-29/episode-art.png"/>
-    </item>
-    <item>
-      <title>Earliest Dog Genome &amp; NASA Artemis II Moon Crew Reveal</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Daily briefing: Earliest known dog genome pushes genetic record back 5,000 years
-   Source: Nature News
-2. Here’s why some people choose cryonics to store their bodies and brains after death
-   Source: MIT Technology Review
-3. AI Research Is Getting Harder to Separate From Geopolitics
-   Source: Wired
-4. Your #NASAMoonCrew for Artemis II!
-   Source: NASA Science
-5. NASA Tech and Science Bound for Low Earth Orbit on Commercial Launch
-   Source: NASA Science
-6. When Coupled Volcanoes Talk, These Researchers Listen
-   Source: Quanta Magazine
-7. Giants of the deep and the wonder of space: Books in Brief
-   Source: Nature News
-
-REFERENCES:
-
-1. Daily briefing: Earliest known dog genome pushes genetic record back 5,000 years
-   https://www.nature.com/articles/d41586-026-00992-0
-
-2. Here’s why some people choose cryonics to store their bodies and brains after death
-   https://www.technologyreview.com/2026/03/27/1134705/cryonics-store-bodies-brains-after-death/
-
-3. AI Research Is Getting Harder to Separate From Geopolitics
-   https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/
-
-4. Your #NASAMoonCrew for Artemis II!
-   https://www.nasa.gov/gallery/your-nasamooncrew-for-artemis-ii/
-
-5. NASA Tech and Science Bound for Low Earth Orbit on Commercial Launch
-   https://www.nasa.gov/directorates/stmd/nasa-tech-and-science-bound-for-low-earth-orbit-on-commercial-launch/
-
-6. When Coupled Volcanoes Talk, These Researchers Listen
-   https://www.quantamagazine.org/when-coupled-volcanoes-talk-these-researchers-listen-20260327/
-
-7. Giants of the deep and the wonder of space: Books in Brief
-   https://www.nature.com/articles/d41586-026-00995-x
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-28/newspaper.pdf]]></description>
-      <pubDate>Sat, 28 Mar 2026 05:21:57 -0000</pubDate>
-      <guid isPermaLink="false">2026-03-28</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-28.mp3" length="6631843" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Daily briefing: Earliest known dog genome pushes genetic record back 5,000 years
-   Source: Nature News
-2. Here’s why some people choose cryonics to store their bodies and brains after death
-   Source: MIT Technology Review
-3. AI Research Is Getting Harder to Separate From Geopolitics
-   Source: Wired
-4. Your #NASAMoonCrew for Artemis II!
-   Source: NASA Science
-5. NASA Tech and Science Bound for Low Earth Orbit on Commercial Launch
-   Source: NASA Science
-6. When Coupled Volcanoes Talk, These Researchers Listen
-   Source: Quanta Magazine
-7. Giants of the deep and the wonder of space: Books in Brief
-   Source: Nature News
-
-REFERENCES:
-
-1. Daily briefing: Earliest known dog genome pushes genetic record back 5,000 years
-   https://www.nature.com/articles/d41586-026-00992-0
-
-2. Here’s why some people choose cryonics to store their bodies and brains after death
-   https://www.technologyreview.com/2026/03/27/1134705/cryonics-store-bodies-brains-after-death/
-
-3. AI Research Is Getting Harder to Separate From Geopolitics
-   https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/
-
-4. Your #NASAMoonCrew for Artemis II!
-   https://www.nasa.gov/gallery/your-nasamooncrew-for-artemis-ii/
-
-5. NASA Tech and Science Bound for Low Earth Orbit on Commercial Launch
-   https://www.nasa.gov/directorates/stmd/nasa-tech-and-science-bound-for-low-earth-orbit-on-commercial-launch/
-
-6. When Coupled Volcanoes Talk, These Researchers Listen
-   https://www.quantamagazine.org/when-coupled-volcanoes-talk-these-researchers-listen-20260327/
-
-7. Giants of the deep and the wonder of space: Books in Brief
-   https://www.nature.com/articles/d41586-026-00995-x
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-28/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:37</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-03-28/episode-art.png"/>
     </item>
   </channel>
 </rss>
