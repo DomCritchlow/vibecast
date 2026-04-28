@@ -1,0 +1,66 @@
+{
+  "guid": "2026-04-28",
+  "date": "2026-04-28T06:31:00.315501",
+  "title": "China’s Innovation Drive & DeepSeek’s AI Breakthrough",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 287.1578947368421,
+  "duration_formatted": "4:47",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-28.mp3",
+    "audio_size_bytes": 7192954,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-28/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-28/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-04-28.txt"
+  },
+  "stories": [
+    {
+      "title": "China’s latest push to commercialize research: match 680,000 innovators with companies",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01202-7",
+      "summary": "Nature, Published online: 28 April 2026; doi:10.1038/d41586-026-01202-7The nation’s top-down approach contrasts with that of countries such as the United States, where market forces drive innovation."
+    },
+    {
+      "title": "#ScientistAtWork 2026: <i>Nature</i> seeks striking photographs that capture researchers at work",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01266-5",
+      "summary": "Nature, Published online: 27 April 2026; doi:10.1038/d41586-026-01266-5Competition winners receive a cash prize and will see their images featured in Nature."
+    },
+    {
+      "title": "An open-source spec for orchestration: Symphony",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
+      "summary": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching."
+    },
+    {
+      "title": "Announcing our partnership with the Republic of Korea",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+      "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models"
+    },
+    {
+      "title": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Three reasons why DeepSeek’s new model matters On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts&#8230;"
+    },
+    {
+      "title": "CSDA Vendor – Pixxel",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/earth-science/csda/csda-vendor-pixxel/",
+      "summary": "Pixxel operates a constellation of high-resolution hyperspectral Earth observation satellites designed to deliver precise spectral measurements of Earth’s surface for frequent global monitoring. Its operational Firefly constellation provides analysis-ready data across more than 135 spectral bands in the visible and near-infrared (VNIR) range at a 5-meter ground sample distance. This rich hyperspectral imagery supports a [&#8230;] The post CSDA Vendor &#8211; Pixxel appeared first on NASA Science."
+    },
+    {
+      "title": "SpaceX launches its 50th mission of the year, sends 25 Starlink satellites to orbit (video)",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-group-17-14-50th-mission-2026",
+      "summary": "A SpaceX Falcon 9 rocket launched 25 Starlink internet satellites to orbit from California on Sunday (April 26). It was the company's 50th liftoff of the year already."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-04-28T06:32:12.076831",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

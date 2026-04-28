@@ -388,7 +388,14 @@
     "https://openai.com/index/our-principles",
     "https://openai.com/academy/codex-how-to-start",
     "https://deepmind.google/blog/decoupled-diloco/",
-    "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/"
+    "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+    "https://www.nature.com/articles/d41586-026-01202-7",
+    "https://www.nature.com/articles/d41586-026-01266-5",
+    "https://openai.com/index/open-source-codex-orchestration-symphony",
+    "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+    "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
+    "https://science.nasa.gov/earth-science/csda/csda-vendor-pixxel/",
+    "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-group-17-14-50th-mission-2026"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -779,7 +786,14 @@
     "https://openai.com/index/our-principles": "2026-04-27T06:30:18.892050",
     "https://openai.com/academy/codex-how-to-start": "2026-04-27T06:30:18.892050",
     "https://deepmind.google/blog/decoupled-diloco/": "2026-04-27T06:30:18.892050",
-    "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/": "2026-04-27T06:30:18.892050"
+    "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/": "2026-04-27T06:30:18.892050",
+    "https://www.nature.com/articles/d41586-026-01202-7": "2026-04-28T06:32:12.095522",
+    "https://www.nature.com/articles/d41586-026-01266-5": "2026-04-28T06:32:12.095522",
+    "https://openai.com/index/open-source-codex-orchestration-symphony": "2026-04-28T06:32:12.095522",
+    "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/": "2026-04-28T06:32:12.095522",
+    "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/": "2026-04-28T06:32:12.095522",
+    "https://science.nasa.gov/earth-science/csda/csda-vendor-pixxel/": "2026-04-28T06:32:12.095522",
+    "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-group-17-14-50th-mission-2026": "2026-04-28T06:32:12.095522"
   },
-  "last_run": "2026-04-27T06:30:18.892050"
+  "last_run": "2026-04-28T06:32:12.095522"
 }
