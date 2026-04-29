@@ -1,0 +1,66 @@
+{
+  "guid": "2026-04-29",
+  "date": "2026-04-29T06:24:58.231533",
+  "title": "AI Advances, Quantum Corrections & eDNA Equity Challenges",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 288.0,
+  "duration_formatted": "4:47",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-29.mp3",
+    "audio_size_bytes": 7340912,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-29/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-29/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-04-29.txt"
+  },
+  "stories": [
+    {
+      "title": "What Is the Current State of AI Research and Development?",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://alltechmagazine.com/what-is/current-state-of-ai-research-and-development/",
+      "summary": "Article URL: https://alltechmagazine.com/what-is/current-state-of-ai-research-and-development/ Comments URL: https://news.ycombinator.com/item?id=47944782 Points: 1 # Comments: 0"
+    },
+    {
+      "title": "1989 Ames Earth Science Publications",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/1989-ames-earth-science-publications/",
+      "summary": "Tree Canopy Radiance Measurement SystemCaldwell, W., and V. Vanderbilt (1989), Tree Canopy Radiance Measurement System, Optical Engineering, 28, 1227–1236. Preparations for AVIRIS: from VAX to CRAYCurran, P. J., and J. L. Dungan (1989), Preparations for AVIRIS: from VAX to CRAY, On Line, 11, 1–7. Estimation of Signal-to-Noise: A New Techniques Applied to AVIRIS DataCurran, P. […] The post 1989 Ames Earth Science Publications appeared first on NASA Science."
+    },
+    {
+      "title": "1997 Ames Earth Science Publications",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/1997-ames-earth-science-publications/",
+      "summary": "Regional ecosystem simulation: A general model for simulating snow accumulation and melt in mountainous terrainCoughlan, J., and S. Running (1997), Regional ecosystem simulation: A general model for simulating snow accumulation and melt in mountainous terrain, Landscape Ecology, 12, 119–136. The life cycle of stratospheric aerosol particlesHamill, P., et al. (1997), The life cycle of stratospheric […] The post 1997 Ames Earth Science Publications appeared first on NASA Science."
+    },
+    {
+      "title": "Author Correction: Quantum error correction below the surface code threshold",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10559-8",
+      "summary": "Nature, Published online: 28 April 2026; doi:10.1038/s41586-026-10559-8Author Correction: Quantum error correction below the surface code threshold"
+    },
+    {
+      "title": "The equity paradox of environmental DNA for biodiversity monitoring",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01349-3",
+      "summary": "Nature, Published online: 28 April 2026; doi:10.1038/d41586-026-01349-3The equity paradox of environmental DNA for biodiversity monitoring"
+    },
+    {
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/openai-on-aws",
+      "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments."
+    },
+    {
+      "title": "Our commitment to community safety",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/our-commitment-to-community-safety",
+      "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-04-29T06:26:11.706203",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

@@ -395,7 +395,14 @@
     "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
     "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
     "https://science.nasa.gov/earth-science/csda/csda-vendor-pixxel/",
-    "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-group-17-14-50th-mission-2026"
+    "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-group-17-14-50th-mission-2026",
+    "https://alltechmagazine.com/what-is/current-state-of-ai-research-and-development/",
+    "https://www.nasa.gov/1989-ames-earth-science-publications/",
+    "https://www.nasa.gov/1997-ames-earth-science-publications/",
+    "https://www.nature.com/articles/s41586-026-10559-8",
+    "https://www.nature.com/articles/d41586-026-01349-3",
+    "https://openai.com/index/openai-on-aws",
+    "https://openai.com/index/our-commitment-to-community-safety"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -793,7 +800,14 @@
     "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/": "2026-04-28T06:32:12.095522",
     "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/": "2026-04-28T06:32:12.095522",
     "https://science.nasa.gov/earth-science/csda/csda-vendor-pixxel/": "2026-04-28T06:32:12.095522",
-    "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-group-17-14-50th-mission-2026": "2026-04-28T06:32:12.095522"
+    "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-group-17-14-50th-mission-2026": "2026-04-28T06:32:12.095522",
+    "https://alltechmagazine.com/what-is/current-state-of-ai-research-and-development/": "2026-04-29T06:26:11.727874",
+    "https://www.nasa.gov/1989-ames-earth-science-publications/": "2026-04-29T06:26:11.727874",
+    "https://www.nasa.gov/1997-ames-earth-science-publications/": "2026-04-29T06:26:11.727874",
+    "https://www.nature.com/articles/s41586-026-10559-8": "2026-04-29T06:26:11.727874",
+    "https://www.nature.com/articles/d41586-026-01349-3": "2026-04-29T06:26:11.727874",
+    "https://openai.com/index/openai-on-aws": "2026-04-29T06:26:11.727874",
+    "https://openai.com/index/our-commitment-to-community-safety": "2026-04-29T06:26:11.727874"
   },
-  "last_run": "2026-04-28T06:32:12.095522"
+  "last_run": "2026-04-29T06:26:11.727874"
 }
