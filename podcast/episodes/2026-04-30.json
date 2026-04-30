@@ -1,0 +1,66 @@
+{
+  "guid": "2026-04-30",
+  "date": "2026-04-30T06:28:40.237743",
+  "title": "AI ISP Billing, Quantum Magnetism & Cybersecurity Insights",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 288.42105263157896,
+  "duration_formatted": "4:48",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-30.mp3",
+    "audio_size_bytes": 7061297,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-30/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-30/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-04-30.txt"
+  },
+  "stories": [
+    {
+      "title": "Experimenting with an ISP-style billing model for AI usage",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://news.ycombinator.com/item?id=47958635",
+      "summary": "Right now:1. Developers have to track each user's usage, build complex pricing systems to stay profitable, and handle upfront AI token costs.2. Users pay multiple times for the same AI across different apps.rNet is an attempt to flip that into something closer to an ISP model, where users fund their own usage directly.This is still an early proof of concept. The protocol is live, libraries are published on npm and Maven Central, and the docs are open.I’m mainly interested in feedback on where this breaks — technically or conceptually. url:- https://www.rnetai.org/ Comments URL: https://news.ycombinator.com/item?id=47958635 Points: 1 # Comments: 0"
+    },
+    {
+      "title": "Decarboxylative alkylation of alkenes",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10463-1",
+      "summary": "Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10463-1A Pd-catalysed method enables regio- and diastereoselective C–H alkylation of diverse alkenes using carboxylic acids, expanding synthetic access to complex substituted alkenes."
+    },
+    {
+      "title": "Digital quantum magnetism on a trapped-ion quantum computer",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10445-3",
+      "summary": "Nature, Published online: 29 April 2026; doi:10.1038/s41586-026-10445-3Simulations performed using Quantinuum’s H2 trapped-ion quantum computer for observing thermalization on challenging timescales demonstrate the usefulness of digital quantum computers for investigating continuous-time dynamics in regimes that classical simulation methods find difficult."
+    },
+    {
+      "title": "Cybersecurity in the Intelligence Age",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+      "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems."
+    },
+    {
+      "title": "OpenAI Codex system prompt includes explicit directive to \"never talk about goblins\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/04/openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins/",
+      "summary": "Directions also include system instructions to act like \"you have a vivid inner life.\""
+    },
+    {
+      "title": "Howdy's dated $3/month ad-free streaming service said to have 1M subscribers",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/04/howdys-dated-3-month-ad-free-streaming-service-said-to-have-1m-subscribers/",
+      "summary": "Most are keeping their subscriptions after signing up, too, research firm says."
+    },
+    {
+      "title": "Google Search queries hit an ‘all time high’ last quarter",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai",
+      "summary": "Google Search queries hit an \"all time high\" in the first quarter of 2026, according to a statement from CEO Sundar Pichai published as part of Alphabet's earnings on Wednesday. \"Our AI investments and full stack approach are lighting up every part of the business,\" Pichai says. \"Search had a strong quarter with AI experiences [&#8230;]"
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-04-30T06:29:56.419422",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
