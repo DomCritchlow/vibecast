@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Apr 2026 06:29:56 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 06:39:25 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>AI Agent Red-Teaming &amp; Pluto Debate Revived</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Red-teaming a network of agents: Understanding what breaks when AI agents interact at scale
+   Source: Microsoft Research Blog
+2. Wild-meat consumption estimated across Central Africa
+   Source: Nature News
+3. ‘Make Pluto a planet again’? NASA chief revives debate that divides astronomers
+   Source: Nature News
+4. Enabling a new model for healthcare with AI co-clinician
+   Source: DeepMind Blog
+5. This startup’s new mechanistic interpretability tool lets you debug LLMs
+   Source: MIT Technology Review
+6. The Download: the North Pole’s future and humanoid data
+   Source: MIT Technology Review
+7. Researchers try to cut the genetic code from 20 to 19 amino acids
+   Source: Ars Technica
+
+REFERENCES:
+
+1. Red-teaming a network of agents: Understanding what breaks when AI agents interact at scale
+   https://www.microsoft.com/en-us/research/blog/red-teaming-a-network-of-agents-understanding-what-breaks-when-ai-agents-interact-at-scale/
+
+2. Wild-meat consumption estimated across Central Africa
+   https://www.nature.com/articles/d41586-026-01306-0
+
+3. ‘Make Pluto a planet again’? NASA chief revives debate that divides astronomers
+   https://www.nature.com/articles/d41586-026-01421-y
+
+4. Enabling a new model for healthcare with AI co-clinician
+   https://deepmind.google/blog/ai-co-clinician/
+
+5. This startup’s new mechanistic interpretability tool lets you debug LLMs
+   https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/
+
+6. The Download: the North Pole’s future and humanoid data
+   https://www.technologyreview.com/2026/04/30/1136713/the-download-north-pole-future-humanoid-data/
+
+7. Researchers try to cut the genetic code from 20 to 19 amino acids
+   https://arstechnica.com/science/2026/04/researchers-try-to-cut-the-genetic-code-from-20-to-19-amino-acids/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-01/newspaper.pdf]]></description>
+      <pubDate>Fri, 01 May 2026 06:38:14 -0000</pubDate>
+      <guid isPermaLink="false">2026-05-01</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-01.mp3" length="7048757" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Red-teaming a network of agents: Understanding what breaks when AI agents interact at scale
+   Source: Microsoft Research Blog
+2. Wild-meat consumption estimated across Central Africa
+   Source: Nature News
+3. ‘Make Pluto a planet again’? NASA chief revives debate that divides astronomers
+   Source: Nature News
+4. Enabling a new model for healthcare with AI co-clinician
+   Source: DeepMind Blog
+5. This startup’s new mechanistic interpretability tool lets you debug LLMs
+   Source: MIT Technology Review
+6. The Download: the North Pole’s future and humanoid data
+   Source: MIT Technology Review
+7. Researchers try to cut the genetic code from 20 to 19 amino acids
+   Source: Ars Technica
+
+REFERENCES:
+
+1. Red-teaming a network of agents: Understanding what breaks when AI agents interact at scale
+   https://www.microsoft.com/en-us/research/blog/red-teaming-a-network-of-agents-understanding-what-breaks-when-ai-agents-interact-at-scale/
+
+2. Wild-meat consumption estimated across Central Africa
+   https://www.nature.com/articles/d41586-026-01306-0
+
+3. ‘Make Pluto a planet again’? NASA chief revives debate that divides astronomers
+   https://www.nature.com/articles/d41586-026-01421-y
+
+4. Enabling a new model for healthcare with AI co-clinician
+   https://deepmind.google/blog/ai-co-clinician/
+
+5. This startup’s new mechanistic interpretability tool lets you debug LLMs
+   https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/
+
+6. The Download: the North Pole’s future and humanoid data
+   https://www.technologyreview.com/2026/04/30/1136713/the-download-north-pole-future-humanoid-data/
+
+7. Researchers try to cut the genetic code from 20 to 19 amino acids
+   https://arstechnica.com/science/2026/04/researchers-try-to-cut-the-genetic-code-from-20-to-19-amino-acids/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-01/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:50</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-01/episode-art.png"/>
+    </item>
     <item>
       <title>AI ISP Billing, Quantum Magnetism &amp; Cybersecurity Insights</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>5:09</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-02/episode-art.png"/>
-    </item>
-    <item>
-      <title>UK Biobank CNVs &amp; AI Model Shift &amp; ChatGPT in CarPlay</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Author Correction: Phenome-wide analysis of copy number variants in 470,727 UK Biobank genomes
-   Source: Nature News
-2. A solar system is born
-   Source: Nature News
-3. Shifting to AI model customization is an architectural imperative
-   Source: MIT Technology Review
-4. Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent
-   Source: The Verge
-5. You can now use ChatGPT with Apple’s CarPlay
-   Source: The Verge
-6. Multi-agent systems have a distributed systems problem
-   Source: Hacker News (AI filtered)
-7. Medical Tests, Microbiology Top Research Schedule Aboard Station
-   Source: NASA Science
-
-REFERENCES:
-
-1. Author Correction: Phenome-wide analysis of copy number variants in 470,727 UK Biobank genomes
-   https://www.nature.com/articles/s41586-026-10389-8
-
-2. A solar system is born
-   https://www.nature.com/articles/d41586-026-01002-z
-
-3. Shifting to AI model customization is an architectural imperative
-   https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/
-
-4. Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent
-   https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak
-
-5. You can now use ChatGPT with Apple’s CarPlay
-   https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt
-
-6. Multi-agent systems have a distributed systems problem
-   https://christophermeiklejohn.com/ai/agents/distributed/zabriskie/2026/03/30/multi-agent-systems-have-a-distributed-systems-problem.html
-
-7. Medical Tests, Microbiology Top Research Schedule Aboard Station
-   https://www.nasa.gov/blogs/spacestation/2026/03/31/medical-tests-microbiology-top-research-schedule-aboard-station/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-01/newspaper.pdf]]></description>
-      <pubDate>Wed, 01 Apr 2026 05:56:05 -0000</pubDate>
-      <guid isPermaLink="false">2026-04-01</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-01.mp3" length="6905189" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Author Correction: Phenome-wide analysis of copy number variants in 470,727 UK Biobank genomes
-   Source: Nature News
-2. A solar system is born
-   Source: Nature News
-3. Shifting to AI model customization is an architectural imperative
-   Source: MIT Technology Review
-4. Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent
-   Source: The Verge
-5. You can now use ChatGPT with Apple’s CarPlay
-   Source: The Verge
-6. Multi-agent systems have a distributed systems problem
-   Source: Hacker News (AI filtered)
-7. Medical Tests, Microbiology Top Research Schedule Aboard Station
-   Source: NASA Science
-
-REFERENCES:
-
-1. Author Correction: Phenome-wide analysis of copy number variants in 470,727 UK Biobank genomes
-   https://www.nature.com/articles/s41586-026-10389-8
-
-2. A solar system is born
-   https://www.nature.com/articles/d41586-026-01002-z
-
-3. Shifting to AI model customization is an architectural imperative
-   https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/
-
-4. Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent
-   https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak
-
-5. You can now use ChatGPT with Apple’s CarPlay
-   https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt
-
-6. Multi-agent systems have a distributed systems problem
-   https://christophermeiklejohn.com/ai/agents/distributed/zabriskie/2026/03/30/multi-agent-systems-have-a-distributed-systems-problem.html
-
-7. Medical Tests, Microbiology Top Research Schedule Aboard Station
-   https://www.nasa.gov/blogs/spacestation/2026/03/31/medical-tests-microbiology-top-research-schedule-aboard-station/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-01/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>5:01</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-01/episode-art.png"/>
     </item>
   </channel>
 </rss>
