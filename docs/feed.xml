@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 May 2026 06:39:25 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 06:08:59 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>European Science Funding &amp; Deep-Sea Submersible Boom</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Sungchan Jeong
+   Source: NASA Science
+2. European funder must increase capacity to meet the ambition of scientists
+   Source: Nature News
+3. Prestigious European science funder scraps stricter rules after researcher backlash
+   Source: Nature News
+4. Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining
+   Source: MIT Technology Review
+5. Trump’s mass firing just dealt another blow to American science
+   Source: MIT Technology Review
+6. GPT-5.5 matches heavily hyped Mythos Preview in new cybersecurity tests
+   Source: Ars Technica
+7. Dreame — the vacuum company — just ‘launched’ its own phones
+   Source: The Verge
+
+REFERENCES:
+
+1. Sungchan Jeong
+   https://www.nasa.gov/people/sungchan-jeong/
+
+2. European funder must increase capacity to meet the ambition of scientists
+   https://www.nature.com/articles/d41586-026-01411-0
+
+3. Prestigious European science funder scraps stricter rules after researcher backlash
+   https://www.nature.com/articles/d41586-026-01435-6
+
+4. Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining
+   https://www.technologyreview.com/2026/05/01/1136734/inexpensive-seafloor-hopping-submersibles-could-stoke-deep-sea-science-and-mining/
+
+5. Trump’s mass firing just dealt another blow to American science
+   https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/
+
+6. GPT-5.5 matches heavily hyped Mythos Preview in new cybersecurity tests
+   https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/
+
+7. Dreame — the vacuum company — just ‘launched’ its own phones
+   https://www.theverge.com/gadgets/922246/dreame-next-smartphones-aurora-lux-nex-modular
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-02/newspaper.pdf]]></description>
+      <pubDate>Sat, 02 May 2026 06:07:55 -0000</pubDate>
+      <guid isPermaLink="false">2026-05-02</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-02.mp3" length="6462570" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Sungchan Jeong
+   Source: NASA Science
+2. European funder must increase capacity to meet the ambition of scientists
+   Source: Nature News
+3. Prestigious European science funder scraps stricter rules after researcher backlash
+   Source: Nature News
+4. Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining
+   Source: MIT Technology Review
+5. Trump’s mass firing just dealt another blow to American science
+   Source: MIT Technology Review
+6. GPT-5.5 matches heavily hyped Mythos Preview in new cybersecurity tests
+   Source: Ars Technica
+7. Dreame — the vacuum company — just ‘launched’ its own phones
+   Source: The Verge
+
+REFERENCES:
+
+1. Sungchan Jeong
+   https://www.nasa.gov/people/sungchan-jeong/
+
+2. European funder must increase capacity to meet the ambition of scientists
+   https://www.nature.com/articles/d41586-026-01411-0
+
+3. Prestigious European science funder scraps stricter rules after researcher backlash
+   https://www.nature.com/articles/d41586-026-01435-6
+
+4. Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining
+   https://www.technologyreview.com/2026/05/01/1136734/inexpensive-seafloor-hopping-submersibles-could-stoke-deep-sea-science-and-mining/
+
+5. Trump’s mass firing just dealt another blow to American science
+   https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/
+
+6. GPT-5.5 matches heavily hyped Mythos Preview in new cybersecurity tests
+   https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/
+
+7. Dreame — the vacuum company — just ‘launched’ its own phones
+   https://www.theverge.com/gadgets/922246/dreame-next-smartphones-aurora-lux-nex-modular
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-02/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:36</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-02/episode-art.png"/>
+    </item>
     <item>
       <title>AI Agent Red-Teaming &amp; Pluto Debate Revived</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:04</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-03/episode-art.png"/>
-    </item>
-    <item>
-      <title>Single-Cell Genomics, AI Predictions &amp; Kia’s New EV3 Reveal</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Gene regulatory landscape dissected by single-cell four-omics sequencing
-   Source: Nature News
-2. ADeLe: Predicting and explaining AI performance across tasks
-   Source: Microsoft Research Blog
-3. Research roundup: 7 cool science stories we almost missed
-   Source: Ars Technica
-4. Kia&#8217;s compact EV3 is coming to the US this year, with 320 miles of range
-   Source: The Verge
-5. Show HN: An SSR Java framework for real-time user interfaces and AI agents
-   Source: Hacker News (AI filtered)
-6. Ames Partnerships Office Annual Report 2025
-   Source: NASA Science
-7. Liftoff! NASA Launches Astronauts on Historic Artemis Moon Mission
-   Source: NASA Science
-
-REFERENCES:
-
-1. Gene regulatory landscape dissected by single-cell four-omics sequencing
-   https://www.nature.com/articles/s41586-026-10322-z
-
-2. ADeLe: Predicting and explaining AI performance across tasks
-   https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/
-
-3. Research roundup: 7 cool science stories we almost missed
-   https://arstechnica.com/science/2026/04/research-roundup-7-cool-science-stories-we-almost-missed-3/
-
-4. Kia&#8217;s compact EV3 is coming to the US this year, with 320 miles of range
-   https://www.theverge.com/transportation/905363/kia-ev3-north-america-launch
-
-5. Show HN: An SSR Java framework for real-time user interfaces and AI agents
-   https://github.com/vadimv/server-components
-
-6. Ames Partnerships Office Annual Report 2025
-   https://www.nasa.gov/ames-partnerships-office-annual-report-2025/
-
-7. Liftoff! NASA Launches Astronauts on Historic Artemis Moon Mission
-   https://www.nasa.gov/news-release/liftoff-nasa-launches-astronauts-on-historic-artemis-moon-mission/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-02/newspaper.pdf]]></description>
-      <pubDate>Thu, 02 Apr 2026 05:42:30 -0000</pubDate>
-      <guid isPermaLink="false">2026-04-02</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-02.mp3" length="7288875" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Gene regulatory landscape dissected by single-cell four-omics sequencing
-   Source: Nature News
-2. ADeLe: Predicting and explaining AI performance across tasks
-   Source: Microsoft Research Blog
-3. Research roundup: 7 cool science stories we almost missed
-   Source: Ars Technica
-4. Kia&#8217;s compact EV3 is coming to the US this year, with 320 miles of range
-   Source: The Verge
-5. Show HN: An SSR Java framework for real-time user interfaces and AI agents
-   Source: Hacker News (AI filtered)
-6. Ames Partnerships Office Annual Report 2025
-   Source: NASA Science
-7. Liftoff! NASA Launches Astronauts on Historic Artemis Moon Mission
-   Source: NASA Science
-
-REFERENCES:
-
-1. Gene regulatory landscape dissected by single-cell four-omics sequencing
-   https://www.nature.com/articles/s41586-026-10322-z
-
-2. ADeLe: Predicting and explaining AI performance across tasks
-   https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/
-
-3. Research roundup: 7 cool science stories we almost missed
-   https://arstechnica.com/science/2026/04/research-roundup-7-cool-science-stories-we-almost-missed-3/
-
-4. Kia&#8217;s compact EV3 is coming to the US this year, with 320 miles of range
-   https://www.theverge.com/transportation/905363/kia-ev3-north-america-launch
-
-5. Show HN: An SSR Java framework for real-time user interfaces and AI agents
-   https://github.com/vadimv/server-components
-
-6. Ames Partnerships Office Annual Report 2025
-   https://www.nasa.gov/ames-partnerships-office-annual-report-2025/
-
-7. Liftoff! NASA Launches Astronauts on Historic Artemis Moon Mission
-   https://www.nasa.gov/news-release/liftoff-nasa-launches-astronauts-on-historic-artemis-moon-mission/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-02/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>5:09</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-02/episode-art.png"/>
     </item>
   </channel>
 </rss>

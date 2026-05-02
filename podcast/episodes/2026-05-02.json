@@ -1,0 +1,66 @@
+{
+  "guid": "2026-05-02",
+  "date": "2026-05-02T06:07:55.512049",
+  "title": "European Science Funding & Deep-Sea Submersible Boom",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 276.63157894736844,
+  "duration_formatted": "4:36",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-02.mp3",
+    "audio_size_bytes": 6462570,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-02/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-02/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-05-02.txt"
+  },
+  "stories": [
+    {
+      "title": "Sungchan Jeong",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/people/sungchan-jeong/",
+      "summary": "Affiliation: NASA Ames Research Center Division: Earth Science Division (SG), Biospheric Science Branch (SGE), NASA Earth Exchange (NEX) Email: sungchan.jeong@nasa.gov Professional Biography Dr. Sungchan Jeong is a NASA Postdoctoral Program (NPP) Fellow at NASA Ames Research Center starting in December 2025. He conducts research on monitoring terrestrial ecosystem dynamics by integrating multi-source satellite observations with […] The post Sungchan Jeong appeared first on NASA Science."
+    },
+    {
+      "title": "European funder must increase capacity to meet the ambition of scientists",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01411-0",
+      "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01411-0To avoid sabotaging science, the European Research Council needs more funding and structural change."
+    },
+    {
+      "title": "Prestigious European science funder scraps stricter rules after researcher backlash",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01435-6",
+      "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01435-6The tough new policy was introduced to curb submissions, but drew criticism from researchers."
+    },
+    {
+      "title": "Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/05/01/1136734/inexpensive-seafloor-hopping-submersibles-could-stoke-deep-sea-science-and-mining/",
+      "summary": "Smack dab between Australia and South America, the US National Oceanic and Atmospheric Administration (NOAA) research vessel Rainier is currently on a mission to map more than 8,000 square nautical miles of the Pacific seafloor in search of critical mineral deposits. But it isn’t doing it alone; for a month starting this week, it will&#8230;"
+    },
+    {
+      "title": "Trump’s mass firing just dealt another blow to American science",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/",
+      "summary": "This past week delivered another gut punch for science in the US. This time, the target was the National Science Foundation—a federal agency that funds major research projects to the tune of around $9 billion. The foundation’s efforts were overseen by a board of 22 prominent scientists. On Friday last week, they were all fired.&#8230;"
+    },
+    {
+      "title": "GPT-5.5 matches heavily hyped Mythos Preview in new cybersecurity tests",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/",
+      "summary": "New results suggest Mythos' cyber threat isn't \"a breakthrough specific to one model.\""
+    },
+    {
+      "title": "Dreame — the vacuum company — just ‘launched’ its own phones",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/922246/dreame-next-smartphones-aurora-lux-nex-modular",
+      "summary": "Dreame, a Chinese manufacturer best known for its robot vacuums but with ambitions to do much more, says it's making smartphones now. I'm not sure I believe it. The company showed off two phones at its own Next event, which took place in California this week, though both had previously been revealed in China in [&#8230;]"
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-05-02T06:08:59.657273",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
