@@ -1,0 +1,66 @@
+{
+  "guid": "2026-05-04",
+  "date": "2026-05-04T06:39:35.179021",
+  "title": "Heart Health in Space & SpaceX’s 45-Satellite Night Launch",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 282.9473684210526,
+  "duration_formatted": "4:42",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-04.mp3",
+    "audio_size_bytes": 6859422,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-04/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-04/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-05-04.txt"
+  },
+  "stories": [
+    {
+      "title": "Spaceflight is hard on the heart, yet artificial ones grow better in space than on Earth",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/human-spaceflight/spaceflight-is-hard-on-the-heart-yet-artificial-ones-grow-better-in-space-than-on-earth",
+      "summary": "The human heart shrivels away in space, but researchers have found that mini-hearts grown from human stem cells sprout in space significantly faster than in labs on Earth."
+    },
+    {
+      "title": "SpaceX sends 45 satellites to orbit in nighttime launch from California (video)",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-cas500-2-mission-45-satellites",
+      "summary": "SpaceX launched 45 satellites to orbit from California early Sunday morning (May 3), including a South Korean spacecraft that was originally supposed to fly in 2022."
+    },
+    {
+      "title": "The imperfect legacy",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01075-w",
+      "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01075-wNot a bug, but a feature."
+    },
+    {
+      "title": "US faculty members report high levels of anxiety",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01252-x",
+      "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01252-xSurveys show the importance of social, familial and structural support in lowering anxiety, particularly for people in health professions."
+    },
+    {
+      "title": "Building the compute infrastructure for the Intelligence Age",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+      "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand."
+    },
+    {
+      "title": "OpenAI available at FedRAMP Moderate",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
+      "summary": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies."
+    },
+    {
+      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+      "summary": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-05-04T06:40:43.822862",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
