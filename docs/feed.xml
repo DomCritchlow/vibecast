@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 May 2026 06:40:43 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 06:19:04 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Iranian Lab Loss &amp; AI Risks Ahead with NASA Lunar Tech</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. 'Heartbreaking': Iranian scientists on losing labs, libraries and liberty
+   Source: Nature News
+2. Anthropic co-founder Jack Clark: 60%+ chance of automated AI R&D by 2029
+   Source: Hacker News (AI filtered)
+3. Kenya: AI was used to load Health System costs onto poorest
+   Source: Hacker News (AI filtered)
+4. NASA Fosters Development of Lunar Resource-Seeking Technologies
+   Source: NASA Science
+5. Upcoming SIG and SAG Activities, 4 May – 11 May 2026
+   Source: NASA Science
+6. Powerful tools are revealing the ‘control knobs’ of the genome
+   Source: Nature News
+7. Woodland walks cut anxiety, study finds
+   Source: Positive News
+
+REFERENCES:
+
+1. 'Heartbreaking': Iranian scientists on losing labs, libraries and liberty
+   https://www.nature.com/articles/d41586-026-01394-y
+
+2. Anthropic co-founder Jack Clark: 60%+ chance of automated AI R&D by 2029
+   https://importai.substack.com/p/import-ai-455-automating-ai-research
+
+3. Kenya: AI was used to load Health System costs onto poorest
+   https://sha.africauncensored.online/
+
+4. NASA Fosters Development of Lunar Resource-Seeking Technologies
+   https://www.nasa.gov/technology/nasa-fosters-development-of-lunar-resource-seeking-technologies/
+
+5. Upcoming SIG and SAG Activities, 4 May – 11 May 2026
+   https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/upcoming-sig-and-sag-activities/
+
+6. Powerful tools are revealing the ‘control knobs’ of the genome
+   https://www.nature.com/articles/d41586-026-01410-1
+
+7. Woodland walks cut anxiety, study finds
+   https://www.positive.news/lifestyle/woodland-walks-cut-anxiety-study-finds/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-05/newspaper.pdf]]></description>
+      <pubDate>Tue, 05 May 2026 06:17:48 -0000</pubDate>
+      <guid isPermaLink="false">2026-05-05</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-05.mp3" length="6990452" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. 'Heartbreaking': Iranian scientists on losing labs, libraries and liberty
+   Source: Nature News
+2. Anthropic co-founder Jack Clark: 60%+ chance of automated AI R&D by 2029
+   Source: Hacker News (AI filtered)
+3. Kenya: AI was used to load Health System costs onto poorest
+   Source: Hacker News (AI filtered)
+4. NASA Fosters Development of Lunar Resource-Seeking Technologies
+   Source: NASA Science
+5. Upcoming SIG and SAG Activities, 4 May – 11 May 2026
+   Source: NASA Science
+6. Powerful tools are revealing the ‘control knobs’ of the genome
+   Source: Nature News
+7. Woodland walks cut anxiety, study finds
+   Source: Positive News
+
+REFERENCES:
+
+1. 'Heartbreaking': Iranian scientists on losing labs, libraries and liberty
+   https://www.nature.com/articles/d41586-026-01394-y
+
+2. Anthropic co-founder Jack Clark: 60%+ chance of automated AI R&D by 2029
+   https://importai.substack.com/p/import-ai-455-automating-ai-research
+
+3. Kenya: AI was used to load Health System costs onto poorest
+   https://sha.africauncensored.online/
+
+4. NASA Fosters Development of Lunar Resource-Seeking Technologies
+   https://www.nasa.gov/technology/nasa-fosters-development-of-lunar-resource-seeking-technologies/
+
+5. Upcoming SIG and SAG Activities, 4 May – 11 May 2026
+   https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/upcoming-sig-and-sag-activities/
+
+6. Powerful tools are revealing the ‘control knobs’ of the genome
+   https://www.nature.com/articles/d41586-026-01410-1
+
+7. Woodland walks cut anxiety, study finds
+   https://www.positive.news/lifestyle/woodland-walks-cut-anxiety-study-finds/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-05/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:53</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-05/episode-art.png"/>
+    </item>
     <item>
       <title>Heart Health in Space &amp; SpaceX’s 45-Satellite Night Launch</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>5:32</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-06/episode-art.png"/>
-    </item>
-    <item>
-      <title>AI Fakes &amp; Copyright Trolls, NASA Artemis II Q&amp;A &amp; More</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Show HN: Signals – finding the most informative agent traces without LLM judges
-   Source: Hacker News (AI filtered)
-2. A folk musician became a target for AI fakes and a copyright troll
-   Source: The Verge
-3. The app for tracking TV, movies, podcasts, and everything
-   Source: The Verge
-4. Aiper IrriSense 2 Smart Irrigation System Review: Clever Yet Uneven
-   Source: Wired
-5. NASA Answers Your Most Pressing Artemis II Questions
-   Source: NASA Science
-6. New Advances Bring the Era of Quantum Computers Closer Than Ever
-   Source: Quanta Magazine
-7. What Artemis II’s astronauts will look for on the Moon’s far side
-   Source: Nature News
-
-REFERENCES:
-
-1. Show HN: Signals – finding the most informative agent traces without LLM judges
-   https://arxiv.org/abs/2604.00356
-
-2. A folk musician became a target for AI fakes and a copyright troll
-   https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright
-
-3. The app for tracking TV, movies, podcasts, and everything
-   https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer
-
-4. Aiper IrriSense 2 Smart Irrigation System Review: Clever Yet Uneven
-   https://www.wired.com/review/aiper-irrisense-2-smart-irrigation-system/
-
-5. NASA Answers Your Most Pressing Artemis II Questions
-   https://www.nasa.gov/missions/nasa-answers-your-most-pressing-artemis-ii-questions/
-
-6. New Advances Bring the Era of Quantum Computers Closer Than Ever
-   https://www.quantamagazine.org/new-advances-bring-the-era-of-quantum-computers-closer-than-ever-20260403/
-
-7. What Artemis II’s astronauts will look for on the Moon’s far side
-   https://www.nature.com/articles/d41586-026-01103-9
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-05/newspaper.pdf]]></description>
-      <pubDate>Sun, 05 Apr 2026 05:46:41 -0000</pubDate>
-      <guid isPermaLink="false">2026-04-05</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-05.mp3" length="7251259" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Show HN: Signals – finding the most informative agent traces without LLM judges
-   Source: Hacker News (AI filtered)
-2. A folk musician became a target for AI fakes and a copyright troll
-   Source: The Verge
-3. The app for tracking TV, movies, podcasts, and everything
-   Source: The Verge
-4. Aiper IrriSense 2 Smart Irrigation System Review: Clever Yet Uneven
-   Source: Wired
-5. NASA Answers Your Most Pressing Artemis II Questions
-   Source: NASA Science
-6. New Advances Bring the Era of Quantum Computers Closer Than Ever
-   Source: Quanta Magazine
-7. What Artemis II’s astronauts will look for on the Moon’s far side
-   Source: Nature News
-
-REFERENCES:
-
-1. Show HN: Signals – finding the most informative agent traces without LLM judges
-   https://arxiv.org/abs/2604.00356
-
-2. A folk musician became a target for AI fakes and a copyright troll
-   https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright
-
-3. The app for tracking TV, movies, podcasts, and everything
-   https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer
-
-4. Aiper IrriSense 2 Smart Irrigation System Review: Clever Yet Uneven
-   https://www.wired.com/review/aiper-irrisense-2-smart-irrigation-system/
-
-5. NASA Answers Your Most Pressing Artemis II Questions
-   https://www.nasa.gov/missions/nasa-answers-your-most-pressing-artemis-ii-questions/
-
-6. New Advances Bring the Era of Quantum Computers Closer Than Ever
-   https://www.quantamagazine.org/new-advances-bring-the-era-of-quantum-computers-closer-than-ever-20260403/
-
-7. What Artemis II’s astronauts will look for on the Moon’s far side
-   https://www.nature.com/articles/d41586-026-01103-9
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-05/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>5:23</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-05/episode-art.png"/>
     </item>
   </channel>
 </rss>
