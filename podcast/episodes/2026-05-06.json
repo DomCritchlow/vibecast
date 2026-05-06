@@ -1,0 +1,66 @@
+{
+  "guid": "2026-05-06",
+  "date": "2026-05-06T06:30:32.176209",
+  "title": "Microsoft NSDI Advances & AI Agents Impact on Research",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 290.5263157894737,
+  "duration_formatted": "4:50",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-06.mp3",
+    "audio_size_bytes": 6946566,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-06/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-06/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-05-06.txt"
+  },
+  "stories": [
+    {
+      "title": "Microsoft at NSDI 2026: Advances in large-scale networked systems",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/microsoft-at-nsdi-2026-advances-in-large-scale-networked-systems/",
+      "summary": "Microsoft researchers share advances in building and operating large-scale distributed systems, spanning datacenters, networking, and the growing intersection with AI during NSDI ’26. The post Microsoft at NSDI 2026: Advances in large-scale networked systems appeared first on Microsoft Research."
+    },
+    {
+      "title": "AI agents in research: when productivity comes at the cost of apprenticeship",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01440-9",
+      "summary": "Nature, Published online: 05 May 2026; doi:10.1038/d41586-026-01440-9AI agents in research: when productivity comes at the cost of apprenticeship"
+    },
+    {
+      "title": "GPT-5.5 Instant System Card",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/gpt-5-5-instant-system-card",
+      "summary": ""
+    },
+    {
+      "title": "Google Home gets upgraded Gemini voice assistant and new camera controls",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/05/google-home-gets-upgraded-gemini-voice-assistant-and-new-camera-controls/",
+      "summary": "Google's smart home ecosystem is getting its biggest update since the AI-fueled 2025 revamp."
+    },
+    {
+      "title": "Apple could let you pick a favorite AI model in iOS 27",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27",
+      "summary": "The next update to Apple's operating systems could allow users to choose their preferred AI model for running Apple Intelligence. According to Bloomberg's Mark Gurman, Apple is planning to allow third-party chatbots to power its AI features system-wide in iOS 27, iPadOS 27, and macOS 27, all expected for this fall. In addition to running [&#8230;]"
+    },
+    {
+      "title": "NASA eClips and GLOBE Educators Strengthen a Regional STEM Ecosystem in Coastal Virginia",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/learning-resources/science-activation/nasa-eclips-and-globe-educators-strengthen-a-regional-stem-ecosystem-in-coastal-virginia/",
+      "summary": "Thirty-eight science educators representing seven school districts across Virginia’s Tidewater region joined forces with community organizations, such as the Elizabeth River Project, to deepen their instructional practice through a dynamic collaboration between NASA eClips and the GLOBE (Global Learning and Observation to Benefit the Environment) Program. Together, these groups are cultivating a regional STEM ecosystem [&#8230;] The post NASA eClips and GLOBE Educators Strengthen a Regional STEM Ecosystem in Coastal Virginia appeared first on NASA Science."
+    },
+    {
+      "title": "Correction to A.3 NISAR Mission Data, Applications, Research, and Technology Team",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/researchers/solicitations/roses-2025/correction-to-a-3-nisar-mission-data-applications-research-and-technology-team/",
+      "summary": "On or about May 5, 2026 A.3 NASA ISRO Synthetic Aperture Radar Mission Data, Applications, Research, and Technology Team (NISAR DART) was corrected regarding the requirements for application projects. Section 8.3.1 Step-2 Proposal Requirements has been corrected to specify that names of end-user organization(s) are not to be given in the anonymized Step-2 proposal but [&#8230;] The post Correction to A.3 NISAR Mission Data, Applications, Research, and Technology Team appeared first on NASA Science."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-05-06T06:31:41.260499",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
