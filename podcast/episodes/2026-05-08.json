@@ -1,0 +1,66 @@
+{
+  "guid": "2026-05-08",
+  "date": "2026-05-08T05:58:47.329045",
+  "title": "Early-Career Science Disruption & GPT-5.5 Cybersecurity A...",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 253.05263157894734,
+  "duration_formatted": "4:13",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-08.mp3",
+    "audio_size_bytes": 6125234,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-08/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-08/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-05-08.txt"
+  },
+  "stories": [
+    {
+      "title": "Early-career researchers do more ‘disruptive’ science than veterans",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01466-z",
+      "summary": "Nature, Published online: 07 May 2026; doi:10.1038/d41586-026-01466-zAnalysis of papers from millions of scientists shows that older researchers tend to stick with ideas from their past."
+    },
+    {
+      "title": "Stephen Young",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/people/stephen-young/",
+      "summary": "Affiliation– NASA Ames Research Center Division– Human Systems Integration Division (TH) Phone– 256-830-9112 Email– stephen.c.young-1@nasa.gov The post Stephen Young appeared first on NASA Science."
+    },
+    {
+      "title": "Rick Dunbar",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/people/rick-dunbar/",
+      "summary": "Affiliation– NASA Ames Research Center Division– Human Systems Integration Division (TH) Phone– 202-358-2299 Email– rick.dunbar@nasa.gov The post Rick Dunbar appeared first on NASA Science."
+    },
+    {
+      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+      "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure."
+    },
+    {
+      "title": "How frontier firms are pulling ahead",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/introducing-b2b-signals",
+      "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage."
+    },
+    {
+      "title": "The balcony solar boom is coming to the US",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/05/07/1136933/balcony-solar-boom/",
+      "summary": "Dozens of US states are considering legislation to allow people to install plug-in solar systems, often called balcony solar. These small arrays require little to no setup and could help cut emissions and power bills. Balcony solar is already popular in Europe, and proponents say that the systems could make solar power more accessible for&#8230;"
+    },
+    {
+      "title": "Is your Porsche Taycan too slow at the Nürburgring? You need this Manthey Kit.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/05/is-your-porsche-taycan-too-slow-at-the-nurbugring-you-need-this-manthey-kit/",
+      "summary": "Nordschleife-specialist Manthey has developed an upgrade package for the Porsche EV."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-05-08T05:59:57.471318",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

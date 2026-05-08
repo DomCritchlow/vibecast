@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 May 2026 06:38:20 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 05:59:57 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Early-Career Science Disruption &amp; GPT-5.5 Cybersecurity A...</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Early-career researchers do more ‘disruptive’ science than veterans
+   Source: Nature News
+2. Stephen Young
+   Source: NASA Science
+3. Rick Dunbar
+   Source: NASA Science
+4. Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber
+   Source: OpenAI News
+5. How frontier firms are pulling ahead
+   Source: OpenAI News
+6. The balcony solar boom is coming to the US
+   Source: MIT Technology Review
+7. Is your Porsche Taycan too slow at the Nürburgring? You need this Manthey Kit.
+   Source: Ars Technica
+
+REFERENCES:
+
+1. Early-career researchers do more ‘disruptive’ science than veterans
+   https://www.nature.com/articles/d41586-026-01466-z
+
+2. Stephen Young
+   https://www.nasa.gov/people/stephen-young/
+
+3. Rick Dunbar
+   https://www.nasa.gov/people/rick-dunbar/
+
+4. Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber
+   https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber
+
+5. How frontier firms are pulling ahead
+   https://openai.com/index/introducing-b2b-signals
+
+6. The balcony solar boom is coming to the US
+   https://www.technologyreview.com/2026/05/07/1136933/balcony-solar-boom/
+
+7. Is your Porsche Taycan too slow at the Nürburgring? You need this Manthey Kit.
+   https://arstechnica.com/cars/2026/05/is-your-porsche-taycan-too-slow-at-the-nurbugring-you-need-this-manthey-kit/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-08/newspaper.pdf]]></description>
+      <pubDate>Fri, 08 May 2026 05:58:47 -0000</pubDate>
+      <guid isPermaLink="false">2026-05-08</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-08.mp3" length="6125234" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Early-career researchers do more ‘disruptive’ science than veterans
+   Source: Nature News
+2. Stephen Young
+   Source: NASA Science
+3. Rick Dunbar
+   Source: NASA Science
+4. Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber
+   Source: OpenAI News
+5. How frontier firms are pulling ahead
+   Source: OpenAI News
+6. The balcony solar boom is coming to the US
+   Source: MIT Technology Review
+7. Is your Porsche Taycan too slow at the Nürburgring? You need this Manthey Kit.
+   Source: Ars Technica
+
+REFERENCES:
+
+1. Early-career researchers do more ‘disruptive’ science than veterans
+   https://www.nature.com/articles/d41586-026-01466-z
+
+2. Stephen Young
+   https://www.nasa.gov/people/stephen-young/
+
+3. Rick Dunbar
+   https://www.nasa.gov/people/rick-dunbar/
+
+4. Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber
+   https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber
+
+5. How frontier firms are pulling ahead
+   https://openai.com/index/introducing-b2b-signals
+
+6. The balcony solar boom is coming to the US
+   https://www.technologyreview.com/2026/05/07/1136933/balcony-solar-boom/
+
+7. Is your Porsche Taycan too slow at the Nürburgring? You need this Manthey Kit.
+   https://arstechnica.com/cars/2026/05/is-your-porsche-taycan-too-slow-at-the-nurbugring-you-need-this-manthey-kit/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-08/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:13</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-08/episode-art.png"/>
+    </item>
     <item>
       <title>Microproteins &amp; ChatGPT Futures Revolutionize Tech and Sc...</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:58</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-09/episode-art.png"/>
-    </item>
-    <item>
-      <title>Cellular Ageing Test, Laptop Repairability &amp; AI Security ...</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Enabling agent-first process redesign
-   Source: MIT Technology Review
-2. This method to reverse cellular ageing is about to be tested in humans
-   Source: Nature News
-3. Apple and Lenovo have the least repairable laptops, analysis finds
-   Source: Ars Technica
-4. Spotify&#8217;s Prompted Playlists can help you find new podcasts to listen to
-   Source: The Verge
-5. A new Anthropic model found security problems &#8216;in every major operating system and web browser&#8217;
-   Source: The Verge
-6. He Started a Social Network Alone. Then 5 Million People Signed Up
-   Source: Wired
-7. Station Crew Talks to Artemis II Crew Amid Busy Research Schedule
-   Source: NASA Science
-
-REFERENCES:
-
-1. Enabling agent-first process redesign
-   https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/
-
-2. This method to reverse cellular ageing is about to be tested in humans
-   https://www.nature.com/articles/d41586-026-01024-7
-
-3. Apple and Lenovo have the least repairable laptops, analysis finds
-   https://arstechnica.com/gadgets/2026/04/apple-has-the-lowest-grades-in-laptop-phone-repairability-analysis/
-
-4. Spotify&#8217;s Prompted Playlists can help you find new podcasts to listen to
-   https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts
-
-5. A new Anthropic model found security problems &#8216;in every major operating system and web browser&#8217;
-   https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity
-
-6. He Started a Social Network Alone. Then 5 Million People Signed Up
-   https://www.wired.com/story/the-big-interview-podcast-upscrolled-founder-issam-hijazi/
-
-7. Station Crew Talks to Artemis II Crew Amid Busy Research Schedule
-   https://www.nasa.gov/blogs/spacestation/2026/04/07/station-crew-talks-to-artemis-ii-crew-amid-busy-research-schedule/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-08/newspaper.pdf]]></description>
-      <pubDate>Wed, 08 Apr 2026 05:48:07 -0000</pubDate>
-      <guid isPermaLink="false">2026-04-08</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-08.mp3" length="7665039" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Enabling agent-first process redesign
-   Source: MIT Technology Review
-2. This method to reverse cellular ageing is about to be tested in humans
-   Source: Nature News
-3. Apple and Lenovo have the least repairable laptops, analysis finds
-   Source: Ars Technica
-4. Spotify&#8217;s Prompted Playlists can help you find new podcasts to listen to
-   Source: The Verge
-5. A new Anthropic model found security problems &#8216;in every major operating system and web browser&#8217;
-   Source: The Verge
-6. He Started a Social Network Alone. Then 5 Million People Signed Up
-   Source: Wired
-7. Station Crew Talks to Artemis II Crew Amid Busy Research Schedule
-   Source: NASA Science
-
-REFERENCES:
-
-1. Enabling agent-first process redesign
-   https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/
-
-2. This method to reverse cellular ageing is about to be tested in humans
-   https://www.nature.com/articles/d41586-026-01024-7
-
-3. Apple and Lenovo have the least repairable laptops, analysis finds
-   https://arstechnica.com/gadgets/2026/04/apple-has-the-lowest-grades-in-laptop-phone-repairability-analysis/
-
-4. Spotify&#8217;s Prompted Playlists can help you find new podcasts to listen to
-   https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts
-
-5. A new Anthropic model found security problems &#8216;in every major operating system and web browser&#8217;
-   https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity
-
-6. He Started a Social Network Alone. Then 5 Million People Signed Up
-   https://www.wired.com/story/the-big-interview-podcast-upscrolled-founder-issam-hijazi/
-
-7. Station Crew Talks to Artemis II Crew Amid Busy Research Schedule
-   https://www.nasa.gov/blogs/spacestation/2026/04/07/station-crew-talks-to-artemis-ii-crew-amid-busy-research-schedule/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-08/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>5:18</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-08/episode-art.png"/>
     </item>
   </channel>
 </rss>
