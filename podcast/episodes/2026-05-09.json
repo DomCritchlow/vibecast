@@ -1,0 +1,66 @@
+{
+  "guid": "2026-05-09",
+  "date": "2026-05-09T06:17:52.763668",
+  "title": "Realistic Grid Data & Fake Science Citation Surge",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 330.5263157894737,
+  "duration_formatted": "5:30",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-09.mp3",
+    "audio_size_bytes": 8021139,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-09/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-09/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-05-09.txt"
+  },
+  "stories": [
+    {
+      "title": "Building realistic electric transmission grid dataset at scale: a pipeline from open dataset",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/building-realistic-electric-transmission-grid-dataset-at-scale-a-pipeline-from-open-dataset/",
+      "summary": "Microsoft Research is excited to release an open dataset of approximate transmission topology of the U.S. power grid derived from publicly available data. The ability to study transmission-level power grid behavior is essential for modern power systems research. Analyses of congestion, transmission expansion, demand growth, and system resilience all depend on network models with realistic [&#8230;] The post Building realistic electric transmission grid dataset at scale: a pipeline from open dataset appeared first on Microsoft Research."
+    },
+    {
+      "title": "The Steam Controller’s reservation queue is open",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/924672/steam-controller-reservation-queue-buy",
+      "summary": "After quickly selling out of the Steam Controller on May 4th, Valve has launched a reservation system to ensure that you can get one without too much hassle. You may not get one as quickly as you'd like to, but at least you can now easily reserve the $99 controller. If your Steam account is [&#8230;]"
+    },
+    {
+      "title": "Amendment 56: D.6 APRA and D.7 SAT Final Text and Due Dates",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-56-d-6-apra-and-d-7-sat-final-text-and-due-dates/",
+      "summary": "D.6 Astrophysics Research and Analysis Program (APRA) solicits basic research proposals for investigations that are relevant to NASA&#8217;s programs in astronomy and astrophysics and includes research over the entire range of photons, gravitational waves, and particle astrophysics. D.7 Strategic Astrophysics Technology (SAT) is designed to support the maturation of key technologies for which feasibility has [&#8230;] The post Amendment 56: D.6 APRA and D.7 SAT Final Text and Due Dates appeared first on NASA Science."
+    },
+    {
+      "title": "World-leading climate centre takes Trump administration to court",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01501-z",
+      "summary": "Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01501-zUniversities that run the National Center for Atmospheric Research want to keep it from being dismantled."
+    },
+    {
+      "title": "Surge in fake citations uncovered by audit of 2.5 million biomedical science papers",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00748-w",
+      "summary": "Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-00748-wAn analysis of 97 million citations has found that rates of fabricated citations have climbed steeply since 2023."
+    },
+    {
+      "title": "I Am Artemis: Anton Kiriwas",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/missions/artemis/i-am-artemis-anton-kiriwas/",
+      "summary": "Listen to this audio excerpt from Anton Kiriwas, senior technical integration manager for NASA’s Exploration Ground Systems Program: When Anton Kiriwas first spotted an image of the Moon and Mars hanging over a job fair booth while in college, it captured his imagination, yet felt like a dream too distant to chase. He had no […] The post I Am Artemis: Anton Kiriwas appeared first on NASA Science."
+    },
+    {
+      "title": "Running Codex safely at OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/running-codex-safely",
+      "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-05-09T06:19:08.072049",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
