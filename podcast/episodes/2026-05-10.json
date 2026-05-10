@@ -1,0 +1,66 @@
+{
+  "guid": "2026-05-10",
+  "date": "2026-05-10T06:34:02.521497",
+  "title": "Forest Agency Cuts & Voyager’s Final Power Countdown",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 292.2105263157895,
+  "duration_formatted": "4:52",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-10.mp3",
+    "audio_size_bytes": 6711465,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-10/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-10/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-05-10.txt"
+  },
+  "stories": [
+    {
+      "title": "World’s largest forest research agency faces severe cutback by Trump administration",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01493-w",
+      "summary": "Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01493-wThe US Forest Service has proposed closing some three-quarters of its research sites in a move that has provoked widespread fear and uncertainty."
+    },
+    {
+      "title": "Best AI coding plan alternative to Claude and ChatGPT",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://news.ycombinator.com/item?id=48081266",
+      "summary": "With the lowering usage limit in Claude, I am thinking of jumping ship to Chinese AI, since the benchmark is already very near compared to Sonnet or Haiku 4.5 , but for a fraction of the price. I am not worried about where is my data ending up through, I am focused on performance and usage limit. I mostly use it for coding and research.However, I am currently deciding on which to use, and would love any recommendations from anyone that are using any or many of these AI,- GLM Coding Plan (Z AI): $18/month Lite Plan - BytePlus: $10 ModelArk Coding Plan - Kimi AI: $19/month Moderato Coding Plan - MiniMax: $20 Plus Standard PlanI would like to ask, is the performance good? Is it worth the value? And how is the usage limit? Also, if anyone have any good recommendation on AI plan that is only in Chinese language, I don’t mind too, as I can understand Chinese. Comments URL: https://news.ycombinator.com/item?id=48081266 Points: 4 # Comments: 2"
+    },
+    {
+      "title": "\"genesis mission (US Government)\" (Angela Collier on AI and research) [video]",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://www.youtube.com/watch?v=p6Ejmhwb8Sc",
+      "summary": "Article URL: https://www.youtube.com/watch?v=p6Ejmhwb8Sc Comments URL: https://news.ycombinator.com/item?id=48080668 Points: 2 # Comments: 0"
+    },
+    {
+      "title": "NASA's twin Voyager spacecraft are very low on power after nearly 50 years. How long can they keep going?",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/how-long-can-the-voyager-probes-keep-exploring-interstellar-space-nasa-gearing-up-for-big-bang-maneuver-to-boost-dwindling-power-levels",
+      "summary": "Voyager, the iconic twin spacecraft that NASA launched in 1977, are still flying in interstellar space. But their power is dwindling, and it's unclear how much longer they can last."
+    },
+    {
+      "title": "Radioactive rain and proving relativity: Books in brief",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01500-0",
+      "summary": "Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01500-0Andrew Robinson reviews five of the best science picks."
+    },
+    {
+      "title": "Parloa builds service agents customers want to talk to",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/parloa",
+      "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions."
+    },
+    {
+      "title": "Advancing voice intelligence with new models in the API",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+      "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-05-10T06:35:11.138575",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
