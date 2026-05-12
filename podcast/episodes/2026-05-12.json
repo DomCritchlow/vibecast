@@ -1,0 +1,66 @@
+{
+  "guid": "2026-05-12",
+  "date": "2026-05-12T06:38:42.268362",
+  "title": "Airborne DNA Insights & OpenAI’s Claude Mythos Rival",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 277.89473684210526,
+  "duration_formatted": "4:37",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-12.mp3",
+    "audio_size_bytes": 6810521,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-12/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-12/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-05-12.txt"
+  },
+  "stories": [
+    {
+      "title": "Audio long read: The air is full of DNA — here’s what scientists are using it for",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01522-8",
+      "summary": "Nature, Published online: 11 May 2026; doi:10.1038/d41586-026-01522-8Floating genetic material could give insights into ecosystem health, the presence of invasive species, and help researchers identify pathogens before they cause harm."
+    },
+    {
+      "title": "Elsevier vs Meta: first science publisher sues over scraped research papers",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01481-0",
+      "summary": "Nature, Published online: 11 May 2026; doi:10.1038/d41586-026-01481-0Science publishing giant Elsevier has joined a class-action lawsuit against Meta that alleges the reproduction of copyrighted works in developing the Llama AI model."
+    },
+    {
+      "title": "SocialReasoning-Bench: Measuring whether AI agents act in users’ best interests",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/",
+      "summary": "Using SocialReasoning Bench, we observed a stable pattern across models—agents execute competently, but fail to consistently improve the user’s position, even with explicit instructions to optimize for user interest. The post SocialReasoning-Bench: Measuring whether AI agents act in users’ best interests appeared first on Microsoft Research."
+    },
+    {
+      "title": "Starlink shuts down its GPS-style cheat code. Researchers may unlock it anyway.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/05/starlink-blocks-access-to-its-gps-alternative-ahead-of-spacex-ipo/",
+      "summary": "Shutdown of Starlink location feature won’t dampen interest in GPS alternatives."
+    },
+    {
+      "title": "OpenAI just released its answer to Claude Mythos",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+      "summary": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization's code and focus on possible attack paths, validate likely vulnerabilities, and then automate the detection of the higher [&#8230;]"
+    },
+    {
+      "title": "Google stopped a zero-day hack that it says was developed with AI",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
+      "summary": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI. According to a report from Google Threat Intelligence Group (GTIG), \"prominent cyber crime threat actors\" were planning to use the vulnerability for a \"mass exploitation event\" that would have allowed them to bypass two-factor authentication on an unnamed [&#8230;]"
+    },
+    {
+      "title": "Nicholas Houghton: Engineering Crew Safety for NASA’s Artemis Missions",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/nicholas-houghton-engineering-crew-safety-for-artemis-ii/",
+      "summary": "Nicholas Houghton always dreamed of working at NASA and one day becoming an astronaut. Today, he helps design systems that keep crews safe during missions aboard NASA’s Orion spacecraft, including the successful Artemis II mission around the Moon. After joining NASA as a Pathways intern, Houghton later became a full-time engineer on the Orion Crew Survival Systems (OCSS) […] The post Nicholas Houghton: Engineering Crew Safety for NASA’s Artemis Missions appeared first on NASA Science."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-05-12T06:39:47.517562",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

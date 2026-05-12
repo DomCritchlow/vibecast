@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 May 2026 06:35:11 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 06:39:47 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Airborne DNA Insights &amp; OpenAI’s Claude Mythos Rival</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Audio long read: The air is full of DNA — here’s what scientists are using it for
+   Source: Nature News
+2. Elsevier vs Meta: first science publisher sues over scraped research papers
+   Source: Nature News
+3. SocialReasoning-Bench: Measuring whether AI agents act in users’ best interests
+   Source: Microsoft Research Blog
+4. Starlink shuts down its GPS-style cheat code. Researchers may unlock it anyway.
+   Source: Ars Technica
+5. OpenAI just released its answer to Claude Mythos
+   Source: The Verge
+6. Google stopped a zero-day hack that it says was developed with AI
+   Source: The Verge
+7. Nicholas Houghton: Engineering Crew Safety for NASA’s Artemis Missions
+   Source: NASA Science
+
+REFERENCES:
+
+1. Audio long read: The air is full of DNA — here’s what scientists are using it for
+   https://www.nature.com/articles/d41586-026-01522-8
+
+2. Elsevier vs Meta: first science publisher sues over scraped research papers
+   https://www.nature.com/articles/d41586-026-01481-0
+
+3. SocialReasoning-Bench: Measuring whether AI agents act in users’ best interests
+   https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/
+
+4. Starlink shuts down its GPS-style cheat code. Researchers may unlock it anyway.
+   https://arstechnica.com/gadgets/2026/05/starlink-blocks-access-to-its-gps-alternative-ahead-of-spacex-ipo/
+
+5. OpenAI just released its answer to Claude Mythos
+   https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai
+
+6. Google stopped a zero-day hack that it says was developed with AI
+   https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped
+
+7. Nicholas Houghton: Engineering Crew Safety for NASA’s Artemis Missions
+   https://www.nasa.gov/centers-and-facilities/johnson/nicholas-houghton-engineering-crew-safety-for-artemis-ii/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-12/newspaper.pdf]]></description>
+      <pubDate>Tue, 12 May 2026 06:38:42 -0000</pubDate>
+      <guid isPermaLink="false">2026-05-12</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-12.mp3" length="6810521" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Audio long read: The air is full of DNA — here’s what scientists are using it for
+   Source: Nature News
+2. Elsevier vs Meta: first science publisher sues over scraped research papers
+   Source: Nature News
+3. SocialReasoning-Bench: Measuring whether AI agents act in users’ best interests
+   Source: Microsoft Research Blog
+4. Starlink shuts down its GPS-style cheat code. Researchers may unlock it anyway.
+   Source: Ars Technica
+5. OpenAI just released its answer to Claude Mythos
+   Source: The Verge
+6. Google stopped a zero-day hack that it says was developed with AI
+   Source: The Verge
+7. Nicholas Houghton: Engineering Crew Safety for NASA’s Artemis Missions
+   Source: NASA Science
+
+REFERENCES:
+
+1. Audio long read: The air is full of DNA — here’s what scientists are using it for
+   https://www.nature.com/articles/d41586-026-01522-8
+
+2. Elsevier vs Meta: first science publisher sues over scraped research papers
+   https://www.nature.com/articles/d41586-026-01481-0
+
+3. SocialReasoning-Bench: Measuring whether AI agents act in users’ best interests
+   https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/
+
+4. Starlink shuts down its GPS-style cheat code. Researchers may unlock it anyway.
+   https://arstechnica.com/gadgets/2026/05/starlink-blocks-access-to-its-gps-alternative-ahead-of-spacex-ipo/
+
+5. OpenAI just released its answer to Claude Mythos
+   https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai
+
+6. Google stopped a zero-day hack that it says was developed with AI
+   https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped
+
+7. Nicholas Houghton: Engineering Crew Safety for NASA’s Artemis Missions
+   https://www.nasa.gov/centers-and-facilities/johnson/nicholas-houghton-engineering-crew-safety-for-artemis-ii/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-12/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:37</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-12/episode-art.png"/>
+    </item>
     <item>
       <title>Forest Agency Cuts &amp; Voyager’s Final Power Countdown</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:38</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-12/episode-art.png"/>
-    </item>
-    <item>
-      <title>ChatGPT for Research &amp; Artemis II Re-Entry Updates</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Research with ChatGPT
-   Source: OpenAI News
-2. ChatGPT for research
-   Source: OpenAI News
-3. Show HN: HyperFlow – A self-improving agent framework built on LangGraph
-   Source: Hacker News (AI filtered)
-4. Human Perception and Performance Laboratory
-   Source: NASA Science
-5. Artemis II Flight Day 10: Live Re-Entry Updates
-   Source: NASA Science
-6. Author Correction: Multi-omic profiling reveals age-related immune dynamics in healthy adults
-   Source: Nature News
-7. How the butterfly got its name: Books in brief
-   Source: Nature News
-
-REFERENCES:
-
-1. Research with ChatGPT
-   https://openai.com/academy/search-and-deep-research
-
-2. ChatGPT for research
-   https://openai.com/academy/research
-
-3. Show HN: HyperFlow – A self-improving agent framework built on LangGraph
-   https://news.ycombinator.com/item?id=47727255
-
-4. Human Perception and Performance Laboratory
-   https://www.nasa.gov/human-systems-integration-division/human-performance/human-perception-and-performance-laboratory/
-
-5. Artemis II Flight Day 10: Live Re-Entry Updates
-   https://www.nasa.gov/blogs/missions/2026/04/10/artemis-ii-flight-day-10-re-entry-live-updates/
-
-6. Author Correction: Multi-omic profiling reveals age-related immune dynamics in healthy adults
-   https://www.nature.com/articles/s41586-026-10484-w
-
-7. How the butterfly got its name: Books in brief
-   https://www.nature.com/articles/d41586-026-01160-0
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-11/newspaper.pdf]]></description>
-      <pubDate>Sat, 11 Apr 2026 05:25:44 -0000</pubDate>
-      <guid isPermaLink="false">2026-04-11</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-11.mp3" length="5987308" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Research with ChatGPT
-   Source: OpenAI News
-2. ChatGPT for research
-   Source: OpenAI News
-3. Show HN: HyperFlow – A self-improving agent framework built on LangGraph
-   Source: Hacker News (AI filtered)
-4. Human Perception and Performance Laboratory
-   Source: NASA Science
-5. Artemis II Flight Day 10: Live Re-Entry Updates
-   Source: NASA Science
-6. Author Correction: Multi-omic profiling reveals age-related immune dynamics in healthy adults
-   Source: Nature News
-7. How the butterfly got its name: Books in brief
-   Source: Nature News
-
-REFERENCES:
-
-1. Research with ChatGPT
-   https://openai.com/academy/search-and-deep-research
-
-2. ChatGPT for research
-   https://openai.com/academy/research
-
-3. Show HN: HyperFlow – A self-improving agent framework built on LangGraph
-   https://news.ycombinator.com/item?id=47727255
-
-4. Human Perception and Performance Laboratory
-   https://www.nasa.gov/human-systems-integration-division/human-performance/human-perception-and-performance-laboratory/
-
-5. Artemis II Flight Day 10: Live Re-Entry Updates
-   https://www.nasa.gov/blogs/missions/2026/04/10/artemis-ii-flight-day-10-re-entry-live-updates/
-
-6. Author Correction: Multi-omic profiling reveals age-related immune dynamics in healthy adults
-   https://www.nature.com/articles/s41586-026-10484-w
-
-7. How the butterfly got its name: Books in brief
-   https://www.nature.com/articles/d41586-026-01160-0
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-11/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:15</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-11/episode-art.png"/>
     </item>
   </channel>
 </rss>
