@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 May 2026 06:39:47 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 06:52:49 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>NVIDIA Codex, GridSFM Power &amp; AI-Driven Antibiotic Hunt</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. How NVIDIA engineers and researchers build with Codex
+   Source: OpenAI News
+2. GridSFM: A new, small foundation model for the electric grid
+   Source: Microsoft Research Blog
+3. The hunt for the next antibiotics
+   Source: Nature News
+4. Pristine Antarctic ice records the Solar System’s travels
+   Source: Nature News
+5. What Parameter Golf taught us about AI-assisted research
+   Source: OpenAI News
+6. mimalloc: A new, high-performance, scalable memory allocator for the modern era
+   Source: Microsoft Research Blog
+7. The Download: a Nobel winner on AI, and the case for fixing everything
+   Source: MIT Technology Review
+
+REFERENCES:
+
+1. How NVIDIA engineers and researchers build with Codex
+   https://openai.com/index/nvidia
+
+2. GridSFM: A new, small foundation model for the electric grid
+   https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/
+
+3. The hunt for the next antibiotics
+   https://www.nature.com/articles/d41586-026-01424-9
+
+4. Pristine Antarctic ice records the Solar System’s travels
+   https://www.nature.com/articles/d41586-026-01505-9
+
+5. What Parameter Golf taught us about AI-assisted research
+   https://openai.com/index/what-parameter-golf-taught-us
+
+6. mimalloc: A new, high-performance, scalable memory allocator for the modern era
+   https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/
+
+7. The Download: a Nobel winner on AI, and the case for fixing everything
+   https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-14/newspaper.pdf]]></description>
+      <pubDate>Thu, 14 May 2026 06:47:22 -0000</pubDate>
+      <guid isPermaLink="false">2026-05-14</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-14.mp3" length="5545316" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. How NVIDIA engineers and researchers build with Codex
+   Source: OpenAI News
+2. GridSFM: A new, small foundation model for the electric grid
+   Source: Microsoft Research Blog
+3. The hunt for the next antibiotics
+   Source: Nature News
+4. Pristine Antarctic ice records the Solar System’s travels
+   Source: Nature News
+5. What Parameter Golf taught us about AI-assisted research
+   Source: OpenAI News
+6. mimalloc: A new, high-performance, scalable memory allocator for the modern era
+   Source: Microsoft Research Blog
+7. The Download: a Nobel winner on AI, and the case for fixing everything
+   Source: MIT Technology Review
+
+REFERENCES:
+
+1. How NVIDIA engineers and researchers build with Codex
+   https://openai.com/index/nvidia
+
+2. GridSFM: A new, small foundation model for the electric grid
+   https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/
+
+3. The hunt for the next antibiotics
+   https://www.nature.com/articles/d41586-026-01424-9
+
+4. Pristine Antarctic ice records the Solar System’s travels
+   https://www.nature.com/articles/d41586-026-01505-9
+
+5. What Parameter Golf taught us about AI-assisted research
+   https://openai.com/index/what-parameter-golf-taught-us
+
+6. mimalloc: A new, high-performance, scalable memory allocator for the modern era
+   https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/
+
+7. The Download: a Nobel winner on AI, and the case for fixing everything
+   https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-14/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:08</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-14/episode-art.png"/>
+    </item>
     <item>
       <title>Airborne DNA Insights &amp; OpenAI’s Claude Mythos Rival</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:26</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-13/episode-art.png"/>
-    </item>
-    <item>
-      <title>AI Fails Soccer Bets &amp; Artemis II Moon Mission Insights</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. AI models are terrible at betting on soccer—especially xAI Grok
-   Source: Ars Technica
-2. You don’t have to spend more than $50 on a great USB-C dock for your Switch 2
-   Source: The Verge
-3. How the Internet Broke Everyone’s Bullshit Detectors
-   Source: Wired
-4. Catalog of AI Knowledge Retrieval, Memory and RAG Systems
-   Source: Hacker News (AI filtered)
-5. Behind the scenes with Artemis II’s scientists during the historic Moon fly-by
-   Source: Nature News
-6. Homelessness of the heart
-   Source: Nature News
-7. Getting started with ChatGPT
-   Source: OpenAI News
-
-REFERENCES:
-
-1. AI models are terrible at betting on soccer—especially xAI Grok
-   https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/
-
-2. You don’t have to spend more than $50 on a great USB-C dock for your Switch 2
-   https://www.theverge.com/gadgets/907645/nintendo-switch-2-genki-jsaux-usb-c-dock-hands-on
-
-3. How the Internet Broke Everyone’s Bullshit Detectors
-   https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/
-
-4. Catalog of AI Knowledge Retrieval, Memory and RAG Systems
-   https://github.com/machinarii/ai-knowledge-systems-catalog
-
-5. Behind the scenes with Artemis II’s scientists during the historic Moon fly-by
-   https://www.nature.com/articles/d41586-026-01208-1
-
-6. Homelessness of the heart
-   https://www.nature.com/articles/d41586-026-01063-0
-
-7. Getting started with ChatGPT
-   https://openai.com/academy/getting-started
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-12/newspaper.pdf]]></description>
-      <pubDate>Sun, 12 Apr 2026 05:54:57 -0000</pubDate>
-      <guid isPermaLink="false">2026-04-12</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-12.mp3" length="6619305" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. AI models are terrible at betting on soccer—especially xAI Grok
-   Source: Ars Technica
-2. You don’t have to spend more than $50 on a great USB-C dock for your Switch 2
-   Source: The Verge
-3. How the Internet Broke Everyone’s Bullshit Detectors
-   Source: Wired
-4. Catalog of AI Knowledge Retrieval, Memory and RAG Systems
-   Source: Hacker News (AI filtered)
-5. Behind the scenes with Artemis II’s scientists during the historic Moon fly-by
-   Source: Nature News
-6. Homelessness of the heart
-   Source: Nature News
-7. Getting started with ChatGPT
-   Source: OpenAI News
-
-REFERENCES:
-
-1. AI models are terrible at betting on soccer—especially xAI Grok
-   https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/
-
-2. You don’t have to spend more than $50 on a great USB-C dock for your Switch 2
-   https://www.theverge.com/gadgets/907645/nintendo-switch-2-genki-jsaux-usb-c-dock-hands-on
-
-3. How the Internet Broke Everyone’s Bullshit Detectors
-   https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/
-
-4. Catalog of AI Knowledge Retrieval, Memory and RAG Systems
-   https://github.com/machinarii/ai-knowledge-systems-catalog
-
-5. Behind the scenes with Artemis II’s scientists during the historic Moon fly-by
-   https://www.nature.com/articles/d41586-026-01208-1
-
-6. Homelessness of the heart
-   https://www.nature.com/articles/d41586-026-01063-0
-
-7. Getting started with ChatGPT
-   https://openai.com/academy/getting-started
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-12/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:38</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-12/episode-art.png"/>
     </item>
   </channel>
 </rss>

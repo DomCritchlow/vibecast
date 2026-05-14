@@ -1,0 +1,66 @@
+{
+  "guid": "2026-05-14",
+  "date": "2026-05-14T06:47:22.746351",
+  "title": "NVIDIA Codex, GridSFM Power & AI-Driven Antibiotic Hunt",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 248.84210526315786,
+  "duration_formatted": "4:08",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-14.mp3",
+    "audio_size_bytes": 5545316,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-14/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-14/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-05-14.txt"
+  },
+  "stories": [
+    {
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/nvidia",
+      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments."
+    },
+    {
+      "title": "GridSFM: A new, small foundation model for the electric grid",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/",
+      "summary": "Introducing GridSFM, a small foundation model that can predict AC optimal power flow in milliseconds, boosting efficiency and unlocking cost savings. Learn how GridSFM gives grid operators direct visibility into congestion, stability, and system health. The post GridSFM: A new, small foundation model for the electric grid appeared first on Microsoft Research."
+    },
+    {
+      "title": "The hunt for the next antibiotics",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01424-9",
+      "summary": "Nature, Published online: 13 May 2026; doi:10.1038/d41586-026-01424-9To battle antibiotic resistance, researchers are leaving no stone unturned, looking at folk traditions and harnessing AI to find new antibiotics."
+    },
+    {
+      "title": "Pristine Antarctic ice records the Solar System’s travels",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01505-9",
+      "summary": "Nature, Published online: 13 May 2026; doi:10.1038/d41586-026-01505-9Rare isotopes hint at when the Solar System entered the Local Interstellar Cloud."
+    },
+    {
+      "title": "What Parameter Golf taught us about AI-assisted research",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints."
+    },
+    {
+      "title": "mimalloc: A new, high-performance, scalable memory allocator for the modern era",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/",
+      "summary": "mimalloc is an open-source, modern, scalable memory allocator that is a drop-in replacement for malloc and free. It is relatively small (~12K lines), with clear internal data structures, and is easy to build and integrate into other projects. It provides bounded worst-case allocation times (up to OS primitives), bounded space overhead, low internal fragmentation, and minimal contention by relying almost exclusively on atomic operations. The post mimalloc: A new, high-performance, scalable memory allocator for the modern era appeared first on Microsoft Research."
+    },
+    {
+      "title": "The Download: a Nobel winner on AI, and the case for fixing everything",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Three things in AI to watch, according to a Nobel-winning economist A few months before he won the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned&#8230;"
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-05-14T06:52:49.720686",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
