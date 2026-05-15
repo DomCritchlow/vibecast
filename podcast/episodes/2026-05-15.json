@@ -1,0 +1,66 @@
+{
+  "guid": "2026-05-15",
+  "date": "2026-05-15T06:56:54.595557",
+  "title": "AI Sovereignty & Super El Niño Science Insights",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 337.6842105263158,
+  "duration_formatted": "5:37",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-15.mp3",
+    "audio_size_bytes": 2273992,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-15/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-15/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-05-15.txt"
+  },
+  "stories": [
+    {
+      "title": "Establishing AI and data sovereignty in the age of autonomous systems",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+      "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party AI models, and you will get powerful results. But your data passes through systems you do not own, under governance you do not set. The protections you rely&#8230;"
+    },
+    {
+      "title": "Are we really headed for a ‘super’ El Niño? What the science says",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01538-0",
+      "summary": "Nature, Published online: 14 May 2026; doi:10.1038/d41586-026-01538-0An El Niño is coming, models say, but Nature spoke to researchers about when and how we’ll know its intensity."
+    },
+    {
+      "title": "Hallucinated citations highest in social sciences preprints site",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01545-1",
+      "summary": "Nature, Published online: 14 May 2026; doi:10.1038/d41586-026-01545-1More than 140,000 fake citations across four research repositories were identified in papers and preprints published in 2025 alone."
+    },
+    {
+      "title": "Advancing AI for materials with MatterSim: experimental synthesis, faster simulation, and multi-task models",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models/",
+      "summary": "MatterSim is expanding what AI can do for materials science—from faster large-scale simulations to MatterSim-MT, a new multi-task model for simulating properties beyond potential energy surfaces alone. The post Advancing AI for materials with MatterSim: experimental synthesis, faster simulation, and multi-task models appeared first on Microsoft Research."
+    },
+    {
+      "title": "Data readiness for agentic AI in financial services",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+      "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second. As a result, the success of agentic AI in financial services depends less on the sophistication of the system and more on&#8230;"
+    },
+    {
+      "title": "Leaked images reveal Xbox Elite 3 controller with mysterious new buttons",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/930902/microsoft-xbox-elite-3-controller-leak-images",
+      "summary": "Hours after a smaller Xbox Cloud Gaming controller appeared online, Brazil's Anatel regulator has also accidentally published images of what appears to be Microsoft's upcoming Xbox Elite 3 controller. Tecnoblog has posted images that show the successor to the Elite 2 controller, with an interchangeable D-Pad, paddles, and two new mysterious buttons. The Elite 3 [&#8230;]"
+    },
+    {
+      "title": "Linux devs are fighting the new age-gated internet",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/930573/age-verification-bills-linux-open-source",
+      "summary": "In January, Colorado lawmakers introduced a proposal to make operating systems collect users' ages and pass them to app developers. The bill, SB26-051, had clearly been designed for commercial platforms like iOS and Android - one of numerous plans to age-gate the internet through users' devices. It was intended to provide information that would let [&#8230;]"
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-05-15T07:02:46.493938",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

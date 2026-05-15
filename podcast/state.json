@@ -493,7 +493,14 @@
     "https://www.nature.com/articles/d41586-026-01505-9",
     "https://openai.com/index/what-parameter-golf-taught-us",
     "https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/",
-    "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/"
+    "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/",
+    "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+    "https://www.nature.com/articles/d41586-026-01538-0",
+    "https://www.nature.com/articles/d41586-026-01545-1",
+    "https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models/",
+    "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+    "https://www.theverge.com/news/930902/microsoft-xbox-elite-3-controller-leak-images",
+    "https://www.theverge.com/tech/930573/age-verification-bills-linux-open-source"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -989,7 +996,14 @@
     "https://www.nature.com/articles/d41586-026-01505-9": "2026-05-14T06:52:49.741523",
     "https://openai.com/index/what-parameter-golf-taught-us": "2026-05-14T06:52:49.741523",
     "https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/": "2026-05-14T06:52:49.741523",
-    "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/": "2026-05-14T06:52:49.741523"
+    "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/": "2026-05-14T06:52:49.741523",
+    "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/": "2026-05-15T07:02:46.514962",
+    "https://www.nature.com/articles/d41586-026-01538-0": "2026-05-15T07:02:46.514962",
+    "https://www.nature.com/articles/d41586-026-01545-1": "2026-05-15T07:02:46.514962",
+    "https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models/": "2026-05-15T07:02:46.514962",
+    "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/": "2026-05-15T07:02:46.514962",
+    "https://www.theverge.com/news/930902/microsoft-xbox-elite-3-controller-leak-images": "2026-05-15T07:02:46.514962",
+    "https://www.theverge.com/tech/930573/age-verification-bills-linux-open-source": "2026-05-15T07:02:46.514962"
   },
-  "last_run": "2026-05-14T06:52:49.741523"
+  "last_run": "2026-05-15T07:02:46.514962"
 }
