@@ -1,0 +1,66 @@
+{
+  "guid": "2026-05-16",
+  "date": "2026-05-16T06:22:41.515056",
+  "title": "Bespoke DNA Vaccine & AI Ethics Shake Science World",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 329.6842105263158,
+  "duration_formatted": "5:29",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-16.mp3",
+    "audio_size_bytes": 7775380,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-16/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-16/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-05-16.txt"
+  },
+  "stories": [
+    {
+      "title": "Bespoke DNA vaccine offers hope for treatment of notorious brain cancer",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01503-x",
+      "summary": "Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01503-xThe personalized treatment encourages the immune system to attack the tumours called glioblastomas."
+    },
+    {
+      "title": "Running a farm, pursuing a research career: what’s the difference?",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01391-1",
+      "summary": "Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01391-1Brandon Brown sees parallels between life as an academic and tending a citrus grove following his move to the country."
+    },
+    {
+      "title": "The world is on track to miss its health targets",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/05/15/1137270/the-world-is-on-track-to-miss-its-health-targets/",
+      "summary": "Every year the World Health Organization publishes a global health statistics report. It features the numbers behind world health trends and, importantly, assesses whether we’re on track to reach ambitious goals set in 2015. It’s a bit like a health grade. The 2026 report was published on Wednesday. And the results aren’t looking brilliant. While&#8230;"
+    },
+    {
+      "title": "The Download: deepfake porn’s stolen bodies and AI sharing private numbers",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The shock of seeing your body used in deepfake porn When Jennifer got a research job in 2023, she ran her new professional headshot through a facial recognition program. She wanted&#8230;"
+    },
+    {
+      "title": "ArXiv will ban researchers who upload papers full of AI slop",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
+      "summary": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated references or \"meta-comments\" left by an LLM, authors will be [&#8230;]"
+    },
+    {
+      "title": "Google updates its spam rules to include attempts to ‘manipulate’ AI",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy",
+      "summary": "Google updated its spam policy to mark attempts to \"manipulate\" its AI model in search results as spam, including results in AI Overview or AI Mode in Search, as Search Engine Land reports: \"In the context of Google Search, spam refers to techniques used to deceive users or manipulate our Search systems into featuring content [&#8230;]"
+    },
+    {
+      "title": "EY retracts study after researchers discover AI hallucinations",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://www.ft.com/content/a61cbcae-95e4-4449-86e1-ef40fb306f4e",
+      "summary": "Article URL: https://www.ft.com/content/a61cbcae-95e4-4449-86e1-ef40fb306f4e Comments URL: https://news.ycombinator.com/item?id=48157309 Points: 1 # Comments: 1"
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-05-16T06:23:58.258215",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

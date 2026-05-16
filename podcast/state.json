@@ -500,7 +500,14 @@
     "https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models/",
     "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
     "https://www.theverge.com/news/930902/microsoft-xbox-elite-3-controller-leak-images",
-    "https://www.theverge.com/tech/930573/age-verification-bills-linux-open-source"
+    "https://www.theverge.com/tech/930573/age-verification-bills-linux-open-source",
+    "https://www.nature.com/articles/d41586-026-01503-x",
+    "https://www.nature.com/articles/d41586-026-01391-1",
+    "https://www.technologyreview.com/2026/05/15/1137270/the-world-is-on-track-to-miss-its-health-targets/",
+    "https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/",
+    "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
+    "https://www.theverge.com/tech/931416/google-ai-search-spam-policy",
+    "https://www.ft.com/content/a61cbcae-95e4-4449-86e1-ef40fb306f4e"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -1003,7 +1010,14 @@
     "https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models/": "2026-05-15T07:02:46.514962",
     "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/": "2026-05-15T07:02:46.514962",
     "https://www.theverge.com/news/930902/microsoft-xbox-elite-3-controller-leak-images": "2026-05-15T07:02:46.514962",
-    "https://www.theverge.com/tech/930573/age-verification-bills-linux-open-source": "2026-05-15T07:02:46.514962"
+    "https://www.theverge.com/tech/930573/age-verification-bills-linux-open-source": "2026-05-15T07:02:46.514962",
+    "https://www.nature.com/articles/d41586-026-01503-x": "2026-05-16T06:23:58.279279",
+    "https://www.nature.com/articles/d41586-026-01391-1": "2026-05-16T06:23:58.279279",
+    "https://www.technologyreview.com/2026/05/15/1137270/the-world-is-on-track-to-miss-its-health-targets/": "2026-05-16T06:23:58.279279",
+    "https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/": "2026-05-16T06:23:58.279279",
+    "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers": "2026-05-16T06:23:58.279279",
+    "https://www.theverge.com/tech/931416/google-ai-search-spam-policy": "2026-05-16T06:23:58.279279",
+    "https://www.ft.com/content/a61cbcae-95e4-4449-86e1-ef40fb306f4e": "2026-05-16T06:23:58.279279"
   },
-  "last_run": "2026-05-15T07:02:46.514962"
+  "last_run": "2026-05-16T06:23:58.279279"
 }
