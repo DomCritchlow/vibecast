@@ -1,0 +1,66 @@
+{
+  "guid": "2026-05-18",
+  "date": "2026-05-18T08:05:42.062427",
+  "title": "Revolutionary Cancer Therapy & Moon Base Designs Unveiled",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 296.8421052631579,
+  "duration_formatted": "4:56",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-18.mp3",
+    "audio_size_bytes": 6755351,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-18/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-18/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-05-18.txt"
+  },
+  "stories": [
+    {
+      "title": "A revolutionary cancer treatment could transform autoimmune disease",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/",
+      "summary": "Researchers are testing CAR T cell therapy as a way to reset the immune system."
+    },
+    {
+      "title": "Microsoft is retiring Teams’ Together Mode",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/932215/microsoft-teams-together-mode",
+      "summary": "Microsoft launched Teams' Together Mode during the pandemic to give the illusion of a bunch of people sitting in a conference room together, even if they were really sitting at home without pants on. But times have changed, and it's now being retired in favor of a more simplified Teams experience. The feature used AI [&#8230;]"
+    },
+    {
+      "title": "Moon Base Renderings",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/gallery/moon-base-renderings/",
+      "summary": "Explore a gallery of imagery related to NASA’s Moon Base initiative, including artist’s renderings of lunar surface operations, habitats, robotic systems, infrastructure, and future exploration activities near the lunar South Pole. The post Moon Base Renderings appeared first on NASA Science."
+    },
+    {
+      "title": "How the Bird Eye Was Pushed to an Evolutionary Extreme",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/",
+      "summary": "The bird retina is one of the most energetically expensive tissues in the animal kingdom, yet it doesn’t use the energy advantage of oxygen. New research finally explains how this is possible. The post How the Bird Eye Was Pushed to an Evolutionary Extreme first appeared on Quanta Magazine"
+    },
+    {
+      "title": "Even mild blows to the head disrupt the microbiome",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01504-w",
+      "summary": "Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01504-wSome bacterial species became less abundant in the guts of American football players as the season progressed."
+    },
+    {
+      "title": "Exclusive: NIH ousts infectious-disease leaders as COVID scientists face US charges",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01558-w",
+      "summary": "Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01558-wEight of the top ten officials at the US National Institute of Allergy and Infectious Diseases have now been pushed out since President Donald Trump took office."
+    },
+    {
+      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+      "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-05-18T08:06:52.330429",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

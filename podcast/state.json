@@ -514,7 +514,14 @@
     "https://www.wired.com/gallery/best-indoor-gardening-systems/",
     "https://science.nasa.gov/blogs/clarreo-pathfinder/2026/05/15/nasa-calibration-instrument-launches-to-international-space-station/",
     "https://www.nasa.gov/blogs/spacestation/2026/05/15/spacex-dragon-lifts-off-to-resupply-expedition-74-crew/",
-    "https://www.space.com/space-exploration/asteroid-comet-missions/nasas-psyche-spacecraft-is-flying-to-a-metal-asteroid-so-why-did-it-just-visit-mars"
+    "https://www.space.com/space-exploration/asteroid-comet-missions/nasas-psyche-spacecraft-is-flying-to-a-metal-asteroid-so-why-did-it-just-visit-mars",
+    "https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/",
+    "https://www.theverge.com/tech/932215/microsoft-teams-together-mode",
+    "https://www.nasa.gov/gallery/moon-base-renderings/",
+    "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/",
+    "https://www.nature.com/articles/d41586-026-01504-w",
+    "https://www.nature.com/articles/d41586-026-01558-w",
+    "https://openai.com/index/malta-chatgpt-plus-partnership"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -1031,7 +1038,14 @@
     "https://www.wired.com/gallery/best-indoor-gardening-systems/": "2026-05-17T06:47:28.808141",
     "https://science.nasa.gov/blogs/clarreo-pathfinder/2026/05/15/nasa-calibration-instrument-launches-to-international-space-station/": "2026-05-17T06:47:28.808141",
     "https://www.nasa.gov/blogs/spacestation/2026/05/15/spacex-dragon-lifts-off-to-resupply-expedition-74-crew/": "2026-05-17T06:47:28.808141",
-    "https://www.space.com/space-exploration/asteroid-comet-missions/nasas-psyche-spacecraft-is-flying-to-a-metal-asteroid-so-why-did-it-just-visit-mars": "2026-05-17T06:47:28.808141"
+    "https://www.space.com/space-exploration/asteroid-comet-missions/nasas-psyche-spacecraft-is-flying-to-a-metal-asteroid-so-why-did-it-just-visit-mars": "2026-05-17T06:47:28.808141",
+    "https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/": "2026-05-18T08:06:52.351477",
+    "https://www.theverge.com/tech/932215/microsoft-teams-together-mode": "2026-05-18T08:06:52.351477",
+    "https://www.nasa.gov/gallery/moon-base-renderings/": "2026-05-18T08:06:52.351477",
+    "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/": "2026-05-18T08:06:52.351477",
+    "https://www.nature.com/articles/d41586-026-01504-w": "2026-05-18T08:06:52.351477",
+    "https://www.nature.com/articles/d41586-026-01558-w": "2026-05-18T08:06:52.351477",
+    "https://openai.com/index/malta-chatgpt-plus-partnership": "2026-05-18T08:06:52.351477"
   },
-  "last_run": "2026-05-17T06:47:28.808141"
+  "last_run": "2026-05-18T08:06:52.351477"
 }
