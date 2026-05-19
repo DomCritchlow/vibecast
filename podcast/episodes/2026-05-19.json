@@ -1,0 +1,66 @@
+{
+  "guid": "2026-05-19",
+  "date": "2026-05-19T07:48:22.315024",
+  "title": "Criminal Minds & Walmart Tablets Launch & Stardust Secrets",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 317.0526315789474,
+  "duration_formatted": "5:17",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-19.mp3",
+    "audio_size_bytes": 7347181,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-19/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-19/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-05-19.txt"
+  },
+  "stories": [
+    {
+      "title": "Criminals are made, not born: how when you live shapes whether you will break the law",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01556-y",
+      "summary": "Nature, Published online: 18 May 2026; doi:10.1038/d41586-026-01556-yAn analysis of what makes young people more likely to commit crimes tears down the influential assumption that character is the main factor."
+    },
+    {
+      "title": "Walmart launches new budget-friendly Android tablets starting at $97",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/932642/walmart-onn-new-core-pro-kids-tablets",
+      "summary": "Walmart's Onn brand just launched a whole line of budget-friendly Android tablets that, all together, cost less in total than a single iPad Pro. As spotted by 9to5Google, the six new tablets ship with Android 16 and all but one cost less than $200. The little Onn Core 7 is the most affordable of the [&#8230;]"
+    },
+    {
+      "title": "Crew Unloads Dragon and Begins New Space Experiments",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/05/18/crew-unloads-dragon-and-begins-new-space-experiments/",
+      "summary": "New science experiments are getting underway aboard the International Space Station after a SpaceX Dragon spacecraft delivered about 6,500 pounds of cargo on Sunday, May 17. The Expedition 74 crew spent Monday unloading the new supplies, kicking off new research, and gearing up for a spacewalk. The post Crew Unloads Dragon and Begins New Space Experiments appeared first on NASA Science."
+    },
+    {
+      "title": "HLS Vegetation Indices",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/mission/landsat/hls-vegetation-indices/",
+      "summary": "In this explainer, each vegetation index includes a visualization, an example application, and a description of the index that highlights how HLS’s increased temporal revisit empowers new research. The post HLS Vegetation Indices appeared first on NASA Science."
+    },
+    {
+      "title": "Scientists found stardust trapped in Antarctic ice. What could it tell us about our solar system?",
+      "source": "Space.com",
+      "url": "https://www.space.com/science/scientists-found-stardust-trapped-in-antarctic-ice-what-could-it-tell-us-about-our-solar-system",
+      "summary": "\"This dust can penetrate the shielding of the solar system and end up on Earth.\""
+    },
+    {
+      "title": "Vega C rocket launches European-Chinese space weather satellite to orbit",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/european-chinese-space-weather-mission-smile-launch",
+      "summary": "A Vega C rocket launched the European-Chinese SMILE space weather mission to orbit on Monday night (May 18)."
+    },
+    {
+      "title": "Publisher Correction: Microbiota-induced T cell plasticity enables immune-mediated tumour control",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10649-7",
+      "summary": "Nature, Published online: 18 May 2026; doi:10.1038/s41586-026-10649-7Publisher Correction: Microbiota-induced T cell plasticity enables immune-mediated tumour control"
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-05-19T07:49:35.360689",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

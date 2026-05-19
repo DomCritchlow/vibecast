@@ -521,7 +521,14 @@
     "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/",
     "https://www.nature.com/articles/d41586-026-01504-w",
     "https://www.nature.com/articles/d41586-026-01558-w",
-    "https://openai.com/index/malta-chatgpt-plus-partnership"
+    "https://openai.com/index/malta-chatgpt-plus-partnership",
+    "https://www.nature.com/articles/d41586-026-01556-y",
+    "https://www.theverge.com/tech/932642/walmart-onn-new-core-pro-kids-tablets",
+    "https://www.nasa.gov/blogs/spacestation/2026/05/18/crew-unloads-dragon-and-begins-new-space-experiments/",
+    "https://science.nasa.gov/mission/landsat/hls-vegetation-indices/",
+    "https://www.space.com/science/scientists-found-stardust-trapped-in-antarctic-ice-what-could-it-tell-us-about-our-solar-system",
+    "https://www.space.com/space-exploration/launches-spacecraft/european-chinese-space-weather-mission-smile-launch",
+    "https://www.nature.com/articles/s41586-026-10649-7"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -1045,7 +1052,14 @@
     "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/": "2026-05-18T08:06:52.351477",
     "https://www.nature.com/articles/d41586-026-01504-w": "2026-05-18T08:06:52.351477",
     "https://www.nature.com/articles/d41586-026-01558-w": "2026-05-18T08:06:52.351477",
-    "https://openai.com/index/malta-chatgpt-plus-partnership": "2026-05-18T08:06:52.351477"
+    "https://openai.com/index/malta-chatgpt-plus-partnership": "2026-05-18T08:06:52.351477",
+    "https://www.nature.com/articles/d41586-026-01556-y": "2026-05-19T07:49:35.381446",
+    "https://www.theverge.com/tech/932642/walmart-onn-new-core-pro-kids-tablets": "2026-05-19T07:49:35.381446",
+    "https://www.nasa.gov/blogs/spacestation/2026/05/18/crew-unloads-dragon-and-begins-new-space-experiments/": "2026-05-19T07:49:35.381446",
+    "https://science.nasa.gov/mission/landsat/hls-vegetation-indices/": "2026-05-19T07:49:35.381446",
+    "https://www.space.com/science/scientists-found-stardust-trapped-in-antarctic-ice-what-could-it-tell-us-about-our-solar-system": "2026-05-19T07:49:35.381446",
+    "https://www.space.com/space-exploration/launches-spacecraft/european-chinese-space-weather-mission-smile-launch": "2026-05-19T07:49:35.381446",
+    "https://www.nature.com/articles/s41586-026-10649-7": "2026-05-19T07:49:35.381446"
   },
-  "last_run": "2026-05-18T08:06:52.351477"
+  "last_run": "2026-05-19T07:49:35.381446"
 }
