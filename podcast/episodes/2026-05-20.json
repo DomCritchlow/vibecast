@@ -1,0 +1,66 @@
+{
+  "guid": "2026-05-20",
+  "date": "2026-05-20T07:45:34.000548",
+  "title": "AI Teams Accelerate Research & Project Genie Simulates Re...",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 353.2631578947368,
+  "duration_formatted": "5:53",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-20.mp3",
+    "audio_size_bytes": 8551530,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-20/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-20/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-05-20.txt"
+  },
+  "stories": [
+    {
+      "title": "Teams of AI agents boost speed of research",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01596-4",
+      "summary": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01596-4Systems can generate hypotheses, interpret data and suggest ways to develop medicines."
+    },
+    {
+      "title": "A multi-agent system for automating scientific discovery",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10652-y",
+      "summary": "Nature, Published online: 19 May 2026; doi:10.1038/s41586-026-10652-yA multi-agent system for automating scientific discovery"
+    },
+    {
+      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/advancing-content-provenance",
+      "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media."
+    },
+    {
+      "title": "Simulate real-world places with Project Genie and Street View",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+      "summary": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View."
+    },
+    {
+      "title": "Opening new paths in aging research",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/opening-new-paths-in-aging-research/",
+      "summary": "Calico Life Sciences uses Co-Scientist to connect scattered findings and generate new leads in aging research."
+    },
+    {
+      "title": "Understanding the modern cybercrime landscape",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/",
+      "summary": "Throughout 2025, HPE observed significant changes in how cybercriminals operate. Analyzing real-world threats, our HPE Threat Labs highlighted an industrialization of the cyber criminals’ methods in its new In the Wild Report, enabling greater scale, speed and structure in their campaigns. They typically use automation and AI to exploit longstanding vulnerabilities, and many have adopted&#8230;"
+    },
+    {
+      "title": "Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/05/19/1137471/colossal-biosciences-is-growing-chickens-in-a-3d-printed-container/",
+      "summary": "The baby chicks were shifting and starting to pip—or trying to hatch. But not from an egg.&#160; Instead, these chickens were growing inside transparent 3D-printed plastic cups at the Dallas headquarters of Colossal Biosciences. The biotech company today claimed it has developed a “fully artificial egg” as part of its effort to resurrect extinct avian&#8230;"
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-05-20T07:47:34.504334",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

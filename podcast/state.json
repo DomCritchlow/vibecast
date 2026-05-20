@@ -528,7 +528,14 @@
     "https://science.nasa.gov/mission/landsat/hls-vegetation-indices/",
     "https://www.space.com/science/scientists-found-stardust-trapped-in-antarctic-ice-what-could-it-tell-us-about-our-solar-system",
     "https://www.space.com/space-exploration/launches-spacecraft/european-chinese-space-weather-mission-smile-launch",
-    "https://www.nature.com/articles/s41586-026-10649-7"
+    "https://www.nature.com/articles/s41586-026-10649-7",
+    "https://www.nature.com/articles/d41586-026-01596-4",
+    "https://www.nature.com/articles/s41586-026-10652-y",
+    "https://openai.com/index/advancing-content-provenance",
+    "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+    "https://deepmind.google/blog/opening-new-paths-in-aging-research/",
+    "https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/",
+    "https://www.technologyreview.com/2026/05/19/1137471/colossal-biosciences-is-growing-chickens-in-a-3d-printed-container/"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -1059,7 +1066,14 @@
     "https://science.nasa.gov/mission/landsat/hls-vegetation-indices/": "2026-05-19T07:49:35.381446",
     "https://www.space.com/science/scientists-found-stardust-trapped-in-antarctic-ice-what-could-it-tell-us-about-our-solar-system": "2026-05-19T07:49:35.381446",
     "https://www.space.com/space-exploration/launches-spacecraft/european-chinese-space-weather-mission-smile-launch": "2026-05-19T07:49:35.381446",
-    "https://www.nature.com/articles/s41586-026-10649-7": "2026-05-19T07:49:35.381446"
+    "https://www.nature.com/articles/s41586-026-10649-7": "2026-05-19T07:49:35.381446",
+    "https://www.nature.com/articles/d41586-026-01596-4": "2026-05-20T07:47:34.524957",
+    "https://www.nature.com/articles/s41586-026-10652-y": "2026-05-20T07:47:34.524957",
+    "https://openai.com/index/advancing-content-provenance": "2026-05-20T07:47:34.524957",
+    "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/": "2026-05-20T07:47:34.524957",
+    "https://deepmind.google/blog/opening-new-paths-in-aging-research/": "2026-05-20T07:47:34.524957",
+    "https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/": "2026-05-20T07:47:34.524957",
+    "https://www.technologyreview.com/2026/05/19/1137471/colossal-biosciences-is-growing-chickens-in-a-3d-printed-container/": "2026-05-20T07:47:34.524957"
   },
-  "last_run": "2026-05-19T07:49:35.381446"
+  "last_run": "2026-05-20T07:47:34.524957"
 }
