@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 May 2026 07:47:34 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 07:57:12 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>NASA AI Tracks Algae &amp; Neptune’s Moon Mystery Unveiled</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. NASA-developed AI Could Help Track Harmful Algae
+   Source: NASA Science
+2. AI ‘scientists’ promise to accelerate research — how do they work?
+   Source: Nature News
+3. Where did Neptune's mysterious moon Nereid come from? It may be the only survivor of the planet's violent history
+   Source: Space.com
+4. Nearly half of the world’s Nature Index chemistry research is now done in China
+   Source: Nature News
+5. Show HN: Asciidia – LLM-Powered Game
+   Source: Hacker News (AI filtered)
+6. NASA Announces Winners in University Aeronautics Competition
+   Source: NASA Science
+7. Scientists find a hidden route to the moon that saves fuel
+   Source: Space.com
+
+REFERENCES:
+
+1. NASA-developed AI Could Help Track Harmful Algae
+   https://www.nasa.gov/science-research/earth-science/nasa-developed-ai-could-help-track-harmful-algae/
+
+2. AI ‘scientists’ promise to accelerate research — how do they work?
+   https://www.nature.com/articles/d41586-026-01627-0
+
+3. Where did Neptune's mysterious moon Nereid come from? It may be the only survivor of the planet's violent history
+   https://www.space.com/astronomy/neptune/where-did-neptunes-mysterious-moon-nereid-come-from-it-may-be-the-only-survivor-of-the-planets-violent-history
+
+4. Nearly half of the world’s Nature Index chemistry research is now done in China
+   https://www.nature.com/articles/d41586-026-00431-0
+
+5. Show HN: Asciidia – LLM-Powered Game
+   https://asciidia.com
+
+6. NASA Announces Winners in University Aeronautics Competition
+   https://www.nasa.gov/aeronautics/nasa-announces-winners-in-university-aeronautics-competition/
+
+7. Scientists find a hidden route to the moon that saves fuel
+   https://www.space.com/astronomy/moon/scientists-find-a-hidden-route-to-the-moon-that-saves-fuel
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-21/newspaper.pdf]]></description>
+      <pubDate>Thu, 21 May 2026 07:56:06 -0000</pubDate>
+      <guid isPermaLink="false">2026-05-21</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-21.mp3" length="5801734" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. NASA-developed AI Could Help Track Harmful Algae
+   Source: NASA Science
+2. AI ‘scientists’ promise to accelerate research — how do they work?
+   Source: Nature News
+3. Where did Neptune's mysterious moon Nereid come from? It may be the only survivor of the planet's violent history
+   Source: Space.com
+4. Nearly half of the world’s Nature Index chemistry research is now done in China
+   Source: Nature News
+5. Show HN: Asciidia – LLM-Powered Game
+   Source: Hacker News (AI filtered)
+6. NASA Announces Winners in University Aeronautics Competition
+   Source: NASA Science
+7. Scientists find a hidden route to the moon that saves fuel
+   Source: Space.com
+
+REFERENCES:
+
+1. NASA-developed AI Could Help Track Harmful Algae
+   https://www.nasa.gov/science-research/earth-science/nasa-developed-ai-could-help-track-harmful-algae/
+
+2. AI ‘scientists’ promise to accelerate research — how do they work?
+   https://www.nature.com/articles/d41586-026-01627-0
+
+3. Where did Neptune's mysterious moon Nereid come from? It may be the only survivor of the planet's violent history
+   https://www.space.com/astronomy/neptune/where-did-neptunes-mysterious-moon-nereid-come-from-it-may-be-the-only-survivor-of-the-planets-violent-history
+
+4. Nearly half of the world’s Nature Index chemistry research is now done in China
+   https://www.nature.com/articles/d41586-026-00431-0
+
+5. Show HN: Asciidia – LLM-Powered Game
+   https://asciidia.com
+
+6. NASA Announces Winners in University Aeronautics Competition
+   https://www.nasa.gov/aeronautics/nasa-announces-winners-in-university-aeronautics-competition/
+
+7. Scientists find a hidden route to the moon that saves fuel
+   https://www.space.com/astronomy/moon/scientists-find-a-hidden-route-to-the-moon-that-saves-fuel
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-21/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:14</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-21/episode-art.png"/>
+    </item>
     <item>
       <title>AI Teams Accelerate Research &amp; Project Genie Simulates Re...</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>5:03</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-20/episode-art.png"/>
-    </item>
-    <item>
-      <title>Breakthrough Prizes, AI Lecture &amp; Penguins&#x27; Pollution Alert</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Magnetic muon measurements and gene-therapy advances win US$3 million Breakthrough prizes
-   Source: Nature News
-2. AI/ML STIG Lecture Series, 20 April 2026
-   Source: NASA Science
-3. CSDA Quality Assessment Report Evaluates Satellogic NewSat Data
-   Source: NASA Science
-4. Briefing Chat: Penguins pick up PFAS pollution
-   Source: Nature News
-5. What went right this week: the good news that matters
-   Source: Positive News
-6. Codex for (almost) everything
-   Source: OpenAI News
-7. Trusted access for the next era of cyber defense
-   Source: OpenAI News
-
-REFERENCES:
-
-1. Magnetic muon measurements and gene-therapy advances win US$3 million Breakthrough prizes
-   https://www.nature.com/articles/d41586-026-01014-9
-
-2. AI/ML STIG Lecture Series, 20 April 2026
-   https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ai-ml-stig-lecture-series-20-april-2026/
-
-3. CSDA Quality Assessment Report Evaluates Satellogic NewSat Data
-   https://science.nasa.gov/uncategorized/csda-quality-assessment-report-evaluates-satellogic-newsat-data/
-
-4. Briefing Chat: Penguins pick up PFAS pollution
-   https://www.nature.com/articles/d41586-026-01263-8
-
-5. What went right this week: the good news that matters
-   https://www.positive.news/society/good-news-stories-from-week-16-of-2026/
-
-6. Codex for (almost) everything
-   https://openai.com/index/codex-for-almost-everything
-
-7. Trusted access for the next era of cyber defense
-   https://openai.com/index/scaling-trusted-access-for-cyber-defense
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-19/newspaper.pdf]]></description>
-      <pubDate>Sun, 19 Apr 2026 05:59:15 -0000</pubDate>
-      <guid isPermaLink="false">2026-04-19</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-19.mp3" length="6461274" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Magnetic muon measurements and gene-therapy advances win US$3 million Breakthrough prizes
-   Source: Nature News
-2. AI/ML STIG Lecture Series, 20 April 2026
-   Source: NASA Science
-3. CSDA Quality Assessment Report Evaluates Satellogic NewSat Data
-   Source: NASA Science
-4. Briefing Chat: Penguins pick up PFAS pollution
-   Source: Nature News
-5. What went right this week: the good news that matters
-   Source: Positive News
-6. Codex for (almost) everything
-   Source: OpenAI News
-7. Trusted access for the next era of cyber defense
-   Source: OpenAI News
-
-REFERENCES:
-
-1. Magnetic muon measurements and gene-therapy advances win US$3 million Breakthrough prizes
-   https://www.nature.com/articles/d41586-026-01014-9
-
-2. AI/ML STIG Lecture Series, 20 April 2026
-   https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ai-ml-stig-lecture-series-20-april-2026/
-
-3. CSDA Quality Assessment Report Evaluates Satellogic NewSat Data
-   https://science.nasa.gov/uncategorized/csda-quality-assessment-report-evaluates-satellogic-newsat-data/
-
-4. Briefing Chat: Penguins pick up PFAS pollution
-   https://www.nature.com/articles/d41586-026-01263-8
-
-5. What went right this week: the good news that matters
-   https://www.positive.news/society/good-news-stories-from-week-16-of-2026/
-
-6. Codex for (almost) everything
-   https://openai.com/index/codex-for-almost-everything
-
-7. Trusted access for the next era of cyber defense
-   https://openai.com/index/scaling-trusted-access-for-cyber-defense
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-19/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:16</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-19/episode-art.png"/>
     </item>
   </channel>
 </rss>

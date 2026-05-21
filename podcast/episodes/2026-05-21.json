@@ -1,0 +1,66 @@
+{
+  "guid": "2026-05-21",
+  "date": "2026-05-21T07:56:06.359242",
+  "title": "NASA AI Tracks Algae & Neptune’s Moon Mystery Unveiled",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 254.3157894736842,
+  "duration_formatted": "4:14",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-21.mp3",
+    "audio_size_bytes": 5801734,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-21/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-21/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-05-21.txt"
+  },
+  "stories": [
+    {
+      "title": "NASA-developed AI Could Help Track Harmful Algae",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/science-research/earth-science/nasa-developed-ai-could-help-track-harmful-algae/",
+      "summary": "NASA scientists have developed an artificial intelligence tool to take on a longstanding challenge in ocean waters. In a study recently published in AGU Earth and Space Science, researchers reported the tool was able to fuse data from multiple satellites and detect harmful algal blooms that occurred in western Florida and Southern California. Severe blooms […] The post NASA-developed AI Could Help Track Harmful Algae appeared first on NASA Science."
+    },
+    {
+      "title": "AI ‘scientists’ promise to accelerate research — how do they work?",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01627-0",
+      "summary": "Nature, Published online: 20 May 2026; doi:10.1038/d41586-026-01627-0Systems generate hypotheses and ways to test them — plus, how mobile phones might one day be able to see around corners."
+    },
+    {
+      "title": "Where did Neptune's mysterious moon Nereid come from? It may be the only survivor of the planet's violent history",
+      "source": "Space.com",
+      "url": "https://www.space.com/astronomy/neptune/where-did-neptunes-mysterious-moon-nereid-come-from-it-may-be-the-only-survivor-of-the-planets-violent-history",
+      "summary": "Neptune's moon Nereid might be the only satellite surviving from the planet's original system, researchers report in a new study."
+    },
+    {
+      "title": "Nearly half of the world’s Nature Index chemistry research is now done in China",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00431-0",
+      "summary": "Nature, Published online: 20 May 2026; doi:10.1038/d41586-026-00431-0A breakdown of leading countries and institutions highlights China’s dominance in the field."
+    },
+    {
+      "title": "Show HN: Asciidia – LLM-Powered Game",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://asciidia.com",
+      "summary": "This is an experiment/demo that I wanted to share and see what people think.The main premise is that you can conjure anything and the game will do its best to produce such object with all the functionality and properties that would make sense.It might look simple at first glance, but the underlying systems are complex. Create dragons you can fly on, spells, weapons, factories, ... Comments URL: https://news.ycombinator.com/item?id=48219220 Points: 1 # Comments: 0"
+    },
+    {
+      "title": "NASA Announces Winners in University Aeronautics Competition",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/aeronautics/nasa-announces-winners-in-university-aeronautics-competition/",
+      "summary": "The South Dakota State University team took first place at NASA’s fifth annual Gateways to Blue Skies Competition, which challenged student teams to address a critical element of U.S. aviation: aircraft maintenance. This year’s competition, RepAir: Advancing Aircraft Maintenance, asked teams of postsecondary students to develop innovative systems and practices that could advance commercial aircraft […] The post NASA Announces Winners in University Aeronautics Competition appeared first on NASA Science."
+    },
+    {
+      "title": "Scientists find a hidden route to the moon that saves fuel",
+      "source": "Space.com",
+      "url": "https://www.space.com/astronomy/moon/scientists-find-a-hidden-route-to-the-moon-that-saves-fuel",
+      "summary": "An international team of researchers say they've found a more efficient route from Earth to the moon using advanced computer modeling."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-05-21T07:57:12.471539",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
