@@ -542,7 +542,14 @@
     "https://www.nature.com/articles/d41586-026-00431-0",
     "https://asciidia.com",
     "https://www.nasa.gov/aeronautics/nasa-announces-winners-in-university-aeronautics-competition/",
-    "https://www.space.com/astronomy/moon/scientists-find-a-hidden-route-to-the-moon-that-saves-fuel"
+    "https://www.space.com/astronomy/moon/scientists-find-a-hidden-route-to-the-moon-that-saves-fuel",
+    "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+    "https://www.nature.com/articles/d41586-026-01467-y",
+    "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
+    "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+    "https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/",
+    "https://arstechnica.com/space/2026/05/ground-system-issue-scrubs-first-launch-of-spacexs-starship-v3-rocket/",
+    "https://www.nasa.gov/missions/artemis/nasa-seeks-interest-for-artemis-mission-cubesats/"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -1087,7 +1094,14 @@
     "https://www.nature.com/articles/d41586-026-00431-0": "2026-05-21T07:57:12.492813",
     "https://asciidia.com": "2026-05-21T07:57:12.492813",
     "https://www.nasa.gov/aeronautics/nasa-announces-winners-in-university-aeronautics-competition/": "2026-05-21T07:57:12.492813",
-    "https://www.space.com/astronomy/moon/scientists-find-a-hidden-route-to-the-moon-that-saves-fuel": "2026-05-21T07:57:12.492813"
+    "https://www.space.com/astronomy/moon/scientists-find-a-hidden-route-to-the-moon-that-saves-fuel": "2026-05-21T07:57:12.492813",
+    "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/": "2026-05-22T07:48:38.144313",
+    "https://www.nature.com/articles/d41586-026-01467-y": "2026-05-22T07:48:38.144313",
+    "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/": "2026-05-22T07:48:38.144313",
+    "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/": "2026-05-22T07:48:38.144313",
+    "https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/": "2026-05-22T07:48:38.144313",
+    "https://arstechnica.com/space/2026/05/ground-system-issue-scrubs-first-launch-of-spacexs-starship-v3-rocket/": "2026-05-22T07:48:38.144313",
+    "https://www.nasa.gov/missions/artemis/nasa-seeks-interest-for-artemis-mission-cubesats/": "2026-05-22T07:48:38.144313"
   },
-  "last_run": "2026-05-21T07:57:12.492813"
+  "last_run": "2026-05-22T07:48:38.144313"
 }

@@ -1,0 +1,66 @@
+{
+  "guid": "2026-05-22",
+  "date": "2026-05-22T07:47:13.876512",
+  "title": "AI-Driven Psychedelic Research & Zero-Knowledge ID Tech",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 275.36842105263156,
+  "duration_formatted": "4:35",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-22.mp3",
+    "audio_size_bytes": 6706449,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-22/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-22/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-05-22.txt"
+  },
+  "stories": [
+    {
+      "title": "MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small models",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+      "summary": "MagenticLite is an agentic system for small models that works across the browser and local file system in a single workflow. It combines specialized models and orchestration to support efficient agentic performance on everyday tasks. The post MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small models appeared first on Microsoft Research."
+    },
+    {
+      "title": "How we’re using AI tools to improve psychedelic-drug research",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01467-y",
+      "summary": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01467-yFélix Schoeller’s team built a realistic artificial-intelligence chatbot to train facilitators needed for research into psychoactive drugs — and, ultimately, to improve public health."
+    },
+    {
+      "title": "Vega: Zero-knowledge proofs for digital identity in the age of AI",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
+      "summary": "Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with performance that works in real apps. The post Vega: Zero-knowledge proofs for digital identity in the age of AI appeared first on Microsoft Research."
+    },
+    {
+      "title": "Roundtables: Can AI Learn to Understand the World?",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+      "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Honan, senior AI editor Will Douglas Heaven, and AI reporter&#8230;"
+    },
+    {
+      "title": "The Download: online safety’s future and climate tech’s big pivot",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Tech researchers are suing the Trump administration over the future of online safety For months, the Trump administration has been going after researchers who study and try to counter hate speech,&#8230;"
+    },
+    {
+      "title": "Ground system issue scrubs first launch of SpaceX's Starship V3 rocket",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/05/ground-system-issue-scrubs-first-launch-of-spacexs-starship-v3-rocket/",
+      "summary": "Engineers could make another attempt to launch Starship as soon as Friday evening."
+    },
+    {
+      "title": "NASA Seeks Interest for Artemis Mission CubeSats",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/missions/artemis/nasa-seeks-interest-for-artemis-mission-cubesats/",
+      "summary": "Organizations interested in launching CubeSats on future Artemis missions should respond to NASA’s request for information (RFI) by Monday, June 1, for initial consideration. “The SLS (Space Launch System) rocket and the Artemis missions provide great opportunities for teams to conduct important, science and technology investigations that contribute to the expansion of human space exploration,” said […] The post NASA Seeks Interest for Artemis Mission CubeSats appeared first on NASA Science."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-05-22T07:48:38.123453",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
