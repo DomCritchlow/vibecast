@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 May 2026 07:48:38 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 06:35:50 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>AI Solves Math Mystery &amp; US-China Tech Ties Unveiled</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. AI cracks 80-year-old mathematics challenge — researchers are astonished
+   Source: Nature News
+2. Tech researchers are suing the Trump administration over the future of online safety
+   Source: MIT Technology Review
+3. Four Russian satellites are now within striking distance of an ICEYE radarsat
+   Source: Ars Technica
+4. Twelve South’s AirFly Pro 2 has hit one of its best prices ahead of summer travel
+   Source: The Verge
+5. What AI race? China and U.S. AI worlds are tightly connected
+   Source: Rest of World
+6. Is U.S. AI Adoption Plateauing? A Comprehensive Analysis
+   Source: Hacker News (AI filtered)
+7. Show HN: ThinkLLM, A knowledge graph of AI models (HTTPS://thinkllm.dev)
+   Source: Hacker News (AI filtered)
+
+REFERENCES:
+
+1. AI cracks 80-year-old mathematics challenge — researchers are astonished
+   https://www.nature.com/articles/d41586-026-01651-0
+
+2. Tech researchers are suing the Trump administration over the future of online safety
+   https://www.technologyreview.com/2026/05/21/1137632/lawsuit-trump-administration-online-safety-coalition-for-independent-technology-research/
+
+3. Four Russian satellites are now within striking distance of an ICEYE radarsat
+   https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/
+
+4. Twelve South’s AirFly Pro 2 has hit one of its best prices ahead of summer travel
+   https://www.theverge.com/gadgets/936200/twelve-south-airfly-pro-2-memorial-day-deal-sale
+
+5. What AI race? China and U.S. AI worlds are tightly connected
+   https://restofworld.org/2026/china-us-what-ai-race/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+
+6. Is U.S. AI Adoption Plateauing? A Comprehensive Analysis
+   https://medium.com/@markchen69/is-u-s-ai-adoption-plateauing-a-comprehensive-analysis-cf5c1beef8cf
+
+7. Show HN: ThinkLLM, A knowledge graph of AI models (HTTPS://thinkllm.dev)
+   https://thinkllm.dev
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-23/newspaper.pdf]]></description>
+      <pubDate>Sat, 23 May 2026 06:34:41 -0000</pubDate>
+      <guid isPermaLink="false">2026-05-23</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-23.mp3" length="6757232" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. AI cracks 80-year-old mathematics challenge — researchers are astonished
+   Source: Nature News
+2. Tech researchers are suing the Trump administration over the future of online safety
+   Source: MIT Technology Review
+3. Four Russian satellites are now within striking distance of an ICEYE radarsat
+   Source: Ars Technica
+4. Twelve South’s AirFly Pro 2 has hit one of its best prices ahead of summer travel
+   Source: The Verge
+5. What AI race? China and U.S. AI worlds are tightly connected
+   Source: Rest of World
+6. Is U.S. AI Adoption Plateauing? A Comprehensive Analysis
+   Source: Hacker News (AI filtered)
+7. Show HN: ThinkLLM, A knowledge graph of AI models (HTTPS://thinkllm.dev)
+   Source: Hacker News (AI filtered)
+
+REFERENCES:
+
+1. AI cracks 80-year-old mathematics challenge — researchers are astonished
+   https://www.nature.com/articles/d41586-026-01651-0
+
+2. Tech researchers are suing the Trump administration over the future of online safety
+   https://www.technologyreview.com/2026/05/21/1137632/lawsuit-trump-administration-online-safety-coalition-for-independent-technology-research/
+
+3. Four Russian satellites are now within striking distance of an ICEYE radarsat
+   https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/
+
+4. Twelve South’s AirFly Pro 2 has hit one of its best prices ahead of summer travel
+   https://www.theverge.com/gadgets/936200/twelve-south-airfly-pro-2-memorial-day-deal-sale
+
+5. What AI race? China and U.S. AI worlds are tightly connected
+   https://restofworld.org/2026/china-us-what-ai-race/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+
+6. Is U.S. AI Adoption Plateauing? A Comprehensive Analysis
+   https://medium.com/@markchen69/is-u-s-ai-adoption-plateauing-a-comprehensive-analysis-cf5c1beef8cf
+
+7. Show HN: ThinkLLM, A knowledge graph of AI models (HTTPS://thinkllm.dev)
+   https://thinkllm.dev
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-23/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:42</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-23/episode-art.png"/>
+    </item>
     <item>
       <title>AI-Driven Psychedelic Research &amp; Zero-Knowledge ID Tech</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:25</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-22/episode-art.png"/>
-    </item>
-    <item>
-      <title>AI for Sustainability &amp; NASA’s Artemis II Update</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Can we AI our way to a more sustainable world?
-   Source: Microsoft Research Blog
-2. NASA on Track for Future Missions with Initial Artemis II Assessments
-   Source: NASA Science
-3. No humans allowed: scientific AI agents get their own social network
-   Source: Nature News
-4. How hidden contributions power modern research
-   Source: Nature News
-5. Pentagon pulls the plug on one of the military's most troubled space programs
-   Source: Ars Technica
-6. Here's how F1 is tweaking its hybrid systems to try to save the show
-   Source: Ars Technica
-7. Tech CEOs Think AI Will Let Them Be Everywhere at Once
-   Source: Wired
-
-REFERENCES:
-
-1. Can we AI our way to a more sustainable world?
-   https://www.microsoft.com/en-us/research/podcast/can-we-ai-our-way-to-a-more-sustainable-world/
-
-2. NASA on Track for Future Missions with Initial Artemis II Assessments
-   https://www.nasa.gov/missions/nasa-on-track-for-future-missions-with-initial-artemis-ii-assessments/
-
-3. No humans allowed: scientific AI agents get their own social network
-   https://www.nature.com/articles/d41586-026-01278-1
-
-4. How hidden contributions power modern research
-   https://www.nature.com/articles/d41586-026-01260-x
-
-5. Pentagon pulls the plug on one of the military's most troubled space programs
-   https://arstechnica.com/space/2026/04/pentagon-pulls-the-plug-on-one-of-the-militarys-most-troubled-space-programs/
-
-6. Here's how F1 is tweaking its hybrid systems to try to save the show
-   https://arstechnica.com/cars/2026/04/f1-new-hybrid-rules-will-come-into-effect-at-the-miami-grand-prix-in-may/
-
-7. Tech CEOs Think AI Will Let Them Be Everywhere at Once
-   https://www.wired.com/story/tech-ceos-using-ai-to-be-everywhere-at-once/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-21/newspaper.pdf]]></description>
-      <pubDate>Tue, 21 Apr 2026 06:03:53 -0000</pubDate>
-      <guid isPermaLink="false">2026-04-21</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-21.mp3" length="7108317" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Can we AI our way to a more sustainable world?
-   Source: Microsoft Research Blog
-2. NASA on Track for Future Missions with Initial Artemis II Assessments
-   Source: NASA Science
-3. No humans allowed: scientific AI agents get their own social network
-   Source: Nature News
-4. How hidden contributions power modern research
-   Source: Nature News
-5. Pentagon pulls the plug on one of the military's most troubled space programs
-   Source: Ars Technica
-6. Here's how F1 is tweaking its hybrid systems to try to save the show
-   Source: Ars Technica
-7. Tech CEOs Think AI Will Let Them Be Everywhere at Once
-   Source: Wired
-
-REFERENCES:
-
-1. Can we AI our way to a more sustainable world?
-   https://www.microsoft.com/en-us/research/podcast/can-we-ai-our-way-to-a-more-sustainable-world/
-
-2. NASA on Track for Future Missions with Initial Artemis II Assessments
-   https://www.nasa.gov/missions/nasa-on-track-for-future-missions-with-initial-artemis-ii-assessments/
-
-3. No humans allowed: scientific AI agents get their own social network
-   https://www.nature.com/articles/d41586-026-01278-1
-
-4. How hidden contributions power modern research
-   https://www.nature.com/articles/d41586-026-01260-x
-
-5. Pentagon pulls the plug on one of the military's most troubled space programs
-   https://arstechnica.com/space/2026/04/pentagon-pulls-the-plug-on-one-of-the-militarys-most-troubled-space-programs/
-
-6. Here's how F1 is tweaking its hybrid systems to try to save the show
-   https://arstechnica.com/cars/2026/04/f1-new-hybrid-rules-will-come-into-effect-at-the-miami-grand-prix-in-may/
-
-7. Tech CEOs Think AI Will Let Them Be Everywhere at Once
-   https://www.wired.com/story/tech-ceos-using-ai-to-be-everywhere-at-once/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-21/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:50</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-21/episode-art.png"/>
     </item>
   </channel>
 </rss>
