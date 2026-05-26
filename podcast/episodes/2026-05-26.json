@@ -1,0 +1,66 @@
+{
+  "guid": "2026-05-26",
+  "date": "2026-05-26T07:50:53.202513",
+  "title": "Quantum Computing Risks & Frog Conversations Uncovered",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 254.3157894736842,
+  "duration_formatted": "4:14",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-26.mp3",
+    "audio_size_bytes": 5945930,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-26/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-26/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-05-26.txt"
+  },
+  "stories": [
+    {
+      "title": "US's big bet on quantum computing may not be entirely legal",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
+      "summary": "Deal also launched the first quantum foundry company, but is there a need for it?"
+    },
+    {
+      "title": "Use Tiny11 to Rescue a Computer Running Windows 10",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/use-tiny11-to-rescue-a-computer-running-windows-10/",
+      "summary": "If you can’t—or don’t want to—upgrade to full Windows 11, consider this lightweight version of Microsoft’s operating system that works on a wide range of computers."
+    },
+    {
+      "title": "How I eavesdrop on frog conversations",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01621-6",
+      "summary": "Nature, Published online: 25 May 2026; doi:10.1038/d41586-026-01621-6Billie Goolsby’s experience with hearing loss helped her to develop a robotic tadpole for deciphering the secret lives of amphibians."
+    },
+    {
+      "title": "How to breathe life back into brain theory",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01619-0",
+      "summary": "Nature, Published online: 25 May 2026; doi:10.1038/d41586-026-01619-0Neuroscience needs to stop treating the brain as if it is a computer."
+    },
+    {
+      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency."
+    },
+    {
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics."
+    },
+    {
+      "title": "Introducing Gemini Omni",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/introducing-gemini-omni/",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-05-26T07:52:03.585933",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

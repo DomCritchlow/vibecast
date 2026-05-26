@@ -570,7 +570,14 @@
     "https://openai.com/index/adventhealth",
     "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
     "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
-    "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale"
+    "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+    "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
+    "https://www.wired.com/story/use-tiny11-to-rescue-a-computer-running-windows-10/",
+    "https://www.nature.com/articles/d41586-026-01621-6",
+    "https://www.nature.com/articles/d41586-026-01619-0",
+    "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+    "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+    "https://deepmind.google/blog/introducing-gemini-omni/"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -1143,7 +1150,14 @@
     "https://openai.com/index/adventhealth": "2026-05-25T08:23:50.665657",
     "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/": "2026-05-25T08:23:50.665657",
     "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/": "2026-05-25T08:23:50.665657",
-    "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale": "2026-05-25T08:23:50.665657"
+    "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale": "2026-05-25T08:23:50.665657",
+    "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/": "2026-05-26T07:52:03.606782",
+    "https://www.wired.com/story/use-tiny11-to-rescue-a-computer-running-windows-10/": "2026-05-26T07:52:03.606782",
+    "https://www.nature.com/articles/d41586-026-01621-6": "2026-05-26T07:52:03.606782",
+    "https://www.nature.com/articles/d41586-026-01619-0": "2026-05-26T07:52:03.606782",
+    "https://openai.com/index/grupo-folha-grupo-uol-partnership": "2026-05-26T07:52:03.606782",
+    "https://openai.com/index/model-disproves-discrete-geometry-conjecture": "2026-05-26T07:52:03.606782",
+    "https://deepmind.google/blog/introducing-gemini-omni/": "2026-05-26T07:52:03.606782"
   },
-  "last_run": "2026-05-25T08:23:50.665657"
+  "last_run": "2026-05-26T07:52:03.606782"
 }
