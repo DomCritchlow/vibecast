@@ -1,0 +1,66 @@
+{
+  "guid": "2026-05-27",
+  "date": "2026-05-27T08:05:48.193870",
+  "title": "Robots Running Labs & Oppo’s Bubble Selfie Screen",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 275.36842105263156,
+  "duration_formatted": "4:35",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-27.mp3",
+    "audio_size_bytes": 6661937,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-27/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-27/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-05-27.txt"
+  },
+  "stories": [
+    {
+      "title": "Robots run this laboratory in Japan — and are changing how scientists work",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01625-2",
+      "summary": "Nature, Published online: 26 May 2026; doi:10.1038/d41586-026-01625-2Researchers hope to build a facility with thousands of robots capable of performing experiments independently by 2040."
+    },
+    {
+      "title": "It’s time to address the looming crisis in entry-level work.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+      "summary": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hiding beneath the surface: the quiet weakening of the first rung of the career&#8230;"
+    },
+    {
+      "title": "3D-printable humanoid legs let robotics experiments run wild",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/",
+      "summary": "Hugging Face debuts $2,500 bipedal robot project for builders and researchers."
+    },
+    {
+      "title": "Did the Pope use AI to write about the dangers of AI?",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+      "summary": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular AI detector Pangram. The [&#8230;]"
+    },
+    {
+      "title": "Oppo’s Bubble is a thin round screen for taking rear camera selfies",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/937067/oppo-bubble-wireless-screen-remote-selfie-magnetic",
+      "summary": "Oppo launched a new smartphone accessory that makes it easier to snap selfies using your smartphone's rear cameras that typically feature better sensors than front-facing cameras. The Bubble offers similar functionality to the recently announced Insta360 Snap with a screen providing live camera previews so you can properly frame shots, plus remote camera controls and [&#8230;]"
+    },
+    {
+      "title": "The agentic divide: Why “good enough” AI isn’t enough to survive the new economy",
+      "source": "Rest of World",
+      "url": "https://restofworld.org/2026/ai-agent-inequality/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "summary": "A widening gap in agent quality is creating a two-tier system where well-resourced firms scale infinitely while small players are trapped by high-friction, \"low-trust\" tools."
+    },
+    {
+      "title": "Show HN: YouTube MCP – let your AI agent search YouTube for research",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://github.com/ZeroPointRepo/youtube-mcp",
+      "summary": "YouTube is an untapped data source for deep research. Add this MCP and let your agent search YouTube for the latest videos related to your topic. Comments URL: https://news.ycombinator.com/item?id=48291089 Points: 1 # Comments: 0"
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-05-27T08:06:58.879515",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

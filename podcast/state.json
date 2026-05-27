@@ -577,7 +577,14 @@
     "https://www.nature.com/articles/d41586-026-01619-0",
     "https://openai.com/index/grupo-folha-grupo-uol-partnership",
     "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-    "https://deepmind.google/blog/introducing-gemini-omni/"
+    "https://deepmind.google/blog/introducing-gemini-omni/",
+    "https://www.nature.com/articles/d41586-026-01625-2",
+    "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+    "https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/",
+    "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+    "https://www.theverge.com/tech/937067/oppo-bubble-wireless-screen-remote-selfie-magnetic",
+    "https://restofworld.org/2026/ai-agent-inequality/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "https://github.com/ZeroPointRepo/youtube-mcp"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -1157,7 +1164,14 @@
     "https://www.nature.com/articles/d41586-026-01619-0": "2026-05-26T07:52:03.606782",
     "https://openai.com/index/grupo-folha-grupo-uol-partnership": "2026-05-26T07:52:03.606782",
     "https://openai.com/index/model-disproves-discrete-geometry-conjecture": "2026-05-26T07:52:03.606782",
-    "https://deepmind.google/blog/introducing-gemini-omni/": "2026-05-26T07:52:03.606782"
+    "https://deepmind.google/blog/introducing-gemini-omni/": "2026-05-26T07:52:03.606782",
+    "https://www.nature.com/articles/d41586-026-01625-2": "2026-05-27T08:06:58.900667",
+    "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/": "2026-05-27T08:06:58.900667",
+    "https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/": "2026-05-27T08:06:58.900667",
+    "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram": "2026-05-27T08:06:58.900667",
+    "https://www.theverge.com/tech/937067/oppo-bubble-wireless-screen-remote-selfie-magnetic": "2026-05-27T08:06:58.900667",
+    "https://restofworld.org/2026/ai-agent-inequality/?utm_source=rss&utm_medium=rss&utm_campaign=feeds": "2026-05-27T08:06:58.900667",
+    "https://github.com/ZeroPointRepo/youtube-mcp": "2026-05-27T08:06:58.900667"
   },
-  "last_run": "2026-05-26T07:52:03.606782"
+  "last_run": "2026-05-27T08:06:58.900667"
 }
