@@ -1,0 +1,66 @@
+{
+  "guid": "2026-05-28",
+  "date": "2026-05-28T08:01:23.907331",
+  "title": "AI Intelligence Boost & NASA Firefighter Sensor Breakthrough",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 319.1578947368421,
+  "duration_formatted": "5:19",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-28.mp3",
+    "audio_size_bytes": 7700774,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-28/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-28/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-05-28.txt"
+  },
+  "stories": [
+    {
+      "title": "Extending Human Intelligence Through AI",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
+      "summary": "Understanding AI as an extension of human intelligence—not a replacement for it—offers a more grounded path for building trustworthy AI systems. The post Extending Human Intelligence Through AI appeared first on Microsoft Research."
+    },
+    {
+      "title": "Darkness and body size shaped end-Cretaceous marine extinction patterns",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10541-4",
+      "summary": "Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10541-4Trait-based ecosystem modelling shows that impact-driven darkness and body-size-dependent extinction thresholds, rather than carbon-dioxide increase or acidification, drove most of the observed end-Cretaceous marine extinction patterns."
+    },
+    {
+      "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+      "summary": ""
+    },
+    {
+      "title": "NASA Develops Sensor to Improve Firefighter Safety",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/wildland-fire-management/nasa-develops-sensor-to-improve-firefighter-safety/",
+      "summary": "With peak wildfire season approaching, scientists with NASA’s FireSense project have created low-cost thermal sensors to install on fire bulldozers that will alert firefighters when heat from a nearby fire reaches a dangerous level. The sensors also provide researchers with important data on what happens beneath the canopy during a fire. In April, researchers and […] The post NASA Develops Sensor to Improve Firefighter Safety appeared first on NASA Science."
+    },
+    {
+      "title": "Thermal Sensors on Fire Dozers with NASA FireSense",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/gallery/thermal-sensors-on-fire-dozers-with-nasa-firesense/",
+      "summary": "Scientists with NASA’s FireSense project have been working with the Alabama Forestry Commission (AFC) to create low-cost thermal sensors to install on fire bulldozers, which alert firefighters when heat from a nearby fire reaches a dangerous level. The sensors also provide researchers with important data on what happens beneath the canopy during a fire. On April 23-24, 2026 the AFC and NASA's FireSense project hosted a stakeholder engagement event at the Solon Dixon Forestry Education Center in Andalusia, Alabama to gather researchers and wildland fire professionals for discussions about challenges, opportunities, and advancements in their respective fields, including sensor integration on the dozer fleet. The post Thermal Sensors on Fire Dozers with NASA FireSense appeared first on NASA Science."
+    },
+    {
+      "title": "When Quiet Undersea Volcanoes Turn Disruptive",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/when-quiet-undersea-volcanoes-turn-disruptive-20260526/",
+      "summary": "Earth’s largest volcanic system, hidden in mountain chains under the sea, has long been assumed to erupt only quietly. The shallow seafloor off Iceland tells another story. The post When Quiet Undersea Volcanoes Turn Disruptive first appeared on Quanta Magazine"
+    },
+    {
+      "title": "Author Correction: Modelling late gastrulation in stem cell-derived monkey embryo models",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10700-7",
+      "summary": "Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10700-7Author Correction: Modelling late gastrulation in stem cell-derived monkey embryo models"
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-05-28T08:02:48.527290",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

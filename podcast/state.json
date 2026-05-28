@@ -584,7 +584,14 @@
     "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
     "https://www.theverge.com/tech/937067/oppo-bubble-wireless-screen-remote-selfie-magnetic",
     "https://restofworld.org/2026/ai-agent-inequality/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-    "https://github.com/ZeroPointRepo/youtube-mcp"
+    "https://github.com/ZeroPointRepo/youtube-mcp",
+    "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
+    "https://www.nature.com/articles/s41586-026-10541-4",
+    "https://huggingface.co/blog/ibm-research/itbench-aa",
+    "https://www.nasa.gov/wildland-fire-management/nasa-develops-sensor-to-improve-firefighter-safety/",
+    "https://www.nasa.gov/gallery/thermal-sensors-on-fire-dozers-with-nasa-firesense/",
+    "https://www.quantamagazine.org/when-quiet-undersea-volcanoes-turn-disruptive-20260526/",
+    "https://www.nature.com/articles/s41586-026-10700-7"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -1171,7 +1178,14 @@
     "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram": "2026-05-27T08:06:58.900667",
     "https://www.theverge.com/tech/937067/oppo-bubble-wireless-screen-remote-selfie-magnetic": "2026-05-27T08:06:58.900667",
     "https://restofworld.org/2026/ai-agent-inequality/?utm_source=rss&utm_medium=rss&utm_campaign=feeds": "2026-05-27T08:06:58.900667",
-    "https://github.com/ZeroPointRepo/youtube-mcp": "2026-05-27T08:06:58.900667"
+    "https://github.com/ZeroPointRepo/youtube-mcp": "2026-05-27T08:06:58.900667",
+    "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/": "2026-05-28T08:02:48.548482",
+    "https://www.nature.com/articles/s41586-026-10541-4": "2026-05-28T08:02:48.548482",
+    "https://huggingface.co/blog/ibm-research/itbench-aa": "2026-05-28T08:02:48.548482",
+    "https://www.nasa.gov/wildland-fire-management/nasa-develops-sensor-to-improve-firefighter-safety/": "2026-05-28T08:02:48.548482",
+    "https://www.nasa.gov/gallery/thermal-sensors-on-fire-dozers-with-nasa-firesense/": "2026-05-28T08:02:48.548482",
+    "https://www.quantamagazine.org/when-quiet-undersea-volcanoes-turn-disruptive-20260526/": "2026-05-28T08:02:48.548482",
+    "https://www.nature.com/articles/s41586-026-10700-7": "2026-05-28T08:02:48.548482"
   },
-  "last_run": "2026-05-27T08:06:58.900667"
+  "last_run": "2026-05-28T08:02:48.548482"
 }
