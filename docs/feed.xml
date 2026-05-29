@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 May 2026 08:02:48 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 07:59:56 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Lithium Extraction Breakthrough &amp; 2027 Audi RS5 First Drive</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. How a new extraction process could unlock the world’s lithium
+   Source: MIT Technology Review
+2. Data Formulator 0.7: AI-powered data analytics for enterprise data
+   Source: Microsoft Research Blog
+3. 2027 Audi RS5 first drive: A performance PHEV with split personalities
+   Source: Ars Technica
+4. Researchers develop a new process to get lithium out of rocks
+   Source: Ars Technica
+5. China’s tech rise is creating a new kind of tourism
+   Source: Rest of World
+6. NASA’s X-59 Prepares for First Supersonic Flight
+   Source: NASA Science
+7. I Am Artemis: Daniel Stubbs
+   Source: NASA Science
+
+REFERENCES:
+
+1. How a new extraction process could unlock the world’s lithium
+   https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/
+
+2. Data Formulator 0.7: AI-powered data analytics for enterprise data
+   https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/
+
+3. 2027 Audi RS5 first drive: A performance PHEV with split personalities
+   https://arstechnica.com/cars/2026/05/2027-audi-rs5-first-drive-a-performance-phev-with-split-personalities/
+
+4. Researchers develop a new process to get lithium out of rocks
+   https://arstechnica.com/science/2026/05/researchers-develop-a-new-process-to-get-lithium-out-of-rocks/
+
+5. China’s tech rise is creating a new kind of tourism
+   https://restofworld.org/2026/china-ai-tourism/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+
+6. NASA’s X-59 Prepares for First Supersonic Flight
+   https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-prepares-for-first-supersonic-flight/
+
+7. I Am Artemis: Daniel Stubbs
+   https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-daniel-stubbs/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-29/newspaper.pdf]]></description>
+      <pubDate>Fri, 29 May 2026 07:58:46 -0000</pubDate>
+      <guid isPermaLink="false">2026-05-29</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-29.mp3" length="7191700" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. How a new extraction process could unlock the world’s lithium
+   Source: MIT Technology Review
+2. Data Formulator 0.7: AI-powered data analytics for enterprise data
+   Source: Microsoft Research Blog
+3. 2027 Audi RS5 first drive: A performance PHEV with split personalities
+   Source: Ars Technica
+4. Researchers develop a new process to get lithium out of rocks
+   Source: Ars Technica
+5. China’s tech rise is creating a new kind of tourism
+   Source: Rest of World
+6. NASA’s X-59 Prepares for First Supersonic Flight
+   Source: NASA Science
+7. I Am Artemis: Daniel Stubbs
+   Source: NASA Science
+
+REFERENCES:
+
+1. How a new extraction process could unlock the world’s lithium
+   https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/
+
+2. Data Formulator 0.7: AI-powered data analytics for enterprise data
+   https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/
+
+3. 2027 Audi RS5 first drive: A performance PHEV with split personalities
+   https://arstechnica.com/cars/2026/05/2027-audi-rs5-first-drive-a-performance-phev-with-split-personalities/
+
+4. Researchers develop a new process to get lithium out of rocks
+   https://arstechnica.com/science/2026/05/researchers-develop-a-new-process-to-get-lithium-out-of-rocks/
+
+5. China’s tech rise is creating a new kind of tourism
+   https://restofworld.org/2026/china-ai-tourism/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+
+6. NASA’s X-59 Prepares for First Supersonic Flight
+   https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-prepares-for-first-supersonic-flight/
+
+7. I Am Artemis: Daniel Stubbs
+   https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-daniel-stubbs/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-29/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>5:03</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-29/episode-art.png"/>
+    </item>
     <item>
       <title>AI Intelligence Boost &amp; NASA Firefighter Sensor Breakthrough</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:47</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-28/episode-art.png"/>
-    </item>
-    <item>
-      <title>Della Optima AC Review &amp; Cosmic-Ray Neutrino Breakthrough</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Della Optima TP Series Mini-Split AC Review: Cheap, Smart, and (Mostly) Reliable
-   Source: Wired
-2. Entire NSF science advisory board fired by Trump administration
-   Source: Nature News
-3. Cosmic-ray detection heralds era of mega-observatories for neutrinos
-   Source: Nature News
-4. Our principles
-   Source: OpenAI News
-5. How to get started with Codex
-   Source: OpenAI News
-6. Decoupled DiLoCo: A new frontier for resilient, distributed AI training
-   Source: DeepMind Blog
-7. Partnering with industry leaders to accelerate AI transformation
-   Source: DeepMind Blog
-
-REFERENCES:
-
-1. Della Optima TP Series Mini-Split AC Review: Cheap, Smart, and (Mostly) Reliable
-   https://www.wired.com/review/della-optima-tp-series-mini-split-air-conditioner/
-
-2. Entire NSF science advisory board fired by Trump administration
-   https://www.nature.com/articles/d41586-026-01361-7
-
-3. Cosmic-ray detection heralds era of mega-observatories for neutrinos
-   https://www.nature.com/articles/d41586-026-01282-5
-
-4. Our principles
-   https://openai.com/index/our-principles
-
-5. How to get started with Codex
-   https://openai.com/academy/codex-how-to-start
-
-6. Decoupled DiLoCo: A new frontier for resilient, distributed AI training
-   https://deepmind.google/blog/decoupled-diloco/
-
-7. Partnering with industry leaders to accelerate AI transformation
-   https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-27/newspaper.pdf]]></description>
-      <pubDate>Mon, 27 Apr 2026 06:29:17 -0000</pubDate>
-      <guid isPermaLink="false">2026-04-27</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-27.mp3" length="5999220" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Della Optima TP Series Mini-Split AC Review: Cheap, Smart, and (Mostly) Reliable
-   Source: Wired
-2. Entire NSF science advisory board fired by Trump administration
-   Source: Nature News
-3. Cosmic-ray detection heralds era of mega-observatories for neutrinos
-   Source: Nature News
-4. Our principles
-   Source: OpenAI News
-5. How to get started with Codex
-   Source: OpenAI News
-6. Decoupled DiLoCo: A new frontier for resilient, distributed AI training
-   Source: DeepMind Blog
-7. Partnering with industry leaders to accelerate AI transformation
-   Source: DeepMind Blog
-
-REFERENCES:
-
-1. Della Optima TP Series Mini-Split AC Review: Cheap, Smart, and (Mostly) Reliable
-   https://www.wired.com/review/della-optima-tp-series-mini-split-air-conditioner/
-
-2. Entire NSF science advisory board fired by Trump administration
-   https://www.nature.com/articles/d41586-026-01361-7
-
-3. Cosmic-ray detection heralds era of mega-observatories for neutrinos
-   https://www.nature.com/articles/d41586-026-01282-5
-
-4. Our principles
-   https://openai.com/index/our-principles
-
-5. How to get started with Codex
-   https://openai.com/academy/codex-how-to-start
-
-6. Decoupled DiLoCo: A new frontier for resilient, distributed AI training
-   https://deepmind.google/blog/decoupled-diloco/
-
-7. Partnering with industry leaders to accelerate AI transformation
-   https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-27/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:02</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-27/episode-art.png"/>
     </item>
   </channel>
 </rss>
