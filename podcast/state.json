@@ -598,7 +598,14 @@
     "https://arstechnica.com/science/2026/05/researchers-develop-a-new-process-to-get-lithium-out-of-rocks/",
     "https://restofworld.org/2026/china-ai-tourism/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
     "https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-prepares-for-first-supersonic-flight/",
-    "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-daniel-stubbs/"
+    "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-daniel-stubbs/",
+    "https://www.nasa.gov/computing/hec/funding/",
+    "https://www.nasa.gov/computing/hec/capabilities/",
+    "https://www.nature.com/articles/s41586-026-10605-5",
+    "https://www.nature.com/articles/d41586-026-01736-w",
+    "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+    "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
+    "https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-rocket-launch-amazon-leo-7-internet-satellites"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -1199,7 +1206,14 @@
     "https://arstechnica.com/science/2026/05/researchers-develop-a-new-process-to-get-lithium-out-of-rocks/": "2026-05-29T07:59:56.031360",
     "https://restofworld.org/2026/china-ai-tourism/?utm_source=rss&utm_medium=rss&utm_campaign=feeds": "2026-05-29T07:59:56.031360",
     "https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-prepares-for-first-supersonic-flight/": "2026-05-29T07:59:56.031360",
-    "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-daniel-stubbs/": "2026-05-29T07:59:56.031360"
+    "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-daniel-stubbs/": "2026-05-29T07:59:56.031360",
+    "https://www.nasa.gov/computing/hec/funding/": "2026-05-30T06:48:23.367598",
+    "https://www.nasa.gov/computing/hec/capabilities/": "2026-05-30T06:48:23.367598",
+    "https://www.nature.com/articles/s41586-026-10605-5": "2026-05-30T06:48:23.367598",
+    "https://www.nature.com/articles/d41586-026-01736-w": "2026-05-30T06:48:23.367598",
+    "https://openai.com/index/trustworthy-third-party-evaluations-foundations": "2026-05-30T06:48:23.367598",
+    "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/": "2026-05-30T06:48:23.367598",
+    "https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-rocket-launch-amazon-leo-7-internet-satellites": "2026-05-30T06:48:23.367598"
   },
-  "last_run": "2026-05-29T07:59:56.031360"
+  "last_run": "2026-05-30T06:48:23.367598"
 }

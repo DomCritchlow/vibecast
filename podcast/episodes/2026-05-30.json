@@ -1,0 +1,66 @@
+{
+  "guid": "2026-05-30",
+  "date": "2026-05-30T06:47:14.214502",
+  "title": "NASA Computing Power & New Insights on Emissions & Memory",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 272.0,
+  "duration_formatted": "4:31",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-30.mp3",
+    "audio_size_bytes": 6844376,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-30/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-30/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-05-30.txt"
+  },
+  "stories": [
+    {
+      "title": "Funding Opportunities",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/computing/hec/funding/",
+      "summary": "For most NASA funding opportunities, see the NASA Solicitation and Proposal Integrated Review and Evaluation System (NSPIRES), which facilitates the search for NASA research opportunities across the entire agency. Current Opportunities ROA-2025 Research Opportunities in Aeronautics 2025 (ROA-2025) solicits foundational and system-level research in support of NASA’s Aeronautics Research Mission Directorate. It covers a variety […] The post Funding Opportunities appeared first on NASA Science."
+    },
+    {
+      "title": "NASA High-End Computing Capabilities",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/computing/hec/capabilities/",
+      "summary": "NASA’s High-End Computing (HEC) facilities and services support scientists and engineers across all NASA Mission Directorates, as well as university and industry partners. These resources are maintained by the NASA Advanced Supercomputing (NAS) Division, which operates the agency’s premier supercomputing facility at NASA’s Ames Research Center in California’s Silicon Valley. NAS provides more than 1,500 NASA-associated HEC users with advanced computing systems, storage, and innovative tools and technologies for solving today’s science and engineering problems. The post NASA High-End Computing Capabilities appeared first on NASA Science."
+    },
+    {
+      "title": "Author Correction: US oil and gas system emissions from nearly one million aerial site measurements",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10605-5",
+      "summary": "Nature, Published online: 29 May 2026; doi:10.1038/s41586-026-10605-5Author Correction: US oil and gas system emissions from nearly one million aerial site measurements"
+    },
+    {
+      "title": "Briefing Chat: When to trust eyewitness memory — according to science",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01736-w",
+      "summary": "Nature, Published online: 29 May 2026; doi:10.1038/d41586-026-01736-wNature staff discuss memory in the legal system plus the benefits of Registered Reports."
+    },
+    {
+      "title": "A shared playbook for trustworthy third party evaluations",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems."
+    },
+    {
+      "title": "The Download: unlocking lithium and controlling Ebola",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How a new extraction process could unlock the world’s lithium A new method for extracting lithium could cut costs and emissions from one of the world’s most important materials for EVs&#8230;"
+    },
+    {
+      "title": "Atlas V rocket launches 29 Amazon Leo internet satellites to orbit from Florida",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-rocket-launch-amazon-leo-7-internet-satellites",
+      "summary": "A United Launch Alliance Atlas V rocket launched 29 Amazon Leo internet satellites to orbit on Friday night (May 28)."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-05-30T06:48:23.345287",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
