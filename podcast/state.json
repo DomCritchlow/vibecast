@@ -605,7 +605,14 @@
     "https://www.nature.com/articles/d41586-026-01736-w",
     "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
     "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
-    "https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-rocket-launch-amazon-leo-7-internet-satellites"
+    "https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-rocket-launch-amazon-leo-7-internet-satellites",
+    "https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability",
+    "https://www.wired.com/review/keychron-k2-he-concrete-edition/",
+    "https://www.wired.com/story/millions-of-bees-have-thrived-under-a-new-york-cemetery-for-more-than-a-century/",
+    "https://www.nasa.gov/blogs/spacestation/2026/05/29/blood-clotting-research-spacewalk-cleanup-wrap-up-week-on-space-station/",
+    "https://openai.com/index/boston-childrens-hospital",
+    "https://openai.com/index/braintrust",
+    "https://deepmind.google/blog/introducing-google-antigravity-2-0/"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -1213,7 +1220,14 @@
     "https://www.nature.com/articles/d41586-026-01736-w": "2026-05-30T06:48:23.367598",
     "https://openai.com/index/trustworthy-third-party-evaluations-foundations": "2026-05-30T06:48:23.367598",
     "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/": "2026-05-30T06:48:23.367598",
-    "https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-rocket-launch-amazon-leo-7-internet-satellites": "2026-05-30T06:48:23.367598"
+    "https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-rocket-launch-amazon-leo-7-internet-satellites": "2026-05-30T06:48:23.367598",
+    "https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability": "2026-05-31T07:48:34.557238",
+    "https://www.wired.com/review/keychron-k2-he-concrete-edition/": "2026-05-31T07:48:34.557238",
+    "https://www.wired.com/story/millions-of-bees-have-thrived-under-a-new-york-cemetery-for-more-than-a-century/": "2026-05-31T07:48:34.557238",
+    "https://www.nasa.gov/blogs/spacestation/2026/05/29/blood-clotting-research-spacewalk-cleanup-wrap-up-week-on-space-station/": "2026-05-31T07:48:34.557238",
+    "https://openai.com/index/boston-childrens-hospital": "2026-05-31T07:48:34.557238",
+    "https://openai.com/index/braintrust": "2026-05-31T07:48:34.557238",
+    "https://deepmind.google/blog/introducing-google-antigravity-2-0/": "2026-05-31T07:48:34.557238"
   },
-  "last_run": "2026-05-30T06:48:23.367598"
+  "last_run": "2026-05-31T07:48:34.557238"
 }

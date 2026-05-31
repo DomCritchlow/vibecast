@@ -1,0 +1,66 @@
+{
+  "guid": "2026-05-31",
+  "date": "2026-05-31T07:47:20.171259",
+  "title": "Microsoft Threats & AI Breakthroughs at Boston Children’s",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 309.89473684210526,
+  "duration_formatted": "5:09",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-31.mp3",
+    "audio_size_bytes": 7812369,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-31/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-31/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-05-31.txt"
+  },
+  "stories": [
+    {
+      "title": "Microsoft is threatening legal action for disclosing exploits",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability",
+      "summary": "Microsoft is facing criticism for its handling of zero-day exploits. Someone going by the name Nightmare Eclipse has been publicly feuding with the company, posting proof-of-concept exploit code. Some of their posts suggest that they're a disgruntled former employee. But what caught cyber security researcher Kevin Beaumont's eye was how Microsoft has responded. Microsoft suggests [&#8230;]"
+    },
+    {
+      "title": "Keychron K2 HE Concrete Edition Review: Rock-Solid Typing",
+      "source": "Wired",
+      "url": "https://www.wired.com/review/keychron-k2-he-concrete-edition/",
+      "summary": "Keychron's K2 HE Concrete Edition sounds like a cute gimmick, but as I discovered, there's a really solid keyboard beyond the absurd choice of materials."
+    },
+    {
+      "title": "Millions of Bees Have Thrived Under a New York Cemetery for More Than a Century",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/millions-of-bees-have-thrived-under-a-new-york-cemetery-for-more-than-a-century/",
+      "summary": "A walk in the cemetery led to Cornell researchers discovering an underground colony of bees with an estimated population of 5.5 million—one of the largest ever recorded."
+    },
+    {
+      "title": "Blood-Clotting Research, Spacewalk Cleanup Wrap Up Week on Space Station",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/05/29/blood-clotting-research-spacewalk-cleanup-wrap-up-week-on-space-station/",
+      "summary": "The Expedition 74 crew members primarily focused their science work on blood-clotting and immune function in microgravity to advance human health on Friday. Meanwhile, spacesuit maintenance continues aboard the International Space Station following a spacewalk on Wednesday. The post Blood-Clotting Research, Spacewalk Cleanup Wrap Up Week on Space Station appeared first on NASA Science."
+    },
+    {
+      "title": "Boston Children’s uses AI to unlock new diagnoses",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/boston-childrens-hospital",
+      "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases."
+    },
+    {
+      "title": "How Braintrust turns customer requests into code with Codex",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/braintrust",
+      "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster."
+    },
+    {
+      "title": "Introducing Google Antigravity 2.0",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+      "summary": ""
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-05-31T07:48:34.536413",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
