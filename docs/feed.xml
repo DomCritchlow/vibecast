@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 May 2026 07:48:34 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 09:28:53 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Obesity Myths &amp; Bacteria Armor + Apple Glasses Strategy</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Obesity doesn’t equate to ill health: why the ‘disease’ label doesn’t always fit
+   Source: Nature News
+2. How common bacteria fasten their armour
+   Source: Nature News
+3. Apple’s strategy for smart glasses is the same as smart watches
+   Source: The Verge
+4. Wi-Fi Router vs. Mesh System: Which Is Best for You?
+   Source: Wired
+5. AI driven analysis of brokerage account fees in the UK
+   Source: Hacker News (AI filtered)
+6. Greenland sheds new light on underwater carbon sink
+   Source: Positive News
+7. Strengthening societal resilience with Rosalind Biodefense
+   Source: OpenAI News
+
+REFERENCES:
+
+1. Obesity doesn’t equate to ill health: why the ‘disease’ label doesn’t always fit
+   https://www.nature.com/articles/d41586-026-01729-9
+
+2. How common bacteria fasten their armour
+   https://www.nature.com/articles/d41586-026-01668-5
+
+3. Apple’s strategy for smart glasses is the same as smart watches
+   https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches
+
+4. Wi-Fi Router vs. Mesh System: Which Is Best for You?
+   https://www.wired.com/story/mesh-system-vs-wi-fi-router/
+
+5. AI driven analysis of brokerage account fees in the UK
+   https://feesorted.com/
+
+6. Greenland sheds new light on underwater carbon sink
+   https://www.positive.news/environment/greenland-sheds-new-light-on-underwater-carbon-sink/
+
+7. Strengthening societal resilience with Rosalind Biodefense
+   https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-01/newspaper.pdf]]></description>
+      <pubDate>Mon, 01 Jun 2026 09:27:50 -0000</pubDate>
+      <guid isPermaLink="false">2026-06-01</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-01.mp3" length="6523383" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Obesity doesn’t equate to ill health: why the ‘disease’ label doesn’t always fit
+   Source: Nature News
+2. How common bacteria fasten their armour
+   Source: Nature News
+3. Apple’s strategy for smart glasses is the same as smart watches
+   Source: The Verge
+4. Wi-Fi Router vs. Mesh System: Which Is Best for You?
+   Source: Wired
+5. AI driven analysis of brokerage account fees in the UK
+   Source: Hacker News (AI filtered)
+6. Greenland sheds new light on underwater carbon sink
+   Source: Positive News
+7. Strengthening societal resilience with Rosalind Biodefense
+   Source: OpenAI News
+
+REFERENCES:
+
+1. Obesity doesn’t equate to ill health: why the ‘disease’ label doesn’t always fit
+   https://www.nature.com/articles/d41586-026-01729-9
+
+2. How common bacteria fasten their armour
+   https://www.nature.com/articles/d41586-026-01668-5
+
+3. Apple’s strategy for smart glasses is the same as smart watches
+   https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches
+
+4. Wi-Fi Router vs. Mesh System: Which Is Best for You?
+   https://www.wired.com/story/mesh-system-vs-wi-fi-router/
+
+5. AI driven analysis of brokerage account fees in the UK
+   https://feesorted.com/
+
+6. Greenland sheds new light on underwater carbon sink
+   https://www.positive.news/environment/greenland-sheds-new-light-on-underwater-carbon-sink/
+
+7. Strengthening societal resilience with Rosalind Biodefense
+   https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-01/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:40</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-01/episode-art.png"/>
+    </item>
     <item>
       <title>Microsoft Threats &amp; AI Breakthroughs at Boston Children’s</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:50</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-01/episode-art.png"/>
-    </item>
-    <item>
-      <title>AI ISP Billing, Quantum Magnetism &amp; Cybersecurity Insights</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Experimenting with an ISP-style billing model for AI usage
-   Source: Hacker News (AI filtered)
-2. Decarboxylative alkylation of alkenes
-   Source: Nature News
-3. Digital quantum magnetism on a trapped-ion quantum computer
-   Source: Nature News
-4. Cybersecurity in the Intelligence Age
-   Source: OpenAI News
-5. OpenAI Codex system prompt includes explicit directive to "never talk about goblins"
-   Source: Ars Technica
-6. Howdy's dated $3/month ad-free streaming service said to have 1M subscribers
-   Source: Ars Technica
-7. Google Search queries hit an ‘all time high’ last quarter
-   Source: The Verge
-
-REFERENCES:
-
-1. Experimenting with an ISP-style billing model for AI usage
-   https://news.ycombinator.com/item?id=47958635
-
-2. Decarboxylative alkylation of alkenes
-   https://www.nature.com/articles/s41586-026-10463-1
-
-3. Digital quantum magnetism on a trapped-ion quantum computer
-   https://www.nature.com/articles/s41586-026-10445-3
-
-4. Cybersecurity in the Intelligence Age
-   https://openai.com/index/cybersecurity-in-the-intelligence-age
-
-5. OpenAI Codex system prompt includes explicit directive to "never talk about goblins"
-   https://arstechnica.com/ai/2026/04/openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins/
-
-6. Howdy's dated $3/month ad-free streaming service said to have 1M subscribers
-   https://arstechnica.com/gadgets/2026/04/howdys-dated-3-month-ad-free-streaming-service-said-to-have-1m-subscribers/
-
-7. Google Search queries hit an ‘all time high’ last quarter
-   https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-30/newspaper.pdf]]></description>
-      <pubDate>Thu, 30 Apr 2026 06:28:40 -0000</pubDate>
-      <guid isPermaLink="false">2026-04-30</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-30.mp3" length="7061297" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Experimenting with an ISP-style billing model for AI usage
-   Source: Hacker News (AI filtered)
-2. Decarboxylative alkylation of alkenes
-   Source: Nature News
-3. Digital quantum magnetism on a trapped-ion quantum computer
-   Source: Nature News
-4. Cybersecurity in the Intelligence Age
-   Source: OpenAI News
-5. OpenAI Codex system prompt includes explicit directive to "never talk about goblins"
-   Source: Ars Technica
-6. Howdy's dated $3/month ad-free streaming service said to have 1M subscribers
-   Source: Ars Technica
-7. Google Search queries hit an ‘all time high’ last quarter
-   Source: The Verge
-
-REFERENCES:
-
-1. Experimenting with an ISP-style billing model for AI usage
-   https://news.ycombinator.com/item?id=47958635
-
-2. Decarboxylative alkylation of alkenes
-   https://www.nature.com/articles/s41586-026-10463-1
-
-3. Digital quantum magnetism on a trapped-ion quantum computer
-   https://www.nature.com/articles/s41586-026-10445-3
-
-4. Cybersecurity in the Intelligence Age
-   https://openai.com/index/cybersecurity-in-the-intelligence-age
-
-5. OpenAI Codex system prompt includes explicit directive to "never talk about goblins"
-   https://arstechnica.com/ai/2026/04/openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins/
-
-6. Howdy's dated $3/month ad-free streaming service said to have 1M subscribers
-   https://arstechnica.com/gadgets/2026/04/howdys-dated-3-month-ad-free-streaming-service-said-to-have-1m-subscribers/
-
-7. Google Search queries hit an ‘all time high’ last quarter
-   https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-30/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:48</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-04-30/episode-art.png"/>
     </item>
   </channel>
 </rss>
