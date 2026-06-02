@@ -1,0 +1,66 @@
+{
+  "guid": "2026-06-02",
+  "date": "2026-06-02T08:39:12.600714",
+  "title": "Smartphone Pulse Tech & AI Pricing Shakeup",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 299.7894736842106,
+  "duration_formatted": "4:59",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-02.mp3",
+    "audio_size_bytes": 7512065,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-02/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-02/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-06-02.txt"
+  },
+  "stories": [
+    {
+      "title": "Smartphone camera takes users’ pulse passively during device use",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01488-7",
+      "summary": "Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01488-7A machine-learning system has been developed that can monitor heart rate using facial video clips that are captured passively by the user-facing camera during everyday smartphone use. The system meets industry accuracy standards for heart-rate measurement and is as accurate as wearable technology for measuring daily resting heart rate."
+    },
+    {
+      "title": "Can Polymarket predict the progress of science, or are subject-experts better?",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01688-1",
+      "summary": "Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01688-1Online prediction markets are taking bets on everything from climate change to quantum computing. But researchers question their accuracy."
+    },
+    {
+      "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
+      "summary": "Some report burning through their whole monthly \"AI credit\" allotment in a single day."
+    },
+    {
+      "title": "New Trump vaccine order based on \"no credible scientific evidence,\" doctors say",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/06/doctors-blast-trump-for-doubling-down-on-vaccine-policy-modeled-after-denmark/",
+      "summary": "Even Danish researchers think it's bizarre."
+    },
+    {
+      "title": "Version 2.0 of AI laser mosquito defense system is here",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://twitter.com/stevencheng/status/2059950811954692451",
+      "summary": "Article URL: https://twitter.com/stevencheng/status/2059950811954692451 Comments URL: https://news.ycombinator.com/item?id=48367260 Points: 3 # Comments: 0"
+    },
+    {
+      "title": "Remote work – not AI – has sidelined recent college graduates, research finds",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://www.npr.org/2026/06/01/nx-s1-5843076/remote-work-college-graduates-unemployment-ai",
+      "summary": "Article URL: https://www.npr.org/2026/06/01/nx-s1-5843076/remote-work-college-graduates-unemployment-ai Comments URL: https://news.ycombinator.com/item?id=48367147 Points: 1 # Comments: 0"
+    },
+    {
+      "title": "NASA to Conduct Low-Altitude Flights Near Houston",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-near-houston/",
+      "summary": "Five research aircraft will support a Student Airborne Research Program (SARP) mission out of Ellington Field in Houston. Flights are expected from Wednesday, June 3 to Saturday, June 13. During the mission, select maneuvers will be conducted at low altitudes over the Houston area. Pilots will fly remote sensing payloads in raster patterns, or parallel back-and-forth lines. The instruments flown could help […] The post NASA to Conduct Low-Altitude Flights Near Houston appeared first on NASA Science."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-06-02T08:40:23.371739",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
