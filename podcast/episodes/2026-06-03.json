@@ -1,0 +1,66 @@
+{
+  "guid": "2026-06-03",
+  "date": "2026-06-03T08:56:26.869031",
+  "title": "Codex Boosts Productivity & NASA's Lunar Tech Challenge",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 253.05263157894734,
+  "duration_formatted": "4:13",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-03.mp3",
+    "audio_size_bytes": 5684496,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-03/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-03/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-06-03.txt"
+  },
+  "stories": [
+    {
+      "title": "Codex is becoming a productivity tool for everyone",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/codex-for-knowledge-work",
+      "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation."
+    },
+    {
+      "title": "NASA Space Roboticist Challenge",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-space-roboticist-challenge/",
+      "summary": "The Fly Foundational Robots (FFR) mission will launch a robotic arm, with seven degrees of freedom, to low Earth orbit. NASA is opening access to the robotic arm to a select group of U.S. researchers — principal investigators, post-doctoral researchers, professors, and highly qualified graduate students — who have a compelling experiment and the capability […] The post NASA Space Roboticist Challenge appeared first on NASA Science."
+    },
+    {
+      "title": "Lunar Surface Technology",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/lunar-surface-technology/",
+      "summary": "Explore the technology capability areas on this page that NASA is advancing for the Moon at the links below: Surface Power Thermal Technology Autonomous Systems and Robotics Dust Mitigation Excavation and Construction Communications, Position, Navigation, and Timing In-Situ Resource Utilization Advanced Avionics Environments Back to top Back to top Excavation and Construction Technologies that enable reliable, affordable […] The post Lunar Surface Technology appeared first on NASA Science."
+    },
+    {
+      "title": "Remembering inventor and activist Hertha Ayrton",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01337-7",
+      "summary": "Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01337-7The biography of a pioneering scientist and suffragist, and a call for researchers to write about themselves, in our weekly dip into Nature’s archive."
+    },
+    {
+      "title": "Is it time to ‘cap and trade’ credits for research-funding proposals?",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01777-1",
+      "summary": "Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01777-1Is it time to ‘cap and trade’ credits for research-funding proposals?"
+    },
+    {
+      "title": "The Download: AI can run your admin department now",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How small businesses can leverage AI From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. Large companies can hire&#8230;"
+    },
+    {
+      "title": "How small businesses can leverage AI",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. A large company can hire experts to&#8230;"
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-06-03T08:57:22.284842",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
