@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jun 2026 08:57:22 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 08:23:39 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>NASA’s Element Discovery &amp; GPT-Rosalind’s New Powers</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Introducing new capabilities to GPT-Rosalind
+   Source: OpenAI News
+2. Human Research, Biotechnology for Advanced Health Fill Station Research Schedule
+   Source: NASA Science
+3. NASA Finds New Way Earth May Have Received Elements Needed for Life
+   Source: NASA Science
+4. Earth’s east–west albedo symmetry
+   Source: Nature News
+5. WiiM expands its whole-home ecosystem with a new soundbar
+   Source: The Verge
+6. Can black holes turn into white holes? It's not such a crazy idea, scientists say
+   Source: Space.com
+7. Spain's total solar eclipse 2026 comes with a catch — here's how to avoid ruining your view
+   Source: Space.com
+
+REFERENCES:
+
+1. Introducing new capabilities to GPT-Rosalind
+   https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind
+
+2. Human Research, Biotechnology for Advanced Health Fill Station Research Schedule
+   https://www.nasa.gov/blogs/spacestation/2026/06/03/human-research-biotechnology-for-advanced-health-fill-station-research-schedule/
+
+3. NASA Finds New Way Earth May Have Received Elements Needed for Life
+   https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-finds-new-way-earth-may-have-received-elements-needed-for-life/
+
+4. Earth’s east–west albedo symmetry
+   https://www.nature.com/articles/s41586-026-10624-2
+
+5. WiiM expands its whole-home ecosystem with a new soundbar
+   https://www.theverge.com/tech/942748/wiim-releases-first-soundbar
+
+6. Can black holes turn into white holes? It's not such a crazy idea, scientists say
+   https://www.space.com/astronomy/black-holes/can-black-holes-turn-into-white-holes-its-not-such-a-crazy-idea-scientists-say
+
+7. Spain's total solar eclipse 2026 comes with a catch — here's how to avoid ruining your view
+   https://www.space.com/stargazing/solar-eclipses/spains-total-solar-eclipse-2026-comes-with-a-catch-heres-how-to-avoid-ruining-your-view
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-04/newspaper.pdf]]></description>
+      <pubDate>Thu, 04 Jun 2026 08:22:12 -0000</pubDate>
+      <guid isPermaLink="false">2026-06-04</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-04.mp3" length="6455046" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Introducing new capabilities to GPT-Rosalind
+   Source: OpenAI News
+2. Human Research, Biotechnology for Advanced Health Fill Station Research Schedule
+   Source: NASA Science
+3. NASA Finds New Way Earth May Have Received Elements Needed for Life
+   Source: NASA Science
+4. Earth’s east–west albedo symmetry
+   Source: Nature News
+5. WiiM expands its whole-home ecosystem with a new soundbar
+   Source: The Verge
+6. Can black holes turn into white holes? It's not such a crazy idea, scientists say
+   Source: Space.com
+7. Spain's total solar eclipse 2026 comes with a catch — here's how to avoid ruining your view
+   Source: Space.com
+
+REFERENCES:
+
+1. Introducing new capabilities to GPT-Rosalind
+   https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind
+
+2. Human Research, Biotechnology for Advanced Health Fill Station Research Schedule
+   https://www.nasa.gov/blogs/spacestation/2026/06/03/human-research-biotechnology-for-advanced-health-fill-station-research-schedule/
+
+3. NASA Finds New Way Earth May Have Received Elements Needed for Life
+   https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-finds-new-way-earth-may-have-received-elements-needed-for-life/
+
+4. Earth’s east–west albedo symmetry
+   https://www.nature.com/articles/s41586-026-10624-2
+
+5. WiiM expands its whole-home ecosystem with a new soundbar
+   https://www.theverge.com/tech/942748/wiim-releases-first-soundbar
+
+6. Can black holes turn into white holes? It's not such a crazy idea, scientists say
+   https://www.space.com/astronomy/black-holes/can-black-holes-turn-into-white-holes-its-not-such-a-crazy-idea-scientists-say
+
+7. Spain's total solar eclipse 2026 comes with a catch — here's how to avoid ruining your view
+   https://www.space.com/stargazing/solar-eclipses/spains-total-solar-eclipse-2026-comes-with-a-catch-heres-how-to-avoid-ruining-your-view
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-04/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:33</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-04/episode-art.png"/>
+    </item>
     <item>
       <title>Codex Boosts Productivity &amp; NASA&#x27;s Lunar Tech Challenge</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:42</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-04/episode-art.png"/>
-    </item>
-    <item>
-      <title>NASA Artemis II &amp; New Cell Organelles Breakthrough</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Research roundup: 6 cool science stories we almost missed
-   Source: Ars Technica
-2. Bonus: Behind the Scenes of Artemis II with NASA Experts
-   Source: NASA Science
-3. Author Correction: Titration of RAS alters senescent state and influences tumour initiation
-   Source: Nature News
-4. Briefing Chat: Stressed mitochondria spawn new 'organelles' in cells
-   Source: Nature News
-5. London’s unique charity-led restaurant gets a makeover
-   Source: Positive News
-6. Introducing Advanced Account Security
-   Source: OpenAI News
-7. Where the goblins came from
-   Source: OpenAI News
-
-REFERENCES:
-
-1. Research roundup: 6 cool science stories we almost missed
-   https://arstechnica.com/science/2026/05/research-roundup-6-cool-science-stories-we-almost-missed-4/
-
-2. Bonus: Behind the Scenes of Artemis II with NASA Experts
-   https://www.nasa.gov/podcasts/curious-universe/bonus-behind-the-scenes-of-artemis-ii-with-nasa-experts/
-
-3. Author Correction: Titration of RAS alters senescent state and influences tumour initiation
-   https://www.nature.com/articles/s41586-026-10601-9
-
-4. Briefing Chat: Stressed mitochondria spawn new 'organelles' in cells
-   https://www.nature.com/articles/d41586-026-01439-2
-
-5. London’s unique charity-led restaurant gets a makeover
-   https://www.positive.news/society/londons-unique-charity-led-restaurant-gets-a-makeover/
-
-6. Introducing Advanced Account Security
-   https://openai.com/index/advanced-account-security
-
-7. Where the goblins came from
-   https://openai.com/index/where-the-goblins-came-from
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-03/newspaper.pdf]]></description>
-      <pubDate>Sun, 03 May 2026 06:27:26 -0000</pubDate>
-      <guid isPermaLink="false">2026-05-03</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-03.mp3" length="6413042" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Research roundup: 6 cool science stories we almost missed
-   Source: Ars Technica
-2. Bonus: Behind the Scenes of Artemis II with NASA Experts
-   Source: NASA Science
-3. Author Correction: Titration of RAS alters senescent state and influences tumour initiation
-   Source: Nature News
-4. Briefing Chat: Stressed mitochondria spawn new 'organelles' in cells
-   Source: Nature News
-5. London’s unique charity-led restaurant gets a makeover
-   Source: Positive News
-6. Introducing Advanced Account Security
-   Source: OpenAI News
-7. Where the goblins came from
-   Source: OpenAI News
-
-REFERENCES:
-
-1. Research roundup: 6 cool science stories we almost missed
-   https://arstechnica.com/science/2026/05/research-roundup-6-cool-science-stories-we-almost-missed-4/
-
-2. Bonus: Behind the Scenes of Artemis II with NASA Experts
-   https://www.nasa.gov/podcasts/curious-universe/bonus-behind-the-scenes-of-artemis-ii-with-nasa-experts/
-
-3. Author Correction: Titration of RAS alters senescent state and influences tumour initiation
-   https://www.nature.com/articles/s41586-026-10601-9
-
-4. Briefing Chat: Stressed mitochondria spawn new 'organelles' in cells
-   https://www.nature.com/articles/d41586-026-01439-2
-
-5. London’s unique charity-led restaurant gets a makeover
-   https://www.positive.news/society/londons-unique-charity-led-restaurant-gets-a-makeover/
-
-6. Introducing Advanced Account Security
-   https://openai.com/index/advanced-account-security
-
-7. Where the goblins came from
-   https://openai.com/index/where-the-goblins-came-from
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-03/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:25</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-03/episode-art.png"/>
     </item>
   </channel>
 </rss>
