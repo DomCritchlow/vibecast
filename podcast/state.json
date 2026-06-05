@@ -640,7 +640,14 @@
     "https://www.nature.com/articles/s41586-026-10624-2",
     "https://www.theverge.com/tech/942748/wiim-releases-first-soundbar",
     "https://www.space.com/astronomy/black-holes/can-black-holes-turn-into-white-holes-its-not-such-a-crazy-idea-scientists-say",
-    "https://www.space.com/stargazing/solar-eclipses/spains-total-solar-eclipse-2026-comes-with-a-catch-heres-how-to-avoid-ruining-your-view"
+    "https://www.space.com/stargazing/solar-eclipses/spains-total-solar-eclipse-2026-comes-with-a-catch-heres-how-to-avoid-ruining-your-view",
+    "https://www.nature.com/articles/d41586-026-01770-8",
+    "https://openai.com/index/chatgpt-memory-dreaming",
+    "https://science.nasa.gov/earth/earth-observatory/fighting-fire-with-fire/",
+    "https://www.nasa.gov/blogs/spacestation/2026/06/04/bioprinting-cartilage-producing-stem-cells-fill-thursdays-research-schedule/",
+    "https://www.space.com/astronomy/solar-system/meteorite-found-in-sahara-desert-may-be-1st-evidence-of-lost-solar-system-world",
+    "https://www.nature.com/articles/s41586-026-10694-2",
+    "https://www.positive.news/lifestyle/wellbeing/dutch-kids-declared-the-worlds-happiest-again-heres-why/"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -1283,7 +1290,14 @@
     "https://www.nature.com/articles/s41586-026-10624-2": "2026-06-04T08:23:39.677485",
     "https://www.theverge.com/tech/942748/wiim-releases-first-soundbar": "2026-06-04T08:23:39.677485",
     "https://www.space.com/astronomy/black-holes/can-black-holes-turn-into-white-holes-its-not-such-a-crazy-idea-scientists-say": "2026-06-04T08:23:39.677485",
-    "https://www.space.com/stargazing/solar-eclipses/spains-total-solar-eclipse-2026-comes-with-a-catch-heres-how-to-avoid-ruining-your-view": "2026-06-04T08:23:39.677485"
+    "https://www.space.com/stargazing/solar-eclipses/spains-total-solar-eclipse-2026-comes-with-a-catch-heres-how-to-avoid-ruining-your-view": "2026-06-04T08:23:39.677485",
+    "https://www.nature.com/articles/d41586-026-01770-8": "2026-06-05T08:09:51.387590",
+    "https://openai.com/index/chatgpt-memory-dreaming": "2026-06-05T08:09:51.387590",
+    "https://science.nasa.gov/earth/earth-observatory/fighting-fire-with-fire/": "2026-06-05T08:09:51.387590",
+    "https://www.nasa.gov/blogs/spacestation/2026/06/04/bioprinting-cartilage-producing-stem-cells-fill-thursdays-research-schedule/": "2026-06-05T08:09:51.387590",
+    "https://www.space.com/astronomy/solar-system/meteorite-found-in-sahara-desert-may-be-1st-evidence-of-lost-solar-system-world": "2026-06-05T08:09:51.387590",
+    "https://www.nature.com/articles/s41586-026-10694-2": "2026-06-05T08:09:51.387590",
+    "https://www.positive.news/lifestyle/wellbeing/dutch-kids-declared-the-worlds-happiest-again-heres-why/": "2026-06-05T08:09:51.387590"
   },
-  "last_run": "2026-06-04T08:23:39.677485"
+  "last_run": "2026-06-05T08:09:51.387590"
 }

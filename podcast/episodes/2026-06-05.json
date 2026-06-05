@@ -1,0 +1,66 @@
+{
+  "guid": "2026-06-05",
+  "date": "2026-06-05T08:08:39.036554",
+  "title": "Military Science Impact & Sahara Meteorite Discovery",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 298.5263157894737,
+  "duration_formatted": "4:58",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-05.mp3",
+    "audio_size_bytes": 7242482,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-05/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-05/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-06-05.txt"
+  },
+  "stories": [
+    {
+      "title": "Science with military applications is cited more than civilian-only research",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01770-8",
+      "summary": "Nature, Published online: 04 June 2026; doi:10.1038/d41586-026-01770-8Researchers analysed the scientific impact of dual-use research in US patent records and bibliometric databases."
+    },
+    {
+      "title": "Dreaming: Better memory for a more helpful ChatGPT",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming",
+      "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations."
+    },
+    {
+      "title": "Fighting Fire With Fire",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/earth/earth-observatory/fighting-fire-with-fire/",
+      "summary": "In fire-prone ecosystems in Australia's Northern Territory, prescribed burns are lit to minimize the severity of fires later in the season. The post Fighting Fire With Fire appeared first on NASA Science."
+    },
+    {
+      "title": "Bioprinting Cartilage, Producing Stem Cells Fill Thursday’s Research Schedule",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/06/04/bioprinting-cartilage-producing-stem-cells-fill-thursdays-research-schedule/",
+      "summary": "3D bioprinting and stem cell research were the main research topics aboard the International Space Station on Thursday. The Expedition 74 crew members also photographed growing plants and lab windows for inspection while continuing to pack a U.S. cargo spacecraft. The post Bioprinting Cartilage, Producing Stem Cells Fill Thursday’s Research Schedule appeared first on NASA Science."
+    },
+    {
+      "title": "Meteorite found in Sahara desert may be 1st evidence of lost solar system world",
+      "source": "Space.com",
+      "url": "https://www.space.com/astronomy/solar-system/meteorite-found-in-sahara-desert-may-be-1st-evidence-of-lost-solar-system-world",
+      "summary": "A rare meteorite recovered from the Sahara Desert contains evidence of a long-lost moon-size world that existed just a few million years after the solar system formed."
+    },
+    {
+      "title": "Author Correction: Physiology and immunology of a pig-to-human decedent kidney xenotransplant",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10694-2",
+      "summary": "Nature, Published online: 04 June 2026; doi:10.1038/s41586-026-10694-2Author Correction: Physiology and immunology of a pig-to-human decedent kidney xenotransplant"
+    },
+    {
+      "title": "Dutch kids declared the world’s happiest (again). Here’s why",
+      "source": "Positive News",
+      "url": "https://www.positive.news/lifestyle/wellbeing/dutch-kids-declared-the-worlds-happiest-again-heres-why/",
+      "summary": "Dutch children are consistently ranked the happiest in the developed world. What is the Netherlands getting right? The post Dutch kids declared the world’s happiest (again). Here’s why appeared first on Positive News."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-06-05T08:09:51.366875",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
