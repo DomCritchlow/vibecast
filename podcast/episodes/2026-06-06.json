@@ -1,0 +1,66 @@
+{
+  "guid": "2026-06-06",
+  "date": "2026-06-06T06:54:29.598122",
+  "title": "NASA Innovation Winners & Human Embryo Gene Editing Debate",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 329.2631578947369,
+  "duration_formatted": "5:29",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-06.mp3",
+    "audio_size_bytes": 7960954,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-06/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-06/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-06-06.txt"
+  },
+  "stories": [
+    {
+      "title": "NASA Announces Winners of 2026 University Innovation Competition",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-announces-winners-of-2026-university-innovation-competition/",
+      "summary": "NASA announced the Massachusetts Institute of Technology project, Exploration-Class Lunar Integrated Power SystEm, as the first place winner for the 2026 Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition, which challenges students to bridge gaps in aerospace technology by innovating new system concepts and prototypes. Another team from the same university won second place overall for their project, Mars Exploration Layered Infrastructure for Operations, Research, and Advancement, while Virginia Polytechnic Institute and State University took third place with the Mars […] The post NASA Announces Winners of 2026 University Innovation Competition appeared first on NASA Science."
+    },
+    {
+      "title": "First precise genome editing of human embryos triggers praise and alarm",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01827-8",
+      "summary": "Nature, Published online: 05 June 2026; doi:10.1038/d41586-026-01827-8The ‘base editing’ technique that researchers used is far from ready for the clinic, but critics worry it will spur a rush to commercialization."
+    },
+    {
+      "title": "Europe is ditching US tech — what does this mean for researchers?",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01610-9",
+      "summary": "Nature, Published online: 05 June 2026; doi:10.1038/d41586-026-01610-9European governments are choosing European digital tools — and some universities and researchers are doing the same."
+    },
+    {
+      "title": "How a Citizen Science Organization Aims to Preserve the Places It Brings Tourists to Study",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/preserving-the-places-tourists-go-to-study/",
+      "summary": "The actual eco-friendliness of ecotourism varies considerably. One research station in the Peruvian Amazon is out to prove it can bring visitors to the area without disrupting the environment."
+    },
+    {
+      "title": "NASA’s Artemis II Moon Mission Research Continues on Earth",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/uncategorized/nasas-artemis-ii-moon-mission-research-continues-on-earth/",
+      "summary": "Since NASA’s Artemis II crew members safely splashed down in the Pacific Ocean on April 10 after their record-setting mission around the Moon, science teams have been busy collecting more data and combing through observations collected on the test flight. Results from these science investigations will help support safe human exploration of deep space and [&#8230;] The post NASA’s Artemis II Moon Mission Research Continues on Earth appeared first on NASA Science."
+    },
+    {
+      "title": "Scientists find wind blowing from our Milky Way's black hole after half-century search: 'There it is'",
+      "source": "Space.com",
+      "url": "https://www.space.com/astronomy/black-holes/scientists-find-wind-blowing-from-our-milky-ways-black-hole-after-half-century-search-there-it-is",
+      "summary": "After searching for 50 years, astronomers have finally discovered powerful winds blowing from Sagittarius A*, the supermassive black hole at the heart of our galaxy."
+    },
+    {
+      "title": "Biodefense in the Intelligence Age",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
+      "summary": "An action plan for AI-powered biological resilience"
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-06-06T06:55:52.332938",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

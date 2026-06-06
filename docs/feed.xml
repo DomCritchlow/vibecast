@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jun 2026 08:09:51 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 06:55:52 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>NASA Innovation Winners &amp; Human Embryo Gene Editing Debate</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. NASA Announces Winners of 2026 University Innovation Competition
+   Source: NASA Science
+2. First precise genome editing of human embryos triggers praise and alarm
+   Source: Nature News
+3. Europe is ditching US tech — what does this mean for researchers?
+   Source: Nature News
+4. How a Citizen Science Organization Aims to Preserve the Places It Brings Tourists to Study
+   Source: Wired
+5. NASA’s Artemis II Moon Mission Research Continues on Earth
+   Source: NASA Science
+6. Scientists find wind blowing from our Milky Way's black hole after half-century search: 'There it is'
+   Source: Space.com
+7. Biodefense in the Intelligence Age
+   Source: OpenAI News
+
+REFERENCES:
+
+1. NASA Announces Winners of 2026 University Innovation Competition
+   https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-announces-winners-of-2026-university-innovation-competition/
+
+2. First precise genome editing of human embryos triggers praise and alarm
+   https://www.nature.com/articles/d41586-026-01827-8
+
+3. Europe is ditching US tech — what does this mean for researchers?
+   https://www.nature.com/articles/d41586-026-01610-9
+
+4. How a Citizen Science Organization Aims to Preserve the Places It Brings Tourists to Study
+   https://www.wired.com/story/preserving-the-places-tourists-go-to-study/
+
+5. NASA’s Artemis II Moon Mission Research Continues on Earth
+   https://science.nasa.gov/uncategorized/nasas-artemis-ii-moon-mission-research-continues-on-earth/
+
+6. Scientists find wind blowing from our Milky Way's black hole after half-century search: 'There it is'
+   https://www.space.com/astronomy/black-holes/scientists-find-wind-blowing-from-our-milky-ways-black-hole-after-half-century-search-there-it-is
+
+7. Biodefense in the Intelligence Age
+   https://openai.com/index/biodefense-in-the-intelligence-age
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-06/newspaper.pdf]]></description>
+      <pubDate>Sat, 06 Jun 2026 06:54:29 -0000</pubDate>
+      <guid isPermaLink="false">2026-06-06</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-06.mp3" length="7960954" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. NASA Announces Winners of 2026 University Innovation Competition
+   Source: NASA Science
+2. First precise genome editing of human embryos triggers praise and alarm
+   Source: Nature News
+3. Europe is ditching US tech — what does this mean for researchers?
+   Source: Nature News
+4. How a Citizen Science Organization Aims to Preserve the Places It Brings Tourists to Study
+   Source: Wired
+5. NASA’s Artemis II Moon Mission Research Continues on Earth
+   Source: NASA Science
+6. Scientists find wind blowing from our Milky Way's black hole after half-century search: 'There it is'
+   Source: Space.com
+7. Biodefense in the Intelligence Age
+   Source: OpenAI News
+
+REFERENCES:
+
+1. NASA Announces Winners of 2026 University Innovation Competition
+   https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-announces-winners-of-2026-university-innovation-competition/
+
+2. First precise genome editing of human embryos triggers praise and alarm
+   https://www.nature.com/articles/d41586-026-01827-8
+
+3. Europe is ditching US tech — what does this mean for researchers?
+   https://www.nature.com/articles/d41586-026-01610-9
+
+4. How a Citizen Science Organization Aims to Preserve the Places It Brings Tourists to Study
+   https://www.wired.com/story/preserving-the-places-tourists-go-to-study/
+
+5. NASA’s Artemis II Moon Mission Research Continues on Earth
+   https://science.nasa.gov/uncategorized/nasas-artemis-ii-moon-mission-research-continues-on-earth/
+
+6. Scientists find wind blowing from our Milky Way's black hole after half-century search: 'There it is'
+   https://www.space.com/astronomy/black-holes/scientists-find-wind-blowing-from-our-milky-ways-black-hole-after-half-century-search-there-it-is
+
+7. Biodefense in the Intelligence Age
+   https://openai.com/index/biodefense-in-the-intelligence-age
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-06/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>5:29</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-06/episode-art.png"/>
+    </item>
     <item>
       <title>Military Science Impact &amp; Sahara Meteorite Discovery</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:50</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-06/episode-art.png"/>
-    </item>
-    <item>
-      <title>Iranian Lab Loss &amp; AI Risks Ahead with NASA Lunar Tech</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. 'Heartbreaking': Iranian scientists on losing labs, libraries and liberty
-   Source: Nature News
-2. Anthropic co-founder Jack Clark: 60%+ chance of automated AI R&D by 2029
-   Source: Hacker News (AI filtered)
-3. Kenya: AI was used to load Health System costs onto poorest
-   Source: Hacker News (AI filtered)
-4. NASA Fosters Development of Lunar Resource-Seeking Technologies
-   Source: NASA Science
-5. Upcoming SIG and SAG Activities, 4 May – 11 May 2026
-   Source: NASA Science
-6. Powerful tools are revealing the ‘control knobs’ of the genome
-   Source: Nature News
-7. Woodland walks cut anxiety, study finds
-   Source: Positive News
-
-REFERENCES:
-
-1. 'Heartbreaking': Iranian scientists on losing labs, libraries and liberty
-   https://www.nature.com/articles/d41586-026-01394-y
-
-2. Anthropic co-founder Jack Clark: 60%+ chance of automated AI R&D by 2029
-   https://importai.substack.com/p/import-ai-455-automating-ai-research
-
-3. Kenya: AI was used to load Health System costs onto poorest
-   https://sha.africauncensored.online/
-
-4. NASA Fosters Development of Lunar Resource-Seeking Technologies
-   https://www.nasa.gov/technology/nasa-fosters-development-of-lunar-resource-seeking-technologies/
-
-5. Upcoming SIG and SAG Activities, 4 May – 11 May 2026
-   https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/upcoming-sig-and-sag-activities/
-
-6. Powerful tools are revealing the ‘control knobs’ of the genome
-   https://www.nature.com/articles/d41586-026-01410-1
-
-7. Woodland walks cut anxiety, study finds
-   https://www.positive.news/lifestyle/woodland-walks-cut-anxiety-study-finds/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-05/newspaper.pdf]]></description>
-      <pubDate>Tue, 05 May 2026 06:17:48 -0000</pubDate>
-      <guid isPermaLink="false">2026-05-05</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-05.mp3" length="6990452" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. 'Heartbreaking': Iranian scientists on losing labs, libraries and liberty
-   Source: Nature News
-2. Anthropic co-founder Jack Clark: 60%+ chance of automated AI R&D by 2029
-   Source: Hacker News (AI filtered)
-3. Kenya: AI was used to load Health System costs onto poorest
-   Source: Hacker News (AI filtered)
-4. NASA Fosters Development of Lunar Resource-Seeking Technologies
-   Source: NASA Science
-5. Upcoming SIG and SAG Activities, 4 May – 11 May 2026
-   Source: NASA Science
-6. Powerful tools are revealing the ‘control knobs’ of the genome
-   Source: Nature News
-7. Woodland walks cut anxiety, study finds
-   Source: Positive News
-
-REFERENCES:
-
-1. 'Heartbreaking': Iranian scientists on losing labs, libraries and liberty
-   https://www.nature.com/articles/d41586-026-01394-y
-
-2. Anthropic co-founder Jack Clark: 60%+ chance of automated AI R&D by 2029
-   https://importai.substack.com/p/import-ai-455-automating-ai-research
-
-3. Kenya: AI was used to load Health System costs onto poorest
-   https://sha.africauncensored.online/
-
-4. NASA Fosters Development of Lunar Resource-Seeking Technologies
-   https://www.nasa.gov/technology/nasa-fosters-development-of-lunar-resource-seeking-technologies/
-
-5. Upcoming SIG and SAG Activities, 4 May – 11 May 2026
-   https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/upcoming-sig-and-sag-activities/
-
-6. Powerful tools are revealing the ‘control knobs’ of the genome
-   https://www.nature.com/articles/d41586-026-01410-1
-
-7. Woodland walks cut anxiety, study finds
-   https://www.positive.news/lifestyle/woodland-walks-cut-anxiety-study-finds/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-05/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:53</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-05/episode-art.png"/>
     </item>
   </channel>
 </rss>
