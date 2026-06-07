@@ -1,0 +1,66 @@
+{
+  "guid": "2026-06-07",
+  "date": "2026-06-07T07:55:57.824221",
+  "title": "Ancient Ötzi Microbes & Mars Helicopter Reveal",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 283.36842105263156,
+  "duration_formatted": "4:43",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-07.mp3",
+    "audio_size_bytes": 6846884,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-07/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-07/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-06-07.txt"
+  },
+  "stories": [
+    {
+      "title": "Some ancient microbes frozen with Ötzi the Iceman are still growing",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/06/otzis-mummified-body-is-home-to-ancient-strains-of-yeast-and-bacteria/",
+      "summary": "What’s the difference between a person, an artifact, and an ecosystem?"
+    },
+    {
+      "title": "The Best 3-in-1 Apple Charging Stations After Testing Top Models",
+      "source": "Wired",
+      "url": "https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/",
+      "summary": "I tried all the top models to find the best 3-in-1 Apple charging stations, pads, and more. Keep your iPhone, Apple Watch, and AirPods topped up with these WIRED-tested docking systems."
+    },
+    {
+      "title": "Briefing chat: Spinosaurs with salt glands could have lived in marine environments",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01831-y",
+      "summary": "Nature, Published online: 05 June 2026; doi:10.1038/d41586-026-01831-yNature staff discuss some of the week’s top science news."
+    },
+    {
+      "title": "See a helicopter destined for Mars and a spectacular flowery frame for the Milky Way — May’s best science images",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01609-2",
+      "summary": "Nature, Published online: 05 June 2026; doi:10.1038/d41586-026-01609-2The month’s sharpest science shots, selected by Nature’s photo team."
+    },
+    {
+      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/wasmer",
+      "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months."
+    },
+    {
+      "title": "A blueprint for democratic governance of frontier AI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security."
+    },
+    {
+      "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
+      "summary": "A collection of science tools and experiments to expand the scale and precision of scientific exploration."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-06-07T07:57:02.793173",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

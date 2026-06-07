@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Jun 2026 06:55:52 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 07:57:02 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Ancient Ötzi Microbes &amp; Mars Helicopter Reveal</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Some ancient microbes frozen with Ötzi the Iceman are still growing
+   Source: Ars Technica
+2. The Best 3-in-1 Apple Charging Stations After Testing Top Models
+   Source: Wired
+3. Briefing chat: Spinosaurs with salt glands could have lived in marine environments
+   Source: Nature News
+4. See a helicopter destined for Mars and a spectacular flowery frame for the Milky Way — May’s best science images
+   Source: Nature News
+5. How Wasmer used Codex to build a Node.js runtime for the edge
+   Source: OpenAI News
+6. A blueprint for democratic governance of frontier AI
+   Source: OpenAI News
+7. Gemini for Science: AI experiments and tools for a new era of discovery
+   Source: DeepMind Blog
+
+REFERENCES:
+
+1. Some ancient microbes frozen with Ötzi the Iceman are still growing
+   https://arstechnica.com/science/2026/06/otzis-mummified-body-is-home-to-ancient-strains-of-yeast-and-bacteria/
+
+2. The Best 3-in-1 Apple Charging Stations After Testing Top Models
+   https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/
+
+3. Briefing chat: Spinosaurs with salt glands could have lived in marine environments
+   https://www.nature.com/articles/d41586-026-01831-y
+
+4. See a helicopter destined for Mars and a spectacular flowery frame for the Milky Way — May’s best science images
+   https://www.nature.com/articles/d41586-026-01609-2
+
+5. How Wasmer used Codex to build a Node.js runtime for the edge
+   https://openai.com/index/wasmer
+
+6. A blueprint for democratic governance of frontier AI
+   https://openai.com/index/frontier-safety-blueprint
+
+7. Gemini for Science: AI experiments and tools for a new era of discovery
+   https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-07/newspaper.pdf]]></description>
+      <pubDate>Sun, 07 Jun 2026 07:55:57 -0000</pubDate>
+      <guid isPermaLink="false">2026-06-07</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-07.mp3" length="6846884" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Some ancient microbes frozen with Ötzi the Iceman are still growing
+   Source: Ars Technica
+2. The Best 3-in-1 Apple Charging Stations After Testing Top Models
+   Source: Wired
+3. Briefing chat: Spinosaurs with salt glands could have lived in marine environments
+   Source: Nature News
+4. See a helicopter destined for Mars and a spectacular flowery frame for the Milky Way — May’s best science images
+   Source: Nature News
+5. How Wasmer used Codex to build a Node.js runtime for the edge
+   Source: OpenAI News
+6. A blueprint for democratic governance of frontier AI
+   Source: OpenAI News
+7. Gemini for Science: AI experiments and tools for a new era of discovery
+   Source: DeepMind Blog
+
+REFERENCES:
+
+1. Some ancient microbes frozen with Ötzi the Iceman are still growing
+   https://arstechnica.com/science/2026/06/otzis-mummified-body-is-home-to-ancient-strains-of-yeast-and-bacteria/
+
+2. The Best 3-in-1 Apple Charging Stations After Testing Top Models
+   https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/
+
+3. Briefing chat: Spinosaurs with salt glands could have lived in marine environments
+   https://www.nature.com/articles/d41586-026-01831-y
+
+4. See a helicopter destined for Mars and a spectacular flowery frame for the Milky Way — May’s best science images
+   https://www.nature.com/articles/d41586-026-01609-2
+
+5. How Wasmer used Codex to build a Node.js runtime for the edge
+   https://openai.com/index/wasmer
+
+6. A blueprint for democratic governance of frontier AI
+   https://openai.com/index/frontier-safety-blueprint
+
+7. Gemini for Science: AI experiments and tools for a new era of discovery
+   https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-07/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:43</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-07/episode-art.png"/>
+    </item>
     <item>
       <title>NASA Innovation Winners &amp; Human Embryo Gene Editing Debate</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>5:05</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-07/episode-art.png"/>
-    </item>
-    <item>
-      <title>Microsoft NSDI Advances &amp; AI Agents Impact on Research</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Microsoft at NSDI 2026: Advances in large-scale networked systems
-   Source: Microsoft Research Blog
-2. AI agents in research: when productivity comes at the cost of apprenticeship
-   Source: Nature News
-3. GPT-5.5 Instant System Card
-   Source: OpenAI News
-4. Google Home gets upgraded Gemini voice assistant and new camera controls
-   Source: Ars Technica
-5. Apple could let you pick a favorite AI model in iOS 27
-   Source: The Verge
-6. NASA eClips and GLOBE Educators Strengthen a Regional STEM Ecosystem in Coastal Virginia
-   Source: NASA Science
-7. Correction to A.3 NISAR Mission Data, Applications, Research, and Technology Team
-   Source: NASA Science
-
-REFERENCES:
-
-1. Microsoft at NSDI 2026: Advances in large-scale networked systems
-   https://www.microsoft.com/en-us/research/blog/microsoft-at-nsdi-2026-advances-in-large-scale-networked-systems/
-
-2. AI agents in research: when productivity comes at the cost of apprenticeship
-   https://www.nature.com/articles/d41586-026-01440-9
-
-3. GPT-5.5 Instant System Card
-   https://openai.com/index/gpt-5-5-instant-system-card
-
-4. Google Home gets upgraded Gemini voice assistant and new camera controls
-   https://arstechnica.com/gadgets/2026/05/google-home-gets-upgraded-gemini-voice-assistant-and-new-camera-controls/
-
-5. Apple could let you pick a favorite AI model in iOS 27
-   https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27
-
-6. NASA eClips and GLOBE Educators Strengthen a Regional STEM Ecosystem in Coastal Virginia
-   https://science.nasa.gov/learning-resources/science-activation/nasa-eclips-and-globe-educators-strengthen-a-regional-stem-ecosystem-in-coastal-virginia/
-
-7. Correction to A.3 NISAR Mission Data, Applications, Research, and Technology Team
-   https://science.nasa.gov/researchers/solicitations/roses-2025/correction-to-a-3-nisar-mission-data-applications-research-and-technology-team/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-06/newspaper.pdf]]></description>
-      <pubDate>Wed, 06 May 2026 06:30:32 -0000</pubDate>
-      <guid isPermaLink="false">2026-05-06</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-06.mp3" length="6946566" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Microsoft at NSDI 2026: Advances in large-scale networked systems
-   Source: Microsoft Research Blog
-2. AI agents in research: when productivity comes at the cost of apprenticeship
-   Source: Nature News
-3. GPT-5.5 Instant System Card
-   Source: OpenAI News
-4. Google Home gets upgraded Gemini voice assistant and new camera controls
-   Source: Ars Technica
-5. Apple could let you pick a favorite AI model in iOS 27
-   Source: The Verge
-6. NASA eClips and GLOBE Educators Strengthen a Regional STEM Ecosystem in Coastal Virginia
-   Source: NASA Science
-7. Correction to A.3 NISAR Mission Data, Applications, Research, and Technology Team
-   Source: NASA Science
-
-REFERENCES:
-
-1. Microsoft at NSDI 2026: Advances in large-scale networked systems
-   https://www.microsoft.com/en-us/research/blog/microsoft-at-nsdi-2026-advances-in-large-scale-networked-systems/
-
-2. AI agents in research: when productivity comes at the cost of apprenticeship
-   https://www.nature.com/articles/d41586-026-01440-9
-
-3. GPT-5.5 Instant System Card
-   https://openai.com/index/gpt-5-5-instant-system-card
-
-4. Google Home gets upgraded Gemini voice assistant and new camera controls
-   https://arstechnica.com/gadgets/2026/05/google-home-gets-upgraded-gemini-voice-assistant-and-new-camera-controls/
-
-5. Apple could let you pick a favorite AI model in iOS 27
-   https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27
-
-6. NASA eClips and GLOBE Educators Strengthen a Regional STEM Ecosystem in Coastal Virginia
-   https://science.nasa.gov/learning-resources/science-activation/nasa-eclips-and-globe-educators-strengthen-a-regional-stem-ecosystem-in-coastal-virginia/
-
-7. Correction to A.3 NISAR Mission Data, Applications, Research, and Technology Team
-   https://science.nasa.gov/researchers/solicitations/roses-2025/correction-to-a-3-nisar-mission-data-applications-research-and-technology-team/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-06/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:50</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-06/episode-art.png"/>
     </item>
   </channel>
 </rss>
