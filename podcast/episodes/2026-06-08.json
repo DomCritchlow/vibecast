@@ -1,0 +1,66 @@
+{
+  "guid": "2026-06-08",
+  "date": "2026-06-08T08:56:08.345518",
+  "title": "Dao Heart AI Safety & EV Pollution Cuts in China",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 256.8421052631579,
+  "duration_formatted": "4:16",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-08.mp3",
+    "audio_size_bytes": 6467543,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-08/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-08/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-06-08.txt"
+  },
+  "stories": [
+    {
+      "title": "Dao Heart 3.13 a symbolic safety layer for value drift and AI alignment research",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://github.com/Mankirat47/Dao-Heart-3.13",
+      "summary": "Article URL: https://github.com/Mankirat47/Dao-Heart-3.13 Comments URL: https://news.ycombinator.com/item?id=48442582 Points: 1 # Comments: 0"
+    },
+    {
+      "title": "Electric vehicles cut pollution in China – and prevent 260,000 premature deaths",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01781-5",
+      "summary": "Nature, Published online: 05 June 2026; doi:10.1038/d41586-026-01781-5Having fewer fossil-fuel powered cars on the road is reducing some pollutants, but not others."
+    },
+    {
+      "title": "Device could sniff out fusion reactors secretly making material for a nuclear bomb",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01764-6",
+      "summary": "Nature, Published online: 04 June 2026; doi:10.1038/d41586-026-01764-6Antineutrinos made alongside the production of weapons-grade plutonium could be spotted with existing technology."
+    },
+    {
+      "title": "OpenAI public policy agenda",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/public-policy-agenda",
+      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society."
+    },
+    {
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/travelers",
+      "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand."
+    },
+    {
+      "title": "Making it easier to understand how content was created and edited",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
+      "summary": "We're expanding our tools to help you understand how content was created and edited across the web."
+    },
+    {
+      "title": "Strengthening Singapore’s AI Future: A New National Partnership",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+      "summary": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-06-08T08:57:18.418962",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
