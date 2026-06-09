@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jun 2026 08:57:18 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 07:52:44 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Chaos Theory, Rising Cancer Rates &amp; Apple’s Hidden Updates</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Fifty years since a simple equation described the chaos of biology
+   Source: Nature News
+2. Why are so many young people getting cancer? What researchers do and don't know
+   Source: Nature News
+3. Introducing the OpenAI Economic Research Exchange
+   Source: OpenAI News
+4. Where was tvOS 27 at WWDC?
+   Source: The Verge
+5. 44 things coming to your Apple devices that you might have missed
+   Source: The Verge
+6. How NASA Science and Artemis Are Shaping the 2026 FIFA World Cup
+   Source: NASA Science
+7. HWO Detector System Development Study
+   Source: NASA Science
+
+REFERENCES:
+
+1. Fifty years since a simple equation described the chaos of biology
+   https://www.nature.com/articles/d41586-026-01584-8
+
+2. Why are so many young people getting cancer? What researchers do and don't know
+   https://www.nature.com/articles/d41586-026-01780-6
+
+3. Introducing the OpenAI Economic Research Exchange
+   https://openai.com/index/economic-research-exchange
+
+4. Where was tvOS 27 at WWDC?
+   https://www.theverge.com/tech/946329/tvos-27-absent-wwdc
+
+5. 44 things coming to your Apple devices that you might have missed
+   https://www.theverge.com/tech/946260/apple-wwdc-2026-ios-ipados-macos-watchos-visionos-27-features-missed
+
+6. How NASA Science and Artemis Are Shaping the 2026 FIFA World Cup
+   https://www.nasa.gov/centers-and-facilities/johnson/how-nasa-science-and-artemis-are-shaping-the-2026-fifa-world-cup/
+
+7. HWO Detector System Development Study
+   https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/hwo-detector-system-development-study/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-09/newspaper.pdf]]></description>
+      <pubDate>Tue, 09 Jun 2026 07:51:32 -0000</pubDate>
+      <guid isPermaLink="false">2026-06-09</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-09.mp3" length="7014276" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Fifty years since a simple equation described the chaos of biology
+   Source: Nature News
+2. Why are so many young people getting cancer? What researchers do and don't know
+   Source: Nature News
+3. Introducing the OpenAI Economic Research Exchange
+   Source: OpenAI News
+4. Where was tvOS 27 at WWDC?
+   Source: The Verge
+5. 44 things coming to your Apple devices that you might have missed
+   Source: The Verge
+6. How NASA Science and Artemis Are Shaping the 2026 FIFA World Cup
+   Source: NASA Science
+7. HWO Detector System Development Study
+   Source: NASA Science
+
+REFERENCES:
+
+1. Fifty years since a simple equation described the chaos of biology
+   https://www.nature.com/articles/d41586-026-01584-8
+
+2. Why are so many young people getting cancer? What researchers do and don't know
+   https://www.nature.com/articles/d41586-026-01780-6
+
+3. Introducing the OpenAI Economic Research Exchange
+   https://openai.com/index/economic-research-exchange
+
+4. Where was tvOS 27 at WWDC?
+   https://www.theverge.com/tech/946329/tvos-27-absent-wwdc
+
+5. 44 things coming to your Apple devices that you might have missed
+   https://www.theverge.com/tech/946260/apple-wwdc-2026-ios-ipados-macos-watchos-visionos-27-features-missed
+
+6. How NASA Science and Artemis Are Shaping the 2026 FIFA World Cup
+   https://www.nasa.gov/centers-and-facilities/johnson/how-nasa-science-and-artemis-are-shaping-the-2026-fifa-world-cup/
+
+7. HWO Detector System Development Study
+   https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/hwo-detector-system-development-study/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-09/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>5:05</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-09/episode-art.png"/>
+    </item>
     <item>
       <title>Dao Heart AI Safety &amp; EV Pollution Cuts in China</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>5:30</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-09/episode-art.png"/>
-    </item>
-    <item>
-      <title>Early-Career Science Disruption &amp; GPT-5.5 Cybersecurity A...</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Early-career researchers do more ‘disruptive’ science than veterans
-   Source: Nature News
-2. Stephen Young
-   Source: NASA Science
-3. Rick Dunbar
-   Source: NASA Science
-4. Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber
-   Source: OpenAI News
-5. How frontier firms are pulling ahead
-   Source: OpenAI News
-6. The balcony solar boom is coming to the US
-   Source: MIT Technology Review
-7. Is your Porsche Taycan too slow at the Nürburgring? You need this Manthey Kit.
-   Source: Ars Technica
-
-REFERENCES:
-
-1. Early-career researchers do more ‘disruptive’ science than veterans
-   https://www.nature.com/articles/d41586-026-01466-z
-
-2. Stephen Young
-   https://www.nasa.gov/people/stephen-young/
-
-3. Rick Dunbar
-   https://www.nasa.gov/people/rick-dunbar/
-
-4. Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber
-   https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber
-
-5. How frontier firms are pulling ahead
-   https://openai.com/index/introducing-b2b-signals
-
-6. The balcony solar boom is coming to the US
-   https://www.technologyreview.com/2026/05/07/1136933/balcony-solar-boom/
-
-7. Is your Porsche Taycan too slow at the Nürburgring? You need this Manthey Kit.
-   https://arstechnica.com/cars/2026/05/is-your-porsche-taycan-too-slow-at-the-nurbugring-you-need-this-manthey-kit/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-08/newspaper.pdf]]></description>
-      <pubDate>Fri, 08 May 2026 05:58:47 -0000</pubDate>
-      <guid isPermaLink="false">2026-05-08</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-08.mp3" length="6125234" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Early-career researchers do more ‘disruptive’ science than veterans
-   Source: Nature News
-2. Stephen Young
-   Source: NASA Science
-3. Rick Dunbar
-   Source: NASA Science
-4. Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber
-   Source: OpenAI News
-5. How frontier firms are pulling ahead
-   Source: OpenAI News
-6. The balcony solar boom is coming to the US
-   Source: MIT Technology Review
-7. Is your Porsche Taycan too slow at the Nürburgring? You need this Manthey Kit.
-   Source: Ars Technica
-
-REFERENCES:
-
-1. Early-career researchers do more ‘disruptive’ science than veterans
-   https://www.nature.com/articles/d41586-026-01466-z
-
-2. Stephen Young
-   https://www.nasa.gov/people/stephen-young/
-
-3. Rick Dunbar
-   https://www.nasa.gov/people/rick-dunbar/
-
-4. Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber
-   https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber
-
-5. How frontier firms are pulling ahead
-   https://openai.com/index/introducing-b2b-signals
-
-6. The balcony solar boom is coming to the US
-   https://www.technologyreview.com/2026/05/07/1136933/balcony-solar-boom/
-
-7. Is your Porsche Taycan too slow at the Nürburgring? You need this Manthey Kit.
-   https://arstechnica.com/cars/2026/05/is-your-porsche-taycan-too-slow-at-the-nurbugring-you-need-this-manthey-kit/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-08/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:13</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-08/episode-art.png"/>
     </item>
   </channel>
 </rss>

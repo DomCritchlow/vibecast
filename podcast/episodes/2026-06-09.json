@@ -1,0 +1,66 @@
+{
+  "guid": "2026-06-09",
+  "date": "2026-06-09T07:51:32.470197",
+  "title": "Chaos Theory, Rising Cancer Rates & Apple’s Hidden Updates",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 305.6842105263158,
+  "duration_formatted": "5:05",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-09.mp3",
+    "audio_size_bytes": 7014276,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-09/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-09/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-06-09.txt"
+  },
+  "stories": [
+    {
+      "title": "Fifty years since a simple equation described the chaos of biology",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01584-8",
+      "summary": "Nature, Published online: 08 June 2026; doi:10.1038/d41586-026-01584-8An exploration of chaos theory in population dynamics showed that unpredictable systems can often be modelled using surprisingly simple mathematics."
+    },
+    {
+      "title": "Why are so many young people getting cancer? What researchers do and don't know",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01780-6",
+      "summary": "Nature, Published online: 08 June 2026; doi:10.1038/d41586-026-01780-6Candidates for the trend are emerging, but are likely to vary from one type of tumor to another."
+    },
+    {
+      "title": "Introducing the OpenAI Economic Research Exchange",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/economic-research-exchange",
+      "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects."
+    },
+    {
+      "title": "Where was tvOS 27 at WWDC?",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/946329/tvos-27-absent-wwdc",
+      "summary": "Every year, Apple's Worldwide Developers Conference gives us a first look at what's coming next to the company's many operating systems. But missing from today's keynote, apart from a single graphic listing all current Apple OSes next to a big \"27,\" was any mention of tvOS. The whole structure of this year's WWDC was different, [&#8230;]"
+    },
+    {
+      "title": "44 things coming to your Apple devices that you might have missed",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/946260/apple-wwdc-2026-ios-ipados-macos-watchos-visionos-27-features-missed",
+      "summary": "This year's WWDC keynote was all about AI. But with all the attention on Apple Intelligence and Siri AI, the company breezed by - or neglected to mention - a bunch of cool, smaller features across its new updates. I've rounded up a bunch of them right here. The new operating systems are available in [&#8230;]"
+    },
+    {
+      "title": "How NASA Science and Artemis Are Shaping the 2026 FIFA World Cup",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/how-nasa-science-and-artemis-are-shaping-the-2026-fifa-world-cup/",
+      "summary": "As the FIFA World Cup approaches, NASA is bringing space science and engineering to soccer fans worldwide. From June 11 to July 19, 2026, NASA will host an exhibit at FIFA Fan Festival™ Houston where visitors can learn how research aboard the International Space Station benefits life on Earth and experience missions in low Earth orbit, the Moon, and beyond through the Artemis program. On June 11, as the FIFA World Cup begins, NASA’s exhibit […] The post How NASA Science and Artemis Are Shaping the 2026 FIFA World Cup appeared first on NASA Science."
+    },
+    {
+      "title": "HWO Detector System Development Study",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/hwo-detector-system-development-study/",
+      "summary": "The Habitable Worlds Observatory Technology Maturation Project Office and Columbus Technologies are excited to invite you to participate in a Detector System Development Study The post HWO Detector System Development Study appeared first on NASA Science."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-06-09T07:52:44.235946",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
