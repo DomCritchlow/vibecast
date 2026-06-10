@@ -675,7 +675,14 @@
     "https://www.theverge.com/tech/946329/tvos-27-absent-wwdc",
     "https://www.theverge.com/tech/946260/apple-wwdc-2026-ios-ipados-macos-watchos-visionos-27-features-missed",
     "https://www.nasa.gov/centers-and-facilities/johnson/how-nasa-science-and-artemis-are-shaping-the-2026-fifa-world-cup/",
-    "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/hwo-detector-system-development-study/"
+    "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/hwo-detector-system-development-study/",
+    "https://www.space.com/technology/thruster-breakthrough-new-2-in-1-propulsion-system-is-about-to-get-an-in-space-test",
+    "https://www.nature.com/articles/d41586-026-01662-x",
+    "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
+    "https://www.nasa.gov/directorates/armd/flight-dynamics-research-facility/",
+    "https://www.nasa.gov/directorates/armd/aetc/fdrf-characteristics/",
+    "https://www.space.com/astronomy/black-holes/these-record-breaking-black-hole-winds-could-create-a-category-79-hurricane-on-earth",
+    "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -1353,7 +1360,14 @@
     "https://www.theverge.com/tech/946329/tvos-27-absent-wwdc": "2026-06-09T07:52:44.257940",
     "https://www.theverge.com/tech/946260/apple-wwdc-2026-ios-ipados-macos-watchos-visionos-27-features-missed": "2026-06-09T07:52:44.257940",
     "https://www.nasa.gov/centers-and-facilities/johnson/how-nasa-science-and-artemis-are-shaping-the-2026-fifa-world-cup/": "2026-06-09T07:52:44.257940",
-    "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/hwo-detector-system-development-study/": "2026-06-09T07:52:44.257940"
+    "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/hwo-detector-system-development-study/": "2026-06-09T07:52:44.257940",
+    "https://www.space.com/technology/thruster-breakthrough-new-2-in-1-propulsion-system-is-about-to-get-an-in-space-test": "2026-06-10T08:10:43.000918",
+    "https://www.nature.com/articles/d41586-026-01662-x": "2026-06-10T08:10:43.000918",
+    "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/": "2026-06-10T08:10:43.000918",
+    "https://www.nasa.gov/directorates/armd/flight-dynamics-research-facility/": "2026-06-10T08:10:43.000918",
+    "https://www.nasa.gov/directorates/armd/aetc/fdrf-characteristics/": "2026-06-10T08:10:43.000918",
+    "https://www.space.com/astronomy/black-holes/these-record-breaking-black-hole-winds-could-create-a-category-79-hurricane-on-earth": "2026-06-10T08:10:43.000918",
+    "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/": "2026-06-10T08:10:43.000918"
   },
-  "last_run": "2026-06-09T07:52:44.257940"
+  "last_run": "2026-06-10T08:10:43.000918"
 }

@@ -1,0 +1,66 @@
+{
+  "guid": "2026-06-10",
+  "date": "2026-06-10T08:09:24.217298",
+  "title": "2-in-1 Thruster Test & Asia’s Race in Research Rankings",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 298.5263157894737,
+  "duration_formatted": "4:58",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-10.mp3",
+    "audio_size_bytes": 7204238,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-10/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-10/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-06-10.txt"
+  },
+  "stories": [
+    {
+      "title": "Thruster breakthrough? New 2-in-1 propulsion system is about to get an in-space test",
+      "source": "Space.com",
+      "url": "https://www.space.com/technology/thruster-breakthrough-new-2-in-1-propulsion-system-is-about-to-get-an-in-space-test",
+      "summary": "A new propulsion system feeds the same \"monopropellant\" fuel into electrical and chemical thrusters, potentially saving on mass and complications for future missions to Mars."
+    },
+    {
+      "title": "Nature Index 2026 Research Leaders rankings: are China’s East Asian neighbours keeping pace with it?",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01662-x",
+      "summary": "Nature, Published online: 10 June 2026; doi:10.1038/d41586-026-01662-xJapan and South Korea are challenging Western peers in a shifting research landscape."
+    },
+    {
+      "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
+      "summary": "A separate zero-day also disclosed by Nightmare Eclipse appears to be patched as well."
+    },
+    {
+      "title": "Flight Dynamics Research Facility",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/directorates/armd/flight-dynamics-research-facility/",
+      "summary": "Contact Information Flight Dynamics Research Facility Branch Head: Corey G. Diebler(757) 864-8447 NASA Langley Research Center1 Nasa Dr.Hampton, VA 23666(757) 864-1000 The post Flight Dynamics Research Facility appeared first on NASA Science."
+    },
+    {
+      "title": "Flight Dynamics Research Facility Characteristics",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/directorates/armd/aetc/fdrf-characteristics/",
+      "summary": "HomeCharacteristics The Flight Dynamics Research Facility (FDRF) is a large, subsonic wind tunnel with a vertical test section for conducting flight dynamics research for stability, controllability, free-fall and aircraft spin, and spin recovery testing of atmospheric vehicles. Characteristics Flight Dynamics Flight Research Aerosciences Evaluation and Test Capabilities The post Flight Dynamics Research Facility Characteristics appeared first on NASA Science."
+    },
+    {
+      "title": "These record-breaking black hole winds could create a category 79 hurricane on Earth",
+      "source": "Space.com",
+      "url": "https://www.space.com/astronomy/black-holes/these-record-breaking-black-hole-winds-could-create-a-category-79-hurricane-on-earth",
+      "summary": "Astronomers have discovered a distant quasar powered by a feeding supermassive black hole blasting out winds at record-breaking speeds for such an outflow seen in ultraviolet light, traveling at 30% the speed of light."
+    },
+    {
+      "title": "How Terry Tao Became an Evangelist for AI in Math",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/",
+      "summary": "With automated proof-checkers, a problem can be broken up into small chunks, solved bit-by-bit, then reassembled with confidence that every piece is correct. For some, this heralds a new area in mathematical research. The post How Terry Tao Became an Evangelist for AI in Math first appeared on Quanta Magazine"
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-06-10T08:10:42.979996",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

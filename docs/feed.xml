@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jun 2026 07:52:44 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 08:10:42 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>2-in-1 Thruster Test &amp; Asia’s Race in Research Rankings</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Thruster breakthrough? New 2-in-1 propulsion system is about to get an in-space test
+   Source: Space.com
+2. Nature Index 2026 Research Leaders rankings: are China’s East Asian neighbours keeping pace with it?
+   Source: Nature News
+3. Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed
+   Source: Ars Technica
+4. Flight Dynamics Research Facility
+   Source: NASA Science
+5. Flight Dynamics Research Facility Characteristics
+   Source: NASA Science
+6. These record-breaking black hole winds could create a category 79 hurricane on Earth
+   Source: Space.com
+7. How Terry Tao Became an Evangelist for AI in Math
+   Source: Quanta Magazine
+
+REFERENCES:
+
+1. Thruster breakthrough? New 2-in-1 propulsion system is about to get an in-space test
+   https://www.space.com/technology/thruster-breakthrough-new-2-in-1-propulsion-system-is-about-to-get-an-in-space-test
+
+2. Nature Index 2026 Research Leaders rankings: are China’s East Asian neighbours keeping pace with it?
+   https://www.nature.com/articles/d41586-026-01662-x
+
+3. Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed
+   https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/
+
+4. Flight Dynamics Research Facility
+   https://www.nasa.gov/directorates/armd/flight-dynamics-research-facility/
+
+5. Flight Dynamics Research Facility Characteristics
+   https://www.nasa.gov/directorates/armd/aetc/fdrf-characteristics/
+
+6. These record-breaking black hole winds could create a category 79 hurricane on Earth
+   https://www.space.com/astronomy/black-holes/these-record-breaking-black-hole-winds-could-create-a-category-79-hurricane-on-earth
+
+7. How Terry Tao Became an Evangelist for AI in Math
+   https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-10/newspaper.pdf]]></description>
+      <pubDate>Wed, 10 Jun 2026 08:09:24 -0000</pubDate>
+      <guid isPermaLink="false">2026-06-10</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-10.mp3" length="7204238" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Thruster breakthrough? New 2-in-1 propulsion system is about to get an in-space test
+   Source: Space.com
+2. Nature Index 2026 Research Leaders rankings: are China’s East Asian neighbours keeping pace with it?
+   Source: Nature News
+3. Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed
+   Source: Ars Technica
+4. Flight Dynamics Research Facility
+   Source: NASA Science
+5. Flight Dynamics Research Facility Characteristics
+   Source: NASA Science
+6. These record-breaking black hole winds could create a category 79 hurricane on Earth
+   Source: Space.com
+7. How Terry Tao Became an Evangelist for AI in Math
+   Source: Quanta Magazine
+
+REFERENCES:
+
+1. Thruster breakthrough? New 2-in-1 propulsion system is about to get an in-space test
+   https://www.space.com/technology/thruster-breakthrough-new-2-in-1-propulsion-system-is-about-to-get-an-in-space-test
+
+2. Nature Index 2026 Research Leaders rankings: are China’s East Asian neighbours keeping pace with it?
+   https://www.nature.com/articles/d41586-026-01662-x
+
+3. Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed
+   https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/
+
+4. Flight Dynamics Research Facility
+   https://www.nasa.gov/directorates/armd/flight-dynamics-research-facility/
+
+5. Flight Dynamics Research Facility Characteristics
+   https://www.nasa.gov/directorates/armd/aetc/fdrf-characteristics/
+
+6. These record-breaking black hole winds could create a category 79 hurricane on Earth
+   https://www.space.com/astronomy/black-holes/these-record-breaking-black-hole-winds-could-create-a-category-79-hurricane-on-earth
+
+7. How Terry Tao Became an Evangelist for AI in Math
+   https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-10/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:58</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-10/episode-art.png"/>
+    </item>
     <item>
       <title>Chaos Theory, Rising Cancer Rates &amp; Apple’s Hidden Updates</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:52</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-10/episode-art.png"/>
-    </item>
-    <item>
-      <title>Realistic Grid Data &amp; Fake Science Citation Surge</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Building realistic electric transmission grid dataset at scale: a pipeline from open dataset
-   Source: Microsoft Research Blog
-2. The Steam Controller’s reservation queue is open
-   Source: The Verge
-3. Amendment 56: D.6 APRA and D.7 SAT Final Text and Due Dates
-   Source: NASA Science
-4. World-leading climate centre takes Trump administration to court
-   Source: Nature News
-5. Surge in fake citations uncovered by audit of 2.5 million biomedical science papers
-   Source: Nature News
-6. I Am Artemis: Anton Kiriwas
-   Source: NASA Science
-7. Running Codex safely at OpenAI
-   Source: OpenAI News
-
-REFERENCES:
-
-1. Building realistic electric transmission grid dataset at scale: a pipeline from open dataset
-   https://www.microsoft.com/en-us/research/blog/building-realistic-electric-transmission-grid-dataset-at-scale-a-pipeline-from-open-dataset/
-
-2. The Steam Controller’s reservation queue is open
-   https://www.theverge.com/gadgets/924672/steam-controller-reservation-queue-buy
-
-3. Amendment 56: D.6 APRA and D.7 SAT Final Text and Due Dates
-   https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-56-d-6-apra-and-d-7-sat-final-text-and-due-dates/
-
-4. World-leading climate centre takes Trump administration to court
-   https://www.nature.com/articles/d41586-026-01501-z
-
-5. Surge in fake citations uncovered by audit of 2.5 million biomedical science papers
-   https://www.nature.com/articles/d41586-026-00748-w
-
-6. I Am Artemis: Anton Kiriwas
-   https://www.nasa.gov/missions/artemis/i-am-artemis-anton-kiriwas/
-
-7. Running Codex safely at OpenAI
-   https://openai.com/index/running-codex-safely
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-09/newspaper.pdf]]></description>
-      <pubDate>Sat, 09 May 2026 06:17:52 -0000</pubDate>
-      <guid isPermaLink="false">2026-05-09</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-09.mp3" length="8021139" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Building realistic electric transmission grid dataset at scale: a pipeline from open dataset
-   Source: Microsoft Research Blog
-2. The Steam Controller’s reservation queue is open
-   Source: The Verge
-3. Amendment 56: D.6 APRA and D.7 SAT Final Text and Due Dates
-   Source: NASA Science
-4. World-leading climate centre takes Trump administration to court
-   Source: Nature News
-5. Surge in fake citations uncovered by audit of 2.5 million biomedical science papers
-   Source: Nature News
-6. I Am Artemis: Anton Kiriwas
-   Source: NASA Science
-7. Running Codex safely at OpenAI
-   Source: OpenAI News
-
-REFERENCES:
-
-1. Building realistic electric transmission grid dataset at scale: a pipeline from open dataset
-   https://www.microsoft.com/en-us/research/blog/building-realistic-electric-transmission-grid-dataset-at-scale-a-pipeline-from-open-dataset/
-
-2. The Steam Controller’s reservation queue is open
-   https://www.theverge.com/gadgets/924672/steam-controller-reservation-queue-buy
-
-3. Amendment 56: D.6 APRA and D.7 SAT Final Text and Due Dates
-   https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-56-d-6-apra-and-d-7-sat-final-text-and-due-dates/
-
-4. World-leading climate centre takes Trump administration to court
-   https://www.nature.com/articles/d41586-026-01501-z
-
-5. Surge in fake citations uncovered by audit of 2.5 million biomedical science papers
-   https://www.nature.com/articles/d41586-026-00748-w
-
-6. I Am Artemis: Anton Kiriwas
-   https://www.nasa.gov/missions/artemis/i-am-artemis-anton-kiriwas/
-
-7. Running Codex safely at OpenAI
-   https://openai.com/index/running-codex-safely
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-09/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>5:30</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-09/episode-art.png"/>
     </item>
   </channel>
 </rss>
