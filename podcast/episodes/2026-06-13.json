@@ -1,0 +1,66 @@
+{
+  "guid": "2026-06-13",
+  "date": "2026-06-13T07:50:34.906323",
+  "title": "AI Protects EV Chargers & Moon Hazard Detection Lidar",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 296.0,
+  "duration_formatted": "4:56",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-13.mp3",
+    "audio_size_bytes": 6984183,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-13/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-13/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-06-13.txt"
+  },
+  "stories": [
+    {
+      "title": "An innovative technology boosts image quality for protein structures",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01858-1",
+      "summary": "Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01858-1After years of effort, two research teams have developed ‘laser phase plate’ systems that could help cryo-electron-microscopy users to generate high-quality structures for a broad range of proteins."
+    },
+    {
+      "title": "Here’s How AI Agents Can Protect EV Chargers",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/researchers-in-spain-show-how-ai-agents-can-protect-ev-chargers/",
+      "summary": "An AI agent system proposed by researchers in Spain promises to prevent energy theft and damage to EV chargers, as well as the critical energy infrastructure that powers them."
+    },
+    {
+      "title": "NASA-Funded Research Follows Bird Flight; Birds Follow Their Noses",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/blogs/science-news/2026/06/12/birds-follow-their-noses/",
+      "summary": "You might think birds&#160;skimming over the ocean&#160;wouldn’t seek wind unless it was pushing them in the right&#160;direction,&#160;but&#160;NASA-funded&#160;researchers have learned that storm petrels find&#160;stiff crosswinds&#160;worth&#160;the slowdown,&#160;in return for the clues and cues the gusts carry. In a&#160;paper&#160;published by the Royal Society’s Biology Letters May 13, researchers from Woods Hole Oceanographic Institution&#160;(WHOI) and the Italian Institute for [&#8230;] The post NASA-Funded Research Follows Bird Flight; Birds Follow Their Noses appeared first on NASA Science."
+    },
+    {
+      "title": "Humans outperform AI at this highly rigorous mathematics test",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01888-9",
+      "summary": "Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01888-9A new benchmark pitting AI against previously unseen maths problems shows systems still fall short of top human expertise."
+    },
+    {
+      "title": "Hazard Detection Lidar System Goes to the Moon",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/stmd-flight-opportunities/transitions-of-flight-tested-technologies/hazard-detection-lidar-system-goes-to-the-moon/",
+      "summary": "Enabling landers to autonomously identify the safest sites to touch down Moon craters and their surrounding areas are high-value destinations for lunar missions since they may contain important resources and valuable science targets. However, these sites are also home to dangers such as steep slopes that are difficult to see in the challenging lighting conditions. […] The post Hazard Detection Lidar System Goes to the Moon appeared first on NASA Science."
+    },
+    {
+      "title": "Satellite-boosting spacecraft inside air-launched rocket | Space photo of the day for June 12, 2026",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/satellite-boosting-spacecraft-inside-air-launched-rocket-space-photo-of-the-day-for-june-12-2026",
+      "summary": "A spacecraft was recently prepped for encapsulation inside of its rocket at one of NASA's launch facilities ahead of its launch to save another satellite."
+    },
+    {
+      "title": "New OpenAI Academy courses for the next era of work",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-06-13T07:51:51.032563",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

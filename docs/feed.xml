@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jun 2026 08:28:34 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 07:51:51 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>AI Protects EV Chargers &amp; Moon Hazard Detection Lidar</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. An innovative technology boosts image quality for protein structures
+   Source: Nature News
+2. Here’s How AI Agents Can Protect EV Chargers
+   Source: Wired
+3. NASA-Funded Research Follows Bird Flight; Birds Follow Their Noses
+   Source: NASA Science
+4. Humans outperform AI at this highly rigorous mathematics test
+   Source: Nature News
+5. Hazard Detection Lidar System Goes to the Moon
+   Source: NASA Science
+6. Satellite-boosting spacecraft inside air-launched rocket | Space photo of the day for June 12, 2026
+   Source: Space.com
+7. New OpenAI Academy courses for the next era of work
+   Source: OpenAI News
+
+REFERENCES:
+
+1. An innovative technology boosts image quality for protein structures
+   https://www.nature.com/articles/d41586-026-01858-1
+
+2. Here’s How AI Agents Can Protect EV Chargers
+   https://www.wired.com/story/researchers-in-spain-show-how-ai-agents-can-protect-ev-chargers/
+
+3. NASA-Funded Research Follows Bird Flight; Birds Follow Their Noses
+   https://science.nasa.gov/blogs/science-news/2026/06/12/birds-follow-their-noses/
+
+4. Humans outperform AI at this highly rigorous mathematics test
+   https://www.nature.com/articles/d41586-026-01888-9
+
+5. Hazard Detection Lidar System Goes to the Moon
+   https://www.nasa.gov/stmd-flight-opportunities/transitions-of-flight-tested-technologies/hazard-detection-lidar-system-goes-to-the-moon/
+
+6. Satellite-boosting spacecraft inside air-launched rocket | Space photo of the day for June 12, 2026
+   https://www.space.com/space-exploration/launches-spacecraft/satellite-boosting-spacecraft-inside-air-launched-rocket-space-photo-of-the-day-for-june-12-2026
+
+7. New OpenAI Academy courses for the next era of work
+   https://openai.com/index/academy-courses-applying-ai-at-work
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-13/newspaper.pdf]]></description>
+      <pubDate>Sat, 13 Jun 2026 07:50:34 -0000</pubDate>
+      <guid isPermaLink="false">2026-06-13</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-13.mp3" length="6984183" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. An innovative technology boosts image quality for protein structures
+   Source: Nature News
+2. Here’s How AI Agents Can Protect EV Chargers
+   Source: Wired
+3. NASA-Funded Research Follows Bird Flight; Birds Follow Their Noses
+   Source: NASA Science
+4. Humans outperform AI at this highly rigorous mathematics test
+   Source: Nature News
+5. Hazard Detection Lidar System Goes to the Moon
+   Source: NASA Science
+6. Satellite-boosting spacecraft inside air-launched rocket | Space photo of the day for June 12, 2026
+   Source: Space.com
+7. New OpenAI Academy courses for the next era of work
+   Source: OpenAI News
+
+REFERENCES:
+
+1. An innovative technology boosts image quality for protein structures
+   https://www.nature.com/articles/d41586-026-01858-1
+
+2. Here’s How AI Agents Can Protect EV Chargers
+   https://www.wired.com/story/researchers-in-spain-show-how-ai-agents-can-protect-ev-chargers/
+
+3. NASA-Funded Research Follows Bird Flight; Birds Follow Their Noses
+   https://science.nasa.gov/blogs/science-news/2026/06/12/birds-follow-their-noses/
+
+4. Humans outperform AI at this highly rigorous mathematics test
+   https://www.nature.com/articles/d41586-026-01888-9
+
+5. Hazard Detection Lidar System Goes to the Moon
+   https://www.nasa.gov/stmd-flight-opportunities/transitions-of-flight-tested-technologies/hazard-detection-lidar-system-goes-to-the-moon/
+
+6. Satellite-boosting spacecraft inside air-launched rocket | Space photo of the day for June 12, 2026
+   https://www.space.com/space-exploration/launches-spacecraft/satellite-boosting-spacecraft-inside-air-launched-rocket-space-photo-of-the-day-for-june-12-2026
+
+7. New OpenAI Academy courses for the next era of work
+   https://openai.com/index/academy-courses-applying-ai-at-work
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-13/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:56</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-13/episode-art.png"/>
+    </item>
     <item>
       <title>Gene Editing Future &amp; DeepMind AI Safety Concerns</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>5:37</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-15/episode-art.png"/>
-    </item>
-    <item>
-      <title>NVIDIA Codex, GridSFM Power &amp; AI-Driven Antibiotic Hunt</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. How NVIDIA engineers and researchers build with Codex
-   Source: OpenAI News
-2. GridSFM: A new, small foundation model for the electric grid
-   Source: Microsoft Research Blog
-3. The hunt for the next antibiotics
-   Source: Nature News
-4. Pristine Antarctic ice records the Solar System’s travels
-   Source: Nature News
-5. What Parameter Golf taught us about AI-assisted research
-   Source: OpenAI News
-6. mimalloc: A new, high-performance, scalable memory allocator for the modern era
-   Source: Microsoft Research Blog
-7. The Download: a Nobel winner on AI, and the case for fixing everything
-   Source: MIT Technology Review
-
-REFERENCES:
-
-1. How NVIDIA engineers and researchers build with Codex
-   https://openai.com/index/nvidia
-
-2. GridSFM: A new, small foundation model for the electric grid
-   https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/
-
-3. The hunt for the next antibiotics
-   https://www.nature.com/articles/d41586-026-01424-9
-
-4. Pristine Antarctic ice records the Solar System’s travels
-   https://www.nature.com/articles/d41586-026-01505-9
-
-5. What Parameter Golf taught us about AI-assisted research
-   https://openai.com/index/what-parameter-golf-taught-us
-
-6. mimalloc: A new, high-performance, scalable memory allocator for the modern era
-   https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/
-
-7. The Download: a Nobel winner on AI, and the case for fixing everything
-   https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-14/newspaper.pdf]]></description>
-      <pubDate>Thu, 14 May 2026 06:47:22 -0000</pubDate>
-      <guid isPermaLink="false">2026-05-14</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-14.mp3" length="5545316" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. How NVIDIA engineers and researchers build with Codex
-   Source: OpenAI News
-2. GridSFM: A new, small foundation model for the electric grid
-   Source: Microsoft Research Blog
-3. The hunt for the next antibiotics
-   Source: Nature News
-4. Pristine Antarctic ice records the Solar System’s travels
-   Source: Nature News
-5. What Parameter Golf taught us about AI-assisted research
-   Source: OpenAI News
-6. mimalloc: A new, high-performance, scalable memory allocator for the modern era
-   Source: Microsoft Research Blog
-7. The Download: a Nobel winner on AI, and the case for fixing everything
-   Source: MIT Technology Review
-
-REFERENCES:
-
-1. How NVIDIA engineers and researchers build with Codex
-   https://openai.com/index/nvidia
-
-2. GridSFM: A new, small foundation model for the electric grid
-   https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/
-
-3. The hunt for the next antibiotics
-   https://www.nature.com/articles/d41586-026-01424-9
-
-4. Pristine Antarctic ice records the Solar System’s travels
-   https://www.nature.com/articles/d41586-026-01505-9
-
-5. What Parameter Golf taught us about AI-assisted research
-   https://openai.com/index/what-parameter-golf-taught-us
-
-6. mimalloc: A new, high-performance, scalable memory allocator for the modern era
-   https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/
-
-7. The Download: a Nobel winner on AI, and the case for fixing everything
-   https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-14/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:08</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-14/episode-art.png"/>
     </item>
   </channel>
 </rss>

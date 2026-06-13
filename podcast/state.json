@@ -696,7 +696,14 @@
     "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
     "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
     "https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/",
-    "https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/"
+    "https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/",
+    "https://www.nature.com/articles/d41586-026-01858-1",
+    "https://www.wired.com/story/researchers-in-spain-show-how-ai-agents-can-protect-ev-chargers/",
+    "https://science.nasa.gov/blogs/science-news/2026/06/12/birds-follow-their-noses/",
+    "https://www.nature.com/articles/d41586-026-01888-9",
+    "https://www.nasa.gov/stmd-flight-opportunities/transitions-of-flight-tested-technologies/hazard-detection-lidar-system-goes-to-the-moon/",
+    "https://www.space.com/space-exploration/launches-spacecraft/satellite-boosting-spacecraft-inside-air-launched-rocket-space-photo-of-the-day-for-june-12-2026",
+    "https://openai.com/index/academy-courses-applying-ai-at-work"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -1395,7 +1402,14 @@
     "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/": "2026-06-12T08:28:34.509322",
     "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/": "2026-06-12T08:28:34.509322",
     "https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/": "2026-06-12T08:28:34.509322",
-    "https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/": "2026-06-12T08:28:34.509322"
+    "https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/": "2026-06-12T08:28:34.509322",
+    "https://www.nature.com/articles/d41586-026-01858-1": "2026-06-13T07:51:51.053607",
+    "https://www.wired.com/story/researchers-in-spain-show-how-ai-agents-can-protect-ev-chargers/": "2026-06-13T07:51:51.053607",
+    "https://science.nasa.gov/blogs/science-news/2026/06/12/birds-follow-their-noses/": "2026-06-13T07:51:51.053607",
+    "https://www.nature.com/articles/d41586-026-01888-9": "2026-06-13T07:51:51.053607",
+    "https://www.nasa.gov/stmd-flight-opportunities/transitions-of-flight-tested-technologies/hazard-detection-lidar-system-goes-to-the-moon/": "2026-06-13T07:51:51.053607",
+    "https://www.space.com/space-exploration/launches-spacecraft/satellite-boosting-spacecraft-inside-air-launched-rocket-space-photo-of-the-day-for-june-12-2026": "2026-06-13T07:51:51.053607",
+    "https://openai.com/index/academy-courses-applying-ai-at-work": "2026-06-13T07:51:51.053607"
   },
-  "last_run": "2026-06-12T08:28:34.509322"
+  "last_run": "2026-06-13T07:51:51.053607"
 }
