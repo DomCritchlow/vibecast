@@ -703,7 +703,14 @@
     "https://www.nature.com/articles/d41586-026-01888-9",
     "https://www.nasa.gov/stmd-flight-opportunities/transitions-of-flight-tested-technologies/hazard-detection-lidar-system-goes-to-the-moon/",
     "https://www.space.com/space-exploration/launches-spacecraft/satellite-boosting-spacecraft-inside-air-launched-rocket-space-photo-of-the-day-for-june-12-2026",
-    "https://openai.com/index/academy-courses-applying-ai-at-work"
+    "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "https://arstechnica.com/science/2026/06/threads-of-underground-fungal-networks-are-long-enough-to-reach-beyond-the-solar-system/",
+    "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+    "https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/",
+    "https://www.nature.com/articles/d41586-026-01911-z",
+    "https://www.nature.com/articles/d41586-026-01912-y",
+    "https://openai.com/index/preply",
+    "https://openai.com/index/bbva"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -1409,7 +1416,14 @@
     "https://www.nature.com/articles/d41586-026-01888-9": "2026-06-13T07:51:51.053607",
     "https://www.nasa.gov/stmd-flight-opportunities/transitions-of-flight-tested-technologies/hazard-detection-lidar-system-goes-to-the-moon/": "2026-06-13T07:51:51.053607",
     "https://www.space.com/space-exploration/launches-spacecraft/satellite-boosting-spacecraft-inside-air-launched-rocket-space-photo-of-the-day-for-june-12-2026": "2026-06-13T07:51:51.053607",
-    "https://openai.com/index/academy-courses-applying-ai-at-work": "2026-06-13T07:51:51.053607"
+    "https://openai.com/index/academy-courses-applying-ai-at-work": "2026-06-13T07:51:51.053607",
+    "https://arstechnica.com/science/2026/06/threads-of-underground-fungal-networks-are-long-enough-to-reach-beyond-the-solar-system/": "2026-06-14T08:17:27.883887",
+    "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban": "2026-06-14T08:17:27.883887",
+    "https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/": "2026-06-14T08:17:27.883887",
+    "https://www.nature.com/articles/d41586-026-01911-z": "2026-06-14T08:17:27.883887",
+    "https://www.nature.com/articles/d41586-026-01912-y": "2026-06-14T08:17:27.883887",
+    "https://openai.com/index/preply": "2026-06-14T08:17:27.883887",
+    "https://openai.com/index/bbva": "2026-06-14T08:17:27.883887"
   },
-  "last_run": "2026-06-13T07:51:51.053607"
+  "last_run": "2026-06-14T08:17:27.883887"
 }
