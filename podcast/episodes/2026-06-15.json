@@ -1,0 +1,66 @@
+{
+  "guid": "2026-06-15",
+  "date": "2026-06-15T10:24:51.422667",
+  "title": "AI Unlocks Animal Secrets & OpenAI’s Bold Moves",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 327.57894736842104,
+  "duration_formatted": "5:27",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-15.mp3",
+    "audio_size_bytes": 8068160,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-15/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-15/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-06-15.txt"
+  },
+  "stories": [
+    {
+      "title": "How AI is revealing the secret lives of animals from hummingbirds to pumas",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01887-w",
+      "summary": "Nature, Published online: 15 June 2026; doi:10.1038/d41586-026-01887-wAdvances in machine learning and other technologies are helping researchers to trace the movements, landmarks and social practices of wildlife."
+    },
+    {
+      "title": "Agentic-fs, a cloud-hosted filesystem for AI agents",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://github.com/vivekkhimani/agentic-fs",
+      "summary": "Article URL: https://github.com/vivekkhimani/agentic-fs Comments URL: https://news.ycombinator.com/item?id=48538435 Points: 1 # Comments: 0"
+    },
+    {
+      "title": "Bones of Iron Age skeleton were whittled into tools",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01833-w",
+      "summary": "Nature, Published online: 15 June 2026; doi:10.1038/d41586-026-01833-wThe female individual’s brain was removed after her death, but her remains were carefully reassembled for her interment."
+    },
+    {
+      "title": "Introducing the OpenAI Partner Network",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation."
+    },
+    {
+      "title": "OpenAI to acquire Ona",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows."
+    },
+    {
+      "title": "DiffusionGemma: 4x faster text generation",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "summary": ""
+    },
+    {
+      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+      "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-06-15T10:26:10.940172",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
