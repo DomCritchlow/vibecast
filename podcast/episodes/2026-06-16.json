@@ -1,0 +1,66 @@
+{
+  "guid": "2026-06-16",
+  "date": "2026-06-16T09:27:49.784362",
+  "title": "ALS Brain Implant Breakthrough & Anthropic AI Clash",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 293.89473684210526,
+  "duration_formatted": "4:53",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-16.mp3",
+    "audio_size_bytes": 6781055,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-16/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-16/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-06-16.txt"
+  },
+  "stories": [
+    {
+      "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
+      "summary": "Casey Harrell has had a set of electrodes embedded in his brain for almost three years. Harrell, who has amyotrophic lateral sclerosis (ALS) and is paralyzed, first used his brain-computer interface (BCI) to “speak” sentences with the help of a research team in 2023. Since then, Harrell has clocked thousands of hours of use. He&#8230;"
+    },
+    {
+      "title": "All the news about Anthropic&#8217;s new AI fight with the White House",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+      "summary": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI models, Fable 5 and Mythos 5. When they launched on June 9th, Anthropic said &#8220;Fable 5’s capabilities exceed those of any [&#8230;]"
+    },
+    {
+      "title": "Agent-Friendly Interfaces Are a Token-Efficiency Strategy",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://nokv.io/blog/agents-want-filesystems/",
+      "summary": "Article URL: https://nokv.io/blog/agents-want-filesystems/ Comments URL: https://news.ycombinator.com/item?id=48552282 Points: 1 # Comments: 0"
+    },
+    {
+      "title": "Nebraska’s Wide, Rolling Domain",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/earth/earth-observatory/nebraskas-wide-rolling-domain/",
+      "summary": "The Nebraska Sandhills—the largest system of sand dunes in the Western Hemisphere—stretch across about one-quarter of the state. The post Nebraska’s Wide, Rolling Domain appeared first on NASA Science."
+    },
+    {
+      "title": "AGN SIG Spotlight Series, 23 June 2026",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/agn-sig-spotlight-series-23-june-2026/",
+      "summary": "Our Spotlight Series highlights recent advances in AGN science, with a strong emphasis on participation from early-career researchers, and includes plenty of time for community discussion following the presentations. The post AGN SIG Spotlight Series, 23 June 2026 appeared first on NASA Science."
+    },
+    {
+      "title": "Live from the moon! How lasers connected us all to NASA's Artemis 2 astronauts on their epic lunar trip",
+      "source": "Space.com",
+      "url": "https://www.space.com/astronomy/moon/live-from-the-moon-how-lasers-connected-us-all-to-nasas-artemis-2-astronauts-on-their-epic-lunar-trip",
+      "summary": "A laser system, previously tested on board the International Space Station, helped to stream video directly from the Artemis 2 mission on its way around the moon."
+    },
+    {
+      "title": "Terms of endearment? Bias in first-name eponyms for species named after people",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01916-8",
+      "summary": "Nature, Published online: 16 June 2026; doi:10.1038/d41586-026-01916-8Terms of endearment? Bias in first-name eponyms for species named after people"
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-06-16T09:29:03.712951",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

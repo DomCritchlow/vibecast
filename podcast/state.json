@@ -717,7 +717,14 @@
     "https://openai.com/index/introducing-openai-partner-network",
     "https://openai.com/index/openai-to-acquire-ona",
     "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
-    "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/"
+    "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+    "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
+    "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+    "https://nokv.io/blog/agents-want-filesystems/",
+    "https://science.nasa.gov/earth/earth-observatory/nebraskas-wide-rolling-domain/",
+    "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/agn-sig-spotlight-series-23-june-2026/",
+    "https://www.space.com/astronomy/moon/live-from-the-moon-how-lasers-connected-us-all-to-nasas-artemis-2-astronauts-on-their-epic-lunar-trip",
+    "https://www.nature.com/articles/d41586-026-01916-8"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -1437,7 +1444,14 @@
     "https://openai.com/index/introducing-openai-partner-network": "2026-06-15T10:26:10.961050",
     "https://openai.com/index/openai-to-acquire-ona": "2026-06-15T10:26:10.961050",
     "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/": "2026-06-15T10:26:10.961050",
-    "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/": "2026-06-15T10:26:10.961050"
+    "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/": "2026-06-15T10:26:10.961050",
+    "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/": "2026-06-16T09:29:03.733333",
+    "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown": "2026-06-16T09:29:03.733333",
+    "https://nokv.io/blog/agents-want-filesystems/": "2026-06-16T09:29:03.733333",
+    "https://science.nasa.gov/earth/earth-observatory/nebraskas-wide-rolling-domain/": "2026-06-16T09:29:03.733333",
+    "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/agn-sig-spotlight-series-23-june-2026/": "2026-06-16T09:29:03.733333",
+    "https://www.space.com/astronomy/moon/live-from-the-moon-how-lasers-connected-us-all-to-nasas-artemis-2-astronauts-on-their-epic-lunar-trip": "2026-06-16T09:29:03.733333",
+    "https://www.nature.com/articles/d41586-026-01916-8": "2026-06-16T09:29:03.733333"
   },
-  "last_run": "2026-06-15T10:26:10.961050"
+  "last_run": "2026-06-16T09:29:03.733333"
 }

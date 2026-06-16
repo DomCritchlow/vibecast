@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2026 10:26:10 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 09:29:03 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>ALS Brain Implant Breakthrough &amp; Anthropic AI Clash</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. This man with ALS is “the first power user” of a brain implant that lets him speak
+   Source: MIT Technology Review
+2. All the news about Anthropic&#8217;s new AI fight with the White House
+   Source: The Verge
+3. Agent-Friendly Interfaces Are a Token-Efficiency Strategy
+   Source: Hacker News (AI filtered)
+4. Nebraska’s Wide, Rolling Domain
+   Source: NASA Science
+5. AGN SIG Spotlight Series, 23 June 2026
+   Source: NASA Science
+6. Live from the moon! How lasers connected us all to NASA's Artemis 2 astronauts on their epic lunar trip
+   Source: Space.com
+7. Terms of endearment? Bias in first-name eponyms for species named after people
+   Source: Nature News
+
+REFERENCES:
+
+1. This man with ALS is “the first power user” of a brain implant that lets him speak
+   https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/
+
+2. All the news about Anthropic&#8217;s new AI fight with the White House
+   https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown
+
+3. Agent-Friendly Interfaces Are a Token-Efficiency Strategy
+   https://nokv.io/blog/agents-want-filesystems/
+
+4. Nebraska’s Wide, Rolling Domain
+   https://science.nasa.gov/earth/earth-observatory/nebraskas-wide-rolling-domain/
+
+5. AGN SIG Spotlight Series, 23 June 2026
+   https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/agn-sig-spotlight-series-23-june-2026/
+
+6. Live from the moon! How lasers connected us all to NASA's Artemis 2 astronauts on their epic lunar trip
+   https://www.space.com/astronomy/moon/live-from-the-moon-how-lasers-connected-us-all-to-nasas-artemis-2-astronauts-on-their-epic-lunar-trip
+
+7. Terms of endearment? Bias in first-name eponyms for species named after people
+   https://www.nature.com/articles/d41586-026-01916-8
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-16/newspaper.pdf]]></description>
+      <pubDate>Tue, 16 Jun 2026 09:27:49 -0000</pubDate>
+      <guid isPermaLink="false">2026-06-16</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-16.mp3" length="6781055" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. This man with ALS is “the first power user” of a brain implant that lets him speak
+   Source: MIT Technology Review
+2. All the news about Anthropic&#8217;s new AI fight with the White House
+   Source: The Verge
+3. Agent-Friendly Interfaces Are a Token-Efficiency Strategy
+   Source: Hacker News (AI filtered)
+4. Nebraska’s Wide, Rolling Domain
+   Source: NASA Science
+5. AGN SIG Spotlight Series, 23 June 2026
+   Source: NASA Science
+6. Live from the moon! How lasers connected us all to NASA's Artemis 2 astronauts on their epic lunar trip
+   Source: Space.com
+7. Terms of endearment? Bias in first-name eponyms for species named after people
+   Source: Nature News
+
+REFERENCES:
+
+1. This man with ALS is “the first power user” of a brain implant that lets him speak
+   https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/
+
+2. All the news about Anthropic&#8217;s new AI fight with the White House
+   https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown
+
+3. Agent-Friendly Interfaces Are a Token-Efficiency Strategy
+   https://nokv.io/blog/agents-want-filesystems/
+
+4. Nebraska’s Wide, Rolling Domain
+   https://science.nasa.gov/earth/earth-observatory/nebraskas-wide-rolling-domain/
+
+5. AGN SIG Spotlight Series, 23 June 2026
+   https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/agn-sig-spotlight-series-23-june-2026/
+
+6. Live from the moon! How lasers connected us all to NASA's Artemis 2 astronauts on their epic lunar trip
+   https://www.space.com/astronomy/moon/live-from-the-moon-how-lasers-connected-us-all-to-nasas-artemis-2-astronauts-on-their-epic-lunar-trip
+
+7. Terms of endearment? Bias in first-name eponyms for species named after people
+   https://www.nature.com/articles/d41586-026-01916-8
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-16/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:53</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-16/episode-art.png"/>
+    </item>
     <item>
       <title>AI Unlocks Animal Secrets &amp; OpenAI’s Bold Moves</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:56</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-18/episode-art.png"/>
-    </item>
-    <item>
-      <title>AI Delegation Advances &amp; Hidden Interstellar Comet Found</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability
-   Source: Microsoft Research Blog
-2. Astronomers find interstellar comet 3I/ATLAS hiding in images taken before its official discovery
-   Source: Space.com
-3. The shock of seeing your body used in deepfake porn
-   Source: MIT Technology Review
-4. Best Indoor Garden Systems: I've Been Testing All Year (2026)
-   Source: Wired
-5. NASA Calibration Instrument Launches to International Space Station
-   Source: NASA Science
-6. SpaceX Dragon Lifts Off to Resupply Expedition 74 Crew
-   Source: NASA Science
-7. NASA's Psyche spacecraft is flying to a metal asteroid. So, why did it just visit Mars?
-   Source: Space.com
-
-REFERENCES:
-
-1. Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability
-   https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/
-
-2. Astronomers find interstellar comet 3I/ATLAS hiding in images taken before its official discovery
-   https://www.space.com/astronomy/comets/astronomers-find-interstellar-comet-3i-atlas-hiding-in-images-taken-before-its-official-discovery
-
-3. The shock of seeing your body used in deepfake porn
-   https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/
-
-4. Best Indoor Garden Systems: I've Been Testing All Year (2026)
-   https://www.wired.com/gallery/best-indoor-gardening-systems/
-
-5. NASA Calibration Instrument Launches to International Space Station
-   https://science.nasa.gov/blogs/clarreo-pathfinder/2026/05/15/nasa-calibration-instrument-launches-to-international-space-station/
-
-6. SpaceX Dragon Lifts Off to Resupply Expedition 74 Crew
-   https://www.nasa.gov/blogs/spacestation/2026/05/15/spacex-dragon-lifts-off-to-resupply-expedition-74-crew/
-
-7. NASA's Psyche spacecraft is flying to a metal asteroid. So, why did it just visit Mars?
-   https://www.space.com/space-exploration/asteroid-comet-missions/nasas-psyche-spacecraft-is-flying-to-a-metal-asteroid-so-why-did-it-just-visit-mars
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-17/newspaper.pdf]]></description>
-      <pubDate>Sun, 17 May 2026 06:46:13 -0000</pubDate>
-      <guid isPermaLink="false">2026-05-17</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-17.mp3" length="7097660" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability
-   Source: Microsoft Research Blog
-2. Astronomers find interstellar comet 3I/ATLAS hiding in images taken before its official discovery
-   Source: Space.com
-3. The shock of seeing your body used in deepfake porn
-   Source: MIT Technology Review
-4. Best Indoor Garden Systems: I've Been Testing All Year (2026)
-   Source: Wired
-5. NASA Calibration Instrument Launches to International Space Station
-   Source: NASA Science
-6. SpaceX Dragon Lifts Off to Resupply Expedition 74 Crew
-   Source: NASA Science
-7. NASA's Psyche spacecraft is flying to a metal asteroid. So, why did it just visit Mars?
-   Source: Space.com
-
-REFERENCES:
-
-1. Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability
-   https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/
-
-2. Astronomers find interstellar comet 3I/ATLAS hiding in images taken before its official discovery
-   https://www.space.com/astronomy/comets/astronomers-find-interstellar-comet-3i-atlas-hiding-in-images-taken-before-its-official-discovery
-
-3. The shock of seeing your body used in deepfake porn
-   https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/
-
-4. Best Indoor Garden Systems: I've Been Testing All Year (2026)
-   https://www.wired.com/gallery/best-indoor-gardening-systems/
-
-5. NASA Calibration Instrument Launches to International Space Station
-   https://science.nasa.gov/blogs/clarreo-pathfinder/2026/05/15/nasa-calibration-instrument-launches-to-international-space-station/
-
-6. SpaceX Dragon Lifts Off to Resupply Expedition 74 Crew
-   https://www.nasa.gov/blogs/spacestation/2026/05/15/spacex-dragon-lifts-off-to-resupply-expedition-74-crew/
-
-7. NASA's Psyche spacecraft is flying to a metal asteroid. So, why did it just visit Mars?
-   https://www.space.com/space-exploration/asteroid-comet-missions/nasas-psyche-spacecraft-is-flying-to-a-metal-asteroid-so-why-did-it-just-visit-mars
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-17/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>5:08</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-17/episode-art.png"/>
     </item>
   </channel>
 </rss>
