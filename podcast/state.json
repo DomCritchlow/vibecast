@@ -724,7 +724,14 @@
     "https://science.nasa.gov/earth/earth-observatory/nebraskas-wide-rolling-domain/",
     "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/agn-sig-spotlight-series-23-june-2026/",
     "https://www.space.com/astronomy/moon/live-from-the-moon-how-lasers-connected-us-all-to-nasas-artemis-2-astronauts-on-their-epic-lunar-trip",
-    "https://www.nature.com/articles/d41586-026-01916-8"
+    "https://www.nature.com/articles/d41586-026-01916-8",
+    "https://openai.com/index/introducing-life-sci-bench",
+    "https://www.nature.com/articles/d41586-026-01868-z",
+    "https://www.nature.com/articles/s41586-026-10638-w",
+    "https://openai.com/index/ai-chemist-improves-reaction",
+    "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
+    "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
+    "https://restofworld.org/2026/spotify-global-ai-music-streaming-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -1451,7 +1458,14 @@
     "https://science.nasa.gov/earth/earth-observatory/nebraskas-wide-rolling-domain/": "2026-06-16T09:29:03.733333",
     "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/agn-sig-spotlight-series-23-june-2026/": "2026-06-16T09:29:03.733333",
     "https://www.space.com/astronomy/moon/live-from-the-moon-how-lasers-connected-us-all-to-nasas-artemis-2-astronauts-on-their-epic-lunar-trip": "2026-06-16T09:29:03.733333",
-    "https://www.nature.com/articles/d41586-026-01916-8": "2026-06-16T09:29:03.733333"
+    "https://www.nature.com/articles/d41586-026-01916-8": "2026-06-16T09:29:03.733333",
+    "https://openai.com/index/introducing-life-sci-bench": "2026-06-18T08:49:07.874005",
+    "https://www.nature.com/articles/d41586-026-01868-z": "2026-06-18T08:49:07.874005",
+    "https://www.nature.com/articles/s41586-026-10638-w": "2026-06-18T08:49:07.874005",
+    "https://openai.com/index/ai-chemist-improves-reaction": "2026-06-18T08:49:07.874005",
+    "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/": "2026-06-18T08:49:07.874005",
+    "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly": "2026-06-18T08:49:07.874005",
+    "https://restofworld.org/2026/spotify-global-ai-music-streaming-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=feeds": "2026-06-18T08:49:07.874005"
   },
-  "last_run": "2026-06-16T09:29:03.733333"
+  "last_run": "2026-06-18T08:49:07.874005"
 }

@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 09:29:03 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 08:49:07 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>LifeSciBench Launch &amp; AI Chemist Boosts Drug Discovery</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Introducing LifeSciBench
+   Source: OpenAI News
+2. Fiery data hint that controlled forest fires benefit human health
+   Source: Nature News
+3. Probing picometre-scale interlayer deformations via hyperbolic polaritons
+   Source: Nature News
+4. A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry
+   Source: OpenAI News
+5. Exclusive eBook: How AI is becoming the next military advisor
+   Source: MIT Technology Review
+6. Two-thirds of Americans think AI is advancing too quickly
+   Source: The Verge
+7. Spotify’s post-English AI future
+   Source: Rest of World
+
+REFERENCES:
+
+1. Introducing LifeSciBench
+   https://openai.com/index/introducing-life-sci-bench
+
+2. Fiery data hint that controlled forest fires benefit human health
+   https://www.nature.com/articles/d41586-026-01868-z
+
+3. Probing picometre-scale interlayer deformations via hyperbolic polaritons
+   https://www.nature.com/articles/s41586-026-10638-w
+
+4. A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry
+   https://openai.com/index/ai-chemist-improves-reaction
+
+5. Exclusive eBook: How AI is becoming the next military advisor
+   https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/
+
+6. Two-thirds of Americans think AI is advancing too quickly
+   https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly
+
+7. Spotify’s post-English AI future
+   https://restofworld.org/2026/spotify-global-ai-music-streaming-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-18/newspaper.pdf]]></description>
+      <pubDate>Thu, 18 Jun 2026 08:47:53 -0000</pubDate>
+      <guid isPermaLink="false">2026-06-18</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-18.mp3" length="7057535" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Introducing LifeSciBench
+   Source: OpenAI News
+2. Fiery data hint that controlled forest fires benefit human health
+   Source: Nature News
+3. Probing picometre-scale interlayer deformations via hyperbolic polaritons
+   Source: Nature News
+4. A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry
+   Source: OpenAI News
+5. Exclusive eBook: How AI is becoming the next military advisor
+   Source: MIT Technology Review
+6. Two-thirds of Americans think AI is advancing too quickly
+   Source: The Verge
+7. Spotify’s post-English AI future
+   Source: Rest of World
+
+REFERENCES:
+
+1. Introducing LifeSciBench
+   https://openai.com/index/introducing-life-sci-bench
+
+2. Fiery data hint that controlled forest fires benefit human health
+   https://www.nature.com/articles/d41586-026-01868-z
+
+3. Probing picometre-scale interlayer deformations via hyperbolic polaritons
+   https://www.nature.com/articles/s41586-026-10638-w
+
+4. A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry
+   https://openai.com/index/ai-chemist-improves-reaction
+
+5. Exclusive eBook: How AI is becoming the next military advisor
+   https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/
+
+6. Two-thirds of Americans think AI is advancing too quickly
+   https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly
+
+7. Spotify’s post-English AI future
+   https://restofworld.org/2026/spotify-global-ai-music-streaming-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-18/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:45</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-18/episode-art.png"/>
+    </item>
     <item>
       <title>ALS Brain Implant Breakthrough &amp; Anthropic AI Clash</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>5:17</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-19/episode-art.png"/>
-    </item>
-    <item>
-      <title>Revolutionary Cancer Therapy &amp; Moon Base Designs Unveiled</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. A revolutionary cancer treatment could transform autoimmune disease
-   Source: Ars Technica
-2. Microsoft is retiring Teams’ Together Mode
-   Source: The Verge
-3. Moon Base Renderings
-   Source: NASA Science
-4. How the Bird Eye Was Pushed to an Evolutionary Extreme
-   Source: Quanta Magazine
-5. Even mild blows to the head disrupt the microbiome
-   Source: Nature News
-6. Exclusive: NIH ousts infectious-disease leaders as COVID scientists face US charges
-   Source: Nature News
-7. OpenAI and Malta partner to bring ChatGPT Plus to all citizens
-   Source: OpenAI News
-
-REFERENCES:
-
-1. A revolutionary cancer treatment could transform autoimmune disease
-   https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/
-
-2. Microsoft is retiring Teams’ Together Mode
-   https://www.theverge.com/tech/932215/microsoft-teams-together-mode
-
-3. Moon Base Renderings
-   https://www.nasa.gov/gallery/moon-base-renderings/
-
-4. How the Bird Eye Was Pushed to an Evolutionary Extreme
-   https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/
-
-5. Even mild blows to the head disrupt the microbiome
-   https://www.nature.com/articles/d41586-026-01504-w
-
-6. Exclusive: NIH ousts infectious-disease leaders as COVID scientists face US charges
-   https://www.nature.com/articles/d41586-026-01558-w
-
-7. OpenAI and Malta partner to bring ChatGPT Plus to all citizens
-   https://openai.com/index/malta-chatgpt-plus-partnership
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-18/newspaper.pdf]]></description>
-      <pubDate>Mon, 18 May 2026 08:05:42 -0000</pubDate>
-      <guid isPermaLink="false">2026-05-18</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-18.mp3" length="6755351" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. A revolutionary cancer treatment could transform autoimmune disease
-   Source: Ars Technica
-2. Microsoft is retiring Teams’ Together Mode
-   Source: The Verge
-3. Moon Base Renderings
-   Source: NASA Science
-4. How the Bird Eye Was Pushed to an Evolutionary Extreme
-   Source: Quanta Magazine
-5. Even mild blows to the head disrupt the microbiome
-   Source: Nature News
-6. Exclusive: NIH ousts infectious-disease leaders as COVID scientists face US charges
-   Source: Nature News
-7. OpenAI and Malta partner to bring ChatGPT Plus to all citizens
-   Source: OpenAI News
-
-REFERENCES:
-
-1. A revolutionary cancer treatment could transform autoimmune disease
-   https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/
-
-2. Microsoft is retiring Teams’ Together Mode
-   https://www.theverge.com/tech/932215/microsoft-teams-together-mode
-
-3. Moon Base Renderings
-   https://www.nasa.gov/gallery/moon-base-renderings/
-
-4. How the Bird Eye Was Pushed to an Evolutionary Extreme
-   https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/
-
-5. Even mild blows to the head disrupt the microbiome
-   https://www.nature.com/articles/d41586-026-01504-w
-
-6. Exclusive: NIH ousts infectious-disease leaders as COVID scientists face US charges
-   https://www.nature.com/articles/d41586-026-01558-w
-
-7. OpenAI and Malta partner to bring ChatGPT Plus to all citizens
-   https://openai.com/index/malta-chatgpt-plus-partnership
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-18/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:56</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-18/episode-art.png"/>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,66 @@
+{
+  "guid": "2026-06-18",
+  "date": "2026-06-18T08:47:53.487197",
+  "title": "LifeSciBench Launch & AI Chemist Boosts Drug Discovery",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 285.05263157894734,
+  "duration_formatted": "4:45",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-18.mp3",
+    "audio_size_bytes": 7057535,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-18/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-18/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-06-18.txt"
+  },
+  "stories": [
+    {
+      "title": "Introducing LifeSciBench",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/introducing-life-sci-bench",
+      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions."
+    },
+    {
+      "title": "Fiery data hint that controlled forest fires benefit human health",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01868-z",
+      "summary": "Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01868-zAnalysis of wildfire in California suggests a net reduction in exposure to blaze-related air pollution."
+    },
+    {
+      "title": "Probing picometre-scale interlayer deformations via hyperbolic polaritons",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10638-w",
+      "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10638-wA new polaritonic optical method that uses the mid-infrared out-of-plane hyperbolic polaritons mode is described and experimentally validated to allow the examination of picometre-scale interlayer deformations, providing a bridge between nanomechanics and photonics."
+    },
+    {
+      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research."
+    },
+    {
+      "title": "Exclusive eBook: How AI is becoming the next military advisor",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
+      "summary": "A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments. Stories written by James O&#8217;Donnel by James O&#8217;Donnell&#8230;"
+    },
+    {
+      "title": "Two-thirds of Americans think AI is advancing too quickly",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
+      "summary": "According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has increased dramatically since 2024, when only 33 percent reported using them. Specifically, ChatGPT's usage has doubled since 2023, with 44 percent of [&#8230;]"
+    },
+    {
+      "title": "Spotify’s post-English AI future",
+      "source": "Rest of World",
+      "url": "https://restofworld.org/2026/spotify-global-ai-music-streaming-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "summary": "More than half of Spotify listening is now in non-English languages as the company expands across Africa, Asia, and Latin America with local artists, pricing, and payment systems."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-06-18T08:49:07.852759",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
