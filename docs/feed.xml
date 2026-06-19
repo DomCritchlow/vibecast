@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2026 08:49:07 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 09:08:18 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Brexit Science Healing &amp; AI in Rare Disease Diagnosis</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Brexit tore apart European science — now the research rifts are healing
+   Source: Nature News
+2. Using AI to help physicians diagnose rare genetic diseases affecting children
+   Source: OpenAI News
+3. Predicting model behavior before release by simulating deployment
+   Source: OpenAI News
+4. Securing the future of AI agents
+   Source: DeepMind Blog
+5. MosaicLeaks: Can your research agent keep a secret?
+   Source: Hugging Face Blog
+6. Android verification is coming: Google confirms timeline and supported app stores
+   Source: Ars Technica
+7. After Senate vote, Trump admin backs off plans to kill ocean monitoring
+   Source: Ars Technica
+
+REFERENCES:
+
+1. Brexit tore apart European science — now the research rifts are healing
+   https://www.nature.com/articles/d41586-026-01841-w
+
+2. Using AI to help physicians diagnose rare genetic diseases affecting children
+   https://openai.com/index/diagnose-rare-childhood-diseases
+
+3. Predicting model behavior before release by simulating deployment
+   https://openai.com/index/deployment-simulation
+
+4. Securing the future of AI agents
+   https://deepmind.google/blog/securing-the-future-of-ai-agents/
+
+5. MosaicLeaks: Can your research agent keep a secret?
+   https://huggingface.co/blog/ServiceNow/mosaicleaks
+
+6. Android verification is coming: Google confirms timeline and supported app stores
+   https://arstechnica.com/gadgets/2026/06/google-shares-updated-timeline-for-rolling-out-android-developer-verification/
+
+7. After Senate vote, Trump admin backs off plans to kill ocean monitoring
+   https://arstechnica.com/science/2026/06/after-senate-vote-trump-admin-backs-off-plans-to-kill-ocean-monitoring/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-19/newspaper.pdf]]></description>
+      <pubDate>Fri, 19 Jun 2026 09:07:10 -0000</pubDate>
+      <guid isPermaLink="false">2026-06-19</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-19.mp3" length="7469434" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Brexit tore apart European science — now the research rifts are healing
+   Source: Nature News
+2. Using AI to help physicians diagnose rare genetic diseases affecting children
+   Source: OpenAI News
+3. Predicting model behavior before release by simulating deployment
+   Source: OpenAI News
+4. Securing the future of AI agents
+   Source: DeepMind Blog
+5. MosaicLeaks: Can your research agent keep a secret?
+   Source: Hugging Face Blog
+6. Android verification is coming: Google confirms timeline and supported app stores
+   Source: Ars Technica
+7. After Senate vote, Trump admin backs off plans to kill ocean monitoring
+   Source: Ars Technica
+
+REFERENCES:
+
+1. Brexit tore apart European science — now the research rifts are healing
+   https://www.nature.com/articles/d41586-026-01841-w
+
+2. Using AI to help physicians diagnose rare genetic diseases affecting children
+   https://openai.com/index/diagnose-rare-childhood-diseases
+
+3. Predicting model behavior before release by simulating deployment
+   https://openai.com/index/deployment-simulation
+
+4. Securing the future of AI agents
+   https://deepmind.google/blog/securing-the-future-of-ai-agents/
+
+5. MosaicLeaks: Can your research agent keep a secret?
+   https://huggingface.co/blog/ServiceNow/mosaicleaks
+
+6. Android verification is coming: Google confirms timeline and supported app stores
+   https://arstechnica.com/gadgets/2026/06/google-shares-updated-timeline-for-rolling-out-android-developer-verification/
+
+7. After Senate vote, Trump admin backs off plans to kill ocean monitoring
+   https://arstechnica.com/science/2026/06/after-senate-vote-trump-admin-backs-off-plans-to-kill-ocean-monitoring/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-19/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>5:15</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-19/episode-art.png"/>
+    </item>
     <item>
       <title>LifeSciBench Launch &amp; AI Chemist Boosts Drug Discovery</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>5:53</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-20/episode-art.png"/>
-    </item>
-    <item>
-      <title>Criminal Minds &amp; Walmart Tablets Launch &amp; Stardust Secrets</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Criminals are made, not born: how when you live shapes whether you will break the law
-   Source: Nature News
-2. Walmart launches new budget-friendly Android tablets starting at $97
-   Source: The Verge
-3. Crew Unloads Dragon and Begins New Space Experiments
-   Source: NASA Science
-4. HLS Vegetation Indices
-   Source: NASA Science
-5. Scientists found stardust trapped in Antarctic ice. What could it tell us about our solar system?
-   Source: Space.com
-6. Vega C rocket launches European-Chinese space weather satellite to orbit
-   Source: Space.com
-7. Publisher Correction: Microbiota-induced T cell plasticity enables immune-mediated tumour control
-   Source: Nature News
-
-REFERENCES:
-
-1. Criminals are made, not born: how when you live shapes whether you will break the law
-   https://www.nature.com/articles/d41586-026-01556-y
-
-2. Walmart launches new budget-friendly Android tablets starting at $97
-   https://www.theverge.com/tech/932642/walmart-onn-new-core-pro-kids-tablets
-
-3. Crew Unloads Dragon and Begins New Space Experiments
-   https://www.nasa.gov/blogs/spacestation/2026/05/18/crew-unloads-dragon-and-begins-new-space-experiments/
-
-4. HLS Vegetation Indices
-   https://science.nasa.gov/mission/landsat/hls-vegetation-indices/
-
-5. Scientists found stardust trapped in Antarctic ice. What could it tell us about our solar system?
-   https://www.space.com/science/scientists-found-stardust-trapped-in-antarctic-ice-what-could-it-tell-us-about-our-solar-system
-
-6. Vega C rocket launches European-Chinese space weather satellite to orbit
-   https://www.space.com/space-exploration/launches-spacecraft/european-chinese-space-weather-mission-smile-launch
-
-7. Publisher Correction: Microbiota-induced T cell plasticity enables immune-mediated tumour control
-   https://www.nature.com/articles/s41586-026-10649-7
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-19/newspaper.pdf]]></description>
-      <pubDate>Tue, 19 May 2026 07:48:22 -0000</pubDate>
-      <guid isPermaLink="false">2026-05-19</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-19.mp3" length="7347181" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Criminals are made, not born: how when you live shapes whether you will break the law
-   Source: Nature News
-2. Walmart launches new budget-friendly Android tablets starting at $97
-   Source: The Verge
-3. Crew Unloads Dragon and Begins New Space Experiments
-   Source: NASA Science
-4. HLS Vegetation Indices
-   Source: NASA Science
-5. Scientists found stardust trapped in Antarctic ice. What could it tell us about our solar system?
-   Source: Space.com
-6. Vega C rocket launches European-Chinese space weather satellite to orbit
-   Source: Space.com
-7. Publisher Correction: Microbiota-induced T cell plasticity enables immune-mediated tumour control
-   Source: Nature News
-
-REFERENCES:
-
-1. Criminals are made, not born: how when you live shapes whether you will break the law
-   https://www.nature.com/articles/d41586-026-01556-y
-
-2. Walmart launches new budget-friendly Android tablets starting at $97
-   https://www.theverge.com/tech/932642/walmart-onn-new-core-pro-kids-tablets
-
-3. Crew Unloads Dragon and Begins New Space Experiments
-   https://www.nasa.gov/blogs/spacestation/2026/05/18/crew-unloads-dragon-and-begins-new-space-experiments/
-
-4. HLS Vegetation Indices
-   https://science.nasa.gov/mission/landsat/hls-vegetation-indices/
-
-5. Scientists found stardust trapped in Antarctic ice. What could it tell us about our solar system?
-   https://www.space.com/science/scientists-found-stardust-trapped-in-antarctic-ice-what-could-it-tell-us-about-our-solar-system
-
-6. Vega C rocket launches European-Chinese space weather satellite to orbit
-   https://www.space.com/space-exploration/launches-spacecraft/european-chinese-space-weather-mission-smile-launch
-
-7. Publisher Correction: Microbiota-induced T cell plasticity enables immune-mediated tumour control
-   https://www.nature.com/articles/s41586-026-10649-7
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-19/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>5:17</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-19/episode-art.png"/>
     </item>
   </channel>
 </rss>

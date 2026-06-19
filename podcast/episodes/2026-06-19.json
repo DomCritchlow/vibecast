@@ -1,0 +1,66 @@
+{
+  "guid": "2026-06-19",
+  "date": "2026-06-19T09:07:10.174967",
+  "title": "Brexit Science Healing & AI in Rare Disease Diagnosis",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 315.3684210526316,
+  "duration_formatted": "5:15",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-19.mp3",
+    "audio_size_bytes": 7469434,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-19/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-19/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-06-19.txt"
+  },
+  "stories": [
+    {
+      "title": "Brexit tore apart European science — now the research rifts are healing",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01841-w",
+      "summary": "Nature, Published online: 18 June 2026; doi:10.1038/d41586-026-01841-wThe UK’s share of EU research funding is climbing, but lost networks will be harder to recover."
+    },
+    {
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases."
+    },
+    {
+      "title": "Predicting model behavior before release by simulating deployment",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/deployment-simulation",
+      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy."
+    },
+    {
+      "title": "Securing the future of AI agents",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+      "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring."
+    },
+    {
+      "title": "MosaicLeaks: Can your research agent keep a secret?",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+      "summary": ""
+    },
+    {
+      "title": "Android verification is coming: Google confirms timeline and supported app stores",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/06/google-shares-updated-timeline-for-rolling-out-android-developer-verification/",
+      "summary": "A new system service will roll out this month ahead of big changes starting in September."
+    },
+    {
+      "title": "After Senate vote, Trump admin backs off plans to kill ocean monitoring",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/06/after-senate-vote-trump-admin-backs-off-plans-to-kill-ocean-monitoring/",
+      "summary": "It's unclear whether the system is currently intact."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-06-19T09:08:18.597727",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
