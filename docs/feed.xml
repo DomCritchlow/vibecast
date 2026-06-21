@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jun 2026 09:08:18 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 08:37:04 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Hue’s Smart Lights, Ultrasonic Espresso &amp; Brain Interfaces</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Hue’s wired wall modules bring non-smart lights into its ecosystem
+   Source: The Verge
+2. Scientists Invent a Way to Brew Espresso With Ultrasonic Waves—No Hot Water Required
+   Source: Wired
+3. Daily briefing: The brain builds a sentence neuron by neuron
+   Source: Nature News
+4. Brain-computer interface trials are taking off
+   Source: MIT Technology Review
+5. 16 Best Greens Powders (2026): Taste-Tested for Months
+   Source: Wired
+6. Curiosity Blog, Sols 4920-4926: Surveying the Bands
+   Source: NASA Science
+7. NASA Mission to Study Space Weather Impacts of Earth’s Atmosphere
+   Source: NASA Science
+
+REFERENCES:
+
+1. Hue’s wired wall modules bring non-smart lights into its ecosystem
+   https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb
+
+2. Scientists Invent a Way to Brew Espresso With Ultrasonic Waves—No Hot Water Required
+   https://www.wired.com/story/scientists-brew-espresso-with-ultrasonic-waves/
+
+3. Daily briefing: The brain builds a sentence neuron by neuron
+   https://www.nature.com/articles/d41586-026-01967-x
+
+4. Brain-computer interface trials are taking off
+   https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/
+
+5. 16 Best Greens Powders (2026): Taste-Tested for Months
+   https://www.wired.com/gallery/best-greens-powders/
+
+6. Curiosity Blog, Sols 4920-4926: Surveying the Bands
+   https://science.nasa.gov/blog/curiosity-blog-sols-4920-4926-surveying-the-bands/
+
+7. NASA Mission to Study Space Weather Impacts of Earth’s Atmosphere
+   https://www.nasa.gov/news-release/nasa-mission-to-study-space-weather-impacts-of-earths-atmosphere/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-21/newspaper.pdf]]></description>
+      <pubDate>Sun, 21 Jun 2026 08:36:02 -0000</pubDate>
+      <guid isPermaLink="false">2026-06-21</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-21.mp3" length="6564134" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Hue’s wired wall modules bring non-smart lights into its ecosystem
+   Source: The Verge
+2. Scientists Invent a Way to Brew Espresso With Ultrasonic Waves—No Hot Water Required
+   Source: Wired
+3. Daily briefing: The brain builds a sentence neuron by neuron
+   Source: Nature News
+4. Brain-computer interface trials are taking off
+   Source: MIT Technology Review
+5. 16 Best Greens Powders (2026): Taste-Tested for Months
+   Source: Wired
+6. Curiosity Blog, Sols 4920-4926: Surveying the Bands
+   Source: NASA Science
+7. NASA Mission to Study Space Weather Impacts of Earth’s Atmosphere
+   Source: NASA Science
+
+REFERENCES:
+
+1. Hue’s wired wall modules bring non-smart lights into its ecosystem
+   https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb
+
+2. Scientists Invent a Way to Brew Espresso With Ultrasonic Waves—No Hot Water Required
+   https://www.wired.com/story/scientists-brew-espresso-with-ultrasonic-waves/
+
+3. Daily briefing: The brain builds a sentence neuron by neuron
+   https://www.nature.com/articles/d41586-026-01967-x
+
+4. Brain-computer interface trials are taking off
+   https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/
+
+5. 16 Best Greens Powders (2026): Taste-Tested for Months
+   https://www.wired.com/gallery/best-greens-powders/
+
+6. Curiosity Blog, Sols 4920-4926: Surveying the Bands
+   https://science.nasa.gov/blog/curiosity-blog-sols-4920-4926-surveying-the-bands/
+
+7. NASA Mission to Study Space Weather Impacts of Earth’s Atmosphere
+   https://www.nasa.gov/news-release/nasa-mission-to-study-space-weather-impacts-of-earths-atmosphere/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-21/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:50</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-21/episode-art.png"/>
+    </item>
     <item>
       <title>Brexit Science Healing &amp; AI in Rare Disease Diagnosis</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:14</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-21/episode-art.png"/>
-    </item>
-    <item>
-      <title>AI Teams Accelerate Research &amp; Project Genie Simulates Re...</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Teams of AI agents boost speed of research
-   Source: Nature News
-2. A multi-agent system for automating scientific discovery
-   Source: Nature News
-3. Advancing content provenance for a safer, more transparent AI ecosystem
-   Source: OpenAI News
-4. Simulate real-world places with Project Genie and Street View
-   Source: DeepMind Blog
-5. Opening new paths in aging research
-   Source: DeepMind Blog
-6. Understanding the modern cybercrime landscape
-   Source: MIT Technology Review
-7. Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell
-   Source: MIT Technology Review
-
-REFERENCES:
-
-1. Teams of AI agents boost speed of research
-   https://www.nature.com/articles/d41586-026-01596-4
-
-2. A multi-agent system for automating scientific discovery
-   https://www.nature.com/articles/s41586-026-10652-y
-
-3. Advancing content provenance for a safer, more transparent AI ecosystem
-   https://openai.com/index/advancing-content-provenance
-
-4. Simulate real-world places with Project Genie and Street View
-   https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/
-
-5. Opening new paths in aging research
-   https://deepmind.google/blog/opening-new-paths-in-aging-research/
-
-6. Understanding the modern cybercrime landscape
-   https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/
-
-7. Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell
-   https://www.technologyreview.com/2026/05/19/1137471/colossal-biosciences-is-growing-chickens-in-a-3d-printed-container/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-20/newspaper.pdf]]></description>
-      <pubDate>Wed, 20 May 2026 07:45:34 -0000</pubDate>
-      <guid isPermaLink="false">2026-05-20</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-20.mp3" length="8551530" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Teams of AI agents boost speed of research
-   Source: Nature News
-2. A multi-agent system for automating scientific discovery
-   Source: Nature News
-3. Advancing content provenance for a safer, more transparent AI ecosystem
-   Source: OpenAI News
-4. Simulate real-world places with Project Genie and Street View
-   Source: DeepMind Blog
-5. Opening new paths in aging research
-   Source: DeepMind Blog
-6. Understanding the modern cybercrime landscape
-   Source: MIT Technology Review
-7. Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell
-   Source: MIT Technology Review
-
-REFERENCES:
-
-1. Teams of AI agents boost speed of research
-   https://www.nature.com/articles/d41586-026-01596-4
-
-2. A multi-agent system for automating scientific discovery
-   https://www.nature.com/articles/s41586-026-10652-y
-
-3. Advancing content provenance for a safer, more transparent AI ecosystem
-   https://openai.com/index/advancing-content-provenance
-
-4. Simulate real-world places with Project Genie and Street View
-   https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/
-
-5. Opening new paths in aging research
-   https://deepmind.google/blog/opening-new-paths-in-aging-research/
-
-6. Understanding the modern cybercrime landscape
-   https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/
-
-7. Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell
-   https://www.technologyreview.com/2026/05/19/1137471/colossal-biosciences-is-growing-chickens-in-a-3d-printed-container/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-20/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>5:53</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-20/episode-art.png"/>
     </item>
   </channel>
 </rss>

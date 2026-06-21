@@ -1,0 +1,66 @@
+{
+  "guid": "2026-06-21",
+  "date": "2026-06-21T08:36:02.581322",
+  "title": "Hue’s Smart Lights, Ultrasonic Espresso & Brain Interfaces",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 290.10526315789474,
+  "duration_formatted": "4:50",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-21.mp3",
+    "audio_size_bytes": 6564134,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-21/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-21/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-06-21.txt"
+  },
+  "stories": [
+    {
+      "title": "Hue’s wired wall modules bring non-smart lights into its ecosystem",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb",
+      "summary": "Smart lighting company Philips Hue has launched its first wired wall modules. Installed behind existing wall switches, the new devices bring non-smart lights into the Hue ecosystem for the first time. Hue also announced new Play table and floor lamps that are more affordable versions of its Signe series, along with upgrades to its E14 [&#8230;]"
+    },
+    {
+      "title": "Scientists Invent a Way to Brew Espresso With Ultrasonic Waves—No Hot Water Required",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/scientists-brew-espresso-with-ultrasonic-waves/",
+      "summary": "Researchers have demonstrated they can make coffee comparable to conventional espresso using ultrasonic waves. Because the process doesn’t need hot water, it consumes 75 percent less energy."
+    },
+    {
+      "title": "Daily briefing: The brain builds a sentence neuron by neuron",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01967-x",
+      "summary": "Nature, Published online: 18 June 2026; doi:10.1038/d41586-026-01967-xResearchers have tracked the electrical activity of individual brain cells during conversation in real time. Plus, the history of GPS and a cross-species transplant that could reveal clues about the origin of animals."
+    },
+    {
+      "title": "Brain-computer interface trials are taking off",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
+      "summary": "This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device. He has now spent almost three years using a brain-computer interface (BCI) that enables&#8230;"
+    },
+    {
+      "title": "16 Best Greens Powders (2026): Taste-Tested for Months",
+      "source": "Wired",
+      "url": "https://www.wired.com/gallery/best-greens-powders/",
+      "summary": "I did the research and taste-testing to find the best greens powders worth your money. Bloom Nutrition’s Superfood Greens Powder is my tried-and-true pick."
+    },
+    {
+      "title": "Curiosity Blog, Sols 4920-4926: Surveying the Bands",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4920-4926-surveying-the-bands/",
+      "summary": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, June 12, 2026 Rather than going from stage to stage at a music festival to hear different bands playing different varieties of music, Curiosity has been ascending up Mount Sharp through physical bands of exposed rocks with textural and tonal differences. [&#8230;] The post Curiosity Blog, Sols 4920-4926: Surveying the Bands appeared first on NASA Science."
+    },
+    {
+      "title": "NASA Mission to Study Space Weather Impacts of Earth’s Atmosphere",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/news-release/nasa-mission-to-study-space-weather-impacts-of-earths-atmosphere/",
+      "summary": "NASA selected a mission concept to research how space weather and dynamics within Earth’s atmosphere influence the space environment and help improve prediction capabilities for impacts on crucial technology, such as GPS and low Earth orbit satellites, as well as astronauts in space. The DAPHNE (Dynamic Atmosphere-Ionosphere Explorer) mission will enter Phase B of development, […] The post NASA Mission to Study Space Weather Impacts of Earth’s Atmosphere appeared first on NASA Science."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-06-21T08:37:04.125148",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
