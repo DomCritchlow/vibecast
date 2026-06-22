@@ -1,0 +1,66 @@
+{
+  "guid": "2026-06-22",
+  "date": "2026-06-22T09:48:58.425963",
+  "title": "Nuclear Clocks Tick & Milky Way Gamma-Ray Mystery",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 293.0526315789474,
+  "duration_formatted": "4:53",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-22.mp3",
+    "audio_size_bytes": 6749708,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-22/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-22/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-06-22.txt"
+  },
+  "stories": [
+    {
+      "title": "The first ticking ‘nuclear clocks’ are here — what can they do?",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01909-7",
+      "summary": "Nature, Published online: 22 June 2026; doi:10.1038/d41586-026-01909-7Two research teams have created a new, long-awaited type of timekeeper."
+    },
+    {
+      "title": "Sony’s Xperia 1 VIII is still a phone for the fans",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/952245/sony-xperia-1-viii-review",
+      "summary": "The Xperia 1 VIII marks an attempt at a step change for Sony's flagship phone line. Not only has it had an aesthetic overhaul, but Sony has also revamped the camera system, dropping the continuous optical zoom telephoto that's defined the last four generations of Xperia phone. It's not all different. Sony staples like a [&#8230;]"
+    },
+    {
+      "title": "A mysterious gamma-ray stream comes from the Milky Way's center. Could dark matter have something to do with it?",
+      "source": "Space.com",
+      "url": "https://www.space.com/astronomy/dark-universe/a-mysterious-gamma-ray-stream-comes-from-the-milky-ways-center-could-dark-matter-have-something-to-do-with-it",
+      "summary": "New research has failed to rule out self-annihilating dark matter as the source of a hotly debated gamma-ray emission known as the Galactic Center Excess radiating from the heart of the Milky Way."
+    },
+    {
+      "title": "Author Correction: Autophagic cell death restricts chromosomal instability during replicative crisis",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10812-0",
+      "summary": "Nature, Published online: 19 June 2026; doi:10.1038/s41586-026-10812-0Author Correction: Autophagic cell death restricts chromosomal instability during replicative crisis"
+    },
+    {
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts."
+    },
+    {
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence."
+    },
+    {
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-06-22T09:50:17.026695",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

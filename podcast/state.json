@@ -745,7 +745,14 @@
     "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
     "https://www.wired.com/gallery/best-greens-powders/",
     "https://science.nasa.gov/blog/curiosity-blog-sols-4920-4926-surveying-the-bands/",
-    "https://www.nasa.gov/news-release/nasa-mission-to-study-space-weather-impacts-of-earths-atmosphere/"
+    "https://www.nasa.gov/news-release/nasa-mission-to-study-space-weather-impacts-of-earths-atmosphere/",
+    "https://www.nature.com/articles/d41586-026-01909-7",
+    "https://www.theverge.com/tech/952245/sony-xperia-1-viii-review",
+    "https://www.space.com/astronomy/dark-universe/a-mysterious-gamma-ray-stream-comes-from-the-milky-ways-center-could-dark-matter-have-something-to-do-with-it",
+    "https://www.nature.com/articles/s41586-026-10812-0",
+    "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -1493,7 +1500,14 @@
     "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/": "2026-06-21T08:37:04.146038",
     "https://www.wired.com/gallery/best-greens-powders/": "2026-06-21T08:37:04.146038",
     "https://science.nasa.gov/blog/curiosity-blog-sols-4920-4926-surveying-the-bands/": "2026-06-21T08:37:04.146038",
-    "https://www.nasa.gov/news-release/nasa-mission-to-study-space-weather-impacts-of-earths-atmosphere/": "2026-06-21T08:37:04.146038"
+    "https://www.nasa.gov/news-release/nasa-mission-to-study-space-weather-impacts-of-earths-atmosphere/": "2026-06-21T08:37:04.146038",
+    "https://www.nature.com/articles/d41586-026-01909-7": "2026-06-22T09:50:17.047961",
+    "https://www.theverge.com/tech/952245/sony-xperia-1-viii-review": "2026-06-22T09:50:17.047961",
+    "https://www.space.com/astronomy/dark-universe/a-mysterious-gamma-ray-stream-comes-from-the-milky-ways-center-could-dark-matter-have-something-to-do-with-it": "2026-06-22T09:50:17.047961",
+    "https://www.nature.com/articles/s41586-026-10812-0": "2026-06-22T09:50:17.047961",
+    "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment": "2026-06-22T09:50:17.047961",
+    "https://openai.com/index/chatgpt-enterprise-spend-controls": "2026-06-22T09:50:17.047961",
+    "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/": "2026-06-22T09:50:17.047961"
   },
-  "last_run": "2026-06-21T08:37:04.146038"
+  "last_run": "2026-06-22T09:50:17.047961"
 }

@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Jun 2026 08:37:04 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 09:50:17 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Nuclear Clocks Tick &amp; Milky Way Gamma-Ray Mystery</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. The first ticking ‘nuclear clocks’ are here — what can they do?
+   Source: Nature News
+2. Sony’s Xperia 1 VIII is still a phone for the fans
+   Source: The Verge
+3. A mysterious gamma-ray stream comes from the Milky Way's center. Could dark matter have something to do with it?
+   Source: Space.com
+4. Author Correction: Autophagic cell death restricts chromosomal instability during replicative crisis
+   Source: Nature News
+5. Samsung Electronics brings ChatGPT and Codex to employees
+   Source: OpenAI News
+6. New usage analytics and updated spend controls for enterprises
+   Source: OpenAI News
+7. Unlocking UK house-building with AI-accelerated planning
+   Source: DeepMind Blog
+
+REFERENCES:
+
+1. The first ticking ‘nuclear clocks’ are here — what can they do?
+   https://www.nature.com/articles/d41586-026-01909-7
+
+2. Sony’s Xperia 1 VIII is still a phone for the fans
+   https://www.theverge.com/tech/952245/sony-xperia-1-viii-review
+
+3. A mysterious gamma-ray stream comes from the Milky Way's center. Could dark matter have something to do with it?
+   https://www.space.com/astronomy/dark-universe/a-mysterious-gamma-ray-stream-comes-from-the-milky-ways-center-could-dark-matter-have-something-to-do-with-it
+
+4. Author Correction: Autophagic cell death restricts chromosomal instability during replicative crisis
+   https://www.nature.com/articles/s41586-026-10812-0
+
+5. Samsung Electronics brings ChatGPT and Codex to employees
+   https://openai.com/index/samsung-electronics-chatgpt-codex-deployment
+
+6. New usage analytics and updated spend controls for enterprises
+   https://openai.com/index/chatgpt-enterprise-spend-controls
+
+7. Unlocking UK house-building with AI-accelerated planning
+   https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-22/newspaper.pdf]]></description>
+      <pubDate>Mon, 22 Jun 2026 09:48:58 -0000</pubDate>
+      <guid isPermaLink="false">2026-06-22</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-22.mp3" length="6749708" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. The first ticking ‘nuclear clocks’ are here — what can they do?
+   Source: Nature News
+2. Sony’s Xperia 1 VIII is still a phone for the fans
+   Source: The Verge
+3. A mysterious gamma-ray stream comes from the Milky Way's center. Could dark matter have something to do with it?
+   Source: Space.com
+4. Author Correction: Autophagic cell death restricts chromosomal instability during replicative crisis
+   Source: Nature News
+5. Samsung Electronics brings ChatGPT and Codex to employees
+   Source: OpenAI News
+6. New usage analytics and updated spend controls for enterprises
+   Source: OpenAI News
+7. Unlocking UK house-building with AI-accelerated planning
+   Source: DeepMind Blog
+
+REFERENCES:
+
+1. The first ticking ‘nuclear clocks’ are here — what can they do?
+   https://www.nature.com/articles/d41586-026-01909-7
+
+2. Sony’s Xperia 1 VIII is still a phone for the fans
+   https://www.theverge.com/tech/952245/sony-xperia-1-viii-review
+
+3. A mysterious gamma-ray stream comes from the Milky Way's center. Could dark matter have something to do with it?
+   https://www.space.com/astronomy/dark-universe/a-mysterious-gamma-ray-stream-comes-from-the-milky-ways-center-could-dark-matter-have-something-to-do-with-it
+
+4. Author Correction: Autophagic cell death restricts chromosomal instability during replicative crisis
+   https://www.nature.com/articles/s41586-026-10812-0
+
+5. Samsung Electronics brings ChatGPT and Codex to employees
+   https://openai.com/index/samsung-electronics-chatgpt-codex-deployment
+
+6. New usage analytics and updated spend controls for enterprises
+   https://openai.com/index/chatgpt-enterprise-spend-controls
+
+7. Unlocking UK house-building with AI-accelerated planning
+   https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-22/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:53</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-22/episode-art.png"/>
+    </item>
     <item>
       <title>Hue’s Smart Lights, Ultrasonic Espresso &amp; Brain Interfaces</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:35</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-22/episode-art.png"/>
-    </item>
-    <item>
-      <title>NASA AI Tracks Algae &amp; Neptune’s Moon Mystery Unveiled</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. NASA-developed AI Could Help Track Harmful Algae
-   Source: NASA Science
-2. AI ‘scientists’ promise to accelerate research — how do they work?
-   Source: Nature News
-3. Where did Neptune's mysterious moon Nereid come from? It may be the only survivor of the planet's violent history
-   Source: Space.com
-4. Nearly half of the world’s Nature Index chemistry research is now done in China
-   Source: Nature News
-5. Show HN: Asciidia – LLM-Powered Game
-   Source: Hacker News (AI filtered)
-6. NASA Announces Winners in University Aeronautics Competition
-   Source: NASA Science
-7. Scientists find a hidden route to the moon that saves fuel
-   Source: Space.com
-
-REFERENCES:
-
-1. NASA-developed AI Could Help Track Harmful Algae
-   https://www.nasa.gov/science-research/earth-science/nasa-developed-ai-could-help-track-harmful-algae/
-
-2. AI ‘scientists’ promise to accelerate research — how do they work?
-   https://www.nature.com/articles/d41586-026-01627-0
-
-3. Where did Neptune's mysterious moon Nereid come from? It may be the only survivor of the planet's violent history
-   https://www.space.com/astronomy/neptune/where-did-neptunes-mysterious-moon-nereid-come-from-it-may-be-the-only-survivor-of-the-planets-violent-history
-
-4. Nearly half of the world’s Nature Index chemistry research is now done in China
-   https://www.nature.com/articles/d41586-026-00431-0
-
-5. Show HN: Asciidia – LLM-Powered Game
-   https://asciidia.com
-
-6. NASA Announces Winners in University Aeronautics Competition
-   https://www.nasa.gov/aeronautics/nasa-announces-winners-in-university-aeronautics-competition/
-
-7. Scientists find a hidden route to the moon that saves fuel
-   https://www.space.com/astronomy/moon/scientists-find-a-hidden-route-to-the-moon-that-saves-fuel
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-21/newspaper.pdf]]></description>
-      <pubDate>Thu, 21 May 2026 07:56:06 -0000</pubDate>
-      <guid isPermaLink="false">2026-05-21</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-21.mp3" length="5801734" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. NASA-developed AI Could Help Track Harmful Algae
-   Source: NASA Science
-2. AI ‘scientists’ promise to accelerate research — how do they work?
-   Source: Nature News
-3. Where did Neptune's mysterious moon Nereid come from? It may be the only survivor of the planet's violent history
-   Source: Space.com
-4. Nearly half of the world’s Nature Index chemistry research is now done in China
-   Source: Nature News
-5. Show HN: Asciidia – LLM-Powered Game
-   Source: Hacker News (AI filtered)
-6. NASA Announces Winners in University Aeronautics Competition
-   Source: NASA Science
-7. Scientists find a hidden route to the moon that saves fuel
-   Source: Space.com
-
-REFERENCES:
-
-1. NASA-developed AI Could Help Track Harmful Algae
-   https://www.nasa.gov/science-research/earth-science/nasa-developed-ai-could-help-track-harmful-algae/
-
-2. AI ‘scientists’ promise to accelerate research — how do they work?
-   https://www.nature.com/articles/d41586-026-01627-0
-
-3. Where did Neptune's mysterious moon Nereid come from? It may be the only survivor of the planet's violent history
-   https://www.space.com/astronomy/neptune/where-did-neptunes-mysterious-moon-nereid-come-from-it-may-be-the-only-survivor-of-the-planets-violent-history
-
-4. Nearly half of the world’s Nature Index chemistry research is now done in China
-   https://www.nature.com/articles/d41586-026-00431-0
-
-5. Show HN: Asciidia – LLM-Powered Game
-   https://asciidia.com
-
-6. NASA Announces Winners in University Aeronautics Competition
-   https://www.nasa.gov/aeronautics/nasa-announces-winners-in-university-aeronautics-competition/
-
-7. Scientists find a hidden route to the moon that saves fuel
-   https://www.space.com/astronomy/moon/scientists-find-a-hidden-route-to-the-moon-that-saves-fuel
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-21/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:14</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-21/episode-art.png"/>
     </item>
   </channel>
 </rss>
