@@ -1,0 +1,66 @@
+{
+  "guid": "2026-06-23",
+  "date": "2026-06-23T07:51:15.537515",
+  "title": "Build Your Own Steam Machine & Sun’s Fiery Final Act",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 300.2105263157894,
+  "duration_formatted": "5:00",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-23.mp3",
+    "audio_size_bytes": 7132767,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-23/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-23/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-06-23.txt"
+  },
+  "stories": [
+    {
+      "title": "Valve will finally let you build your own Steam Machine with SteamOS for desktop",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/953411/valve-steamos-desktop-nvidia",
+      "summary": "If you don't get lucky with Valve's Steam Machine reservation system, you can make your own Steam Machine instead. Valve says that \"starting with the SteamOS 3.8 release, you can put together your own Steam Machine using whatever PC parts you want.\" SteamOS 3.8.10 launched last week with a slew of updates, including \"improved compatibility [&#8230;]"
+    },
+    {
+      "title": "Gary Kellogg",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/people/gary-kellogg/",
+      "summary": "Gary Kellogg is the Associate Director for Intelligent Flight Systems for the Research Directorate at NASA’s Langley Research Center. He has also served as the Branch Head of the Autonomous Integrated Systems Research Branch as well as the Branch Head of the Electromagnetics and Sensors Branch at NASA Langley. In 2019, Mr. Kellogg served a […] The post Gary Kellogg appeared first on NASA Science."
+    },
+    {
+      "title": "Our sun is destined to 'kick and spit' its way across the solar system when it dies",
+      "source": "Space.com",
+      "url": "https://www.space.com/astronomy/stars/the-dying-sun-will-go-out-kicking-before-leaving-behind-a-white-dwarf-dead-star",
+      "summary": "Scientists have discovered that dying stars don't go down without a fight, with red giants spitting out blobs of plasma and receiving a corresponding \"kick.\""
+    },
+    {
+      "title": "Forty years of high-temperature superconductivity",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01801-4",
+      "summary": "Nature, Published online: 22 June 2026; doi:10.1038/d41586-026-01801-4The first demonstration of superconductivity at 35 kelvin drove decades of materials research and introduced a puzzle about this strange state of matter."
+    },
+    {
+      "title": "Make science more reliable: study people as they go about their lives",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01957-z",
+      "summary": "Nature, Published online: 22 June 2026; doi:10.1038/d41586-026-01957-zResearchers have long discussed the replication crisis. Now it’s time to tackle another problem in the behavioural sciences: generalizability."
+    },
+    {
+      "title": "Google invests in A24 to build AI movie tools",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership",
+      "summary": "Google's DeepMind AI lab is teaming up with A24 to develop new movie production technologies that aim to help future filmmakers \"expand their storytelling possibilities.\" As part of this new research and development collaboration, The Wall Street Journal reports that Google is investing \"around $75 million\" into A24, marking the first time the search giant [&#8230;]"
+    },
+    {
+      "title": "A Source of Mysterious Repeating Radio Signals From Space Has Been Identified",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/",
+      "summary": "Researchers say the discovery could be a “Rosetta stone” for cosmic signals."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-06-23T07:52:29.873727",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
