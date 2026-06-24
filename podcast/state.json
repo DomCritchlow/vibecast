@@ -759,7 +759,14 @@
     "https://www.nature.com/articles/d41586-026-01801-4",
     "https://www.nature.com/articles/d41586-026-01957-z",
     "https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership",
-    "https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/"
+    "https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/",
+    "https://openai.com/index/gpt-5-immunology-mystery",
+    "https://www.nature.com/articles/d41586-026-01955-1",
+    "https://www.nature.com/articles/d41586-026-01130-6",
+    "https://www.technologyreview.com/2026/06/23/1138274/stand-up-for-research-innovation-and-education-6/",
+    "https://www.technologyreview.com/2026/06/23/1138279/ultrasound-imaging-turns-a-robot-hand-into-a-skillful-mimic/",
+    "https://arstechnica.com/science/2026/06/uss-climate-gov-site-taken-down-by-trump-relaunched-by-nonprofit/",
+    "https://arstechnica.com/health/2026/06/trump-may-be-mystery-patient-in-odd-case-of-79yo-getting-experimental-obesity-drug/"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -1521,7 +1528,14 @@
     "https://www.nature.com/articles/d41586-026-01801-4": "2026-06-23T07:52:29.895050",
     "https://www.nature.com/articles/d41586-026-01957-z": "2026-06-23T07:52:29.895050",
     "https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership": "2026-06-23T07:52:29.895050",
-    "https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/": "2026-06-23T07:52:29.895050"
+    "https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/": "2026-06-23T07:52:29.895050",
+    "https://openai.com/index/gpt-5-immunology-mystery": "2026-06-24T07:43:32.324005",
+    "https://www.nature.com/articles/d41586-026-01955-1": "2026-06-24T07:43:32.324005",
+    "https://www.nature.com/articles/d41586-026-01130-6": "2026-06-24T07:43:32.324005",
+    "https://www.technologyreview.com/2026/06/23/1138274/stand-up-for-research-innovation-and-education-6/": "2026-06-24T07:43:32.324005",
+    "https://www.technologyreview.com/2026/06/23/1138279/ultrasound-imaging-turns-a-robot-hand-into-a-skillful-mimic/": "2026-06-24T07:43:32.324005",
+    "https://arstechnica.com/science/2026/06/uss-climate-gov-site-taken-down-by-trump-relaunched-by-nonprofit/": "2026-06-24T07:43:32.324005",
+    "https://arstechnica.com/health/2026/06/trump-may-be-mystery-patient-in-odd-case-of-79yo-getting-experimental-obesity-drug/": "2026-06-24T07:43:32.324005"
   },
-  "last_run": "2026-06-23T07:52:29.895050"
+  "last_run": "2026-06-24T07:43:32.324005"
 }

@@ -1,0 +1,66 @@
+{
+  "guid": "2026-06-24",
+  "date": "2026-06-24T07:42:27.318681",
+  "title": "GPT-5 Solves Mystery & Europe’s Rise as Science Power",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 287.1578947368421,
+  "duration_formatted": "4:47",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-24.mp3",
+    "audio_size_bytes": 6907070,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-24/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-24/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-06-24.txt"
+  },
+  "stories": [
+    {
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/gpt-5-immunology-mystery",
+      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research."
+    },
+    {
+      "title": "Europe as science superpower: what it will take to rival the US and China",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01955-1",
+      "summary": "Nature, Published online: 23 June 2026; doi:10.1038/d41586-026-01955-1Amid chaos in US science and geopolitical turmoil, Europe wants to position itself as a research haven — but questions about funding and innovation remain."
+    },
+    {
+      "title": "How should I respond to race-based exclusion in my lab?",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01130-6",
+      "summary": "Nature, Published online: 23 June 2026; doi:10.1038/d41586-026-01130-6A researcher in Europe feels left out of their team and held to different standards from their colleagues. How can they challenge exclusion without risking their position?"
+    },
+    {
+      "title": "Stand Up for Research, Innovation, and Education",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/06/23/1138274/stand-up-for-research-innovation-and-education-6/",
+      "summary": "Right now, MIT alumni and friends are voicing their support for: America’s scientific and technological leadership Merit-based admissions and affordable education Advances that increase US health, security, and prosperity Our community is standing up for MIT and its mission to serve the nation and the world. And we need you to join us at this&#8230;"
+    },
+    {
+      "title": "Ultrasound imaging turns a robot hand into a skillful mimic",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/06/23/1138279/ultrasound-imaging-turns-a-robot-hand-into-a-skillful-mimic/",
+      "summary": "Our hands are the nimblest parts of our bodies, coordinating 34 muscles, 27 joints, and over 100 tendons and ligaments to perform countless nuanced movements and gestures. So far, robots have been notoriously bad at mimicking that dexterity, in part because researchers struggle to capture what is actually going on under our skin in order&#8230;"
+    },
+    {
+      "title": "US's climate.gov site, taken down by Trump, relaunched by nonprofit",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/06/uss-climate-gov-site-taken-down-by-trump-relaunched-by-nonprofit/",
+      "summary": "Climate.us has now restored everything taken down by the government."
+    },
+    {
+      "title": "Trump may be mystery patient in odd case of 79yo getting experimental obesity drug",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/06/trump-may-be-mystery-patient-in-odd-case-of-79yo-getting-experimental-obesity-drug/",
+      "summary": "White House spokesperson denied it was Trump only after story was published."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-06-24T07:43:32.303030",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

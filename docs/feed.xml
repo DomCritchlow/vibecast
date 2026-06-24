@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jun 2026 07:52:29 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 07:43:32 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>GPT-5 Solves Mystery &amp; Europe’s Rise as Science Power</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery
+   Source: OpenAI News
+2. Europe as science superpower: what it will take to rival the US and China
+   Source: Nature News
+3. How should I respond to race-based exclusion in my lab?
+   Source: Nature News
+4. Stand Up for Research, Innovation, and Education
+   Source: MIT Technology Review
+5. Ultrasound imaging turns a robot hand into a skillful mimic
+   Source: MIT Technology Review
+6. US's climate.gov site, taken down by Trump, relaunched by nonprofit
+   Source: Ars Technica
+7. Trump may be mystery patient in odd case of 79yo getting experimental obesity drug
+   Source: Ars Technica
+
+REFERENCES:
+
+1. How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery
+   https://openai.com/index/gpt-5-immunology-mystery
+
+2. Europe as science superpower: what it will take to rival the US and China
+   https://www.nature.com/articles/d41586-026-01955-1
+
+3. How should I respond to race-based exclusion in my lab?
+   https://www.nature.com/articles/d41586-026-01130-6
+
+4. Stand Up for Research, Innovation, and Education
+   https://www.technologyreview.com/2026/06/23/1138274/stand-up-for-research-innovation-and-education-6/
+
+5. Ultrasound imaging turns a robot hand into a skillful mimic
+   https://www.technologyreview.com/2026/06/23/1138279/ultrasound-imaging-turns-a-robot-hand-into-a-skillful-mimic/
+
+6. US's climate.gov site, taken down by Trump, relaunched by nonprofit
+   https://arstechnica.com/science/2026/06/uss-climate-gov-site-taken-down-by-trump-relaunched-by-nonprofit/
+
+7. Trump may be mystery patient in odd case of 79yo getting experimental obesity drug
+   https://arstechnica.com/health/2026/06/trump-may-be-mystery-patient-in-odd-case-of-79yo-getting-experimental-obesity-drug/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-24/newspaper.pdf]]></description>
+      <pubDate>Wed, 24 Jun 2026 07:42:27 -0000</pubDate>
+      <guid isPermaLink="false">2026-06-24</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-24.mp3" length="6907070" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery
+   Source: OpenAI News
+2. Europe as science superpower: what it will take to rival the US and China
+   Source: Nature News
+3. How should I respond to race-based exclusion in my lab?
+   Source: Nature News
+4. Stand Up for Research, Innovation, and Education
+   Source: MIT Technology Review
+5. Ultrasound imaging turns a robot hand into a skillful mimic
+   Source: MIT Technology Review
+6. US's climate.gov site, taken down by Trump, relaunched by nonprofit
+   Source: Ars Technica
+7. Trump may be mystery patient in odd case of 79yo getting experimental obesity drug
+   Source: Ars Technica
+
+REFERENCES:
+
+1. How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery
+   https://openai.com/index/gpt-5-immunology-mystery
+
+2. Europe as science superpower: what it will take to rival the US and China
+   https://www.nature.com/articles/d41586-026-01955-1
+
+3. How should I respond to race-based exclusion in my lab?
+   https://www.nature.com/articles/d41586-026-01130-6
+
+4. Stand Up for Research, Innovation, and Education
+   https://www.technologyreview.com/2026/06/23/1138274/stand-up-for-research-innovation-and-education-6/
+
+5. Ultrasound imaging turns a robot hand into a skillful mimic
+   https://www.technologyreview.com/2026/06/23/1138279/ultrasound-imaging-turns-a-robot-hand-into-a-skillful-mimic/
+
+6. US's climate.gov site, taken down by Trump, relaunched by nonprofit
+   https://arstechnica.com/science/2026/06/uss-climate-gov-site-taken-down-by-trump-relaunched-by-nonprofit/
+
+7. Trump may be mystery patient in odd case of 79yo getting experimental obesity drug
+   https://arstechnica.com/health/2026/06/trump-may-be-mystery-patient-in-odd-case-of-79yo-getting-experimental-obesity-drug/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-24/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:47</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-24/episode-art.png"/>
+    </item>
     <item>
       <title>Build Your Own Steam Machine &amp; Sun’s Fiery Final Act</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:42</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-24/episode-art.png"/>
-    </item>
-    <item>
-      <title>AI Solves Math Mystery &amp; US-China Tech Ties Unveiled</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. AI cracks 80-year-old mathematics challenge — researchers are astonished
-   Source: Nature News
-2. Tech researchers are suing the Trump administration over the future of online safety
-   Source: MIT Technology Review
-3. Four Russian satellites are now within striking distance of an ICEYE radarsat
-   Source: Ars Technica
-4. Twelve South’s AirFly Pro 2 has hit one of its best prices ahead of summer travel
-   Source: The Verge
-5. What AI race? China and U.S. AI worlds are tightly connected
-   Source: Rest of World
-6. Is U.S. AI Adoption Plateauing? A Comprehensive Analysis
-   Source: Hacker News (AI filtered)
-7. Show HN: ThinkLLM, A knowledge graph of AI models (HTTPS://thinkllm.dev)
-   Source: Hacker News (AI filtered)
-
-REFERENCES:
-
-1. AI cracks 80-year-old mathematics challenge — researchers are astonished
-   https://www.nature.com/articles/d41586-026-01651-0
-
-2. Tech researchers are suing the Trump administration over the future of online safety
-   https://www.technologyreview.com/2026/05/21/1137632/lawsuit-trump-administration-online-safety-coalition-for-independent-technology-research/
-
-3. Four Russian satellites are now within striking distance of an ICEYE radarsat
-   https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/
-
-4. Twelve South’s AirFly Pro 2 has hit one of its best prices ahead of summer travel
-   https://www.theverge.com/gadgets/936200/twelve-south-airfly-pro-2-memorial-day-deal-sale
-
-5. What AI race? China and U.S. AI worlds are tightly connected
-   https://restofworld.org/2026/china-us-what-ai-race/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
-
-6. Is U.S. AI Adoption Plateauing? A Comprehensive Analysis
-   https://medium.com/@markchen69/is-u-s-ai-adoption-plateauing-a-comprehensive-analysis-cf5c1beef8cf
-
-7. Show HN: ThinkLLM, A knowledge graph of AI models (HTTPS://thinkllm.dev)
-   https://thinkllm.dev
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-23/newspaper.pdf]]></description>
-      <pubDate>Sat, 23 May 2026 06:34:41 -0000</pubDate>
-      <guid isPermaLink="false">2026-05-23</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-23.mp3" length="6757232" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. AI cracks 80-year-old mathematics challenge — researchers are astonished
-   Source: Nature News
-2. Tech researchers are suing the Trump administration over the future of online safety
-   Source: MIT Technology Review
-3. Four Russian satellites are now within striking distance of an ICEYE radarsat
-   Source: Ars Technica
-4. Twelve South’s AirFly Pro 2 has hit one of its best prices ahead of summer travel
-   Source: The Verge
-5. What AI race? China and U.S. AI worlds are tightly connected
-   Source: Rest of World
-6. Is U.S. AI Adoption Plateauing? A Comprehensive Analysis
-   Source: Hacker News (AI filtered)
-7. Show HN: ThinkLLM, A knowledge graph of AI models (HTTPS://thinkllm.dev)
-   Source: Hacker News (AI filtered)
-
-REFERENCES:
-
-1. AI cracks 80-year-old mathematics challenge — researchers are astonished
-   https://www.nature.com/articles/d41586-026-01651-0
-
-2. Tech researchers are suing the Trump administration over the future of online safety
-   https://www.technologyreview.com/2026/05/21/1137632/lawsuit-trump-administration-online-safety-coalition-for-independent-technology-research/
-
-3. Four Russian satellites are now within striking distance of an ICEYE radarsat
-   https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/
-
-4. Twelve South’s AirFly Pro 2 has hit one of its best prices ahead of summer travel
-   https://www.theverge.com/gadgets/936200/twelve-south-airfly-pro-2-memorial-day-deal-sale
-
-5. What AI race? China and U.S. AI worlds are tightly connected
-   https://restofworld.org/2026/china-us-what-ai-race/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
-
-6. Is U.S. AI Adoption Plateauing? A Comprehensive Analysis
-   https://medium.com/@markchen69/is-u-s-ai-adoption-plateauing-a-comprehensive-analysis-cf5c1beef8cf
-
-7. Show HN: ThinkLLM, A knowledge graph of AI models (HTTPS://thinkllm.dev)
-   https://thinkllm.dev
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-23/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:42</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-23/episode-art.png"/>
     </item>
   </channel>
 </rss>
