@@ -1,0 +1,66 @@
+{
+  "guid": "2026-06-25",
+  "date": "2026-06-25T07:44:55.756622",
+  "title": "Talos Genomics & OpenAI’s New AI Chip Unveiled",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 305.6842105263158,
+  "duration_formatted": "5:05",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-25.mp3",
+    "audio_size_bytes": 7794815,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-25/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-25/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-06-25.txt"
+  },
+  "stories": [
+    {
+      "title": "Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/",
+      "summary": "Talos was built to help resolve a major bottleneck in genomic medicine: human review time. The open-source system recovered 90% of in-scope diagnoses while surfacing just 1.3 candidate variants per patient for expert review. The post Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis appeared first on Microsoft Research."
+    },
+    {
+      "title": "A new paper argues Microsoft exaggerated its quantum claims a year ago",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/956450/nature-microsoft-quantum-computing-majorana-1-claims",
+      "summary": "A critique published in Nature Wednesday calls the basic technology behind Microsoft's \"breakthrough\" quantum computing chip the Majorana 1 into question. Microsoft unveiled the chip in February 2025 and said it featured a brand-new technology known as a topological qubit. Topological qubits, they said, would be the \"building blocks\" for their future quantum computer. Microsoft [&#8230;]"
+    },
+    {
+      "title": "The mutational landscape of STING-induced immunity",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10685-3",
+      "summary": "Nature, Published online: 24 June 2026; doi:10.1038/s41586-026-10685-3A massively parallel assay systematically charts the sequence-function landscape of the STING signalling protein, and the findings define molecular principles that tune STING activity and show its functional potential across immune contexts."
+    },
+    {
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems."
+    },
+    {
+      "title": "Microsoft introduces cheaper Surface devices with half the memory",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/956504/microsoft-surface-pro-laptop-ram",
+      "summary": "Microsoft just added a cheaper 12-inch Surface Pro and 13-inch Surface Laptop to its lineup. Both models come equipped with 8GB of RAM instead of 16GB, costing $849 for the specced-down Surface Pro and $949 for the Surface Laptop, as spotted earlier by Windows Central. When the 12-inch Surface Pro and 13-inch Surface Laptop launched [&#8230;]"
+    },
+    {
+      "title": "Show HN: MAVS-GC – An Open-Source Governance Architecture for AI Systems",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://docs.google.com/document/d/1h7qpDgLv2PyIB6ZlLED5qGDeUbnNbITzNEspmsxA7ZE/edit?usp=sharing",
+      "summary": "Hey HN, For some period of the time, I have been working on an open source project called MAVS-GC (Multi Adaptive Vetting Systems-Governance Core).The project explores whether introducing an explicit governance layer on top of multiple specialists can change system behavior under adverse conditions. Instead of focusing solely on prediction aggregation, the governance layer evaluates specialists, aggregates diagnostic signals, adjusts trust, performs bounded mitigation, and produces an auditable decision trace.So far I've completed three benchmarks covering: a- Predictive Performance. b- Robustness under multiple corruption families. c- Reproducibility and stability.From these benchmarks, we see that MAVS-GC has competitive predictive performance.However,the more interesting behavior appeared under severe corruption. Across high-corruption conditions (corruption level ≥ 0.6), MAVS-GC achieved 85.30% accuracy with 0.45% unsafe acceptance, while the ensemble baselines averaged 43.24% a..."
+    },
+    {
+      "title": "Small Steps, Giant Leaps: Episode 176: Calibrating Satellite Image Data",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/podcasts/small-steps-giant-leaps/small-steps-giant-leaps-episode-176-calibrating-satellite-image-data/",
+      "summary": "Before scientists can use those satellite imagery for research, the data must be carefully calibrated to ensure measurements are accurate and consistent over time. Julia Barsi, NASA calibration scientist, explains. The post Small Steps, Giant Leaps: Episode 176: Calibrating Satellite Image Data appeared first on NASA Science."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-06-25T07:46:09.436883",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}

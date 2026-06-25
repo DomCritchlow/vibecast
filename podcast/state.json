@@ -766,7 +766,14 @@
     "https://www.technologyreview.com/2026/06/23/1138274/stand-up-for-research-innovation-and-education-6/",
     "https://www.technologyreview.com/2026/06/23/1138279/ultrasound-imaging-turns-a-robot-hand-into-a-skillful-mimic/",
     "https://arstechnica.com/science/2026/06/uss-climate-gov-site-taken-down-by-trump-relaunched-by-nonprofit/",
-    "https://arstechnica.com/health/2026/06/trump-may-be-mystery-patient-in-odd-case-of-79yo-getting-experimental-obesity-drug/"
+    "https://arstechnica.com/health/2026/06/trump-may-be-mystery-patient-in-odd-case-of-79yo-getting-experimental-obesity-drug/",
+    "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/",
+    "https://www.theverge.com/tech/956450/nature-microsoft-quantum-computing-majorana-1-claims",
+    "https://www.nature.com/articles/s41586-026-10685-3",
+    "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "https://www.theverge.com/tech/956504/microsoft-surface-pro-laptop-ram",
+    "https://docs.google.com/document/d/1h7qpDgLv2PyIB6ZlLED5qGDeUbnNbITzNEspmsxA7ZE/edit?usp=sharing",
+    "https://www.nasa.gov/podcasts/small-steps-giant-leaps/small-steps-giant-leaps-episode-176-calibrating-satellite-image-data/"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -1535,7 +1542,14 @@
     "https://www.technologyreview.com/2026/06/23/1138274/stand-up-for-research-innovation-and-education-6/": "2026-06-24T07:43:32.324005",
     "https://www.technologyreview.com/2026/06/23/1138279/ultrasound-imaging-turns-a-robot-hand-into-a-skillful-mimic/": "2026-06-24T07:43:32.324005",
     "https://arstechnica.com/science/2026/06/uss-climate-gov-site-taken-down-by-trump-relaunched-by-nonprofit/": "2026-06-24T07:43:32.324005",
-    "https://arstechnica.com/health/2026/06/trump-may-be-mystery-patient-in-odd-case-of-79yo-getting-experimental-obesity-drug/": "2026-06-24T07:43:32.324005"
+    "https://arstechnica.com/health/2026/06/trump-may-be-mystery-patient-in-odd-case-of-79yo-getting-experimental-obesity-drug/": "2026-06-24T07:43:32.324005",
+    "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/": "2026-06-25T07:46:09.457573",
+    "https://www.theverge.com/tech/956450/nature-microsoft-quantum-computing-majorana-1-claims": "2026-06-25T07:46:09.457573",
+    "https://www.nature.com/articles/s41586-026-10685-3": "2026-06-25T07:46:09.457573",
+    "https://openai.com/index/openai-broadcom-jalapeno-inference-chip": "2026-06-25T07:46:09.457573",
+    "https://www.theverge.com/tech/956504/microsoft-surface-pro-laptop-ram": "2026-06-25T07:46:09.457573",
+    "https://docs.google.com/document/d/1h7qpDgLv2PyIB6ZlLED5qGDeUbnNbITzNEspmsxA7ZE/edit?usp=sharing": "2026-06-25T07:46:09.457573",
+    "https://www.nasa.gov/podcasts/small-steps-giant-leaps/small-steps-giant-leaps-episode-176-calibrating-satellite-image-data/": "2026-06-25T07:46:09.457573"
   },
-  "last_run": "2026-06-24T07:43:32.324005"
+  "last_run": "2026-06-25T07:46:09.457573"
 }
