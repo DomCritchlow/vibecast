@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2026 07:46:09 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 07:56:56 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>US Ocean Funding Crisis &amp; AI Unlocks Brain Secrets</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. US funding uncertainties threaten to sink key global oceanography projects
+   Source: Nature News
+2. How long-term dietary cholesterol can slow down its own clearance by liver cells
+   Source: Nature News
+3. How agents are transforming work
+   Source: OpenAI News
+4. Understanding the brain with AI-driven explanations and experiments
+   Source: Microsoft Research Blog
+5. Microsoft adds another year to Windows 10 extended update program
+   Source: Ars Technica
+6. Android 17&#8217;s new foldable gaming mode could make flippy phones more fun
+   Source: The Verge
+7. Instagram wants to monopolize your attention
+   Source: The Verge
+
+REFERENCES:
+
+1. US funding uncertainties threaten to sink key global oceanography projects
+   https://www.nature.com/articles/d41586-026-02028-z
+
+2. How long-term dietary cholesterol can slow down its own clearance by liver cells
+   https://www.nature.com/articles/d41586-026-01899-6
+
+3. How agents are transforming work
+   https://openai.com/index/how-agents-are-transforming-work
+
+4. Understanding the brain with AI-driven explanations and experiments
+   https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/
+
+5. Microsoft adds another year to Windows 10 extended update program
+   https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/
+
+6. Android 17&#8217;s new foldable gaming mode could make flippy phones more fun
+   https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller
+
+7. Instagram wants to monopolize your attention
+   https://www.theverge.com/tech/956456/instagram-for-tv-youtube-microdramas-longform-video
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-26/newspaper.pdf]]></description>
+      <pubDate>Fri, 26 Jun 2026 07:55:42 -0000</pubDate>
+      <guid isPermaLink="false">2026-06-26</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-26.mp3" length="6686388" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. US funding uncertainties threaten to sink key global oceanography projects
+   Source: Nature News
+2. How long-term dietary cholesterol can slow down its own clearance by liver cells
+   Source: Nature News
+3. How agents are transforming work
+   Source: OpenAI News
+4. Understanding the brain with AI-driven explanations and experiments
+   Source: Microsoft Research Blog
+5. Microsoft adds another year to Windows 10 extended update program
+   Source: Ars Technica
+6. Android 17&#8217;s new foldable gaming mode could make flippy phones more fun
+   Source: The Verge
+7. Instagram wants to monopolize your attention
+   Source: The Verge
+
+REFERENCES:
+
+1. US funding uncertainties threaten to sink key global oceanography projects
+   https://www.nature.com/articles/d41586-026-02028-z
+
+2. How long-term dietary cholesterol can slow down its own clearance by liver cells
+   https://www.nature.com/articles/d41586-026-01899-6
+
+3. How agents are transforming work
+   https://openai.com/index/how-agents-are-transforming-work
+
+4. Understanding the brain with AI-driven explanations and experiments
+   https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/
+
+5. Microsoft adds another year to Windows 10 extended update program
+   https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/
+
+6. Android 17&#8217;s new foldable gaming mode could make flippy phones more fun
+   https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller
+
+7. Instagram wants to monopolize your attention
+   https://www.theverge.com/tech/956456/instagram-for-tv-youtube-microdramas-longform-video
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-26/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:45</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-26/episode-art.png"/>
+    </item>
     <item>
       <title>Talos Genomics &amp; OpenAI’s New AI Chip Unveiled</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:14</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-26/episode-art.png"/>
-    </item>
-    <item>
-      <title>Thesis Storytelling &amp; OpenAI’s Enterprise &amp; Health Advances</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Hit a lab project glitch? Thinking about your thesis title like a storyteller can help you focus
-   Source: Nature News
-2. Stress impairs your brain’s ability to link memories — dampening insight
-   Source: Nature News
-3. OpenAI named a Leader in enterprise coding agents by Gartner
-   Source: OpenAI News
-4. AdventHealth advances whole-person care with OpenAI
-   Source: OpenAI News
-5. We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks
-   Source: DeepMind Blog
-6. Fast-tracking genetic leads to reverse cellular aging
-   Source: DeepMind Blog
-7. Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook
-   Source: Hugging Face Blog
-
-REFERENCES:
-
-1. Hit a lab project glitch? Thinking about your thesis title like a storyteller can help you focus
-   https://www.nature.com/articles/d41586-026-01392-0
-
-2. Stress impairs your brain’s ability to link memories — dampening insight
-   https://www.nature.com/articles/d41586-026-01644-z
-
-3. OpenAI named a Leader in enterprise coding agents by Gartner
-   https://openai.com/index/gartner-2026-agentic-coding-leader
-
-4. AdventHealth advances whole-person care with OpenAI
-   https://openai.com/index/adventhealth
-
-5. We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks
-   https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/
-
-6. Fast-tracking genetic leads to reverse cellular aging
-   https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/
-
-7. Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook
-   https://huggingface.co/blog/Dharma-AI/specialization-beats-scale
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-25/newspaper.pdf]]></description>
-      <pubDate>Mon, 25 May 2026 08:22:40 -0000</pubDate>
-      <guid isPermaLink="false">2026-05-25</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-25.mp3" length="6159089" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Hit a lab project glitch? Thinking about your thesis title like a storyteller can help you focus
-   Source: Nature News
-2. Stress impairs your brain’s ability to link memories — dampening insight
-   Source: Nature News
-3. OpenAI named a Leader in enterprise coding agents by Gartner
-   Source: OpenAI News
-4. AdventHealth advances whole-person care with OpenAI
-   Source: OpenAI News
-5. We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks
-   Source: DeepMind Blog
-6. Fast-tracking genetic leads to reverse cellular aging
-   Source: DeepMind Blog
-7. Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook
-   Source: Hugging Face Blog
-
-REFERENCES:
-
-1. Hit a lab project glitch? Thinking about your thesis title like a storyteller can help you focus
-   https://www.nature.com/articles/d41586-026-01392-0
-
-2. Stress impairs your brain’s ability to link memories — dampening insight
-   https://www.nature.com/articles/d41586-026-01644-z
-
-3. OpenAI named a Leader in enterprise coding agents by Gartner
-   https://openai.com/index/gartner-2026-agentic-coding-leader
-
-4. AdventHealth advances whole-person care with OpenAI
-   https://openai.com/index/adventhealth
-
-5. We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks
-   https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/
-
-6. Fast-tracking genetic leads to reverse cellular aging
-   https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/
-
-7. Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook
-   https://huggingface.co/blog/Dharma-AI/specialization-beats-scale
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-25/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:17</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-25/episode-art.png"/>
     </item>
   </channel>
 </rss>

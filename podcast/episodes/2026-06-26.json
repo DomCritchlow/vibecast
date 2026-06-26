@@ -1,0 +1,66 @@
+{
+  "guid": "2026-06-26",
+  "date": "2026-06-26T07:55:42.563912",
+  "title": "US Ocean Funding Crisis & AI Unlocks Brain Secrets",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 285.4736842105263,
+  "duration_formatted": "4:45",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-26.mp3",
+    "audio_size_bytes": 6686388,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-26/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-26/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-06-26.txt"
+  },
+  "stories": [
+    {
+      "title": "US funding uncertainties threaten to sink key global oceanography projects",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02028-z",
+      "summary": "Nature, Published online: 25 June 2026; doi:10.1038/d41586-026-02028-zThe United States has led the world in observing the oceans – but cuts and threats of cuts have researchers worried it is no longer a reliable partner."
+    },
+    {
+      "title": "How long-term dietary cholesterol can slow down its own clearance by liver cells",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01899-6",
+      "summary": "Nature, Published online: 25 June 2026; doi:10.1038/d41586-026-01899-6Cholesterol carried by low-density lipoprotein (LDL) drives heart disease and is cleared by liver cells expressing the receptor LDLR. A cell-signalling mechanism has been discovered through which high cholesterol promotes the enzyme-mediated degradation of LDLR. Blocking this enzyme restores LDLR levels in liver cells, suggesting a new strategy for treating high cholesterol."
+    },
+    {
+      "title": "How agents are transforming work",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/how-agents-are-transforming-work",
+      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles."
+    },
+    {
+      "title": "Understanding the brain with AI-driven explanations and experiments",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/",
+      "summary": "Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealing what specific brain regions respond to in language. The post Understanding the brain with AI-driven explanations and experiments appeared first on Microsoft Research."
+    },
+    {
+      "title": "Microsoft adds another year to Windows 10 extended update program",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/",
+      "summary": "About a quarter of PCs are still running Microsoft's previous operating system."
+    },
+    {
+      "title": "Android 17&#8217;s new foldable gaming mode could make flippy phones more fun",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller",
+      "summary": "Android 17 is getting a dedicated gaming mode for foldables that will put a virtual gamepad with touch controls on half of your screen to theoretically make it easier to play games. With foldable gaming mode, which is set to launch in the coming months, the virtual controller emulates physical button presses at a system [&#8230;]"
+    },
+    {
+      "title": "Instagram wants to monopolize your attention",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/956456/instagram-for-tv-youtube-microdramas-longform-video",
+      "summary": "This week, Instagram launched a series of new features for its smart TV app that are all designed to get people to spend more time on the platform through the biggest screens in their homes. In addition to vertical Reels, Instagram for TV - which is currently available for Amazon Fire TV, Google TV, and [&#8230;]"
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-06-26T07:56:56.547335",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
