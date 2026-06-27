@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jun 2026 07:56:56 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 06:54:37 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>NASA Lander Winners &amp; Europe’s Record Heatwave Impact</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. NASA Announces Winners for 2026 Human Lander Challenge
+   Source: NASA Science
+2. Carl A. Norlen
+   Source: NASA Science
+3. The surprising career parallels between footballers and researchers
+   Source: Nature News
+4. Europe’s record heatwave: does the continent have a new climate?
+   Source: Nature News
+5. After 80 Years, Mathematicians Give Famed ‘Erdős Method’ an Upgrade
+   Source: Quanta Magazine
+6. Previewing GPT-5.6 Sol: a next-generation model
+   Source: OpenAI News
+7. Helping build shared standards for advanced AI
+   Source: OpenAI News
+
+REFERENCES:
+
+1. NASA Announces Winners for 2026 Human Lander Challenge
+   https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/
+
+2. Carl A. Norlen
+   https://www.nasa.gov/people/carl-a-norlen/
+
+3. The surprising career parallels between footballers and researchers
+   https://www.nature.com/articles/d41586-026-01794-0
+
+4. Europe’s record heatwave: does the continent have a new climate?
+   https://www.nature.com/articles/d41586-026-02046-x
+
+5. After 80 Years, Mathematicians Give Famed ‘Erdős Method’ an Upgrade
+   https://www.quantamagazine.org/after-80-years-mathematicians-give-famed-erdos-method-an-upgrade-20260626/
+
+6. Previewing GPT-5.6 Sol: a next-generation model
+   https://openai.com/index/previewing-gpt-5-6-sol
+
+7. Helping build shared standards for advanced AI
+   https://openai.com/index/helping-build-shared-standards-for-advanced-ai
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-27/newspaper.pdf]]></description>
+      <pubDate>Sat, 27 Jun 2026 06:53:28 -0000</pubDate>
+      <guid isPermaLink="false">2026-06-27</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-27.mp3" length="7128379" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. NASA Announces Winners for 2026 Human Lander Challenge
+   Source: NASA Science
+2. Carl A. Norlen
+   Source: NASA Science
+3. The surprising career parallels between footballers and researchers
+   Source: Nature News
+4. Europe’s record heatwave: does the continent have a new climate?
+   Source: Nature News
+5. After 80 Years, Mathematicians Give Famed ‘Erdős Method’ an Upgrade
+   Source: Quanta Magazine
+6. Previewing GPT-5.6 Sol: a next-generation model
+   Source: OpenAI News
+7. Helping build shared standards for advanced AI
+   Source: OpenAI News
+
+REFERENCES:
+
+1. NASA Announces Winners for 2026 Human Lander Challenge
+   https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/
+
+2. Carl A. Norlen
+   https://www.nasa.gov/people/carl-a-norlen/
+
+3. The surprising career parallels between footballers and researchers
+   https://www.nature.com/articles/d41586-026-01794-0
+
+4. Europe’s record heatwave: does the continent have a new climate?
+   https://www.nature.com/articles/d41586-026-02046-x
+
+5. After 80 Years, Mathematicians Give Famed ‘Erdős Method’ an Upgrade
+   https://www.quantamagazine.org/after-80-years-mathematicians-give-famed-erdos-method-an-upgrade-20260626/
+
+6. Previewing GPT-5.6 Sol: a next-generation model
+   https://openai.com/index/previewing-gpt-5-6-sol
+
+7. Helping build shared standards for advanced AI
+   https://openai.com/index/helping-build-shared-standards-for-advanced-ai
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-27/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:53</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-27/episode-art.png"/>
+    </item>
     <item>
       <title>US Ocean Funding Crisis &amp; AI Unlocks Brain Secrets</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:35</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-27/episode-art.png"/>
-    </item>
-    <item>
-      <title>Quantum Computing Risks &amp; Frog Conversations Uncovered</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. US's big bet on quantum computing may not be entirely legal
-   Source: Ars Technica
-2. Use Tiny11 to Rescue a Computer Running Windows 10
-   Source: Wired
-3. How I eavesdrop on frog conversations
-   Source: Nature News
-4. How to breathe life back into brain theory
-   Source: Nature News
-5. OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership
-   Source: OpenAI News
-6. An OpenAI model has disproved a central conjecture in discrete geometry
-   Source: OpenAI News
-7. Introducing Gemini Omni
-   Source: DeepMind Blog
-
-REFERENCES:
-
-1. US's big bet on quantum computing may not be entirely legal
-   https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/
-
-2. Use Tiny11 to Rescue a Computer Running Windows 10
-   https://www.wired.com/story/use-tiny11-to-rescue-a-computer-running-windows-10/
-
-3. How I eavesdrop on frog conversations
-   https://www.nature.com/articles/d41586-026-01621-6
-
-4. How to breathe life back into brain theory
-   https://www.nature.com/articles/d41586-026-01619-0
-
-5. OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership
-   https://openai.com/index/grupo-folha-grupo-uol-partnership
-
-6. An OpenAI model has disproved a central conjecture in discrete geometry
-   https://openai.com/index/model-disproves-discrete-geometry-conjecture
-
-7. Introducing Gemini Omni
-   https://deepmind.google/blog/introducing-gemini-omni/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-26/newspaper.pdf]]></description>
-      <pubDate>Tue, 26 May 2026 07:50:53 -0000</pubDate>
-      <guid isPermaLink="false">2026-05-26</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-26.mp3" length="5945930" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. US's big bet on quantum computing may not be entirely legal
-   Source: Ars Technica
-2. Use Tiny11 to Rescue a Computer Running Windows 10
-   Source: Wired
-3. How I eavesdrop on frog conversations
-   Source: Nature News
-4. How to breathe life back into brain theory
-   Source: Nature News
-5. OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership
-   Source: OpenAI News
-6. An OpenAI model has disproved a central conjecture in discrete geometry
-   Source: OpenAI News
-7. Introducing Gemini Omni
-   Source: DeepMind Blog
-
-REFERENCES:
-
-1. US's big bet on quantum computing may not be entirely legal
-   https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/
-
-2. Use Tiny11 to Rescue a Computer Running Windows 10
-   https://www.wired.com/story/use-tiny11-to-rescue-a-computer-running-windows-10/
-
-3. How I eavesdrop on frog conversations
-   https://www.nature.com/articles/d41586-026-01621-6
-
-4. How to breathe life back into brain theory
-   https://www.nature.com/articles/d41586-026-01619-0
-
-5. OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership
-   https://openai.com/index/grupo-folha-grupo-uol-partnership
-
-6. An OpenAI model has disproved a central conjecture in discrete geometry
-   https://openai.com/index/model-disproves-discrete-geometry-conjecture
-
-7. Introducing Gemini Omni
-   https://deepmind.google/blog/introducing-gemini-omni/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-26/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:14</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-26/episode-art.png"/>
     </item>
   </channel>
 </rss>

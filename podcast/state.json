@@ -780,7 +780,14 @@
     "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/",
     "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/",
     "https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller",
-    "https://www.theverge.com/tech/956456/instagram-for-tv-youtube-microdramas-longform-video"
+    "https://www.theverge.com/tech/956456/instagram-for-tv-youtube-microdramas-longform-video",
+    "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/",
+    "https://www.nasa.gov/people/carl-a-norlen/",
+    "https://www.nature.com/articles/d41586-026-01794-0",
+    "https://www.nature.com/articles/d41586-026-02046-x",
+    "https://www.quantamagazine.org/after-80-years-mathematicians-give-famed-erdos-method-an-upgrade-20260626/",
+    "https://openai.com/index/previewing-gpt-5-6-sol",
+    "https://openai.com/index/helping-build-shared-standards-for-advanced-ai"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -1563,7 +1570,14 @@
     "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/": "2026-06-26T07:56:56.568106",
     "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/": "2026-06-26T07:56:56.568106",
     "https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller": "2026-06-26T07:56:56.568106",
-    "https://www.theverge.com/tech/956456/instagram-for-tv-youtube-microdramas-longform-video": "2026-06-26T07:56:56.568106"
+    "https://www.theverge.com/tech/956456/instagram-for-tv-youtube-microdramas-longform-video": "2026-06-26T07:56:56.568106",
+    "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/": "2026-06-27T06:54:37.224783",
+    "https://www.nasa.gov/people/carl-a-norlen/": "2026-06-27T06:54:37.224783",
+    "https://www.nature.com/articles/d41586-026-01794-0": "2026-06-27T06:54:37.224783",
+    "https://www.nature.com/articles/d41586-026-02046-x": "2026-06-27T06:54:37.224783",
+    "https://www.quantamagazine.org/after-80-years-mathematicians-give-famed-erdos-method-an-upgrade-20260626/": "2026-06-27T06:54:37.224783",
+    "https://openai.com/index/previewing-gpt-5-6-sol": "2026-06-27T06:54:37.224783",
+    "https://openai.com/index/helping-build-shared-standards-for-advanced-ai": "2026-06-27T06:54:37.224783"
   },
-  "last_run": "2026-06-26T07:56:56.568106"
+  "last_run": "2026-06-27T06:54:37.224783"
 }

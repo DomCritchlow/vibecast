@@ -1,0 +1,66 @@
+{
+  "guid": "2026-06-27",
+  "date": "2026-06-27T06:53:28.290043",
+  "title": "NASA Lander Winners & Europe’s Record Heatwave Impact",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 293.4736842105263,
+  "duration_formatted": "4:53",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-27.mp3",
+    "audio_size_bytes": 7128379,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-27/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-27/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-06-27.txt"
+  },
+  "stories": [
+    {
+      "title": "NASA Announces Winners for 2026 Human Lander Challenge",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/",
+      "summary": "NASA has announced the top student-developed solutions for environmental control and life support systems in future crewed lunar landers from participants in the 2026 Human Lander Challenge. The announcement marks the culmination of months of research by university teams working to advance technologies supporting the agency’s Artemis program that will return American astronauts to the […] The post NASA Announces Winners for 2026 Human Lander Challenge appeared first on NASA Science."
+    },
+    {
+      "title": "Carl A. Norlen",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/people/carl-a-norlen/",
+      "summary": "Affiliation: Bay Area Environmental Research Institute, NASA Ames Research Center Division: Earth Science Division (SG), NASA Earth Exchange (NEX) Email: carl.a.norlen@nasa.gov Professional Biography Carl Norlen is a Research Scientist with the NASA Earth Exchange (NEX) at the NASA Ames Research Center contributing to the Wildfire, Ecosystem Resilience, &#038; Risk Assessment Initiative (WERK) project in partnership […] The post Carl A. Norlen appeared first on NASA Science."
+    },
+    {
+      "title": "The surprising career parallels between footballers and researchers",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01794-0",
+      "summary": "Nature, Published online: 26 June 2026; doi:10.1038/d41586-026-01794-0Sarah Blackford reflects on how early-career scientists and professional football players share similar motivations, pressures and challenges."
+    },
+    {
+      "title": "Europe’s record heatwave: does the continent have a new climate?",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02046-x",
+      "summary": "Nature, Published online: 26 June 2026; doi:10.1038/d41586-026-02046-xNature asks researchers whether scorching summers are the new norm for London, Paris and Berlin."
+    },
+    {
+      "title": "After 80 Years, Mathematicians Give Famed ‘Erdős Method’ an Upgrade",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/after-80-years-mathematicians-give-famed-erdos-method-an-upgrade-20260626/",
+      "summary": "Decades ago, Paul Erdős used randomness to illuminate the vast and weird world of networks. Now mathematicians are making his technique even more powerful. The post After 80 Years, Mathematicians Give Famed ‘Erdős Method’ an Upgrade first appeared on Quanta Magazine"
+    },
+    {
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack."
+    },
+    {
+      "title": "Helping build shared standards for advanced AI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-06-27T06:54:37.205512",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
