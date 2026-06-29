@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Jun 2026 06:54:37 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 09:01:24 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Trump’s AI Dreams &amp; NASA’s New Space Refuel Tech</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Trump has big AI and quantum ambitions: this scientist’s job is to make them reality
+   Source: Nature News
+2. China’s Z.ai claims it can match Mythos on cybersecurity
+   Source: The Verge
+3. ProtonVPN is AI support only. 4 days no human, made me BOTNET. Begging for help
+   Source: Hacker News (AI filtered)
+4. BalNeO
+   Source: NASA Science
+5. NASA Tests New Refuel Device for Future In-Space Refueling Missions
+   Source: NASA Science
+6. SpaceX launches 15,000-pound SiriusXM satellite to orbit from Florida
+   Source: Space.com
+7. Could future astronauts use oysters as water filters? Here's why one company thinks so
+   Source: Space.com
+
+REFERENCES:
+
+1. Trump has big AI and quantum ambitions: this scientist’s job is to make them reality
+   https://www.nature.com/articles/d41586-026-02023-4
+
+2. China’s Z.ai claims it can match Mythos on cybersecurity
+   https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity
+
+3. ProtonVPN is AI support only. 4 days no human, made me BOTNET. Begging for help
+   https://news.ycombinator.com/item?id=48716410
+
+4. BalNeO
+   https://www.nasa.gov/langley/science/balneo/
+
+5. NASA Tests New Refuel Device for Future In-Space Refueling Missions
+   https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/
+
+6. SpaceX launches 15,000-pound SiriusXM satellite to orbit from Florida
+   https://www.space.com/space-exploration/launches-spacecraft/spacex-sirius-sxm-11-satellite-launch-falcon-9
+
+7. Could future astronauts use oysters as water filters? Here's why one company thinks so
+   https://www.space.com/technology/could-future-astronauts-use-oysters-as-water-filters-heres-why-one-company-thinks-so
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-29/newspaper.pdf]]></description>
+      <pubDate>Mon, 29 Jun 2026 09:00:13 -0000</pubDate>
+      <guid isPermaLink="false">2026-06-29</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-29.mp3" length="6097649" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Trump has big AI and quantum ambitions: this scientist’s job is to make them reality
+   Source: Nature News
+2. China’s Z.ai claims it can match Mythos on cybersecurity
+   Source: The Verge
+3. ProtonVPN is AI support only. 4 days no human, made me BOTNET. Begging for help
+   Source: Hacker News (AI filtered)
+4. BalNeO
+   Source: NASA Science
+5. NASA Tests New Refuel Device for Future In-Space Refueling Missions
+   Source: NASA Science
+6. SpaceX launches 15,000-pound SiriusXM satellite to orbit from Florida
+   Source: Space.com
+7. Could future astronauts use oysters as water filters? Here's why one company thinks so
+   Source: Space.com
+
+REFERENCES:
+
+1. Trump has big AI and quantum ambitions: this scientist’s job is to make them reality
+   https://www.nature.com/articles/d41586-026-02023-4
+
+2. China’s Z.ai claims it can match Mythos on cybersecurity
+   https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity
+
+3. ProtonVPN is AI support only. 4 days no human, made me BOTNET. Begging for help
+   https://news.ycombinator.com/item?id=48716410
+
+4. BalNeO
+   https://www.nasa.gov/langley/science/balneo/
+
+5. NASA Tests New Refuel Device for Future In-Space Refueling Missions
+   https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/
+
+6. SpaceX launches 15,000-pound SiriusXM satellite to orbit from Florida
+   https://www.space.com/space-exploration/launches-spacecraft/spacex-sirius-sxm-11-satellite-launch-falcon-9
+
+7. Could future astronauts use oysters as water filters? Here's why one company thinks so
+   https://www.space.com/technology/could-future-astronauts-use-oysters-as-water-filters-heres-why-one-company-thinks-so
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-29/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:10</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-29/episode-art.png"/>
+    </item>
     <item>
       <title>NASA Lander Winners &amp; Europe’s Record Heatwave Impact</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>5:19</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-28/episode-art.png"/>
-    </item>
-    <item>
-      <title>Robots Running Labs &amp; Oppo’s Bubble Selfie Screen</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Robots run this laboratory in Japan — and are changing how scientists work
-   Source: Nature News
-2. It’s time to address the looming crisis in entry-level work.
-   Source: MIT Technology Review
-3. 3D-printable humanoid legs let robotics experiments run wild
-   Source: Ars Technica
-4. Did the Pope use AI to write about the dangers of AI?
-   Source: The Verge
-5. Oppo’s Bubble is a thin round screen for taking rear camera selfies
-   Source: The Verge
-6. The agentic divide: Why “good enough” AI isn’t enough to survive the new economy
-   Source: Rest of World
-7. Show HN: YouTube MCP – let your AI agent search YouTube for research
-   Source: Hacker News (AI filtered)
-
-REFERENCES:
-
-1. Robots run this laboratory in Japan — and are changing how scientists work
-   https://www.nature.com/articles/d41586-026-01625-2
-
-2. It’s time to address the looming crisis in entry-level work.
-   https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/
-
-3. 3D-printable humanoid legs let robotics experiments run wild
-   https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/
-
-4. Did the Pope use AI to write about the dangers of AI?
-   https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram
-
-5. Oppo’s Bubble is a thin round screen for taking rear camera selfies
-   https://www.theverge.com/tech/937067/oppo-bubble-wireless-screen-remote-selfie-magnetic
-
-6. The agentic divide: Why “good enough” AI isn’t enough to survive the new economy
-   https://restofworld.org/2026/ai-agent-inequality/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
-
-7. Show HN: YouTube MCP – let your AI agent search YouTube for research
-   https://github.com/ZeroPointRepo/youtube-mcp
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-27/newspaper.pdf]]></description>
-      <pubDate>Wed, 27 May 2026 08:05:48 -0000</pubDate>
-      <guid isPermaLink="false">2026-05-27</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-27.mp3" length="6661937" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Robots run this laboratory in Japan — and are changing how scientists work
-   Source: Nature News
-2. It’s time to address the looming crisis in entry-level work.
-   Source: MIT Technology Review
-3. 3D-printable humanoid legs let robotics experiments run wild
-   Source: Ars Technica
-4. Did the Pope use AI to write about the dangers of AI?
-   Source: The Verge
-5. Oppo’s Bubble is a thin round screen for taking rear camera selfies
-   Source: The Verge
-6. The agentic divide: Why “good enough” AI isn’t enough to survive the new economy
-   Source: Rest of World
-7. Show HN: YouTube MCP – let your AI agent search YouTube for research
-   Source: Hacker News (AI filtered)
-
-REFERENCES:
-
-1. Robots run this laboratory in Japan — and are changing how scientists work
-   https://www.nature.com/articles/d41586-026-01625-2
-
-2. It’s time to address the looming crisis in entry-level work.
-   https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/
-
-3. 3D-printable humanoid legs let robotics experiments run wild
-   https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/
-
-4. Did the Pope use AI to write about the dangers of AI?
-   https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram
-
-5. Oppo’s Bubble is a thin round screen for taking rear camera selfies
-   https://www.theverge.com/tech/937067/oppo-bubble-wireless-screen-remote-selfie-magnetic
-
-6. The agentic divide: Why “good enough” AI isn’t enough to survive the new economy
-   https://restofworld.org/2026/ai-agent-inequality/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
-
-7. Show HN: YouTube MCP – let your AI agent search YouTube for research
-   https://github.com/ZeroPointRepo/youtube-mcp
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-27/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:35</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-27/episode-art.png"/>
     </item>
   </channel>
 </rss>

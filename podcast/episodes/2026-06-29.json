@@ -1,0 +1,66 @@
+{
+  "guid": "2026-06-29",
+  "date": "2026-06-29T09:00:13.399158",
+  "title": "Trump’s AI Dreams & NASA’s New Space Refuel Tech",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 250.9473684210526,
+  "duration_formatted": "4:10",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-29.mp3",
+    "audio_size_bytes": 6097649,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-29/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-29/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-06-29.txt"
+  },
+  "stories": [
+    {
+      "title": "Trump has big AI and quantum ambitions: this scientist’s job is to make them reality",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02023-4",
+      "summary": "Nature, Published online: 29 June 2026; doi:10.1038/d41586-026-02023-4Darío Gil knows that researchers are sceptical of the massive US artificial-intelligence push — he’s asking them to keep an open mind."
+    },
+    {
+      "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+      "summary": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has dramatically reduced the gap in the capabilities between its models and those of [&#8230;]"
+    },
+    {
+      "title": "ProtonVPN is AI support only. 4 days no human, made me BOTNET. Begging for help",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://news.ycombinator.com/item?id=48716410",
+      "summary": "I'm sitting here crazy and stressed while typing this. My mother is sick and needs money for medical care and I can't access my bank accounts because ProtonVPN's automated system decided I'm a \"bot\" and is literally torturing my connection - and their support is fully AI like crazy even in emergency. I don’t want to get technical but if Proton VPN thinks you are using P2P at high connections, Proton has this \"DDoS guard\" that \"detects\" false high speed P2P and throttles you, even if you use 1 tiny p2p at 1kb/s, if it sees many connections. I stopped using their P2P at even low speed, since Proton lied about P2P use and will disconnect you if it thinks ddosing it via p2p, and throttled me prior, and even if it’s incredibly low false positives are common on their system. Used accidentally p2p for a tiny connection and low speed, it triggered the system. Okay, fine, I stopped the P2P completely, never using it and will not use it now EVER since Proton thinks a 1 connection thread and 1..."
+    },
+    {
+      "title": "BalNeO",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/langley/science/balneo/",
+      "summary": "BalNeO : Balloon Network for stratospheric aerosol Observations Figure 1. Stratospheric Aerosol Optical Depth (SAOD) from the Global Satellite-based Stratospheric Aerosol Climatology (GloSSAC) The Stratospheric aerosol layer is a key component of the climate system with global implications on surface temperature and the hydrological cycle. Being highly variable, regular observations are needed to understand its different sources. Since […] The post BalNeO appeared first on NASA Science."
+    },
+    {
+      "title": "NASA Tests New Refuel Device for Future In-Space Refueling Missions",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/",
+      "summary": "For NASA’s next generation of deep space exploration missions, spacecraft may need to refuel in Earth orbit before pushing farther into the solar system. Similar to how a gas pump needs a nozzle to fit your fuel tank, future spacecraft could require a special device in order to fill up prior to departure, known as […] The post NASA Tests New Refuel Device for Future In-Space Refueling Missions appeared first on NASA Science."
+    },
+    {
+      "title": "SpaceX launches 15,000-pound SiriusXM satellite to orbit from Florida",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-sirius-sxm-11-satellite-launch-falcon-9",
+      "summary": "SpaceX launched a big SiriusXM radio satellite to orbit from Florida's Space Coast tonight (June 28)."
+    },
+    {
+      "title": "Could future astronauts use oysters as water filters? Here's why one company thinks so",
+      "source": "Space.com",
+      "url": "https://www.space.com/technology/could-future-astronauts-use-oysters-as-water-filters-heres-why-one-company-thinks-so",
+      "summary": "A prototype oyster habitat used for water filtration is aiming for an eventual space launch after an early-stage prototype was demonstrated to the public earlier this year."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-06-29T09:01:24.696333",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
