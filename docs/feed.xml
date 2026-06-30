@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jun 2026 09:01:24 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 07:56:29 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>Memora Memory Tech &amp; Menopause Insights &amp; Email Agent</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity
+   Source: Microsoft Research Blog
+2. What’s the human cost of US research turmoil? A new film finds out
+   Source: Nature News
+3. Daily briefing: Ovaries start a second job after menopause
+   Source: Nature News
+4. Yeasound RIC800 Hearing Aids Review: Good Audio, Glitchy App
+   Source: Wired
+5. Show HN: I built an agent that uses email as a file system
+   Source: Hacker News (AI filtered)
+6. Scientific American’s Inaugural ‘Young American Scientists’ Recognition
+   Source: NASA Science
+7. More Research and Technology News
+   Source: NASA Science
+
+REFERENCES:
+
+1. Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity
+   https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/
+
+2. What’s the human cost of US research turmoil? A new film finds out
+   https://www.nature.com/articles/d41586-026-01979-7
+
+3. Daily briefing: Ovaries start a second job after menopause
+   https://www.nature.com/articles/d41586-026-02065-8
+
+4. Yeasound RIC800 Hearing Aids Review: Good Audio, Glitchy App
+   https://www.wired.com/review/yeasound-ric800-hearing-aids/
+
+5. Show HN: I built an agent that uses email as a file system
+   https://www.supafax.com/
+
+6. Scientific American’s Inaugural ‘Young American Scientists’ Recognition
+   https://science.nasa.gov/blogs/honors/2026/06/29/scientific-americans-inaugural-young-american-scientists-recognition/
+
+7. More Research and Technology News
+   https://www.nasa.gov/more-rtmd-news/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-30/newspaper.pdf]]></description>
+      <pubDate>Tue, 30 Jun 2026 07:55:19 -0000</pubDate>
+      <guid isPermaLink="false">2026-06-30</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-30.mp3" length="6823060" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity
+   Source: Microsoft Research Blog
+2. What’s the human cost of US research turmoil? A new film finds out
+   Source: Nature News
+3. Daily briefing: Ovaries start a second job after menopause
+   Source: Nature News
+4. Yeasound RIC800 Hearing Aids Review: Good Audio, Glitchy App
+   Source: Wired
+5. Show HN: I built an agent that uses email as a file system
+   Source: Hacker News (AI filtered)
+6. Scientific American’s Inaugural ‘Young American Scientists’ Recognition
+   Source: NASA Science
+7. More Research and Technology News
+   Source: NASA Science
+
+REFERENCES:
+
+1. Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity
+   https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/
+
+2. What’s the human cost of US research turmoil? A new film finds out
+   https://www.nature.com/articles/d41586-026-01979-7
+
+3. Daily briefing: Ovaries start a second job after menopause
+   https://www.nature.com/articles/d41586-026-02065-8
+
+4. Yeasound RIC800 Hearing Aids Review: Good Audio, Glitchy App
+   https://www.wired.com/review/yeasound-ric800-hearing-aids/
+
+5. Show HN: I built an agent that uses email as a file system
+   https://www.supafax.com/
+
+6. Scientific American’s Inaugural ‘Young American Scientists’ Recognition
+   https://science.nasa.gov/blogs/honors/2026/06/29/scientific-americans-inaugural-young-american-scientists-recognition/
+
+7. More Research and Technology News
+   https://www.nasa.gov/more-rtmd-news/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-30/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:44</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-30/episode-art.png"/>
+    </item>
     <item>
       <title>Trump’s AI Dreams &amp; NASA’s New Space Refuel Tech</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>5:03</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-29/episode-art.png"/>
-    </item>
-    <item>
-      <title>AI Intelligence Boost &amp; NASA Firefighter Sensor Breakthrough</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Extending Human Intelligence Through AI
-   Source: Microsoft Research Blog
-2. Darkness and body size shaped end-Cretaceous marine extinction patterns
-   Source: Nature News
-3. ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM
-   Source: Hugging Face Blog
-4. NASA Develops Sensor to Improve Firefighter Safety
-   Source: NASA Science
-5. Thermal Sensors on Fire Dozers with NASA FireSense
-   Source: NASA Science
-6. When Quiet Undersea Volcanoes Turn Disruptive
-   Source: Quanta Magazine
-7. Author Correction: Modelling late gastrulation in stem cell-derived monkey embryo models
-   Source: Nature News
-
-REFERENCES:
-
-1. Extending Human Intelligence Through AI
-   https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/
-
-2. Darkness and body size shaped end-Cretaceous marine extinction patterns
-   https://www.nature.com/articles/s41586-026-10541-4
-
-3. ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM
-   https://huggingface.co/blog/ibm-research/itbench-aa
-
-4. NASA Develops Sensor to Improve Firefighter Safety
-   https://www.nasa.gov/wildland-fire-management/nasa-develops-sensor-to-improve-firefighter-safety/
-
-5. Thermal Sensors on Fire Dozers with NASA FireSense
-   https://www.nasa.gov/gallery/thermal-sensors-on-fire-dozers-with-nasa-firesense/
-
-6. When Quiet Undersea Volcanoes Turn Disruptive
-   https://www.quantamagazine.org/when-quiet-undersea-volcanoes-turn-disruptive-20260526/
-
-7. Author Correction: Modelling late gastrulation in stem cell-derived monkey embryo models
-   https://www.nature.com/articles/s41586-026-10700-7
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-28/newspaper.pdf]]></description>
-      <pubDate>Thu, 28 May 2026 08:01:23 -0000</pubDate>
-      <guid isPermaLink="false">2026-05-28</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-28.mp3" length="7700774" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Extending Human Intelligence Through AI
-   Source: Microsoft Research Blog
-2. Darkness and body size shaped end-Cretaceous marine extinction patterns
-   Source: Nature News
-3. ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM
-   Source: Hugging Face Blog
-4. NASA Develops Sensor to Improve Firefighter Safety
-   Source: NASA Science
-5. Thermal Sensors on Fire Dozers with NASA FireSense
-   Source: NASA Science
-6. When Quiet Undersea Volcanoes Turn Disruptive
-   Source: Quanta Magazine
-7. Author Correction: Modelling late gastrulation in stem cell-derived monkey embryo models
-   Source: Nature News
-
-REFERENCES:
-
-1. Extending Human Intelligence Through AI
-   https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/
-
-2. Darkness and body size shaped end-Cretaceous marine extinction patterns
-   https://www.nature.com/articles/s41586-026-10541-4
-
-3. ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM
-   https://huggingface.co/blog/ibm-research/itbench-aa
-
-4. NASA Develops Sensor to Improve Firefighter Safety
-   https://www.nasa.gov/wildland-fire-management/nasa-develops-sensor-to-improve-firefighter-safety/
-
-5. Thermal Sensors on Fire Dozers with NASA FireSense
-   https://www.nasa.gov/gallery/thermal-sensors-on-fire-dozers-with-nasa-firesense/
-
-6. When Quiet Undersea Volcanoes Turn Disruptive
-   https://www.quantamagazine.org/when-quiet-undersea-volcanoes-turn-disruptive-20260526/
-
-7. Author Correction: Modelling late gastrulation in stem cell-derived monkey embryo models
-   https://www.nature.com/articles/s41586-026-10700-7
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-28/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>5:19</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-28/episode-art.png"/>
     </item>
   </channel>
 </rss>

@@ -794,7 +794,14 @@
     "https://www.nasa.gov/langley/science/balneo/",
     "https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/",
     "https://www.space.com/space-exploration/launches-spacecraft/spacex-sirius-sxm-11-satellite-launch-falcon-9",
-    "https://www.space.com/technology/could-future-astronauts-use-oysters-as-water-filters-heres-why-one-company-thinks-so"
+    "https://www.space.com/technology/could-future-astronauts-use-oysters-as-water-filters-heres-why-one-company-thinks-so",
+    "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/",
+    "https://www.nature.com/articles/d41586-026-01979-7",
+    "https://www.nature.com/articles/d41586-026-02065-8",
+    "https://www.wired.com/review/yeasound-ric800-hearing-aids/",
+    "https://www.supafax.com/",
+    "https://science.nasa.gov/blogs/honors/2026/06/29/scientific-americans-inaugural-young-american-scientists-recognition/",
+    "https://www.nasa.gov/more-rtmd-news/"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -1591,7 +1598,14 @@
     "https://www.nasa.gov/langley/science/balneo/": "2026-06-29T09:01:24.717014",
     "https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/": "2026-06-29T09:01:24.717014",
     "https://www.space.com/space-exploration/launches-spacecraft/spacex-sirius-sxm-11-satellite-launch-falcon-9": "2026-06-29T09:01:24.717014",
-    "https://www.space.com/technology/could-future-astronauts-use-oysters-as-water-filters-heres-why-one-company-thinks-so": "2026-06-29T09:01:24.717014"
+    "https://www.space.com/technology/could-future-astronauts-use-oysters-as-water-filters-heres-why-one-company-thinks-so": "2026-06-29T09:01:24.717014",
+    "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/": "2026-06-30T07:56:29.926660",
+    "https://www.nature.com/articles/d41586-026-01979-7": "2026-06-30T07:56:29.926660",
+    "https://www.nature.com/articles/d41586-026-02065-8": "2026-06-30T07:56:29.926660",
+    "https://www.wired.com/review/yeasound-ric800-hearing-aids/": "2026-06-30T07:56:29.926660",
+    "https://www.supafax.com/": "2026-06-30T07:56:29.926660",
+    "https://science.nasa.gov/blogs/honors/2026/06/29/scientific-americans-inaugural-young-american-scientists-recognition/": "2026-06-30T07:56:29.926660",
+    "https://www.nasa.gov/more-rtmd-news/": "2026-06-30T07:56:29.926660"
   },
-  "last_run": "2026-06-29T09:01:24.717014"
+  "last_run": "2026-06-30T07:56:29.926660"
 }

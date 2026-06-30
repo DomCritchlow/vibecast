@@ -1,0 +1,66 @@
+{
+  "guid": "2026-06-30",
+  "date": "2026-06-30T07:55:19.119398",
+  "title": "Memora Memory Tech & Menopause Insights & Email Agent",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 284.6315789473684,
+  "duration_formatted": "4:44",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-30.mp3",
+    "audio_size_bytes": 6823060,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-30/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-30/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-06-30.txt"
+  },
+  "stories": [
+    {
+      "title": "Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/",
+      "summary": "AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable memory system separating what’s stored from how it's retrieved. The post Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity appeared first on Microsoft Research."
+    },
+    {
+      "title": "What’s the human cost of US research turmoil? A new film finds out",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01979-7",
+      "summary": "Nature, Published online: 29 June 2026; doi:10.1038/d41586-026-01979-7Science is a complex, interconnected, deeply human enterprise involving hard grind — and funding cuts and grant delays have come as a sucker punch to many."
+    },
+    {
+      "title": "Daily briefing: Ovaries start a second job after menopause",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02065-8",
+      "summary": "Nature, Published online: 26 June 2026; doi:10.1038/d41586-026-02065-8The organs might begin a role in the immune system after egg production stops. Plus, precise gene-editing of human embryos and a game to terraform Mars."
+    },
+    {
+      "title": "Yeasound RIC800 Hearing Aids Review: Good Audio, Glitchy App",
+      "source": "Wired",
+      "url": "https://www.wired.com/review/yeasound-ric800-hearing-aids/",
+      "summary": "With AI-powered noise reduction, an automatic speech-focusing system, and a simple, effective hearing test, it’s a shame these aids don't come with a better app."
+    },
+    {
+      "title": "Show HN: I built an agent that uses email as a file system",
+      "source": "Hacker News (AI filtered)",
+      "url": "https://www.supafax.com/",
+      "summary": "Hey HN,We're building Supafax an agent that uses email as its memory and config store.Here's how it works:- You email yourself to talk to the agent - The agent uses that slice of your outbox as it's inbox and short term memory - It can insert emails into your inbox to store routines, reminders, and rules for itselfEmail is such a good primitive because it's essentially an append-only immutable record of all the valuable context about you and your relationships, and agents thrive on this highly structured surface. The tricky bit is users are very reluctant to share that data with companies. So instead of storing your email in a sql or vdb we leverage your inbox to be that storage space and Supafax stores nothing.Think we're the only AI email assistant not storing your emails :) Comments URL: https://news.ycombinator.com/item?id=48729688 Points: 1 # Comments: 0"
+    },
+    {
+      "title": "Scientific American’s Inaugural ‘Young American Scientists’ Recognition",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/blogs/honors/2026/06/29/scientific-americans-inaugural-young-american-scientists-recognition/",
+      "summary": "Scientific American’s “Young American Scientists” is a new annual recognition program honoring early- and mid-career researchers whose work is advancing discovery, expanding knowledge, and helping shape the future of science. The post Scientific American’s Inaugural &#8216;Young American Scientists&#8217; Recognition appeared first on NASA Science."
+    },
+    {
+      "title": "More Research and Technology News",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/more-rtmd-news/",
+      "summary": "More Research and Technology Mission Directorate (RTMD) News Use this page to stay up-to-date with the latest news about NASA&#8217;s Research and Technology Mission Directorate (RTMD). ARMD Research Solicitations (Updated June 23) 9 min read THIS PAGE WAS UPDATED ON JUNE 23, 2026 This Aeronautics Research Mission Directorate (ARMD) solicitations page compiles the opportunities to… [&#8230;] The post More Research and Technology News appeared first on NASA Science."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-06-30T07:56:29.906027",
+    "llm_model": "gpt-4.1-mini",
+    "tts_provider": "openai",
+    "tts_voice": "fable"
+  }
+}
