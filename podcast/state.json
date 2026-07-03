@@ -808,7 +808,14 @@
     "https://openai.com/index/introducing-genebench-pro",
     "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
     "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
-    "https://arstechnica.com/science/2026/06/june-research-roundup-6-cool-science-stories-we-almost-missed/"
+    "https://arstechnica.com/science/2026/06/june-research-roundup-6-cool-science-stories-we-almost-missed/",
+    "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-60-final-2025-due-date-extended-for-c-2-solar-system-science/",
+    "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-61-a-4-rapid-response-and-novel-research-in-earth-science-final-close-date-deferred/",
+    "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+    "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/",
+    "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-46-b1100-vsfb-ocisly",
+    "https://www.space.com/astronomy/exoplanets/astronomers-discover-a-potentially-habitable-planet-just-25-light-years-away-this-one-is-exciting",
+    "https://www.nature.com/articles/d41586-026-01989-5"
   ],
   "url_timestamps": {
     "https://www.nasa.gov/directorates/armd/aosp/": "2026-03-05T05:15:07.093876",
@@ -1619,7 +1626,14 @@
     "https://openai.com/index/introducing-genebench-pro": "2026-07-01T08:17:00.741962",
     "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/": "2026-07-01T08:17:00.741962",
     "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/": "2026-07-01T08:17:00.741962",
-    "https://arstechnica.com/science/2026/06/june-research-roundup-6-cool-science-stories-we-almost-missed/": "2026-07-01T08:17:00.741962"
+    "https://arstechnica.com/science/2026/06/june-research-roundup-6-cool-science-stories-we-almost-missed/": "2026-07-01T08:17:00.741962",
+    "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-60-final-2025-due-date-extended-for-c-2-solar-system-science/": "2026-07-03T07:23:04.106686",
+    "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-61-a-4-rapid-response-and-novel-research-in-earth-science-final-close-date-deferred/": "2026-07-03T07:23:04.106686",
+    "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/": "2026-07-03T07:23:04.106686",
+    "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/": "2026-07-03T07:23:04.106686",
+    "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-46-b1100-vsfb-ocisly": "2026-07-03T07:23:04.106686",
+    "https://www.space.com/astronomy/exoplanets/astronomers-discover-a-potentially-habitable-planet-just-25-light-years-away-this-one-is-exciting": "2026-07-03T07:23:04.106686",
+    "https://www.nature.com/articles/d41586-026-01989-5": "2026-07-03T07:23:04.106686"
   },
-  "last_run": "2026-07-01T08:17:00.741962"
+  "last_run": "2026-07-03T07:23:04.106686"
 }
