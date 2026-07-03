@@ -1,65 +1,66 @@
 {
   "guid": "2026-07-03",
-  "date": "2026-07-03T07:21:57.462147",
-  "title": "Solar Science Delays & SpaceX Starlink Launch Success",
+  "date": "2026-07-03T22:16:08.590328",
+  "title": "DeepMind x A24 & Anthropic's Claude Science Launch",
   "tagline": "Tech, science, and what's actually interesting",
-  "duration_seconds": 267.36842105263156,
-  "duration_formatted": "4:27",
+  "duration_seconds": 363.7894736842105,
+  "duration_formatted": "6:03",
   "media": {
     "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-03.mp3",
-    "audio_size_bytes": 6495171,
+    "audio_size_bytes": 7565356,
     "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-03/episode-art.png",
     "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-03/newspaper.pdf",
     "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-07-03.txt"
   },
   "stories": [
     {
-      "title": "Amendment 60: Final 2025 Due Date Extended for C.2 Solar System Science",
-      "source": "NASA Science",
-      "url": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-60-final-2025-due-date-extended-for-c-2-solar-system-science/",
-      "summary": "C.2 Solar System Science solicits proposals for research, data analysis, data preservation, and tools that support investigations to help ascertain the content, origin, and evolution of the Solar System and the search for life’s origin, evolution, distribution, and future in the universe. The Planetary Science Division is committed to supporting the most meritorious research, data [&#8230;] The post Amendment 60: Final 2025 Due Date Extended for C.2 Solar System Science appeared first on NASA Science."
+      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+      "summary": ""
     },
     {
-      "title": "Amendment 61: A.4 Rapid Response and Novel Research in Earth Science Final Close Date Deferred",
-      "source": "NASA Science",
-      "url": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-61-a-4-rapid-response-and-novel-research-in-earth-science-final-close-date-deferred/",
-      "summary": "A.4 Rapid Response and Novel Research in Earth Science (RRNES) solicits proposals that advance the goals and objectives of NASA&#8217;s Earth Science Division by conducting unique research to investigate 1) unforeseen or unpredictable Earth system events and opportunities that require a rapid response, and 2) novel ideas of potential high merit and relevance for ESD [&#8230;] The post Amendment 61: A.4 Rapid Response and Novel Research in Earth Science Final Close Date Deferred appeared first on NASA Science."
-    },
-    {
-      "title": "Teaching AI to run with the turbines",
+      "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
       "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
-      "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is becoming a core operating layer. With its sprawling industrial systems and constant stream of operational&#8230;"
+      "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers yesterday, Anthropic announced Claude Science, a major new product intended to support scientific research…"
     },
     {
-      "title": "Why California’s carbon manure math doesn’t add up",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/",
-      "summary": "Something stinks in California’s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just pollutes the air. It’s become wildly popular because&#8230;"
+      "title": "Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update",
+      "summary": "The Fire HD 8 that launched in 2024 was the last new addition to Amazon's budget-minded tablet lineup, but the company has quietly updated the Fire HD 10 that debuted the year before. In 2023 it was offered with multiple storage configurations that each came with 3GB of RAM, but the 32GB version now ships […]"
     },
     {
-      "title": "SpaceX Falcon 9 rocket launches 24 Starlink satellites from California (video)",
-      "source": "Space.com",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-46-b1100-vsfb-ocisly",
-      "summary": "A SpaceX Falcon 9 rocket carrying 24 Starlink satellites launched from Vandenberg Space Force Base in California on Wednesday, July 1, 2026."
-    },
-    {
-      "title": "Astronomers discover a potentially habitable planet just 25 light-years away. 'This one is exciting'",
-      "source": "Space.com",
-      "url": "https://www.space.com/astronomy/exoplanets/astronomers-discover-a-potentially-habitable-planet-just-25-light-years-away-this-one-is-exciting",
-      "summary": "Astronomers discovered a planet 25 light-years away that orbits within the habitable zone of its star that could potentially support liquid water and possibly life."
-    },
-    {
-      "title": "China boosts prestigious grants for young scientists — will it ease competition?",
+      "title": "Electrodeposited self-assembled molecules for perovskite photovoltaics",
       "source": "Nature News",
-      "url": "https://www.nature.com/articles/d41586-026-01989-5",
-      "summary": "Nature, Published online: 03 July 2026; doi:10.1038/d41586-026-01989-5The National Natural Science Foundation of China says it will fund an extra 12,000 projects from this year."
+      "url": "https://www.nature.com/articles/s41586-026-10844-6",
+      "summary": "Nature, Published online: 02 July 2026; doi:10.1038/s41586-026-10844-6Electrodeposited self-assembled molecules for perovskite photovoltaics"
+    },
+    {
+      "title": "Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10854-4",
+      "summary": "Nature, Published online: 02 July 2026; doi:10.1038/s41586-026-10854-4Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization"
+    },
+    {
+      "title": "How ChatGPT adoption has expanded",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages."
+    },
+    {
+      "title": "Inside Genebench-Pro",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "summary": ""
     }
   ],
   "reading_list": [],
   "metadata": {
-    "created_at": "2026-07-03T07:23:04.090756",
-    "llm_model": "gpt-4.1-mini",
+    "created_at": "2026-07-03T22:16:08.590328",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
     "tts_provider": "openai",
     "tts_voice": "fable"
   }

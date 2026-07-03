@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jul 2026 18:02:30 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 22:18:47 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -28,97 +28,97 @@
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
     <item>
-      <title>Solar Science Delays &amp; SpaceX Starlink Launch Success</title>
+      <title>DeepMind x A24 &amp; Anthropic&#x27;s Claude Science Launch</title>
       <description><![CDATA[IN THIS EPISODE:
 
-1. Amendment 60: Final 2025 Due Date Extended for C.2 Solar System Science
-   Source: NASA Science
-2. Amendment 61: A.4 Rapid Response and Novel Research in Earth Science Final Close Date Deferred
-   Source: NASA Science
-3. Teaching AI to run with the turbines
+1. Google DeepMind and A24 announce first-of-its-kind research partnership
+   Source: DeepMind Blog
+2. The Download: Anthropic launches Claude Science, and California’s carbon manure math
    Source: MIT Technology Review
-4. Why California’s carbon manure math doesn’t add up
-   Source: MIT Technology Review
-5. SpaceX Falcon 9 rocket launches 24 Starlink satellites from California (video)
-   Source: Space.com
-6. Astronomers discover a potentially habitable planet just 25 light-years away. 'This one is exciting'
-   Source: Space.com
-7. China boosts prestigious grants for young scientists — will it ease competition?
+3. Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM
+   Source: The Verge
+4. Electrodeposited self-assembled molecules for perovskite photovoltaics
    Source: Nature News
+5. Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization
+   Source: Nature News
+6. How ChatGPT adoption has expanded
+   Source: OpenAI News
+7. Inside Genebench-Pro
+   Source: OpenAI News
 
 REFERENCES:
 
-1. Amendment 60: Final 2025 Due Date Extended for C.2 Solar System Science
-   https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-60-final-2025-due-date-extended-for-c-2-solar-system-science/
+1. Google DeepMind and A24 announce first-of-its-kind research partnership
+   https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/
 
-2. Amendment 61: A.4 Rapid Response and Novel Research in Earth Science Final Close Date Deferred
-   https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-61-a-4-rapid-response-and-novel-research-in-earth-science-final-close-date-deferred/
+2. The Download: Anthropic launches Claude Science, and California’s carbon manure math
+   https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/
 
-3. Teaching AI to run with the turbines
-   https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/
+3. Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM
+   https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update
 
-4. Why California’s carbon manure math doesn’t add up
-   https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/
+4. Electrodeposited self-assembled molecules for perovskite photovoltaics
+   https://www.nature.com/articles/s41586-026-10844-6
 
-5. SpaceX Falcon 9 rocket launches 24 Starlink satellites from California (video)
-   https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-46-b1100-vsfb-ocisly
+5. Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization
+   https://www.nature.com/articles/s41586-026-10854-4
 
-6. Astronomers discover a potentially habitable planet just 25 light-years away. 'This one is exciting'
-   https://www.space.com/astronomy/exoplanets/astronomers-discover-a-potentially-habitable-planet-just-25-light-years-away-this-one-is-exciting
+6. How ChatGPT adoption has expanded
+   https://openai.com/index/how-chatgpt-adoption-has-expanded
 
-7. China boosts prestigious grants for young scientists — will it ease competition?
-   https://www.nature.com/articles/d41586-026-01989-5
+7. Inside Genebench-Pro
+   https://openai.com/index/genebench-pro/case-studies
 
 ---
 📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-03/newspaper.pdf]]></description>
-      <pubDate>Fri, 03 Jul 2026 07:21:57 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 22:16:08 -0000</pubDate>
       <guid isPermaLink="false">2026-07-03</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-03.mp3" length="6495171" type="audio/mpeg"/>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-03.mp3" length="7565356" type="audio/mpeg"/>
       <itunes:summary><![CDATA[IN THIS EPISODE:
 
-1. Amendment 60: Final 2025 Due Date Extended for C.2 Solar System Science
-   Source: NASA Science
-2. Amendment 61: A.4 Rapid Response and Novel Research in Earth Science Final Close Date Deferred
-   Source: NASA Science
-3. Teaching AI to run with the turbines
+1. Google DeepMind and A24 announce first-of-its-kind research partnership
+   Source: DeepMind Blog
+2. The Download: Anthropic launches Claude Science, and California’s carbon manure math
    Source: MIT Technology Review
-4. Why California’s carbon manure math doesn’t add up
-   Source: MIT Technology Review
-5. SpaceX Falcon 9 rocket launches 24 Starlink satellites from California (video)
-   Source: Space.com
-6. Astronomers discover a potentially habitable planet just 25 light-years away. 'This one is exciting'
-   Source: Space.com
-7. China boosts prestigious grants for young scientists — will it ease competition?
+3. Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM
+   Source: The Verge
+4. Electrodeposited self-assembled molecules for perovskite photovoltaics
    Source: Nature News
+5. Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization
+   Source: Nature News
+6. How ChatGPT adoption has expanded
+   Source: OpenAI News
+7. Inside Genebench-Pro
+   Source: OpenAI News
 
 REFERENCES:
 
-1. Amendment 60: Final 2025 Due Date Extended for C.2 Solar System Science
-   https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-60-final-2025-due-date-extended-for-c-2-solar-system-science/
+1. Google DeepMind and A24 announce first-of-its-kind research partnership
+   https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/
 
-2. Amendment 61: A.4 Rapid Response and Novel Research in Earth Science Final Close Date Deferred
-   https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-61-a-4-rapid-response-and-novel-research-in-earth-science-final-close-date-deferred/
+2. The Download: Anthropic launches Claude Science, and California’s carbon manure math
+   https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/
 
-3. Teaching AI to run with the turbines
-   https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/
+3. Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM
+   https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update
 
-4. Why California’s carbon manure math doesn’t add up
-   https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/
+4. Electrodeposited self-assembled molecules for perovskite photovoltaics
+   https://www.nature.com/articles/s41586-026-10844-6
 
-5. SpaceX Falcon 9 rocket launches 24 Starlink satellites from California (video)
-   https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-46-b1100-vsfb-ocisly
+5. Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization
+   https://www.nature.com/articles/s41586-026-10854-4
 
-6. Astronomers discover a potentially habitable planet just 25 light-years away. 'This one is exciting'
-   https://www.space.com/astronomy/exoplanets/astronomers-discover-a-potentially-habitable-planet-just-25-light-years-away-this-one-is-exciting
+6. How ChatGPT adoption has expanded
+   https://openai.com/index/how-chatgpt-adoption-has-expanded
 
-7. China boosts prestigious grants for young scientists — will it ease competition?
-   https://www.nature.com/articles/d41586-026-01989-5
+7. Inside Genebench-Pro
+   https://openai.com/index/genebench-pro/case-studies
 
 ---
 📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-03/newspaper.pdf]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:27</itunes:duration>
+      <itunes:duration>6:03</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-03/episode-art.png"/>
     </item>
     <item>
