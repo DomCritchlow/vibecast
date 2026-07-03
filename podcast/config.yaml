@@ -5,18 +5,13 @@
 # Change the vibe, change the show.
 #
 # ⚠️  IF YOU FORKED/CLONED THIS REPO: Update these before deploying!
-#     - podcast.author (line ~65)
-#     - podcast.github_url (line ~73)
-#     - location.name, lat, lon (line ~107-109)
+#     - podcast.* (author, email, site/feed/artwork URLs)
+#     - location.name, lat, lon
+#     - storage.r2.public_base_url
 #
-# PRIVACY TIP: Use environment variables instead of hardcoding personal info.
-# Set these in .env (local) or GitHub Secrets (for Actions):
-#   - VIBECAST_AUTHOR, VIBECAST_OWNER_EMAIL
-#   - VIBECAST_LOCATION_NAME, VIBECAST_LOCATION_LAT, VIBECAST_LOCATION_LON
-#   - VIBECAST_SITE_URL, VIBECAST_FEED_URL, VIBECAST_R2_PUBLIC_URL
-#   - VIBECAST_TIMEZONE
-#
-# See .env.example for a complete template.
+# Personal settings live directly in this file. If you prefer to keep them
+# out of the repo, every value below marked "Override:" can instead be set
+# via a VIBECAST_* environment variable (see .env.example).
 # =============================================================================
 
 # =============================================================================
@@ -38,6 +33,9 @@ vibe:
       - "conversational but doesn't waste your time"
       - "finds signal in the noise"
       - "makes you smarter without trying too hard"
+    # NOTE: greetings/closings are no longer injected into the script prompt —
+    # episodes now open cold inside the best story and land their own endings.
+    # Kept only as reference for Bento's register.
     greetings:
       - "Hey, it's Bento. Here's what caught my attention today."
       - "Morning. Bento here with some things you might actually care about."
@@ -72,14 +70,15 @@ podcast:
   title: "Vibecast: Morning Thread"
   tagline: "Tech, science, and what's actually interesting"
   description: "A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters."
-  author: "Dominic"                    # Override: VIBECAST_AUTHOR
+  author: "Dominic"
+  owner_email: "critchlowd49@gmail.com"
   language: "en-us"
   category: "News"
   subcategory: "Daily News"
   explicit: "no"
-  artwork_url: ""
-  site_url: ""                           # Override: VIBECAST_SITE_URL
-  feed_url: ""                           # Override: VIBECAST_FEED_URL
+  artwork_url: "https://domcritchlow.github.io/vibecast/artwork.png"
+  site_url: "https://domcritchlow.github.io/vibecast/"
+  feed_url: "https://domcritchlow.github.io/vibecast/feed.xml"
   github_url: "https://github.com/domcritchlow/vibecast"  # Link shown in footer
 
 # =============================================================================
@@ -108,16 +107,12 @@ episode:
 # =============================================================================
 # LOCATION (for weather)
 # =============================================================================
-# Set your location via environment variables for privacy:
-#   VIBECAST_LOCATION_NAME="Stuttgart, Germany"
-#   VIBECAST_LOCATION_LAT=48.7758
-#   VIBECAST_LOCATION_LON=9.1829
-#
+# VIBECAST_LOCATION_* env vars still override these if you ever need to.
 location:
-  name: "Your City"                      # Override: VIBECAST_LOCATION_NAME
-  lat: 0.0                               # Override: VIBECAST_LOCATION_LAT
-  lon: 0.0                               # Override: VIBECAST_LOCATION_LON
-  units: "celsius"                       # Options: celsius, fahrenheit
+  name: "New York, NY"
+  lat: 40.7128
+  lon: -74.0060
+  units: "fahrenheit"                    # Options: celsius, fahrenheit
 
 # =============================================================================
 # CONTENT SOURCES
@@ -379,15 +374,17 @@ sources:
 # AI-GENERATED EPISODE ARTWORK
 # =============================================================================
 # Generates unique cover art for each episode in an editorial risograph style
-# using OpenAI's GPT-Image-1.5 image generation API.
+# using OpenAI's GPT-Image image generation API.
 artwork:
   enabled: true
-  provider: "openai"           # Image generation provider (openai = GPT-Image-1.5)
-  
+  provider: "openai"           # Image generation provider
+  openai:
+    model: "gpt-image-2"       # gpt-image-2 (April 2026): better prompt following + text rendering
+
   # Image settings
   size: 1024                   # Square image size (1024x1024)
   format: "png"                # Output format
-  quality: "medium"            # GPT-Image-1.5 quality: low (~$0.009), medium (~$0.035), high (~$0.133)
+  quality: "medium"            # low, medium, or high
   
   # R2 Storage
   upload_to_r2: true
@@ -412,9 +409,7 @@ artwork:
   # Determinism settings
   accent_strategy: "rotate"    # rotate | random | fixed
   fixed_accent: "burnt orange" # Used when accent_strategy is "fixed"
-  seed_strategy: "date"        # date | random | fixed (note: DALL-E 3 doesn't support seeds)
-  fixed_seed: 12345            # Used when seed_strategy is "fixed"
-  
+
   # Style settings
   style: "vibecast_riso_v1"    # Style template version
   secondary_detail_max: 1      # Max secondary details in scene
@@ -425,7 +420,7 @@ artwork:
   
   # Reliability
   retries: 1                   # Retry attempts on failure
-  timeout_seconds: 60          # API timeout
+  timeout_seconds: 120         # API timeout (gpt-image-2 reasons before generating)
 
 # =============================================================================
 # CONTENT FILTERING
@@ -433,7 +428,10 @@ artwork:
 filters:
   global_max_items: 7
   max_per_source: 2
-  
+
+  # How long a used URL blocks re-use (state.json is pruned past this window)
+  url_retention_days: 90
+
   block_keywords:
     - "shooting"
     - "killed"
@@ -460,24 +458,28 @@ filters:
     - "capability"
 
 # =============================================================================
-# OPENAI CONFIGURATION (LLM for Script Generation)
+# SCRIPT WRITER (LLM for script, title, and art-brief generation)
 # =============================================================================
-openai:
-  llm:
-    model: "gpt-4.1-mini"     # Options: gpt-4.1-mini, gpt-4.1, gpt-4o
-    temperature: 0.7
-    max_tokens: 2000
-  
-  # Script generation hints
+# The writer is the voice of the show. Claude Opus 4.8 is the default —
+# noticeably better prose than the mini-tier models for ~$0.04/episode.
+# Requires ANTHROPIC_API_KEY; without it the pipeline automatically falls
+# back to the OpenAI model below so the nightly run never breaks.
+writer:
+  provider: "anthropic"        # anthropic (Claude, recommended) or openai
+
+  anthropic:
+    model: "claude-opus-4-8"   # Claude Opus 4.8 — adaptive thinking, strongest writing
+
+  openai:
+    model: "gpt-5.4-mini"      # Fallback: best price/performance OpenAI mini model
+
+  # Craft hints injected into the system prompt (WRITE FOR THE EAR section)
   script_hints:
-    - "Use specific numbers and details when relevant — they add credibility"
-    - "Vary sentence length for natural conversation rhythm"
-    - "Keep tone conversational but informed — like explaining to a smart friend"
-    - "Avoid hyperbole — let interesting facts speak for themselves"
-    - "No filler, no padding — every sentence should earn its place"
-    - "Do NOT include music cues like [intro music] or [outro music]"
-    - "Do NOT write stage directions — only write text meant to be spoken aloud"
-    - "Start directly with your greeting, end directly with your closing"
+    - "Specific beats general: one real number or detail is worth a paragraph of adjectives"
+    - "Explain like a smart friend who's excited, not a presenter reading a rundown"
+    - "No hyperbole — if a fact is interesting, saying it plainly is the flex"
+    - "No filler, no throat-clearing — every sentence earns its place"
+    - "Curiosity is the engine: ask the question the listener would ask, then answer it"
 
 # =============================================================================
 # TEXT-TO-SPEECH CONFIGURATION
@@ -485,8 +487,9 @@ openai:
 # Extensible provider system - easily swap between TTS services
 #
 # Available providers:
-#   - openai: OpenAI TTS (default) - tts-1, tts-1-hd models
-#   - elevenlabs: ElevenLabs TTS (requires API key + pip install elevenlabs)
+#   - openai: OpenAI TTS (default) - gpt-4o-mini-tts, ~$0.03-0.10/episode
+#   - elevenlabs: ElevenLabs eleven_v3 - the quality/expressiveness upgrade,
+#     ~$0.50/episode (requires ELEVENLABS_API_KEY). Flip provider to try it.
 #
 # To add new providers: create a class in podcast/tts/ that extends TTSProvider
 # =============================================================================
@@ -530,16 +533,17 @@ tts:
   
   # --- ElevenLabs TTS Settings (disabled) ---
   # To enable: set provider to "elevenlabs" and configure below
-  # Requires: pip install elevenlabs, ELEVENLABS_API_KEY env var
+  # Requires ELEVENLABS_API_KEY env var
   elevenlabs:
     # Voice ID or preset name (e.g., "rachel", "adam", "josh")
     # Full list: https://elevenlabs.io/voice-library
     voice_id: "rachel"
-    
+
     # Model options:
-    #   eleven_multilingual_v2 - Best quality, supports many languages
-    #   eleven_turbo_v2_5 - Low latency, good quality
-    model_id: "eleven_multilingual_v2"
+    #   eleven_v3 - Most expressive, supports inline audio tags (recommended)
+    #   eleven_multilingual_v2 - High quality, very stable
+    #   eleven_flash_v2_5 - Lowest latency/cost
+    model_id: "eleven_v3"
     
     # Voice control (0.0 to 1.0)
     stability: 0.5            # Higher = more consistent, lower = more expressive
@@ -570,8 +574,10 @@ storage:
   r2:
     bucket: "vibecast"
     key_prefix: "episodes/"
-    public_base_url: ""                  # Override: VIBECAST_R2_PUBLIC_URL (base URL, e.g. https://pub-xxx.r2.dev)
-    cache_control: "public, max-age=31536000, immutable"
+    public_base_url: "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev"
+    # 1 day: long enough for CDN efficiency, short enough that a re-uploaded
+    # (corrected) episode propagates. Don't use "immutable" on date-keyed files.
+    cache_control: "public, max-age=86400"
 
 # =============================================================================
 # RSS FEED
@@ -584,6 +590,6 @@ feed:
 # SCHEDULE (reference only - actual cron is in GitHub Actions)
 # =============================================================================
 schedule:
-  timezone: "Europe/Berlin"              # Override: VIBECAST_TIMEZONE
-  target_hour: 5                         # 05:00 local time
+  timezone: "America/New_York"           # Override: VIBECAST_TIMEZONE
+  target_hour: 5                         # 05:00 local time (Eastern)
 

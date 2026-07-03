@@ -14,7 +14,7 @@ Thank you for your interest in contributing to Vibecast! This document will help
 ## 🚀 Development Setup
 
 ### Prerequisites
-- Python 3.9 or higher
+- Python 3.11 or higher (managed automatically by uv)
 - FFmpeg (for audio processing)
 - Git
 
@@ -28,13 +28,13 @@ Thank you for your interest in contributing to Vibecast! This document will help
 
 2. **Create a virtual environment**
    ```bash
-   python3 -m venv venv
+   # Install uv: curl -LsSf https://astral.sh/uv/install.sh | sh
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
 
 3. **Install dependencies**
    ```bash
-   pip install -r requirements.txt
+   uv sync
    ```
 
 4. **Set up environment variables**

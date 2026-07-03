@@ -1,11 +1,19 @@
 """Generate newspaper-style PDF from episode data."""
 
-import os
+import logging
 from datetime import datetime
 from pathlib import Path
-from typing import Optional
 
 from jinja2 import Environment, FileSystemLoader
+
+logger = logging.getLogger(__name__)
+
+# Issue #1 = the first published episode (2025-12-14)
+LAUNCH_DATE = datetime(2025, 12, 14)
+
+
+def _issue_number(date: datetime) -> int:
+    return (date - LAUNCH_DATE).days + 1
 
 
 def generate_newspaper_pdf(
@@ -15,14 +23,14 @@ def generate_newspaper_pdf(
     weather_text: str = "",
     reading_items: list = None,
     duration_minutes: float = 5.0,
-    output_path: Optional[Path] = None,
+    output_path: Path | None = None,
     episode_artwork_url: str = None,
     accent_color: str = None,
     max_stories: int = 6,
     max_reading_items: int = 3,
 ) -> Path:
     """Generate a newspaper-style PDF for the episode.
-    
+
     Args:
         date: Episode date.
         items: List of ContentItem objects.
@@ -35,96 +43,97 @@ def generate_newspaper_pdf(
         accent_color: Hex color for accents (from artwork palette).
         max_stories: Maximum number of stories to include (default: 6, ensures one-page fit).
         max_reading_items: Maximum number of reading list items (default: 3, ensures one-page fit).
-    
+
     Returns:
         Path to the generated PDF file.
     """
     try:
         from weasyprint import HTML
     except ImportError:
-        print("Warning: WeasyPrint not installed. Run: pip install weasyprint")
-        print("Skipping newspaper PDF generation.")
+        logger.warning("WeasyPrint not installed. Run: pip install weasyprint")
+        logger.warning("Skipping newspaper PDF generation.")
         return None
-    
+
     # Setup Jinja2 environment
     template_dir = Path(__file__).parent / "templates"
     env = Environment(loader=FileSystemLoader(str(template_dir)))
     template = env.get_template("newspaper.html")
-    
+
     # Get config values
     podcast = config.get("podcast", {})
     vibe = config.get("vibe", {})
-    
+
     # Prepare data for template
     lead_story = items[0] if items else None
     other_stories = items[1:] if len(items) > 1 else []
-    
+
     # Warn if content will be truncated to fit one page
     if len(other_stories) > max_stories:
-        print(f"⚠️  Warning: {len(other_stories)} stories available, but only {max_stories} will fit on one page.")
-        print(f"   Showing first {max_stories} stories to ensure single-page layout.")
-    
+        logger.warning(
+            f"{len(other_stories)} stories available, but only {max_stories} will fit on one page."
+        )
+        logger.warning(f"Showing first {max_stories} stories to ensure single-page layout.")
+
     # Limit stories to ensure one-page fit
     other_stories = other_stories[:max_stories]
-    
+
     # Truncate summaries for print (conservative limits for one-page guarantee)
     if lead_story:
         lead_story = {
             "title": lead_story.title,
-            "summary": _truncate(lead_story.summary, 250),  # Reduced from 250 for one-page fit
+            "summary": _truncate(lead_story.summary, 250),
             "source": lead_story.source,
             "url": lead_story.url,
         }
-    
+
     stories = []
     for story in other_stories:
-        stories.append({
-            "title": story.title,
-            "summary": _truncate(story.summary, 150),  # Reduced from 150 for one-page fit
-            "source": story.source,
-            "url": story.url,
-        })
-    
+        stories.append(
+            {
+                "title": story.title,
+                "summary": _truncate(story.summary, 150),
+                "source": story.source,
+                "url": story.url,
+            }
+        )
+
     # Format reading list items (strict limit for one-page fit)
     reading_list = []
     if reading_items:
         # Warn if reading list will be truncated
         if len(reading_items) > max_reading_items:
-            print(f"⚠️  Warning: {len(reading_items)} reading items available, but only {max_reading_items} will fit on one page.")
-            print(f"   Showing first {max_reading_items} items to ensure single-page layout.")
-        
+            logger.warning(
+                f"{len(reading_items)} reading items available, but only {max_reading_items} will fit on one page."
+            )
+            logger.warning(f"Showing first {max_reading_items} items to ensure single-page layout.")
+
         # Limit number of reading items
         limited_reading = reading_items[:max_reading_items]
         for item in limited_reading:
             # Get author and description
-            author = getattr(item, 'author', '')
-            description = getattr(item, 'description', '')
-            
+            author = getattr(item, "author", "")
+            description = getattr(item, "description", "")
+
             # If no description, use truncated summary
-            if not description and hasattr(item, 'summary'):
+            if not description and hasattr(item, "summary"):
                 description = _truncate(item.summary, 100)  # Conservative truncation
-            
-            reading_list.append({
-                "title": item.title,
-                "author": author,
-                "description": description,
-                "url": item.url,
-            })
-    
-    # Calculate issue number (days since Jan 1, 2024)
-    epoch = datetime(2026, 1, 1)
-    issue_number = (date - epoch).days + 1
-    
+
+            reading_list.append(
+                {
+                    "title": item.title,
+                    "author": author,
+                    "description": description,
+                    "url": item.url,
+                }
+            )
+
+    issue_number = _issue_number(date)
+
     # Get accent color from config if not provided
     if not accent_color:
-        artwork_config = config.get("artwork", {})
-        accent_palette = artwork_config.get("accent_palette", [])
-        # Use the first palette color or default
-        if accent_palette:
-            accent_color = _color_name_to_hex(accent_palette[0])
-        else:
-            accent_color = "#ff6b35"  # Default burnt orange
-    
+        accent_palette = config.get("artwork", {}).get("accent_palette", [])
+        accent_color = _color_name_to_hex(accent_palette[0]) if accent_palette else "#ff6b35"
+
     # Render HTML
     html_content = template.render(
         title=vibe.get("name", "Morning Thread"),
@@ -141,7 +150,7 @@ def generate_newspaper_pdf(
         accent_color=accent_color,
         episode_artwork=episode_artwork_url,
     )
-    
+
     # Determine output path
     if output_path is None:
         # Default: save to docs/newspapers/
@@ -149,22 +158,22 @@ def generate_newspaper_pdf(
         newspapers_dir = docs_dir / "newspapers"
         newspapers_dir.mkdir(parents=True, exist_ok=True)
         output_path = newspapers_dir / f"{date.strftime('%Y-%m-%d')}.pdf"
-    
+
     # Generate PDF
-    print(f"  Generating newspaper PDF...")
-    
+    logger.info("Generating newspaper PDF...")
+
     # Set base_url to newspapers directory so relative paths (../artwork.png) work correctly
     # The HTML references ../artwork.png which goes up from newspapers/ to docs/
     base_url = f"file://{output_path.parent.absolute()}/"
-    
+
     HTML(string=html_content, base_url=base_url).write_pdf(
         str(output_path),
         stylesheets=None,
         presentational_hints=True,
     )
-    
-    print(f"  Newspaper saved to: {output_path}")
-    
+
+    logger.info(f"Newspaper saved to: {output_path}")
+
     return output_path
 
 
@@ -172,30 +181,30 @@ def _truncate(text: str, max_length: int) -> str:
     """Truncate text to max_length, ending at a sentence if possible."""
     if not text or len(text) <= max_length:
         return text
-    
+
     # Try to truncate at a sentence boundary
     truncated = text[:max_length]
-    
+
     # Find last sentence ending
-    for punct in ['. ', '! ', '? ']:
+    for punct in [". ", "! ", "? "]:
         last_sentence = truncated.rfind(punct)
         if last_sentence > max_length * 0.5:  # Don't truncate too aggressively
-            return truncated[:last_sentence + 1]
-    
+            return truncated[: last_sentence + 1]
+
     # No sentence boundary found, just truncate
-    return truncated[:max_length - 3] + "..."
+    return truncated[: max_length - 3] + "..."
 
 
 def _clean_weather(weather_text: str) -> str:
     """Clean weather text for newspaper display."""
     if not weather_text:
         return "Weather information unavailable"
-    
+
     # Truncate to 2 sentences max
-    sentences = weather_text.split('. ')
+    sentences = weather_text.split(". ")
     if len(sentences) > 2:
-        return '. '.join(sentences[:2]) + '.'
-    
+        return ". ".join(sentences[:2]) + "."
+
     return weather_text
 
 
@@ -207,7 +216,7 @@ def _clean_url(url: str, fallback: str = None) -> str:
             url = fallback
         else:
             return "github.com/domcritchlow/vibecast"
-    
+
     return url.replace("https://", "").replace("http://", "").rstrip("/")
 
 
@@ -221,22 +230,28 @@ def _color_name_to_hex(color_name: str) -> str:
         "muted tan": "#d4a574",
         "sage green": "#9ca986",
         "dusty rose": "#dcae96",
+        "cobalt blue": "#1e40af",
+        "golden yellow": "#fbbf24",
+        "terracotta red": "#c1440e",
+        "midnight navy": "#1e3a5f",
+        "moss green": "#606c38",
+        "warm coral": "#f88379",
         "federal blue": "#1e3a8a",
         "mint": "#4ade80",
         "sunflower": "#fbbf24",
     }
-    
+
     # Normalize the color name
     normalized = color_name.lower().strip()
-    
+
     # Return hex if found, otherwise return the input (might already be hex)
     if normalized in color_map:
         return color_map[normalized]
-    
+
     # If it's already a hex code, return it
-    if normalized.startswith('#'):
+    if normalized.startswith("#"):
         return normalized
-    
+
     # Default fallback
     return "#ff6b35"
 
@@ -248,14 +263,14 @@ def generate_newspaper_html(
     weather_text: str = "",
     reading_items: list = None,
     duration_minutes: float = 5.0,
-    output_path: Optional[Path] = None,
+    output_path: Path | None = None,
     episode_artwork_url: str = None,
     accent_color: str = None,
 ) -> Path:
     """Generate newspaper HTML (without PDF conversion).
-    
+
     Useful for debugging/previewing the design.
-    
+
     Args:
         date: Episode date.
         items: List of ContentItem objects.
@@ -266,7 +281,7 @@ def generate_newspaper_html(
         output_path: Optional custom output path.
         episode_artwork_url: URL to episode artwork image.
         accent_color: Hex color for accents (from artwork palette).
-    
+
     Returns:
         Path to the generated HTML file.
     """
@@ -274,15 +289,15 @@ def generate_newspaper_html(
     template_dir = Path(__file__).parent / "templates"
     env = Environment(loader=FileSystemLoader(str(template_dir)))
     template = env.get_template("newspaper.html")
-    
+
     # Get config values
     podcast = config.get("podcast", {})
     vibe = config.get("vibe", {})
-    
+
     # Prepare data (same as PDF generation)
     lead_story = items[0] if items else None
     other_stories = items[1:] if len(items) > 1 else []
-    
+
     if lead_story:
         lead_story = {
             "title": lead_story.title,
@@ -290,45 +305,43 @@ def generate_newspaper_html(
             "source": lead_story.source,
             "url": lead_story.url,
         }
-    
+
     stories = []
     for story in other_stories:
-        stories.append({
-            "title": story.title,
-            "summary": _truncate(story.summary, 150),
-            "source": story.source,
-            "url": story.url,
-        })
-    
+        stories.append(
+            {
+                "title": story.title,
+                "summary": _truncate(story.summary, 150),
+                "source": story.source,
+                "url": story.url,
+            }
+        )
+
     reading_list = []
     if reading_items:
         for item in reading_items:
-            author = getattr(item, 'author', '')
-            description = getattr(item, 'description', '')
-            
-            if not description and hasattr(item, 'summary'):
+            author = getattr(item, "author", "")
+            description = getattr(item, "description", "")
+
+            if not description and hasattr(item, "summary"):
                 description = _truncate(item.summary, 100)
-            
-            reading_list.append({
-                "title": item.title,
-                "author": author,
-                "description": description,
-                "url": item.url,
-            })
-    
-    epoch = datetime(2024, 1, 1)
-    issue_number = (date - epoch).days + 1
-    
+
+            reading_list.append(
+                {
+                    "title": item.title,
+                    "author": author,
+                    "description": description,
+                    "url": item.url,
+                }
+            )
+
+    issue_number = _issue_number(date)
+
     # Get accent color from config if not provided
     if not accent_color:
-        artwork_config = config.get("artwork", {})
-        accent_palette = artwork_config.get("accent_palette", [])
-        # Use the first palette color or default
-        if accent_palette:
-            accent_color = _color_name_to_hex(accent_palette[0])
-        else:
-            accent_color = "#ff6b35"  # Default burnt orange
-    
+        accent_palette = config.get("artwork", {}).get("accent_palette", [])
+        accent_color = _color_name_to_hex(accent_palette[0]) if accent_palette else "#ff6b35"
+
     # Render HTML
     html_content = template.render(
         title=vibe.get("name", "Morning Thread"),
@@ -345,16 +358,16 @@ def generate_newspaper_html(
         accent_color=accent_color,
         episode_artwork=episode_artwork_url,
     )
-    
+
     # Determine output path
     if output_path is None:
         docs_dir = Path(__file__).parent.parent / "docs"
         newspapers_dir = docs_dir / "newspapers"
         newspapers_dir.mkdir(parents=True, exist_ok=True)
         output_path = newspapers_dir / f"{date.strftime('%Y-%m-%d')}.html"
-    
+
     # Write HTML
     output_path.write_text(html_content, encoding="utf-8")
-    print(f"  Newspaper HTML saved to: {output_path}")
-    
+    logger.info(f"Newspaper HTML saved to: {output_path}")
+
     return output_path

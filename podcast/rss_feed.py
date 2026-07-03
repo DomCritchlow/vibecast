@@ -1,25 +1,33 @@
-"""RSS feed generation for podcast distribution."""
+"""RSS feed generation for podcast distribution.
 
-import os
+The feed is always regenerated in full from the episode JSON store
+(podcast/episodes/*.json) — the single source of truth. feed.xml itself is
+a build artifact and is never parsed back.
+"""
+
 import html
+import logging
+import os
 from datetime import datetime
 from email.utils import format_datetime
-from typing import Optional
+from types import SimpleNamespace
+
+logger = logging.getLogger(__name__)
 
 
 def create_feed_xml(config: dict, episodes: list[dict]) -> str:
     """Create a complete RSS 2.0 podcast feed.
-    
+
     Args:
         config: Full configuration dictionary.
         episodes: List of episode metadata dictionaries.
-    
+
     Returns:
         RSS XML string.
     """
     podcast = config.get("podcast", {})
     feed_config = config.get("feed", {})
-    
+
     # Get values with defaults
     title = _escape(podcast.get("title", "Vibecast"))
     site_url = _escape(podcast.get("site_url", ""))
@@ -31,7 +39,7 @@ def create_feed_xml(config: dict, episodes: list[dict]) -> str:
     subcategory = _escape(podcast.get("subcategory", ""))
     explicit = podcast.get("explicit", "no")
     artwork_url = _escape(podcast.get("artwork_url", ""))
-    
+
     # Build channel XML
     channel_parts = [
         f"    <title>{title}</title>",
@@ -40,21 +48,23 @@ def create_feed_xml(config: dict, episodes: list[dict]) -> str:
         f"    <language>{language}</language>",
         f"    <lastBuildDate>{format_datetime(datetime.now())}</lastBuildDate>",
     ]
-    
+
     # Atom self-link (helps with validation)
     if feed_url:
         channel_parts.append(
             f'    <atom:link href="{feed_url}" rel="self" type="application/rss+xml"/>'
         )
-    
+
     # iTunes required elements
-    channel_parts.extend([
-        f"    <itunes:author>{author}</itunes:author>",
-        f"    <itunes:summary>{description}</itunes:summary>",
-        f"    <itunes:type>episodic</itunes:type>",
-        f"    <itunes:explicit>{explicit}</itunes:explicit>",
-    ])
-    
+    channel_parts.extend(
+        [
+            f"    <itunes:author>{author}</itunes:author>",
+            f"    <itunes:summary>{description}</itunes:summary>",
+            "    <itunes:type>episodic</itunes:type>",
+            f"    <itunes:explicit>{explicit}</itunes:explicit>",
+        ]
+    )
+
     # Owner (with email for Apple Podcasts)
     owner_email = _escape(podcast.get("owner_email", ""))
     channel_parts.append("    <itunes:owner>")
@@ -62,64 +72,67 @@ def create_feed_xml(config: dict, episodes: list[dict]) -> str:
     if owner_email:
         channel_parts.append(f"      <itunes:email>{owner_email}</itunes:email>")
     channel_parts.append("    </itunes:owner>")
-    
+
     # Category
     if subcategory:
-        channel_parts.extend([
-            f'    <itunes:category text="{category}">',
-            f'      <itunes:category text="{subcategory}"/>',
-            "    </itunes:category>",
-        ])
+        channel_parts.extend(
+            [
+                f'    <itunes:category text="{category}">',
+                f'      <itunes:category text="{subcategory}"/>',
+                "    </itunes:category>",
+            ]
+        )
     else:
         channel_parts.append(f'    <itunes:category text="{category}"/>')
-    
+
     # Artwork (required for most podcast apps)
     if artwork_url:
-        channel_parts.extend([
-            "    <image>",
-            f"      <url>{artwork_url}</url>",
-            f"      <title>{title}</title>",
-            f"      <link>{site_url}</link>",
-            "    </image>",
-            f'    <itunes:image href="{artwork_url}"/>',
-        ])
-    
+        channel_parts.extend(
+            [
+                "    <image>",
+                f"      <url>{artwork_url}</url>",
+                f"      <title>{title}</title>",
+                f"      <link>{site_url}</link>",
+                "    </image>",
+                f'    <itunes:image href="{artwork_url}"/>',
+            ]
+        )
+
     # Add episodes
     max_episodes = feed_config.get("max_episodes", 30)
     for episode in episodes[:max_episodes]:
         episode_xml = create_episode_item(episode, config)
         channel_parts.append(episode_xml)
-    
+
     # Build complete RSS feed
-    rss_xml = f'''<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" 
+    rss_xml = f"""<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
 {chr(10).join(channel_parts)}
   </channel>
-</rss>'''
-    
+</rss>"""
+
     return rss_xml
 
 
 def create_episode_item(episode: dict, config: dict) -> str:
     """Create an RSS item element for an episode.
-    
+
     Args:
         episode: Episode metadata dictionary.
         config: Full configuration dictionary.
-    
+
     Returns:
         XML string for the episode item.
     """
     title = _escape(episode.get("title", "Untitled Episode"))
-    description = _escape(episode.get("description", ""))
     url = _escape(episode.get("url", ""))
     file_size = episode.get("file_size", 0)
     guid = _escape(episode.get("guid", ""))
-    
+
     # Format publication date
     pub_date = episode.get("pub_date")
     if isinstance(pub_date, datetime):
@@ -128,7 +141,7 @@ def create_episode_item(episode: dict, config: dict) -> str:
         pub_date_str = pub_date
     else:
         pub_date_str = format_datetime(datetime.now())
-    
+
     # Format duration
     duration_str = ""
     duration = episode.get("duration")
@@ -142,7 +155,7 @@ def create_episode_item(episode: dict, config: dict) -> str:
                 duration_str = f"{minutes}:{seconds:02d}"
         else:
             duration_str = str(duration)
-    
+
     # Build item XML
     item_parts = [
         "    <item>",
@@ -153,19 +166,19 @@ def create_episode_item(episode: dict, config: dict) -> str:
         f'      <enclosure url="{url}" length="{file_size}" type="audio/mpeg"/>',
         f"      <itunes:summary><![CDATA[{episode.get('description', '')}]]></itunes:summary>",
         "      <itunes:explicit>no</itunes:explicit>",
-        f"      <itunes:episodeType>full</itunes:episodeType>",
+        "      <itunes:episodeType>full</itunes:episodeType>",
     ]
-    
+
     if duration_str:
         item_parts.append(f"      <itunes:duration>{duration_str}</itunes:duration>")
-    
+
     # Episode-specific image (e.g., NASA APOD)
     episode_image = episode.get("image_url", "")
     if episode_image:
         item_parts.append(f'      <itunes:image href="{_escape(episode_image)}"/>')
-    
+
     item_parts.append("    </item>")
-    
+
     return "\n".join(item_parts)
 
 
@@ -176,121 +189,51 @@ def _escape(text: str) -> str:
     return html.escape(str(text), quote=True)
 
 
-def load_existing_episodes(feed_path: str) -> list[dict]:
-    """Load existing episodes from an RSS feed file.
-    
-    Args:
-        feed_path: Path to the feed.xml file.
-    
-    Returns:
-        List of episode dictionaries.
-    """
-    import xml.etree.ElementTree as ET
-    
-    if not os.path.exists(feed_path):
-        return []
-    
-    try:
-        tree = ET.parse(feed_path)
-        root = tree.getroot()
-        
-        # Define namespaces
-        namespaces = {
-            "itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
-        }
-        
-        episodes = []
-        for item in root.findall(".//item"):
-            episode = {
-                "title": _get_text(item, "title"),
-                "description": _get_text(item, "description"),
-                "pub_date": _get_text(item, "pubDate"),
-                "guid": _get_text(item, "guid"),
-            }
-            
-            # Get enclosure info
-            enclosure = item.find("enclosure")
-            if enclosure is not None:
-                episode["url"] = enclosure.get("url", "")
-                try:
-                    episode["file_size"] = int(enclosure.get("length", 0))
-                except ValueError:
-                    episode["file_size"] = 0
-            
-            # Get duration
-            duration = item.find("itunes:duration", namespaces)
-            if duration is not None and duration.text:
-                episode["duration"] = duration.text
-            
-            # Get episode artwork (itunes:image)
-            itunes_image = item.find("itunes:image", namespaces)
-            if itunes_image is not None:
-                image_url = itunes_image.get("href", "")
-                if image_url:
-                    episode["image_url"] = image_url
-            
-            episodes.append(episode)
-        
-        return episodes
-    
-    except ET.ParseError as e:
-        print(f"Error parsing feed: {e}")
-        return []
+def episode_json_to_rss_metadata(episode: dict, config: dict) -> dict:
+    """Convert a stored episode JSON dict into RSS item metadata."""
+    items = [SimpleNamespace(**story) for story in episode.get("stories", [])]
+    reading_items = [SimpleNamespace(**reading) for reading in episode.get("reading_list", [])]
+
+    date = datetime.fromisoformat(episode["date"].replace("Z", "+00:00"))
+
+    return create_episode_metadata(
+        date=date,
+        mp3_url=episode["media"]["audio_url"],
+        mp3_size=episode["media"].get("audio_size_bytes", 0),
+        duration_seconds=episode.get("duration_seconds"),
+        config=config,
+        items=items,
+        episode_image_url=episode["media"].get("artwork_url"),
+        custom_title=episode.get("title"),
+        reading_items=reading_items,
+        newspaper_url=episode["media"].get("newspaper_url"),
+    )
 
 
-def _get_text(element, tag: str) -> str:
-    """Get text content of a child element."""
-    child = element.find(tag)
-    return child.text if child is not None and child.text else ""
+def generate_feed_from_store(config: dict) -> str:
+    """Regenerate the full RSS feed XML from the episode JSON store."""
+    from .episode_store import load_all_episodes
 
+    episodes_rss = []
+    for episode in load_all_episodes():
+        try:
+            episodes_rss.append(episode_json_to_rss_metadata(episode, config))
+        except Exception as e:
+            logger.warning("Skipping episode %s in feed: %s", episode.get("guid"), e)
 
-def update_feed(
-    feed_path: str,
-    new_episode: dict,
-    config: dict,
-) -> str:
-    """Update the RSS feed with a new episode.
-    
-    Args:
-        feed_path: Path to the feed.xml file.
-        new_episode: New episode metadata dictionary.
-        config: Full configuration dictionary.
-    
-    Returns:
-        Updated RSS XML string.
-    """
-    # Load existing episodes
-    existing = load_existing_episodes(feed_path)
-    
-    # Check if episode already exists (by GUID)
-    new_guid = new_episode.get("guid", "")
-    existing_guids = {ep.get("guid", "") for ep in existing}
-    
-    if new_guid and new_guid in existing_guids:
-        print(f"Episode {new_guid} already exists in feed")
-        # Update existing episode
-        for i, ep in enumerate(existing):
-            if ep.get("guid") == new_guid:
-                existing[i] = new_episode
-                break
-    else:
-        # Add new episode at the beginning
-        existing.insert(0, new_episode)
-    
-    # Generate updated feed
-    return create_feed_xml(config, existing)
+    return create_feed_xml(config, episodes_rss)
 
 
 def save_feed(feed_path: str, xml_content: str) -> None:
     """Save RSS feed to file.
-    
+
     Args:
         feed_path: Path to save the feed.xml file.
         xml_content: RSS XML string.
     """
     # Ensure directory exists
     os.makedirs(os.path.dirname(feed_path), exist_ok=True)
-    
+
     with open(feed_path, "w", encoding="utf-8") as f:
         f.write(xml_content)
 
@@ -299,16 +242,16 @@ def create_episode_metadata(
     date: datetime,
     mp3_url: str,
     mp3_size: int,
-    duration_seconds: Optional[float],
+    duration_seconds: float | None,
     config: dict,
-    items: Optional[list] = None,
-    episode_image_url: Optional[str] = None,
-    custom_title: Optional[str] = None,
-    reading_items: Optional[list] = None,
-    newspaper_url: Optional[str] = None,
+    items: list | None = None,
+    episode_image_url: str | None = None,
+    custom_title: str | None = None,
+    reading_items: list | None = None,
+    newspaper_url: str | None = None,
 ) -> dict:
     """Create episode metadata dictionary.
-    
+
     Args:
         date: Episode date.
         mp3_url: URL to the MP3 file.
@@ -320,14 +263,14 @@ def create_episode_metadata(
         custom_title: Custom episode title (overrides default formatting).
         reading_items: List of reading list items (optional).
         newspaper_url: URL to the newspaper PDF for this episode (optional).
-    
+
     Returns:
         Episode metadata dictionary.
     """
     podcast = config.get("podcast", {})
     feed_config = config.get("feed", {})
     vibe = config.get("vibe", {})
-    
+
     # Use custom title if provided, otherwise use configured format
     if custom_title:
         title = custom_title
@@ -335,18 +278,20 @@ def create_episode_metadata(
         title_format = feed_config.get("episode_title_format", "{podcast_title} — {date}")
         podcast_title = vibe.get("name", podcast.get("title", "Vibecast"))
         date_str = date.strftime("%B %d, %Y")  # e.g., "December 13, 2025"
-        
+
         title = title_format.format(
             podcast_title=podcast_title,
             date=date_str,
         )
-    
+
     # Create rich description with summary and references
-    description = _build_show_notes(date, config, items, duration_seconds, reading_items, newspaper_url)
-    
+    description = _build_show_notes(
+        date, config, items, duration_seconds, reading_items, newspaper_url
+    )
+
     # Create GUID from date
     guid = date.strftime("%Y-%m-%d")
-    
+
     metadata = {
         "title": title,
         "description": description,
@@ -356,28 +301,28 @@ def create_episode_metadata(
         "duration": duration_seconds,
         "guid": guid,
     }
-    
+
     # Add episode image if provided
     if episode_image_url:
         metadata["image_url"] = episode_image_url
-    
+
     # Add newspaper URL if provided
     if newspaper_url:
         metadata["newspaper_url"] = newspaper_url
-    
+
     return metadata
 
 
 def _build_show_notes(
     date: datetime,
     config: dict,
-    items: Optional[list],
-    duration_seconds: Optional[float],
-    reading_items: Optional[list] = None,
-    newspaper_url: Optional[str] = None,
+    items: list | None,
+    duration_seconds: float | None,
+    reading_items: list | None = None,
+    newspaper_url: str | None = None,
 ) -> str:
     """Build rich show notes with summary and references.
-    
+
     Args:
         date: Episode date.
         config: Full configuration dictionary.
@@ -385,45 +330,45 @@ def _build_show_notes(
         duration_seconds: Duration in seconds.
         reading_items: List of reading list items (optional).
         newspaper_url: URL to the newspaper PDF (optional).
-    
+
     Returns:
         Formatted show notes string.
     """
     lines = []
-    
+
     # Add stories section if items provided - start immediately with content
     if items and len(items) > 0:
         lines.append("IN THIS EPISODE:")
         lines.append("")
-        
+
         for i, item in enumerate(items, 1):
             lines.append(f"{i}. {item.title}")
             lines.append(f"   Source: {item.source}")
-        
+
         lines.append("")
         lines.append("REFERENCES:")
         lines.append("")
-        
+
         for i, item in enumerate(items, 1):
             lines.append(f"{i}. {item.title}")
             lines.append(f"   {item.url}")
             lines.append("")
-    
+
     # Add reading list section if items provided
     if reading_items and len(reading_items) > 0:
         lines.append("READING LIST:")
         lines.append("Articles recommended for further reading")
         lines.append("")
-        
+
         for i, item in enumerate(reading_items, 1):
-            author_info = f" by {item.author}" if hasattr(item, 'author') and item.author else ""
+            author_info = f" by {item.author}" if hasattr(item, "author") and item.author else ""
             lines.append(f"{i}. {item.title}{author_info}")
             lines.append(f"   {item.url}")
             lines.append("")
-    
+
     # Add newspaper link at the end if available
     if newspaper_url:
         lines.append("---")
         lines.append(f"📰 Full newspaper edition: {newspaper_url}")
-    
+
     return "\n".join(lines)

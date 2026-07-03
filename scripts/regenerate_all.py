@@ -9,8 +9,8 @@ This is the main script to use after:
 Fast, reliable, single source of truth.
 """
 
-import sys
 import subprocess
+import sys
 from pathlib import Path
 
 SCRIPT_DIR = Path(__file__).parent
@@ -19,12 +19,10 @@ SCRIPT_DIR = Path(__file__).parent
 def run_script(script_name: str) -> bool:
     """Run a Python script and return success status."""
     script_path = SCRIPT_DIR / script_name
-    
+
     try:
         result = subprocess.run(
-            [sys.executable, str(script_path)],
-            check=True,
-            capture_output=False
+            [sys.executable, str(script_path)], check=True, capture_output=False
         )
         return result.returncode == 0
     except subprocess.CalledProcessError as e:
@@ -42,17 +40,17 @@ def main():
     print("  1. RSS feed (from podcast/episodes/*.json)")
     print("  2. Website pages (from templates/)")
     print()
-    
+
     # Step 1: Generate RSS feed
     print("[1/2] Generating RSS feed...")
     if not run_script("generate_feed.py"):
         return 1
-    
+
     # Step 2: Generate website
     print("\n[2/2] Generating website...")
     if not run_script("generate_site.py"):
         return 1
-    
+
     print("\n" + "=" * 70)
     print("✓ COMPLETE: All outputs regenerated")
     print("=" * 70)
@@ -64,7 +62,7 @@ def main():
     print("  - docs/docs.html")
     print()
     print("Ready to commit and deploy!")
-    
+
     return 0
 
 

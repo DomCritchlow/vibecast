@@ -10,7 +10,6 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from podcast.artwork.openai_provider import OpenAIArtworkProvider
 
-
 # Podcast cover prompt using our locked Bento style
 COVER_PROMPT = """Editorial collage illustration in a modern risograph / screenprint poster style.
 High-contrast cut-paper look: black ink + warm off-white paper + one accent color (burnt orange).
@@ -43,14 +42,14 @@ def main():
         print("ERROR: OPENAI_API_KEY environment variable not set")
         print("Run: export OPENAI_API_KEY='your-key-here'")
         sys.exit(1)
-    
+
     print("=" * 60)
     print("VIBECAST PODCAST COVER GENERATOR")
     print("Style: Risograph / Screenprint")
     print("Accent: Burnt Orange")
     print("=" * 60)
     print()
-    
+
     # Create provider with minimal config
     config = {
         "artwork": {
@@ -60,9 +59,9 @@ def main():
             "size": 1024,
         }
     }
-    
+
     provider = OpenAIArtworkProvider(config)
-    
+
     print("Generating podcast cover artwork...")
     print()
     print("Prompt preview:")
@@ -70,7 +69,7 @@ def main():
     print(COVER_PROMPT[:300] + "...")
     print("-" * 40)
     print()
-    
+
     try:
         # Generate the image
         image_bytes = provider.generate(
@@ -80,17 +79,17 @@ def main():
             seed=None,  # Random for variety
             negative_prompt=NEGATIVE_PROMPT,
         )
-        
+
         print(f"Generated image: {len(image_bytes):,} bytes")
-        
+
         # Save to docs/assets/images/
         output_dir = Path(__file__).parent.parent / "docs" / "assets" / "images"
         output_dir.mkdir(parents=True, exist_ok=True)
-        
+
         output_path = output_dir / "podcast-cover.png"
         with open(output_path, "wb") as f:
             f.write(image_bytes)
-        
+
         print(f"Saved to: {output_path}")
         print()
         print("SUCCESS! New podcast cover generated.")
@@ -99,7 +98,7 @@ def main():
         print("1. Review the image at docs/assets/images/podcast-cover.png")
         print("2. If you like it, you can use it as your podcast artwork")
         print("3. Run again for a different variation")
-        
+
     except Exception as e:
         print(f"ERROR: {e}")
         sys.exit(1)

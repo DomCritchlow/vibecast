@@ -9,16 +9,14 @@ This module provides audio enhancement filters to improve TTS output quality:
 Uses ffmpeg for processing. Requires ffmpeg to be installed.
 """
 
+import os
 import subprocess
 import tempfile
-import os
-from pathlib import Path
-from typing import Optional
 
 
 class AudioProcessor:
     """Post-process audio files with professional quality filters."""
-    
+
     PRESETS = {
         "none": {
             "description": "No processing (original TTS output)",
@@ -56,10 +54,10 @@ class AudioProcessor:
             ],
         },
     }
-    
+
     def __init__(self, preset: str = "fable_light"):
         """Initialize audio processor.
-        
+
         Args:
             preset: Processing preset name (none, fable_light, clarity, podcast)
         """
@@ -67,9 +65,9 @@ class AudioProcessor:
         if self.preset not in self.PRESETS:
             print(f"Warning: Unknown preset '{preset}', using 'fable_light'")
             self.preset = "fable_light"
-        
+
         self.ffmpeg_available = self._check_ffmpeg()
-    
+
     def _check_ffmpeg(self) -> bool:
         """Check if ffmpeg is available."""
         try:
@@ -86,14 +84,14 @@ class AudioProcessor:
         except (subprocess.SubprocessError, FileNotFoundError):
             print("Warning: ffmpeg not found. Audio processing disabled.")
             return False
-    
-    def process(self, audio_bytes: bytes, output_path: Optional[str] = None) -> bytes:
+
+    def process(self, audio_bytes: bytes, output_path: str | None = None) -> bytes:
         """Process audio with selected preset.
-        
+
         Args:
             audio_bytes: Input audio data (MP3)
             output_path: Optional path to save processed audio
-            
+
         Returns:
             Processed audio bytes (MP3)
         """
@@ -103,113 +101,112 @@ class AudioProcessor:
                 with open(output_path, "wb") as f:
                     f.write(audio_bytes)
             return audio_bytes
-        
+
         preset_config = self.PRESETS[self.preset]
         filters = preset_config["filters"]
-        
+
         if not filters:
             if output_path:
                 with open(output_path, "wb") as f:
                     f.write(audio_bytes)
             return audio_bytes
-        
+
         # Create temp files
         with tempfile.NamedTemporaryFile(suffix=".mp3", delete=False) as input_file:
             input_file.write(audio_bytes)
             input_path = input_file.name
-        
+
         try:
             # Determine output path
             if output_path:
                 final_output = output_path
             else:
-                output_file = tempfile.NamedTemporaryFile(suffix=".mp3", delete=False)
-                final_output = output_file.name
-                output_file.close()
-            
+                with tempfile.NamedTemporaryFile(suffix=".mp3", delete=False) as output_file:
+                    final_output = output_file.name
+
             # Build filter chain
             filter_chain = ",".join(filters)
-            
+
             # Run ffmpeg with 192k output
             cmd = [
                 "ffmpeg",
-                "-i", input_path,
-                "-af", filter_chain,
-                "-b:a", "192k",  # High-quality MP3 output
+                "-i",
+                input_path,
+                "-af",
+                filter_chain,
+                "-b:a",
+                "192k",  # High-quality MP3 output
                 "-y",
                 final_output,
             ]
-            
+
             result = subprocess.run(
                 cmd,
                 capture_output=True,
                 timeout=60,
             )
-            
+
             if result.returncode != 0:
-                print(f"Warning: ffmpeg processing failed")
+                print("Warning: ffmpeg processing failed")
                 return audio_bytes
-            
+
             # Read processed audio
             with open(final_output, "rb") as f:
                 processed_bytes = f.read()
-            
+
             # Clean up temp files
             os.unlink(input_path)
             if not output_path:
                 os.unlink(final_output)
-            
+
             return processed_bytes
-            
+
         except Exception as e:
             print(f"Warning: Audio processing failed: {e}")
             # Clean up
             if os.path.exists(input_path):
                 os.unlink(input_path)
             return audio_bytes
-    
+
     def process_file(self, input_path: str, output_path: str) -> bool:
         """Process an audio file.
-        
+
         Args:
             input_path: Path to input audio file
             output_path: Path to save processed audio
-            
+
         Returns:
             True if successful, False otherwise
         """
         try:
             with open(input_path, "rb") as f:
                 audio_bytes = f.read()
-            
+
             processed = self.process(audio_bytes, output_path)
             return len(processed) > 0
-            
+
         except Exception as e:
             print(f"Error processing file: {e}")
             return False
-    
+
     @classmethod
     def list_presets(cls) -> dict:
         """List all available presets with descriptions."""
-        return {
-            name: config["description"]
-            for name, config in cls.PRESETS.items()
-        }
+        return {name: config["description"] for name, config in cls.PRESETS.items()}
 
 
 def enhance_audio(
     audio_bytes: bytes,
     preset: str = "fable_light",
-    output_path: Optional[str] = None,
+    output_path: str | None = None,
 ) -> bytes:
     """Convenience function to enhance audio.
-    
+
     Args:
         audio_bytes: Input audio data (MP3)
         preset: Processing preset (none, fable_light, clarity, podcast)
         output_path: Optional path to save output
-        
+
     Returns:
         Enhanced audio bytes (MP3)
     """
@@ -227,4 +224,3 @@ if __name__ == "__main__":
     print("Usage:")
     print("  from podcast.audio_processing import enhance_audio")
     print("  enhanced = enhance_audio(audio_bytes, preset='clarity')")
-

@@ -14,7 +14,7 @@ from podcast.sources.base import ContentItem
 
 def create_sample_data():
     """Create sample episode data for testing."""
-    
+
     # Sample stories
     items = [
         ContentItem(
@@ -54,14 +54,14 @@ def create_sample_data():
             score=0.80,
         ),
     ]
-    
+
     # Sample reading list
     class ReadingListItem(ContentItem):
         def __init__(self, *args, author="", description="", **kwargs):
             super().__init__(*args, **kwargs)
             self.author = author
             self.description = description
-    
+
     reading_items = [
         ReadingListItem(
             title="Understanding Modern System Design",
@@ -80,9 +80,9 @@ def create_sample_data():
             published=datetime.now(),
         ),
     ]
-    
+
     weather_text = "Clear skies with a high of 68°F (20°C). Light breeze from the west. Perfect day for a morning walk."
-    
+
     return items, reading_items, weather_text
 
 
@@ -90,10 +90,10 @@ def main():
     """Generate test newspaper."""
     print("Generating test newspaper...")
     print()
-    
+
     # Load config
     from podcast.run_daily import load_config
-    
+
     try:
         config = load_config()
     except FileNotFoundError:
@@ -101,24 +101,24 @@ def main():
         print("Make sure you're running from the project root:")
         print("  python scripts/test_newspaper.py")
         return 1
-    
+
     # Create sample data
     items, reading_items, weather_text = create_sample_data()
-    
+
     # Generate HTML first (for quick preview)
     print("1. Generating HTML preview...")
-    
+
     # Use the default podcast artwork
     docs_dir = Path(__file__).parent.parent / "docs"
     default_artwork = docs_dir / "artwork.png"
-    
+
     # Convert to relative path for HTML
     if default_artwork.exists():
-        artwork_path = f"../artwork.png"
+        artwork_path = "../artwork.png"
     else:
         artwork_path = None
         print("  Warning: Default artwork not found, generating without image")
-    
+
     html_path = generate_newspaper_html(
         date=datetime.now(),
         items=items,
@@ -129,12 +129,12 @@ def main():
         episode_artwork_url=artwork_path,
         accent_color="#ff6b35",  # Burnt orange
     )
-    
+
     if html_path:
         print(f"   HTML preview: {html_path}")
         print(f"   Open in browser: file://{html_path.absolute()}")
         print()
-    
+
     # Generate PDF
     print("2. Generating PDF...")
     try:
@@ -148,7 +148,7 @@ def main():
             episode_artwork_url=artwork_path,
             accent_color="#ff6b35",  # Burnt orange
         )
-        
+
         if pdf_path:
             print(f"   PDF saved: {pdf_path}")
             print(f"   Open PDF: open {pdf_path}")
@@ -160,7 +160,7 @@ def main():
             print("- Open the PDF to see the print version")
             print("- Edit podcast/templates/newspaper.html to customize")
             print("- See NEWSPAPER_GUIDE.md for more options")
-    
+
     except ImportError:
         print()
         print("⚠️  WeasyPrint not installed.")
@@ -171,13 +171,13 @@ def main():
         print("Note: WeasyPrint requires system dependencies.")
         print("See NEWSPAPER_GUIDE.md for installation instructions.")
         return 1
-    
+
     except Exception as e:
         print(f"Error generating PDF: {e}")
         print()
         print("You can still preview the HTML version above.")
         return 1
-    
+
     return 0
 
 

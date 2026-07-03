@@ -1,16 +1,13 @@
 """Content sources for Vibecast."""
 
-from .base import ContentItem, BaseSource
+from .base import BaseSource, ContentItem
+from .rss import RSSSource, fetch_rss_items
 from .weather import fetch_weather
-from .rss import fetch_rss_items, RSSSource
-from .api import APISource
 
 __all__ = [
-    "ContentItem",
     "BaseSource",
-    "fetch_weather",
-    "fetch_rss_items",
+    "ContentItem",
     "RSSSource",
-    "APISource",
+    "fetch_rss_items",
+    "fetch_weather",
 ]
-

@@ -29,10 +29,10 @@ def get_base_url(feed_url: str) -> str:
 
 def get_template_context(config: dict) -> dict:
     """Build the template context from config.
-    
+
     Args:
         config: Full configuration dictionary.
-    
+
     Returns:
         Dictionary of template variables.
     """
@@ -43,15 +43,17 @@ def get_template_context(config: dict) -> dict:
     r2_config = storage.get("r2", {})
     sources_config = config.get("sources", {})
     tts_root_config = config.get("tts", {})
-    
+
     # Extract values with defaults
     title = podcast.get("title", "Vibecast")
     short_title = title.split(":")[0].strip() if ":" in title else title
     tagline = podcast.get("tagline", "A daily podcast of good news and good vibes.")
     author = podcast.get("author", "")
     author_url = podcast.get("author_url", "")
-    github_url = podcast.get("github_url") or config.get("github_url", "https://github.com/domcritchlow/vibecast")
-    
+    github_url = podcast.get("github_url") or config.get(
+        "github_url", "https://github.com/domcritchlow/vibecast"
+    )
+
     # Vibe-specific
     mood = vibe.get("mood", {})
     mood_primary = mood.get("primary", "uplifting")
@@ -62,10 +64,10 @@ def get_template_context(config: dict) -> dict:
     embrace = vibe.get("embrace", {})
     embrace_topics = embrace.get("topics", [])
     avoid_topics = vibe.get("avoid", {}).get("topics", [])
-    
+
     # Episode details
     target_minutes = episode_config.get("target_minutes", 4)
-    
+
     # TTS voice - check provider and get from the right place
     tts_provider = tts_root_config.get("provider", "openai")
     if tts_provider == "openai":
@@ -74,20 +76,20 @@ def get_template_context(config: dict) -> dict:
     else:  # elevenlabs
         elevenlabs_tts = tts_root_config.get("elevenlabs", {})
         tts_voice = elevenlabs_tts.get("voice_id", "rachel")
-    
+
     # Get enabled RSS sources with their URLs
     rss_sources = sources_config.get("rss", [])
     enabled_sources = [s for s in rss_sources if s.get("enabled", True)]
-    
+
     # Extract source info (name and base URL)
     source_info = [
         {"name": s.get("name", "Unknown"), "url": get_base_url(s.get("url", ""))}
         for s in enabled_sources
     ]
-    
+
     # R2 public URL for transcripts (from env or config)
     r2_public_url = os.environ.get("VIBECAST_R2_PUBLIC_URL", r2_config.get("public_base_url", ""))
-    
+
     # Voice descriptions (OpenAI TTS voices)
     voice_descriptions = {
         "alloy": "balanced & versatile",
@@ -105,10 +107,10 @@ def get_template_context(config: dict) -> dict:
         "verse": "natural & engaging",
     }
     voice_desc = voice_descriptions.get(tts_voice, "AI-narrated")
-    
+
     # Build embrace topics for features (pick first 3)
     topics_text = ", ".join(embrace_topics[:3]) if embrace_topics else "positive stories"
-    
+
     return {
         "title": title,
         "short_title": short_title,
@@ -135,7 +137,7 @@ def get_template_context(config: dict) -> dict:
 
 def ensure_asset_dirs(site_dir: Path) -> None:
     """Ensure asset directories exist.
-    
+
     Args:
         site_dir: Path to the site directory (docs/).
     """
@@ -146,53 +148,29 @@ def ensure_asset_dirs(site_dir: Path) -> None:
 
 
 def get_latest_newspaper_url(site_dir: Path) -> str:
-    """Get the latest newspaper PDF URL from the RSS feed.
-    
+    """Get the latest episode's newspaper PDF URL from the episode store.
+
     Args:
-        site_dir: Path to the site directory.
-    
+        site_dir: Unused; kept for backward compatibility.
+
     Returns:
         URL to latest newspaper PDF or empty string.
     """
-    import xml.etree.ElementTree as ET
-    
-    feed_path = site_dir / "feed.xml"
-    if not feed_path.exists():
+    from .episode_store import get_latest_episode
+
+    latest = get_latest_episode()
+    if not latest:
         return ""
-    
-    try:
-        tree = ET.parse(feed_path)
-        root = tree.getroot()
-        
-        # Find first item (latest episode)
-        items = root.findall(".//item")
-        if not items:
-            return ""
-        
-        latest_item = items[0]
-        
-        # Look for newspaper URL in description
-        description = latest_item.find("description")
-        if description is not None and description.text:
-            # Extract newspaper URL from description if it contains 📰 READ:
-            import re
-            match = re.search(r'📰 READ: (https?://[^\s]+)', description.text)
-            if match:
-                return match.group(1)
-        
-        return ""
-    except Exception as e:
-        print(f"Warning: Could not parse feed for newspaper URL: {e}")
-        return ""
+    return latest.get("media", {}).get("newspaper_url") or ""
 
 
 def save_site_pages(config: dict, site_dir: Path) -> None:
     """Generate and save all HTML pages to the site directory.
-    
+
     Args:
         config: Full configuration dictionary.
         site_dir: Path to the site directory.
-    
+
     Note:
         Individual episode pages are NOT generated as static HTML.
         Instead, a single dynamic episode.html page loads episode data
@@ -200,13 +178,13 @@ def save_site_pages(config: dict, site_dir: Path) -> None:
     """
     env = get_template_env()
     context = get_template_context(config)
-    
+
     # Add latest newspaper URL to context
     context["latest_newspaper_url"] = get_latest_newspaper_url(site_dir)
-    
+
     # Ensure asset directories exist
     ensure_asset_dirs(site_dir)
-    
+
     # Render and save main pages
     pages = ["index.html", "about.html", "docs.html", "art.html"]
     for page in pages:
@@ -220,7 +198,7 @@ def save_site_pages(config: dict, site_dir: Path) -> None:
 # Legacy function name for backward compatibility
 def save_index_html(config: dict, site_dir: Path) -> None:
     """Generate and save all HTML pages (legacy function name).
-    
+
     Args:
         config: Full configuration dictionary.
         site_dir: Path to the site directory.

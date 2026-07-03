@@ -1,8 +1,11 @@
 """Weather data fetching using Open-Meteo API (free, no API key required)."""
 
-import requests
+import logging
 from datetime import datetime
-from typing import Optional
+
+import httpx
+
+logger = logging.getLogger(__name__)
 
 
 # Weather code descriptions for Open-Meteo
@@ -44,24 +47,24 @@ def fetch_weather(
     units: str = "fahrenheit",
     include_forecast: bool = True,
     forecast_days: int = 1,
-) -> Optional[dict]:
+) -> dict | None:
     """Fetch weather data from Open-Meteo API.
-    
+
     Args:
         lat: Latitude of the location.
         lon: Longitude of the location.
         units: Temperature units - "fahrenheit" or "celsius".
         include_forecast: Whether to include forecast data.
         forecast_days: Number of forecast days (1-7).
-    
+
     Returns:
         Dictionary with weather data, or None if request fails.
     """
     # Build API URL
     base_url = "https://api.open-meteo.com/v1/forecast"
-    
+
     temp_unit = "fahrenheit" if units == "fahrenheit" else "celsius"
-    
+
     params = {
         "latitude": lat,
         "longitude": lon,
@@ -70,20 +73,20 @@ def fetch_weather(
         "wind_speed_unit": "mph",
         "timezone": "auto",
     }
-    
+
     if include_forecast:
-        params["daily"] = "weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max"
+        params["daily"] = (
+            "weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max"
+        )
         params["forecast_days"] = min(forecast_days, 7)
-    
+
     try:
-        response = requests.get(base_url, params=params, timeout=10)
+        response = httpx.get(base_url, params=params, timeout=10)
         response.raise_for_status()
-        data = response.json()
-        
-        return _parse_weather_response(data, units)
-    
-    except requests.RequestException as e:
-        print(f"Weather API error: {e}")
+        return _parse_weather_response(response.json(), units)
+
+    except httpx.HTTPError as e:
+        logger.warning("Weather API error: %s", e)
         return None
 
 
@@ -91,13 +94,13 @@ def _parse_weather_response(data: dict, units: str) -> dict:
     """Parse Open-Meteo API response into a friendly format."""
     current = data.get("current", {})
     daily = data.get("daily", {})
-    
+
     # Get current conditions
     weather_code = current.get("weather_code", 0)
     condition = WEATHER_CODES.get(weather_code, "unknown conditions")
-    
+
     temp_symbol = "°F" if units == "fahrenheit" else "°C"
-    
+
     result = {
         "current": {
             "temperature": current.get("temperature_2m"),
@@ -111,7 +114,7 @@ def _parse_weather_response(data: dict, units: str) -> dict:
         },
         "fetched_at": datetime.now().isoformat(),
     }
-    
+
     # Add forecast if available
     if daily and daily.get("time"):
         forecasts = []
@@ -120,7 +123,7 @@ def _parse_weather_response(data: dict, units: str) -> dict:
         highs = daily.get("temperature_2m_max", [])
         lows = daily.get("temperature_2m_min", [])
         precip = daily.get("precipitation_probability_max", [])
-        
+
         for i, time in enumerate(times):
             forecast = {
                 "date": time,
@@ -131,45 +134,45 @@ def _parse_weather_response(data: dict, units: str) -> dict:
                 "temp_unit": temp_symbol,
             }
             forecasts.append(forecast)
-        
+
         result["forecast"] = forecasts
-    
+
     return result
 
 
 def format_weather_for_script(weather: dict, location_name: str) -> str:
     """Format weather data into a natural language description for the script.
-    
+
     Args:
         weather: Parsed weather data from fetch_weather().
         location_name: Human-readable location name.
-    
+
     Returns:
         A natural language weather description.
     """
     if not weather or not weather.get("current"):
         return f"Weather information for {location_name} is currently unavailable."
-    
+
     current = weather["current"]
     temp = current.get("temperature")
     condition = current.get("condition", "")
     humidity = current.get("humidity")
     unit = current.get("temp_unit", "°F")
-    
+
     # Build current conditions string
     parts = []
-    
+
     if temp is not None:
         parts.append(f"It's currently {temp:.0f}{unit}")
-    
+
     if condition:
         parts.append(f"with {condition}")
-    
+
     if humidity is not None:
         parts.append(f"and {humidity}% humidity")
-    
+
     current_desc = " ".join(parts) if parts else ""
-    
+
     # Add forecast if available
     forecast_desc = ""
     if weather.get("forecast") and len(weather["forecast"]) > 0:
@@ -177,16 +180,15 @@ def format_weather_for_script(weather: dict, location_name: str) -> str:
         high = today.get("high")
         low = today.get("low")
         precip = today.get("precipitation_chance")
-        
+
         forecast_parts = []
         if high is not None and low is not None:
             forecast_parts.append(f"Today's high will be {high:.0f}{unit}, low of {low:.0f}{unit}")
-        
+
         if precip is not None and precip > 20:
             forecast_parts.append(f"with a {precip}% chance of precipitation")
-        
+
         if forecast_parts:
             forecast_desc = ". " + " ".join(forecast_parts)
-    
-    return f"In {location_name}: {current_desc}{forecast_desc}."
 
+    return f"In {location_name}: {current_desc}{forecast_desc}."

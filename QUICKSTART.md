@@ -106,9 +106,8 @@ Want to test locally before committing?
 
 ```bash
 # Setup
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
+# Install uv (once): curl -LsSf https://astral.sh/uv/install.sh | sh
+uv sync
 cp .env.example .env
 # Edit .env with your values
 
@@ -116,10 +115,10 @@ cp .env.example .env
 python check_config.py
 
 # Dry run (no API calls, free!)
-python -m podcast.run_daily --dry-run -v
+uv run python -m podcast.run_daily --dry-run -v
 
 # Real run (costs ~$0.05)
-python -m podcast.run_daily -v
+uv run python -m podcast.run_daily -v
 ```
 
 **Pro tip:** Run `python check_config.py` before your first real run to make sure everything is configured correctly!

@@ -2,9 +2,9 @@ name: Daily Podcast
 
 on:
   schedule:
-    # Run at 04:00 UTC daily = 05:00 CET (winter) / 06:00 CEST (summer)
+    # Run at 09:00 UTC daily = 05:00 EDT (summer) / 04:00 EST (winter) in New York
     # GitHub Actions uses UTC, so adjust for your timezone
-    - cron: "0 4 * * *"
+    - cron: "0 9 * * *"
   
   # Allow manual triggering from Actions tab
   workflow_dispatch:
@@ -32,48 +32,38 @@ jobs:
           persist-credentials: true
           fetch-depth: 1
       
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - name: Setup uv
+        uses: astral-sh/setup-uv@v5
         with:
-          python-version: "3.11"
-          cache: "pip"
-      
+          python-version: "3.13"
+          enable-cache: true
+
       - name: Setup FFmpeg (cached)
         uses: FedericoCarboni/setup-ffmpeg@v3
         with:
           ffmpeg-version: release
           github-token: ${{ github.server_url == 'https://github.com' && github.token || '' }}
-      
+
       - name: Install Python dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-      
+        run: uv sync --no-dev
+
       - name: Run daily podcast pipeline
         env:
           # Required API keys
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
           # Cloudflare R2 storage
           R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
           R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
           R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
-          # Personal settings (override config.yaml defaults)
-          VIBECAST_LOCATION_NAME: ${{ secrets.VIBECAST_LOCATION_NAME }}
-          VIBECAST_LOCATION_LAT: ${{ secrets.VIBECAST_LOCATION_LAT }}
-          VIBECAST_LOCATION_LON: ${{ secrets.VIBECAST_LOCATION_LON }}
-          VIBECAST_SITE_URL: ${{ secrets.VIBECAST_SITE_URL }}
-          VIBECAST_FEED_URL: ${{ secrets.VIBECAST_FEED_URL }}
-          VIBECAST_R2_PUBLIC_URL: ${{ secrets.VIBECAST_R2_PUBLIC_URL }}
-          VIBECAST_AUTHOR: ${{ secrets.VIBECAST_AUTHOR }}
-          VIBECAST_OWNER_EMAIL: ${{ secrets.VIBECAST_OWNER_EMAIL }}
-          VIBECAST_ARTWORK_URL: ${{ secrets.VIBECAST_ARTWORK_URL }}
-          VIBECAST_AUTHOR_URL: ${{ secrets.VIBECAST_AUTHOR_URL }}
+          # Personal settings live directly in podcast/config.yaml now;
+          # VIBECAST_* env vars remain supported as optional overrides.
         run: |
           if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
-            python -m podcast.run_daily --dry-run -v
+            uv run python -m podcast.run_daily --dry-run -v
           else
-            python -m podcast.run_daily -v
+            uv run python -m podcast.run_daily -v
           fi
       
       - name: Commit and push updates
@@ -93,7 +83,7 @@ jobs:
           else
             # Get today's date for commit message
             DATE=$(date +%Y-%m-%d)
-            git commit -m "🎙️ Daily episode: ${DATE}"
+            git commit -m "🎙️ Daily episode: ${DATE} [skip ci]"
             git push
           fi
       

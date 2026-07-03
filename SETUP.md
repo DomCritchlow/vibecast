@@ -120,15 +120,14 @@ Use [crontab.guru](https://crontab.guru/) to convert times.
 
 ```bash
 # Setup
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
+# Install uv (once): curl -LsSf https://astral.sh/uv/install.sh | sh
+uv sync
 cp .env.example .env
 # Edit .env with your values
 
 # Test
 set -a && source .env && set +a
-python -m podcast.run_daily --dry-run -v
+uv run python -m podcast.run_daily --dry-run -v
 ```
 
 ## 6. Subscribe

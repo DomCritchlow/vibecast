@@ -17,7 +17,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from podcast.run_daily import load_config
-from podcast.storage import upload_fallback_artwork_to_r2, check_r2_connection
+from podcast.storage import check_r2_connection, upload_fallback_artwork_to_r2
 
 
 def main():
@@ -27,14 +27,14 @@ def main():
         Path(__file__).parent.parent / "docs" / "AI_Gen_Image_Art.jpeg",
         Path(__file__).parent.parent / "docs" / "AI_Gen_Image_Art.png",
     ]
-    
+
     # Find the image
     image_path = None
     for path in possible_paths:
         if path.exists():
             image_path = path
             break
-    
+
     if not image_path:
         print("ERROR: Could not find fallback artwork image.")
         print("Expected one of:")
@@ -42,35 +42,35 @@ def main():
             print(f"  - {path}")
         print("\nPlease save your fallback image to one of these locations.")
         sys.exit(1)
-    
+
     print(f"Found fallback image: {image_path}")
-    
+
     # Load config
     print("Loading configuration...")
     config = load_config()
-    
+
     # Check R2 connection
     print("Checking R2 connection...")
     if not check_r2_connection(config):
         print("ERROR: Cannot connect to R2. Check your credentials.")
         sys.exit(1)
-    
+
     # Read the image
     print(f"Reading image ({image_path.stat().st_size} bytes)...")
     with open(image_path, "rb") as f:
         image_bytes = f.read()
-    
+
     # Upload to R2
     print("Uploading to R2...")
     artwork_config = config.get("artwork", {})
     fallback_key = artwork_config.get("r2_fallback_key", "static/default-episode-art.png")
     print(f"  Target key: {fallback_key}")
-    
+
     url = upload_fallback_artwork_to_r2(image_bytes, config)
-    
-    print(f"\n✓ Fallback artwork uploaded successfully!")
+
+    print("\n✓ Fallback artwork uploaded successfully!")
     print(f"  URL: {url}")
-    print(f"\nThis URL will be used when AI artwork generation fails.")
+    print("\nThis URL will be used when AI artwork generation fails.")
 
 
 if __name__ == "__main__":

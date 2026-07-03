@@ -1,7 +1,7 @@
 # Vibecast
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 
 **Your personalized AI podcast, generated daily and tailored to your vibe.**
 
@@ -24,10 +24,10 @@ RSS Feeds + Weather API
    Filter & Select
         │
         ▼
-   GPT-4o-mini ──► Script
+   Claude Opus 4.8 ──► Script
         │
         ▼
-   OpenAI TTS ──► MP3
+   TTS (OpenAI / ElevenLabs) ──► MP3
         │
         ├──► Cloudflare R2 (audio hosting)
         └──► GitHub Pages (RSS feed)
@@ -37,7 +37,7 @@ Every day at your scheduled time:
 
 1. **Gather** — Fetches weather and positive news from RSS feeds
 2. **Filter** — Removes negative content, prioritizes uplifting stories
-3. **Write** — AI generates a ~4 minute script matching your vibe
+3. **Write** — Claude Opus 4.8 writes a ~4 minute script matching your vibe (OpenAI fallback)
 4. **Speak** — Text-to-speech creates an MP3
 5. **Publish** — Uploads audio, updates RSS feed, regenerates landing page
 
@@ -45,9 +45,9 @@ Every day at your scheduled time:
 
 - **Riso, your AI host** — A warm, curious companion with real personality
 - **Risograph aesthetic** — Bold cut-paper visuals, halftone textures, editorial poster style
-- **AI-generated artwork** — Each episode gets unique risograph-style cover art via DALL-E
+- **AI-generated artwork** — Each episode gets unique risograph-style cover art via GPT-Image-2
 - **Vibe-configurable** — Change the entire personality via `config.yaml`
-- **Dual TTS providers** — OpenAI (default) or ElevenLabs, switchable via config
+- **Dual TTS providers** — OpenAI gpt-4o-mini-tts (default) or ElevenLabs eleven_v3, switchable via config
 - **Professional audio processing** — FFmpeg-based enhancement removes "tin-can" sound
 - **Multiple voices** — 6 OpenAI voices or 29+ ElevenLabs voices
 - **Smart filtering** — Block negative keywords, boost positive ones
@@ -98,9 +98,8 @@ location:
   lon: 0.0           # Your longitude
 ```
 
-Or use environment variables (recommended for privacy):
-- `VIBECAST_AUTHOR`
-- `VIBECAST_LOCATION_NAME`, `VIBECAST_LOCATION_LAT`, `VIBECAST_LOCATION_LON`
+Optionally, `VIBECAST_*` environment variables override any of these values
+(useful if you want to keep personal info out of a public fork).
 
 ### 3. Set up Cloudflare R2
 
@@ -116,7 +115,8 @@ Go to **Settings → Secrets → Actions** and add:
 
 | Secret | Description |
 |--------|-------------|
-| `OPENAI_API_KEY` | Your OpenAI API key |
+| `ANTHROPIC_API_KEY` | Anthropic API key (Claude writes the scripts; falls back to OpenAI if unset) |
+| `OPENAI_API_KEY` | Your OpenAI API key (TTS + artwork + writer fallback) |
 | `R2_ACCOUNT_ID` | Cloudflare account ID |
 | `R2_ACCESS_KEY_ID` | R2 API access key |
 | `R2_SECRET_ACCESS_KEY` | R2 API secret key |
@@ -127,20 +127,9 @@ Go to **Settings → Secrets → Actions** and add:
 |--------|-------------|
 | `ELEVENLABS_API_KEY` | ElevenLabs API key (only if using ElevenLabs TTS) |
 
-**Personal settings:**
-
-| Secret | Example |
-|--------|---------|
-| `VIBECAST_LOCATION_NAME` | `New York, NY` |
-| `VIBECAST_LOCATION_LAT` | `40.7128` |
-| `VIBECAST_LOCATION_LON` | `-74.0060` |
-| `VIBECAST_SITE_URL` | `https://user.github.io/vibecast/` |
-| `VIBECAST_FEED_URL` | `https://user.github.io/vibecast/feed.xml` |
-| `VIBECAST_R2_PUBLIC_URL` | `https://pub-xxx.r2.dev` |
-| `VIBECAST_AUTHOR` | `Your Name` |
-| `VIBECAST_AUTHOR_URL` | `https://yoursite.com` |
-| `VIBECAST_OWNER_EMAIL` | `you@example.com` |
-| `VIBECAST_ARTWORK_URL` | `https://user.github.io/vibecast/artwork.png` |
+**Personal settings:** live directly in `podcast/config.yaml` (author, email,
+site/feed URLs, location, R2 public URL). `VIBECAST_*` environment variables
+remain available as optional overrides if you want to keep values out of a fork.
 
 ### 4. Enable GitHub Pages
 
@@ -178,12 +167,9 @@ vibe:
 tts:
   provider: "openai"
   openai:
-    model: "tts-1-hd"  # tts-1 or tts-1-hd
-    voice: "nova"       # alloy, echo, fable, onyx, nova, shimmer
-    speed: 0.95         # 0.25 to 4.0
-  audio_processing:
-    enabled: true
-    preset: "clarity"   # Removes "tin-can" sound
+    model: "gpt-4o-mini-tts"  # current model, 13 voices
+    voice: "fable"            # marin/cedar = best quality
+    speed: 0.95               # 0.25 to 4.0
 ```
 
 | Voice | Character |
@@ -200,8 +186,8 @@ tts:
 tts:
   provider: "elevenlabs"
   elevenlabs:
-    voice_id: "rachel"                    # or emily, josh, adam, etc.
-    model_id: "eleven_turbo_v2_5"         # or eleven_multilingual_v2
+    voice_id: "rachel"            # or any voice-library ID
+    model_id: "eleven_v3"         # most expressive model
     stability: 0.5
     similarity_boost: 0.75
 ```
@@ -222,15 +208,15 @@ sources:
 
 ### Episode Artwork
 
-Vibecast generates unique risograph-style artwork for each episode using DALL-E:
+Vibecast generates unique risograph-style artwork for each episode using GPT-Image-2:
 
 ```yaml
 artwork:
   provider: "openai"
   openai:
-    model: "dall-e-3"
-    size: "1024x1024"
-    quality: "standard"
+    model: "gpt-image-2"
+  size: 1024
+  quality: "medium"
   accent_palette:
     - "#FF4500"  # Vermillion orange
     - "#1E90FF"  # Dodger blue
@@ -270,14 +256,14 @@ vibecast/
 │   │   ├── base.py           # ArtBrief/ArtworkResult types
 │   │   ├── brief.py          # AI brief generation
 │   │   ├── prompt.py         # Risograph prompt templates
-│   │   ├── generate.py       # DALL-E generation + upload
+│   │   ├── generate.py       # GPT-Image generation + upload
 │   │   └── providers/        # Image provider plugins
 │   ├── templates/            # Jinja2 HTML templates
 │   │   ├── base.html         # Shared layout (nav, footer)
 │   │   ├── index.html        # Homepage with episodes
 │   │   ├── about.html        # Meet Bento page
 │   │   └── docs.html         # Documentation page
-│   ├── writer.py             # AI script generation
+│   ├── writer.py             # Script generation (Claude Opus 4.8 / OpenAI)
 │   ├── tts/                  # TTS providers (pluggable)
 │   │   ├── __init__.py       # Factory & preprocessing
 │   │   ├── base.py           # Provider interface
@@ -310,12 +296,8 @@ vibecast/
 ## Local Development
 
 ```bash
-# Create virtual environment
-python3 -m venv venv
-source venv/bin/activate
-
-# Install dependencies
-pip install -r requirements.txt
+# Install uv (once): curl -LsSf https://astral.sh/uv/install.sh | sh
+uv sync
 
 # Copy and configure environment
 cp .env.example .env
@@ -323,10 +305,10 @@ cp .env.example .env
 
 # Run dry-run (no API costs)
 source .env
-python -m podcast.run_daily --dry-run -v
+uv run python -m podcast.run_daily --dry-run -v
 
 # Run for real
-python -m podcast.run_daily -v
+uv run python -m podcast.run_daily -v
 ```
 
 ## Cost
@@ -336,10 +318,12 @@ python -m podcast.run_daily -v
 | GitHub Actions | Free |
 | GitHub Pages | Free |
 | Cloudflare R2 | Free tier (10GB) |
-| OpenAI GPT-4o-mini | ~$0.01-0.02/episode |
-| OpenAI TTS | ~$0.03-0.10/episode |
+| Claude Opus 4.8 (script + title + art brief) | ~$0.05-0.10/episode |
+| OpenAI TTS (gpt-4o-mini-tts) | ~$0.03-0.10/episode |
+| OpenAI gpt-image-2 artwork (medium) | ~$0.04/episode |
+| ElevenLabs eleven_v3 (optional voice upgrade) | ~$0.50/episode |
 
-**Total: ~$1.50-4.50/month** for daily episodes
+**Total: ~$4-8/month** for daily episodes (up to ~$20/month with ElevenLabs)
 
 ## Example Configurations
 
@@ -370,7 +354,7 @@ Created something cool with Vibecast? We'd love to hear about it! Share in **[Di
 
 **Common Issues:**
 
-- **"No module named 'yaml'"** — Run `pip install -r requirements.txt`
+- **"No module named 'yaml'"** — Run `uv sync`
 - **"Permission denied" on R2** — Check your R2 credentials and bucket permissions
 - **"Low audio quality"** — Enable `audio_processing` in config and try the `clarity` preset
 - **"GitHub Action fails"** — Verify all secrets are set correctly
@@ -381,7 +365,7 @@ See [QUICKSTART.md](QUICKSTART.md#troubleshooting) for more help.
 
 - [x] AI host persona (Riso)
 - [x] Risograph visual design system
-- [x] AI-generated episode artwork (DALL-E)
+- [x] AI-generated episode artwork (GPT-Image-2)
 - [x] Jinja2 template architecture
 - [ ] Web UI for config editing
 - [ ] More TTS provider options (Azure, Google Cloud)
