@@ -38,11 +38,10 @@ jobs:
           python-version: "3.13"
           enable-cache: true
 
-      - name: Setup FFmpeg (cached)
-        uses: FedericoCarboni/setup-ffmpeg@v3
-        with:
-          ffmpeg-version: release
-          github-token: ${{ github.server_url == 'https://github.com' && github.token || '' }}
+      # apt instead of setup-ffmpeg: the action's johnvansickle.com release
+      # lookup is flaky and silently killed the 2026-06-28 and 2026-07-02 runs
+      - name: Setup FFmpeg
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
 
       - name: Install Python dependencies
         run: uv sync --no-dev
