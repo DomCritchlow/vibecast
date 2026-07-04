@@ -1,12 +1,5 @@
 {
   "url_timestamps": {
-    "https://arxiv.org/abs/2604.00356": "2026-04-05T05:47:48.126646",
-    "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright": "2026-04-05T05:47:48.126646",
-    "https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer": "2026-04-05T05:47:48.126646",
-    "https://www.wired.com/review/aiper-irrisense-2-smart-irrigation-system/": "2026-04-05T05:47:48.126646",
-    "https://www.nasa.gov/missions/nasa-answers-your-most-pressing-artemis-ii-questions/": "2026-04-05T05:47:48.126646",
-    "https://www.quantamagazine.org/new-advances-bring-the-era-of-quantum-computers-closer-than-ever-20260403/": "2026-04-05T05:47:48.126646",
-    "https://www.nature.com/articles/d41586-026-01103-9": "2026-04-05T05:47:48.126646",
     "https://news.ycombinator.com/item?id=47657432": "2026-04-06T06:01:24.833503",
     "https://science.nasa.gov/earth/earth-observatory/faster-detection-of-forest-loss/": "2026-04-06T06:01:24.833503",
     "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers": "2026-04-06T06:01:24.833503",
@@ -594,7 +587,14 @@
     "https://www.nature.com/articles/s41586-026-10844-6": "2026-07-03T22:16:08.590328",
     "https://www.nature.com/articles/s41586-026-10854-4": "2026-07-03T22:16:08.590328",
     "https://openai.com/index/how-chatgpt-adoption-has-expanded": "2026-07-03T22:16:08.590328",
-    "https://openai.com/index/genebench-pro/case-studies": "2026-07-03T22:16:08.590328"
+    "https://openai.com/index/genebench-pro/case-studies": "2026-07-03T22:16:08.590328",
+    "https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything": "2026-07-04T10:50:59.101234",
+    "https://nautil.us/synthetic-cells-to-sell-synthetic-biology-1282444/": "2026-07-04T10:50:59.101234",
+    "https://research.google/blog/research-into-how-ai-can-help-users-understand-skin-conditions/": "2026-07-04T10:50:59.101234",
+    "https://science.nasa.gov/missions/webb/nasas-webb-reveals-stars-sparking-to-life-in-cosmic-celebration/": "2026-07-04T10:50:59.101234",
+    "https://www.nasa.gov/humans-in-space/nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission/": "2026-07-04T10:50:59.101234",
+    "https://www.nature.com/articles/d41586-026-02034-1": "2026-07-04T10:50:59.101234",
+    "https://www.nature.com/articles/d41586-026-02108-0": "2026-07-04T10:50:59.101234"
   },
-  "last_run": "2026-07-03T22:16:08.590328"
+  "last_run": "2026-07-04T10:50:59.101234"
 }

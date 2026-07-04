@@ -8,7 +8,7 @@
     <link>https://domcritchlow.github.io/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jul 2026 22:18:47 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 10:53:26 -0000</lastBuildDate>
     <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://domcritchlow.github.io/vibecast/</link>
     </image>
     <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <item>
+      <title>DSPy SQL Agents &amp; NASA&#x27;s Cosmic Stars</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Using DSPy to evaluate and improve Datasette Agent's SQL system prompts
+   Source: Simon Willison
+2. Synthetic Cells to Sell Synthetic Biology
+   Source: Nautilus
+3. Research into how AI can help users understand skin conditions
+   Source: Google Research Blog
+4. NASA’s Webb Reveals Stars Sparking to Life in Cosmic Celebration
+   Source: NASA News
+5. NASA Seeks Volunteers for New Yearlong Simulated Moon, Mars Mission
+   Source: NASA News
+6. Neutrino’s nursery found: the ‘Shadow Blaster’
+   Source: Nature News
+7. Daily briefing: ‘Cyborg’ cockroaches breathe underwater with printed suit
+   Source: Nature News
+
+REFERENCES:
+
+1. Using DSPy to evaluate and improve Datasette Agent's SQL system prompts
+   https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything
+
+2. Synthetic Cells to Sell Synthetic Biology
+   https://nautil.us/synthetic-cells-to-sell-synthetic-biology-1282444/
+
+3. Research into how AI can help users understand skin conditions
+   https://research.google/blog/research-into-how-ai-can-help-users-understand-skin-conditions/
+
+4. NASA’s Webb Reveals Stars Sparking to Life in Cosmic Celebration
+   https://science.nasa.gov/missions/webb/nasas-webb-reveals-stars-sparking-to-life-in-cosmic-celebration/
+
+5. NASA Seeks Volunteers for New Yearlong Simulated Moon, Mars Mission
+   https://www.nasa.gov/humans-in-space/nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission/
+
+6. Neutrino’s nursery found: the ‘Shadow Blaster’
+   https://www.nature.com/articles/d41586-026-02034-1
+
+7. Daily briefing: ‘Cyborg’ cockroaches breathe underwater with printed suit
+   https://www.nature.com/articles/d41586-026-02108-0
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-04/newspaper.pdf]]></description>
+      <pubDate>Sat, 04 Jul 2026 10:50:59 -0000</pubDate>
+      <guid isPermaLink="false">2026-07-04</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-04.mp3" length="7503291" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Using DSPy to evaluate and improve Datasette Agent's SQL system prompts
+   Source: Simon Willison
+2. Synthetic Cells to Sell Synthetic Biology
+   Source: Nautilus
+3. Research into how AI can help users understand skin conditions
+   Source: Google Research Blog
+4. NASA’s Webb Reveals Stars Sparking to Life in Cosmic Celebration
+   Source: NASA News
+5. NASA Seeks Volunteers for New Yearlong Simulated Moon, Mars Mission
+   Source: NASA News
+6. Neutrino’s nursery found: the ‘Shadow Blaster’
+   Source: Nature News
+7. Daily briefing: ‘Cyborg’ cockroaches breathe underwater with printed suit
+   Source: Nature News
+
+REFERENCES:
+
+1. Using DSPy to evaluate and improve Datasette Agent's SQL system prompts
+   https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything
+
+2. Synthetic Cells to Sell Synthetic Biology
+   https://nautil.us/synthetic-cells-to-sell-synthetic-biology-1282444/
+
+3. Research into how AI can help users understand skin conditions
+   https://research.google/blog/research-into-how-ai-can-help-users-understand-skin-conditions/
+
+4. NASA’s Webb Reveals Stars Sparking to Life in Cosmic Celebration
+   https://science.nasa.gov/missions/webb/nasas-webb-reveals-stars-sparking-to-life-in-cosmic-celebration/
+
+5. NASA Seeks Volunteers for New Yearlong Simulated Moon, Mars Mission
+   https://www.nasa.gov/humans-in-space/nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission/
+
+6. Neutrino’s nursery found: the ‘Shadow Blaster’
+   https://www.nature.com/articles/d41586-026-02034-1
+
+7. Daily briefing: ‘Cyborg’ cockroaches breathe underwater with printed suit
+   https://www.nature.com/articles/d41586-026-02108-0
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-04/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>6:16</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-04/episode-art.png"/>
+    </item>
     <item>
       <title>DeepMind x A24 &amp; Anthropic&#x27;s Claude Science Launch</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:40</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-01/episode-art.png"/>
-    </item>
-    <item>
-      <title>Microsoft Threats &amp; AI Breakthroughs at Boston Children’s</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Microsoft is threatening legal action for disclosing exploits
-   Source: The Verge
-2. Keychron K2 HE Concrete Edition Review: Rock-Solid Typing
-   Source: Wired
-3. Millions of Bees Have Thrived Under a New York Cemetery for More Than a Century
-   Source: Wired
-4. Blood-Clotting Research, Spacewalk Cleanup Wrap Up Week on Space Station
-   Source: NASA Science
-5. Boston Children’s uses AI to unlock new diagnoses
-   Source: OpenAI News
-6. How Braintrust turns customer requests into code with Codex
-   Source: OpenAI News
-7. Introducing Google Antigravity 2.0
-   Source: DeepMind Blog
-
-REFERENCES:
-
-1. Microsoft is threatening legal action for disclosing exploits
-   https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability
-
-2. Keychron K2 HE Concrete Edition Review: Rock-Solid Typing
-   https://www.wired.com/review/keychron-k2-he-concrete-edition/
-
-3. Millions of Bees Have Thrived Under a New York Cemetery for More Than a Century
-   https://www.wired.com/story/millions-of-bees-have-thrived-under-a-new-york-cemetery-for-more-than-a-century/
-
-4. Blood-Clotting Research, Spacewalk Cleanup Wrap Up Week on Space Station
-   https://www.nasa.gov/blogs/spacestation/2026/05/29/blood-clotting-research-spacewalk-cleanup-wrap-up-week-on-space-station/
-
-5. Boston Children’s uses AI to unlock new diagnoses
-   https://openai.com/index/boston-childrens-hospital
-
-6. How Braintrust turns customer requests into code with Codex
-   https://openai.com/index/braintrust
-
-7. Introducing Google Antigravity 2.0
-   https://deepmind.google/blog/introducing-google-antigravity-2-0/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-31/newspaper.pdf]]></description>
-      <pubDate>Sun, 31 May 2026 07:47:20 -0000</pubDate>
-      <guid isPermaLink="false">2026-05-31</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-31.mp3" length="7812369" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Microsoft is threatening legal action for disclosing exploits
-   Source: The Verge
-2. Keychron K2 HE Concrete Edition Review: Rock-Solid Typing
-   Source: Wired
-3. Millions of Bees Have Thrived Under a New York Cemetery for More Than a Century
-   Source: Wired
-4. Blood-Clotting Research, Spacewalk Cleanup Wrap Up Week on Space Station
-   Source: NASA Science
-5. Boston Children’s uses AI to unlock new diagnoses
-   Source: OpenAI News
-6. How Braintrust turns customer requests into code with Codex
-   Source: OpenAI News
-7. Introducing Google Antigravity 2.0
-   Source: DeepMind Blog
-
-REFERENCES:
-
-1. Microsoft is threatening legal action for disclosing exploits
-   https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability
-
-2. Keychron K2 HE Concrete Edition Review: Rock-Solid Typing
-   https://www.wired.com/review/keychron-k2-he-concrete-edition/
-
-3. Millions of Bees Have Thrived Under a New York Cemetery for More Than a Century
-   https://www.wired.com/story/millions-of-bees-have-thrived-under-a-new-york-cemetery-for-more-than-a-century/
-
-4. Blood-Clotting Research, Spacewalk Cleanup Wrap Up Week on Space Station
-   https://www.nasa.gov/blogs/spacestation/2026/05/29/blood-clotting-research-spacewalk-cleanup-wrap-up-week-on-space-station/
-
-5. Boston Children’s uses AI to unlock new diagnoses
-   https://openai.com/index/boston-childrens-hospital
-
-6. How Braintrust turns customer requests into code with Codex
-   https://openai.com/index/braintrust
-
-7. Introducing Google Antigravity 2.0
-   https://deepmind.google/blog/introducing-google-antigravity-2-0/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-31/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>5:09</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-05-31/episode-art.png"/>
     </item>
   </channel>
 </rss>
