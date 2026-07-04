@@ -76,9 +76,13 @@ podcast:
   category: "News"
   subcategory: "Daily News"
   explicit: "no"
-  artwork_url: "https://domcritchlow.github.io/vibecast/artwork.png"
-  site_url: "https://domcritchlow.github.io/vibecast/"
-  feed_url: "https://domcritchlow.github.io/vibecast/feed.xml"
+  # critchlow.us became the canonical Pages domain on 2026-07-03 (custom
+  # domain on the user site; project pages inherit it). The old
+  # domcritchlow.github.io URLs now 301 here — but to http://, so podcast
+  # apps must subscribe to these https URLs directly.
+  artwork_url: "https://critchlow.us/vibecast/artwork.png"
+  site_url: "https://critchlow.us/vibecast/"
+  feed_url: "https://critchlow.us/vibecast/feed.xml"
   github_url: "https://github.com/domcritchlow/vibecast"  # Link shown in footer
 
 # =============================================================================

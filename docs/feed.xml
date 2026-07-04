@@ -5,11 +5,11 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Vibecast: Morning Thread</title>
-    <link>https://domcritchlow.github.io/vibecast/</link>
+    <link>https://critchlow.us/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jul 2026 10:53:26 -0000</lastBuildDate>
-    <atom:link href="https://domcritchlow.github.io/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sat, 04 Jul 2026 08:14:54 -0000</lastBuildDate>
+    <atom:link href="https://critchlow.us/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -22,11 +22,11 @@
       <itunes:category text="Daily News"/>
     </itunes:category>
     <image>
-      <url>https://domcritchlow.github.io/vibecast/artwork.png</url>
+      <url>https://critchlow.us/vibecast/artwork.png</url>
       <title>Vibecast: Morning Thread</title>
-      <link>https://domcritchlow.github.io/vibecast/</link>
+      <link>https://critchlow.us/vibecast/</link>
     </image>
-    <itunes:image href="https://domcritchlow.github.io/vibecast/artwork.png"/>
+    <itunes:image href="https://critchlow.us/vibecast/artwork.png"/>
     <item>
       <title>DSPy SQL Agents &amp; NASA&#x27;s Cosmic Stars</title>
       <description><![CDATA[IN THIS EPISODE:
