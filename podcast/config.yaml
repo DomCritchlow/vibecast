@@ -140,9 +140,9 @@ sources:
       trust_score: 0.95
       tags: ["ai", "research"]
 
-    - name: "Google AI Blog"
-      url: "https://blog.research.google/feeds/posts/default"
-      enabled: false  # DNS lookup error
+    - name: "Google Research Blog"
+      url: "https://research.google/blog/rss/"
+      enabled: true   # replaces dead blog.research.google feed (frozen at 2024)
       max_items: 2
       trust_score: 0.95
       tags: ["ai", "research"]
@@ -220,12 +220,46 @@ sources:
       trust_score: 0.90
       tags: ["tech", "analysis"]
 
-    - name: "Hacker News (AI filtered)"
-      url: "https://hnrss.org/newest?q=AI+OR+LLM+OR+agent+OR+robot"
+    - name: "Hacker News (front page)"
+      # Community-validated top stories beat the keyword-filtered "newest"
+      # firehose — same hnrss infrastructure, far better signal.
+      url: "https://hnrss.org/best"
       enabled: true
       max_items: 2
-      trust_score: 0.75
+      trust_score: 0.80
       tags: ["ai", "tech", "discussion"]
+
+    # ==========================================================================
+    # INDEPENDENT VOICES (Analysis, not press releases)
+    # ==========================================================================
+
+    - name: "Simon Willison"
+      url: "https://simonwillison.net/atom/everything/"
+      enabled: true
+      max_items: 2
+      trust_score: 0.90
+      tags: ["ai", "analysis", "open-source"]
+
+    - name: "Understanding AI"
+      url: "https://www.understandingai.org/feed"
+      enabled: true
+      max_items: 1
+      trust_score: 0.90
+      tags: ["ai", "analysis"]
+
+    - name: "One Useful Thing"
+      url: "https://www.oneusefulthing.org/feed"
+      enabled: true
+      max_items: 1
+      trust_score: 0.85
+      tags: ["ai", "analysis"]
+
+    - name: "Stratechery (free)"
+      url: "https://stratechery.com/feed/"
+      enabled: true
+      max_items: 1
+      trust_score: 0.90
+      tags: ["tech", "analysis"]
 
     # ==========================================================================
     # SPACE & SCIENCE
@@ -240,6 +274,13 @@ sources:
 
     - name: "NASA JPL News"
       url: "https://www.jpl.nasa.gov/feeds/news/"
+      enabled: false  # JPL now 403s non-browser user agents; NASA News covers it
+      max_items: 2
+      trust_score: 0.95
+      tags: ["space", "research"]
+
+    - name: "NASA News"
+      url: "https://www.nasa.gov/feed/"
       enabled: true
       max_items: 2
       trust_score: 0.95
@@ -247,10 +288,17 @@ sources:
 
     - name: "Space.com"
       url: "https://www.space.com/feeds/all"
-      enabled: true
+      enabled: false  # Overlaps NASA feeds; SpaceNews covers the industry angle
       max_items: 1
       trust_score: 0.80
       tags: ["space"]
+
+    - name: "SpaceNews"
+      url: "https://spacenews.com/feed/"
+      enabled: true
+      max_items: 1
+      trust_score: 0.85
+      tags: ["space", "industry"]
 
     - name: "Quanta Magazine"
       url: "https://www.quantamagazine.org/feed/"
@@ -261,6 +309,13 @@ sources:
 
     - name: "Nature News"
       url: "https://www.nature.com/nature.rss"
+      enabled: true
+      max_items: 1
+      trust_score: 0.95
+      tags: ["science", "research"]
+
+    - name: "Science.org News"
+      url: "https://www.science.org/rss/news_current.xml"
       enabled: true
       max_items: 1
       trust_score: 0.95
@@ -278,29 +333,53 @@ sources:
       tags: ["constructive"]
 
     # ==========================================================================
-    # PERSONAL INTERESTS
+    # VARIETY — PERSONAL INTERESTS (beyond the AI beat)
+    # Tagged "variety": filters.variety below guarantees these a daily slot
+    # so the show isn't wall-to-wall AI. Low trust scores keep them from
+    # taking more than that slot on a busy news day.
     # ==========================================================================
-    
+
     - name: "iRunFar"
       url: "https://www.irunfar.com/feed"
-      enabled: false  # Disable if not relevant to you
+      enabled: true
       max_items: 1
-      trust_score: 0.80
-      tags: ["running", "fitness"]
-
-    - name: "Dezeen"
-      url: "https://www.dezeen.com/feed/"
-      enabled: false  # Disable if not relevant to you
-      max_items: 1
-      trust_score: 0.80
-      tags: ["design"]
+      trust_score: 0.75
+      tags: ["running", "fitness", "variety"]
 
     - name: "Gothamist (NYC)"
       url: "https://gothamist.com/feed"
-      enabled: false  # Disable if not relevant to you
+      enabled: true
       max_items: 1
       trust_score: 0.75
-      tags: ["nyc", "local"]
+      tags: ["nyc", "local", "variety"]
+
+    - name: "Atlas Obscura"
+      url: "https://www.atlasobscura.com/feeds/latest"
+      enabled: true
+      max_items: 1
+      trust_score: 0.75
+      tags: ["curiosity", "culture", "variety"]
+
+    - name: "Nautilus"
+      url: "https://nautil.us/feed/"
+      enabled: true
+      max_items: 1
+      trust_score: 0.80
+      tags: ["science", "essays", "variety"]
+
+    - name: "99% Invisible"
+      url: "https://99percentinvisible.org/feed/"
+      enabled: true
+      max_items: 1
+      trust_score: 0.80
+      tags: ["design", "stories", "variety"]
+
+    - name: "Dezeen"
+      url: "https://www.dezeen.com/feed/"
+      enabled: false  # Very high volume (50/day) of project roundups; weak fit
+      max_items: 1
+      trust_score: 0.80
+      tags: ["design", "variety"]
 
   # ===========================================================================
   # READING LIST - Long-form articles mentioned but not summarized
@@ -428,6 +507,14 @@ artwork:
 filters:
   global_max_items: 7
   max_per_source: 2
+
+  # Guarantee personal-interest stories a presence: reserve N of the
+  # global_max_items slots for sources tagged with one of these tags
+  # (when they have fresh items). Without this, variety feeds rarely hit
+  # boost keywords and would lose to AI/science sources every day.
+  variety:
+    slots: 1
+    tags: ["variety"]
 
   # How long a used URL blocks re-use (state.json is pruned past this window)
   url_retention_days: 90

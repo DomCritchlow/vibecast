@@ -295,10 +295,13 @@ def step_content(config: dict, used_urls: set[str]) -> tuple[list[ContentItem], 
     )
     logger.info("After filtering: %d items", len(filtered))
 
+    variety = filters.get("variety", {})
     selected = select_items(
         items=filtered,
         max_items=filters.get("global_max_items", 6),
         max_per_source=filters.get("max_per_source", 2),
+        variety_tags=variety.get("tags", []),
+        variety_slots=variety.get("slots", 0),
     )
     for item in selected:
         logger.info("Selected: [%s] %s", item.source, item.title[:60])

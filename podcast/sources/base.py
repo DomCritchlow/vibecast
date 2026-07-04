@@ -106,13 +106,14 @@ def filter_items(
         if blocked:
             continue
 
-        # Calculate score based on boost keywords
+        # Add boost-keyword hits on top of the source's trust score
+        # (item.score arrives seeded with trust_score from the source)
         score = 0.0
         for keyword in boost_keywords:
             if keyword.lower() in text:
                 score += 1.0
 
-        item.score = score
+        item.score += score
         filtered.append(item)
 
     # Sort by score (highest first)
@@ -125,6 +126,8 @@ def select_items(
     items: list[ContentItem],
     max_items: int,
     max_per_source: int,
+    variety_tags: list[str] | None = None,
+    variety_slots: int = 0,
 ) -> list[ContentItem]:
     """Select final items ensuring source diversity.
 
@@ -132,6 +135,10 @@ def select_items(
         items: Pre-filtered and scored items.
         max_items: Maximum total items to select.
         max_per_source: Maximum items per source.
+        variety_tags: Tags marking "variety" sources (personal interests).
+        variety_slots: Guarantee this many variety-tagged items in the
+            selection (when any are available), replacing the
+            lowest-scored non-variety picks if needed.
 
     Returns:
         Selected list of content items.
@@ -151,4 +158,48 @@ def select_items(
         selected.append(item)
         source_counts[item.source] = current_count + 1
 
+    if variety_tags and variety_slots > 0:
+        _reserve_variety_slots(
+            selected, items, source_counts, set(variety_tags), variety_slots, max_per_source
+        )
+
     return selected
+
+
+def _reserve_variety_slots(
+    selected: list[ContentItem],
+    items: list[ContentItem],
+    source_counts: dict[str, int],
+    variety_tags: set[str],
+    variety_slots: int,
+    max_per_source: int,
+) -> None:
+    """Swap lowest-scored non-variety picks for top variety items (in place).
+
+    Variety sources (personal interests, local news) rarely hit boost
+    keywords and carry lower trust scores, so pure score ranking would
+    shut them out every day. This guarantees them a small presence.
+    """
+
+    def is_variety(item: ContentItem) -> bool:
+        return bool(variety_tags.intersection(item.tags))
+
+    have = sum(1 for item in selected if is_variety(item))
+    need = variety_slots - have
+    if need <= 0:
+        return
+
+    candidates = [item for item in items if is_variety(item) and item not in selected]
+    # Walk replaceable picks from the bottom of the ranking upward
+    replaceable = [item for item in reversed(selected) if not is_variety(item)]
+
+    for candidate in candidates:
+        if need <= 0 or not replaceable:
+            break
+        if source_counts.get(candidate.source, 0) >= max_per_source:
+            continue
+        victim = replaceable.pop(0)
+        selected[selected.index(victim)] = candidate
+        source_counts[victim.source] -= 1
+        source_counts[candidate.source] = source_counts.get(candidate.source, 0) + 1
+        need -= 1
