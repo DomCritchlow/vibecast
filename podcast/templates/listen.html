@@ -1,0 +1,69 @@
+{% extends "base.html" %}
+
+{% block title %}Listen — {{ short_title }}{% endblock %}
+
+{% block head %}
+<meta name="robots" content="noindex">
+<style>
+    .listen-hero {
+        max-width: 32rem;
+        margin: 0 auto;
+        padding: 4rem 1.5rem;
+        text-align: center;
+    }
+    .listen-art {
+        width: 12rem;
+        height: 12rem;
+        border-radius: 0.75rem;
+        object-fit: cover;
+        margin-bottom: 1.5rem;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+    }
+    .listen-actions {
+        display: flex;
+        flex-direction: column;
+        gap: 0.75rem;
+        margin-top: 2rem;
+    }
+    .listen-note {
+        margin-top: 1.5rem;
+        font-size: 0.85rem;
+        opacity: 0.7;
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="listen-hero">
+    <img class="listen-art" src="artwork.png" alt="{{ short_title }} artwork">
+    <h1>Opening Overcast…</h1>
+    <p>Today's episode is at the top of the show.</p>
+    <div class="listen-actions">
+        <a class="btn btn-primary" href="{{ overcast_add_url }}">🎧 Open in Overcast</a>
+        <a class="btn btn-secondary" href="index.html">Listen on the web instead</a>
+        <button class="btn btn-secondary" onclick="copyFeed(this)">Copy RSS feed URL</button>
+    </div>
+    <p class="listen-note">
+        If nothing happened, you may not have Overcast installed — the feed URL
+        works in any podcast app.
+    </p>
+</div>
+
+<script>
+    // Telegram (and other chat apps) can only link to https URLs, so this
+    // page is the hand-off: land here, bounce straight into the Overcast app.
+    // Overcast's add?url= opens the show page directly when already subscribed.
+    (function () {
+        var isApple = /iPhone|iPad|iPod|Macintosh/.test(navigator.userAgent);
+        if (isApple) {
+            window.location.href = "{{ overcast_add_url }}";
+        }
+    })();
+
+    function copyFeed(btn) {
+        navigator.clipboard.writeText("{{ feed_url }}").then(function () {
+            btn.textContent = "Copied ✓";
+        });
+    }
+</script>
+{% endblock %}

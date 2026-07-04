@@ -3,7 +3,7 @@
 import os
 from datetime import datetime
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import quote, urlparse
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
@@ -90,6 +90,10 @@ def get_template_context(config: dict) -> dict:
     # R2 public URL for transcripts (from env or config)
     r2_public_url = os.environ.get("VIBECAST_R2_PUBLIC_URL", r2_config.get("public_base_url", ""))
 
+    # Feed URL + Overcast deep link for the listen.html hand-off page
+    feed_url = os.environ.get("VIBECAST_FEED_URL", podcast.get("feed_url", ""))
+    overcast_add_url = f"overcast://x-callback-url/add?url={quote(feed_url, safe='')}"
+
     # Voice descriptions (OpenAI TTS voices)
     voice_descriptions = {
         "alloy": "balanced & versatile",
@@ -131,6 +135,8 @@ def get_template_context(config: dict) -> dict:
         "topics_text": topics_text,
         "source_info": source_info,
         "r2_public_url": r2_public_url,
+        "feed_url": feed_url,
+        "overcast_add_url": overcast_add_url,
         "current_year": datetime.now().year,
     }
 
@@ -186,7 +192,7 @@ def save_site_pages(config: dict, site_dir: Path) -> None:
     ensure_asset_dirs(site_dir)
 
     # Render and save main pages
-    pages = ["index.html", "about.html", "docs.html", "art.html"]
+    pages = ["index.html", "about.html", "docs.html", "art.html", "listen.html"]
     for page in pages:
         template = env.get_template(page)
         html = template.render(**context)

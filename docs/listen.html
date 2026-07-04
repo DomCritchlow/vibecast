@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listen — Vibecast</title>
+    <meta name="description" content="Tech, science, and what&#39;s actually interesting">
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="alternate" type="application/rss+xml" title="Vibecast: Morning Thread RSS Feed" href="feed.xml">
+    
+    <!-- Google Fonts: Fraunces (headings) + Inter (body) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700;9..144,900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Design System + Components + Pages -->
+    <link rel="stylesheet" href="assets/css/design-system.css">
+    <link rel="stylesheet" href="assets/css/components.css">
+    <link rel="stylesheet" href="assets/css/pages.css">
+    
+    
+<meta name="robots" content="noindex">
+<style>
+    .listen-hero {
+        max-width: 32rem;
+        margin: 0 auto;
+        padding: 4rem 1.5rem;
+        text-align: center;
+    }
+    .listen-art {
+        width: 12rem;
+        height: 12rem;
+        border-radius: 0.75rem;
+        object-fit: cover;
+        margin-bottom: 1.5rem;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+    }
+    .listen-actions {
+        display: flex;
+        flex-direction: column;
+        gap: 0.75rem;
+        margin-top: 2rem;
+    }
+    .listen-note {
+        margin-top: 1.5rem;
+        font-size: 0.85rem;
+        opacity: 0.7;
+    }
+</style>
+
+</head>
+<body>
+    <div class="page">
+        <!-- Navigation -->
+        <nav class="nav">
+            <div class="nav-inner">
+                <div class="nav-brand">
+                    <a href="index.html" class="nav-logo">Vibecast</a>
+                    <span class="nav-host">with <strong>Bento</strong></span>
+                </div>
+                <button class="nav-toggle" aria-label="Toggle navigation" onclick="toggleNav()">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <line x1="3" y1="6" x2="21" y2="6"></line>
+                        <line x1="3" y1="12" x2="21" y2="12"></line>
+                        <line x1="3" y1="18" x2="21" y2="18"></line>
+                    </svg>
+                </button>
+                <ul class="nav-links" id="nav-links">
+                    <li><a href="index.html" class="nav-link ">Home</a></li>
+                    <li><a href="about.html" class="nav-link ">About</a></li>
+                    <li><a href="docs.html" class="nav-link ">Docs</a></li>
+                    <li><a href="art.html" class="nav-link ">Art</a></li>
+                </ul>
+            </div>
+        </nav>
+        
+        <!-- Main Content -->
+        <main class="page-main">
+            
+<div class="listen-hero">
+    <img class="listen-art" src="artwork.png" alt="Vibecast artwork">
+    <h1>Opening Overcast…</h1>
+    <p>Today's episode is at the top of the show.</p>
+    <div class="listen-actions">
+        <a class="btn btn-primary" href="overcast://x-callback-url/add?url=https%3A%2F%2Fdomcritchlow.github.io%2Fvibecast%2Ffeed.xml">🎧 Open in Overcast</a>
+        <a class="btn btn-secondary" href="index.html">Listen on the web instead</a>
+        <button class="btn btn-secondary" onclick="copyFeed(this)">Copy RSS feed URL</button>
+    </div>
+    <p class="listen-note">
+        If nothing happened, you may not have Overcast installed — the feed URL
+        works in any podcast app.
+    </p>
+</div>
+
+<script>
+    // Telegram (and other chat apps) can only link to https URLs, so this
+    // page is the hand-off: land here, bounce straight into the Overcast app.
+    // Overcast's add?url= opens the show page directly when already subscribed.
+    (function () {
+        var isApple = /iPhone|iPad|iPod|Macintosh/.test(navigator.userAgent);
+        if (isApple) {
+            window.location.href = "overcast://x-callback-url/add?url=https%3A%2F%2Fdomcritchlow.github.io%2Fvibecast%2Ffeed.xml";
+        }
+    })();
+
+    function copyFeed(btn) {
+        navigator.clipboard.writeText("https://domcritchlow.github.io/vibecast/feed.xml").then(function () {
+            btn.textContent = "Copied ✓";
+        });
+    }
+</script>
+
+        </main>
+        
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="container footer-inner">
+                <div class="footer-brand">Vibecast</div>
+                <div class="footer-links">
+                    <a href="index.html" class="footer-link">Home</a>
+                    <a href="about.html" class="footer-link">About</a>
+                    <a href="docs.html" class="footer-link">Docs</a>
+                    
+                    <a href="https://github.com/domcritchlow/vibecast" class="footer-link" target="_blank" rel="noopener">GitHub</a>
+                    
+                </div>
+                <div class="footer-copy">© 2026 Dominic</div>
+            </div>
+        </footer>
+    </div>
+    
+    <!-- Transcript/Show Notes Modal -->
+    <div class="modal-overlay" id="transcript-modal">
+        <div class="modal">
+            <div class="modal-header">
+                <h3 class="modal-title" id="modal-title">Transcript</h3>
+                <button class="modal-close" onclick="closeModal()">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div id="modal-content"></div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        // Navigation toggle for mobile
+        function toggleNav() {
+            document.getElementById('nav-links').classList.toggle('open');
+        }
+        
+        // Modal functions
+        function openModal(title, content) {
+            const modal = document.getElementById('transcript-modal');
+            document.getElementById('modal-title').textContent = title;
+            document.getElementById('modal-content').innerHTML = content;
+            modal.classList.add('active');
+            document.body.style.overflow = 'hidden';
+        }
+        
+        function closeModal() {
+            document.getElementById('transcript-modal').classList.remove('active');
+            document.body.style.overflow = '';
+        }
+        
+        // Close modal on overlay click or Escape key
+        document.getElementById('transcript-modal').addEventListener('click', (e) => {
+            if (e.target.classList.contains('modal-overlay')) closeModal();
+        });
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') closeModal();
+        });
+        
+        // Utility: escape HTML
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+        
+        // Utility: convert URLs to links
+        function linkify(text) {
+            return text.split(' ').map(word => {
+                if (word.startsWith('http://') || word.startsWith('https://')) {
+                    return `<a href="${word}" target="_blank" rel="noopener">${word}</a>`;
+                }
+                return word;
+            }).join(' ');
+        }
+        
+        // Format text for display
+        function formatTextForDisplay(text) {
+            const escaped = escapeHtml(text);
+            const linked = linkify(escaped);
+            return linked.split('\n').join('<br>');
+        }
+        
+        // Copy to clipboard
+        function copyToClipboard(el) {
+            navigator.clipboard.writeText(el.textContent);
+            const original = el.textContent;
+            el.textContent = 'Copied!';
+            setTimeout(() => el.textContent = original, 1500);
+        }
+    </script>
+    
+    
+</body>
+</html>

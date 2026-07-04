@@ -1,0 +1,89 @@
+name: Telegram Notification
+
+on:
+  schedule:
+    # One hour after the daily run (daily.yml fires at 09:00 UTC).
+    # The notifier is idempotent: it stamps notifications.telegram.sent_at
+    # into the episode JSON, so reruns and manual dispatches are safe.
+    - cron: "0 10 * * *"
+
+  workflow_dispatch:
+    inputs:
+      date:
+        description: 'Episode date (YYYY-MM-DD), empty = latest'
+        required: false
+        default: ''
+      force:
+        description: 'Send even if already notified'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'false'
+          - 'true'
+      dry_run:
+        description: 'Compose and print without sending'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'false'
+          - 'true'
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write  # Push the sent_at marker back to the episode JSON
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 1
+
+      - name: Setup uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          python-version: "3.13"
+          enable-cache: true
+
+      - name: Install Python dependencies
+        run: uv sync --no-dev
+
+      - name: Send Telegram notification
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          # Writer LLM for Bento's personal note (template fallback if unset)
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          ARGS="-v"
+          if [ -n "${{ github.event.inputs.date }}" ]; then
+            ARGS="$ARGS --date ${{ github.event.inputs.date }}"
+          fi
+          if [ "${{ github.event.inputs.force }}" = "true" ]; then
+            ARGS="$ARGS --force"
+          fi
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            ARGS="$ARGS --dry-run"
+          fi
+          uv run python -m podcast.notify $ARGS
+
+      - name: Commit notification marker
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add podcast/episodes/*.json || true
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            DATE=$(date +%Y-%m-%d)
+            git commit -m "📬 Telegram notification sent: ${DATE} [skip ci]"
+            git push
+          fi

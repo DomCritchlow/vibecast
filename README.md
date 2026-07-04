@@ -54,6 +54,7 @@ Every day at your scheduled time:
 - **Source diversity** — Ensures variety across RSS feeds
 - **Deduplication** — Won't repeat stories within 7 days
 - **Transcripts** — Full script + references saved for each episode
+- **Telegram notifications** — Your host messages you when each episode drops, with artwork and a one-tap Overcast link ([setup guide](TELEGRAM_NOTIFICATIONS.md))
 - **Jinja2 templates** — Clean separation of content and presentation
 - **CSS design system** — Tokens, components, and page styles for easy theming
 - **Zero server costs** — Runs on GitHub Actions free tier

@@ -680,3 +680,31 @@ schedule:
   timezone: "America/New_York"           # Override: VIBECAST_TIMEZONE
   target_hour: 5                         # 05:00 local time (Eastern)
 
+# =============================================================================
+# NOTIFICATIONS
+# =============================================================================
+# Telegram: Bento sends you a card about an hour after each episode posts —
+# episode artwork, a short personal note, and a "Listen in Overcast" button.
+# Runs via .github/workflows/notify-telegram.yml (cron, 1h after the daily run).
+#
+# Credentials are NOT stored here. Set repository secrets (or .env locally):
+#   TELEGRAM_BOT_TOKEN   create a bot with @BotFather
+#   TELEGRAM_CHAT_ID     your chat id (message @userinfobot, or getUpdates)
+notifications:
+  telegram:
+    enabled: true
+    personal_note: true       # Bento writes a fresh note via the writer LLM
+    max_note_chars: 400       # keep the note text-message sized
+    max_age_hours: 36         # never announce an episode older than this
+    # Listen button target, first match wins:
+    #   listen_url          — explicit override (any https URL)
+    #   apple_podcast_id    — if the show is in Apple Podcasts, links
+    #                         https://overcast.fm/itunes<id> (opens the app)
+    #   (default)           — <site_url>/listen.html, which bounces into the
+    #                         Overcast app via its overcast:// URL scheme
+    listen_url: ""
+    apple_podcast_id: ""
+    buttons:
+      newspaper: true         # 🗞️ The paper (episode PDF)
+      transcript: true        # 📄 Transcript
+
