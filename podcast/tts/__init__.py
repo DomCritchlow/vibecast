@@ -5,6 +5,7 @@ import re
 
 from .base import TTSProvider
 from .elevenlabs import ElevenLabsTTSProvider
+from .fal_tts import FalTTSProvider
 from .openai_tts import OpenAITTSProvider
 
 logger = logging.getLogger(__name__)
@@ -13,24 +14,27 @@ logger = logging.getLogger(__name__)
 PROVIDERS = {
     "openai": OpenAITTSProvider,
     "elevenlabs": ElevenLabsTTSProvider,
+    "fal": FalTTSProvider,
 }
 
 
-def get_tts_provider(config: dict) -> TTSProvider:
-    """Factory function to get the configured TTS provider.
+def get_tts_provider(config: dict, provider_name: str | None = None) -> TTSProvider:
+    """Factory function to get a TTS provider.
 
     Args:
         config: Full configuration dictionary.
+        provider_name: Explicit provider to build (e.g. the special-episode
+            provider). Defaults to tts.provider.
 
     Returns:
         Configured TTSProvider instance.
     """
     tts_config = config.get("tts", {})
-    provider_name = tts_config.get("provider", "openai")
+    name = provider_name or tts_config.get("provider", "openai")
 
-    provider_class = PROVIDERS.get(provider_name)
+    provider_class = PROVIDERS.get(name)
     if not provider_class:
-        logger.warning(f"Unknown TTS provider '{provider_name}', using 'openai'")
+        logger.warning(f"Unknown TTS provider '{name}', using 'openai'")
         provider_class = OpenAITTSProvider
 
     return provider_class(config)
@@ -56,11 +60,14 @@ def synthesize_speech(text: str, config: dict) -> bytes:
     provider = get_tts_provider(config)
     audio_bytes = provider.synthesize(processed)
 
-    # Apply audio post-processing if enabled
+    # Apply audio post-processing if enabled. The enhancement presets exist
+    # to clean up OpenAI TTS artifacts — ElevenLabs audio ships as-is.
     tts_config = config.get("tts", {})
     audio_config = tts_config.get("audio_processing", {})
 
-    if audio_config.get("enabled", False):
+    if audio_config.get("enabled", False) and tts_config.get("provider") == "elevenlabs":
+        logger.info("  Skipping audio enhancement for ElevenLabs (raw output)")
+    elif audio_config.get("enabled", False):
         try:
             from ..audio_processing import enhance_audio
 

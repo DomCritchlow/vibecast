@@ -72,3 +72,30 @@ def test_writer_config_falls_back_to_legacy_openai_llm():
     cfg = _writer_config(legacy)
     assert cfg["provider"] == "openai"
     assert cfg["openai"]["model"] == "gpt-4.1-mini"
+
+
+def test_score_episode_quality_parses_and_clamps(monkeypatch):
+    import podcast.writer as writer
+
+    class FakeWriter:
+        provider_name = "fake"
+        model = "fake"
+
+        def generate_json(self, system, user, schema, max_tokens=2000):
+            return {"score": 1.4, "reason": "huge day"}  # out of range on purpose
+
+    monkeypatch.setattr(writer, "get_writer", lambda config: FakeWriter())
+    # Score is clamped into [0, 1]
+    assert writer.score_episode_quality(ITEMS, CONFIG) == 1.0
+
+
+def test_score_episode_quality_safe_on_failure(monkeypatch):
+    import podcast.writer as writer
+
+    class BoomWriter:
+        def generate_json(self, *a, **k):
+            raise RuntimeError("api down")
+
+    monkeypatch.setattr(writer, "get_writer", lambda config: BoomWriter())
+    # A broken scoring call must never accidentally trigger a special
+    assert writer.score_episode_quality(ITEMS, CONFIG) == 0.0

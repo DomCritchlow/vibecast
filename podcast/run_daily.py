@@ -21,6 +21,14 @@ from .artwork import generate_and_publish_episode_artwork
 from .episode_store import save_episode
 from .models import Episode, validate_config
 from .newspaper import _color_name_to_hex, generate_newspaper_pdf
+from .production import (
+    is_special_episode,
+    produce_special_episode,
+    special_config,
+    specials_this_week,
+    strip_production_markup,
+    strip_sfx_cues,
+)
 from .rss_feed import generate_feed_from_store, save_feed
 from .site_generator import save_site_pages
 from .sources.base import ContentItem, filter_items, select_items
@@ -34,7 +42,15 @@ from .storage import (
     upload_transcript_to_r2,
 )
 from .tts import estimate_duration, synthesize_speech
-from .writer import generate_episode_title, generate_script, generate_script_dry_run
+from .writer import (
+    generate_episode_title,
+    generate_script,
+    generate_script_dry_run,
+    score_episode_quality,
+)
+
+# Env var holding each special-episode provider's API key.
+SPECIAL_PROVIDER_KEYS = {"fal": "FAL_KEY", "elevenlabs": "ELEVENLABS_API_KEY"}
 
 logger = logging.getLogger("vibecast")
 
@@ -118,6 +134,7 @@ def load_state() -> dict:
 
     # Migrate legacy state: used_urls without timestamps
     state.setdefault("url_timestamps", {})
+    state.setdefault("special_dates", [])
     for url in state.pop("used_urls", []):
         state["url_timestamps"].setdefault(url, "1970-01-01T00:00:00")
     return state
@@ -138,6 +155,15 @@ def prune_state(state: dict, retention_days: int) -> dict:
     if dropped:
         logger.info("Pruned %d URLs older than %d days from state", dropped, retention_days)
     state["url_timestamps"] = kept
+
+    kept_specials = []
+    for date_str in state.get("special_dates", []):
+        try:
+            if datetime.fromisoformat(date_str) >= cutoff:
+                kept_specials.append(date_str)
+        except (ValueError, TypeError):
+            continue
+    state["special_dates"] = kept_specials
     return state
 
 
@@ -386,7 +412,9 @@ def step_newspaper(
 # ---------------------------------------------------------------------------
 
 
-def run_pipeline(dry_run: bool = False, verbose: bool = False) -> bool:
+def run_pipeline(
+    dry_run: bool = False, verbose: bool = False, force_special: bool | None = None
+) -> bool:
     """Run the complete podcast generation pipeline."""
     logger.info("=" * 60)
     logger.info("VIBECAST - Daily Podcast Generator")
@@ -422,13 +450,52 @@ def run_pipeline(dry_run: bool = False, verbose: bool = False) -> bool:
         logger.info("[3/8] Fetching and selecting content...")
         selected, reading_items = step_content(config, used_urls)
 
+        # Decide whether today earns the produced treatment: a quality gate can
+        # promote a standout weekday, capped by a weekly budget, with a
+        # use-it-or-lose-it fallback day. Score only when it could change the
+        # outcome (gate on, not forced, budget remaining) to avoid a wasted call.
+        sc = special_config(config)
+        special_provider = sc.get("provider", "fal")
+        special_key = SPECIAL_PROVIDER_KEYS.get(special_provider)
+
+        quality_score = None
+        if (
+            force_special is None
+            and not dry_run
+            and sc.get("enabled")
+            and (sc.get("quality_gate") or {}).get("enabled", True)
+            and specials_this_week(state, today) < int(sc.get("weekly_budget", 1))
+            and (not special_key or os.environ.get(special_key))
+        ):
+            threshold = float((sc.get("quality_gate") or {}).get("threshold", 0.8))
+            quality_score = score_episode_quality(selected, config)
+            logger.info("Episode quality %.2f (special gate at %.2f)", quality_score, threshold)
+
+        special = is_special_episode(
+            config, today, state=state, quality_score=quality_score, force=force_special
+        )
+
+        # Never attempt a produced episode without the provider's key — fall
+        # through to a normal one (the audio step also guards this at runtime).
+        if special and not dry_run and special_key and not os.environ.get(special_key):
+            logger.warning(
+                "Special selected but %s is not set — running a normal episode", special_key
+            )
+            special = False
+        if special:
+            logger.info("Today is a SPECIAL episode (%s produced)", special_provider)
+
         # 4. Script + title (required)
         logger.info("[4/8] Generating script...")
         if dry_run:
-            script_result = generate_script_dry_run(weather_text, selected, config, reading_items)
+            script_result = generate_script_dry_run(
+                weather_text, selected, config, reading_items, special=special
+            )
             episode_title = "AI-Generated Title Here"
         else:
-            script_result = generate_script(weather_text, selected, config, reading_items)
+            script_result = generate_script(
+                weather_text, selected, config, reading_items, special=special
+            )
             episode_title = generate_episode_title(selected, config)
         script = script_result["script"]
         logger.info("Script: %d characters | Title: %s", len(script), episode_title)
@@ -437,9 +504,14 @@ def run_pipeline(dry_run: bool = False, verbose: bool = False) -> bool:
             logger.info("--- SCRIPT START ---\n%s\n--- SCRIPT END ---", script)
 
         tts_config = config.get("tts", {})
-        provider = tts_config.get("provider", "openai")
+        if special:
+            provider = (tts_config.get("special_episodes") or {}).get("provider", "elevenlabs")
+        else:
+            provider = tts_config.get("provider", "openai")
         provider_config = tts_config.get(provider, {})
-        estimated_duration = estimate_duration(script, provider_config.get("speed", 1.0))
+        estimated_duration = estimate_duration(
+            strip_sfx_cues(script) if special else script, provider_config.get("speed", 1.0)
+        )
         logger.info("Estimated duration: %.1f minutes", estimated_duration)
 
         # 5. Transcript
@@ -466,6 +538,22 @@ def run_pipeline(dry_run: bool = False, verbose: bool = False) -> bool:
         logger.info("[6/8] Synthesizing audio with %s...", provider)
         if dry_run:
             mp3_bytes = b""
+        elif special:
+            try:
+                mp3_bytes, actual_seconds = produce_special_episode(script, weather_text, config)
+                if actual_seconds:
+                    estimated_duration = actual_seconds / 60
+                    logger.info("Actual duration: %.1f minutes", estimated_duration)
+                logger.info("Generated produced MP3 (%d bytes)", len(mp3_bytes))
+            except Exception as e:
+                # A missed special episode shouldn't cost us the daily episode:
+                # strip the production markup and ship a normal one instead.
+                special = False
+                provider = tts_config.get("provider", "openai")
+                provider_config = tts_config.get(provider, {})
+                logger.warning("Special production failed (%s) — falling back to %s", e, provider)
+                mp3_bytes = synthesize_speech(strip_production_markup(script), config)
+                logger.info("Generated fallback MP3 (%d bytes)", len(mp3_bytes))
         else:
             mp3_bytes = synthesize_speech(script, config)
             logger.info("Generated MP3 (%d bytes)", len(mp3_bytes))
@@ -539,7 +627,13 @@ def run_pipeline(dry_run: bool = False, verbose: bool = False) -> bool:
                 "llm_provider": script_result.get("provider", "unknown"),
                 "llm_model": script_result.get("model", "unknown"),
                 "tts_provider": provider,
-                "tts_voice": provider_config.get("voice") or provider_config.get("voice_id") or "",
+                "tts_voice": (
+                    provider_config.get("voice")
+                    or provider_config.get("voice_id")
+                    # fal shares the elevenlabs voice_id (River) as its source
+                    or tts_config.get("elevenlabs", {}).get("voice_id", "")
+                ),
+                "special_episode": special,
             },
         }
 
@@ -565,6 +659,11 @@ def run_pipeline(dry_run: bool = False, verbose: bool = False) -> bool:
             for item in [*selected, *reading_items]:
                 state["url_timestamps"][item.url] = now
             state["last_run"] = now
+            # Record a produced episode so it counts against the weekly budget.
+            # `special` is cleared to False if production failed and fell back,
+            # so a failed special never burns the week's slot.
+            if special:
+                state.setdefault("special_dates", []).append(episode_id)
             save_state(state)
             logger.info(
                 "Updated state with %d new URLs (%d stories + %d reading list)",
@@ -593,12 +692,24 @@ Examples:
   python -m podcast.run_daily              # Run full pipeline
   python -m podcast.run_daily --dry-run    # Test without API calls
   python -m podcast.run_daily -v           # Verbose output with script
+  python -m podcast.run_daily --special    # Force a produced ElevenLabs episode
         """,
     )
 
     parser.add_argument("--dry-run", action="store_true", help="Run without API calls or uploads")
     parser.add_argument(
         "-v", "--verbose", action="store_true", help="Verbose output including generated script"
+    )
+    special_group = parser.add_mutually_exclusive_group()
+    special_group.add_argument(
+        "--special",
+        action="store_true",
+        help="Force a produced ElevenLabs episode regardless of the configured days",
+    )
+    special_group.add_argument(
+        "--no-special",
+        action="store_true",
+        help="Force a normal episode even on a configured special day",
     )
 
     args = parser.parse_args()
@@ -611,7 +722,8 @@ Examples:
     for noisy in ("httpx", "httpcore", "botocore", "boto3", "urllib3", "openai", "anthropic"):
         logging.getLogger(noisy).setLevel(logging.WARNING)
 
-    success = run_pipeline(dry_run=args.dry_run, verbose=args.verbose)
+    force_special = True if args.special else (False if args.no_special else None)
+    success = run_pipeline(dry_run=args.dry_run, verbose=args.verbose, force_special=force_special)
     sys.exit(0 if success else 1)
 
 

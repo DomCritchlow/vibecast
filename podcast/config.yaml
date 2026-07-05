@@ -622,26 +622,106 @@ tts:
     # Instructions (optional) - Only works with gpt-4o-mini-tts
     # Removed: per-chunk instructions caused voice tone inconsistency / male-female drift
   
-  # --- ElevenLabs TTS Settings (disabled) ---
-  # To enable: set provider to "elevenlabs" and configure below
-  # Requires ELEVENLABS_API_KEY env var
+  # --- fal.ai TTS Settings (active transport for produced episodes) ---
+  # Serves the SAME ElevenLabs v3 model pay-per-use with no subscription and
+  # commercial rights. Requires FAL_KEY env var (GitHub secret in CI).
+  # The voice is shared with the elevenlabs block below (voice_id is resolved
+  # to fal's voice-name form automatically), so switching provider needs no
+  # other edit. Override here only to use a fal-specific voice.
+  fal:
+    # voice: "River"          # optional; defaults to the shared voice_id
+    format: "mp3_44100_128"
+    speed: 1.0
+
+  # --- ElevenLabs TTS Settings (native SDK — switch-back option) ---
+  # Used only if a provider is set to "elevenlabs". Needs a paid ElevenLabs
+  # subscription for library voices + commercial rights (that's why fal is the
+  # active transport). Requires ELEVENLABS_API_KEY. Audition voices locally:
+  # uv run python scripts/audition_voices.py
   elevenlabs:
-    # Voice ID or preset name (e.g., "rachel", "adam", "josh")
-    # Full list: https://elevenlabs.io/voice-library
-    voice_id: "rachel"
+    # Preset name (e.g., "george", "brian", "lily") or a raw voice ID
+    # from https://elevenlabs.io/voice-library
+    # river: built-in voice — works via API on every tier and on fal.ai
+    voice_id: "SAz9YHcvj6GT2YYXdXww"   # River ⭐ YOUR CHOICE
 
     # Model options:
-    #   eleven_v3 - Most expressive, supports inline audio tags (recommended)
+    #   eleven_v3 - Most expressive, performs inline audio tags (recommended)
     #   eleven_multilingual_v2 - High quality, very stable
     #   eleven_flash_v2_5 - Lowest latency/cost
     model_id: "eleven_v3"
-    
-    # Voice control (0.0 to 1.0)
+
+    # Voice control (0.0 to 1.0) — v2-family models only; v3 uses API defaults
     stability: 0.5            # Higher = more consistent, lower = more expressive
     similarity_boost: 0.75    # Higher = closer to original voice
-    
-    # Output format
+
+    # Output format (192k requires the Creator subscription tier; 128k is the
+    # max on the pay-as-you-go API plan and is standard podcast quality)
     format: "mp3_44100_128"   # Options: mp3_44100_128, mp3_44100_192, pcm_*
+
+  # --- Special (produced) episodes ---
+  # On these days the episode is made like a small radio piece: Eleven v3
+  # voice with inline audio tags, [SFX: ...] cues written by the script model,
+  # a weather-matched ambience bed under the cold open, and an optional theme
+  # sting. The voice itself is never filtered — only mixed. ~$0.70/episode.
+  special_episodes:
+    enabled: true
+    provider: "fal"           # "fal" (no subscription) or "elevenlabs" (native SDK)
+
+    # How many produced episodes we're willing to make per ISO week. Change
+    # this one number to make more (or fewer) specials per week.
+    weekly_budget: 1
+
+    # Quality gate — an "executive producer" LLM pass rates each day's story
+    # lineup 0.0-1.0; a day scoring at/above the threshold is promoted to a
+    # produced episode (spending one slot from the weekly budget). This is how
+    # a standout weekday gets the treatment instead of waiting for Friday.
+    quality_gate:
+      enabled: true
+      threshold: 0.8          # be discerning — most days are not special
+
+    # Use-it-or-lose-it: if the week's budget is still unspent by this day,
+    # make it special anyway so a quiet news week still gets its episode. Once
+    # the budget is spent (e.g. a standout Tuesday), this day is skipped.
+    # Set to null to only ever produce on genuinely standout days.
+    fallback_day: "friday"
+
+    sound_design:
+      enabled: true
+      # Opening ambience bed: the writer directs it with an [AMBIENCE: ...]
+      # line (specific to the day's weather + lead story); if the script
+      # doesn't call one, a weather-keyword fallback kicks in.
+      weather_ambience: true
+      ambience_seconds: 15
+      ambience_volume: 0.18   # relative to voice (1.0 = as loud as Bento)
+      max_effects: 4          # cap on [SFX: ...] cues the writer may place
+      effect_seconds: 5
+      effect_volume: 0.28     # under-voice texture cues (quiet, layered)
+      # Featured beats: a "[SFX: ... | beat]" cue gives a sound its own moment.
+      # The sound plays at its NATURAL length; the narration pause is derived,
+      # not the other way around. Sequence: the voice ends, a lead_seconds
+      # breath, then the sound plays in the clear for spotlight_seconds (this is
+      # the whole pause — kept short and predictable so re-entry is sensible),
+      # then the voice resumes (fading in) WHILE the sound's tail continues
+      # underneath, ducked to duck_volume, and fades out. A long dramatic sound
+      # without a long silence.
+      feature_effect_seconds: 5.0   # natural length of a featured sound
+      spotlight_seconds: 2.0        # time it plays alone before the voice returns
+      lead_seconds: 0.5             # breath after the voice ends before the sound hits
+      feature_volume: 0.85          # level while in the clear
+      duck_volume: 0.22             # level once the voice is back over the tail
+      normalize: true         # single loudness pass on the final mix (-16 LUFS)
+      # Sound library: generated effects are saved here and reused when the
+      # same prompt comes up again (weather ambiences converge fast — there
+      # are only ~10 of them). CI commits new files after each run.
+      library: true
+      library_dir: "podcast/assets/sfx"
+      theme:
+        # Generate candidates once with: uv run python scripts/generate_theme.py
+        # then commit your pick to this path. Missing file = no sting, no error.
+        path: "podcast/assets/theme.mp3"
+        lead_seconds: 2.5     # theme plays alone this long before Bento starts
+        fade_seconds: 4.0     # then fades out under the cold open
+        volume: 0.7
 
   # --- Audio Post-Processing ---
   # Ultra-light processing optimized for gpt-4o-mini-tts + fable voice

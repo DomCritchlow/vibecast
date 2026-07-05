@@ -41,6 +41,19 @@ TITLE_SCHEMA = {
     "additionalProperties": False,
 }
 
+QUALITY_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "score": {
+            "type": "number",
+            "description": "0.0-1.0: how much today's lineup deserves the produced treatment",
+        },
+        "reason": {"type": "string", "description": "One sentence explaining the score"},
+    },
+    "required": ["score", "reason"],
+    "additionalProperties": False,
+}
+
 
 # ---------------------------------------------------------------------------
 # Providers
@@ -168,8 +181,13 @@ def get_writer(config: dict):
 # ---------------------------------------------------------------------------
 
 
-def clean_script_for_tts(script: str) -> str:
-    """Remove non-speakable elements from script before TTS."""
+def clean_script_for_tts(script: str, keep_production_cues: bool = False) -> str:
+    """Remove non-speakable elements from script before TTS.
+
+    With ``keep_production_cues`` (special/produced episodes), [SFX: ...]
+    cue lines and Eleven v3 audio tags like [chuckles] are left in place —
+    the production pipeline consumes them.
+    """
     # Remove music cues like [intro music], [outro music], [background music fades]
     script = re.sub(
         r"\[(?:intro|outro|background)?\s*music[^\]]*\]", "", script, flags=re.IGNORECASE
@@ -178,13 +196,110 @@ def clean_script_for_tts(script: str) -> str:
     script = re.sub(r"\[(?:fade|cut|transition|end|start)[^\]]*\]", "", script, flags=re.IGNORECASE)
     # Convert [pause] markers to ellipsis (which TTS interprets as natural pause)
     script = re.sub(r"\[pause[^\]]*\]", "...", script, flags=re.IGNORECASE)
+    if not keep_production_cues:
+        # Strip stray production cues — plain TTS providers would read them
+        # aloud... or worse, spell them out.
+        script = re.sub(
+            r"^[ \t]*\[(?:sfx|ambience):[^\]]*\][ \t]*$",
+            "",
+            script,
+            flags=re.IGNORECASE | re.MULTILINE,
+        )
     # Clean up extra whitespace/newlines left behind
     script = re.sub(r"\n{3,}", "\n\n", script)
     script = re.sub(r"  +", " ", script)
     return script.strip()
 
 
-def build_system_prompt(config: dict) -> str:
+def _sound_shelf_prompt(sound_config: dict) -> str:
+    """List the sound library so the writer can reuse existing material.
+
+    A verbatim reuse is a cache hit (no generation); anything new is
+    generated and joins the shelf for future episodes.
+    """
+    try:
+        from .production import load_library_index, sfx_library_dir
+
+        entries = load_library_index(sfx_library_dir(sound_config))
+    except Exception:
+        return ""
+    if not entries:
+        return ""
+
+    beds = [e["direction"] for e in entries if e.get("loop") and e.get("direction")][-10:]
+    effects = [e["direction"] for e in entries if not e.get("loop") and e.get("direction")][-15:]
+
+    lines = [
+        "",
+        "",
+        "THE SHELF — sounds already produced for past episodes. If one fits today, "
+        "reuse it by writing its description word-for-word; otherwise direct a new "
+        "sound and it joins the shelf. Fit beats reuse: never bend today's episode "
+        "to match the shelf.",
+    ]
+    if beds:
+        lines.append("Ambience beds:")
+        lines.extend(f"- {b}" for b in beds)
+    if effects:
+        lines.append("Effects:")
+        lines.extend(f"- {e}" for e in effects)
+    return "\n".join(lines)
+
+
+def build_production_prompt(config: dict) -> str:
+    """Extra system-prompt section for produced (ElevenLabs) episodes.
+
+    Special episodes are voiced by Eleven v3, which performs inline audio
+    tags, and run through a sound-design mix that turns [SFX: ...] cue lines
+    into generated effects under the voice.
+    """
+    special = (config.get("tts") or {}).get("special_episodes") or {}
+    sound = special.get("sound_design") or {}
+    max_effects = sound.get("max_effects", 4)
+
+    return f"""
+
+AUDIO PRODUCTION (today is a produced episode — you also direct the audio):
+
+Delivery tags. You may drop inline audio tags in square brackets to direct \
+your own performance: [chuckles], [laughs], [sighs], [whispers], [excited], \
+[curious], [deadpan], [impressed]. The voice engine performs them — they are \
+never read aloud. Use them like seasoning: a small handful per episode, at \
+most one per paragraph, only where the writing genuinely earns it.
+
+Opening ambience. You direct the bed that plays under your cold open. Put one \
+line at the very top of the script, before any spoken text:
+
+[AMBIENCE: the sound of the morning you're speaking into]
+
+Make it specific to today — the weather, the season, the mood of the lead \
+story. "Gentle rain over a quiet street, a distant subway rumble" beats \
+"city sounds". It plays low under your first ~15 seconds and fades out. \
+Describe sound only, never music.
+
+Sound-effect cues. You may add up to {max_effects} sound-effect cues. Each cue \
+goes on its own line between paragraphs, exactly in this form:
+
+[SFX: short description of an atmospheric sound]
+
+By default the effect is mixed quietly UNDER the lines that follow it, so place \
+a cue right before the sentences it should color — e.g. "[SFX: distant rocket \
+launch rumble]" before a launch story. Prefer texture over spectacle; one \
+well-placed cue beats four. Skip them for stories where sound would feel forced.
+
+Featured beats. Rarely — once in an episode at most, and only when a moment \
+truly lands — you can give an effect its own beat by adding "| beat":
+
+[SFX: distant rocket launch rumble | beat]
+
+A beat pauses your narration for a moment so the sound plays in the clear \
+before you continue, the way a well-produced show lets a moment breathe. Use it \
+for a genuine punctuation point — a launch, a thunderclap, a reveal — never for \
+background texture. Most cues should NOT be beats. Never cue music.\
+{_sound_shelf_prompt(sound)}"""
+
+
+def build_system_prompt(config: dict, special: bool = False) -> str:
     """Build the system prompt based on vibe configuration."""
     vibe = config.get("vibe", {})
     episode = config.get("episode", {})
@@ -212,7 +327,7 @@ def build_system_prompt(config: dict) -> str:
     target_minutes = episode.get("target_minutes", 5)
     word_target = f"{target_minutes * 150}-{target_minutes * 180}"
 
-    return f"""You are {voice_persona.get("name", "a podcast host")}, and you write and host \
+    prompt = f"""You are {voice_persona.get("name", "a podcast host")}, and you write and host \
 "{podcast.get("title", "a daily podcast")}" — a short daily audio essay about what's genuinely \
 interesting in tech and science.
 
@@ -261,9 +376,13 @@ WRITE FOR THE EAR:
 - Words that fit the show: {embrace_language}. Words that never appear: {avoid_language}
 
 HARD CONSTRAINTS:
-- Only text meant to be spoken aloud — no music cues, stage directions, headings, or labels
+- {"Only spoken text plus the audio tags and [SFX: ...] cues described below — no music cues, headings, or labels" if special else "Only text meant to be spoken aloud — no music cues, stage directions, headings, or labels"}
 - Mention the show/host identity and today's date somewhere in the first minute, naturally
 - {word_target} words total (about {target_minutes} minutes read aloud, {pacing.get("overall_tempo", "unhurried")} pace)"""
+
+    if special:
+        prompt += build_production_prompt(config)
+    return prompt
 
 
 def build_user_prompt(
@@ -321,19 +440,28 @@ def generate_script(
     items: list[ContentItem],
     config: dict,
     reading_items: list | None = None,
+    special: bool = False,
 ) -> dict:
     """Generate the podcast script with the configured writer.
+
+    With ``special`` the prompt gains the audio-production section and the
+    script keeps its audio tags and [SFX: ...] cues for the produced pipeline.
 
     Returns:
         Dict with 'script', 'system_prompt', 'user_prompt', 'model', 'provider'.
     """
     writer = get_writer(config)
-    system_prompt = build_system_prompt(config)
+    system_prompt = build_system_prompt(config, special=special)
     user_prompt = build_user_prompt(weather_text, items, config, reading_items)
 
-    logger.info("Generating script with %s (%s)", writer.provider_name, writer.model)
+    logger.info(
+        "Generating %sscript with %s (%s)",
+        "produced-episode " if special else "",
+        writer.provider_name,
+        writer.model,
+    )
     script = writer.generate_text(system_prompt, user_prompt)
-    script = clean_script_for_tts(script)
+    script = clean_script_for_tts(script, keep_production_cues=special)
 
     return {
         "script": script,
@@ -341,7 +469,51 @@ def generate_script(
         "user_prompt": user_prompt,
         "model": writer.model,
         "provider": writer.provider_name,
+        "special": special,
     }
+
+
+def score_episode_quality(items: list[ContentItem], config: dict) -> float:
+    """Rate how much today's lineup deserves the produced treatment (0.0-1.0).
+
+    Acts as the show's executive producer: high scores are reserved for days
+    with a genuinely standout, fascinating, or landmark story. Failures score
+    0.0 so a broken call never spends the week's special budget by accident.
+    """
+    writer = get_writer(config)
+
+    content_text = "\n".join(
+        f"- {item.title} ({item.source}): {item.summary[:200]}" for item in items
+    )
+
+    system = (
+        "You are the executive producer of a daily tech and science podcast. You decide "
+        "which days earn the full produced treatment — original music, sound design, and the "
+        "premium voice — that is reserved for standout episodes, not ordinary good days."
+    )
+    user = f"""Rate today's story lineup from 0.0 to 1.0 on how much it deserves the special \
+produced treatment versus a normal episode.
+
+Guidance:
+- 0.8-1.0: a genuinely big, fascinating, or landmark day — a story people will remember, or \
+a lineup that's a clear cut above.
+- 0.5-0.7: a solid, interesting day, but nothing extraordinary.
+- below 0.5: a routine or slow news day.
+
+Be discerning — most days are not special. Reserve high scores for lineups that truly stand out.
+
+TODAY'S STORIES:
+{content_text}"""
+
+    try:
+        result = writer.generate_json(system, user, QUALITY_SCHEMA, max_tokens=1500)
+        score = float(result.get("score", 0.0))
+        reason = result.get("reason", "")
+        logger.info("Quality score %.2f — %s", score, reason)
+        return max(0.0, min(1.0, score))
+    except Exception as e:
+        logger.warning("Quality scoring failed (%s); treating today as not special", e)
+        return 0.0
 
 
 def generate_episode_title(items: list[ContentItem], config: dict) -> str:
@@ -386,6 +558,7 @@ def generate_script_dry_run(
     items: list[ContentItem],
     config: dict,
     reading_items: list | None = None,
+    special: bool = False,
 ) -> dict:
     """Generate a placeholder script for dry-run mode (no API call)."""
     voice_persona = config.get("vibe", {}).get("voice_persona", {})
@@ -400,7 +573,7 @@ def generate_script_dry_run(
     date_formatted = datetime.now().strftime("%A, %B %d, %Y")
 
     # Build the prompts (even for dry run, so we can inspect them)
-    system_prompt = build_system_prompt(config)
+    system_prompt = build_system_prompt(config, special=special)
     user_prompt = build_user_prompt(weather_text, items, config, reading_items)
 
     script_lines = [
@@ -432,4 +605,5 @@ def generate_script_dry_run(
         "user_prompt": user_prompt,
         "model": f"{model} [DRY RUN - not called]",
         "provider": provider,
+        "special": special,
     }

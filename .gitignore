@@ -64,3 +64,7 @@ docs/newspapers/*.html
 # NOT in Git:
 # - Audio/media files in R2 storage
 # - Transcripts in R2 storage
+
+# ElevenLabs local audio experiments
+auditions/
+podcast/assets/theme-candidates/
