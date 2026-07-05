@@ -1,12 +1,5 @@
 {
   "url_timestamps": {
-    "https://news.ycombinator.com/item?id=47657432": "2026-04-06T06:01:24.833503",
-    "https://science.nasa.gov/earth/earth-observatory/faster-detection-of-forest-loss/": "2026-04-06T06:01:24.833503",
-    "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers": "2026-04-06T06:01:24.833503",
-    "https://www.wired.com/story/best-apple-watch-bands/": "2026-04-06T06:01:24.833503",
-    "https://www.nasa.gov/blogs/missions/2026/04/05/artemis-ii-flight-day-5-crew-starts-day-with-suit-demo/": "2026-04-06T06:01:24.833503",
-    "https://www.space.com/astronomy/stars/dozens-of-hidden-star-streams-found-in-the-outskirts-of-our-milky-way-galaxy": "2026-04-06T06:01:24.833503",
-    "https://www.nature.com/articles/d41586-026-01105-7": "2026-04-06T06:01:24.833503",
     "https://www.nature.com/articles/d41586-026-01028-3": "2026-04-07T05:48:43.558651",
     "https://www.nature.com/articles/d41586-026-01027-4": "2026-04-07T05:48:43.558651",
     "https://openai.com/index/introducing-openai-safety-fellowship": "2026-04-07T05:48:43.558651",
@@ -594,7 +587,15 @@
     "https://science.nasa.gov/missions/webb/nasas-webb-reveals-stars-sparking-to-life-in-cosmic-celebration/": "2026-07-04T10:50:59.101234",
     "https://www.nasa.gov/humans-in-space/nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission/": "2026-07-04T10:50:59.101234",
     "https://www.nature.com/articles/d41586-026-02034-1": "2026-07-04T10:50:59.101234",
-    "https://www.nature.com/articles/d41586-026-02108-0": "2026-07-04T10:50:59.101234"
+    "https://www.nature.com/articles/d41586-026-02108-0": "2026-07-04T10:50:59.101234",
+    "https://www.nature.com/articles/d41586-026-01773-5": "2026-07-05T11:01:51.248180",
+    "https://www.nature.com/articles/d41586-026-02067-6": "2026-07-05T11:01:51.248180",
+    "https://www.science.org/content/article/major-ukraine-research-center-damaged-russian-strikes": "2026-07-05T11:01:51.248180",
+    "https://www.science.org/content/article/usda-accelerates-plan-close-its-flagship-scientific-campus": "2026-07-05T11:01:51.248180",
+    "https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything": "2026-07-05T11:01:51.248180",
+    "https://www.understandingai.org/p/the-us-now-has-a-de-facto-model-licensing": "2026-07-05T11:01:51.248180",
+    "https://nautil.us/cosmic-shockwave-reshaped-a-newly-discovered-bow-and-arrow-galaxy-1282436/": "2026-07-05T11:01:51.248180"
   },
-  "last_run": "2026-07-04T10:50:59.101234"
+  "last_run": "2026-07-05T11:01:51.248180",
+  "special_dates": []
 }

@@ -1,0 +1,68 @@
+{
+  "guid": "2026-07-05",
+  "date": "2026-07-05T11:01:51.248180",
+  "title": "Nine-to-Five PhDs & Ukraine Research Center Struck",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 376.42105263157896,
+  "duration_formatted": "6:16",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-05.mp3",
+    "audio_size_bytes": 8308907,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-05/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-05/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-07-05.txt"
+  },
+  "stories": [
+    {
+      "title": "Can you actually do a nine-to-five PhD? Nature readers weigh in",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01773-5",
+      "summary": "Nature, Published online: 02 July 2026; doi:10.1038/d41586-026-01773-5Nature readers share their PhD time-management woes."
+    },
+    {
+      "title": "Togetherness: How co-operation built the world",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02067-6",
+      "summary": "Nature, Published online: 01 July 2026; doi:10.1038/d41586-026-02067-6Science journalist Rowan Hooper joins us to talk about symbiosis and the importance of organisms working together."
+    },
+    {
+      "title": "Major Ukraine research center damaged in Russian strikes",
+      "source": "Science.org News",
+      "url": "https://www.science.org/content/article/major-ukraine-research-center-damaged-russian-strikes",
+      "summary": "Damage to century-old Palladin Institute marks “disaster for biological science in Ukraine”"
+    },
+    {
+      "title": "USDA accelerates plan to close its flagship scientific campus",
+      "source": "Science.org News",
+      "url": "https://www.science.org/content/article/usda-accelerates-plan-close-its-flagship-scientific-campus",
+      "summary": "Agency says closing the Beltsville Agricultural Research Center will improve efficiency, but skeptics argue it will undercut research critical to farmers"
+    },
+    {
+      "title": "Quoting Josh W. Comeau",
+      "source": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything",
+      "summary": "I just launched my third course, Whimsical Animations, and so far, it’s on track to sell roughly ⅓ as many copies as a typical course launch. It’s a similar story with my two existing courses. Sales are down significantly from last year. There are likely a lot of reasons for this, but I think the biggest is AI. There’s sort of a double whammy with AI: Many people are wondering whether developer jobs will even exist in a few months, so they’re reluctant to spend time/money learning new dev skills. Even if they do want to learn new dev skills, LLMs can provide personalized tutoring, so there’s less incentive to buy a paid course. [...] I’ve spoken to a few course creators now, and we’re all seeing the same trend. Revenue down 50%+. Fewer people engaging with our content. People switching to LLMs, which slurp up all of our work and regurgitate it, without consent or compensation. — Josh W. Comeau, via Salma Alam-Naylor Tags: ai-ethics, llms, ai, generative-ai, careers, josh-comeau"
+    },
+    {
+      "title": "The US now has a de facto model licensing system",
+      "source": "Understanding AI",
+      "url": "https://www.understandingai.org/p/the-us-now-has-a-de-facto-model-licensing",
+      "summary": "OpenAI’s latest model, GPT-5.6, is waiting for government approval."
+    },
+    {
+      "title": "Cosmic Shockwave Reshaped a Newly Discovered “Bow and Arrow” Galaxy",
+      "source": "Nautilus",
+      "url": "https://nautil.us/cosmic-shockwave-reshaped-a-newly-discovered-bow-and-arrow-galaxy-1282436/",
+      "summary": "The discovery was made by a citizen scientist The post Cosmic Shockwave Reshaped a Newly Discovered “Bow and Arrow” Galaxy appeared first on Nautilus."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-07-05T11:01:51.248180",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}

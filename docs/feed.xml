@@ -8,7 +8,7 @@
     <link>https://critchlow.us/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jul 2026 08:14:54 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 11:04:41 -0000</lastBuildDate>
     <atom:link href="https://critchlow.us/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://critchlow.us/vibecast/</link>
     </image>
     <itunes:image href="https://critchlow.us/vibecast/artwork.png"/>
+    <item>
+      <title>Nine-to-Five PhDs &amp; Ukraine Research Center Struck</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Can you actually do a nine-to-five PhD? Nature readers weigh in
+   Source: Nature News
+2. Togetherness: How co-operation built the world
+   Source: Nature News
+3. Major Ukraine research center damaged in Russian strikes
+   Source: Science.org News
+4. USDA accelerates plan to close its flagship scientific campus
+   Source: Science.org News
+5. Quoting Josh W. Comeau
+   Source: Simon Willison
+6. The US now has a de facto model licensing system
+   Source: Understanding AI
+7. Cosmic Shockwave Reshaped a Newly Discovered “Bow and Arrow” Galaxy
+   Source: Nautilus
+
+REFERENCES:
+
+1. Can you actually do a nine-to-five PhD? Nature readers weigh in
+   https://www.nature.com/articles/d41586-026-01773-5
+
+2. Togetherness: How co-operation built the world
+   https://www.nature.com/articles/d41586-026-02067-6
+
+3. Major Ukraine research center damaged in Russian strikes
+   https://www.science.org/content/article/major-ukraine-research-center-damaged-russian-strikes
+
+4. USDA accelerates plan to close its flagship scientific campus
+   https://www.science.org/content/article/usda-accelerates-plan-close-its-flagship-scientific-campus
+
+5. Quoting Josh W. Comeau
+   https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything
+
+6. The US now has a de facto model licensing system
+   https://www.understandingai.org/p/the-us-now-has-a-de-facto-model-licensing
+
+7. Cosmic Shockwave Reshaped a Newly Discovered “Bow and Arrow” Galaxy
+   https://nautil.us/cosmic-shockwave-reshaped-a-newly-discovered-bow-and-arrow-galaxy-1282436/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-05/newspaper.pdf]]></description>
+      <pubDate>Sun, 05 Jul 2026 11:01:51 -0000</pubDate>
+      <guid isPermaLink="false">2026-07-05</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-05.mp3" length="8308907" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Can you actually do a nine-to-five PhD? Nature readers weigh in
+   Source: Nature News
+2. Togetherness: How co-operation built the world
+   Source: Nature News
+3. Major Ukraine research center damaged in Russian strikes
+   Source: Science.org News
+4. USDA accelerates plan to close its flagship scientific campus
+   Source: Science.org News
+5. Quoting Josh W. Comeau
+   Source: Simon Willison
+6. The US now has a de facto model licensing system
+   Source: Understanding AI
+7. Cosmic Shockwave Reshaped a Newly Discovered “Bow and Arrow” Galaxy
+   Source: Nautilus
+
+REFERENCES:
+
+1. Can you actually do a nine-to-five PhD? Nature readers weigh in
+   https://www.nature.com/articles/d41586-026-01773-5
+
+2. Togetherness: How co-operation built the world
+   https://www.nature.com/articles/d41586-026-02067-6
+
+3. Major Ukraine research center damaged in Russian strikes
+   https://www.science.org/content/article/major-ukraine-research-center-damaged-russian-strikes
+
+4. USDA accelerates plan to close its flagship scientific campus
+   https://www.science.org/content/article/usda-accelerates-plan-close-its-flagship-scientific-campus
+
+5. Quoting Josh W. Comeau
+   https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything
+
+6. The US now has a de facto model licensing system
+   https://www.understandingai.org/p/the-us-now-has-a-de-facto-model-licensing
+
+7. Cosmic Shockwave Reshaped a Newly Discovered “Bow and Arrow” Galaxy
+   https://nautil.us/cosmic-shockwave-reshaped-a-newly-discovered-bow-and-arrow-galaxy-1282436/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-05/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>6:16</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-05/episode-art.png"/>
+    </item>
     <item>
       <title>DSPy SQL Agents &amp; NASA&#x27;s Cosmic Stars</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:59</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-02/episode-art.png"/>
-    </item>
-    <item>
-      <title>Obesity Myths &amp; Bacteria Armor + Apple Glasses Strategy</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Obesity doesn’t equate to ill health: why the ‘disease’ label doesn’t always fit
-   Source: Nature News
-2. How common bacteria fasten their armour
-   Source: Nature News
-3. Apple’s strategy for smart glasses is the same as smart watches
-   Source: The Verge
-4. Wi-Fi Router vs. Mesh System: Which Is Best for You?
-   Source: Wired
-5. AI driven analysis of brokerage account fees in the UK
-   Source: Hacker News (AI filtered)
-6. Greenland sheds new light on underwater carbon sink
-   Source: Positive News
-7. Strengthening societal resilience with Rosalind Biodefense
-   Source: OpenAI News
-
-REFERENCES:
-
-1. Obesity doesn’t equate to ill health: why the ‘disease’ label doesn’t always fit
-   https://www.nature.com/articles/d41586-026-01729-9
-
-2. How common bacteria fasten their armour
-   https://www.nature.com/articles/d41586-026-01668-5
-
-3. Apple’s strategy for smart glasses is the same as smart watches
-   https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches
-
-4. Wi-Fi Router vs. Mesh System: Which Is Best for You?
-   https://www.wired.com/story/mesh-system-vs-wi-fi-router/
-
-5. AI driven analysis of brokerage account fees in the UK
-   https://feesorted.com/
-
-6. Greenland sheds new light on underwater carbon sink
-   https://www.positive.news/environment/greenland-sheds-new-light-on-underwater-carbon-sink/
-
-7. Strengthening societal resilience with Rosalind Biodefense
-   https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-01/newspaper.pdf]]></description>
-      <pubDate>Mon, 01 Jun 2026 09:27:50 -0000</pubDate>
-      <guid isPermaLink="false">2026-06-01</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-01.mp3" length="6523383" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Obesity doesn’t equate to ill health: why the ‘disease’ label doesn’t always fit
-   Source: Nature News
-2. How common bacteria fasten their armour
-   Source: Nature News
-3. Apple’s strategy for smart glasses is the same as smart watches
-   Source: The Verge
-4. Wi-Fi Router vs. Mesh System: Which Is Best for You?
-   Source: Wired
-5. AI driven analysis of brokerage account fees in the UK
-   Source: Hacker News (AI filtered)
-6. Greenland sheds new light on underwater carbon sink
-   Source: Positive News
-7. Strengthening societal resilience with Rosalind Biodefense
-   Source: OpenAI News
-
-REFERENCES:
-
-1. Obesity doesn’t equate to ill health: why the ‘disease’ label doesn’t always fit
-   https://www.nature.com/articles/d41586-026-01729-9
-
-2. How common bacteria fasten their armour
-   https://www.nature.com/articles/d41586-026-01668-5
-
-3. Apple’s strategy for smart glasses is the same as smart watches
-   https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches
-
-4. Wi-Fi Router vs. Mesh System: Which Is Best for You?
-   https://www.wired.com/story/mesh-system-vs-wi-fi-router/
-
-5. AI driven analysis of brokerage account fees in the UK
-   https://feesorted.com/
-
-6. Greenland sheds new light on underwater carbon sink
-   https://www.positive.news/environment/greenland-sheds-new-light-on-underwater-carbon-sink/
-
-7. Strengthening societal resilience with Rosalind Biodefense
-   https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-01/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:40</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-01/episode-art.png"/>
     </item>
   </channel>
 </rss>
