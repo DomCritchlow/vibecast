@@ -1,64 +1,64 @@
 {
   "guid": "2026-07-06",
-  "date": "2026-07-06T12:13:32.312195",
-  "title": "AI Math Breakthrough & Tianwen-2 Asteroid Arrival",
+  "date": "2026-07-06T12:40:59.173811",
+  "title": "Swift Reboost & TabFM Foundation Model Debut",
   "tagline": "Tech, science, and what's actually interesting",
-  "duration_seconds": 363.36842105263156,
-  "duration_formatted": "6:03",
+  "duration_seconds": 362.94736842105266,
+  "duration_formatted": "6:02",
   "media": {
     "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-06.mp3",
-    "audio_size_bytes": 7680087,
+    "audio_size_bytes": 7484482,
     "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-06/episode-art.png",
     "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-06/newspaper.pdf",
     "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-07-06.txt"
   },
   "stories": [
     {
-      "title": "Time to give hydration breaks the red card? What science says about keeping cool",
-      "source": "Nature News",
-      "url": "https://www.nature.com/articles/d41586-026-02097-0",
-      "summary": "Nature, Published online: 06 July 2026; doi:10.1038/d41586-026-02097-0Inappropriate use of cooling breaks in sport is undermining trust in heat-health research."
-    },
-    {
-      "title": "Deep-sea oddities and boatloads of other new species — June’s best science images",
-      "source": "Nature News",
-      "url": "https://www.nature.com/articles/d41586-026-02087-2",
-      "summary": "Nature, Published online: 06 July 2026; doi:10.1038/d41586-026-02087-2The month’s sharpest science shots — selected by Nature’s photo team."
-    },
-    {
-      "title": "OpenAI’s math breakthrough played to AI’s strengths",
-      "source": "Understanding AI",
-      "url": "https://www.understandingai.org/p/openais-milestone-math-breakthrough",
-      "summary": "I tried to explain OpenAI’s solution more clearly than OpenAI did."
-    },
-    {
-      "title": "Centre for Space Futures, Novaspace and SpaceTech Gulf Sign Agreement to Develop Global Space Capability Mapping Dashboard",
+      "title": "Pegasus launches Swift reboost mission",
       "source": "SpaceNews",
-      "url": "https://spacenews.com/centre-for-space-futures-novaspace-and-spacetech-gulf-sign-agreement-to-develop-global-space-capability-mapping-dashboard/",
-      "summary": "Riyadh, Saudi Arabia – June, 2026 The Centre for Space Futures (CSF), together with leading international partners including Novaspace, and SpaceTech Gulf, have signed a Memorandum of Cooperation (MoC) to […] The post Centre for Space Futures, Novaspace and SpaceTech Gulf Sign Agreement to Develop Global Space Capability Mapping Dashboard appeared first on SpaceNews."
+      "url": "https://spacenews.com/pegasus-launches-swift-reboost-mission/",
+      "summary": "A Pegasus XL launched a mission to reboost a NASA astrophysics spacecraft on what may be the final flight of that rocket. The post Pegasus launches Swift reboost mission appeared first on SpaceNews."
     },
     {
-      "title": "Tianwen-2 arrives at asteroid Kamo’oalewa, first image revealed",
+      "title": "Isar Aerospace to launch German-built Planet imaging satellite",
       "source": "SpaceNews",
-      "url": "https://spacenews.com/tianwen-2-arrives-at-asteroid-kamooalewa-first-image-revealed/",
-      "summary": "HELSINKI — China’s Tianwen-2 sample return spacecraft has arrived at Kamoʻoalewa, revealing the near Earth asteroid to be a small, elongated rocky body. Tianwen-2 launched May 29, 2025, and traveled […] The post Tianwen-2 arrives at asteroid Kamo’oalewa, first image revealed appeared first on SpaceNews."
+      "url": "https://spacenews.com/isar-aerospace-to-launch-german-built-planet-imaging-satellite/",
+      "summary": "Isar Aerospace won a contract from Planet’s German subsidiary to launch an imaging satellite, demonstrating an end-to-end space capability for the country. The post Isar Aerospace to launch German-built Planet imaging satellite appeared first on SpaceNews."
     },
     {
-      "title": "How a Twitter Post Discovered a New Wasp Species to Japan",
+      "title": "Expanding our Heat Resilience data to 50+ global cities",
+      "source": "Google Research Blog",
+      "url": "https://research.google/blog/expanding-our-heat-resilience-data-to-50-global-cities/",
+      "summary": "Climate & Sustainability"
+    },
+    {
+      "title": "Introducing TabFM: A zero-shot foundation model for tabular data",
+      "source": "Google Research Blog",
+      "url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
+      "summary": "Data Management"
+    },
+    {
+      "title": "IAUS 407: Origins 2026",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/astrophysics/programs/exep/resources/exoplanet-meetings/iaus-407-origins-2026/",
+      "summary": "Date: July 6, 2026 - July 11, 2026 Location: Paris, France The post IAUS 407: Origins 2026 appeared first on NASA Science."
+    },
+    {
+      "title": "SPIE Astronomical Telescopes + Instrumentation 2026",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/astrophysics/programs/exep/resources/exoplanet-meetings/spie-astronomical-telescopes-instrumentation-2026/",
+      "summary": "Date: July 5, 2026 - July 10, 2026 Location: Copenhagen, Denmark The post SPIE Astronomical Telescopes + Instrumentation 2026 appeared first on NASA Science."
+    },
+    {
+      "title": "Memory Loss May Not Be the Earliest Sign of Alzheimer’s",
       "source": "Nautilus",
-      "url": "https://nautil.us/how-a-twitter-post-discovered-a-new-wasp-species-to-japan-1282405/",
-      "summary": "Citizen scientists strike again The post How a Twitter Post Discovered a New Wasp Species to Japan appeared first on Nautilus."
-    },
-    {
-      "title": "Mapping Europe’s AI Workforce Opportunity",
-      "source": "OpenAI News",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes."
+      "url": "https://nautil.us/memory-loss-may-not-be-the-earliest-sign-of-alzheimers-1282448/",
+      "summary": "Your cognitive flexibility may go first The post Memory Loss May Not Be the Earliest Sign of Alzheimer’s appeared first on Nautilus."
     }
   ],
   "reading_list": [],
   "metadata": {
-    "created_at": "2026-07-06T12:13:32.312195",
+    "created_at": "2026-07-06T12:40:59.173811",
     "llm_provider": "anthropic",
     "llm_model": "claude-opus-4-8",
     "tts_provider": "openai",

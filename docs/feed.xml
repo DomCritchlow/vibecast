@@ -8,7 +8,7 @@
     <link>https://critchlow.us/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jul 2026 12:16:35 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 12:43:51 -0000</lastBuildDate>
     <atom:link href="https://critchlow.us/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -28,97 +28,97 @@
     </image>
     <itunes:image href="https://critchlow.us/vibecast/artwork.png"/>
     <item>
-      <title>AI Math Breakthrough &amp; Tianwen-2 Asteroid Arrival</title>
+      <title>Swift Reboost &amp; TabFM Foundation Model Debut</title>
       <description><![CDATA[IN THIS EPISODE:
 
-1. Time to give hydration breaks the red card? What science says about keeping cool
-   Source: Nature News
-2. Deep-sea oddities and boatloads of other new species — June’s best science images
-   Source: Nature News
-3. OpenAI’s math breakthrough played to AI’s strengths
-   Source: Understanding AI
-4. Centre for Space Futures, Novaspace and SpaceTech Gulf Sign Agreement to Develop Global Space Capability Mapping Dashboard
+1. Pegasus launches Swift reboost mission
    Source: SpaceNews
-5. Tianwen-2 arrives at asteroid Kamo’oalewa, first image revealed
+2. Isar Aerospace to launch German-built Planet imaging satellite
    Source: SpaceNews
-6. How a Twitter Post Discovered a New Wasp Species to Japan
+3. Expanding our Heat Resilience data to 50+ global cities
+   Source: Google Research Blog
+4. Introducing TabFM: A zero-shot foundation model for tabular data
+   Source: Google Research Blog
+5. IAUS 407: Origins 2026
+   Source: NASA Science
+6. SPIE Astronomical Telescopes + Instrumentation 2026
+   Source: NASA Science
+7. Memory Loss May Not Be the Earliest Sign of Alzheimer’s
    Source: Nautilus
-7. Mapping Europe’s AI Workforce Opportunity
-   Source: OpenAI News
 
 REFERENCES:
 
-1. Time to give hydration breaks the red card? What science says about keeping cool
-   https://www.nature.com/articles/d41586-026-02097-0
+1. Pegasus launches Swift reboost mission
+   https://spacenews.com/pegasus-launches-swift-reboost-mission/
 
-2. Deep-sea oddities and boatloads of other new species — June’s best science images
-   https://www.nature.com/articles/d41586-026-02087-2
+2. Isar Aerospace to launch German-built Planet imaging satellite
+   https://spacenews.com/isar-aerospace-to-launch-german-built-planet-imaging-satellite/
 
-3. OpenAI’s math breakthrough played to AI’s strengths
-   https://www.understandingai.org/p/openais-milestone-math-breakthrough
+3. Expanding our Heat Resilience data to 50+ global cities
+   https://research.google/blog/expanding-our-heat-resilience-data-to-50-global-cities/
 
-4. Centre for Space Futures, Novaspace and SpaceTech Gulf Sign Agreement to Develop Global Space Capability Mapping Dashboard
-   https://spacenews.com/centre-for-space-futures-novaspace-and-spacetech-gulf-sign-agreement-to-develop-global-space-capability-mapping-dashboard/
+4. Introducing TabFM: A zero-shot foundation model for tabular data
+   https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/
 
-5. Tianwen-2 arrives at asteroid Kamo’oalewa, first image revealed
-   https://spacenews.com/tianwen-2-arrives-at-asteroid-kamooalewa-first-image-revealed/
+5. IAUS 407: Origins 2026
+   https://science.nasa.gov/astrophysics/programs/exep/resources/exoplanet-meetings/iaus-407-origins-2026/
 
-6. How a Twitter Post Discovered a New Wasp Species to Japan
-   https://nautil.us/how-a-twitter-post-discovered-a-new-wasp-species-to-japan-1282405/
+6. SPIE Astronomical Telescopes + Instrumentation 2026
+   https://science.nasa.gov/astrophysics/programs/exep/resources/exoplanet-meetings/spie-astronomical-telescopes-instrumentation-2026/
 
-7. Mapping Europe’s AI Workforce Opportunity
-   https://openai.com/index/mapping-ai-jobs-transition-eu
+7. Memory Loss May Not Be the Earliest Sign of Alzheimer’s
+   https://nautil.us/memory-loss-may-not-be-the-earliest-sign-of-alzheimers-1282448/
 
 ---
 📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-06/newspaper.pdf]]></description>
-      <pubDate>Mon, 06 Jul 2026 12:13:32 -0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 12:40:59 -0000</pubDate>
       <guid isPermaLink="false">2026-07-06</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-06.mp3" length="7680087" type="audio/mpeg"/>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-06.mp3" length="7484482" type="audio/mpeg"/>
       <itunes:summary><![CDATA[IN THIS EPISODE:
 
-1. Time to give hydration breaks the red card? What science says about keeping cool
-   Source: Nature News
-2. Deep-sea oddities and boatloads of other new species — June’s best science images
-   Source: Nature News
-3. OpenAI’s math breakthrough played to AI’s strengths
-   Source: Understanding AI
-4. Centre for Space Futures, Novaspace and SpaceTech Gulf Sign Agreement to Develop Global Space Capability Mapping Dashboard
+1. Pegasus launches Swift reboost mission
    Source: SpaceNews
-5. Tianwen-2 arrives at asteroid Kamo’oalewa, first image revealed
+2. Isar Aerospace to launch German-built Planet imaging satellite
    Source: SpaceNews
-6. How a Twitter Post Discovered a New Wasp Species to Japan
+3. Expanding our Heat Resilience data to 50+ global cities
+   Source: Google Research Blog
+4. Introducing TabFM: A zero-shot foundation model for tabular data
+   Source: Google Research Blog
+5. IAUS 407: Origins 2026
+   Source: NASA Science
+6. SPIE Astronomical Telescopes + Instrumentation 2026
+   Source: NASA Science
+7. Memory Loss May Not Be the Earliest Sign of Alzheimer’s
    Source: Nautilus
-7. Mapping Europe’s AI Workforce Opportunity
-   Source: OpenAI News
 
 REFERENCES:
 
-1. Time to give hydration breaks the red card? What science says about keeping cool
-   https://www.nature.com/articles/d41586-026-02097-0
+1. Pegasus launches Swift reboost mission
+   https://spacenews.com/pegasus-launches-swift-reboost-mission/
 
-2. Deep-sea oddities and boatloads of other new species — June’s best science images
-   https://www.nature.com/articles/d41586-026-02087-2
+2. Isar Aerospace to launch German-built Planet imaging satellite
+   https://spacenews.com/isar-aerospace-to-launch-german-built-planet-imaging-satellite/
 
-3. OpenAI’s math breakthrough played to AI’s strengths
-   https://www.understandingai.org/p/openais-milestone-math-breakthrough
+3. Expanding our Heat Resilience data to 50+ global cities
+   https://research.google/blog/expanding-our-heat-resilience-data-to-50-global-cities/
 
-4. Centre for Space Futures, Novaspace and SpaceTech Gulf Sign Agreement to Develop Global Space Capability Mapping Dashboard
-   https://spacenews.com/centre-for-space-futures-novaspace-and-spacetech-gulf-sign-agreement-to-develop-global-space-capability-mapping-dashboard/
+4. Introducing TabFM: A zero-shot foundation model for tabular data
+   https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/
 
-5. Tianwen-2 arrives at asteroid Kamo’oalewa, first image revealed
-   https://spacenews.com/tianwen-2-arrives-at-asteroid-kamooalewa-first-image-revealed/
+5. IAUS 407: Origins 2026
+   https://science.nasa.gov/astrophysics/programs/exep/resources/exoplanet-meetings/iaus-407-origins-2026/
 
-6. How a Twitter Post Discovered a New Wasp Species to Japan
-   https://nautil.us/how-a-twitter-post-discovered-a-new-wasp-species-to-japan-1282405/
+6. SPIE Astronomical Telescopes + Instrumentation 2026
+   https://science.nasa.gov/astrophysics/programs/exep/resources/exoplanet-meetings/spie-astronomical-telescopes-instrumentation-2026/
 
-7. Mapping Europe’s AI Workforce Opportunity
-   https://openai.com/index/mapping-ai-jobs-transition-eu
+7. Memory Loss May Not Be the Earliest Sign of Alzheimer’s
+   https://nautil.us/memory-loss-may-not-be-the-earliest-sign-of-alzheimers-1282448/
 
 ---
 📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-06/newspaper.pdf]]></itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>6:03</itunes:duration>
+      <itunes:duration>6:02</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-06/episode-art.png"/>
     </item>
     <item>
