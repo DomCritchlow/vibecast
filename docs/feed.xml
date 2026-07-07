@@ -8,7 +8,7 @@
     <link>https://critchlow.us/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jul 2026 12:43:51 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 11:45:03 -0000</lastBuildDate>
     <atom:link href="https://critchlow.us/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://critchlow.us/vibecast/</link>
     </image>
     <itunes:image href="https://critchlow.us/vibecast/artwork.png"/>
+    <item>
+      <title>CAPSTONE Lunar Tech &amp; Quantum Proofs Breakthrough</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies
+   Source: NASA Science
+2. NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies
+   Source: NASA News
+3. Chemical fumes still detected at Gowanus school after installation of filter system
+   Source: Gothamist (NYC)
+4. Cartilage Engineering, Blood Pressure Studies Kick Off Week Aboard Station
+   Source: NASA Science
+5. Researchers Reveal the Power of ‘Quantum Proofs’
+   Source: Quanta Magazine
+6. Listen to Gen Z when it comes to AI in education
+   Source: Nature News
+7. AI can cause harm: safeguards must catch up
+   Source: Nature News
+
+REFERENCES:
+
+1. NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies
+   https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/
+
+2. NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies
+   https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/
+
+3. Chemical fumes still detected at Gowanus school after installation of filter system
+   https://gothamist.com/news/chemical-fumes-still-detected-at-gowanus-school-after-installation-of-filter-system
+
+4. Cartilage Engineering, Blood Pressure Studies Kick Off Week Aboard Station
+   https://www.nasa.gov/blogs/spacestation/2026/07/06/cartilage-engineering-blood-pressure-studies-kick-off-week-aboard-station/
+
+5. Researchers Reveal the Power of ‘Quantum Proofs’
+   https://www.quantamagazine.org/researchers-reveal-the-power-of-quantum-proofs-20260706/
+
+6. Listen to Gen Z when it comes to AI in education
+   https://www.nature.com/articles/d41586-026-02110-6
+
+7. AI can cause harm: safeguards must catch up
+   https://www.nature.com/articles/d41586-026-02109-z
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-07/newspaper.pdf]]></description>
+      <pubDate>Tue, 07 Jul 2026 11:42:13 -0000</pubDate>
+      <guid isPermaLink="false">2026-07-07</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-07.mp3" length="7482602" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies
+   Source: NASA Science
+2. NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies
+   Source: NASA News
+3. Chemical fumes still detected at Gowanus school after installation of filter system
+   Source: Gothamist (NYC)
+4. Cartilage Engineering, Blood Pressure Studies Kick Off Week Aboard Station
+   Source: NASA Science
+5. Researchers Reveal the Power of ‘Quantum Proofs’
+   Source: Quanta Magazine
+6. Listen to Gen Z when it comes to AI in education
+   Source: Nature News
+7. AI can cause harm: safeguards must catch up
+   Source: Nature News
+
+REFERENCES:
+
+1. NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies
+   https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/
+
+2. NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies
+   https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/
+
+3. Chemical fumes still detected at Gowanus school after installation of filter system
+   https://gothamist.com/news/chemical-fumes-still-detected-at-gowanus-school-after-installation-of-filter-system
+
+4. Cartilage Engineering, Blood Pressure Studies Kick Off Week Aboard Station
+   https://www.nasa.gov/blogs/spacestation/2026/07/06/cartilage-engineering-blood-pressure-studies-kick-off-week-aboard-station/
+
+5. Researchers Reveal the Power of ‘Quantum Proofs’
+   https://www.quantamagazine.org/researchers-reveal-the-power-of-quantum-proofs-20260706/
+
+6. Listen to Gen Z when it comes to AI in education
+   https://www.nature.com/articles/d41586-026-02110-6
+
+7. AI can cause harm: safeguards must catch up
+   https://www.nature.com/articles/d41586-026-02109-z
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-07/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>6:11</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-07/episode-art.png"/>
+    </item>
     <item>
       <title>Swift Reboost &amp; TabFM Foundation Model Debut</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:33</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-04/episode-art.png"/>
-    </item>
-    <item>
-      <title>Codex Boosts Productivity &amp; NASA&#x27;s Lunar Tech Challenge</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Codex is becoming a productivity tool for everyone
-   Source: OpenAI News
-2. NASA Space Roboticist Challenge
-   Source: NASA Science
-3. Lunar Surface Technology
-   Source: NASA Science
-4. Remembering inventor and activist Hertha Ayrton
-   Source: Nature News
-5. Is it time to ‘cap and trade’ credits for research-funding proposals?
-   Source: Nature News
-6. The Download: AI can run your admin department now
-   Source: MIT Technology Review
-7. How small businesses can leverage AI
-   Source: MIT Technology Review
-
-REFERENCES:
-
-1. Codex is becoming a productivity tool for everyone
-   https://openai.com/index/codex-for-knowledge-work
-
-2. NASA Space Roboticist Challenge
-   https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-space-roboticist-challenge/
-
-3. Lunar Surface Technology
-   https://www.nasa.gov/lunar-surface-technology/
-
-4. Remembering inventor and activist Hertha Ayrton
-   https://www.nature.com/articles/d41586-026-01337-7
-
-5. Is it time to ‘cap and trade’ credits for research-funding proposals?
-   https://www.nature.com/articles/d41586-026-01777-1
-
-6. The Download: AI can run your admin department now
-   https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/
-
-7. How small businesses can leverage AI
-   https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-03/newspaper.pdf]]></description>
-      <pubDate>Wed, 03 Jun 2026 08:56:26 -0000</pubDate>
-      <guid isPermaLink="false">2026-06-03</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-03.mp3" length="5684496" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Codex is becoming a productivity tool for everyone
-   Source: OpenAI News
-2. NASA Space Roboticist Challenge
-   Source: NASA Science
-3. Lunar Surface Technology
-   Source: NASA Science
-4. Remembering inventor and activist Hertha Ayrton
-   Source: Nature News
-5. Is it time to ‘cap and trade’ credits for research-funding proposals?
-   Source: Nature News
-6. The Download: AI can run your admin department now
-   Source: MIT Technology Review
-7. How small businesses can leverage AI
-   Source: MIT Technology Review
-
-REFERENCES:
-
-1. Codex is becoming a productivity tool for everyone
-   https://openai.com/index/codex-for-knowledge-work
-
-2. NASA Space Roboticist Challenge
-   https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-space-roboticist-challenge/
-
-3. Lunar Surface Technology
-   https://www.nasa.gov/lunar-surface-technology/
-
-4. Remembering inventor and activist Hertha Ayrton
-   https://www.nature.com/articles/d41586-026-01337-7
-
-5. Is it time to ‘cap and trade’ credits for research-funding proposals?
-   https://www.nature.com/articles/d41586-026-01777-1
-
-6. The Download: AI can run your admin department now
-   https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/
-
-7. How small businesses can leverage AI
-   https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-03/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:13</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-03/episode-art.png"/>
     </item>
   </channel>
 </rss>
