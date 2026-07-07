@@ -29,7 +29,7 @@
   min-height: 600px;
 }
 
-/* Sun rays - clean risograph style */
+/* Sun rays - clean risograph style, softened and faded toward the top */
 .hero::before {
   content: '';
   position: absolute;
@@ -74,7 +74,9 @@
     transparent 150deg,
     transparent 180deg
   );
-  opacity: 1;
+  opacity: 0.55;
+  -webkit-mask-image: linear-gradient(to top, black 25%, transparent 80%);
+  mask-image: linear-gradient(to top, black 25%, transparent 80%);
   pointer-events: none;
   z-index: 0;
 }
@@ -127,7 +129,7 @@
 .hero-cloud {
   position: absolute;
   background: var(--accent-0);
-  opacity: 0.5;
+  opacity: 0.3;
   pointer-events: none;
   z-index: 2;
 }
@@ -156,7 +158,7 @@
   width: 140px;
   height: 45px;
   border-radius: 60px 50px 40px 55px;
-  opacity: 0.55;
+  opacity: 0.35;
 }
 
 @media (min-width: 768px) {
@@ -2488,4 +2490,94 @@
   border-radius: var(--radius-lg);
   overflow: hidden;
   box-shadow: var(--shadow-lg);
+}
+
+/* --------------------------------------------------------------------------
+   RSS SUBSCRIBE CARD (homepage)
+   -------------------------------------------------------------------------- */
+
+.rss-section {
+  padding: var(--space-8) 0;
+  background: var(--paper-0);
+}
+
+.rss-section .container {
+  max-width: 800px;
+}
+
+.rss-card {
+  background: white;
+  border: 3px solid var(--ink-0);
+  padding: var(--space-6);
+  box-shadow: 6px 6px 0px rgba(0, 0, 0, 0.1);
+  position: relative;
+}
+
+.rss-card::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image: url('../textures/paper-grain.svg');
+  background-size: 120px 120px;
+  opacity: 0.06;
+  pointer-events: none;
+}
+
+.rss-card-inner {
+  position: relative;
+  z-index: 1;
+}
+
+.rss-card-header {
+  display: flex;
+  align-items: center;
+  gap: var(--space-4);
+  margin-bottom: var(--space-3);
+}
+
+.rss-card-icon {
+  width: 28px;
+  height: 28px;
+  color: var(--accent-0);
+  flex-shrink: 0;
+}
+
+.rss-card-title {
+  font-family: var(--font-heading);
+  font-size: var(--text-xl);
+  font-weight: 700;
+  margin: 0;
+  color: var(--ink-0);
+}
+
+.rss-card-hint {
+  color: var(--ink-2);
+  font-size: var(--text-sm);
+  margin-bottom: var(--space-4);
+}
+
+.rss-card-row {
+  display: flex;
+  gap: var(--space-3);
+  align-items: center;
+}
+
+.rss-card-input {
+  flex: 1;
+  min-width: 0;
+  padding: var(--space-3);
+  border: 2px solid var(--ink-0);
+  background: var(--paper-1);
+  font-family: monospace;
+  font-size: var(--text-sm);
+  color: var(--ink-0);
+  border-radius: 0;
+  cursor: pointer;
+}
+
+@media (max-width: 560px) {
+  .rss-card-row {
+    flex-direction: column;
+    align-items: stretch;
+  }
 }

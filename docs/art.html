@@ -23,22 +23,40 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;1,300&family=Space+Mono&display=swap" rel="stylesheet">
   <style>
+    /* Dark, full-bleed gallery — lets the episode art carry the page */
+    .art-page {
+      background: #0f0e0c;
+      min-height: 100vh;
+    }
+
     .art-header {
-      padding: 20px 48px;
+      padding: 72px 48px 56px;
+      max-width: 1100px;
     }
 
     .art-header h1 {
-      font-size: clamp(1.6rem, 3vw, 2.6rem);
+      font-size: clamp(1.8rem, 3.4vw, 3rem);
       font-weight: 300;
       letter-spacing: 0.04em;
       color: #c0b8a8;
-      line-height: 1.1;
+      line-height: 1.15;
       font-family: 'Cormorant Garamond', Georgia, serif;
+      margin: 0;
     }
 
     .art-header h1 em {
       font-style: italic;
+      color: #FF6620;
+    }
+
+    .art-header p {
+      margin: 20px 0 0;
+      max-width: 52ch;
       color: #5a5550;
+      font-family: 'Space Mono', monospace;
+      font-size: 0.8rem;
+      letter-spacing: 0.06em;
+      line-height: 1.7;
     }
 
     .art-grid {
@@ -68,6 +86,31 @@
       height: 100%;
       object-fit: cover;
       display: block;
+      transition: transform 0.45s ease, opacity 0.45s ease;
+    }
+
+    .art-episode:hover img {
+      transform: scale(1.03);
+    }
+
+    .art-episode .art-date {
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      padding: 24px 14px 12px;
+      background: linear-gradient(transparent, rgba(10, 9, 8, 0.85));
+      color: #c0b8a8;
+      font-family: 'Space Mono', monospace;
+      font-size: 0.7rem;
+      letter-spacing: 0.1em;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+      pointer-events: none;
+    }
+
+    .art-episode:hover .art-date {
+      opacity: 1;
     }
   </style>
 
@@ -100,6 +143,14 @@
         <!-- Main Content -->
         <main class="page-main">
             
+<div class="art-page">
+  <header class="art-header">
+    <h1>One episode, <em>one image</em>.<br>The daily art of Vibecast.</h1>
+    <p>Cover art is generated fresh for every episode from that morning's stories — editorial risograph, black ink, warm paper, one accent color a day.</p>
+  </header>
+  <div class="art-grid" id="art-grid"></div>
+</div>
+
         </main>
         
         <!-- Footer -->
@@ -110,6 +161,7 @@
                     <a href="index.html" class="footer-link">Home</a>
                     <a href="about.html" class="footer-link">About</a>
                     <a href="docs.html" class="footer-link">Docs</a>
+                    <a href="art.html" class="footer-link">Art</a>
                     
                     <a href="https://github.com/domcritchlow/vibecast" class="footer-link" target="_blank" rel="noopener">GitHub</a>
                     
@@ -212,18 +264,24 @@
     const grid = document.getElementById('art-grid');
 
     generateDates(START_DATE).forEach((dateStr, i) => {
-      const episode = document.createElement('div');
+      const episode = document.createElement('a');
       episode.className = 'art-episode';
+      episode.href = `episode.html?id=${dateStr}`;
 
       const img = document.createElement('img');
-      img.alt = `Episode ${dateStr}`;
+      img.alt = `Episode artwork for ${dateStr}`;
       img.loading = i < 12 ? 'eager' : 'lazy';
       img.decoding = 'async';
 
       img.onerror = () => episode.remove();
       img.src = `${BASE_URL}/${dateStr}/episode-art.png`;
 
+      const date = document.createElement('span');
+      date.className = 'art-date';
+      date.textContent = dateStr;
+
       episode.appendChild(img);
+      episode.appendChild(date);
       grid.appendChild(episode);
     });
   </script>
