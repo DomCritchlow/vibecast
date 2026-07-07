@@ -762,5 +762,5 @@ feed:
 # =============================================================================
 schedule:
   timezone: "America/New_York"           # Override: VIBECAST_TIMEZONE
-  target_hour: 5                         # 05:00 local time (Eastern)
+  target_hour: 3                         # ~03:30 local (Eastern) — cron is 07:30 UTC in daily.yml
 

@@ -2,9 +2,9 @@ name: Daily Podcast
 
 on:
   schedule:
-    # Run at 09:00 UTC daily = 05:00 EDT (summer) / 04:00 EST (winter) in New York
-    # GitHub Actions uses UTC, so adjust for your timezone
-    - cron: "0 9 * * *"
+    # Run at 07:30 UTC daily = 03:30 EDT (summer) / 02:30 EST (winter) in New York
+    # so the episode is ready before an early wake-up. GitHub Actions uses UTC.
+    - cron: "30 7 * * *"
   
   # Allow manual triggering from Actions tab
   workflow_dispatch:
