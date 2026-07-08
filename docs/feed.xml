@@ -8,7 +8,7 @@
     <link>https://critchlow.us/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2026 11:45:03 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 09:47:06 -0000</lastBuildDate>
     <atom:link href="https://critchlow.us/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://critchlow.us/vibecast/</link>
     </image>
     <itunes:image href="https://critchlow.us/vibecast/artwork.png"/>
+    <item>
+      <title>AI Text Cloaking &amp; Ocean-Watching Satellites</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. ‘Humanizer’ tool can erase signs of AI-written text — alarming scientists
+   Source: Nature News
+2. Keeping PACE with Ocean Change
+   Source: NASA Science
+3. The Loving Embrace of the Milky Way
+   Source: Nautilus
+4. NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge
+   Source: NASA Science
+5. NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge
+   Source: NASA News
+6. Publisher Correction: A 98-qubit trapped-ion quantum computer with all-to-all connectivity
+   Source: Nature News
+7. The foundational elements of AI architecture that IT leaders need to scale
+   Source: MIT Technology Review
+
+REFERENCES:
+
+1. ‘Humanizer’ tool can erase signs of AI-written text — alarming scientists
+   https://www.nature.com/articles/d41586-026-02105-3
+
+2. Keeping PACE with Ocean Change
+   https://science.nasa.gov/blogs/notes-from-the-field/2026/07/07/keeping-pace-with-ocean-change/
+
+3. The Loving Embrace of the Milky Way
+   https://nautil.us/the-loving-embrace-of-the-milky-way-1282550/
+
+4. NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge
+   https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/
+
+5. NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge
+   https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/
+
+6. Publisher Correction: A 98-qubit trapped-ion quantum computer with all-to-all connectivity
+   https://www.nature.com/articles/s41586-026-10882-0
+
+7. The foundational elements of AI architecture that IT leaders need to scale
+   https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-08/newspaper.pdf]]></description>
+      <pubDate>Wed, 08 Jul 2026 09:44:13 -0000</pubDate>
+      <guid isPermaLink="false">2026-07-08</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-08.mp3" length="7800460" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. ‘Humanizer’ tool can erase signs of AI-written text — alarming scientists
+   Source: Nature News
+2. Keeping PACE with Ocean Change
+   Source: NASA Science
+3. The Loving Embrace of the Milky Way
+   Source: Nautilus
+4. NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge
+   Source: NASA Science
+5. NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge
+   Source: NASA News
+6. Publisher Correction: A 98-qubit trapped-ion quantum computer with all-to-all connectivity
+   Source: Nature News
+7. The foundational elements of AI architecture that IT leaders need to scale
+   Source: MIT Technology Review
+
+REFERENCES:
+
+1. ‘Humanizer’ tool can erase signs of AI-written text — alarming scientists
+   https://www.nature.com/articles/d41586-026-02105-3
+
+2. Keeping PACE with Ocean Change
+   https://science.nasa.gov/blogs/notes-from-the-field/2026/07/07/keeping-pace-with-ocean-change/
+
+3. The Loving Embrace of the Milky Way
+   https://nautil.us/the-loving-embrace-of-the-milky-way-1282550/
+
+4. NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge
+   https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/
+
+5. NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge
+   https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/
+
+6. Publisher Correction: A 98-qubit trapped-ion quantum computer with all-to-all connectivity
+   https://www.nature.com/articles/s41586-026-10882-0
+
+7. The foundational elements of AI architecture that IT leaders need to scale
+   https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-08/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>6:18</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-08/episode-art.png"/>
+    </item>
     <item>
       <title>CAPSTONE Lunar Tech &amp; Quantum Proofs Breakthrough</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:58</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-05/episode-art.png"/>
-    </item>
-    <item>
-      <title>NASA’s Element Discovery &amp; GPT-Rosalind’s New Powers</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Introducing new capabilities to GPT-Rosalind
-   Source: OpenAI News
-2. Human Research, Biotechnology for Advanced Health Fill Station Research Schedule
-   Source: NASA Science
-3. NASA Finds New Way Earth May Have Received Elements Needed for Life
-   Source: NASA Science
-4. Earth’s east–west albedo symmetry
-   Source: Nature News
-5. WiiM expands its whole-home ecosystem with a new soundbar
-   Source: The Verge
-6. Can black holes turn into white holes? It's not such a crazy idea, scientists say
-   Source: Space.com
-7. Spain's total solar eclipse 2026 comes with a catch — here's how to avoid ruining your view
-   Source: Space.com
-
-REFERENCES:
-
-1. Introducing new capabilities to GPT-Rosalind
-   https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind
-
-2. Human Research, Biotechnology for Advanced Health Fill Station Research Schedule
-   https://www.nasa.gov/blogs/spacestation/2026/06/03/human-research-biotechnology-for-advanced-health-fill-station-research-schedule/
-
-3. NASA Finds New Way Earth May Have Received Elements Needed for Life
-   https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-finds-new-way-earth-may-have-received-elements-needed-for-life/
-
-4. Earth’s east–west albedo symmetry
-   https://www.nature.com/articles/s41586-026-10624-2
-
-5. WiiM expands its whole-home ecosystem with a new soundbar
-   https://www.theverge.com/tech/942748/wiim-releases-first-soundbar
-
-6. Can black holes turn into white holes? It's not such a crazy idea, scientists say
-   https://www.space.com/astronomy/black-holes/can-black-holes-turn-into-white-holes-its-not-such-a-crazy-idea-scientists-say
-
-7. Spain's total solar eclipse 2026 comes with a catch — here's how to avoid ruining your view
-   https://www.space.com/stargazing/solar-eclipses/spains-total-solar-eclipse-2026-comes-with-a-catch-heres-how-to-avoid-ruining-your-view
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-04/newspaper.pdf]]></description>
-      <pubDate>Thu, 04 Jun 2026 08:22:12 -0000</pubDate>
-      <guid isPermaLink="false">2026-06-04</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-04.mp3" length="6455046" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Introducing new capabilities to GPT-Rosalind
-   Source: OpenAI News
-2. Human Research, Biotechnology for Advanced Health Fill Station Research Schedule
-   Source: NASA Science
-3. NASA Finds New Way Earth May Have Received Elements Needed for Life
-   Source: NASA Science
-4. Earth’s east–west albedo symmetry
-   Source: Nature News
-5. WiiM expands its whole-home ecosystem with a new soundbar
-   Source: The Verge
-6. Can black holes turn into white holes? It's not such a crazy idea, scientists say
-   Source: Space.com
-7. Spain's total solar eclipse 2026 comes with a catch — here's how to avoid ruining your view
-   Source: Space.com
-
-REFERENCES:
-
-1. Introducing new capabilities to GPT-Rosalind
-   https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind
-
-2. Human Research, Biotechnology for Advanced Health Fill Station Research Schedule
-   https://www.nasa.gov/blogs/spacestation/2026/06/03/human-research-biotechnology-for-advanced-health-fill-station-research-schedule/
-
-3. NASA Finds New Way Earth May Have Received Elements Needed for Life
-   https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-finds-new-way-earth-may-have-received-elements-needed-for-life/
-
-4. Earth’s east–west albedo symmetry
-   https://www.nature.com/articles/s41586-026-10624-2
-
-5. WiiM expands its whole-home ecosystem with a new soundbar
-   https://www.theverge.com/tech/942748/wiim-releases-first-soundbar
-
-6. Can black holes turn into white holes? It's not such a crazy idea, scientists say
-   https://www.space.com/astronomy/black-holes/can-black-holes-turn-into-white-holes-its-not-such-a-crazy-idea-scientists-say
-
-7. Spain's total solar eclipse 2026 comes with a catch — here's how to avoid ruining your view
-   https://www.space.com/stargazing/solar-eclipses/spains-total-solar-eclipse-2026-comes-with-a-catch-heres-how-to-avoid-ruining-your-view
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-04/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:33</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-04/episode-art.png"/>
     </item>
   </channel>
 </rss>

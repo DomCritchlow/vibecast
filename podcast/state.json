@@ -1,12 +1,5 @@
 {
   "url_timestamps": {
-    "https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/": "2026-04-09T05:51:22.845398",
-    "https://science.nasa.gov/solar-system/solar-system-bibliography/": "2026-04-09T05:51:22.845398",
-    "https://www.nasa.gov/johnson/history/jsc-building-37/": "2026-04-09T05:51:22.845398",
-    "https://www.nature.com/articles/d41586-026-01109-3": "2026-04-09T05:51:22.845398",
-    "https://www.nature.com/articles/s41586-026-10457-z": "2026-04-09T05:51:22.845398",
-    "https://openai.com/index/next-phase-of-enterprise-ai": "2026-04-09T05:51:22.845398",
-    "https://openai.com/index/introducing-child-safety-blueprint": "2026-04-09T05:51:22.845398",
     "https://www.nasa.gov/aeronautics/indoor-testing-facilities-available-at-the-nasa-unmanned-autonomy-research-complex-nuarc/": "2026-04-10T06:00:39.651021",
     "https://www.nasa.gov/image-article/indoor-testing-facilities-available-at-the-nasa-unmanned-autonomy-research-complex-nuarc/": "2026-04-10T06:00:39.651021",
     "https://www.nature.com/articles/d41586-026-01147-x": "2026-04-10T06:00:39.651021",
@@ -600,8 +593,14 @@
     "https://www.nasa.gov/blogs/spacestation/2026/07/06/cartilage-engineering-blood-pressure-studies-kick-off-week-aboard-station/": "2026-07-07T11:42:13.757631",
     "https://www.quantamagazine.org/researchers-reveal-the-power-of-quantum-proofs-20260706/": "2026-07-07T11:42:13.757631",
     "https://www.nature.com/articles/d41586-026-02110-6": "2026-07-07T11:42:13.757631",
-    "https://www.nature.com/articles/d41586-026-02109-z": "2026-07-07T11:42:13.757631"
+    "https://www.nature.com/articles/d41586-026-02109-z": "2026-07-07T11:42:13.757631",
+    "https://www.nature.com/articles/d41586-026-02105-3": "2026-07-08T09:44:13.652456",
+    "https://science.nasa.gov/blogs/notes-from-the-field/2026/07/07/keeping-pace-with-ocean-change/": "2026-07-08T09:44:13.652456",
+    "https://nautil.us/the-loving-embrace-of-the-milky-way-1282550/": "2026-07-08T09:44:13.652456",
+    "https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/": "2026-07-08T09:44:13.652456",
+    "https://www.nature.com/articles/s41586-026-10882-0": "2026-07-08T09:44:13.652456",
+    "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/": "2026-07-08T09:44:13.652456"
   },
-  "last_run": "2026-07-07T11:42:13.757631",
+  "last_run": "2026-07-08T09:44:13.652456",
   "special_dates": []
 }

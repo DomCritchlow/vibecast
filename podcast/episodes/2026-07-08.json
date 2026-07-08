@@ -1,0 +1,68 @@
+{
+  "guid": "2026-07-08",
+  "date": "2026-07-08T09:44:13.652456",
+  "title": "AI Text Cloaking & Ocean-Watching Satellites",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 378.5263157894737,
+  "duration_formatted": "6:18",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-08.mp3",
+    "audio_size_bytes": 7800460,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-08/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-08/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-07-08.txt"
+  },
+  "stories": [
+    {
+      "title": "‘Humanizer’ tool can erase signs of AI-written text — alarming scientists",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02105-3",
+      "summary": "Nature, Published online: 07 July 2026; doi:10.1038/d41586-026-02105-3Tool directs text-generation systems to remove constructions associated with artificial intelligence in research papers and grant proposals."
+    },
+    {
+      "title": "Keeping PACE with Ocean Change",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/blogs/notes-from-the-field/2026/07/07/keeping-pace-with-ocean-change/",
+      "summary": "The primary goal of this collaboration was to support and validate science data products from NASA's recently launched Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) satellite mission The post Keeping PACE with Ocean Change appeared first on NASA Science."
+    },
+    {
+      "title": "The Loving Embrace of the Milky Way",
+      "source": "Nautilus",
+      "url": "https://nautil.us/the-loving-embrace-of-the-milky-way-1282550/",
+      "summary": "Researchers have discovered that our galaxy’s outermost spiral arms are wide open and farther away than we thought The post The Loving Embrace of the Milky Way appeared first on Nautilus."
+    },
+    {
+      "title": "NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/",
+      "summary": "NASA ceremonially transferred ownership of about 105 acres of wooded land at its Goddard Space Flight Center’s Greenbelt, Maryland, campus Tuesday to the adjoining Patuxent Research Refuge, managed by the U.S. Fish and Wildlife Service. The property, formerly known as NASA Goddard’s Area 400, is now part of the largest block of unfragmented forest between […] The post NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge appeared first on NASA Science."
+    },
+    {
+      "title": "NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge",
+      "source": "NASA News",
+      "url": "https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/",
+      "summary": "NASA ceremonially transferred ownership of about 105 acres of wooded land at its Goddard Space Flight Center’s Greenbelt, Maryland, campus Tuesday to the adjoining Patuxent Research Refuge, managed by the U.S. Fish and Wildlife Service. The property, formerly known as NASA Goddard’s Area 400, is now part of the largest block of unfragmented forest between […]"
+    },
+    {
+      "title": "Publisher Correction: A 98-qubit trapped-ion quantum computer with all-to-all connectivity",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10882-0",
+      "summary": "Nature, Published online: 07 July 2026; doi:10.1038/s41586-026-10882-0Publisher Correction: A 98-qubit trapped-ion quantum computer with all-to-all connectivity"
+    },
+    {
+      "title": "The foundational elements of AI architecture that IT leaders need to scale",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+      "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the future. Returning to the foundational elements of AI architecture—the…"
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-07-08T09:44:13.652456",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}
