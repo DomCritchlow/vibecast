@@ -1,0 +1,68 @@
+{
+  "guid": "2026-07-09",
+  "date": "2026-07-09T10:36:47.872861",
+  "title": "Surgical Humanoids & Starlink Dog Tracking",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 360.0,
+  "duration_formatted": "6:00",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-09.mp3",
+    "audio_size_bytes": 7357214,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-09/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-09/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-07-09.txt"
+  },
+  "stories": [
+    {
+      "title": "In vivo feasibility study of humanoid robots in surgery",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10796-x",
+      "summary": "Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10796-xA systematic evaluation shows that contemporary humanoid robots can perform laparoscopic surgical tasks through teleoperation, highlighting both their promise and key technical challenges before clinical deployment."
+    },
+    {
+      "title": "Fi expands Starlink direct-to-device capability into dog-tracking",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/fi-expands-starlink-direct-to-device-capability-into-dog-tracking/",
+      "summary": "Pet technology company Fi launched a dog tracker July 8 that uses T-Mobile’s Starlink-enabled T-Satellite service to remain connected across the United States, even outside the telco’s terrestrial network. The post Fi expands Starlink direct-to-device capability into dog-tracking appeared first on SpaceNews."
+    },
+    {
+      "title": "Separating signal from noise in coding evaluations",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models."
+    },
+    {
+      "title": "Small Steps, Giant Leaps Podcast Episode 177: Transformative Aeronautics",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/podcasts/small-steps-giant-leaps/small-steps-giant-leaps-podcast-episode-177-transformative-aeronautics/",
+      "summary": "A NASA research program collaborates with universities to revolutionize the way we design, build, and operate aircraft. Angela Surgenor, deputy program manager of the Transformative Aeronautics Concepts Program, explains. The post Small Steps, Giant Leaps Podcast Episode 177: Transformative Aeronautics appeared first on NASA Science."
+    },
+    {
+      "title": "Observation of Floquet rotational super-radiance",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10725-y",
+      "summary": "Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10725-yA Floquet regime of rotational super-radiance has been observed in a spatiotemporally modulated ring network of resonators."
+    },
+    {
+      "title": "Flint: A visualization language for the AI era",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/",
+      "summary": "Short chart specifications are easy to write, but often produce uninspiring results. Flint is an open-source visualization language that offers a middle path, letting AI agents create expressive charts from compact, human-editable specifications. The post Flint: A visualization language for the AI era appeared first on Microsoft Research."
+    },
+    {
+      "title": "When Galaxies Clash",
+      "source": "Nautilus",
+      "url": "https://nautil.us/when-galaxies-clash-1282574/",
+      "summary": "Is a new image of star systems colliding a vision of our Milky Way’s future? The post When Galaxies Clash appeared first on Nautilus."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-07-09T10:36:47.872861",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}

@@ -1,12 +1,5 @@
 {
   "url_timestamps": {
-    "https://www.nasa.gov/aeronautics/indoor-testing-facilities-available-at-the-nasa-unmanned-autonomy-research-complex-nuarc/": "2026-04-10T06:00:39.651021",
-    "https://www.nasa.gov/image-article/indoor-testing-facilities-available-at-the-nasa-unmanned-autonomy-research-complex-nuarc/": "2026-04-10T06:00:39.651021",
-    "https://www.nature.com/articles/d41586-026-01147-x": "2026-04-10T06:00:39.651021",
-    "https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/": "2026-04-10T06:00:39.651021",
-    "https://www.theverge.com/21289209/best-apple-watch-deals": "2026-04-10T06:00:39.651021",
-    "https://www.nature.com/articles/s43588-025-00781-1": "2026-04-10T06:00:39.651021",
-    "https://www.space.com/space-exploration/launches-spacecraft/crew-of-tiny-worms-readies-for-april-10-launch-to-international-space-station": "2026-04-10T06:00:39.651021",
     "https://openai.com/academy/search-and-deep-research": "2026-04-11T05:26:47.503760",
     "https://openai.com/academy/research": "2026-04-11T05:26:47.503760",
     "https://news.ycombinator.com/item?id=47727255": "2026-04-11T05:26:47.503760",
@@ -599,8 +592,15 @@
     "https://nautil.us/the-loving-embrace-of-the-milky-way-1282550/": "2026-07-08T09:44:13.652456",
     "https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/": "2026-07-08T09:44:13.652456",
     "https://www.nature.com/articles/s41586-026-10882-0": "2026-07-08T09:44:13.652456",
-    "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/": "2026-07-08T09:44:13.652456"
+    "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/": "2026-07-08T09:44:13.652456",
+    "https://www.nature.com/articles/s41586-026-10796-x": "2026-07-09T10:36:47.872861",
+    "https://spacenews.com/fi-expands-starlink-direct-to-device-capability-into-dog-tracking/": "2026-07-09T10:36:47.872861",
+    "https://openai.com/index/separating-signal-from-noise-coding-evaluations": "2026-07-09T10:36:47.872861",
+    "https://www.nasa.gov/podcasts/small-steps-giant-leaps/small-steps-giant-leaps-podcast-episode-177-transformative-aeronautics/": "2026-07-09T10:36:47.872861",
+    "https://www.nature.com/articles/s41586-026-10725-y": "2026-07-09T10:36:47.872861",
+    "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/": "2026-07-09T10:36:47.872861",
+    "https://nautil.us/when-galaxies-clash-1282574/": "2026-07-09T10:36:47.872861"
   },
-  "last_run": "2026-07-08T09:44:13.652456",
+  "last_run": "2026-07-09T10:36:47.872861",
   "special_dates": []
 }

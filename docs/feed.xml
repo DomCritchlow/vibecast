@@ -8,7 +8,7 @@
     <link>https://critchlow.us/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jul 2026 09:47:06 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 10:39:33 -0000</lastBuildDate>
     <atom:link href="https://critchlow.us/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://critchlow.us/vibecast/</link>
     </image>
     <itunes:image href="https://critchlow.us/vibecast/artwork.png"/>
+    <item>
+      <title>Surgical Humanoids &amp; Starlink Dog Tracking</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. In vivo feasibility study of humanoid robots in surgery
+   Source: Nature News
+2. Fi expands Starlink direct-to-device capability into dog-tracking
+   Source: SpaceNews
+3. Separating signal from noise in coding evaluations
+   Source: OpenAI News
+4. Small Steps, Giant Leaps Podcast Episode 177: Transformative Aeronautics
+   Source: NASA Science
+5. Observation of Floquet rotational super-radiance
+   Source: Nature News
+6. Flint: A visualization language for the AI era
+   Source: Microsoft Research Blog
+7. When Galaxies Clash
+   Source: Nautilus
+
+REFERENCES:
+
+1. In vivo feasibility study of humanoid robots in surgery
+   https://www.nature.com/articles/s41586-026-10796-x
+
+2. Fi expands Starlink direct-to-device capability into dog-tracking
+   https://spacenews.com/fi-expands-starlink-direct-to-device-capability-into-dog-tracking/
+
+3. Separating signal from noise in coding evaluations
+   https://openai.com/index/separating-signal-from-noise-coding-evaluations
+
+4. Small Steps, Giant Leaps Podcast Episode 177: Transformative Aeronautics
+   https://www.nasa.gov/podcasts/small-steps-giant-leaps/small-steps-giant-leaps-podcast-episode-177-transformative-aeronautics/
+
+5. Observation of Floquet rotational super-radiance
+   https://www.nature.com/articles/s41586-026-10725-y
+
+6. Flint: A visualization language for the AI era
+   https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/
+
+7. When Galaxies Clash
+   https://nautil.us/when-galaxies-clash-1282574/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-09/newspaper.pdf]]></description>
+      <pubDate>Thu, 09 Jul 2026 10:36:47 -0000</pubDate>
+      <guid isPermaLink="false">2026-07-09</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-09.mp3" length="7357214" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. In vivo feasibility study of humanoid robots in surgery
+   Source: Nature News
+2. Fi expands Starlink direct-to-device capability into dog-tracking
+   Source: SpaceNews
+3. Separating signal from noise in coding evaluations
+   Source: OpenAI News
+4. Small Steps, Giant Leaps Podcast Episode 177: Transformative Aeronautics
+   Source: NASA Science
+5. Observation of Floquet rotational super-radiance
+   Source: Nature News
+6. Flint: A visualization language for the AI era
+   Source: Microsoft Research Blog
+7. When Galaxies Clash
+   Source: Nautilus
+
+REFERENCES:
+
+1. In vivo feasibility study of humanoid robots in surgery
+   https://www.nature.com/articles/s41586-026-10796-x
+
+2. Fi expands Starlink direct-to-device capability into dog-tracking
+   https://spacenews.com/fi-expands-starlink-direct-to-device-capability-into-dog-tracking/
+
+3. Separating signal from noise in coding evaluations
+   https://openai.com/index/separating-signal-from-noise-coding-evaluations
+
+4. Small Steps, Giant Leaps Podcast Episode 177: Transformative Aeronautics
+   https://www.nasa.gov/podcasts/small-steps-giant-leaps/small-steps-giant-leaps-podcast-episode-177-transformative-aeronautics/
+
+5. Observation of Floquet rotational super-radiance
+   https://www.nature.com/articles/s41586-026-10725-y
+
+6. Flint: A visualization language for the AI era
+   https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/
+
+7. When Galaxies Clash
+   https://nautil.us/when-galaxies-clash-1282574/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-09/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>6:00</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-09/episode-art.png"/>
+    </item>
     <item>
       <title>AI Text Cloaking &amp; Ocean-Watching Satellites</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>5:29</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-06/episode-art.png"/>
-    </item>
-    <item>
-      <title>Military Science Impact &amp; Sahara Meteorite Discovery</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Science with military applications is cited more than civilian-only research
-   Source: Nature News
-2. Dreaming: Better memory for a more helpful ChatGPT
-   Source: OpenAI News
-3. Fighting Fire With Fire
-   Source: NASA Science
-4. Bioprinting Cartilage, Producing Stem Cells Fill Thursday’s Research Schedule
-   Source: NASA Science
-5. Meteorite found in Sahara desert may be 1st evidence of lost solar system world
-   Source: Space.com
-6. Author Correction: Physiology and immunology of a pig-to-human decedent kidney xenotransplant
-   Source: Nature News
-7. Dutch kids declared the world’s happiest (again). Here’s why
-   Source: Positive News
-
-REFERENCES:
-
-1. Science with military applications is cited more than civilian-only research
-   https://www.nature.com/articles/d41586-026-01770-8
-
-2. Dreaming: Better memory for a more helpful ChatGPT
-   https://openai.com/index/chatgpt-memory-dreaming
-
-3. Fighting Fire With Fire
-   https://science.nasa.gov/earth/earth-observatory/fighting-fire-with-fire/
-
-4. Bioprinting Cartilage, Producing Stem Cells Fill Thursday’s Research Schedule
-   https://www.nasa.gov/blogs/spacestation/2026/06/04/bioprinting-cartilage-producing-stem-cells-fill-thursdays-research-schedule/
-
-5. Meteorite found in Sahara desert may be 1st evidence of lost solar system world
-   https://www.space.com/astronomy/solar-system/meteorite-found-in-sahara-desert-may-be-1st-evidence-of-lost-solar-system-world
-
-6. Author Correction: Physiology and immunology of a pig-to-human decedent kidney xenotransplant
-   https://www.nature.com/articles/s41586-026-10694-2
-
-7. Dutch kids declared the world’s happiest (again). Here’s why
-   https://www.positive.news/lifestyle/wellbeing/dutch-kids-declared-the-worlds-happiest-again-heres-why/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-05/newspaper.pdf]]></description>
-      <pubDate>Fri, 05 Jun 2026 08:08:39 -0000</pubDate>
-      <guid isPermaLink="false">2026-06-05</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-05.mp3" length="7242482" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Science with military applications is cited more than civilian-only research
-   Source: Nature News
-2. Dreaming: Better memory for a more helpful ChatGPT
-   Source: OpenAI News
-3. Fighting Fire With Fire
-   Source: NASA Science
-4. Bioprinting Cartilage, Producing Stem Cells Fill Thursday’s Research Schedule
-   Source: NASA Science
-5. Meteorite found in Sahara desert may be 1st evidence of lost solar system world
-   Source: Space.com
-6. Author Correction: Physiology and immunology of a pig-to-human decedent kidney xenotransplant
-   Source: Nature News
-7. Dutch kids declared the world’s happiest (again). Here’s why
-   Source: Positive News
-
-REFERENCES:
-
-1. Science with military applications is cited more than civilian-only research
-   https://www.nature.com/articles/d41586-026-01770-8
-
-2. Dreaming: Better memory for a more helpful ChatGPT
-   https://openai.com/index/chatgpt-memory-dreaming
-
-3. Fighting Fire With Fire
-   https://science.nasa.gov/earth/earth-observatory/fighting-fire-with-fire/
-
-4. Bioprinting Cartilage, Producing Stem Cells Fill Thursday’s Research Schedule
-   https://www.nasa.gov/blogs/spacestation/2026/06/04/bioprinting-cartilage-producing-stem-cells-fill-thursdays-research-schedule/
-
-5. Meteorite found in Sahara desert may be 1st evidence of lost solar system world
-   https://www.space.com/astronomy/solar-system/meteorite-found-in-sahara-desert-may-be-1st-evidence-of-lost-solar-system-world
-
-6. Author Correction: Physiology and immunology of a pig-to-human decedent kidney xenotransplant
-   https://www.nature.com/articles/s41586-026-10694-2
-
-7. Dutch kids declared the world’s happiest (again). Here’s why
-   https://www.positive.news/lifestyle/wellbeing/dutch-kids-declared-the-worlds-happiest-again-heres-why/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-05/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:58</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-05/episode-art.png"/>
     </item>
   </channel>
 </rss>
