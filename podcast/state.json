@@ -1,12 +1,5 @@
 {
   "url_timestamps": {
-    "https://openai.com/academy/search-and-deep-research": "2026-04-11T05:26:47.503760",
-    "https://openai.com/academy/research": "2026-04-11T05:26:47.503760",
-    "https://news.ycombinator.com/item?id=47727255": "2026-04-11T05:26:47.503760",
-    "https://www.nasa.gov/human-systems-integration-division/human-performance/human-perception-and-performance-laboratory/": "2026-04-11T05:26:47.503760",
-    "https://www.nasa.gov/blogs/missions/2026/04/10/artemis-ii-flight-day-10-re-entry-live-updates/": "2026-04-11T05:26:47.503760",
-    "https://www.nature.com/articles/s41586-026-10484-w": "2026-04-11T05:26:47.503760",
-    "https://www.nature.com/articles/d41586-026-01160-0": "2026-04-11T05:26:47.503760",
     "https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/": "2026-04-12T05:56:05.302458",
     "https://www.theverge.com/gadgets/907645/nintendo-switch-2-genki-jsaux-usb-c-dock-hands-on": "2026-04-12T05:56:05.302458",
     "https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/": "2026-04-12T05:56:05.302458",
@@ -599,8 +592,17 @@
     "https://www.nasa.gov/podcasts/small-steps-giant-leaps/small-steps-giant-leaps-podcast-episode-177-transformative-aeronautics/": "2026-07-09T10:36:47.872861",
     "https://www.nature.com/articles/s41586-026-10725-y": "2026-07-09T10:36:47.872861",
     "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/": "2026-07-09T10:36:47.872861",
-    "https://nautil.us/when-galaxies-clash-1282574/": "2026-07-09T10:36:47.872861"
+    "https://nautil.us/when-galaxies-clash-1282574/": "2026-07-09T10:36:47.872861",
+    "https://www.nature.com/articles/d41586-026-01357-3": "2026-07-10T10:32:26.011288",
+    "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/": "2026-07-10T10:32:26.011288",
+    "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/": "2026-07-10T10:32:26.011288",
+    "https://openai.com/index/gpt-5-6": "2026-07-10T10:32:26.011288",
+    "https://science.nasa.gov/learn/heat/resource/video-which-planet-has-the-best-eclipse/": "2026-07-10T10:32:26.011288",
+    "https://science.nasa.gov/learn/heat/resource/helio-and-you-june-2026/": "2026-07-10T10:32:26.011288",
+    "https://gothamist.com/news/all-education-tech-purchases-on-pause-as-nyc-schools-wrestle-with-ai": "2026-07-10T10:32:26.011288"
   },
-  "last_run": "2026-07-09T10:36:47.872861",
-  "special_dates": []
+  "last_run": "2026-07-10T10:32:26.011288",
+  "special_dates": [
+    "2026-07-10"
+  ]
 }

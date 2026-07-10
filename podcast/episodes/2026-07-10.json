@@ -1,0 +1,68 @@
+{
+  "guid": "2026-07-10",
+  "date": "2026-07-10T10:32:26.011288",
+  "title": "GPT-5.6 & Claude's Hidden Mind & AI Weather Models",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 309.368163,
+  "duration_formatted": "5:09",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-10.mp3",
+    "audio_size_bytes": 7425506,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-10/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-10/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-07-10.txt"
+  },
+  "stories": [
+    {
+      "title": "‘This time, it’s the other way around’: how Indonesia is reclaiming the science of human history",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01357-3",
+      "summary": "Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-01357-3After a massive restructuring of its research ecosystem, Indonesia is taking the lead on its own palaeontological research."
+    },
+    {
+      "title": "Aurora 1.5: Extending open foundation models for weather and Earth-system applications",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/",
+      "summary": "Aurora 1.5 adds 22 more variables, hourly temporal resolution, and probabilistic ensemble forecasting to the Aurora foundation model, making it more useful for real-world weather, climate, and energy applications. The post Aurora 1.5: Extending open foundation models for weather and Earth-system applications appeared first on Microsoft Research."
+    },
+    {
+      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+      "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or…"
+    },
+    {
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/gpt-5-6",
+      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work."
+    },
+    {
+      "title": "Video: Which Planet Has the Best Eclipse?",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/learn/heat/resource/video-which-planet-has-the-best-eclipse/",
+      "summary": "Solar eclipses don't just happen here on earth - moons of other planets also pass between those planets and the Sun, resulting in various types of solar eclipses across the solar system. The post Video: Which Planet Has the Best Eclipse? appeared first on NASA Science."
+    },
+    {
+      "title": "Helio and You: June 2026",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/learn/heat/resource/helio-and-you-june-2026/",
+      "summary": "As the only state to lie partly within the Arctic Circle, Alaska experiences a wide range of extreme conditions. But with these extremes comes the chance to conduct science vital to understanding the Sun-Earth system, including launching sounding rockets to study solar flares, auroras, and other phenomena. This article explores the ways that scientists use […] The post Helio and You: June 2026 appeared first on NASA Science."
+    },
+    {
+      "title": "Education tech purchases on pause as NYC schools wrestle with AI",
+      "source": "Gothamist (NYC)",
+      "url": "https://gothamist.com/news/all-education-tech-purchases-on-pause-as-nyc-schools-wrestle-with-ai",
+      "summary": "Chancellor Kamar Samuels continues is continuing to develop guidelines on AI for the nation's largest school system. The move is the latest example of the education department’s struggle to come up with an approach to the disruptive technology. [ more › ]"
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-07-10T10:32:26.011288",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "fal",
+    "tts_voice": "SAz9YHcvj6GT2YYXdXww",
+    "special_episode": true
+  }
+}

@@ -8,7 +8,7 @@
     <link>https://critchlow.us/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jul 2026 10:39:33 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 10:36:47 -0000</lastBuildDate>
     <atom:link href="https://critchlow.us/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://critchlow.us/vibecast/</link>
     </image>
     <itunes:image href="https://critchlow.us/vibecast/artwork.png"/>
+    <item>
+      <title>GPT-5.6 &amp; Claude&#x27;s Hidden Mind &amp; AI Weather Models</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. ‘This time, it’s the other way around’: how Indonesia is reclaiming the science of human history
+   Source: Nature News
+2. Aurora 1.5: Extending open foundation models for weather and Earth-system applications
+   Source: Microsoft Research Blog
+3. Anthropic found a hidden space where Claude puzzles over concepts
+   Source: MIT Technology Review
+4. GPT-5.6: Frontier intelligence that scales with your ambition
+   Source: OpenAI News
+5. Video: Which Planet Has the Best Eclipse?
+   Source: NASA Science
+6. Helio and You: June 2026
+   Source: NASA Science
+7. Education tech purchases on pause as NYC schools wrestle with AI
+   Source: Gothamist (NYC)
+
+REFERENCES:
+
+1. ‘This time, it’s the other way around’: how Indonesia is reclaiming the science of human history
+   https://www.nature.com/articles/d41586-026-01357-3
+
+2. Aurora 1.5: Extending open foundation models for weather and Earth-system applications
+   https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/
+
+3. Anthropic found a hidden space where Claude puzzles over concepts
+   https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/
+
+4. GPT-5.6: Frontier intelligence that scales with your ambition
+   https://openai.com/index/gpt-5-6
+
+5. Video: Which Planet Has the Best Eclipse?
+   https://science.nasa.gov/learn/heat/resource/video-which-planet-has-the-best-eclipse/
+
+6. Helio and You: June 2026
+   https://science.nasa.gov/learn/heat/resource/helio-and-you-june-2026/
+
+7. Education tech purchases on pause as NYC schools wrestle with AI
+   https://gothamist.com/news/all-education-tech-purchases-on-pause-as-nyc-schools-wrestle-with-ai
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-10/newspaper.pdf]]></description>
+      <pubDate>Fri, 10 Jul 2026 10:32:26 -0000</pubDate>
+      <guid isPermaLink="false">2026-07-10</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-10.mp3" length="7425506" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. ‘This time, it’s the other way around’: how Indonesia is reclaiming the science of human history
+   Source: Nature News
+2. Aurora 1.5: Extending open foundation models for weather and Earth-system applications
+   Source: Microsoft Research Blog
+3. Anthropic found a hidden space where Claude puzzles over concepts
+   Source: MIT Technology Review
+4. GPT-5.6: Frontier intelligence that scales with your ambition
+   Source: OpenAI News
+5. Video: Which Planet Has the Best Eclipse?
+   Source: NASA Science
+6. Helio and You: June 2026
+   Source: NASA Science
+7. Education tech purchases on pause as NYC schools wrestle with AI
+   Source: Gothamist (NYC)
+
+REFERENCES:
+
+1. ‘This time, it’s the other way around’: how Indonesia is reclaiming the science of human history
+   https://www.nature.com/articles/d41586-026-01357-3
+
+2. Aurora 1.5: Extending open foundation models for weather and Earth-system applications
+   https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/
+
+3. Anthropic found a hidden space where Claude puzzles over concepts
+   https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/
+
+4. GPT-5.6: Frontier intelligence that scales with your ambition
+   https://openai.com/index/gpt-5-6
+
+5. Video: Which Planet Has the Best Eclipse?
+   https://science.nasa.gov/learn/heat/resource/video-which-planet-has-the-best-eclipse/
+
+6. Helio and You: June 2026
+   https://science.nasa.gov/learn/heat/resource/helio-and-you-june-2026/
+
+7. Education tech purchases on pause as NYC schools wrestle with AI
+   https://gothamist.com/news/all-education-tech-purchases-on-pause-as-nyc-schools-wrestle-with-ai
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-10/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>5:09</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-10/episode-art.png"/>
+    </item>
     <item>
       <title>Surgical Humanoids &amp; Starlink Dog Tracking</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:43</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-07/episode-art.png"/>
-    </item>
-    <item>
-      <title>NASA Innovation Winners &amp; Human Embryo Gene Editing Debate</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. NASA Announces Winners of 2026 University Innovation Competition
-   Source: NASA Science
-2. First precise genome editing of human embryos triggers praise and alarm
-   Source: Nature News
-3. Europe is ditching US tech — what does this mean for researchers?
-   Source: Nature News
-4. How a Citizen Science Organization Aims to Preserve the Places It Brings Tourists to Study
-   Source: Wired
-5. NASA’s Artemis II Moon Mission Research Continues on Earth
-   Source: NASA Science
-6. Scientists find wind blowing from our Milky Way's black hole after half-century search: 'There it is'
-   Source: Space.com
-7. Biodefense in the Intelligence Age
-   Source: OpenAI News
-
-REFERENCES:
-
-1. NASA Announces Winners of 2026 University Innovation Competition
-   https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-announces-winners-of-2026-university-innovation-competition/
-
-2. First precise genome editing of human embryos triggers praise and alarm
-   https://www.nature.com/articles/d41586-026-01827-8
-
-3. Europe is ditching US tech — what does this mean for researchers?
-   https://www.nature.com/articles/d41586-026-01610-9
-
-4. How a Citizen Science Organization Aims to Preserve the Places It Brings Tourists to Study
-   https://www.wired.com/story/preserving-the-places-tourists-go-to-study/
-
-5. NASA’s Artemis II Moon Mission Research Continues on Earth
-   https://science.nasa.gov/uncategorized/nasas-artemis-ii-moon-mission-research-continues-on-earth/
-
-6. Scientists find wind blowing from our Milky Way's black hole after half-century search: 'There it is'
-   https://www.space.com/astronomy/black-holes/scientists-find-wind-blowing-from-our-milky-ways-black-hole-after-half-century-search-there-it-is
-
-7. Biodefense in the Intelligence Age
-   https://openai.com/index/biodefense-in-the-intelligence-age
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-06/newspaper.pdf]]></description>
-      <pubDate>Sat, 06 Jun 2026 06:54:29 -0000</pubDate>
-      <guid isPermaLink="false">2026-06-06</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-06.mp3" length="7960954" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. NASA Announces Winners of 2026 University Innovation Competition
-   Source: NASA Science
-2. First precise genome editing of human embryos triggers praise and alarm
-   Source: Nature News
-3. Europe is ditching US tech — what does this mean for researchers?
-   Source: Nature News
-4. How a Citizen Science Organization Aims to Preserve the Places It Brings Tourists to Study
-   Source: Wired
-5. NASA’s Artemis II Moon Mission Research Continues on Earth
-   Source: NASA Science
-6. Scientists find wind blowing from our Milky Way's black hole after half-century search: 'There it is'
-   Source: Space.com
-7. Biodefense in the Intelligence Age
-   Source: OpenAI News
-
-REFERENCES:
-
-1. NASA Announces Winners of 2026 University Innovation Competition
-   https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-announces-winners-of-2026-university-innovation-competition/
-
-2. First precise genome editing of human embryos triggers praise and alarm
-   https://www.nature.com/articles/d41586-026-01827-8
-
-3. Europe is ditching US tech — what does this mean for researchers?
-   https://www.nature.com/articles/d41586-026-01610-9
-
-4. How a Citizen Science Organization Aims to Preserve the Places It Brings Tourists to Study
-   https://www.wired.com/story/preserving-the-places-tourists-go-to-study/
-
-5. NASA’s Artemis II Moon Mission Research Continues on Earth
-   https://science.nasa.gov/uncategorized/nasas-artemis-ii-moon-mission-research-continues-on-earth/
-
-6. Scientists find wind blowing from our Milky Way's black hole after half-century search: 'There it is'
-   https://www.space.com/astronomy/black-holes/scientists-find-wind-blowing-from-our-milky-ways-black-hole-after-half-century-search-there-it-is
-
-7. Biodefense in the Intelligence Age
-   https://openai.com/index/biodefense-in-the-intelligence-age
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-06/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>5:29</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-06/episode-art.png"/>
     </item>
   </channel>
 </rss>
