@@ -1,0 +1,68 @@
+{
+  "guid": "2026-07-11",
+  "date": "2026-07-11T09:04:53.587154",
+  "title": "AI Scientists, Preprint Truths & NASA's Billion Milestone",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 354.9473684210526,
+  "duration_formatted": "5:54",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-11.mp3",
+    "audio_size_bytes": 7804848,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-11/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-11/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-07-11.txt"
+  },
+  "stories": [
+    {
+      "title": "NASA CubeSat to Speed Technology Testing in Orbit",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/blogs/smallsatellites/2026/07/10/nasa-cubesat-to-speed-technology-testing-in-orbit/",
+      "summary": "The R5-S9 (Realizing Rapid, Reduced-cost high-Risk Research project Spacecraft 9) CubeSat, developed by NASA’s Johnson Space Center in Houston, lifted off at 12:12 a.m. PDT Tuesday, July 7, aboard a Falcon 9 rocket from Space Launch Complex 4 East at Vandenberg Space Force Base in California as part of the Transporter-17 rideshare mission with SpaceX. […] The post NASA CubeSat to Speed Technology Testing in Orbit appeared first on NASA Science."
+    },
+    {
+      "title": "Which ‘AI scientist’ suits your lab? A guide for the perplexed",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02091-6",
+      "summary": "Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02091-6General purpose AI tools for science, such as Claude Science, promise to accelerate research. But which is right for you?"
+    },
+    {
+      "title": "Think preprints are unreliable? Analysis of 70,000 studies might change your mind",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02167-3",
+      "summary": "Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02167-3Central conclusions rarely change when biomedical preprints go on to be published in journals."
+    },
+    {
+      "title": "NSF makes billion-dollar gamble on research with an economic payoff",
+      "source": "Science.org News",
+      "url": "https://www.science.org/content/article/nsf-makes-billion-dollar-gamble-research-economic-payoff",
+      "summary": "New X-Labs initiative aims to develop breakthrough technologies—but academics aren’t sure they are welcome"
+    },
+    {
+      "title": "NASA Volunteers Help Zooniverse Reach 1 Billion Classifications",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-help-zooniverse-reach-1-billion-classifications/",
+      "summary": "The Zooniverse, a NASA grantee that runs the world’s largest platform for online people-powered research, has reached an extraordinary milestone: 1 billion classifications contributed by volunteers around the world. This milestone is a celebration of everyone who has marked a dip in a light curve, confirmed the presence of a moving object in a short […] The post NASA Volunteers Help Zooniverse Reach 1 Billion Classifications appeared first on NASA Science."
+    },
+    {
+      "title": "NASA Volunteers Help Zooniverse Reach 1 Billion Classifications",
+      "source": "NASA News",
+      "url": "https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-help-zooniverse-reach-1-billion-classifications/",
+      "summary": "The Zooniverse, a NASA grantee that runs the world’s largest platform for online people-powered research, has reached an extraordinary milestone: 1 billion classifications contributed by volunteers around the world. This milestone is a celebration of everyone who has marked a dip in a light curve, confirmed the presence of a moving object in a short […]"
+    },
+    {
+      "title": "How the Rule-Breaking Octopus Is Rewriting the Evolution of Intelligence",
+      "source": "Nautilus",
+      "url": "https://nautil.us/how-the-rule-breaking-octopus-is-rewriting-the-evolution-of-intelligence-1282633/",
+      "summary": "Cephalopods are loners, but they’re also intelligent The post How the Rule-Breaking Octopus Is Rewriting the Evolution of Intelligence appeared first on Nautilus."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-07-11T09:04:53.587154",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}
