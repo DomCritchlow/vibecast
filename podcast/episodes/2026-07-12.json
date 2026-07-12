@@ -1,0 +1,68 @@
+{
+  "guid": "2026-07-12",
+  "date": "2026-07-12T09:24:45.902683",
+  "title": "Lab-Grown Sperm & NSF Science Cuts",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 370.52631578947364,
+  "duration_formatted": "6:10",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-12.mp3",
+    "audio_size_bytes": 7742154,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-12/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-12/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-07-12.txt"
+  },
+  "stories": [
+    {
+      "title": "Lab-grown sperm: scientists inch closer to fertility breakthrough",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02172-6",
+      "summary": "Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02172-6Sci-fi procedure creates immature human sperm from stem cells, nurturing them on a mouse’s kidney."
+    },
+    {
+      "title": "NSF plans cuts to core science programmes to fund White House initiative",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02135-x",
+      "summary": "Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02135-xA proposed clawback of already distributed research funds comes as the US agency’s budget is already squeezed and it struggling to clear a backlog of grant applications."
+    },
+    {
+      "title": "Viking: 50 Years on Mars",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/mission/viking/viking-50-years-on-mars/",
+      "summary": "Only 10 years before the Viking mission launched, Mars was still just a mottled orange ball when viewed through even the best Earthbound telescopes, with few discernable features. Three NASA missions flew past in the 1960s, snagging grainy snapshots of a sliver of Mars as they hurtled by. In 1971, the Mariner 9 spacecraft arrived, […] The post Viking: 50 Years on Mars appeared first on NASA Science."
+    },
+    {
+      "title": "NASA Sets Coverage for Astronaut Anil Menon Launch to Space Station",
+      "source": "NASA News",
+      "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-anil-menon-launch-to-space-station/",
+      "summary": "NASA astronaut Anil Menon will launch aboard the Roscosmos Soyuz MS-29 spacecraft to the International Space Station on Tuesday, July 14, accompanied by cosmonauts Pyotr Dubrov and Anna Kikina, where they will join the Expedition 74 crew advancing scientific research. Menon, Dubrov, and Kikina will lift off at 10:47 a.m. EDT (7:47 p.m. Baikonur time) […]"
+    },
+    {
+      "title": "Principal Investigator and Quality Assessment Reports Evaluate Umbra Synthetic Aperture Radar Data",
+      "source": "NASA News",
+      "url": "https://science.nasa.gov/science-research/earth-science/principal-investigator-and-quality-assessment-reports-evaluate-umbra-synthetic-aperture-radar-data/",
+      "summary": "The reports add to the growing documentation on commercial data’s contributions to Earth science research and applications."
+    },
+    {
+      "title": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture.",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
+      "summary": "Researchers thought that what enabled complex fluids to break apart was their elasticity. But a crack in a nonelastic simple fluid has them questioning that idea. The post We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture. first appeared on Quanta Magazine"
+    },
+    {
+      "title": "Early Americans Pioneered the Keto Diet",
+      "source": "Nautilus",
+      "url": "https://nautil.us/early-americans-pioneered-the-keto-diet-1282630/",
+      "summary": "Until, that is, large mammal extinctions forced them to diversify their meals The post Early Americans Pioneered the Keto Diet appeared first on Nautilus."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-07-12T09:24:45.902683",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}

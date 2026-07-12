@@ -1,12 +1,5 @@
 {
   "url_timestamps": {
-    "https://github.com/NousResearch/hermes-agent": "2026-04-13T06:17:42.788616",
-    "https://www.nature.com/articles/d41586-026-00195-7": "2026-04-13T06:17:42.788616",
-    "https://www.nature.com/articles/s41586-026-10486-8": "2026-04-13T06:17:42.788616",
-    "https://openai.com/academy/projects": "2026-04-13T06:17:42.788616",
-    "https://openai.com/academy/marketing": "2026-04-13T06:17:42.788616",
-    "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/": "2026-04-13T06:17:42.788616",
-    "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/": "2026-04-13T06:17:42.788616",
     "https://www.nature.com/articles/d41586-026-01199-z": "2026-04-14T06:02:58.228439",
     "https://www.nature.com/articles/d41586-026-00744-0": "2026-04-14T06:02:58.228439",
     "https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/": "2026-04-14T06:02:58.228439",
@@ -598,9 +591,16 @@
     "https://www.nature.com/articles/d41586-026-02167-3": "2026-07-11T09:04:53.587154",
     "https://www.science.org/content/article/nsf-makes-billion-dollar-gamble-research-economic-payoff": "2026-07-11T09:04:53.587154",
     "https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-help-zooniverse-reach-1-billion-classifications/": "2026-07-11T09:04:53.587154",
-    "https://nautil.us/how-the-rule-breaking-octopus-is-rewriting-the-evolution-of-intelligence-1282633/": "2026-07-11T09:04:53.587154"
+    "https://nautil.us/how-the-rule-breaking-octopus-is-rewriting-the-evolution-of-intelligence-1282633/": "2026-07-11T09:04:53.587154",
+    "https://www.nature.com/articles/d41586-026-02172-6": "2026-07-12T09:24:45.902683",
+    "https://www.nature.com/articles/d41586-026-02135-x": "2026-07-12T09:24:45.902683",
+    "https://science.nasa.gov/mission/viking/viking-50-years-on-mars/": "2026-07-12T09:24:45.902683",
+    "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-anil-menon-launch-to-space-station/": "2026-07-12T09:24:45.902683",
+    "https://science.nasa.gov/science-research/earth-science/principal-investigator-and-quality-assessment-reports-evaluate-umbra-synthetic-aperture-radar-data/": "2026-07-12T09:24:45.902683",
+    "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/": "2026-07-12T09:24:45.902683",
+    "https://nautil.us/early-americans-pioneered-the-keto-diet-1282630/": "2026-07-12T09:24:45.902683"
   },
-  "last_run": "2026-07-11T09:04:53.587154",
+  "last_run": "2026-07-12T09:24:45.902683",
   "special_dates": [
     "2026-07-10"
   ]
