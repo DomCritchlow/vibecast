@@ -1,0 +1,68 @@
+{
+  "guid": "2026-07-13",
+  "date": "2026-07-13T10:38:36.933338",
+  "title": "Drought & Trees, Arctic Sea Ice & NSF China Ban",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 354.10526315789474,
+  "duration_formatted": "5:54",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-13.mp3",
+    "audio_size_bytes": 6956599,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-13/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-13/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-07-13.txt"
+  },
+  "stories": [
+    {
+      "title": "Tall and small trees are equally vulnerable to drought",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02121-3",
+      "summary": "Nature, Published online: 13 July 2026; doi:10.1038/d41586-026-02121-3The water-transport system of tropical giants called dipterocarps has evolved to defy the effects of gravity and resist water stress."
+    },
+    {
+      "title": "The rise of evidence-based medicine and the ‘mavericks’ who championed it",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02153-9",
+      "summary": "Nature, Published online: 13 July 2026; doi:10.1038/d41586-026-02153-9An impeccably researched account describes how clinical trials have transformed health and social policy."
+    },
+    {
+      "title": "NASA Scientists Take to Air and Space to Study Arctic Sea Ice",
+      "source": "NASA News",
+      "url": "https://www.nasa.gov/missions/airborne-science/nasa-scientists-take-to-air-and-space-to-study-arctic-sea-ice/",
+      "summary": "This month, engineers at NASA’s Jet Propulsion Laboratory in Southern California are testing a spacecraft sensor that will help measure how quickly Arctic sea ice is disappearing. And while that instrument won’t launch for another year, scientists started preparing for its use during a recent field campaign in the Canadian wilderness. Researchers spent two weeks […]"
+    },
+    {
+      "title": "New NSF policy would ban almost all collaborations with Chinese scientists",
+      "source": "Science.org News",
+      "url": "https://www.science.org/content/article/new-nsf-policy-would-ban-almost-all-collaborations-chinese-scientists",
+      "summary": "Agency drops attempt to mitigate risk in favor of outright prohibition on working with most Chinese research institutions"
+    },
+    {
+      "title": "DNA could act like a famed gravity-defying pump",
+      "source": "Science.org News",
+      "url": "https://www.science.org/content/article/dna-could-act-famed-gravity-defying-pump",
+      "summary": "Shrunken version of Archimedes screw could allow researchers to move molecules around at tiny scales"
+    },
+    {
+      "title": "Check out the first images of Quest shipwreck",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/07/expedition-captures-first-images-of-shackletons-last-ship/",
+      "summary": "The Quest shipwreck is in worse shape than expected, but it has turned into a thriving marine ecosystem."
+    },
+    {
+      "title": "Here’s Why Some Humans Can Hear Super Low-Frequency Sounds",
+      "source": "Nautilus",
+      "url": "https://nautil.us/heres-why-some-humans-can-hear-super-low-frequency-sounds-1282626/",
+      "summary": "It’s vibes The post Here’s Why Some Humans Can Hear Super Low-Frequency Sounds appeared first on Nautilus."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-07-13T10:38:36.933338",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}

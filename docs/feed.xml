@@ -8,7 +8,7 @@
     <link>https://critchlow.us/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jul 2026 09:27:32 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 10:41:45 -0000</lastBuildDate>
     <atom:link href="https://critchlow.us/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://critchlow.us/vibecast/</link>
     </image>
     <itunes:image href="https://critchlow.us/vibecast/artwork.png"/>
+    <item>
+      <title>Drought &amp; Trees, Arctic Sea Ice &amp; NSF China Ban</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Tall and small trees are equally vulnerable to drought
+   Source: Nature News
+2. The rise of evidence-based medicine and the ‘mavericks’ who championed it
+   Source: Nature News
+3. NASA Scientists Take to Air and Space to Study Arctic Sea Ice
+   Source: NASA News
+4. New NSF policy would ban almost all collaborations with Chinese scientists
+   Source: Science.org News
+5. DNA could act like a famed gravity-defying pump
+   Source: Science.org News
+6. Check out the first images of Quest shipwreck
+   Source: Ars Technica
+7. Here’s Why Some Humans Can Hear Super Low-Frequency Sounds
+   Source: Nautilus
+
+REFERENCES:
+
+1. Tall and small trees are equally vulnerable to drought
+   https://www.nature.com/articles/d41586-026-02121-3
+
+2. The rise of evidence-based medicine and the ‘mavericks’ who championed it
+   https://www.nature.com/articles/d41586-026-02153-9
+
+3. NASA Scientists Take to Air and Space to Study Arctic Sea Ice
+   https://www.nasa.gov/missions/airborne-science/nasa-scientists-take-to-air-and-space-to-study-arctic-sea-ice/
+
+4. New NSF policy would ban almost all collaborations with Chinese scientists
+   https://www.science.org/content/article/new-nsf-policy-would-ban-almost-all-collaborations-chinese-scientists
+
+5. DNA could act like a famed gravity-defying pump
+   https://www.science.org/content/article/dna-could-act-famed-gravity-defying-pump
+
+6. Check out the first images of Quest shipwreck
+   https://arstechnica.com/science/2026/07/expedition-captures-first-images-of-shackletons-last-ship/
+
+7. Here’s Why Some Humans Can Hear Super Low-Frequency Sounds
+   https://nautil.us/heres-why-some-humans-can-hear-super-low-frequency-sounds-1282626/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-13/newspaper.pdf]]></description>
+      <pubDate>Mon, 13 Jul 2026 10:38:36 -0000</pubDate>
+      <guid isPermaLink="false">2026-07-13</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-13.mp3" length="6956599" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Tall and small trees are equally vulnerable to drought
+   Source: Nature News
+2. The rise of evidence-based medicine and the ‘mavericks’ who championed it
+   Source: Nature News
+3. NASA Scientists Take to Air and Space to Study Arctic Sea Ice
+   Source: NASA News
+4. New NSF policy would ban almost all collaborations with Chinese scientists
+   Source: Science.org News
+5. DNA could act like a famed gravity-defying pump
+   Source: Science.org News
+6. Check out the first images of Quest shipwreck
+   Source: Ars Technica
+7. Here’s Why Some Humans Can Hear Super Low-Frequency Sounds
+   Source: Nautilus
+
+REFERENCES:
+
+1. Tall and small trees are equally vulnerable to drought
+   https://www.nature.com/articles/d41586-026-02121-3
+
+2. The rise of evidence-based medicine and the ‘mavericks’ who championed it
+   https://www.nature.com/articles/d41586-026-02153-9
+
+3. NASA Scientists Take to Air and Space to Study Arctic Sea Ice
+   https://www.nasa.gov/missions/airborne-science/nasa-scientists-take-to-air-and-space-to-study-arctic-sea-ice/
+
+4. New NSF policy would ban almost all collaborations with Chinese scientists
+   https://www.science.org/content/article/new-nsf-policy-would-ban-almost-all-collaborations-chinese-scientists
+
+5. DNA could act like a famed gravity-defying pump
+   https://www.science.org/content/article/dna-could-act-famed-gravity-defying-pump
+
+6. Check out the first images of Quest shipwreck
+   https://arstechnica.com/science/2026/07/expedition-captures-first-images-of-shackletons-last-ship/
+
+7. Here’s Why Some Humans Can Hear Super Low-Frequency Sounds
+   https://nautil.us/heres-why-some-humans-can-hear-super-low-frequency-sounds-1282626/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-13/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>5:54</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-13/episode-art.png"/>
+    </item>
     <item>
       <title>Lab-Grown Sperm &amp; NSF Science Cuts</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:58</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-10/episode-art.png"/>
-    </item>
-    <item>
-      <title>Chaos Theory, Rising Cancer Rates &amp; Apple’s Hidden Updates</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Fifty years since a simple equation described the chaos of biology
-   Source: Nature News
-2. Why are so many young people getting cancer? What researchers do and don't know
-   Source: Nature News
-3. Introducing the OpenAI Economic Research Exchange
-   Source: OpenAI News
-4. Where was tvOS 27 at WWDC?
-   Source: The Verge
-5. 44 things coming to your Apple devices that you might have missed
-   Source: The Verge
-6. How NASA Science and Artemis Are Shaping the 2026 FIFA World Cup
-   Source: NASA Science
-7. HWO Detector System Development Study
-   Source: NASA Science
-
-REFERENCES:
-
-1. Fifty years since a simple equation described the chaos of biology
-   https://www.nature.com/articles/d41586-026-01584-8
-
-2. Why are so many young people getting cancer? What researchers do and don't know
-   https://www.nature.com/articles/d41586-026-01780-6
-
-3. Introducing the OpenAI Economic Research Exchange
-   https://openai.com/index/economic-research-exchange
-
-4. Where was tvOS 27 at WWDC?
-   https://www.theverge.com/tech/946329/tvos-27-absent-wwdc
-
-5. 44 things coming to your Apple devices that you might have missed
-   https://www.theverge.com/tech/946260/apple-wwdc-2026-ios-ipados-macos-watchos-visionos-27-features-missed
-
-6. How NASA Science and Artemis Are Shaping the 2026 FIFA World Cup
-   https://www.nasa.gov/centers-and-facilities/johnson/how-nasa-science-and-artemis-are-shaping-the-2026-fifa-world-cup/
-
-7. HWO Detector System Development Study
-   https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/hwo-detector-system-development-study/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-09/newspaper.pdf]]></description>
-      <pubDate>Tue, 09 Jun 2026 07:51:32 -0000</pubDate>
-      <guid isPermaLink="false">2026-06-09</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-09.mp3" length="7014276" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Fifty years since a simple equation described the chaos of biology
-   Source: Nature News
-2. Why are so many young people getting cancer? What researchers do and don't know
-   Source: Nature News
-3. Introducing the OpenAI Economic Research Exchange
-   Source: OpenAI News
-4. Where was tvOS 27 at WWDC?
-   Source: The Verge
-5. 44 things coming to your Apple devices that you might have missed
-   Source: The Verge
-6. How NASA Science and Artemis Are Shaping the 2026 FIFA World Cup
-   Source: NASA Science
-7. HWO Detector System Development Study
-   Source: NASA Science
-
-REFERENCES:
-
-1. Fifty years since a simple equation described the chaos of biology
-   https://www.nature.com/articles/d41586-026-01584-8
-
-2. Why are so many young people getting cancer? What researchers do and don't know
-   https://www.nature.com/articles/d41586-026-01780-6
-
-3. Introducing the OpenAI Economic Research Exchange
-   https://openai.com/index/economic-research-exchange
-
-4. Where was tvOS 27 at WWDC?
-   https://www.theverge.com/tech/946329/tvos-27-absent-wwdc
-
-5. 44 things coming to your Apple devices that you might have missed
-   https://www.theverge.com/tech/946260/apple-wwdc-2026-ios-ipados-macos-watchos-visionos-27-features-missed
-
-6. How NASA Science and Artemis Are Shaping the 2026 FIFA World Cup
-   https://www.nasa.gov/centers-and-facilities/johnson/how-nasa-science-and-artemis-are-shaping-the-2026-fifa-world-cup/
-
-7. HWO Detector System Development Study
-   https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/hwo-detector-system-development-study/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-09/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>5:05</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-09/episode-art.png"/>
     </item>
   </channel>
 </rss>
