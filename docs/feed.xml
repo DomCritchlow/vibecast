@@ -8,7 +8,7 @@
     <link>https://critchlow.us/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jul 2026 10:41:45 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 09:24:49 -0000</lastBuildDate>
     <atom:link href="https://critchlow.us/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://critchlow.us/vibecast/</link>
     </image>
     <itunes:image href="https://critchlow.us/vibecast/artwork.png"/>
+    <item>
+      <title>Sugar Molecule in Space &amp; Epigenetic Editing</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Verifying Rust cryptography in SymCrypt, from standards to code
+   Source: Microsoft Research Blog
+2. Solar System Exploration Research Virtual Institute (SSERVI) Cooperative Agreement Notice
+   Source: NASA Science
+3. Epigenetic editing makes its mark
+   Source: Nature News
+4. First ‘true sugar’ molecule found in space — offering hints to life’s origins
+   Source: Nature News
+5. Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July
+   Source: NASA Science
+6. Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July
+   Source: NASA News
+7. This Prehistoric Giant Salamander Grew to Almost 4 Feet Long
+   Source: Nautilus
+
+REFERENCES:
+
+1. Verifying Rust cryptography in SymCrypt, from standards to code
+   https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/
+
+2. Solar System Exploration Research Virtual Institute (SSERVI) Cooperative Agreement Notice
+   https://science.nasa.gov/researchers/volunteer-review-panels/solar-system-exploration-research-virtual-institute-sservi-cooperative-agreement-notice/
+
+3. Epigenetic editing makes its mark
+   https://www.nature.com/articles/d41586-026-02151-x
+
+4. First ‘true sugar’ molecule found in space — offering hints to life’s origins
+   https://www.nature.com/articles/d41586-026-02173-5
+
+5. Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July
+   https://science.nasa.gov/blog/curiosity-blog-sols-4941-4947-pinstripes-on-the-fourth-of-july/
+
+6. Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July
+   https://science.nasa.gov/blog/curiosity-blog-sols-4941-4947-pinstripes-on-the-fourth-of-july/
+
+7. This Prehistoric Giant Salamander Grew to Almost 4 Feet Long
+   https://nautil.us/this-prehistoric-giant-salamander-grew-to-almost-4-feet-long-1282663/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-14/newspaper.pdf]]></description>
+      <pubDate>Tue, 14 Jul 2026 09:21:33 -0000</pubDate>
+      <guid isPermaLink="false">2026-07-14</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-14.mp3" length="7443104" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Verifying Rust cryptography in SymCrypt, from standards to code
+   Source: Microsoft Research Blog
+2. Solar System Exploration Research Virtual Institute (SSERVI) Cooperative Agreement Notice
+   Source: NASA Science
+3. Epigenetic editing makes its mark
+   Source: Nature News
+4. First ‘true sugar’ molecule found in space — offering hints to life’s origins
+   Source: Nature News
+5. Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July
+   Source: NASA Science
+6. Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July
+   Source: NASA News
+7. This Prehistoric Giant Salamander Grew to Almost 4 Feet Long
+   Source: Nautilus
+
+REFERENCES:
+
+1. Verifying Rust cryptography in SymCrypt, from standards to code
+   https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/
+
+2. Solar System Exploration Research Virtual Institute (SSERVI) Cooperative Agreement Notice
+   https://science.nasa.gov/researchers/volunteer-review-panels/solar-system-exploration-research-virtual-institute-sservi-cooperative-agreement-notice/
+
+3. Epigenetic editing makes its mark
+   https://www.nature.com/articles/d41586-026-02151-x
+
+4. First ‘true sugar’ molecule found in space — offering hints to life’s origins
+   https://www.nature.com/articles/d41586-026-02173-5
+
+5. Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July
+   https://science.nasa.gov/blog/curiosity-blog-sols-4941-4947-pinstripes-on-the-fourth-of-july/
+
+6. Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July
+   https://science.nasa.gov/blog/curiosity-blog-sols-4941-4947-pinstripes-on-the-fourth-of-july/
+
+7. This Prehistoric Giant Salamander Grew to Almost 4 Feet Long
+   https://nautil.us/this-prehistoric-giant-salamander-grew-to-almost-4-feet-long-1282663/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-14/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>5:57</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-14/episode-art.png"/>
+    </item>
     <item>
       <title>Drought &amp; Trees, Arctic Sea Ice &amp; NSF China Ban</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>5:11</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-11/episode-art.png"/>
-    </item>
-    <item>
-      <title>2-in-1 Thruster Test &amp; Asia’s Race in Research Rankings</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Thruster breakthrough? New 2-in-1 propulsion system is about to get an in-space test
-   Source: Space.com
-2. Nature Index 2026 Research Leaders rankings: are China’s East Asian neighbours keeping pace with it?
-   Source: Nature News
-3. Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed
-   Source: Ars Technica
-4. Flight Dynamics Research Facility
-   Source: NASA Science
-5. Flight Dynamics Research Facility Characteristics
-   Source: NASA Science
-6. These record-breaking black hole winds could create a category 79 hurricane on Earth
-   Source: Space.com
-7. How Terry Tao Became an Evangelist for AI in Math
-   Source: Quanta Magazine
-
-REFERENCES:
-
-1. Thruster breakthrough? New 2-in-1 propulsion system is about to get an in-space test
-   https://www.space.com/technology/thruster-breakthrough-new-2-in-1-propulsion-system-is-about-to-get-an-in-space-test
-
-2. Nature Index 2026 Research Leaders rankings: are China’s East Asian neighbours keeping pace with it?
-   https://www.nature.com/articles/d41586-026-01662-x
-
-3. Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed
-   https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/
-
-4. Flight Dynamics Research Facility
-   https://www.nasa.gov/directorates/armd/flight-dynamics-research-facility/
-
-5. Flight Dynamics Research Facility Characteristics
-   https://www.nasa.gov/directorates/armd/aetc/fdrf-characteristics/
-
-6. These record-breaking black hole winds could create a category 79 hurricane on Earth
-   https://www.space.com/astronomy/black-holes/these-record-breaking-black-hole-winds-could-create-a-category-79-hurricane-on-earth
-
-7. How Terry Tao Became an Evangelist for AI in Math
-   https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-10/newspaper.pdf]]></description>
-      <pubDate>Wed, 10 Jun 2026 08:09:24 -0000</pubDate>
-      <guid isPermaLink="false">2026-06-10</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-10.mp3" length="7204238" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Thruster breakthrough? New 2-in-1 propulsion system is about to get an in-space test
-   Source: Space.com
-2. Nature Index 2026 Research Leaders rankings: are China’s East Asian neighbours keeping pace with it?
-   Source: Nature News
-3. Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed
-   Source: Ars Technica
-4. Flight Dynamics Research Facility
-   Source: NASA Science
-5. Flight Dynamics Research Facility Characteristics
-   Source: NASA Science
-6. These record-breaking black hole winds could create a category 79 hurricane on Earth
-   Source: Space.com
-7. How Terry Tao Became an Evangelist for AI in Math
-   Source: Quanta Magazine
-
-REFERENCES:
-
-1. Thruster breakthrough? New 2-in-1 propulsion system is about to get an in-space test
-   https://www.space.com/technology/thruster-breakthrough-new-2-in-1-propulsion-system-is-about-to-get-an-in-space-test
-
-2. Nature Index 2026 Research Leaders rankings: are China’s East Asian neighbours keeping pace with it?
-   https://www.nature.com/articles/d41586-026-01662-x
-
-3. Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed
-   https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/
-
-4. Flight Dynamics Research Facility
-   https://www.nasa.gov/directorates/armd/flight-dynamics-research-facility/
-
-5. Flight Dynamics Research Facility Characteristics
-   https://www.nasa.gov/directorates/armd/aetc/fdrf-characteristics/
-
-6. These record-breaking black hole winds could create a category 79 hurricane on Earth
-   https://www.space.com/astronomy/black-holes/these-record-breaking-black-hole-winds-could-create-a-category-79-hurricane-on-earth
-
-7. How Terry Tao Became an Evangelist for AI in Math
-   https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-10/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:58</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-10/episode-art.png"/>
     </item>
   </channel>
 </rss>

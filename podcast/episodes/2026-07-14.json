@@ -1,0 +1,68 @@
+{
+  "guid": "2026-07-14",
+  "date": "2026-07-14T09:21:33.619064",
+  "title": "Sugar Molecule in Space & Epigenetic Editing",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 357.4736842105263,
+  "duration_formatted": "5:57",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-14.mp3",
+    "audio_size_bytes": 7443104,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-14/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-14/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-07-14.txt"
+  },
+  "stories": [
+    {
+      "title": "Verifying Rust cryptography in SymCrypt, from standards to code",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
+      "summary": "Cryptographic code supports vital protections in modern computing systems. Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets implemented and evolves. The post Verifying Rust cryptography in SymCrypt, from standards to code appeared first on Microsoft Research."
+    },
+    {
+      "title": "Solar System Exploration Research Virtual Institute (SSERVI) Cooperative Agreement Notice",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/researchers/volunteer-review-panels/solar-system-exploration-research-virtual-institute-sservi-cooperative-agreement-notice/",
+      "summary": "We are currently seeking reviewers for the Solar System Exploration Research Virtual Institute (SSERVI) Cooperative Agreement Notice. Here are the rules: The post Solar System Exploration Research Virtual Institute (SSERVI) Cooperative Agreement Notice appeared first on NASA Science."
+    },
+    {
+      "title": "Epigenetic editing makes its mark",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02151-x",
+      "summary": "Nature, Published online: 13 July 2026; doi:10.1038/d41586-026-02151-xResearchers are rewriting the chemical tags on DNA and chromatin to tune gene expression."
+    },
+    {
+      "title": "First ‘true sugar’ molecule found in space — offering hints to life’s origins",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02173-5",
+      "summary": "Nature, Published online: 13 July 2026; doi:10.1038/d41586-026-02173-5Erythrulose, which has four carbon atoms, is the most complex sugar spotted beyond our Solar System."
+    },
+    {
+      "title": "Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4941-4947-pinstripes-on-the-fourth-of-july/",
+      "summary": "Written by Deborah Padgett, MSL Operations Product Ground System Task Lead at NASA’s Jet Propulsion Laboratory Earth planning date: Thursday, July 2, 2026 Curiosity spent the week leading up to the Fourth of July holiday approaching a geologic boundary between a very smooth but somewhat sandy region and a rougher bedrock unit. Leaving the polygonal […] The post Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July appeared first on NASA Science."
+    },
+    {
+      "title": "Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July",
+      "source": "NASA News",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4941-4947-pinstripes-on-the-fourth-of-july/",
+      "summary": "Written by Deborah Padgett, MSL Operations Product Ground System Task Lead at NASA’s Jet Propulsion Laboratory Earth planning date: Thursday, July 2, 2026 Curiosity spent the week leading up to the Fourth of July holiday approaching a geologic boundary between a very smooth but somewhat sandy region and a rougher bedrock unit. Leaving the polygonal […]"
+    },
+    {
+      "title": "This Prehistoric Giant Salamander Grew to Almost 4 Feet Long",
+      "source": "Nautilus",
+      "url": "https://nautil.us/this-prehistoric-giant-salamander-grew-to-almost-4-feet-long-1282663/",
+      "summary": "And it has a living relative The post This Prehistoric Giant Salamander Grew to Almost 4 Feet Long appeared first on Nautilus."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-07-14T09:21:33.619064",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}

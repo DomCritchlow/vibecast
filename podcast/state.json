@@ -1,12 +1,5 @@
 {
   "url_timestamps": {
-    "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/": "2026-04-15T06:02:44.064044",
-    "https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/": "2026-04-15T06:02:44.064044",
-    "https://science.nasa.gov/missions/chandra/nasa-finds-young-stars-dim-in-x-rays-surprisingly-quickly/": "2026-04-15T06:02:44.064044",
-    "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-52-nasa-smd-graduate-student-research-solicitation-future-investigators-in-nasa-earth-and-space-science-and-technology/": "2026-04-15T06:02:44.064044",
-    "https://www.space.com/space-exploration/satellites/spacex-starlink-10-24-b1080-ccsfs-jrti-17-27-b1082-vsfb-ocisly": "2026-04-15T06:02:44.064044",
-    "https://www.space.com/astronomy/moon/the-moons-oldest-and-darkest-craters-could-be-hiding-the-most-water-ice-thats-good-news-for-future-astronauts": "2026-04-15T06:02:44.064044",
-    "https://www.nature.com/articles/s41586-026-10324-x": "2026-04-15T06:02:44.064044",
     "https://www.nature.com/articles/s41586-026-10379-w": "2026-04-16T06:04:22.187968",
     "https://github.com/aipoch/medical-research-skills": "2026-04-16T06:04:22.187968",
     "https://www.nasa.gov/image-article/nasa-launches-six-cubesats-to-international-space-station/": "2026-04-16T06:04:22.187968",
@@ -598,9 +591,15 @@
     "https://www.science.org/content/article/new-nsf-policy-would-ban-almost-all-collaborations-chinese-scientists": "2026-07-13T10:38:36.933338",
     "https://www.science.org/content/article/dna-could-act-famed-gravity-defying-pump": "2026-07-13T10:38:36.933338",
     "https://arstechnica.com/science/2026/07/expedition-captures-first-images-of-shackletons-last-ship/": "2026-07-13T10:38:36.933338",
-    "https://nautil.us/heres-why-some-humans-can-hear-super-low-frequency-sounds-1282626/": "2026-07-13T10:38:36.933338"
+    "https://nautil.us/heres-why-some-humans-can-hear-super-low-frequency-sounds-1282626/": "2026-07-13T10:38:36.933338",
+    "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/": "2026-07-14T09:21:33.619064",
+    "https://science.nasa.gov/researchers/volunteer-review-panels/solar-system-exploration-research-virtual-institute-sservi-cooperative-agreement-notice/": "2026-07-14T09:21:33.619064",
+    "https://www.nature.com/articles/d41586-026-02151-x": "2026-07-14T09:21:33.619064",
+    "https://www.nature.com/articles/d41586-026-02173-5": "2026-07-14T09:21:33.619064",
+    "https://science.nasa.gov/blog/curiosity-blog-sols-4941-4947-pinstripes-on-the-fourth-of-july/": "2026-07-14T09:21:33.619064",
+    "https://nautil.us/this-prehistoric-giant-salamander-grew-to-almost-4-feet-long-1282663/": "2026-07-14T09:21:33.619064"
   },
-  "last_run": "2026-07-13T10:38:36.933338",
+  "last_run": "2026-07-14T09:21:33.619064",
   "special_dates": [
     "2026-07-10"
   ]
