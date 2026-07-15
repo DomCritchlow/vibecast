@@ -1,12 +1,5 @@
 {
   "url_timestamps": {
-    "https://www.nature.com/articles/s41586-026-10379-w": "2026-04-16T06:04:22.187968",
-    "https://github.com/aipoch/medical-research-skills": "2026-04-16T06:04:22.187968",
-    "https://www.nasa.gov/image-article/nasa-launches-six-cubesats-to-international-space-station/": "2026-04-16T06:04:22.187968",
-    "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/cosmic-structure-sig-seminar-30-april-2026/": "2026-04-16T06:04:22.187968",
-    "https://www.quantamagazine.org/the-ancient-weapons-active-in-your-immune-system-today-20260415/": "2026-04-16T06:04:22.187968",
-    "https://www.nature.com/articles/s41586-026-10513-8": "2026-04-16T06:04:22.187968",
-    "https://openai.com/index/the-next-evolution-of-the-agents-sdk": "2026-04-16T06:04:22.187968",
     "https://openai.com/index/introducing-gpt-rosalind": "2026-04-17T06:05:56.910368",
     "https://www.nature.com/articles/d41586-026-01134-2": "2026-04-17T06:05:56.910368",
     "https://openai.com/index/accelerating-cyber-defense-ecosystem": "2026-04-17T06:05:56.910368",
@@ -597,9 +590,15 @@
     "https://www.nature.com/articles/d41586-026-02151-x": "2026-07-14T09:21:33.619064",
     "https://www.nature.com/articles/d41586-026-02173-5": "2026-07-14T09:21:33.619064",
     "https://science.nasa.gov/blog/curiosity-blog-sols-4941-4947-pinstripes-on-the-fourth-of-july/": "2026-07-14T09:21:33.619064",
-    "https://nautil.us/this-prehistoric-giant-salamander-grew-to-almost-4-feet-long-1282663/": "2026-07-14T09:21:33.619064"
+    "https://nautil.us/this-prehistoric-giant-salamander-grew-to-almost-4-feet-long-1282663/": "2026-07-14T09:21:33.619064",
+    "https://www.nature.com/articles/d41586-026-01128-0": "2026-07-15T09:26:27.694022",
+    "https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-crewmates-arrive-at-space-station/": "2026-07-15T09:26:27.694022",
+    "https://www.nasa.gov/blogs/spacestation/2026/07/14/soyuz-docks-to-station-hatches-open-soon-for-crew-greeting/": "2026-07-15T09:26:27.694022",
+    "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-telescope-will-spot-distant-black-holes-that-shred-stars/": "2026-07-15T09:26:27.694022",
+    "https://www.nature.com/articles/d41586-026-02188-y": "2026-07-15T09:26:27.694022",
+    "https://nautil.us/do-fossils-belong-in-mansions-or-museums-1282699/": "2026-07-15T09:26:27.694022"
   },
-  "last_run": "2026-07-14T09:21:33.619064",
+  "last_run": "2026-07-15T09:26:27.694022",
   "special_dates": [
     "2026-07-10"
   ]
