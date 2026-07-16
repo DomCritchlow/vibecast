@@ -8,7 +8,7 @@
     <link>https://critchlow.us/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2026 09:29:34 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 09:37:05 -0000</lastBuildDate>
     <atom:link href="https://critchlow.us/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://critchlow.us/vibecast/</link>
     </image>
     <itunes:image href="https://critchlow.us/vibecast/artwork.png"/>
+    <item>
+      <title>Naked Mole-Rat Queens &amp; New Congo Monkey Species</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. ‘Holy grail’ of naked mole-rat research reveals how queens rule
+   Source: Nature News
+2. Mysterious orange-lipped monkey discovered deep in the Congo rainforest is a new species
+   Source: Science.org News
+3. GPT-Red: Unlocking Self-Improvement for Robustness
+   Source: OpenAI News
+4. NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids
+   Source: NASA Science
+5. Our World: The Lunar Reconnaissance Orbiter
+   Source: NASA Science
+6. NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids
+   Source: NASA News
+7. New, Orange-Lipped Monkey Discovered in Africa
+   Source: Nautilus
+
+REFERENCES:
+
+1. ‘Holy grail’ of naked mole-rat research reveals how queens rule
+   https://www.nature.com/articles/d41586-026-02221-0
+
+2. Mysterious orange-lipped monkey discovered deep in the Congo rainforest is a new species
+   https://www.science.org/content/article/mysterious-orange-lipped-monkey-discovered-deep-congo-rainforest-new-species
+
+3. GPT-Red: Unlocking Self-Improvement for Robustness
+   https://openai.com/index/unlocking-self-improvement-gpt-red
+
+4. NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids
+   https://science.nasa.gov/science-research/astromaterials/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/
+
+5. Our World: The Lunar Reconnaissance Orbiter
+   https://science.nasa.gov/eclips/videos/the-lunar-reconnaissance-orbiter/
+
+6. NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids
+   https://science.nasa.gov/science-research/astromaterials/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/
+
+7. New, Orange-Lipped Monkey Discovered in Africa
+   https://nautil.us/new-orange-lipped-monkey-discovered-in-africa-1282707/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-16/newspaper.pdf]]></description>
+      <pubDate>Thu, 16 Jul 2026 09:34:02 -0000</pubDate>
+      <guid isPermaLink="false">2026-07-16</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-16.mp3" length="7296401" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. ‘Holy grail’ of naked mole-rat research reveals how queens rule
+   Source: Nature News
+2. Mysterious orange-lipped monkey discovered deep in the Congo rainforest is a new species
+   Source: Science.org News
+3. GPT-Red: Unlocking Self-Improvement for Robustness
+   Source: OpenAI News
+4. NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids
+   Source: NASA Science
+5. Our World: The Lunar Reconnaissance Orbiter
+   Source: NASA Science
+6. NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids
+   Source: NASA News
+7. New, Orange-Lipped Monkey Discovered in Africa
+   Source: Nautilus
+
+REFERENCES:
+
+1. ‘Holy grail’ of naked mole-rat research reveals how queens rule
+   https://www.nature.com/articles/d41586-026-02221-0
+
+2. Mysterious orange-lipped monkey discovered deep in the Congo rainforest is a new species
+   https://www.science.org/content/article/mysterious-orange-lipped-monkey-discovered-deep-congo-rainforest-new-species
+
+3. GPT-Red: Unlocking Self-Improvement for Robustness
+   https://openai.com/index/unlocking-self-improvement-gpt-red
+
+4. NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids
+   https://science.nasa.gov/science-research/astromaterials/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/
+
+5. Our World: The Lunar Reconnaissance Orbiter
+   https://science.nasa.gov/eclips/videos/the-lunar-reconnaissance-orbiter/
+
+6. NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids
+   https://science.nasa.gov/science-research/astromaterials/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/
+
+7. New, Orange-Lipped Monkey Discovered in Africa
+   https://nautil.us/new-orange-lipped-monkey-discovered-in-africa-1282707/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-16/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>6:06</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-16/episode-art.png"/>
+    </item>
     <item>
       <title>Astronauts Reach Space Station &amp; Roman Telescope&#x27;s Black ...</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:56</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-13/episode-art.png"/>
-    </item>
-    <item>
-      <title>Gene Editing Future &amp; DeepMind AI Safety Concerns</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. What’s the Future of Gene Editing?
-   Source: Quanta Magazine
-2. Whale graveyard discovered 7km under the sea
-   Source: Nature News
-3. Tool flags suspicious journals before researchers submit papers
-   Source: Nature News
-4. Investing in multi-agent AI safety research
-   Source: DeepMind Blog
-5. Google DeepMind is worried about what happens when millions of agents start to interact
-   Source: MIT Technology Review
-6. Job titles of the future: Nature’s drug designer
-   Source: MIT Technology Review
-7. NASA’s Chandra Discovers Possible Supernova Remnant in Galactic Center
-   Source: NASA Science
-
-REFERENCES:
-
-1. What’s the Future of Gene Editing?
-   https://www.quantamagazine.org/whats-the-future-of-gene-editing-20260611/
-
-2. Whale graveyard discovered 7km under the sea
-   https://www.nature.com/articles/d41586-026-01886-x
-
-3. Tool flags suspicious journals before researchers submit papers
-   https://www.nature.com/articles/d41586-026-01707-1
-
-4. Investing in multi-agent AI safety research
-   https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/
-
-5. Google DeepMind is worried about what happens when millions of agents start to interact
-   https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/
-
-6. Job titles of the future: Nature’s drug designer
-   https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/
-
-7. NASA’s Chandra Discovers Possible Supernova Remnant in Galactic Center
-   https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-12/newspaper.pdf]]></description>
-      <pubDate>Fri, 12 Jun 2026 08:26:42 -0000</pubDate>
-      <guid isPermaLink="false">2026-06-12</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-12.mp3" length="6804252" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. What’s the Future of Gene Editing?
-   Source: Quanta Magazine
-2. Whale graveyard discovered 7km under the sea
-   Source: Nature News
-3. Tool flags suspicious journals before researchers submit papers
-   Source: Nature News
-4. Investing in multi-agent AI safety research
-   Source: DeepMind Blog
-5. Google DeepMind is worried about what happens when millions of agents start to interact
-   Source: MIT Technology Review
-6. Job titles of the future: Nature’s drug designer
-   Source: MIT Technology Review
-7. NASA’s Chandra Discovers Possible Supernova Remnant in Galactic Center
-   Source: NASA Science
-
-REFERENCES:
-
-1. What’s the Future of Gene Editing?
-   https://www.quantamagazine.org/whats-the-future-of-gene-editing-20260611/
-
-2. Whale graveyard discovered 7km under the sea
-   https://www.nature.com/articles/d41586-026-01886-x
-
-3. Tool flags suspicious journals before researchers submit papers
-   https://www.nature.com/articles/d41586-026-01707-1
-
-4. Investing in multi-agent AI safety research
-   https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/
-
-5. Google DeepMind is worried about what happens when millions of agents start to interact
-   https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/
-
-6. Job titles of the future: Nature’s drug designer
-   https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/
-
-7. NASA’s Chandra Discovers Possible Supernova Remnant in Galactic Center
-   https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-12/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:56</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-12/episode-art.png"/>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,68 @@
+{
+  "guid": "2026-07-16",
+  "date": "2026-07-16T09:34:02.250585",
+  "title": "Naked Mole-Rat Queens & New Congo Monkey Species",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 366.7368421052632,
+  "duration_formatted": "6:06",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-16.mp3",
+    "audio_size_bytes": 7296401,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-16/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-16/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-07-16.txt"
+  },
+  "stories": [
+    {
+      "title": "‘Holy grail’ of naked mole-rat research reveals how queens rule",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02221-0",
+      "summary": "Nature, Published online: 15 July 2026; doi:10.1038/d41586-026-02221-0The simple chemical that keeps a mole-rat queen atop her throne — plus, how people approach new games."
+    },
+    {
+      "title": "Mysterious orange-lipped monkey discovered deep in the Congo rainforest is a new species",
+      "source": "Science.org News",
+      "url": "https://www.science.org/content/article/mysterious-orange-lipped-monkey-discovered-deep-congo-rainforest-new-species",
+      "summary": "“Likweli” find highlights importance of conservation work, researchers say"
+    },
+    {
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness."
+    },
+    {
+      "title": "NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/science-research/astromaterials/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/",
+      "summary": "A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the chemical evolution of primitive asteroids, and the ingredients that may have helped make life possible throughout the early solar system. The post NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids appeared first on NASA Science."
+    },
+    {
+      "title": "Our World: The Lunar Reconnaissance Orbiter",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/eclips/videos/the-lunar-reconnaissance-orbiter/",
+      "summary": "Learn about the Lunar Reconnaissance Orbiter (LRO). As it orbits the moon for one year: LRO will collect moon temperatures, determine safe landing sites for future NASA missions, and more! Instructionally Relevant Some details are dated. This video describes NASA’s plans to launch the Lunar Reconnaissance Orbiter (LRO). Since this production, LRO was successfully launched […] The post Our World: The Lunar Reconnaissance Orbiter appeared first on NASA Science."
+    },
+    {
+      "title": "NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids",
+      "source": "NASA News",
+      "url": "https://science.nasa.gov/science-research/astromaterials/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/",
+      "summary": "A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the chemical evolution of primitive asteroids, and the ingredients that may have helped make life possible throughout the early solar system."
+    },
+    {
+      "title": "New, Orange-Lipped Monkey Discovered in Africa",
+      "source": "Nautilus",
+      "url": "https://nautil.us/new-orange-lipped-monkey-discovered-in-africa-1282707/",
+      "summary": "It’s one of only a handful of new monkey species identified on the continent in the last 75 years The post New, Orange-Lipped Monkey Discovered in Africa appeared first on Nautilus."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-07-16T09:34:02.250585",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}
