@@ -1,12 +1,5 @@
 {
   "url_timestamps": {
-    "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/": "2026-04-18T05:43:28.793984",
-    "https://github.com/wastedcode/memex": "2026-04-18T05:43:28.793984",
-    "https://deepmind.google/research/publications/231971/": "2026-04-18T05:43:28.793984",
-    "https://science.nasa.gov/learn/heat/resource/swerv-real-time-capabilities-and-ionospheric-disruptions-of-communications/": "2026-04-18T05:43:28.793984",
-    "https://science.nasa.gov/learn/heat/resource/swerv-operationally-significant-phenomena-and-impacts-for-ground-operations/": "2026-04-18T05:43:28.793984",
-    "https://www.space.com/astronomy/comets/interstellar-invader-comet-3i-atlas-made-a-startling-transformation-as-it-passed-the-sun": "2026-04-18T05:43:28.793984",
-    "https://www.quantamagazine.org/quantum-jamming-explores-the-truly-fundamental-principles-of-nature-20260417/": "2026-04-18T05:43:28.793984",
     "https://www.nature.com/articles/d41586-026-01014-9": "2026-04-19T06:00:17.949377",
     "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ai-ml-stig-lecture-series-20-april-2026/": "2026-04-19T06:00:17.949377",
     "https://science.nasa.gov/uncategorized/csda-quality-assessment-report-evaluates-satellogic-newsat-data/": "2026-04-19T06:00:17.949377",
@@ -595,10 +588,18 @@
     "https://openai.com/index/unlocking-self-improvement-gpt-red": "2026-07-16T09:34:02.250585",
     "https://science.nasa.gov/science-research/astromaterials/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/": "2026-07-16T09:34:02.250585",
     "https://science.nasa.gov/eclips/videos/the-lunar-reconnaissance-orbiter/": "2026-07-16T09:34:02.250585",
-    "https://nautil.us/new-orange-lipped-monkey-discovered-in-africa-1282707/": "2026-07-16T09:34:02.250585"
+    "https://nautil.us/new-orange-lipped-monkey-discovered-in-africa-1282707/": "2026-07-16T09:34:02.250585",
+    "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/draft-sservi-cooperative-agreement-notice-released/": "2026-07-17T09:26:25.738436",
+    "https://www.nature.com/articles/d41586-026-01389-9": "2026-07-17T09:26:25.738436",
+    "https://www.nasa.gov/blogs/missions/2026/07/16/nasa-taps-spacexs-starlink-to-deliver-artemis-iii-imagery-from-orion/": "2026-07-17T09:26:25.738436",
+    "https://www.nasa.gov/solar-system/comets/nasa-study-finds-near-earth-asteroid-is-actually-comet/": "2026-07-17T09:26:25.738436",
+    "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/how-nasas-artemis-iii-lander-test-will-pave-way-for-moon-landings/": "2026-07-17T09:26:25.738436",
+    "https://www.nature.com/articles/d41586-026-02089-0": "2026-07-17T09:26:25.738436",
+    "https://nautil.us/how-this-emerging-tick-borne-virus-escapes-your-immune-system-1282736/": "2026-07-17T09:26:25.738436"
   },
-  "last_run": "2026-07-16T09:34:02.250585",
+  "last_run": "2026-07-17T09:26:25.738436",
   "special_dates": [
-    "2026-07-10"
+    "2026-07-10",
+    "2026-07-17"
   ]
 }
