@@ -1,0 +1,68 @@
+{
+  "guid": "2026-07-18",
+  "date": "2026-07-18T09:07:32.596050",
+  "title": "US-China Research Curbs & NASA Wing Stress Test",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 365.0526315789474,
+  "duration_formatted": "6:05",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-18.mp3",
+    "audio_size_bytes": 7374769,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-18/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-18/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-07-18.txt"
+  },
+  "stories": [
+    {
+      "title": "US politicians push agencies to restrict research collaboration with China",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02226-9",
+      "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem."
+    },
+    {
+      "title": "NASA Pushes New Wing Design to Find Structural Limits",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
+      "summary": "NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits. What they found left them encouraged about the wing’s potential, even when they pushed it past its intended limits. The 15-foot Structural Wing Experiment Evaluating Truss-bracing (SWEET-15) […] The post NASA Pushes New Wing Design to Find Structural Limits appeared first on NASA Science."
+    },
+    {
+      "title": "Establishing a VTE Risk Score for Astronauts Algorithm",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/organizations/ochmo/establishing-a-vte-risk-score-for-astronauts-algorithm/",
+      "summary": "In April 2026, NASA’s Office of the Chief Health and Medical Officer (OCHMO) initiated a working group to review updated VTE case information, additional data gathered revealing altered blood flow status within a cohort of astronauts, and discuss progress of research and clinical activities intended to mitigate the risk of VTE during spaceflight with new […] The post Establishing a VTE Risk Score for Astronauts Algorithm appeared first on NASA Science."
+    },
+    {
+      "title": "NASA Pushes New Wing Design to Find Structural Limits",
+      "source": "NASA News",
+      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
+      "summary": "NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits. What they found left them encouraged about the wing’s potential, even when they pushed it past its intended limits. The 15-foot Structural Wing Experiment Evaluating Truss-bracing (SWEET-15) […]"
+    },
+    {
+      "title": "Establishing a VTE Risk Score for Astronauts Algorithm",
+      "source": "NASA News",
+      "url": "https://www.nasa.gov/organizations/ochmo/establishing-a-vte-risk-score-for-astronauts-algorithm/",
+      "summary": "In April 2026, NASA’s Office of the Chief Health and Medical Officer (OCHMO) initiated a working group to review updated VTE case information, additional data gathered revealing altered blood flow status within a cohort of astronauts, and discuss progress of research and clinical activities intended to mitigate the risk of VTE during spaceflight with new […]"
+    },
+    {
+      "title": "Briefing Chat: Sweet! Elusive sugar molecules found in space",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02263-4",
+      "summary": "Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02263-4Nature staff discuss the discovery of a four carbon ‘true sugar’ in interstellar space — plus, a formula inscribed on a wall reveals a Maya mathematician’s name."
+    },
+    {
+      "title": "World Cup marks a rare goaaaaaal for New York area transit",
+      "source": "Gothamist (NYC)",
+      "url": "https://gothamist.com/news/world-cup-marks-a-rare-goaaaaaal-for-new-york-area-transit",
+      "summary": "New York and New Jersey's mass transit systems have been on the global stage during the World Cup, but they haven't seen the type of meltdowns that are well known to locals during the games. [ more › ]"
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-07-18T09:07:32.596050",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}
