@@ -1,12 +1,5 @@
 {
   "url_timestamps": {
-    "https://www.theverge.com/entertainment/914680/the-stars-my-destination-alfred-bester-review-cyberpunk": "2026-04-20T06:17:44.738739",
-    "https://news.ycombinator.com/item?id=47830760": "2026-04-20T06:17:44.738739",
-    "https://feralhq.com/": "2026-04-20T06:17:44.738739",
-    "https://science.nasa.gov/earth/earth-observatory/thailands-krabi-coast/": "2026-04-20T06:17:44.738739",
-    "https://www.nature.com/articles/d41586-026-01245-w": "2026-04-20T06:17:44.738739",
-    "https://www.nature.com/articles/d41586-026-01067-w": "2026-04-20T06:17:44.738739",
-    "https://openai.com/academy/image-generation": "2026-04-20T06:17:44.738739",
     "https://www.microsoft.com/en-us/research/podcast/can-we-ai-our-way-to-a-more-sustainable-world/": "2026-04-21T06:05:01.304857",
     "https://www.nasa.gov/missions/nasa-on-track-for-future-missions-with-initial-artemis-ii-assessments/": "2026-04-21T06:05:01.304857",
     "https://www.nature.com/articles/d41586-026-01278-1": "2026-04-21T06:05:01.304857",
@@ -593,9 +586,16 @@
     "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/": "2026-07-18T09:07:32.596050",
     "https://www.nasa.gov/organizations/ochmo/establishing-a-vte-risk-score-for-astronauts-algorithm/": "2026-07-18T09:07:32.596050",
     "https://www.nature.com/articles/d41586-026-02263-4": "2026-07-18T09:07:32.596050",
-    "https://gothamist.com/news/world-cup-marks-a-rare-goaaaaaal-for-new-york-area-transit": "2026-07-18T09:07:32.596050"
+    "https://gothamist.com/news/world-cup-marks-a-rare-goaaaaaal-for-new-york-area-transit": "2026-07-18T09:07:32.596050",
+    "https://science.nasa.gov/earth-science/earth-action/energy-and-infrastructure/": "2026-07-19T09:24:44.716418",
+    "https://www.nature.com/articles/d41586-026-02193-1": "2026-07-19T09:24:44.716418",
+    "https://www.nature.com/articles/d41586-026-02264-3": "2026-07-19T09:24:44.716418",
+    "https://www.science.org/content/article/prominent-salk-institute-biologist-resign-following-sexual-misconduct-investigation": "2026-07-19T09:24:44.716418",
+    "https://www.science.org/content/article/astronomers-spot-first-atmosphere-around-potentially-habitable-alien-world": "2026-07-19T09:24:44.716418",
+    "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/": "2026-07-19T09:24:44.716418",
+    "https://www.atlasobscura.com/places/queens-quay-whale-vertebra": "2026-07-19T09:24:44.716418"
   },
-  "last_run": "2026-07-18T09:07:32.596050",
+  "last_run": "2026-07-19T09:24:44.716418",
   "special_dates": [
     "2026-07-10",
     "2026-07-17"

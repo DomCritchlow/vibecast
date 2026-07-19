@@ -1,0 +1,68 @@
+{
+  "guid": "2026-07-19",
+  "date": "2026-07-19T09:24:44.716418",
+  "title": "Alien Atmosphere Found & Invisible Face Sensors",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 360.8421052631579,
+  "duration_formatted": "6:00",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-19.mp3",
+    "audio_size_bytes": 7606109,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-19/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-19/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-07-19.txt"
+  },
+  "stories": [
+    {
+      "title": "Energy and Infrastructure",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/earth-science/earth-action/energy-and-infrastructure/",
+      "summary": "Providing solar, meteorological, and other types of Earth information for power systems planning, energy efficiency and sustainability, and resilient infrastructure. The post Energy and Infrastructure appeared first on NASA Science."
+    },
+    {
+      "title": "Wearable sensors on the face are invisible to the eye",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02193-1",
+      "summary": "Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02193-1Electrodes that measure brain waves and more cannot be seen or felt."
+    },
+    {
+      "title": "Why pain hurts more when we’re lonely, and the myth of original sin: Books in brief",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02264-3",
+      "summary": "Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02264-3Andrew Robinson reviews five of the best science picks."
+    },
+    {
+      "title": "Prominent Salk Institute biologist to resign following sexual misconduct investigation",
+      "source": "Science.org News",
+      "url": "https://www.science.org/content/article/prominent-salk-institute-biologist-resign-following-sexual-misconduct-investigation",
+      "summary": "Staffers complain that Salk allowed circadian rhythms researcher Satchidananda Panda to depart quietly, while the allegations and findings remain under wraps"
+    },
+    {
+      "title": "Astronomers spot first atmosphere around a potentially habitable alien world",
+      "source": "Science.org News",
+      "url": "https://www.science.org/content/article/astronomers-spot-first-atmosphere-around-potentially-habitable-alien-world",
+      "summary": "Detecting escaping helium from LHS 1140b is important step in search for life beyond our Solar System"
+    },
+    {
+      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s looking into whether AI models can feel pain, for example,…"
+    },
+    {
+      "title": "Queen's Quay Whale Vertebra in Toronto, Ontario",
+      "source": "Atlas Obscura",
+      "url": "https://www.atlasobscura.com/places/queens-quay-whale-vertebra",
+      "summary": "The Royal Ontario Museum is one of the premier institutions in Canada, which often makes it a destination for local paleontological and archaeological finds. That includes a killer whale vertebra found underneath Queen's Quay and Bay Street, discovered during transit excavations in 1988. Unfortunately, the vertebra's origins are still up for debate to this day. The discovery was, at first, a cause for excitement since no post-glacial fossil remains had ever been found in the area. But the sediment near the whalebone showed traces of ragweed pollen, indicating the bone arrived after European settlement but before the presence of the pollen became incredibly common around 1840. Another theory posited that it was, instead, a discard from Piper's Zoo, an establishment that existed on the lakeshore of Toronto. However, Piper's Zoo never had an orca on display, so this theory was discarded. The current thought is that the vertebra was dropped in the harbor by a whaler during the early 19t..."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-07-19T09:24:44.716418",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}
