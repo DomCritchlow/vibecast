@@ -1,12 +1,5 @@
 {
   "url_timestamps": {
-    "https://www.microsoft.com/en-us/research/podcast/can-we-ai-our-way-to-a-more-sustainable-world/": "2026-04-21T06:05:01.304857",
-    "https://www.nasa.gov/missions/nasa-on-track-for-future-missions-with-initial-artemis-ii-assessments/": "2026-04-21T06:05:01.304857",
-    "https://www.nature.com/articles/d41586-026-01278-1": "2026-04-21T06:05:01.304857",
-    "https://www.nature.com/articles/d41586-026-01260-x": "2026-04-21T06:05:01.304857",
-    "https://arstechnica.com/space/2026/04/pentagon-pulls-the-plug-on-one-of-the-militarys-most-troubled-space-programs/": "2026-04-21T06:05:01.304857",
-    "https://arstechnica.com/cars/2026/04/f1-new-hybrid-rules-will-come-into-effect-at-the-miami-grand-prix-in-may/": "2026-04-21T06:05:01.304857",
-    "https://www.wired.com/story/tech-ceos-using-ai-to-be-everywhere-at-once/": "2026-04-21T06:05:01.304857",
     "https://www.nasa.gov/hrp/researchers-how-would-you-extract-meaningful-insights-from-just-four-astronauts/": "2026-04-22T06:02:22.122171",
     "https://www.technologyreview.com/2026/04/21/1134870/analog-computing-from-waste-heat/": "2026-04-22T06:02:22.122171",
     "https://www.technologyreview.com/2026/04/21/1134862/this-tool-could-show-how-consciousness-works/": "2026-04-22T06:02:22.122171",
@@ -593,9 +586,16 @@
     "https://www.science.org/content/article/prominent-salk-institute-biologist-resign-following-sexual-misconduct-investigation": "2026-07-19T09:24:44.716418",
     "https://www.science.org/content/article/astronomers-spot-first-atmosphere-around-potentially-habitable-alien-world": "2026-07-19T09:24:44.716418",
     "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/": "2026-07-19T09:24:44.716418",
-    "https://www.atlasobscura.com/places/queens-quay-whale-vertebra": "2026-07-19T09:24:44.716418"
+    "https://www.atlasobscura.com/places/queens-quay-whale-vertebra": "2026-07-19T09:24:44.716418",
+    "https://www.nature.com/articles/d41586-026-02231-y": "2026-07-20T10:23:49.957972",
+    "https://www.nature.com/articles/d41586-026-02218-9": "2026-07-20T10:23:49.957972",
+    "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/": "2026-07-20T10:23:49.957972",
+    "https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything": "2026-07-20T10:23:49.957972",
+    "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/": "2026-07-20T10:23:49.957972",
+    "https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/": "2026-07-20T10:23:49.957972",
+    "https://www.atlasobscura.com/places/giant-finn-beneath-lund-cathedral": "2026-07-20T10:23:49.957972"
   },
-  "last_run": "2026-07-19T09:24:44.716418",
+  "last_run": "2026-07-20T10:23:49.957972",
   "special_dates": [
     "2026-07-10",
     "2026-07-17"

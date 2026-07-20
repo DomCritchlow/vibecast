@@ -1,0 +1,68 @@
+{
+  "guid": "2026-07-20",
+  "date": "2026-07-20T10:23:49.957972",
+  "title": "Space Mirrors, AI Hiring Bias & India's Rocket Debut",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 362.5263157894737,
+  "duration_formatted": "6:02",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-20.mp3",
+    "audio_size_bytes": 7570373,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-20/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-20/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-07-20.txt"
+  },
+  "stories": [
+    {
+      "title": "The science of foresight: how to future-proof your research",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02231-y",
+      "summary": "Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02231-yAnticipating from the start the various ways a research programme can succeed or fail can avoid problems later. Here’s how to do it."
+    },
+    {
+      "title": "Can giant space mirrors boost green energy on Earth? A start-up aims to find out",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02218-9",
+      "summary": "Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02218-9Astronomers are deeply worried that a planned array of 50,000 mirror-bearing satellites in orbit will severely compromise telescopes."
+    },
+    {
+      "title": "AI is more likely than humans to form biases when hiring",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own biases from…"
+    },
+    {
+      "title": "Quoting Kimi K3",
+      "source": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything",
+      "summary": "Is there something I can actually help you with today? — Kimi K3, after refusing to leak its system prompt Tags: kimi, ai-personality, generative-ai, ai, llms"
+    },
+    {
+      "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+      "summary": "\"On the first attempt, reaching orbit, I never thought it was possible.\""
+    },
+    {
+      "title": "The Pentagon's Space Development Agency hasn't moved as fast as anyone would like",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/",
+      "summary": "\"Missiles are being launched at the joint force every single day in [Operation] Epic Fury.\""
+    },
+    {
+      "title": "Giant Finn Beneath Lund Cathedral in Centrala staden, Sweden",
+      "source": "Atlas Obscura",
+      "url": "https://www.atlasobscura.com/places/giant-finn-beneath-lund-cathedral",
+      "summary": "[ NOTE TO THE EDITOR: If this entry is published, please correct the geo header by replacing 'Centrala Staden' ('City Center') with 'Lund' so that the place is properly included in the destination guide. ] - - - In the crypt of Lund Cathedral, two stone columns stand apart from the rest. A standing male figure grips one, arms wrapped around the stone as though trying to keep it in place. Against the other leans a crouching female figure, with a child leaning against the arm she has wrapped around the stone. In the low light of the subterranean space, the sculptures feel less like decoration than interrupted movement, set among the forest of pillars that support the vault above. According to legend, the figures are the giant Finn and his family. Finn struck a bargain with Saint Lawrence to build the cathedral: if Finn’s name remained unknown before the work was complete, he would receive the saint’s eyes. Before that day came, Saint Lawrence learned the giant’s name and called it out..."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-07-20T10:23:49.957972",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}
