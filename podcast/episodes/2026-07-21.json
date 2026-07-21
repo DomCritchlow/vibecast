@@ -1,0 +1,68 @@
+{
+  "guid": "2026-07-21",
+  "date": "2026-07-21T09:58:26.291724",
+  "title": "Hybrid-Electric Flight & NIH Smuggling Uproar",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 363.36842105263156,
+  "duration_formatted": "6:03",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-21.mp3",
+    "audio_size_bytes": 7888857,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-21/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-21/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-07-21.txt"
+  },
+  "stories": [
+    {
+      "title": "NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/",
+      "summary": "An aircraft powered by a megawatt-class hybrid-electric engine developed in collaboration with NASA and built by GE Aerospace, demonstrated flight of an innovation that can inform new generations of fuel-saving aircraft power systems. Mounted to a Saab 340B aircraft, the engine flew at Farnborough International Air Show in the United Kingdom. It was the public […] The post NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration appeared first on NASA Science."
+    },
+    {
+      "title": "NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration",
+      "source": "NASA News",
+      "url": "https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/",
+      "summary": "An aircraft powered by a megawatt-class hybrid-electric engine developed in collaboration with NASA and built by GE Aerospace, demonstrated flight of an innovation that can inform new generations of fuel-saving aircraft power systems. Mounted to a Saab 340B aircraft, the engine flew at Farnborough International Air Show in the United Kingdom. It was the public […]"
+    },
+    {
+      "title": "Amendment 64: New Opportunity: A.15 Biosphere",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-64-new-opportunity-a-15-biosphere/",
+      "summary": "NASA’s Biosphere research area focuses on research that provides foundational knowledge on interactions between and within terrestrial and aquatic ecosystems, along with changes to their biogeochemistry and biodiversity. In doing so, it leverages the unique vantage point of space. Programmatically, Biosphere includes four research areas (subelements): Biological Diversity, Land Cover and Land Use Change, Ocean […] The post Amendment 64: New Opportunity: A.15 Biosphere appeared first on NASA Science."
+    },
+    {
+      "title": "Detailed maps of European wetlands reveal overlooked patches of ecosystems",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02211-2",
+      "summary": "Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02211-2Satellite images have been analysed by a machine-learning algorithm to produce high-resolution maps of wetland environments — a boon for conservation efforts."
+    },
+    {
+      "title": "Smuggling charges against NIH virologists trigger political uproar",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01995-7",
+      "summary": "Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-01995-7Other researchers say that non-infectious viral samples in luggage posed no risk, but might have violated import rules."
+    },
+    {
+      "title": "From Hampton to Mars: How NASA Langley Helped Land on the Red Planet",
+      "source": "NASA News",
+      "url": "https://www.nasa.gov/general/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/",
+      "summary": "Fifty years ago, NASA’s Viking 1 and 2 landers made the first successful landings on Mars, opening a new era in planetary exploration. Behind that achievement was a team at NASA’s Langley Research Center in Hampton, Virginia, whose steady leadership and technical expertise helped turn an ambitious idea into a mission that reshaped how we […]"
+    },
+    {
+      "title": "Umtanum Creek Footbridge in Ellensburg, Washington",
+      "source": "Atlas Obscura",
+      "url": "https://www.atlasobscura.com/places/umtanum-footbridge",
+      "summary": "Yakima (pronounced \"YAK-uh-maw\") Canyon, where the Yakima River traverses a water gap through Manastash Ridge, is an obvious thoroughfare and was used by Native Americans for thousands of years, and then by Euro-American trappers and settlers into the 19th century. It was also an obvious route for a railroad, and the Northern Pacific Railway was built through it in the early 1880s, along the west bank of the river. (The railroad is still in active use and is now part of the BNSF system.) Railroading was an extremely labor-intensive business well into the 20th century, and camps were built along the right-of-way to house the trackwalkers, signal men, section gangs, and other workers. In 1885 one such camp was built here at Umtanum Creek, where the eponymous creek joins the Yakima. The camp even boasted a school and a post office by the early 20th century. When in 1925 the automobile highway was built through the canyon on the east shore of the river, cable suspension bridges were bui..."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-07-21T09:58:26.291724",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}

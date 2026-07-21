@@ -1,12 +1,5 @@
 {
   "url_timestamps": {
-    "https://www.nasa.gov/hrp/researchers-how-would-you-extract-meaningful-insights-from-just-four-astronauts/": "2026-04-22T06:02:22.122171",
-    "https://www.technologyreview.com/2026/04/21/1134870/analog-computing-from-waste-heat/": "2026-04-22T06:02:22.122171",
-    "https://www.technologyreview.com/2026/04/21/1134862/this-tool-could-show-how-consciousness-works/": "2026-04-22T06:02:22.122171",
-    "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/": "2026-04-22T06:02:22.122171",
-    "https://restofworld.org/2026/ai-social-good-humans/?utm_source=rss&utm_medium=rss&utm_campaign=feeds": "2026-04-22T06:02:22.122171",
-    "https://science.nasa.gov/earth/earth-observatory/belts-of-green-in-the-washington-suburbs/": "2026-04-22T06:02:22.122171",
-    "https://www.space.com/astronomy/black-holes/dancing-jets-erupting-from-a-cannibalistic-black-hole-have-the-power-of-10-000-suns": "2026-04-22T06:02:22.122171",
     "https://www.quantamagazine.org/a-powerful-new-qr-code-untangles-maths-knottiest-knots-20260422/": "2026-04-23T06:08:39.257326",
     "https://www.nature.com/articles/d41586-026-01341-x": "2026-04-23T06:08:39.257326",
     "https://openai.com/index/making-chatgpt-better-for-clinicians": "2026-04-23T06:08:39.257326",
@@ -593,9 +586,15 @@
     "https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything": "2026-07-20T10:23:49.957972",
     "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/": "2026-07-20T10:23:49.957972",
     "https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/": "2026-07-20T10:23:49.957972",
-    "https://www.atlasobscura.com/places/giant-finn-beneath-lund-cathedral": "2026-07-20T10:23:49.957972"
+    "https://www.atlasobscura.com/places/giant-finn-beneath-lund-cathedral": "2026-07-20T10:23:49.957972",
+    "https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/": "2026-07-21T09:58:26.291724",
+    "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-64-new-opportunity-a-15-biosphere/": "2026-07-21T09:58:26.291724",
+    "https://www.nature.com/articles/d41586-026-02211-2": "2026-07-21T09:58:26.291724",
+    "https://www.nature.com/articles/d41586-026-01995-7": "2026-07-21T09:58:26.291724",
+    "https://www.nasa.gov/general/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/": "2026-07-21T09:58:26.291724",
+    "https://www.atlasobscura.com/places/umtanum-footbridge": "2026-07-21T09:58:26.291724"
   },
-  "last_run": "2026-07-20T10:23:49.957972",
+  "last_run": "2026-07-21T09:58:26.291724",
   "special_dates": [
     "2026-07-10",
     "2026-07-17"
