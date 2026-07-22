@@ -1,12 +1,5 @@
 {
   "url_timestamps": {
-    "https://www.quantamagazine.org/a-powerful-new-qr-code-untangles-maths-knottiest-knots-20260422/": "2026-04-23T06:08:39.257326",
-    "https://www.nature.com/articles/d41586-026-01341-x": "2026-04-23T06:08:39.257326",
-    "https://openai.com/index/making-chatgpt-better-for-clinicians": "2026-04-23T06:08:39.257326",
-    "https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/": "2026-04-23T06:08:39.257326",
-    "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/": "2026-04-23T06:08:39.257326",
-    "https://www.technologyreview.com/2026/04/22/1135449/los-angeles-subway-going-underground/": "2026-04-23T06:08:39.257326",
-    "https://www.theverge.com/tech/916800/sony-ai-ace-ping-pong-table-tennis-robot-cameras": "2026-04-23T06:08:39.257326",
     "https://www.nature.com/articles/d41586-026-01277-2": "2026-04-24T06:10:41.413106",
     "https://openai.com/index/introducing-gpt-5-5": "2026-04-24T06:10:41.413106",
     "https://www.nature.com/articles/s41586-026-10503-w": "2026-04-24T06:10:41.413106",
@@ -592,9 +585,16 @@
     "https://www.nature.com/articles/d41586-026-02211-2": "2026-07-21T09:58:26.291724",
     "https://www.nature.com/articles/d41586-026-01995-7": "2026-07-21T09:58:26.291724",
     "https://www.nasa.gov/general/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/": "2026-07-21T09:58:26.291724",
-    "https://www.atlasobscura.com/places/umtanum-footbridge": "2026-07-21T09:58:26.291724"
+    "https://www.atlasobscura.com/places/umtanum-footbridge": "2026-07-21T09:58:26.291724",
+    "https://science.nasa.gov/researchers/solicitations/roses-2025/roses-25-c-2-solar-system-science-corrections/": "2026-07-22T09:45:52.164338",
+    "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/happening-today-sservi-forum/": "2026-07-22T09:45:52.164338",
+    "https://www.nature.com/articles/d41586-026-02229-6": "2026-07-22T09:45:52.164338",
+    "https://www.nature.com/articles/d41586-026-02210-3": "2026-07-22T09:45:52.164338",
+    "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai": "2026-07-22T09:45:52.164338",
+    "https://www.nasa.gov/missions/nisar/us-india-satellite-delivers-data-reveals-hummingbird-in-antarctica/": "2026-07-22T09:45:52.164338",
+    "https://gothamist.com/news/nyc-must-face-lawsuit-over-treatment-of-transgender-woman-in-shelter-system": "2026-07-22T09:45:52.164338"
   },
-  "last_run": "2026-07-21T09:58:26.291724",
+  "last_run": "2026-07-22T09:45:52.164338",
   "special_dates": [
     "2026-07-10",
     "2026-07-17"

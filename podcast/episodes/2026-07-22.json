@@ -1,0 +1,68 @@
+{
+  "guid": "2026-07-22",
+  "date": "2026-07-22T09:45:52.164338",
+  "title": "Faintest Planet Spotted & OpenAI Hacks Hugging Face",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 362.94736842105266,
+  "duration_formatted": "6:02",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-22.mp3",
+    "audio_size_bytes": 7214272,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-22/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-22/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-07-22.txt"
+  },
+  "stories": [
+    {
+      "title": "ROSES-25 C.2 Solar System Science Corrections",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/researchers/solicitations/roses-2025/roses-25-c-2-solar-system-science-corrections/",
+      "summary": "C.2 Solar System Science solicits proposals for research, data analysis, data preservation, and tools that support investigations to help ascertain the content, origin, and evolution of the Solar System and the search for life’s origin, evolution, distribution, and future in the universe. The Planetary Science Division is committed to supporting the most meritorious research, data […] The post ROSES-25 C.2 Solar System Science Corrections appeared first on NASA Science."
+    },
+    {
+      "title": "HAPPENING TODAY! SSERVI Forum",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/happening-today-sservi-forum/",
+      "summary": "The NASA Solar System Exploration Research Virtual Institute (SSERVI) is pleased to announce the 2026 Exploration Science Forum. NASA Ames Research Center, Moffett Field, CA & Virtual. 21 July 2026 The post HAPPENING TODAY! SSERVI Forum appeared first on NASA Science."
+    },
+    {
+      "title": "Polio should have been eradicated by now. What’s plan B?",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02229-6",
+      "summary": "Nature, Published online: 22 July 2026; doi:10.1038/d41586-026-02229-6Amid funding cuts and political barriers, researchers are asking whether the campaign can ever succeed, and what to do next."
+    },
+    {
+      "title": "Faintest planet ever spotted from Earth has been hiding in plain sight",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02210-3",
+      "summary": "Nature, Published online: 21 July 2026; doi:10.1038/d41586-026-02210-3Method used to discover an exoplanet called Beta Pictoris d might reveal other very dim exoplanets."
+    },
+    {
+      "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+      "summary": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-release model\" discovered vulnerabilities within their sandboxed testing environment, allowing them to gain access to the internet and target Hugging Face. On July 16th, […]"
+    },
+    {
+      "title": "US-India Satellite Delivers Data, Reveals ‘Hummingbird’ in Antarctica",
+      "source": "NASA News",
+      "url": "https://www.nasa.gov/missions/nisar/us-india-satellite-delivers-data-reveals-hummingbird-in-antarctica/",
+      "summary": "As of July 20, the public can access data from the two powerful radar instruments aboard the NISAR (NASA-ISRO Synthetic Aperture Radar) satellite. Teams in the United States and India will release files processed from the satellite’s L-band and S-band radars on an ongoing basis, helping researchers and other users track the movement of Earth’s […]"
+    },
+    {
+      "title": "NYC must face lawsuit over treatment of transgender woman in shelter system",
+      "source": "Gothamist (NYC)",
+      "url": "https://gothamist.com/news/nyc-must-face-lawsuit-over-treatment-of-transgender-woman-in-shelter-system",
+      "summary": "Early evening view of the New York County Supreme Court building on Foley Square in Manhattan. A transgender woman alleges the city repeatedly placed her in men’s shelters and failed to address her complaints of discrimination and abuse. [ more › ]"
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-07-22T09:45:52.164338",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}
