@@ -1,0 +1,68 @@
+{
+  "guid": "2026-07-23",
+  "date": "2026-07-23T09:44:31.689709",
+  "title": "Quantum Computing, CRISPR Defense & JWST Cycle 6",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 370.9473684210526,
+  "duration_formatted": "6:10",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-23.mp3",
+    "audio_size_bytes": 7438716,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-23/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-23/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-07-23.txt"
+  },
+  "stories": [
+    {
+      "title": "How do quantum computers work?",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02219-8",
+      "summary": "Nature, Published online: 22 July 2026; doi:10.1038/d41586-026-02219-8Recent breakthroughs suggest usable devices could be here in a decade."
+    },
+    {
+      "title": "CRISPR–Cas regulates expression of embedded anti-phage defence systems",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10833-9",
+      "summary": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10833-9CRISPR–Cas systems transcriptionally tune diverse innate defences using CRISPR RNA-like guides to balance antiviral protection with fitness, and hyperactivate these defences when compromised, establishing a layered bacterial ‘immunity guard’ network."
+    },
+    {
+      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/ntt-data",
+      "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption."
+    },
+    {
+      "title": "JWST Cycle 6 Call for Proposals",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/jwst-cycle-6-call-for-proposals/",
+      "summary": "We are pleased to announce the Cycle 6 Call for Proposals for JWST General Observer (GO), Survey, and Archival Research (AR) programs. Proposals are due on 30 September 2026. The post JWST Cycle 6 Call for Proposals appeared first on NASA Science."
+    },
+    {
+      "title": "Small Steps, Giant Leaps: Episode 178: Science – It Takes a Village (in Alabama)",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/podcasts/small-steps-giant-leaps/small-steps-giant-leaps-episode-178-science-takes-a-village-in-alabama/",
+      "summary": "Ground teams connect with astronauts aboard the International Space Station to help them carry out research and experiments. Kassandra Stephens, payload communications manager at the Payload Operations Integration Center at Marshall Space Flight Center, works with space station crews to get science done. The post Small Steps, Giant Leaps: Episode 178: Science – It Takes a Village (in Alabama) appeared first on NASA Science."
+    },
+    {
+      "title": "NASA to Showcase Agency’s Newest Wind Tunnel in Virginia",
+      "source": "NASA News",
+      "url": "https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/",
+      "summary": "Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research Facility, the agency’s first new wind tunnel in more than 40 years. The event will include a brief media availability with: This event is in person only […]"
+    },
+    {
+      "title": "MTA wraps up $106M renovation of Borough Hall subway where ceiling collapsed in 2018",
+      "source": "Gothamist (NYC)",
+      "url": "https://gothamist.com/news/mta-wraps-up-106m-renovation-of-borough-hall-subway-where-ceiling-collpased-in-2018",
+      "summary": "Brooklyn's Borough Hall station fell into disrepair before the MTA began an extensive renovation project five years ago. The station is one of the oldest in the system and MTA officials said it was long overdue for an overhaul. [ more › ]"
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-07-23T09:44:31.689709",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}
