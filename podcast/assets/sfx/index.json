@@ -19,5 +19,26 @@
   "direction": "a soft gust of wind, leaves rustling, a far-off roll of thunder",
   "seconds": 5.0,
   "loop": false
+ },
+ {
+  "file": "a-cool-clear-new-york-morning-just-after-sunrise-a-lone-song--15s-loop-d37144be.mp3",
+  "prompt": "a cool, clear New York morning just after sunrise \u2014 a lone songbird, the far hiss of a street sweeper, a screen door somewhere settling shut, ambient bed, no music",
+  "direction": "a cool, clear New York morning just after sunrise \u2014 a lone songbird, the far hiss of a street sweeper, a screen door somewhere settling shut",
+  "seconds": 15.0,
+  "loop": true
+ },
+ {
+  "file": "a-soft-electrical-shimmer-like-charged-air--5s-ac9aa4e8.mp3",
+  "prompt": "a soft electrical shimmer, like charged air",
+  "direction": "a soft electrical shimmer, like charged air",
+  "seconds": 5.0,
+  "loop": false
+ },
+ {
+  "file": "a-slow-gust-of-wind-moving-across-an-open-field--5s-25c3a8ad.mp3",
+  "prompt": "a slow gust of wind moving across an open field",
+  "direction": "a slow gust of wind moving across an open field",
+  "seconds": 5.0,
+  "loop": false
  }
 ]

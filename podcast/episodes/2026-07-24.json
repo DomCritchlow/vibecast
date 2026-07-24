@@ -1,0 +1,68 @@
+{
+  "guid": "2026-07-24",
+  "date": "2026-07-24T09:42:26.466759",
+  "title": "MAHA Science Check & Mars Auroras Revealed",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 300.617143,
+  "duration_formatted": "5:00",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-24.mp3",
+    "audio_size_bytes": 7215482,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-24/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-24/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-07-24.txt"
+  },
+  "stories": [
+    {
+      "title": "How does Make America Healthy Again hold up against scientific scrutiny?",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02024-3",
+      "summary": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02024-3Researchers share their views on the US health policy spanning topics from vaccines to nutrition."
+    },
+    {
+      "title": "Curiosity Blog, Sols 4954–4960: Celebrating Our Rover Engineers Past and Present",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4954-4960-celebrating-our-rover-engineers-past-and-present/",
+      "summary": "Written by Lucy Thompson, Senior Research Scientist, University of New Brunswick, Canada Earth planning date: Friday, July 27, 2026 As an APXS uplink lead and strategic planner, I have the privilege of working with the rover engineers most days that I am on operations. The APXS instrument measures the chemistry of rocks, unconsolidated materials and […] The post Curiosity Blog, Sols 4954–4960: Celebrating Our Rover Engineers Past and Present appeared first on NASA Science."
+    },
+    {
+      "title": "Expedition 75",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/mission/expedition-75/",
+      "summary": "Expedition 75 begins on July 26, 2026, and will end in spring 2027. The crew will welcome the SpaceX Crew-13 mission in late summer while exploring in-space manufacturing techniques, augmented reality and artificial intelligence methods for crew health checks, and bioprinting human tissue. The post Expedition 75 appeared first on NASA Science."
+    },
+    {
+      "title": "Curiosity Blog, Sols 4954–4960: Celebrating Our Rover Engineers Past and Present",
+      "source": "NASA News",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4954-4960-celebrating-our-rover-engineers-past-and-present/",
+      "summary": "Written by Lucy Thompson, Senior Research Scientist, University of New Brunswick, Canada Earth planning date: Friday, July 27, 2026 As an APXS uplink lead and strategic planner, I have the privilege of working with the rover engineers most days that I am on operations. The APXS instrument measures the chemistry of rocks, unconsolidated materials and […]"
+    },
+    {
+      "title": "NASA’s MAVEN Illuminates New Understanding of Auroras at Mars",
+      "source": "NASA News",
+      "url": "https://science.nasa.gov/missions/maven/nasas-maven-illuminates-new-understanding-of-auroras-at-mars/",
+      "summary": "NASA MAVEN (Mars Atmosphere and Volatile Evolution) mission scientists have uncovered a key puzzle piece in understanding certain types of auroras on Mars, finding that they form in a similar way to Earth-based auroras. Results published Thursday in Nature Communications show the same mechanism that circulates and catapults charged particles into Earth’s atmosphere is happening at […]"
+    },
+    {
+      "title": "What The Odyssey reveals about ancient science — from botany to psychiatry",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02275-0",
+      "summary": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02275-0From intelligent ships to clues about eclipses, Homer’s The Odyssey reveals how Bronze Age Greeks understood the world."
+    },
+    {
+      "title": "Medieval Strip Farming in England",
+      "source": "Atlas Obscura",
+      "url": "https://www.atlasobscura.com/places/medieval-strip-farming-around-haxey",
+      "summary": "The medieval practice of strip forming is similar to the \"strip cropping\" practices carried out in some midwestern states of the USA, except that the origins come from a need to equitably divide land resources around a settlement (strictly managed by the lord of the manor and his officials) rather than having the specific aim of soil conservation and crop management which seems to drive strip cropping in the USA. Medieval strip farming did achieve such aims but it was secondary to the resource allocation issue during the feudal medieval period. In England, the evidence of the strip farming (also called open field farming) having taken place over long periods of time, in the past, is very common. As farmers were allocated long narrow strips of land, in various parts of an open field system (to ensure fair distribution of soil types) the land would be ploughed in such a way that soil would pile up to form a ridge at the centre of a ploughed strip and lower lying furrows at either side..."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-07-24T09:42:26.466759",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "fal",
+    "tts_voice": "SAz9YHcvj6GT2YYXdXww",
+    "special_episode": true
+  }
+}

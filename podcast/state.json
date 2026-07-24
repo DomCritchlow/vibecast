@@ -1,12 +1,5 @@
 {
   "url_timestamps": {
-    "https://www.nature.com/articles/d41586-026-01340-y": "2026-04-25T05:50:41.179402",
-    "https://arstechnica.com/science/2026/04/meet-the-19-meter-cretaceous-kraken-that-swam-with-mosasaurs/": "2026-04-25T05:50:41.179402",
-    "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson": "2026-04-25T05:50:41.179402",
-    "https://restofworld.org/2026/ai-optimism-asia/?utm_source=rss&utm_medium=rss&utm_campaign=feeds": "2026-04-25T05:50:41.179402",
-    "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/astra-initiative-seminar-on-30-april-2026/": "2026-04-25T05:50:41.179402",
-    "https://www.nasa.gov/blogs/spacestation/2026/04/24/cargo-mission-launching-saturday-as-crew-wraps-week-with-research/": "2026-04-25T05:50:41.179402",
-    "https://www.space.com/astronomy/solar-system/this-x-ray-image-shows-our-solar-system-breathing": "2026-04-25T05:50:41.179402",
     "https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board": "2026-04-26T06:09:07.189169",
     "https://www.theverge.com/science/918753/researchers-talking-less": "2026-04-26T06:09:07.189169",
     "https://aistackinsights.ai/blog/multi-agent-ai-systems-langgraph-crewai-production-guide": "2026-04-26T06:09:07.189169",
@@ -592,11 +585,18 @@
     "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/jwst-cycle-6-call-for-proposals/": "2026-07-23T09:44:31.689709",
     "https://www.nasa.gov/podcasts/small-steps-giant-leaps/small-steps-giant-leaps-episode-178-science-takes-a-village-in-alabama/": "2026-07-23T09:44:31.689709",
     "https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/": "2026-07-23T09:44:31.689709",
-    "https://gothamist.com/news/mta-wraps-up-106m-renovation-of-borough-hall-subway-where-ceiling-collpased-in-2018": "2026-07-23T09:44:31.689709"
+    "https://gothamist.com/news/mta-wraps-up-106m-renovation-of-borough-hall-subway-where-ceiling-collpased-in-2018": "2026-07-23T09:44:31.689709",
+    "https://www.nature.com/articles/d41586-026-02024-3": "2026-07-24T09:42:26.466759",
+    "https://science.nasa.gov/blog/curiosity-blog-sols-4954-4960-celebrating-our-rover-engineers-past-and-present/": "2026-07-24T09:42:26.466759",
+    "https://www.nasa.gov/mission/expedition-75/": "2026-07-24T09:42:26.466759",
+    "https://science.nasa.gov/missions/maven/nasas-maven-illuminates-new-understanding-of-auroras-at-mars/": "2026-07-24T09:42:26.466759",
+    "https://www.nature.com/articles/d41586-026-02275-0": "2026-07-24T09:42:26.466759",
+    "https://www.atlasobscura.com/places/medieval-strip-farming-around-haxey": "2026-07-24T09:42:26.466759"
   },
-  "last_run": "2026-07-23T09:44:31.689709",
+  "last_run": "2026-07-24T09:42:26.466759",
   "special_dates": [
     "2026-07-10",
-    "2026-07-17"
+    "2026-07-17",
+    "2026-07-24"
   ]
 }
