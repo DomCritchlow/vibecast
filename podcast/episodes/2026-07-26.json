@@ -1,0 +1,68 @@
+{
+  "guid": "2026-07-26",
+  "date": "2026-07-26T09:30:23.938820",
+  "title": "White House AI Funding & Overhauling U.S. Science",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 370.52631578947364,
+  "duration_formatted": "6:10",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-26.mp3",
+    "audio_size_bytes": 7561596,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-26/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-26/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-07-26.txt"
+  },
+  "stories": [
+    {
+      "title": "Amendment 66: B.2 Heliophysics Foundational Research Step-2 Due Date Announced and Correction",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-66-b-2-heliophysics-foundational-research-step-2-due-date-announced-and-correction/",
+      "summary": "B.2 Heliophysics Foundational Research (HFR) solicits investigations that advance the fundamental physical understanding of the Sun-Heliosphere-Planetary system. The emphasis of HFR is on uncovering and characterizing the underlying drivers, couplings, and governing processes that shape heliophysical phenomena across spatial and temporal scales, from the solar interior to planetary environments. ROSES-2025 Amendment 66 announces that the […] The post Amendment 66: B.2 Heliophysics Foundational Research Step-2 Due Date Announced and Correction appeared first on NASA Science."
+    },
+    {
+      "title": "White House rolls out AI funding — and signals a new era for US science",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02332-8",
+      "summary": "Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02332-8Chief US science adviser calls for a shakeup in funding while handing out grants to accelerate research with AI."
+    },
+    {
+      "title": "MCMC Science",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/space-science-and-astrobiology-at-ames/division-overview/planetary-systems-branch-overview-stt/mars-climate-modeling-center-mcmc/mcmc-science/",
+      "summary": "The Mars Climate Modeling Center (MCMC) conducts atmospheric and climate science research using the NASA Ames Mars Global Climate Models (MGCMs), advancing our understanding of Mars’ climate today, in its ancient past, and as a target for future exploration. Mars’ climate is governed by three interacting cycles — dust, water, and carbon dioxide (CO₂) — […] The post MCMC Science appeared first on NASA Science."
+    },
+    {
+      "title": "Author Correction: Feature-specific threat coding in lateral septum guides defensive action",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10911-y",
+      "summary": "Nature, Published online: 24 July 2026; doi:10.1038/s41586-026-10911-yAuthor Correction: Feature-specific threat coding in lateral septum guides defensive action"
+    },
+    {
+      "title": "White House report calls for big changes to ‘calcified’ U.S. science system",
+      "source": "Science.org News",
+      "url": "https://www.science.org/content/article/white-house-report-calls-big-changes-calcified-u-s-science-system",
+      "summary": "In Congress today, Trump science adviser Michael Kratsios faced critics of the proposals"
+    },
+    {
+      "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement” When it comes to organ donation, time is everything. As soon as an organ has been removed from a donor’s…"
+    },
+    {
+      "title": "A Forgotten Literary Window Into the Personal Life of Alan Turing",
+      "source": "Nautilus",
+      "url": "https://nautil.us/a-forgotten-literary-window-into-the-personal-life-of-alan-turing-1282977/",
+      "summary": "The previously unpublished short story reveals the playful and erotic side of the father of modern computing The post A Forgotten Literary Window Into the Personal Life of Alan Turing appeared first on Nautilus."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-07-26T09:30:23.938820",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}

@@ -8,7 +8,7 @@
     <link>https://critchlow.us/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jul 2026 09:46:47 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 09:33:12 -0000</lastBuildDate>
     <atom:link href="https://critchlow.us/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://critchlow.us/vibecast/</link>
     </image>
     <itunes:image href="https://critchlow.us/vibecast/artwork.png"/>
+    <item>
+      <title>White House AI Funding &amp; Overhauling U.S. Science</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Amendment 66: B.2 Heliophysics Foundational Research Step-2 Due Date Announced and Correction
+   Source: NASA Science
+2. White House rolls out AI funding — and signals a new era for US science
+   Source: Nature News
+3. MCMC Science
+   Source: NASA Science
+4. Author Correction: Feature-specific threat coding in lateral septum guides defensive action
+   Source: Nature News
+5. White House report calls for big changes to ‘calcified’ U.S. science system
+   Source: Science.org News
+6. The Download: an organ transplant breakthrough, and homegrown Chinese chips
+   Source: MIT Technology Review
+7. A Forgotten Literary Window Into the Personal Life of Alan Turing
+   Source: Nautilus
+
+REFERENCES:
+
+1. Amendment 66: B.2 Heliophysics Foundational Research Step-2 Due Date Announced and Correction
+   https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-66-b-2-heliophysics-foundational-research-step-2-due-date-announced-and-correction/
+
+2. White House rolls out AI funding — and signals a new era for US science
+   https://www.nature.com/articles/d41586-026-02332-8
+
+3. MCMC Science
+   https://www.nasa.gov/space-science-and-astrobiology-at-ames/division-overview/planetary-systems-branch-overview-stt/mars-climate-modeling-center-mcmc/mcmc-science/
+
+4. Author Correction: Feature-specific threat coding in lateral septum guides defensive action
+   https://www.nature.com/articles/s41586-026-10911-y
+
+5. White House report calls for big changes to ‘calcified’ U.S. science system
+   https://www.science.org/content/article/white-house-report-calls-big-changes-calcified-u-s-science-system
+
+6. The Download: an organ transplant breakthrough, and homegrown Chinese chips
+   https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/
+
+7. A Forgotten Literary Window Into the Personal Life of Alan Turing
+   https://nautil.us/a-forgotten-literary-window-into-the-personal-life-of-alan-turing-1282977/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-26/newspaper.pdf]]></description>
+      <pubDate>Sun, 26 Jul 2026 09:30:23 -0000</pubDate>
+      <guid isPermaLink="false">2026-07-26</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-26.mp3" length="7561596" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Amendment 66: B.2 Heliophysics Foundational Research Step-2 Due Date Announced and Correction
+   Source: NASA Science
+2. White House rolls out AI funding — and signals a new era for US science
+   Source: Nature News
+3. MCMC Science
+   Source: NASA Science
+4. Author Correction: Feature-specific threat coding in lateral septum guides defensive action
+   Source: Nature News
+5. White House report calls for big changes to ‘calcified’ U.S. science system
+   Source: Science.org News
+6. The Download: an organ transplant breakthrough, and homegrown Chinese chips
+   Source: MIT Technology Review
+7. A Forgotten Literary Window Into the Personal Life of Alan Turing
+   Source: Nautilus
+
+REFERENCES:
+
+1. Amendment 66: B.2 Heliophysics Foundational Research Step-2 Due Date Announced and Correction
+   https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-66-b-2-heliophysics-foundational-research-step-2-due-date-announced-and-correction/
+
+2. White House rolls out AI funding — and signals a new era for US science
+   https://www.nature.com/articles/d41586-026-02332-8
+
+3. MCMC Science
+   https://www.nasa.gov/space-science-and-astrobiology-at-ames/division-overview/planetary-systems-branch-overview-stt/mars-climate-modeling-center-mcmc/mcmc-science/
+
+4. Author Correction: Feature-specific threat coding in lateral septum guides defensive action
+   https://www.nature.com/articles/s41586-026-10911-y
+
+5. White House report calls for big changes to ‘calcified’ U.S. science system
+   https://www.science.org/content/article/white-house-report-calls-big-changes-calcified-u-s-science-system
+
+6. The Download: an organ transplant breakthrough, and homegrown Chinese chips
+   https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/
+
+7. A Forgotten Literary Window Into the Personal Life of Alan Turing
+   https://nautil.us/a-forgotten-literary-window-into-the-personal-life-of-alan-turing-1282977/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-26/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>6:10</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-26/episode-art.png"/>
+    </item>
     <item>
       <title>MAHA Science Check &amp; Mars Auroras Revealed</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:47</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-24/episode-art.png"/>
-    </item>
-    <item>
-      <title>Build Your Own Steam Machine &amp; Sun’s Fiery Final Act</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Valve will finally let you build your own Steam Machine with SteamOS for desktop
-   Source: The Verge
-2. Gary Kellogg
-   Source: NASA Science
-3. Our sun is destined to 'kick and spit' its way across the solar system when it dies
-   Source: Space.com
-4. Forty years of high-temperature superconductivity
-   Source: Nature News
-5. Make science more reliable: study people as they go about their lives
-   Source: Nature News
-6. Google invests in A24 to build AI movie tools
-   Source: The Verge
-7. A Source of Mysterious Repeating Radio Signals From Space Has Been Identified
-   Source: Wired
-
-REFERENCES:
-
-1. Valve will finally let you build your own Steam Machine with SteamOS for desktop
-   https://www.theverge.com/games/953411/valve-steamos-desktop-nvidia
-
-2. Gary Kellogg
-   https://www.nasa.gov/people/gary-kellogg/
-
-3. Our sun is destined to 'kick and spit' its way across the solar system when it dies
-   https://www.space.com/astronomy/stars/the-dying-sun-will-go-out-kicking-before-leaving-behind-a-white-dwarf-dead-star
-
-4. Forty years of high-temperature superconductivity
-   https://www.nature.com/articles/d41586-026-01801-4
-
-5. Make science more reliable: study people as they go about their lives
-   https://www.nature.com/articles/d41586-026-01957-z
-
-6. Google invests in A24 to build AI movie tools
-   https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership
-
-7. A Source of Mysterious Repeating Radio Signals From Space Has Been Identified
-   https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-23/newspaper.pdf]]></description>
-      <pubDate>Tue, 23 Jun 2026 07:51:15 -0000</pubDate>
-      <guid isPermaLink="false">2026-06-23</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-23.mp3" length="7132767" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Valve will finally let you build your own Steam Machine with SteamOS for desktop
-   Source: The Verge
-2. Gary Kellogg
-   Source: NASA Science
-3. Our sun is destined to 'kick and spit' its way across the solar system when it dies
-   Source: Space.com
-4. Forty years of high-temperature superconductivity
-   Source: Nature News
-5. Make science more reliable: study people as they go about their lives
-   Source: Nature News
-6. Google invests in A24 to build AI movie tools
-   Source: The Verge
-7. A Source of Mysterious Repeating Radio Signals From Space Has Been Identified
-   Source: Wired
-
-REFERENCES:
-
-1. Valve will finally let you build your own Steam Machine with SteamOS for desktop
-   https://www.theverge.com/games/953411/valve-steamos-desktop-nvidia
-
-2. Gary Kellogg
-   https://www.nasa.gov/people/gary-kellogg/
-
-3. Our sun is destined to 'kick and spit' its way across the solar system when it dies
-   https://www.space.com/astronomy/stars/the-dying-sun-will-go-out-kicking-before-leaving-behind-a-white-dwarf-dead-star
-
-4. Forty years of high-temperature superconductivity
-   https://www.nature.com/articles/d41586-026-01801-4
-
-5. Make science more reliable: study people as they go about their lives
-   https://www.nature.com/articles/d41586-026-01957-z
-
-6. Google invests in A24 to build AI movie tools
-   https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership
-
-7. A Source of Mysterious Repeating Radio Signals From Space Has Been Identified
-   https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-23/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>5:00</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-23/episode-art.png"/>
     </item>
   </channel>
 </rss>

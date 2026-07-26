@@ -1,19 +1,5 @@
 {
   "url_timestamps": {
-    "https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board": "2026-04-26T06:09:07.189169",
-    "https://www.theverge.com/science/918753/researchers-talking-less": "2026-04-26T06:09:07.189169",
-    "https://aistackinsights.ai/blog/multi-agent-ai-systems-langgraph-crewai-production-guide": "2026-04-26T06:09:07.189169",
-    "https://www.nature.com/articles/s41586-026-10518-3": "2026-04-26T06:09:07.189169",
-    "https://www.nature.com/articles/s41586-026-10552-1": "2026-04-26T06:09:07.189169",
-    "https://www.positive.news/society/ready-to-take-charge-three-innovative-types-of-energy-storage/": "2026-04-26T06:09:07.189169",
-    "https://openai.com/academy/codex-automations": "2026-04-26T06:09:07.189169",
-    "https://www.wired.com/review/della-optima-tp-series-mini-split-air-conditioner/": "2026-04-27T06:30:18.892050",
-    "https://www.nature.com/articles/d41586-026-01361-7": "2026-04-27T06:30:18.892050",
-    "https://www.nature.com/articles/d41586-026-01282-5": "2026-04-27T06:30:18.892050",
-    "https://openai.com/index/our-principles": "2026-04-27T06:30:18.892050",
-    "https://openai.com/academy/codex-how-to-start": "2026-04-27T06:30:18.892050",
-    "https://deepmind.google/blog/decoupled-diloco/": "2026-04-27T06:30:18.892050",
-    "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/": "2026-04-27T06:30:18.892050",
     "https://www.nature.com/articles/d41586-026-01202-7": "2026-04-28T06:32:12.095522",
     "https://www.nature.com/articles/d41586-026-01266-5": "2026-04-28T06:32:12.095522",
     "https://openai.com/index/open-source-codex-orchestration-symphony": "2026-04-28T06:32:12.095522",
@@ -591,9 +577,16 @@
     "https://www.nasa.gov/mission/expedition-75/": "2026-07-24T09:42:26.466759",
     "https://science.nasa.gov/missions/maven/nasas-maven-illuminates-new-understanding-of-auroras-at-mars/": "2026-07-24T09:42:26.466759",
     "https://www.nature.com/articles/d41586-026-02275-0": "2026-07-24T09:42:26.466759",
-    "https://www.atlasobscura.com/places/medieval-strip-farming-around-haxey": "2026-07-24T09:42:26.466759"
+    "https://www.atlasobscura.com/places/medieval-strip-farming-around-haxey": "2026-07-24T09:42:26.466759",
+    "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-66-b-2-heliophysics-foundational-research-step-2-due-date-announced-and-correction/": "2026-07-26T09:30:23.938820",
+    "https://www.nature.com/articles/d41586-026-02332-8": "2026-07-26T09:30:23.938820",
+    "https://www.nasa.gov/space-science-and-astrobiology-at-ames/division-overview/planetary-systems-branch-overview-stt/mars-climate-modeling-center-mcmc/mcmc-science/": "2026-07-26T09:30:23.938820",
+    "https://www.nature.com/articles/s41586-026-10911-y": "2026-07-26T09:30:23.938820",
+    "https://www.science.org/content/article/white-house-report-calls-big-changes-calcified-u-s-science-system": "2026-07-26T09:30:23.938820",
+    "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/": "2026-07-26T09:30:23.938820",
+    "https://nautil.us/a-forgotten-literary-window-into-the-personal-life-of-alan-turing-1282977/": "2026-07-26T09:30:23.938820"
   },
-  "last_run": "2026-07-24T09:42:26.466759",
+  "last_run": "2026-07-26T09:30:23.938820",
   "special_dates": [
     "2026-07-10",
     "2026-07-17",
