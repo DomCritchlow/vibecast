@@ -1,12 +1,5 @@
 {
   "url_timestamps": {
-    "https://www.nature.com/articles/d41586-026-01202-7": "2026-04-28T06:32:12.095522",
-    "https://www.nature.com/articles/d41586-026-01266-5": "2026-04-28T06:32:12.095522",
-    "https://openai.com/index/open-source-codex-orchestration-symphony": "2026-04-28T06:32:12.095522",
-    "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/": "2026-04-28T06:32:12.095522",
-    "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/": "2026-04-28T06:32:12.095522",
-    "https://science.nasa.gov/earth-science/csda/csda-vendor-pixxel/": "2026-04-28T06:32:12.095522",
-    "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-group-17-14-50th-mission-2026": "2026-04-28T06:32:12.095522",
     "https://alltechmagazine.com/what-is/current-state-of-ai-research-and-development/": "2026-04-29T06:26:11.727874",
     "https://www.nasa.gov/1989-ames-earth-science-publications/": "2026-04-29T06:26:11.727874",
     "https://www.nasa.gov/1997-ames-earth-science-publications/": "2026-04-29T06:26:11.727874",
@@ -584,9 +577,16 @@
     "https://www.nature.com/articles/s41586-026-10911-y": "2026-07-26T09:30:23.938820",
     "https://www.science.org/content/article/white-house-report-calls-big-changes-calcified-u-s-science-system": "2026-07-26T09:30:23.938820",
     "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/": "2026-07-26T09:30:23.938820",
-    "https://nautil.us/a-forgotten-literary-window-into-the-personal-life-of-alan-turing-1282977/": "2026-07-26T09:30:23.938820"
+    "https://nautil.us/a-forgotten-literary-window-into-the-personal-life-of-alan-turing-1282977/": "2026-07-26T09:30:23.938820",
+    "https://www.nature.com/articles/d41586-026-02316-8": "2026-07-27T10:54:29.735981",
+    "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work": "2026-07-27T10:54:29.735981",
+    "https://www.nature.com/articles/d41586-026-02171-7": "2026-07-27T10:54:29.735981",
+    "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything": "2026-07-27T10:54:29.735981",
+    "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything": "2026-07-27T10:54:29.735981",
+    "https://huggingface.co/blog/grabette": "2026-07-27T10:54:29.735981",
+    "https://www.atlasobscura.com/places/fuel-tank-orca-mural": "2026-07-27T10:54:29.735981"
   },
-  "last_run": "2026-07-26T09:30:23.938820",
+  "last_run": "2026-07-27T10:54:29.735981",
   "special_dates": [
     "2026-07-10",
     "2026-07-17",

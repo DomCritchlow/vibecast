@@ -1,0 +1,68 @@
+{
+  "guid": "2026-07-27",
+  "date": "2026-07-27T10:54:29.735981",
+  "title": "Brain Organoid Computers & Claude Opus 5 Debut",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 369.6842105263158,
+  "duration_formatted": "6:09",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-27.mp3",
+    "audio_size_bytes": 7500783,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-27/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-27/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-07-27.txt"
+  },
+  "stories": [
+    {
+      "title": "Researchers are building computers that run on brain organoids — but have neglected a major ethical issue",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02316-8",
+      "summary": "Nature, Published online: 27 July 2026; doi:10.1038/d41586-026-02316-8People who give tissue samples for biomedical research might have no idea that their cells are being used for biocomputers."
+    },
+    {
+      "title": "How AI is expanding what people do at work",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries."
+    },
+    {
+      "title": "The existential choice facing UK physics facilities: commercialize or close",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02171-7",
+      "summary": "Nature, Published online: 27 July 2026; doi:10.1038/d41586-026-02171-7The national synchrotron source, a laser facility and a particle accelerator are under threat of closure unless cash is found."
+    },
+    {
+      "title": "Quoting Boris Cherny",
+      "source": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything",
+      "summary": "More than any of these eval scores, what is most exciting to me is something else: Opus 5 is our least prompt injectable model yet. It is a bit buried in the system card, but across PI evals and red teaming, Opus 5 is very hard to prompt inject successfully. — Boris Cherny, here's that System Card section, page 73 Tags: prompt-injection, anthropic, claude, generative-ai, ai, llms, boris-cherny"
+    },
+    {
+      "title": "Introducing Claude Opus 5",
+      "source": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything",
+      "summary": "Introducing Claude Opus 5 I've been offline kayaking with sea otters for much of today so I haven't had a chance to put Anthropic's new model Claude Opus 5 through its paces yet. The buzz is positive, and Anthropic's description of it as a \"thoughtful and proactive model that comes close to the frontier intelligence of Claude Fable 5 at half the price\" sounds promising. It's currently leading the Artificial Analysis leaderboard, in front of even Fable 5. It's priced the same as Opus 4.8, and continues to offer a \"fast mode\" at twice the cost of the base model. Based on this anecdote in the release post it sounds like it might be relentlessly proactive: On one Frontier-Bench task, Opus 5 was given a drawing of a machine part and asked to write code to rebuild it as a 3D FreeCAD model. However, in this task, the model was intentionally given no way to directly viewthe drawing. Opus 5 responded by writing its own computer vision pipeline to pull the geometry from the raw pixels, then r..."
+    },
+    {
+      "title": "Grabette: an open system to record robot-manipulation data",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/grabette",
+      "summary": ""
+    },
+    {
+      "title": "Fuel Tank Orca Mural in Palmer Station, Antarctica",
+      "source": "Atlas Obscura",
+      "url": "https://www.atlasobscura.com/places/fuel-tank-orca-mural",
+      "summary": "The fuel tank mural at Palmer Station is one of the most recognizable landmarks at this remote Antarctic research base. Painted on the station’s large fuel tank, the mural features a leaping orca and adds a unique piece of public art to the otherwise industrial scenery. Visible from the water as ships approach the station, it has become a familiar symbol of Palmer Station for residents and visitors alike. The mural stands out against the surrounding Antarctic landscape and serves as a reminder that even in one of the world’s most isolated workplaces, people bring creativity and personality to their surroundings."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-07-27T10:54:29.735981",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}
