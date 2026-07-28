@@ -1,0 +1,68 @@
+{
+  "guid": "2026-07-28",
+  "date": "2026-07-28T10:03:24.735050",
+  "title": "Rogue Planets & AI Medical Liability",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 386.1052631578947,
+  "duration_formatted": "6:26",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-28.mp3",
+    "audio_size_bytes": 7661906,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-28/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-28/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-07-28.txt"
+  },
+  "stories": [
+    {
+      "title": "Rogue Planets",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/mission/rogue-planets/",
+      "summary": "Going Rogue In a single generation, we went from knowing of only our own planetary system to realizing that planets likely outnumber the hundreds of billions of stars in our Milky Way galaxy. Recent research suggests that rogue planets — worlds that don’t orbit a star — are by far the most common type, outnumbering star-bound worlds […] The post Rogue Planets appeared first on NASA Science."
+    },
+    {
+      "title": "When physicians and AI work together, who is accountable? How to lay out medical liability",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02315-9",
+      "summary": "Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02315-9A staging system based on how big a role AI has in patient care can help to identify who is responsible in cases in which care fails."
+    },
+    {
+      "title": "AI’s top startups are barely publishing their research",
+      "source": "Science.org News",
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "summary": "More than half of AI “unicorns” have never published a paper or preprint"
+    },
+    {
+      "title": "An opinionated guide to which AI to use to do stuff",
+      "source": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything",
+      "summary": "An opinionated guide to which AI to use to do stuff It's interesting watching the evolution of Ethan Mollick's guide over time. A year ago it was still all about chat - ChatGPT, Claude, Gemini - with o3, Claude 4 Opus, and Gemini 2.5 Pro as the models and Deep Research as a useful alternative mode. Today it's much more about agentic systems - \"where the AI is capable of doing the equivalent of many hours of real human work in one go\". Gemini has fallen off Ethan's list, since Google still doesn’t have an established entry in the Codex/ChatGPT Work/Cowork category. Gemini Spark has yet to prove itself! Ethan offers a useful explanation of the ways you can give ChatGPT or Claude a computer to use: To use the computers provided by the AI companies, the mode you want is called ChatGPT Work in ChatGPT, and Cowork in Claude (the naming will not get less confusing, I am sorry to say). [...] The most powerful way to use AI is to give it access to your computer. You do that by downloading th..."
+    },
+    {
+      "title": "Amendment 68: New Opportunity: D.8 Habitable Worlds Observatory Precursor Science Investigations",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-68-new-opportunity-d-8-habitable-worlds-observatory-precursor-science-investigations/",
+      "summary": "The Habitable Worlds Observatory (HWO) is a large-aperture ultraviolet/visible/near-infrared observatory concept recommended by the National Academies of Science, Engineering, and Medicine decadal survey, “Pathways to Discovery in Astronomy and Astrophysics for the 2020s” (Astro2020). The HWO mission concept would be the first space mission designed specifically to search for life outside our solar system and […] The post Amendment 68: New Opportunity: D.8 Habitable Worlds Observatory Precursor Science Investigations appeared first on NASA Science."
+    },
+    {
+      "title": "Values in science go beyond politics",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02346-2",
+      "summary": "Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02346-2Values in science go beyond politics"
+    },
+    {
+      "title": "Nostalgia Box in West Perth, Australia",
+      "source": "Atlas Obscura",
+      "url": "https://www.atlasobscura.com/places/nostalgia-box",
+      "summary": "The museum has over 100 video game consoles on display. Dating from the 1970s, when video games were in their baby shoes, all the way to the early 2000s where we can see how much these games have grown, just like how you have done over the years. There is also an interactive section where you can get hands on with and play with many of the systems."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-07-28T10:03:24.735050",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}

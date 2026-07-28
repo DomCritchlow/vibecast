@@ -1,12 +1,5 @@
 {
   "url_timestamps": {
-    "https://alltechmagazine.com/what-is/current-state-of-ai-research-and-development/": "2026-04-29T06:26:11.727874",
-    "https://www.nasa.gov/1989-ames-earth-science-publications/": "2026-04-29T06:26:11.727874",
-    "https://www.nasa.gov/1997-ames-earth-science-publications/": "2026-04-29T06:26:11.727874",
-    "https://www.nature.com/articles/s41586-026-10559-8": "2026-04-29T06:26:11.727874",
-    "https://www.nature.com/articles/d41586-026-01349-3": "2026-04-29T06:26:11.727874",
-    "https://openai.com/index/openai-on-aws": "2026-04-29T06:26:11.727874",
-    "https://openai.com/index/our-commitment-to-community-safety": "2026-04-29T06:26:11.727874",
     "https://news.ycombinator.com/item?id=47958635": "2026-04-30T06:29:56.439798",
     "https://www.nature.com/articles/s41586-026-10463-1": "2026-04-30T06:29:56.439798",
     "https://www.nature.com/articles/s41586-026-10445-3": "2026-04-30T06:29:56.439798",
@@ -584,9 +577,16 @@
     "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything": "2026-07-27T10:54:29.735981",
     "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything": "2026-07-27T10:54:29.735981",
     "https://huggingface.co/blog/grabette": "2026-07-27T10:54:29.735981",
-    "https://www.atlasobscura.com/places/fuel-tank-orca-mural": "2026-07-27T10:54:29.735981"
+    "https://www.atlasobscura.com/places/fuel-tank-orca-mural": "2026-07-27T10:54:29.735981",
+    "https://science.nasa.gov/mission/rogue-planets/": "2026-07-28T10:03:24.735050",
+    "https://www.nature.com/articles/d41586-026-02315-9": "2026-07-28T10:03:24.735050",
+    "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research": "2026-07-28T10:03:24.735050",
+    "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything": "2026-07-28T10:03:24.735050",
+    "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-68-new-opportunity-d-8-habitable-worlds-observatory-precursor-science-investigations/": "2026-07-28T10:03:24.735050",
+    "https://www.nature.com/articles/d41586-026-02346-2": "2026-07-28T10:03:24.735050",
+    "https://www.atlasobscura.com/places/nostalgia-box": "2026-07-28T10:03:24.735050"
   },
-  "last_run": "2026-07-27T10:54:29.735981",
+  "last_run": "2026-07-28T10:03:24.735050",
   "special_dates": [
     "2026-07-10",
     "2026-07-17",
