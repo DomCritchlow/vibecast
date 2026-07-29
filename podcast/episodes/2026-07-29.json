@@ -1,0 +1,68 @@
+{
+  "guid": "2026-07-29",
+  "date": "2026-07-29T10:04:43.635397",
+  "title": "Claude Cracks Crypto & NASA Preps for Spacewalks",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 364.63157894736844,
+  "duration_formatted": "6:04",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-29.mp3",
+    "audio_size_bytes": 7743409,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-29/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-29/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-07-29.txt"
+  },
+  "stories": [
+    {
+      "title": "Papers with open peer-review reports are less likely to be retracted",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02282-1",
+      "summary": "Nature, Published online: 29 July 2026; doi:10.1038/d41586-026-02282-1Researchers say that transparent publishing practices could be associated with research quality, but more evidence is needed."
+    },
+    {
+      "title": "Discovering cryptographic weaknesses with Claude",
+      "source": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything",
+      "summary": "Discovering cryptographic weaknesses with Claude The best part of this article (here's the repo) about how Anthropic researchers used Claude Mythos to find mathematical flaws in both HAWK and a weaker version of AES (\"neither of these results has a practical impact on today’s computer systems\") is the prompts that they shared, spelling mistakes included: the models tend to think it is impossible to solve so they don't try they need a good amount of prompting. why not do aes-128 r7? the whole point is to find something better than existing approaches. no again the goal is that we have highly inteligent model as good top researcher, we want to find new attacks no we don't want to change the targets [...] agian we need to find something that worth publishing again we are not looking for low hanging fruit, we want proper research to find genuinly hard findings. Mythos Preview worked for 60 hours in total (~$100,000 in estimated API cost) and the main human interventions were to encourag..."
+    },
+    {
+      "title": "ESA opens call to repurpose Gateway communications module",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/esa-opens-call-to-repurpose-gateway-communications-module/",
+      "summary": "JOHANNESBURG — The European Space Agency is moving ahead with plans to examine the feasibility of repurposing Lunar Link, a communications system developed for NASA’s now-paused Gateway space station, as […] The post ESA opens call to repurpose Gateway communications module appeared first on SpaceNews."
+    },
+    {
+      "title": "MTA plans to fix Brooklyn's worst subway bottlenecks, IDs 70 congested spots in system",
+      "source": "Gothamist (NYC)",
+      "url": "https://gothamist.com/news/mta-plans-to-fix-brooklyns-worst-subway-bottlenecks-ids-70-congested-spots-in-system",
+      "summary": "The model board at the DeKalb Avenue station coordinating train traffic on the B, D, N, Q and R lines in Brooklyn. For decades, subway service has been strained by train congestion and track intersections. The MTA has for the first time published a systemwide plan to fix those pain points. [ more › ]"
+    },
+    {
+      "title": "Commander Jessica Meir and Crew Check Spacesuits, Prep for Spacewalks",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/07/28/commander-jessica-meir-and-crew-check-spacesuits-prep-for-spacewalks/",
+      "summary": "The seven-member Expedition 75 crew worked throughout Tuesday on spacesuit checks, eye exams, and exercise research aboard the International Space Station. Earth imagery and lab inventory duties rounded out the day for the orbital residents. The post Commander Jessica Meir and Crew Check Spacesuits, Prep for Spacewalks appeared first on NASA Science."
+    },
+    {
+      "title": "Polio will come roaring back if the task of eradicating it isn’t finished soon",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02308-8",
+      "summary": "Nature, Published online: 29 July 2026; doi:10.1038/d41586-026-02308-8Eliminating polio is within reach — if countries see it as an essential public-health priority."
+    },
+    {
+      "title": "Future of giant monkey research facility uncertain, even as sanctuary plan dropped",
+      "source": "Science.org News",
+      "url": "https://www.science.org/content/article/future-giant-monkey-research-facility-uncertain-even-sanctuary-plan-dropped",
+      "summary": "The Oregon National Primate Research Center could change its name and shift its focus to nonanimal studies"
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-07-29T10:04:43.635397",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}

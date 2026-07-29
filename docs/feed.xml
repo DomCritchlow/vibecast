@@ -8,7 +8,7 @@
     <link>https://critchlow.us/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2026 10:06:24 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 10:08:11 -0000</lastBuildDate>
     <atom:link href="https://critchlow.us/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://critchlow.us/vibecast/</link>
     </image>
     <itunes:image href="https://critchlow.us/vibecast/artwork.png"/>
+    <item>
+      <title>Claude Cracks Crypto &amp; NASA Preps for Spacewalks</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Papers with open peer-review reports are less likely to be retracted
+   Source: Nature News
+2. Discovering cryptographic weaknesses with Claude
+   Source: Simon Willison
+3. ESA opens call to repurpose Gateway communications module
+   Source: SpaceNews
+4. MTA plans to fix Brooklyn's worst subway bottlenecks, IDs 70 congested spots in system
+   Source: Gothamist (NYC)
+5. Commander Jessica Meir and Crew Check Spacesuits, Prep for Spacewalks
+   Source: NASA Science
+6. Polio will come roaring back if the task of eradicating it isn’t finished soon
+   Source: Nature News
+7. Future of giant monkey research facility uncertain, even as sanctuary plan dropped
+   Source: Science.org News
+
+REFERENCES:
+
+1. Papers with open peer-review reports are less likely to be retracted
+   https://www.nature.com/articles/d41586-026-02282-1
+
+2. Discovering cryptographic weaknesses with Claude
+   https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything
+
+3. ESA opens call to repurpose Gateway communications module
+   https://spacenews.com/esa-opens-call-to-repurpose-gateway-communications-module/
+
+4. MTA plans to fix Brooklyn's worst subway bottlenecks, IDs 70 congested spots in system
+   https://gothamist.com/news/mta-plans-to-fix-brooklyns-worst-subway-bottlenecks-ids-70-congested-spots-in-system
+
+5. Commander Jessica Meir and Crew Check Spacesuits, Prep for Spacewalks
+   https://www.nasa.gov/blogs/spacestation/2026/07/28/commander-jessica-meir-and-crew-check-spacesuits-prep-for-spacewalks/
+
+6. Polio will come roaring back if the task of eradicating it isn’t finished soon
+   https://www.nature.com/articles/d41586-026-02308-8
+
+7. Future of giant monkey research facility uncertain, even as sanctuary plan dropped
+   https://www.science.org/content/article/future-giant-monkey-research-facility-uncertain-even-sanctuary-plan-dropped
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-29/newspaper.pdf]]></description>
+      <pubDate>Wed, 29 Jul 2026 10:04:43 -0000</pubDate>
+      <guid isPermaLink="false">2026-07-29</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-29.mp3" length="7743409" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Papers with open peer-review reports are less likely to be retracted
+   Source: Nature News
+2. Discovering cryptographic weaknesses with Claude
+   Source: Simon Willison
+3. ESA opens call to repurpose Gateway communications module
+   Source: SpaceNews
+4. MTA plans to fix Brooklyn's worst subway bottlenecks, IDs 70 congested spots in system
+   Source: Gothamist (NYC)
+5. Commander Jessica Meir and Crew Check Spacesuits, Prep for Spacewalks
+   Source: NASA Science
+6. Polio will come roaring back if the task of eradicating it isn’t finished soon
+   Source: Nature News
+7. Future of giant monkey research facility uncertain, even as sanctuary plan dropped
+   Source: Science.org News
+
+REFERENCES:
+
+1. Papers with open peer-review reports are less likely to be retracted
+   https://www.nature.com/articles/d41586-026-02282-1
+
+2. Discovering cryptographic weaknesses with Claude
+   https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything
+
+3. ESA opens call to repurpose Gateway communications module
+   https://spacenews.com/esa-opens-call-to-repurpose-gateway-communications-module/
+
+4. MTA plans to fix Brooklyn's worst subway bottlenecks, IDs 70 congested spots in system
+   https://gothamist.com/news/mta-plans-to-fix-brooklyns-worst-subway-bottlenecks-ids-70-congested-spots-in-system
+
+5. Commander Jessica Meir and Crew Check Spacesuits, Prep for Spacewalks
+   https://www.nasa.gov/blogs/spacestation/2026/07/28/commander-jessica-meir-and-crew-check-spacesuits-prep-for-spacewalks/
+
+6. Polio will come roaring back if the task of eradicating it isn’t finished soon
+   https://www.nature.com/articles/d41586-026-02308-8
+
+7. Future of giant monkey research facility uncertain, even as sanctuary plan dropped
+   https://www.science.org/content/article/future-giant-monkey-research-facility-uncertain-even-sanctuary-plan-dropped
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-29/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>6:04</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-29/episode-art.png"/>
+    </item>
     <item>
       <title>Rogue Planets &amp; AI Medical Liability</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:53</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-27/episode-art.png"/>
-    </item>
-    <item>
-      <title>US Ocean Funding Crisis &amp; AI Unlocks Brain Secrets</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. US funding uncertainties threaten to sink key global oceanography projects
-   Source: Nature News
-2. How long-term dietary cholesterol can slow down its own clearance by liver cells
-   Source: Nature News
-3. How agents are transforming work
-   Source: OpenAI News
-4. Understanding the brain with AI-driven explanations and experiments
-   Source: Microsoft Research Blog
-5. Microsoft adds another year to Windows 10 extended update program
-   Source: Ars Technica
-6. Android 17&#8217;s new foldable gaming mode could make flippy phones more fun
-   Source: The Verge
-7. Instagram wants to monopolize your attention
-   Source: The Verge
-
-REFERENCES:
-
-1. US funding uncertainties threaten to sink key global oceanography projects
-   https://www.nature.com/articles/d41586-026-02028-z
-
-2. How long-term dietary cholesterol can slow down its own clearance by liver cells
-   https://www.nature.com/articles/d41586-026-01899-6
-
-3. How agents are transforming work
-   https://openai.com/index/how-agents-are-transforming-work
-
-4. Understanding the brain with AI-driven explanations and experiments
-   https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/
-
-5. Microsoft adds another year to Windows 10 extended update program
-   https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/
-
-6. Android 17&#8217;s new foldable gaming mode could make flippy phones more fun
-   https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller
-
-7. Instagram wants to monopolize your attention
-   https://www.theverge.com/tech/956456/instagram-for-tv-youtube-microdramas-longform-video
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-26/newspaper.pdf]]></description>
-      <pubDate>Fri, 26 Jun 2026 07:55:42 -0000</pubDate>
-      <guid isPermaLink="false">2026-06-26</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-26.mp3" length="6686388" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. US funding uncertainties threaten to sink key global oceanography projects
-   Source: Nature News
-2. How long-term dietary cholesterol can slow down its own clearance by liver cells
-   Source: Nature News
-3. How agents are transforming work
-   Source: OpenAI News
-4. Understanding the brain with AI-driven explanations and experiments
-   Source: Microsoft Research Blog
-5. Microsoft adds another year to Windows 10 extended update program
-   Source: Ars Technica
-6. Android 17&#8217;s new foldable gaming mode could make flippy phones more fun
-   Source: The Verge
-7. Instagram wants to monopolize your attention
-   Source: The Verge
-
-REFERENCES:
-
-1. US funding uncertainties threaten to sink key global oceanography projects
-   https://www.nature.com/articles/d41586-026-02028-z
-
-2. How long-term dietary cholesterol can slow down its own clearance by liver cells
-   https://www.nature.com/articles/d41586-026-01899-6
-
-3. How agents are transforming work
-   https://openai.com/index/how-agents-are-transforming-work
-
-4. Understanding the brain with AI-driven explanations and experiments
-   https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/
-
-5. Microsoft adds another year to Windows 10 extended update program
-   https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/
-
-6. Android 17&#8217;s new foldable gaming mode could make flippy phones more fun
-   https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller
-
-7. Instagram wants to monopolize your attention
-   https://www.theverge.com/tech/956456/instagram-for-tv-youtube-microdramas-longform-video
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-26/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:45</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-26/episode-art.png"/>
     </item>
   </channel>
 </rss>
