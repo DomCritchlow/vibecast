@@ -1,12 +1,5 @@
 {
   "url_timestamps": {
-    "https://www.microsoft.com/en-us/research/blog/red-teaming-a-network-of-agents-understanding-what-breaks-when-ai-agents-interact-at-scale/": "2026-05-01T06:39:25.988659",
-    "https://www.nature.com/articles/d41586-026-01306-0": "2026-05-01T06:39:25.988659",
-    "https://www.nature.com/articles/d41586-026-01421-y": "2026-05-01T06:39:25.988659",
-    "https://deepmind.google/blog/ai-co-clinician/": "2026-05-01T06:39:25.988659",
-    "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/": "2026-05-01T06:39:25.988659",
-    "https://www.technologyreview.com/2026/04/30/1136713/the-download-north-pole-future-humanoid-data/": "2026-05-01T06:39:25.988659",
-    "https://arstechnica.com/science/2026/04/researchers-try-to-cut-the-genetic-code-from-20-to-19-amino-acids/": "2026-05-01T06:39:25.988659",
     "https://www.nasa.gov/people/sungchan-jeong/": "2026-05-02T06:08:59.677736",
     "https://www.nature.com/articles/d41586-026-01411-0": "2026-05-02T06:08:59.677736",
     "https://www.nature.com/articles/d41586-026-01435-6": "2026-05-02T06:08:59.677736",
@@ -584,9 +577,16 @@
     "https://gothamist.com/news/mta-plans-to-fix-brooklyns-worst-subway-bottlenecks-ids-70-congested-spots-in-system": "2026-07-29T10:04:43.635397",
     "https://www.nasa.gov/blogs/spacestation/2026/07/28/commander-jessica-meir-and-crew-check-spacesuits-prep-for-spacewalks/": "2026-07-29T10:04:43.635397",
     "https://www.nature.com/articles/d41586-026-02308-8": "2026-07-29T10:04:43.635397",
-    "https://www.science.org/content/article/future-giant-monkey-research-facility-uncertain-even-sanctuary-plan-dropped": "2026-07-29T10:04:43.635397"
+    "https://www.science.org/content/article/future-giant-monkey-research-facility-uncertain-even-sanctuary-plan-dropped": "2026-07-29T10:04:43.635397",
+    "https://www.nature.com/articles/s41586-026-10852-6": "2026-07-30T09:57:06.861197",
+    "https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything": "2026-07-30T09:57:06.861197",
+    "https://openai.com/index/chatgpt-for-academic-researchers": "2026-07-30T09:57:06.861197",
+    "https://science.nasa.gov/mission/roman-space-telescope/wfi-systems/": "2026-07-30T09:57:06.861197",
+    "https://science.nasa.gov/mission/roman-space-telescope/ground-systems/": "2026-07-30T09:57:06.861197",
+    "https://www.nature.com/articles/d41586-026-01843-8": "2026-07-30T09:57:06.861197",
+    "https://nautil.us/even-owning-a-cell-phone-is-bad-for-kids-test-scores-1283172/": "2026-07-30T09:57:06.861197"
   },
-  "last_run": "2026-07-29T10:04:43.635397",
+  "last_run": "2026-07-30T09:57:06.861197",
   "special_dates": [
     "2026-07-10",
     "2026-07-17",

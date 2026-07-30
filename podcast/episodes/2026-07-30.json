@@ -1,0 +1,68 @@
+{
+  "guid": "2026-07-30",
+  "date": "2026-07-30T09:57:06.861197",
+  "title": "Bacterial Phage Sensing & AI-Powered Research",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 369.2631578947368,
+  "duration_formatted": "6:09",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-30.mp3",
+    "audio_size_bytes": 7614259,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-30/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-30/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-07-30.txt"
+  },
+  "stories": [
+    {
+      "title": "Diverse bacterial pattern recognition receptors sense the core phage proteome",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10852-6",
+      "summary": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10852-6Systematic analysis of prokaryotic STAND NTPases — relatives of animal and plant immune receptors — uncovers diverse antiviral sensors that detect most of the core structural and replicative proteins of bacteriophages."
+    },
+    {
+      "title": "Quoting Matthew Green",
+      "source": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything",
+      "summary": "Right now we’re in the midst of a historic transition from traditional public-key algorithms based on EC-based cryptography and RSA, moving over to new post-quantum algorithms based on novel problems. This is why there are so many standards like HAWK being considered. If there was ever a perfect time for a massive new public cryptanalysis capability to come on line, we’re in it. So unless AIs succeed in undermining all of our hard problems altogether (or we live in Impagliazzo’s Minicrypt) then this could not be a better time for AI to get good at cryptanalysis. In the best case, the result is that we gain real confidence in the problems we’ve identified, and the cryptanalysis literature gets a lot more robust. Hopefully. — Matthew Green, on Anthropic's recent cryptography work Tags: anthropic, claude, generative-ai, cryptography, ai, llms, ai-security-research, claude-mythos-fable"
+    },
+    {
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery."
+    },
+    {
+      "title": "WFI Systems",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/mission/roman-space-telescope/wfi-systems/",
+      "summary": "Roman’s WFI is fully assembled and undergoing tests to ensure it will withstand the harsh conditions of launch and in space. Using this instrument, each Roman image will capture a patch of the sky bigger than the apparent size of a full Moon. Hubble’s infrared images, taken with its Wide Field Camera 3, are about 200 times […] The post WFI Systems appeared first on NASA Science."
+    },
+    {
+      "title": "Ground Systems",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/mission/roman-space-telescope/ground-systems/",
+      "summary": "Antennas The antennas will relay information between the observatory and ground stations on Earth. The ground stations will send commands via S band (2 GHz) radio signals at speeds up to 32 kilobits per second. They will also receive science data at Ka band (26 GHz) at speeds up to 500 megabits per second, and […] The post Ground Systems appeared first on NASA Science."
+    },
+    {
+      "title": "Job insecurity is chipping away at me and my cohort. Is it us, or the state of the economy?",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01843-8",
+      "summary": "Nature, Published online: 30 July 2026; doi:10.1038/d41586-026-01843-8The career market is difficult to navigate — and academic achievements feel like they’re no longer enough, says Daniella Watson."
+    },
+    {
+      "title": "Even Owning a Cell Phone Is Bad for Kids’ Test Scores",
+      "source": "Nautilus",
+      "url": "https://nautil.us/even-owning-a-cell-phone-is-bad-for-kids-test-scores-1283172/",
+      "summary": "New research hints that school cell phone bans may not be enough The post Even Owning a Cell Phone Is Bad for Kids’ Test Scores appeared first on Nautilus."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-07-30T09:57:06.861197",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}
