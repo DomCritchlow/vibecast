@@ -8,7 +8,7 @@
     <link>https://critchlow.us/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jul 2026 10:08:05 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 09:33:19 -0000</lastBuildDate>
     <atom:link href="https://critchlow.us/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://critchlow.us/vibecast/</link>
     </image>
     <itunes:image href="https://critchlow.us/vibecast/artwork.png"/>
+    <item>
+      <title>Orcas Smash Sunfish &amp; AI Attacks Real Companies</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Briefing Chat: Orcas smashed a sunfish to bits — researchers aren’t sure why
+   Source: Nature News
+2. Meat allergy is on the rise — what scientists want to know
+   Source: Nature News
+3. Claude published malicious code to the Internet and attacked 3 real companies
+   Source: Ars Technica
+4. NASA’s Newest Wind Tunnel Opens at NASA Langley
+   Source: NASA Science
+5. TB 26-04 Webbings for Use in Elevated Oxygen Environments
+   Source: NASA Science
+6. NASA’s Newest Wind Tunnel Opens at NASA Langley
+   Source: NASA News
+7. Running the MTA is a tough job. Janno Lieber is just the 4th person to last 5 years.
+   Source: Gothamist (NYC)
+
+REFERENCES:
+
+1. Briefing Chat: Orcas smashed a sunfish to bits — researchers aren’t sure why
+   https://www.nature.com/articles/d41586-026-02419-2
+
+2. Meat allergy is on the rise — what scientists want to know
+   https://www.nature.com/articles/d41586-026-02362-2
+
+3. Claude published malicious code to the Internet and attacked 3 real companies
+   https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/
+
+4. NASA’s Newest Wind Tunnel Opens at NASA Langley
+   https://www.nasa.gov/image-article/nasas-newest-wind-tunnel-opens-at-nasa-langley/
+
+5. TB 26-04 Webbings for Use in Elevated Oxygen Environments
+   https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/
+
+6. NASA’s Newest Wind Tunnel Opens at NASA Langley
+   https://www.nasa.gov/image-article/nasas-newest-wind-tunnel-opens-at-nasa-langley/
+
+7. Running the MTA is a tough job. Janno Lieber is just the 4th person to last 5 years.
+   https://gothamist.com/news/running-the-mta-is-a-tough-job-janno-lieber-is-just-the-4th-person-to-last-5-years
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-01/newspaper.pdf]]></description>
+      <pubDate>Sat, 01 Aug 2026 09:30:40 -0000</pubDate>
+      <guid isPermaLink="false">2026-08-01</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-01.mp3" length="7592316" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Briefing Chat: Orcas smashed a sunfish to bits — researchers aren’t sure why
+   Source: Nature News
+2. Meat allergy is on the rise — what scientists want to know
+   Source: Nature News
+3. Claude published malicious code to the Internet and attacked 3 real companies
+   Source: Ars Technica
+4. NASA’s Newest Wind Tunnel Opens at NASA Langley
+   Source: NASA Science
+5. TB 26-04 Webbings for Use in Elevated Oxygen Environments
+   Source: NASA Science
+6. NASA’s Newest Wind Tunnel Opens at NASA Langley
+   Source: NASA News
+7. Running the MTA is a tough job. Janno Lieber is just the 4th person to last 5 years.
+   Source: Gothamist (NYC)
+
+REFERENCES:
+
+1. Briefing Chat: Orcas smashed a sunfish to bits — researchers aren’t sure why
+   https://www.nature.com/articles/d41586-026-02419-2
+
+2. Meat allergy is on the rise — what scientists want to know
+   https://www.nature.com/articles/d41586-026-02362-2
+
+3. Claude published malicious code to the Internet and attacked 3 real companies
+   https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/
+
+4. NASA’s Newest Wind Tunnel Opens at NASA Langley
+   https://www.nasa.gov/image-article/nasas-newest-wind-tunnel-opens-at-nasa-langley/
+
+5. TB 26-04 Webbings for Use in Elevated Oxygen Environments
+   https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/
+
+6. NASA’s Newest Wind Tunnel Opens at NASA Langley
+   https://www.nasa.gov/image-article/nasas-newest-wind-tunnel-opens-at-nasa-langley/
+
+7. Running the MTA is a tough job. Janno Lieber is just the 4th person to last 5 years.
+   https://gothamist.com/news/running-the-mta-is-a-tough-job-janno-lieber-is-just-the-4th-person-to-last-5-years
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-01/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>6:09</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-01/episode-art.png"/>
+    </item>
     <item>
       <title>Sustainable Lithium Mining &amp; NASA Airborne Research</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4:29</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-01/episode-art.png"/>
-    </item>
-    <item>
-      <title>Memora Memory Tech &amp; Menopause Insights &amp; Email Agent</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity
-   Source: Microsoft Research Blog
-2. What’s the human cost of US research turmoil? A new film finds out
-   Source: Nature News
-3. Daily briefing: Ovaries start a second job after menopause
-   Source: Nature News
-4. Yeasound RIC800 Hearing Aids Review: Good Audio, Glitchy App
-   Source: Wired
-5. Show HN: I built an agent that uses email as a file system
-   Source: Hacker News (AI filtered)
-6. Scientific American’s Inaugural ‘Young American Scientists’ Recognition
-   Source: NASA Science
-7. More Research and Technology News
-   Source: NASA Science
-
-REFERENCES:
-
-1. Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity
-   https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/
-
-2. What’s the human cost of US research turmoil? A new film finds out
-   https://www.nature.com/articles/d41586-026-01979-7
-
-3. Daily briefing: Ovaries start a second job after menopause
-   https://www.nature.com/articles/d41586-026-02065-8
-
-4. Yeasound RIC800 Hearing Aids Review: Good Audio, Glitchy App
-   https://www.wired.com/review/yeasound-ric800-hearing-aids/
-
-5. Show HN: I built an agent that uses email as a file system
-   https://www.supafax.com/
-
-6. Scientific American’s Inaugural ‘Young American Scientists’ Recognition
-   https://science.nasa.gov/blogs/honors/2026/06/29/scientific-americans-inaugural-young-american-scientists-recognition/
-
-7. More Research and Technology News
-   https://www.nasa.gov/more-rtmd-news/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-30/newspaper.pdf]]></description>
-      <pubDate>Tue, 30 Jun 2026 07:55:19 -0000</pubDate>
-      <guid isPermaLink="false">2026-06-30</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-30.mp3" length="6823060" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity
-   Source: Microsoft Research Blog
-2. What’s the human cost of US research turmoil? A new film finds out
-   Source: Nature News
-3. Daily briefing: Ovaries start a second job after menopause
-   Source: Nature News
-4. Yeasound RIC800 Hearing Aids Review: Good Audio, Glitchy App
-   Source: Wired
-5. Show HN: I built an agent that uses email as a file system
-   Source: Hacker News (AI filtered)
-6. Scientific American’s Inaugural ‘Young American Scientists’ Recognition
-   Source: NASA Science
-7. More Research and Technology News
-   Source: NASA Science
-
-REFERENCES:
-
-1. Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity
-   https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/
-
-2. What’s the human cost of US research turmoil? A new film finds out
-   https://www.nature.com/articles/d41586-026-01979-7
-
-3. Daily briefing: Ovaries start a second job after menopause
-   https://www.nature.com/articles/d41586-026-02065-8
-
-4. Yeasound RIC800 Hearing Aids Review: Good Audio, Glitchy App
-   https://www.wired.com/review/yeasound-ric800-hearing-aids/
-
-5. Show HN: I built an agent that uses email as a file system
-   https://www.supafax.com/
-
-6. Scientific American’s Inaugural ‘Young American Scientists’ Recognition
-   https://science.nasa.gov/blogs/honors/2026/06/29/scientific-americans-inaugural-young-american-scientists-recognition/
-
-7. More Research and Technology News
-   https://www.nasa.gov/more-rtmd-news/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-30/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:44</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-06-30/episode-art.png"/>
     </item>
   </channel>
 </rss>

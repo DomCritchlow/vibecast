@@ -1,12 +1,5 @@
 {
   "url_timestamps": {
-    "https://arstechnica.com/science/2026/05/research-roundup-6-cool-science-stories-we-almost-missed-4/": "2026-05-03T06:28:30.787735",
-    "https://www.nasa.gov/podcasts/curious-universe/bonus-behind-the-scenes-of-artemis-ii-with-nasa-experts/": "2026-05-03T06:28:30.787735",
-    "https://www.nature.com/articles/s41586-026-10601-9": "2026-05-03T06:28:30.787735",
-    "https://www.nature.com/articles/d41586-026-01439-2": "2026-05-03T06:28:30.787735",
-    "https://www.positive.news/society/londons-unique-charity-led-restaurant-gets-a-makeover/": "2026-05-03T06:28:30.787735",
-    "https://openai.com/index/advanced-account-security": "2026-05-03T06:28:30.787735",
-    "https://openai.com/index/where-the-goblins-came-from": "2026-05-03T06:28:30.787735",
     "https://www.space.com/space-exploration/human-spaceflight/spaceflight-is-hard-on-the-heart-yet-artificial-ones-grow-better-in-space-than-on-earth": "2026-05-04T06:40:43.841532",
     "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-cas500-2-mission-45-satellites": "2026-05-04T06:40:43.841532",
     "https://www.nature.com/articles/d41586-026-01075-w": "2026-05-04T06:40:43.841532",
@@ -583,9 +576,15 @@
     "https://www.nasa.gov/ffrdc/": "2026-07-31T10:03:19.291936",
     "https://science.nasa.gov/earth/students-take-on-airborne-field-research-with-nasa/": "2026-07-31T10:03:19.291936",
     "https://www.nasa.gov/image-article/starburst-galaxy-centaurus-a/": "2026-07-31T10:03:19.291936",
-    "https://nautil.us/the-odyssey-of-the-stone-age-maltese-1283223/": "2026-07-31T10:03:19.291936"
+    "https://nautil.us/the-odyssey-of-the-stone-age-maltese-1283223/": "2026-07-31T10:03:19.291936",
+    "https://www.nature.com/articles/d41586-026-02419-2": "2026-08-01T09:30:40.843698",
+    "https://www.nature.com/articles/d41586-026-02362-2": "2026-08-01T09:30:40.843698",
+    "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/": "2026-08-01T09:30:40.843698",
+    "https://www.nasa.gov/image-article/nasas-newest-wind-tunnel-opens-at-nasa-langley/": "2026-08-01T09:30:40.843698",
+    "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/": "2026-08-01T09:30:40.843698",
+    "https://gothamist.com/news/running-the-mta-is-a-tough-job-janno-lieber-is-just-the-4th-person-to-last-5-years": "2026-08-01T09:30:40.843698"
   },
-  "last_run": "2026-07-31T10:03:19.291936",
+  "last_run": "2026-08-01T09:30:40.843698",
   "special_dates": [
     "2026-07-10",
     "2026-07-17",
