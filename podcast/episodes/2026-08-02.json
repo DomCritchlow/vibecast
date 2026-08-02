@@ -1,0 +1,68 @@
+{
+  "guid": "2026-08-02",
+  "date": "2026-08-02T09:29:36.623559",
+  "title": "LLMs in Science & NASA Starship Wind Tunnel Tests",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 368.42105263157896,
+  "duration_formatted": "6:08",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-02.mp3",
+    "audio_size_bytes": 7757201,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-02/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-02/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-08-02.txt"
+  },
+  "stories": [
+    {
+      "title": "Scientists using LLMs will ‘do more, less well’, modelling study predicts",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02397-5",
+      "summary": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02397-5Research suggests that the combination of incentives to publish and the use of large language models will lead to more papers, but they will be less refined."
+    },
+    {
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "source": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything",
+      "summary": "Ten advances in mathematics and theoretical computer science A few days ago it was Anthropic discovering cryptographic weaknesses with Claude using Mythos Preview, spending $100,000 on tokens and with prompts that included \"again we are not looking for low hanging fruit, we want proper research to find genuinly hard findings.\" Now it's OpenAI's turn to flex. They set \"an internal version of Astra, our next major model\" on finding solutions to ten mathematical problems that \"have seen no progress on the main result for at least a decade\". They claim to have spent less than $2,000 at GPT-5.6 Sol token prices on each one. (No news on how many problems they spent $2,000 on without reaching a solution though.) The openai/ten-proofs repository has Lean 4 formalizations of their results, and there's also a paper describing the solutions and an additional LLM-generated PDF where the model \"reconstructs how the proof came together\" based on the unpublished reasoning traces. That's a decent l..."
+    },
+    {
+      "title": "NASA, SpaceX Advance Wind Tunnel Tests for Starship Rocket",
+      "source": "NASA News",
+      "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-advance-wind-tunnel-tests-for-starship-rocket/",
+      "summary": "NASA and its industry partners are preparing for next year’s Artemis III demonstration mission by completing new wind tunnel tests on SpaceX’s Super Heavy Version 3 rocket booster. The tests, conducted at NASA’s Ames Research Center in California’s Silicon Valley, focused on better understanding the extreme aerodynamic forces the rocket can experience during re-entry. The […]"
+    },
+    {
+      "title": "NASA Opens New Flight Dynamics Research Facility in Virginia",
+      "source": "NASA News",
+      "url": "https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/",
+      "summary": "NASA opened its newest wind tunnel, the Flight Dynamics Research Facility, Friday, providing a critical resource for the agency and its partners to test the safety and performance of future generations of aircraft, rockets, and space exploration vehicles. Located at NASA’s Langley Research Center in Hampton, Virginia, the Flight Dynamics Research Facility will support advances […]"
+    },
+    {
+      "title": "Author Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10921-w",
+      "summary": "Nature, Published online: 31 July 2026; doi:10.1038/s41586-026-10921-wAuthor Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores"
+    },
+    {
+      "title": "New U.S. rules on risky pathogen research draw mixed reviews",
+      "source": "Science.org News",
+      "url": "https://www.science.org/content/article/new-u-s-rules-risky-pathogen-research-draw-mixed-reviews",
+      "summary": "Vague language and extensive reviews could impede potentially useful research, some scientists fear"
+    },
+    {
+      "title": "'Just a pure weird moment': Art project takes over Manhattan subway kiosk",
+      "source": "Gothamist (NYC)",
+      "url": "https://gothamist.com/news/just-a-pure-weird-moment-art-project-takes-over-manhattan-subway-kiosk",
+      "summary": "The takeover is part of the MTA’s Vacant Unit Activation Program, which allows artists to install projects in unused spaces throughout the subway system, like newspaper kiosks. Instead of newspapers or gum, the former newsstand is stocked with free zines, guides to several subway stations and a limited supply of rat tail keychains. [ more › ]"
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-08-02T09:29:36.623559",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}

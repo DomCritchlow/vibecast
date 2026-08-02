@@ -1,12 +1,5 @@
 {
   "url_timestamps": {
-    "https://www.space.com/space-exploration/human-spaceflight/spaceflight-is-hard-on-the-heart-yet-artificial-ones-grow-better-in-space-than-on-earth": "2026-05-04T06:40:43.841532",
-    "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-cas500-2-mission-45-satellites": "2026-05-04T06:40:43.841532",
-    "https://www.nature.com/articles/d41586-026-01075-w": "2026-05-04T06:40:43.841532",
-    "https://www.nature.com/articles/d41586-026-01252-x": "2026-05-04T06:40:43.841532",
-    "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age": "2026-05-04T06:40:43.841532",
-    "https://openai.com/index/openai-available-at-fedramp-moderate": "2026-05-04T06:40:43.841532",
-    "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/": "2026-05-04T06:40:43.841532",
     "https://www.nature.com/articles/d41586-026-01394-y": "2026-05-05T06:19:05.014996",
     "https://importai.substack.com/p/import-ai-455-automating-ai-research": "2026-05-05T06:19:05.014996",
     "https://sha.africauncensored.online/": "2026-05-05T06:19:05.014996",
@@ -582,9 +575,16 @@
     "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/": "2026-08-01T09:30:40.843698",
     "https://www.nasa.gov/image-article/nasas-newest-wind-tunnel-opens-at-nasa-langley/": "2026-08-01T09:30:40.843698",
     "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/": "2026-08-01T09:30:40.843698",
-    "https://gothamist.com/news/running-the-mta-is-a-tough-job-janno-lieber-is-just-the-4th-person-to-last-5-years": "2026-08-01T09:30:40.843698"
+    "https://gothamist.com/news/running-the-mta-is-a-tough-job-janno-lieber-is-just-the-4th-person-to-last-5-years": "2026-08-01T09:30:40.843698",
+    "https://www.nature.com/articles/d41586-026-02397-5": "2026-08-02T09:29:36.623559",
+    "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything": "2026-08-02T09:29:36.623559",
+    "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-advance-wind-tunnel-tests-for-starship-rocket/": "2026-08-02T09:29:36.623559",
+    "https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/": "2026-08-02T09:29:36.623559",
+    "https://www.nature.com/articles/s41586-026-10921-w": "2026-08-02T09:29:36.623559",
+    "https://www.science.org/content/article/new-u-s-rules-risky-pathogen-research-draw-mixed-reviews": "2026-08-02T09:29:36.623559",
+    "https://gothamist.com/news/just-a-pure-weird-moment-art-project-takes-over-manhattan-subway-kiosk": "2026-08-02T09:29:36.623559"
   },
-  "last_run": "2026-08-01T09:30:40.843698",
+  "last_run": "2026-08-02T09:29:36.623559",
   "special_dates": [
     "2026-07-10",
     "2026-07-17",
