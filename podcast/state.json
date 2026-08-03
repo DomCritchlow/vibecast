@@ -1,12 +1,5 @@
 {
   "url_timestamps": {
-    "https://www.nature.com/articles/d41586-026-01394-y": "2026-05-05T06:19:05.014996",
-    "https://importai.substack.com/p/import-ai-455-automating-ai-research": "2026-05-05T06:19:05.014996",
-    "https://sha.africauncensored.online/": "2026-05-05T06:19:05.014996",
-    "https://www.nasa.gov/technology/nasa-fosters-development-of-lunar-resource-seeking-technologies/": "2026-05-05T06:19:05.014996",
-    "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/upcoming-sig-and-sag-activities/": "2026-05-05T06:19:05.014996",
-    "https://www.nature.com/articles/d41586-026-01410-1": "2026-05-05T06:19:05.014996",
-    "https://www.positive.news/lifestyle/woodland-walks-cut-anxiety-study-finds/": "2026-05-05T06:19:05.014996",
     "https://www.microsoft.com/en-us/research/blog/microsoft-at-nsdi-2026-advances-in-large-scale-networked-systems/": "2026-05-06T06:31:41.281272",
     "https://www.nature.com/articles/d41586-026-01440-9": "2026-05-06T06:31:41.281272",
     "https://openai.com/index/gpt-5-5-instant-system-card": "2026-05-06T06:31:41.281272",
@@ -582,9 +575,16 @@
     "https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/": "2026-08-02T09:29:36.623559",
     "https://www.nature.com/articles/s41586-026-10921-w": "2026-08-02T09:29:36.623559",
     "https://www.science.org/content/article/new-u-s-rules-risky-pathogen-research-draw-mixed-reviews": "2026-08-02T09:29:36.623559",
-    "https://gothamist.com/news/just-a-pure-weird-moment-art-project-takes-over-manhattan-subway-kiosk": "2026-08-02T09:29:36.623559"
+    "https://gothamist.com/news/just-a-pure-weird-moment-art-project-takes-over-manhattan-subway-kiosk": "2026-08-02T09:29:36.623559",
+    "https://www.nature.com/articles/s41586-026-10943-4": "2026-08-03T10:53:42.332571",
+    "https://www.nature.com/articles/d41586-026-02339-1": "2026-08-03T10:53:42.332571",
+    "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/": "2026-08-03T10:53:42.332571",
+    "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/": "2026-08-03T10:53:42.332571",
+    "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/": "2026-08-03T10:53:42.332571",
+    "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything": "2026-08-03T10:53:42.332571",
+    "https://nautil.us/youre-carrying-ghost-dna-from-extinct-hominins-1283291/": "2026-08-03T10:53:42.332571"
   },
-  "last_run": "2026-08-02T09:29:36.623559",
+  "last_run": "2026-08-03T10:53:42.332571",
   "special_dates": [
     "2026-07-10",
     "2026-07-17",
