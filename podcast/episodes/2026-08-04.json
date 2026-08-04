@@ -1,0 +1,68 @@
+{
+  "guid": "2026-08-04",
+  "date": "2026-08-04T10:06:04.699790",
+  "title": "Voice AI Systems & NASA Crew-13 Space Launch",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 373.89473684210526,
+  "duration_formatted": "6:13",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-04.mp3",
+    "audio_size_bytes": 7952178,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-04/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-04/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-08-04.txt"
+  },
+  "stories": [
+    {
+      "title": "Put health systems at the centre of European heatwave plans",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02426-3",
+      "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02426-3Put health systems at the centre of European heatwave plans"
+    },
+    {
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations."
+    },
+    {
+      "title": "Launch Systems",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/kennedy/partnerships/launchsystems-2/",
+      "summary": "Kennedy Space Center (KSC), with an ideal location and an extensive launch legacy, is ready to support a full array of launch vehicle systems, including orbital and suborbital. KSC is recognized as the nation’s premier multi-user spaceport, thanks to the ‘one stop shopping’ features available to launch providers, including physical assets, technical labs, and support […] The post Launch Systems appeared first on NASA Science."
+    },
+    {
+      "title": "Spacewalk Preps, Health Research on Station as NASA Introduces SpaceX Crew-13",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/08/03/spacewalk-preps-health-research-on-station-as-nasa-introduces-spacex-crew-13/",
+      "summary": "Spacewalk preparations and health research awaited the Expedition 75 crew aboard the International Space Station at the beginning of August. The next crew to visit the orbital outpost, SpaceX Crew-13, introduced themselves today during a news conference from Johnson Space Center in Houston, Texas. The post Spacewalk Preps, Health Research on Station as NASA Introduces SpaceX Crew-13 appeared first on NASA Science."
+    },
+    {
+      "title": "NASA Delivers Navigation System for Commercial Lunar Relay",
+      "source": "NASA News",
+      "url": "https://www.nasa.gov/technology/space-comms/nasa-delivers-navigation-system-for-commercial-lunar-relay/",
+      "summary": "NASA delivered the NavCube3-mini payload on July 13 to Intuitive Machines for integration into Altus-1, the company’s first lunar relay satellite, marking an important milestone in the development of future lunar communications and navigation services. The lunar relays are designed to enable communications and navigation for astronauts and rovers operating at the agency’s future Moon Base. About half the size of a shoebox and weighing just 3.5 pounds, NavCube3-mini is a compact but powerful navigation […]"
+    },
+    {
+      "title": "NASA Brings Space Exploration to the FIFA World Cup",
+      "source": "NASA News",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-brings-space-exploration-to-the-fifa-world-cup/",
+      "summary": "From June 11 through July 19, NASA’s free interactive exhibit at FIFA Fan Festival™ brought space exploration to soccer fans in East Downtown Houston. More than 500,000 visitors explored the exhibit during the tournament, learning how the agency’s missions, research, and technology benefit life on Earth. The exhibit introduced a global audience to the Artemis program, Moon Base, the International Space Station, […]"
+    },
+    {
+      "title": "Perrystead Dairy Cheese Vending Machine in Philadelphia, Pennsylvania",
+      "source": "Atlas Obscura",
+      "url": "https://www.atlasobscura.com/places/perrystead-dairy-cheese-vending-machine",
+      "summary": "In the East Kensington neighborhood of Philadelphia, the Perrystead Dairy Vending Machine looks like something fairies dropped in the middle of a magic garden—and to the cheese enthusiasts of the area it might as well have been. It’s surrounded by expertly cultivated native flora, bisected by a curving stone path. If it weren’t for the sound of the El train roaring by in the distance, you might think you were somehow transported far from the city limits. Perrystead is a local cheese shop unlike any other. With a small team of four, they make over 500 pounds of cheese a week. They keep their repertoire small, less than ten different cheeses, some of them seasonal, developed over time and inspired by a blend of old European techniques and American innovation. They have reached international acclaim and are world title holders; the winners of many a cheese competition. The vending machine itself is a refrigerated behemoth that holds not only the shop’s signature cheeses, but also any a..."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-08-04T10:06:04.699790",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}
