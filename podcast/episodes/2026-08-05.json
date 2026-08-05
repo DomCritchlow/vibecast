@@ -1,0 +1,68 @@
+{
+  "guid": "2026-08-05",
+  "date": "2026-08-05T10:04:05.802875",
+  "title": "Rubicon Thruster Goes Live & ChatGPT Transforms Learning",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 370.10526315789474,
+  "duration_formatted": "6:10",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-05.mp3",
+    "audio_size_bytes": 7532130,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-05/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-05/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-08-05.txt"
+  },
+  "stories": [
+    {
+      "title": "Update to A.1 Earth Science Research Overview: Earth Science proposals that include NASA high-end computing resources must include costs",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/researchers/solicitations/roses-2025/update-to-a-1-earth-science-research-overview-earth-science-proposals-that-include-nasa-high-end-computing-resources-must-include-costs/",
+      "summary": "As noted in Section 7.3 of ROSES-25 A.1 Earth Science Research Overview, “High-end computing, networking, and storage are critical enabling capabilities for Earth system science…and maintains appropriate high-end computing, networking, and storage for use by the SMD funded investigators. Computing resources are provided through various ROSES program elements. Over the past several years, computational resources […] The post Update to A.1 Earth Science Research Overview: Earth Science proposals that include NASA high-end computing resources must include costs appeared first on NASA Science."
+    },
+    {
+      "title": "Rubicon ASCENT thruster moves from hot-fire testing to production",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/rubicon-ascent-thruster-moves-from-hot-fire-testing-to-production/",
+      "summary": "SAN FRANCISCO – Rubicon Space Systems completed hot-fire testing of its Velox 5-newton ASCENT monopropellant thruster, paving the way for on-orbit operations in 2027. “The program demonstrated performance beyond our […] The post Rubicon ASCENT thruster moves from hot-fire testing to production appeared first on SpaceNews."
+    },
+    {
+      "title": "A New Device Eases One of the Most Annoying Parts of Routine Physicals",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/iris-nodoca-ai-throat-exam-routine-physical/",
+      "summary": "Nobody likes getting a swab shoved up their nose. A startup in Japan has developed a much less intrusive system."
+    },
+    {
+      "title": "New ways to learn and teach with ChatGPT Work and Codex",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build."
+    },
+    {
+      "title": "Coronagraph Systems",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/mission/roman-space-telescope/coronagraph-systems/",
+      "summary": "Masks and Optics Coronagraph masks block most of the glare from stars to reveal faint orbiting planets and dusty debris disks. The mirrors and lenses are finely polished to minimize additional glare or image distortions. Color filters will select which wavelengths of light to observe. Wollaston prisms will help measure the polarization of the light […] The post Coronagraph Systems appeared first on NASA Science."
+    },
+    {
+      "title": "NASA’s PUNCH Sharpens Solar Storm Forecasting in First Test",
+      "source": "NASA News",
+      "url": "https://science.nasa.gov/science-research/heliophysics/nasas-punch-sharpens-solar-storm-forecasting-in-first-test/",
+      "summary": "Using continuous imagery from NASA’s PUNCH (Polarimeter to Unify the Corona and Heliosphere) mission, scientists predicted the near-Earth arrival of a solar eruption to within 30 minutes in an initial proof of concept test. The results, presented Tuesday at the Committee on Space Research Scientific Meeting and under review at the journal Space Weather, could […]"
+    },
+    {
+      "title": "Hoka Continues Domination: 2026 Western States 100 Shoes Analysis",
+      "source": "iRunFar",
+      "url": "https://www.irunfar.com/2026-western-states-100-shoes-analysis",
+      "summary": "The post Hoka Continues Domination: 2026 Western States 100 Shoes Analysis appeared first on iRunFar. TRAILRUNNINGReview and iRunFar have collaborated to analyze the shoes worn by runners at the 2026 Western States 100. Hoka Continues Domination: 2026 Western States 100 Shoes Analysis by Guest Writer."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-08-05T10:04:05.802875",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}
