@@ -1,0 +1,68 @@
+{
+  "guid": "2026-08-06",
+  "date": "2026-08-06T10:05:52.837156",
+  "title": "IXPE Proves 90-Year Theory & Plastic-to-Commodity Chemistry",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 357.4736842105263,
+  "duration_formatted": "5:57",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-06.mp3",
+    "audio_size_bytes": 7810491,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-06/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-06/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-08-06.txt"
+  },
+  "stories": [
+    {
+      "title": "Junk plastic turns into high-value commodity with chemistry trick",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02445-0",
+      "summary": "Nature, Published online: 05 August 2026; doi:10.1038/d41586-026-02445-0Researchers untangle the chemistry behind turning PVC into high-grade motor lubricant — plus, how engineered yeast can help make a cancer drug."
+    },
+    {
+      "title": "In situ particle-to-fibre transformation of hydrogels for 3D printing",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10883-z",
+      "summary": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10883-zA three-dimensional printing method transforms hydrogel particles into aligned microfibres during extrusion, creating structural anisotropy to accelerate muscle tissue regeneration."
+    },
+    {
+      "title": "NASA’s IXPE May Have Proven 90-Year-Old Theory",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/missions/ixpe/nasas-ixpe-may-have-proven-90-year-old-theory/",
+      "summary": "A first of its kind measurement of a magnetar may have captured empty space behaving in a way physicists have predicted for 90 years, but never directly observed. The results published Wednesday in Nature. Fast facts Scientists using NASA’s IXPE (Imaging X-ray Polarimetry Explorer) conducted more than 140 hours of observations of the magnetar 1E […] The post NASA’s IXPE May Have Proven 90-Year-Old Theory appeared first on NASA Science."
+    },
+    {
+      "title": "NASA Astronauts Ready for Thursday Spacewalk",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/08/05/nasa-astronauts-ready-for-thursday-spacewalk/",
+      "summary": "NASA astronauts Jessica Meir and Anil Menon have been given the go by mission managers for Thursday’s spacewalk to prepare the International Space Station for future upgrades to its power system. The spacewalkers will spend about seven hours in the vacuum of space building a modification kit on the station’s Starboard 6 truss segment where a roll out solar array is slated to be installed later this year. The post NASA Astronauts Ready for Thursday Spacewalk appeared first on NASA Science."
+    },
+    {
+      "title": "NASA’s IXPE May Have Proven 90-Year-Old Theory",
+      "source": "NASA News",
+      "url": "https://science.nasa.gov/missions/ixpe/nasas-ixpe-may-have-proven-90-year-old-theory/",
+      "summary": "A first of its kind measurement of a magnetar may have captured empty space behaving in a way physicists have predicted for 90 years, but never directly observed. The results published Wednesday in Nature. Fast facts Scientists using NASA’s IXPE (Imaging X-ray Polarimetry Explorer) conducted more than 140 hours of observations of the magnetar 1E […]"
+    },
+    {
+      "title": "Advanced Mini-laboratories Automate Space Station Research",
+      "source": "NASA News",
+      "url": "https://www.nasa.gov/image-article/advanced-mini-laboratories-automate-space-station-research/",
+      "summary": "The International Space Station hosts hundreds of science experiments at a time. Some experiments can take hours to perform, and researchers need to account for astronauts’ limited time. Fully automated devices, like Redwire’s ADvanced Space Experiment Processors (ADSEPs), have been designed to conduct more space science with less crew time. Within each ADSEP facility there […]"
+    },
+    {
+      "title": "Hidden Figures Monument in Dunbar, West Virginia",
+      "source": "Atlas Obscura",
+      "url": "https://www.atlasobscura.com/places/hidden-figures-monument-of-katherine-johnson-at-wvsu",
+      "summary": "The Katherine Johnson Statue at West Virginia State University (WVSU) honors the legendary NASA mathematician whose brilliant calculations launched America into orbit. Unveiled on August 25, 2018—the eve of her 100th birthday—this life-sized bronze monument stands proudly at her alma mater to ensure her contributions to the Space Race are \"no longer hidden\". Katherine Johnson was one of the critical human \"computers\" at the National Advisory Committee for Aeronautics (NACA), which later became NASA. She is globally celebrated for several monumental milestones Long before Hollywood spotlighted her in the Oscar-nominated film Hidden Figures, Katherine Johnson was a math prodigy growing up in segregated West Virginia. Because local schools barred African American students past the eighth grade, her family moved 100 miles to Institute, WV so she could attend the high school on WVSU's campus at age 10. She graduated high school at 15, entered the college at 14, and graduated summa cum la..."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-08-06T10:05:52.837156",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}
