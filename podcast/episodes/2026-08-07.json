@@ -1,0 +1,68 @@
+{
+  "guid": "2026-08-07",
+  "date": "2026-08-07T08:33:38.563387",
+  "title": "Levitating Brain Sensors & Corals' Oxygen Vortices",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 303.516735,
+  "duration_formatted": "5:03",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-07.mp3",
+    "audio_size_bytes": 7285072,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-07/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-07/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-08-07.txt"
+  },
+  "stories": [
+    {
+      "title": "Levitating sensor for magnetic fields could detect ultrafaint brain activity",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02458-9",
+      "summary": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02458-9The device’s simple design could rival much more complex alternatives in biophysics research — and could even be used to search for dark matter."
+    },
+    {
+      "title": "XR SIG Seminar, 7 August 2026",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/xr-sig-seminar-7-august-2026/",
+      "summary": "A TDAMM Mission Concept Offered by the X-ray Timing Science Analysis Group: the Dynamic Extreme Universe in X-rays (DEUS-X) Machine The post XR SIG Seminar, 7 August 2026 appeared first on NASA Science."
+    },
+    {
+      "title": "I Am Artemis: Tom Percy",
+      "source": "NASA News",
+      "url": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-tom-percy/",
+      "summary": "As NASA sets its sights on long-term exploration of the Moon and Mars, the agency is increasing the cadence of its Artemis missions. Helping bring these plans to fruition is Tom Percy, manager of systems engineering and integration for NASA’s Human Landing System Program. Percy serves as a focal point in working with providers SpaceX […]"
+    },
+    {
+      "title": "Taking Flight to Prepare for Space",
+      "source": "NASA News",
+      "url": "https://www.nasa.gov/image-article/taking-flight-to-prepare-for-space/",
+      "summary": "NASA astronaut Adam Fuhrmann (right, in yellow) prepares for a training flight aboard NASA’s WB-57 aircraft in this July 16, 2026, photo. These high-altitude flights train the crew to work in a tight environment and operate aircraft systems while in a pressure suit, preparing them for future missions to the International Space Station, Moon, or […]"
+    },
+    {
+      "title": "Corals Spin Tiny Vortices to Get Oxygen, but Not if It’s Too Hot",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/corals-spin-tiny-vortices-to-get-oxygen-but-not-if-its-too-hot-20260805/",
+      "summary": "New research is helping biologists understand how an overlooked aspect of coral physiology may affect their fate under climate change. The post Corals Spin Tiny Vortices to Get Oxygen, but Not if It’s Too Hot first appeared on Quanta Magazine"
+    },
+    {
+      "title": "Operational Tropical Cyclone Forecasting with AI",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10953-2",
+      "summary": "Nature, Published online: 06 August 2026; doi:10.1038/s41586-026-10953-2Operational Tropical Cyclone Forecasting with AI"
+    },
+    {
+      "title": "Life Originated Twice on Earth",
+      "source": "Nautilus",
+      "url": "https://nautil.us/life-originated-twice-on-earth-1283481/",
+      "summary": "New research traces the origins of our metabolism back in time The post Life Originated Twice on Earth appeared first on Nautilus."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-08-07T08:33:38.563387",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "fal",
+    "tts_voice": "SAz9YHcvj6GT2YYXdXww",
+    "special_episode": true
+  }
+}
