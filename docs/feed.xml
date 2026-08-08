@@ -8,7 +8,7 @@
     <link>https://critchlow.us/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 08:38:30 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 08:08:00 -0000</lastBuildDate>
     <atom:link href="https://critchlow.us/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://critchlow.us/vibecast/</link>
     </image>
     <itunes:image href="https://critchlow.us/vibecast/artwork.png"/>
+    <item>
+      <title>DNA Repair &amp; Longevity Secrets &amp; Universal Vaccine Hope</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. 2026 IGARSS Hyperwall Schedule
+   Source: NASA Science
+2. KSC Analysis Laboratories
+   Source: NASA Science
+3. 2026 IGARSS Hyperwall Schedule
+   Source: NASA News
+4. Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints
+   Source: Nature News
+5. Universal vaccine for pneumococcal disease moves closer to reality
+   Source: Nature News
+6. Orchard: An open framework for scalable agentic AI
+   Source: Microsoft Research Blog
+7. Sir Thomas Lipton Tea House in Kyoto, Japan
+   Source: Atlas Obscura
+
+REFERENCES:
+
+1. 2026 IGARSS Hyperwall Schedule
+   https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/
+
+2. KSC Analysis Laboratories
+   https://www.nasa.gov/kennedy/partnerships/kscanalysislaboratories/
+
+3. 2026 IGARSS Hyperwall Schedule
+   https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/
+
+4. Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints
+   https://www.nature.com/articles/d41586-026-02488-3
+
+5. Universal vaccine for pneumococcal disease moves closer to reality
+   https://www.nature.com/articles/d41586-026-02462-z
+
+6. Orchard: An open framework for scalable agentic AI
+   https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/
+
+7. Sir Thomas Lipton Tea House in Kyoto, Japan
+   https://www.atlasobscura.com/places/sir-thomas-lipton-sanjo-main-shop
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-08/newspaper.pdf]]></description>
+      <pubDate>Sat, 08 Aug 2026 08:05:15 -0000</pubDate>
+      <guid isPermaLink="false">2026-08-08</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-08.mp3" length="7906412" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. 2026 IGARSS Hyperwall Schedule
+   Source: NASA Science
+2. KSC Analysis Laboratories
+   Source: NASA Science
+3. 2026 IGARSS Hyperwall Schedule
+   Source: NASA News
+4. Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints
+   Source: Nature News
+5. Universal vaccine for pneumococcal disease moves closer to reality
+   Source: Nature News
+6. Orchard: An open framework for scalable agentic AI
+   Source: Microsoft Research Blog
+7. Sir Thomas Lipton Tea House in Kyoto, Japan
+   Source: Atlas Obscura
+
+REFERENCES:
+
+1. 2026 IGARSS Hyperwall Schedule
+   https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/
+
+2. KSC Analysis Laboratories
+   https://www.nasa.gov/kennedy/partnerships/kscanalysislaboratories/
+
+3. 2026 IGARSS Hyperwall Schedule
+   https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/
+
+4. Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints
+   https://www.nature.com/articles/d41586-026-02488-3
+
+5. Universal vaccine for pneumococcal disease moves closer to reality
+   https://www.nature.com/articles/d41586-026-02462-z
+
+6. Orchard: An open framework for scalable agentic AI
+   https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/
+
+7. Sir Thomas Lipton Tea House in Kyoto, Japan
+   https://www.atlasobscura.com/places/sir-thomas-lipton-sanjo-main-shop
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-08/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>6:05</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-08/episode-art.png"/>
+    </item>
     <item>
       <title>Levitating Brain Sensors &amp; Corals&#x27; Oxygen Vortices</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>6:00</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-09/episode-art.png"/>
-    </item>
-    <item>
-      <title>AI Text Cloaking &amp; Ocean-Watching Satellites</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. ‘Humanizer’ tool can erase signs of AI-written text — alarming scientists
-   Source: Nature News
-2. Keeping PACE with Ocean Change
-   Source: NASA Science
-3. The Loving Embrace of the Milky Way
-   Source: Nautilus
-4. NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge
-   Source: NASA Science
-5. NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge
-   Source: NASA News
-6. Publisher Correction: A 98-qubit trapped-ion quantum computer with all-to-all connectivity
-   Source: Nature News
-7. The foundational elements of AI architecture that IT leaders need to scale
-   Source: MIT Technology Review
-
-REFERENCES:
-
-1. ‘Humanizer’ tool can erase signs of AI-written text — alarming scientists
-   https://www.nature.com/articles/d41586-026-02105-3
-
-2. Keeping PACE with Ocean Change
-   https://science.nasa.gov/blogs/notes-from-the-field/2026/07/07/keeping-pace-with-ocean-change/
-
-3. The Loving Embrace of the Milky Way
-   https://nautil.us/the-loving-embrace-of-the-milky-way-1282550/
-
-4. NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge
-   https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/
-
-5. NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge
-   https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/
-
-6. Publisher Correction: A 98-qubit trapped-ion quantum computer with all-to-all connectivity
-   https://www.nature.com/articles/s41586-026-10882-0
-
-7. The foundational elements of AI architecture that IT leaders need to scale
-   https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-08/newspaper.pdf]]></description>
-      <pubDate>Wed, 08 Jul 2026 09:44:13 -0000</pubDate>
-      <guid isPermaLink="false">2026-07-08</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-08.mp3" length="7800460" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. ‘Humanizer’ tool can erase signs of AI-written text — alarming scientists
-   Source: Nature News
-2. Keeping PACE with Ocean Change
-   Source: NASA Science
-3. The Loving Embrace of the Milky Way
-   Source: Nautilus
-4. NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge
-   Source: NASA Science
-5. NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge
-   Source: NASA News
-6. Publisher Correction: A 98-qubit trapped-ion quantum computer with all-to-all connectivity
-   Source: Nature News
-7. The foundational elements of AI architecture that IT leaders need to scale
-   Source: MIT Technology Review
-
-REFERENCES:
-
-1. ‘Humanizer’ tool can erase signs of AI-written text — alarming scientists
-   https://www.nature.com/articles/d41586-026-02105-3
-
-2. Keeping PACE with Ocean Change
-   https://science.nasa.gov/blogs/notes-from-the-field/2026/07/07/keeping-pace-with-ocean-change/
-
-3. The Loving Embrace of the Milky Way
-   https://nautil.us/the-loving-embrace-of-the-milky-way-1282550/
-
-4. NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge
-   https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/
-
-5. NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge
-   https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/
-
-6. Publisher Correction: A 98-qubit trapped-ion quantum computer with all-to-all connectivity
-   https://www.nature.com/articles/s41586-026-10882-0
-
-7. The foundational elements of AI architecture that IT leaders need to scale
-   https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-08/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>6:18</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-08/episode-art.png"/>
     </item>
   </channel>
 </rss>
