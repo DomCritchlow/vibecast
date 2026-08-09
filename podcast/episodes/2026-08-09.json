@@ -1,0 +1,68 @@
+{
+  "guid": "2026-08-09",
+  "date": "2026-08-09T08:06:09.955372",
+  "title": "Pumas Guard Drivers & Senate Blocks Research Rule",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 353.6842105263158,
+  "duration_formatted": "5:53",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-09.mp3",
+    "audio_size_bytes": 7073211,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-09/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-09/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-08-09.txt"
+  },
+  "stories": [
+    {
+      "title": "KSC Testing",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/kennedy/partnerships/ksctesting/",
+      "summary": "Testing Laboratories KSC Testing Laboratories All NASA Galleries Biomedical Engineering Research Laboratory (BERL)Learn about the history of Glenn Research Center.Read MoreCorrosion Engineering Laboratory (CEL)Learn about the history of Glenn Research Center.Read MoreCryogenics Testing Laboratory (CTL)Learn about the history of Glenn Research Center.Read MoreElectromagnetics Laboratory (EML)Learn about those of the NASA corps who make “space sailing” […] The post KSC Testing appeared first on NASA Science."
+    },
+    {
+      "title": "Pumas are drivers’ guardian angels",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02429-0",
+      "summary": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02429-0Vehicles are less likely to smash into deer on the road where the big cats are on patrol."
+    },
+    {
+      "title": "How a steady drip-drip can erode the hardest stone",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02360-4",
+      "summary": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02360-4Measuring the deformation of a surface hit by a falling droplet offers insights into water’s erosive power."
+    },
+    {
+      "title": "Senate votes to block rule giving White House more control over research",
+      "source": "Science.org News",
+      "url": "https://www.science.org/content/article/senate-votes-block-rule-giving-white-house-more-control-over-research",
+      "summary": "Language is part of bill to fund government until mid-December"
+    },
+    {
+      "title": "datasette 1.0a38",
+      "source": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Aug/6/datasette/#atom-everything",
+      "summary": "Release: datasette 1.0a38 This release fixes a SQL injection security issue that affects Datasette instances that serve a mixture of public and private tables in the same database, with access configured using the Datasette permissions system. Site administrators who serve private tables in this way are advised to disable the execute-sql permission ` on that database to prevent users from accessing private tables using raw SQL queries. The bug that has been fixed would have allowed users with access to any public table to execute SQL injection attacks despite that restriction, giving them read-only access to data in private tables in the same database. This fix is also available in Datasette 0.65.3. Thankfully this particular configuration - private tables and public tables exposed for the same database within the same instance - is likely to be rare. I've not encountered an instance like that myself. Tags: security, sql-injection, datasette"
+    },
+    {
+      "title": "An AI model from Meta also hacked another company during testing",
+      "source": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything",
+      "summary": "An AI model from Meta also hacked another company during testing Stop me if you've heard this one before: An AI model from the parent company of Facebook and Instagram hacked into another company’s systems during cybersecurity testing, a spokesperson confirmed on Wednesday. Meta says the breach occurred because of an inadvertent error during testing of the model, similar to previously disclosed incidents with OpenAI and Anthropic. “A misconfiguration by Irregular, an independent testing company Meta uses, inadvertently allowed one of our models access to the internet during evaluation,” the Meta spokesperson said. Meta’s Muse Spark model “exploited a security vulnerability” in another company “in a manner similar to previously-reported instances with other companies.” The Information had the scoop, I'm linking to CNN's re-report of it since they don't have a paywall. So that's Anthropic, OpenAI, and Meta. Google Gemini really needs to catch up on accidentally cyberattacking other co..."
+    },
+    {
+      "title": "New Observatory Captures More Than Half a Million Galaxies in a Single Image",
+      "source": "Nautilus",
+      "url": "https://nautil.us/new-observatory-captures-more-than-half-a-million-galaxies-in-a-single-image-1283526/",
+      "summary": "The Vera C. Rubin Observatory is off to a fantastic start The post New Observatory Captures More Than Half a Million Galaxies in a Single Image appeared first on Nautilus."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-08-09T08:06:09.955372",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}

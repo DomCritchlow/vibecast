@@ -8,7 +8,7 @@
     <link>https://critchlow.us/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Aug 2026 08:08:00 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 08:09:05 -0000</lastBuildDate>
     <atom:link href="https://critchlow.us/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://critchlow.us/vibecast/</link>
     </image>
     <itunes:image href="https://critchlow.us/vibecast/artwork.png"/>
+    <item>
+      <title>Pumas Guard Drivers &amp; Senate Blocks Research Rule</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. KSC Testing
+   Source: NASA Science
+2. Pumas are drivers’ guardian angels
+   Source: Nature News
+3. How a steady drip-drip can erode the hardest stone
+   Source: Nature News
+4. Senate votes to block rule giving White House more control over research
+   Source: Science.org News
+5. datasette 1.0a38
+   Source: Simon Willison
+6. An AI model from Meta also hacked another company during testing
+   Source: Simon Willison
+7. New Observatory Captures More Than Half a Million Galaxies in a Single Image
+   Source: Nautilus
+
+REFERENCES:
+
+1. KSC Testing
+   https://www.nasa.gov/kennedy/partnerships/ksctesting/
+
+2. Pumas are drivers’ guardian angels
+   https://www.nature.com/articles/d41586-026-02429-0
+
+3. How a steady drip-drip can erode the hardest stone
+   https://www.nature.com/articles/d41586-026-02360-4
+
+4. Senate votes to block rule giving White House more control over research
+   https://www.science.org/content/article/senate-votes-block-rule-giving-white-house-more-control-over-research
+
+5. datasette 1.0a38
+   https://simonwillison.net/2026/Aug/6/datasette/#atom-everything
+
+6. An AI model from Meta also hacked another company during testing
+   https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything
+
+7. New Observatory Captures More Than Half a Million Galaxies in a Single Image
+   https://nautil.us/new-observatory-captures-more-than-half-a-million-galaxies-in-a-single-image-1283526/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-09/newspaper.pdf]]></description>
+      <pubDate>Sun, 09 Aug 2026 08:06:09 -0000</pubDate>
+      <guid isPermaLink="false">2026-08-09</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-09.mp3" length="7073211" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. KSC Testing
+   Source: NASA Science
+2. Pumas are drivers’ guardian angels
+   Source: Nature News
+3. How a steady drip-drip can erode the hardest stone
+   Source: Nature News
+4. Senate votes to block rule giving White House more control over research
+   Source: Science.org News
+5. datasette 1.0a38
+   Source: Simon Willison
+6. An AI model from Meta also hacked another company during testing
+   Source: Simon Willison
+7. New Observatory Captures More Than Half a Million Galaxies in a Single Image
+   Source: Nautilus
+
+REFERENCES:
+
+1. KSC Testing
+   https://www.nasa.gov/kennedy/partnerships/ksctesting/
+
+2. Pumas are drivers’ guardian angels
+   https://www.nature.com/articles/d41586-026-02429-0
+
+3. How a steady drip-drip can erode the hardest stone
+   https://www.nature.com/articles/d41586-026-02360-4
+
+4. Senate votes to block rule giving White House more control over research
+   https://www.science.org/content/article/senate-votes-block-rule-giving-white-house-more-control-over-research
+
+5. datasette 1.0a38
+   https://simonwillison.net/2026/Aug/6/datasette/#atom-everything
+
+6. An AI model from Meta also hacked another company during testing
+   https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything
+
+7. New Observatory Captures More Than Half a Million Galaxies in a Single Image
+   https://nautil.us/new-observatory-captures-more-than-half-a-million-galaxies-in-a-single-image-1283526/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-09/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>5:53</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-09/episode-art.png"/>
+    </item>
     <item>
       <title>DNA Repair &amp; Longevity Secrets &amp; Universal Vaccine Hope</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>5:09</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-10/episode-art.png"/>
-    </item>
-    <item>
-      <title>Surgical Humanoids &amp; Starlink Dog Tracking</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. In vivo feasibility study of humanoid robots in surgery
-   Source: Nature News
-2. Fi expands Starlink direct-to-device capability into dog-tracking
-   Source: SpaceNews
-3. Separating signal from noise in coding evaluations
-   Source: OpenAI News
-4. Small Steps, Giant Leaps Podcast Episode 177: Transformative Aeronautics
-   Source: NASA Science
-5. Observation of Floquet rotational super-radiance
-   Source: Nature News
-6. Flint: A visualization language for the AI era
-   Source: Microsoft Research Blog
-7. When Galaxies Clash
-   Source: Nautilus
-
-REFERENCES:
-
-1. In vivo feasibility study of humanoid robots in surgery
-   https://www.nature.com/articles/s41586-026-10796-x
-
-2. Fi expands Starlink direct-to-device capability into dog-tracking
-   https://spacenews.com/fi-expands-starlink-direct-to-device-capability-into-dog-tracking/
-
-3. Separating signal from noise in coding evaluations
-   https://openai.com/index/separating-signal-from-noise-coding-evaluations
-
-4. Small Steps, Giant Leaps Podcast Episode 177: Transformative Aeronautics
-   https://www.nasa.gov/podcasts/small-steps-giant-leaps/small-steps-giant-leaps-podcast-episode-177-transformative-aeronautics/
-
-5. Observation of Floquet rotational super-radiance
-   https://www.nature.com/articles/s41586-026-10725-y
-
-6. Flint: A visualization language for the AI era
-   https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/
-
-7. When Galaxies Clash
-   https://nautil.us/when-galaxies-clash-1282574/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-09/newspaper.pdf]]></description>
-      <pubDate>Thu, 09 Jul 2026 10:36:47 -0000</pubDate>
-      <guid isPermaLink="false">2026-07-09</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-09.mp3" length="7357214" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. In vivo feasibility study of humanoid robots in surgery
-   Source: Nature News
-2. Fi expands Starlink direct-to-device capability into dog-tracking
-   Source: SpaceNews
-3. Separating signal from noise in coding evaluations
-   Source: OpenAI News
-4. Small Steps, Giant Leaps Podcast Episode 177: Transformative Aeronautics
-   Source: NASA Science
-5. Observation of Floquet rotational super-radiance
-   Source: Nature News
-6. Flint: A visualization language for the AI era
-   Source: Microsoft Research Blog
-7. When Galaxies Clash
-   Source: Nautilus
-
-REFERENCES:
-
-1. In vivo feasibility study of humanoid robots in surgery
-   https://www.nature.com/articles/s41586-026-10796-x
-
-2. Fi expands Starlink direct-to-device capability into dog-tracking
-   https://spacenews.com/fi-expands-starlink-direct-to-device-capability-into-dog-tracking/
-
-3. Separating signal from noise in coding evaluations
-   https://openai.com/index/separating-signal-from-noise-coding-evaluations
-
-4. Small Steps, Giant Leaps Podcast Episode 177: Transformative Aeronautics
-   https://www.nasa.gov/podcasts/small-steps-giant-leaps/small-steps-giant-leaps-podcast-episode-177-transformative-aeronautics/
-
-5. Observation of Floquet rotational super-radiance
-   https://www.nature.com/articles/s41586-026-10725-y
-
-6. Flint: A visualization language for the AI era
-   https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/
-
-7. When Galaxies Clash
-   https://nautil.us/when-galaxies-clash-1282574/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-09/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>6:00</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-09/episode-art.png"/>
     </item>
   </channel>
 </rss>
