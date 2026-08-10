@@ -1,12 +1,5 @@
 {
   "url_timestamps": {
-    "https://www.nature.com/articles/d41586-026-01522-8": "2026-05-12T06:39:47.533531",
-    "https://www.nature.com/articles/d41586-026-01481-0": "2026-05-12T06:39:47.533531",
-    "https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/": "2026-05-12T06:39:47.533531",
-    "https://arstechnica.com/gadgets/2026/05/starlink-blocks-access-to-its-gps-alternative-ahead-of-spacex-ipo/": "2026-05-12T06:39:47.533531",
-    "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai": "2026-05-12T06:39:47.533531",
-    "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped": "2026-05-12T06:39:47.533531",
-    "https://www.nasa.gov/centers-and-facilities/johnson/nicholas-houghton-engineering-crew-safety-for-artemis-ii/": "2026-05-12T06:39:47.533531",
     "https://openai.com/index/nvidia": "2026-05-14T06:52:49.741523",
     "https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/": "2026-05-14T06:52:49.741523",
     "https://www.nature.com/articles/d41586-026-01424-9": "2026-05-14T06:52:49.741523",
@@ -587,9 +580,16 @@
     "https://www.science.org/content/article/senate-votes-block-rule-giving-white-house-more-control-over-research": "2026-08-09T08:06:09.955372",
     "https://simonwillison.net/2026/Aug/6/datasette/#atom-everything": "2026-08-09T08:06:09.955372",
     "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything": "2026-08-09T08:06:09.955372",
-    "https://nautil.us/new-observatory-captures-more-than-half-a-million-galaxies-in-a-single-image-1283526/": "2026-08-09T08:06:09.955372"
+    "https://nautil.us/new-observatory-captures-more-than-half-a-million-galaxies-in-a-single-image-1283526/": "2026-08-09T08:06:09.955372",
+    "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything": "2026-08-10T08:55:22.635688",
+    "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything": "2026-08-10T08:55:22.635688",
+    "https://www.nature.com/articles/d41586-026-02235-8": "2026-08-10T08:55:22.635688",
+    "https://www.nature.com/articles/d41586-026-02460-1": "2026-08-10T08:55:22.635688",
+    "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/": "2026-08-10T08:55:22.635688",
+    "https://spacenews.com/katalyst-space-makes-progress-in-restoring-control-of-swift-servicing-spacecraft/": "2026-08-10T08:55:22.635688",
+    "https://nautil.us/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-1283501/": "2026-08-10T08:55:22.635688"
   },
-  "last_run": "2026-08-09T08:06:09.955372",
+  "last_run": "2026-08-10T08:55:22.635688",
   "special_dates": [
     "2026-07-10",
     "2026-07-17",

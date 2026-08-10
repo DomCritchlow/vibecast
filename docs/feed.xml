@@ -8,7 +8,7 @@
     <link>https://critchlow.us/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Aug 2026 08:09:05 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 08:58:34 -0000</lastBuildDate>
     <atom:link href="https://critchlow.us/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://critchlow.us/vibecast/</link>
     </image>
     <itunes:image href="https://critchlow.us/vibecast/artwork.png"/>
+    <item>
+      <title>AI Spots Science Errors &amp; DeepMind&#x27;s Hurricane Leap</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Quoting Claude Opus 5 system prompt
+   Source: Simon Willison
+2. SQLite compressed text-history prototypes
+   Source: Simon Willison
+3. AI agents are checking the scientific literature — and spotting decades-old errors
+   Source: Nature News
+4. Scientists up in arms about cuts to UK physics and astronomy
+   Source: Nature News
+5. DeepMind’s hurricane breakthrough has surprised weather scientists
+   Source: Ars Technica
+6. Katalyst Space makes progress in restoring control of Swift servicing spacecraft
+   Source: SpaceNews
+7. Taxi Drivers Rarely Die of Alzheimer’s—How Complex Mental Maps and Spatial Reasoning Protect Your Brain
+   Source: Nautilus
+
+REFERENCES:
+
+1. Quoting Claude Opus 5 system prompt
+   https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything
+
+2. SQLite compressed text-history prototypes
+   https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything
+
+3. AI agents are checking the scientific literature — and spotting decades-old errors
+   https://www.nature.com/articles/d41586-026-02235-8
+
+4. Scientists up in arms about cuts to UK physics and astronomy
+   https://www.nature.com/articles/d41586-026-02460-1
+
+5. DeepMind’s hurricane breakthrough has surprised weather scientists
+   https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/
+
+6. Katalyst Space makes progress in restoring control of Swift servicing spacecraft
+   https://spacenews.com/katalyst-space-makes-progress-in-restoring-control-of-swift-servicing-spacecraft/
+
+7. Taxi Drivers Rarely Die of Alzheimer’s—How Complex Mental Maps and Spatial Reasoning Protect Your Brain
+   https://nautil.us/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-1283501/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-10/newspaper.pdf]]></description>
+      <pubDate>Mon, 10 Aug 2026 08:55:22 -0000</pubDate>
+      <guid isPermaLink="false">2026-08-10</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-10.mp3" length="7613632" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Quoting Claude Opus 5 system prompt
+   Source: Simon Willison
+2. SQLite compressed text-history prototypes
+   Source: Simon Willison
+3. AI agents are checking the scientific literature — and spotting decades-old errors
+   Source: Nature News
+4. Scientists up in arms about cuts to UK physics and astronomy
+   Source: Nature News
+5. DeepMind’s hurricane breakthrough has surprised weather scientists
+   Source: Ars Technica
+6. Katalyst Space makes progress in restoring control of Swift servicing spacecraft
+   Source: SpaceNews
+7. Taxi Drivers Rarely Die of Alzheimer’s—How Complex Mental Maps and Spatial Reasoning Protect Your Brain
+   Source: Nautilus
+
+REFERENCES:
+
+1. Quoting Claude Opus 5 system prompt
+   https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything
+
+2. SQLite compressed text-history prototypes
+   https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything
+
+3. AI agents are checking the scientific literature — and spotting decades-old errors
+   https://www.nature.com/articles/d41586-026-02235-8
+
+4. Scientists up in arms about cuts to UK physics and astronomy
+   https://www.nature.com/articles/d41586-026-02460-1
+
+5. DeepMind’s hurricane breakthrough has surprised weather scientists
+   https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/
+
+6. Katalyst Space makes progress in restoring control of Swift servicing spacecraft
+   https://spacenews.com/katalyst-space-makes-progress-in-restoring-control-of-swift-servicing-spacecraft/
+
+7. Taxi Drivers Rarely Die of Alzheimer’s—How Complex Mental Maps and Spatial Reasoning Protect Your Brain
+   https://nautil.us/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-1283501/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-10/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>6:11</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-10/episode-art.png"/>
+    </item>
     <item>
       <title>Pumas Guard Drivers &amp; Senate Blocks Research Rule</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>5:54</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-11/episode-art.png"/>
-    </item>
-    <item>
-      <title>GPT-5.6 &amp; Claude&#x27;s Hidden Mind &amp; AI Weather Models</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. ‘This time, it’s the other way around’: how Indonesia is reclaiming the science of human history
-   Source: Nature News
-2. Aurora 1.5: Extending open foundation models for weather and Earth-system applications
-   Source: Microsoft Research Blog
-3. Anthropic found a hidden space where Claude puzzles over concepts
-   Source: MIT Technology Review
-4. GPT-5.6: Frontier intelligence that scales with your ambition
-   Source: OpenAI News
-5. Video: Which Planet Has the Best Eclipse?
-   Source: NASA Science
-6. Helio and You: June 2026
-   Source: NASA Science
-7. Education tech purchases on pause as NYC schools wrestle with AI
-   Source: Gothamist (NYC)
-
-REFERENCES:
-
-1. ‘This time, it’s the other way around’: how Indonesia is reclaiming the science of human history
-   https://www.nature.com/articles/d41586-026-01357-3
-
-2. Aurora 1.5: Extending open foundation models for weather and Earth-system applications
-   https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/
-
-3. Anthropic found a hidden space where Claude puzzles over concepts
-   https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/
-
-4. GPT-5.6: Frontier intelligence that scales with your ambition
-   https://openai.com/index/gpt-5-6
-
-5. Video: Which Planet Has the Best Eclipse?
-   https://science.nasa.gov/learn/heat/resource/video-which-planet-has-the-best-eclipse/
-
-6. Helio and You: June 2026
-   https://science.nasa.gov/learn/heat/resource/helio-and-you-june-2026/
-
-7. Education tech purchases on pause as NYC schools wrestle with AI
-   https://gothamist.com/news/all-education-tech-purchases-on-pause-as-nyc-schools-wrestle-with-ai
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-10/newspaper.pdf]]></description>
-      <pubDate>Fri, 10 Jul 2026 10:32:26 -0000</pubDate>
-      <guid isPermaLink="false">2026-07-10</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-10.mp3" length="7425506" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. ‘This time, it’s the other way around’: how Indonesia is reclaiming the science of human history
-   Source: Nature News
-2. Aurora 1.5: Extending open foundation models for weather and Earth-system applications
-   Source: Microsoft Research Blog
-3. Anthropic found a hidden space where Claude puzzles over concepts
-   Source: MIT Technology Review
-4. GPT-5.6: Frontier intelligence that scales with your ambition
-   Source: OpenAI News
-5. Video: Which Planet Has the Best Eclipse?
-   Source: NASA Science
-6. Helio and You: June 2026
-   Source: NASA Science
-7. Education tech purchases on pause as NYC schools wrestle with AI
-   Source: Gothamist (NYC)
-
-REFERENCES:
-
-1. ‘This time, it’s the other way around’: how Indonesia is reclaiming the science of human history
-   https://www.nature.com/articles/d41586-026-01357-3
-
-2. Aurora 1.5: Extending open foundation models for weather and Earth-system applications
-   https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/
-
-3. Anthropic found a hidden space where Claude puzzles over concepts
-   https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/
-
-4. GPT-5.6: Frontier intelligence that scales with your ambition
-   https://openai.com/index/gpt-5-6
-
-5. Video: Which Planet Has the Best Eclipse?
-   https://science.nasa.gov/learn/heat/resource/video-which-planet-has-the-best-eclipse/
-
-6. Helio and You: June 2026
-   https://science.nasa.gov/learn/heat/resource/helio-and-you-june-2026/
-
-7. Education tech purchases on pause as NYC schools wrestle with AI
-   https://gothamist.com/news/all-education-tech-purchases-on-pause-as-nyc-schools-wrestle-with-ai
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-10/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>5:09</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-10/episode-art.png"/>
     </item>
   </channel>
 </rss>
