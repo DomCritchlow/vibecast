@@ -1,0 +1,68 @@
+{
+  "guid": "2026-08-11",
+  "date": "2026-08-11T08:29:13.608157",
+  "title": "AI in Finance & Preprints, Cyber Defense & Tickle Map",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 363.7894736842105,
+  "duration_formatted": "6:03",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-11.mp3",
+    "audio_size_bytes": 7353452,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-11/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-11/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-08-11.txt"
+  },
+  "stories": [
+    {
+      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/model-ml",
+      "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks."
+    },
+    {
+      "title": "Where are you ticklish? Researchers map the sensation across cultures",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02493-6",
+      "summary": "Nature, Published online: 10 August 2026; doi:10.1038/d41586-026-02493-6People from Chinese, Dutch and Greek cultural backgrounds have the same ‘tickle hotspots’ on the body. And ticklishness is stronger in rarely touched areas."
+    },
+    {
+      "title": "This AI tool claims to pick the top 1% of preprints. Should researchers trust it?",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02276-z",
+      "summary": "Nature, Published online: 10 August 2026; doi:10.1038/d41586-026-02276-zQED Science says that its metrics reduce bias by assessing papers solely on the basis of their originality and validity."
+    },
+    {
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing."
+    },
+    {
+      "title": "The Vibration Test Laboratory (VTL) Overview",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/kennedy/partnerships/thevibrationtestlaboratoryvtloverview/",
+      "summary": "Overview The Vibration Test Laboratory (VTL) provides testing of articles that includes sinusoidal, random, shock, classic (half sine, saw tooth, etc.) shock response spectrum (SRS), imported pulse, superimposed – random on random and sine on random, gunfire and sine burst. The lab provides closed loop vibration test systems typically consisting of electrodynamic shakers, instrumentation, signal […] The post The Vibration Test Laboratory (VTL) Overview appeared first on NASA Science."
+    },
+    {
+      "title": "AI professors are negotiating the new realities of academic research",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI…"
+    },
+    {
+      "title": "Southernmost ATM in McMurdo Station, Antarctica",
+      "source": "Atlas Obscura",
+      "url": "https://www.atlasobscura.com/places/southernmost-atm",
+      "summary": "At the bottom of the world, the world’s southernmost ATM offers an ordinary convenience in one of the least ordinary places on Earth. Located at 77°51′ south, it's the southernmost cash machine in the world—and the only ATM anywhere in Antarctica. The ATM was installed to serve the staff working at McMurdo Station, Antarctica’s largest research base. It functions just like any ATM in the United States, dispensing U.S. dollars to people living and working thousands of miles from the nearest conventional bank. Cash can be used in the station's store, and, before the station went dry, in the two bars. There are actually two ATMs, but only one is functional at a time—the other is used for spare parts. Every two years, Wells Fargo sends a technician to Antarctica for maintenance and upgrades. Cash is recycled between the store and the ATMs, so no new money needs to be delivered to the station."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-08-11T08:29:13.608157",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}
