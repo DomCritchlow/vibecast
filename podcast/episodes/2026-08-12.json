@@ -1,0 +1,68 @@
+{
+  "guid": "2026-08-12",
+  "date": "2026-08-12T08:44:44.267133",
+  "title": "AI in Science & NASA's Moon Base Ambitions",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 357.89473684210526,
+  "duration_formatted": "5:57",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-12.mp3",
+    "audio_size_bytes": 7442477,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-12/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-12/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-08-12.txt"
+  },
+  "stories": [
+    {
+      "title": "AI tools speed up analysis, but scientific truths must be grounded in reality",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02490-9",
+      "summary": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02490-9AI tools speed up analysis, but scientific truths must be grounded in reality"
+    },
+    {
+      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+      "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey."
+    },
+    {
+      "title": "Building the Moon Base: NASA Stories at the Ion",
+      "source": "NASA News",
+      "url": "https://www.nasa.gov/missions/moon-base/building-the-moon-base-nasa-stories-at-the-ion/",
+      "summary": "As NASA prepares to return astronauts to the lunar surface for longer stays and increasingly complex operations, building the Moon Base will require new ideas, advanced technologies, and expertise across many fields. During NASA Stories at the Ion on July 30, Shatel Bhakta, principal systems engineer for NASA’s Moon Base Program, presented “Building the Moon Base: Challenges and Opportunities at the Lunar South Pole.” He discussed the work required to establish a sustained human […]"
+    },
+    {
+      "title": "NASA Shares Station Research Today Supporting Moon, Mars Tomorrow",
+      "source": "NASA News",
+      "url": "https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow/",
+      "summary": "The International Space Station has been busy throughout 2026, as it continues to be a bustling workspace for astronauts conducting a variety of scientific experiments that lay the groundwork for missions to the Moon and beyond. NASA’s Artemis II mission in April was the first crewed flight around the Moon in more than 50 years, […]"
+    },
+    {
+      "title": "Phosphine-mediated azine C–H couplings with water and ammonia",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10991-w",
+      "summary": "Nature, Published online: 11 August 2026; doi:10.1038/s41586-026-10991-wPhosphine-mediated azine C–H couplings with water and ammonia"
+    },
+    {
+      "title": "Halted dam releases threaten Colorado river ecosystems",
+      "source": "Science.org News",
+      "url": "https://www.science.org/content/article/halted-dam-releases-threaten-colorado-river-ecosystems",
+      "summary": "Amid severe water shortage, federal authorities canceled actions for managing fish and sandbars"
+    },
+    {
+      "title": "Researchers Return to a Forgotten Forest Experiment 30 Years Later—With “Astounding” Results",
+      "source": "Nautilus",
+      "url": "https://nautil.us/researchers-return-to-a-forgotten-forest-experiment-30-years-later-with-astounding-results-1283623/",
+      "summary": "A new look at the trees revealed an overlooked “win-win-win” scenario for forest maintenance The post Researchers Return to a Forgotten Forest Experiment 30 Years Later—With “Astounding” Results appeared first on Nautilus."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-08-12T08:44:44.267133",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}

@@ -1,12 +1,5 @@
 {
   "url_timestamps": {
-    "https://openai.com/index/nvidia": "2026-05-14T06:52:49.741523",
-    "https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/": "2026-05-14T06:52:49.741523",
-    "https://www.nature.com/articles/d41586-026-01424-9": "2026-05-14T06:52:49.741523",
-    "https://www.nature.com/articles/d41586-026-01505-9": "2026-05-14T06:52:49.741523",
-    "https://openai.com/index/what-parameter-golf-taught-us": "2026-05-14T06:52:49.741523",
-    "https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/": "2026-05-14T06:52:49.741523",
-    "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/": "2026-05-14T06:52:49.741523",
     "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/": "2026-05-15T07:02:46.514962",
     "https://www.nature.com/articles/d41586-026-01538-0": "2026-05-15T07:02:46.514962",
     "https://www.nature.com/articles/d41586-026-01545-1": "2026-05-15T07:02:46.514962",
@@ -594,9 +587,16 @@
     "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows": "2026-08-11T08:29:13.608157",
     "https://www.nasa.gov/kennedy/partnerships/thevibrationtestlaboratoryvtloverview/": "2026-08-11T08:29:13.608157",
     "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/": "2026-08-11T08:29:13.608157",
-    "https://www.atlasobscura.com/places/southernmost-atm": "2026-08-11T08:29:13.608157"
+    "https://www.atlasobscura.com/places/southernmost-atm": "2026-08-11T08:29:13.608157",
+    "https://www.nature.com/articles/d41586-026-02490-9": "2026-08-12T08:44:44.267133",
+    "https://openai.com/index/virgin-atlantic/chatgpt-work": "2026-08-12T08:44:44.267133",
+    "https://www.nasa.gov/missions/moon-base/building-the-moon-base-nasa-stories-at-the-ion/": "2026-08-12T08:44:44.267133",
+    "https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow/": "2026-08-12T08:44:44.267133",
+    "https://www.nature.com/articles/s41586-026-10991-w": "2026-08-12T08:44:44.267133",
+    "https://www.science.org/content/article/halted-dam-releases-threaten-colorado-river-ecosystems": "2026-08-12T08:44:44.267133",
+    "https://nautil.us/researchers-return-to-a-forgotten-forest-experiment-30-years-later-with-astounding-results-1283623/": "2026-08-12T08:44:44.267133"
   },
-  "last_run": "2026-08-11T08:29:13.608157",
+  "last_run": "2026-08-12T08:44:44.267133",
   "special_dates": [
     "2026-07-10",
     "2026-07-17",
