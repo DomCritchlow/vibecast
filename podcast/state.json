@@ -1,12 +1,5 @@
 {
   "url_timestamps": {
-    "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/": "2026-05-15T07:02:46.514962",
-    "https://www.nature.com/articles/d41586-026-01538-0": "2026-05-15T07:02:46.514962",
-    "https://www.nature.com/articles/d41586-026-01545-1": "2026-05-15T07:02:46.514962",
-    "https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models/": "2026-05-15T07:02:46.514962",
-    "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/": "2026-05-15T07:02:46.514962",
-    "https://www.theverge.com/news/930902/microsoft-xbox-elite-3-controller-leak-images": "2026-05-15T07:02:46.514962",
-    "https://www.theverge.com/tech/930573/age-verification-bills-linux-open-source": "2026-05-15T07:02:46.514962",
     "https://www.nature.com/articles/d41586-026-01503-x": "2026-05-16T06:23:58.279279",
     "https://www.nature.com/articles/d41586-026-01391-1": "2026-05-16T06:23:58.279279",
     "https://www.technologyreview.com/2026/05/15/1137270/the-world-is-on-track-to-miss-its-health-targets/": "2026-05-16T06:23:58.279279",
@@ -594,9 +587,16 @@
     "https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow/": "2026-08-12T08:44:44.267133",
     "https://www.nature.com/articles/s41586-026-10991-w": "2026-08-12T08:44:44.267133",
     "https://www.science.org/content/article/halted-dam-releases-threaten-colorado-river-ecosystems": "2026-08-12T08:44:44.267133",
-    "https://nautil.us/researchers-return-to-a-forgotten-forest-experiment-30-years-later-with-astounding-results-1283623/": "2026-08-12T08:44:44.267133"
+    "https://nautil.us/researchers-return-to-a-forgotten-forest-experiment-30-years-later-with-astounding-results-1283623/": "2026-08-12T08:44:44.267133",
+    "https://simonwillison.net/2026/Aug/12/alchemy-utils/": "2026-08-13T08:49:04.743595",
+    "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/": "2026-08-13T08:49:04.743595",
+    "https://openai.com/index/how-enterprises-put-ai-to-work": "2026-08-13T08:49:04.743595",
+    "https://www.nasa.gov/hrp/research-opportunity-help-guide-priorities-for-commercial-spaceflight-biospecimens/": "2026-08-13T08:49:04.743595",
+    "https://www.nasa.gov/people/jim-geffre/": "2026-08-13T08:49:04.743595",
+    "https://www.nature.com/articles/s41586-026-10994-7": "2026-08-13T08:49:04.743595",
+    "https://nautil.us/is-it-better-to-have-a-lot-of-casual-friends-or-a-few-close-ones-1283691/": "2026-08-13T08:49:04.743595"
   },
-  "last_run": "2026-08-12T08:44:44.267133",
+  "last_run": "2026-08-13T08:49:04.743595",
   "special_dates": [
     "2026-07-10",
     "2026-07-17",

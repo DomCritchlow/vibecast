@@ -1,0 +1,68 @@
+{
+  "guid": "2026-08-13",
+  "date": "2026-08-13T08:49:04.743595",
+  "title": "Enterprise AI Execution & Claude Opus 5 Insights",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 369.2631578947368,
+  "duration_formatted": "6:09",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-13.mp3",
+    "audio_size_bytes": 7235588,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-13/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-13/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-08-13.txt"
+  },
+  "stories": [
+    {
+      "title": "alchemy-utils 0.1a0",
+      "source": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Aug/12/alchemy-utils/",
+      "summary": "Release: alchemy-utils 0.1a0 I've long pondered what a database agnostic version of my sqlite-utils Python library and CLI utility might look like. This morning (literally a shower project) I tasked Codex and GPT-5.6 Sol Ultra with building a prototype: Do a research spike to see what it would take to build a library with the same core API as SQLite-utils - in particular the insert and upsert and insert_all and upsert_all and create and update methods, and the table introspection stuff - but backed by SQLalchemy so it works for multiple database engines Test against PostgreSQL and SQLite and duckdb Use ~/dev/sqlite-utils for reference Create a git repo for this and commit and early and often - use uv init to start the project - use red/green TDD and pytest, see ~/dev/django-sql-dashboard for one idea as to how the PostgreSQL tests could work It took very few follow-up prompts to produce this project in a state good enough to release as an alpha. Here's a one-liner I can use to list ..."
+    },
+    {
+      "title": "Quoting Claude Opus 5 system prompt",
+      "source": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/",
+      "summary": "Claude Fable 5 and Claude Mythos 5 were first released on June 9, 2026. On June 12, 2026, Anthropic suspended access to both models to comply with U.S. Department of Commerce export controls; the Department lifted those controls on June 30, 2026, and Anthropic restored access on July 1, 2026 (Anthropic's statement: https://www.anthropic.com/news/fable-mythos-access). These events are after Claude's training-data cutoff, so Claude knows about them only from this notice. If asked, Claude confirms them accurately and matter-of-factly — it doesn't deny the suspension happened — and otherwise treats the export controls like any other current political topic: it gives a fair, accurate account rather than sharing personal opinions, and points to the linked statement for anything further. Things may have developed since this notice, so Claude checks for newer information when it can search, and otherwise suggests checking Anthropic's site. — Claude Opus 5 system prompt, ensuring Claude does..."
+    },
+    {
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption."
+    },
+    {
+      "title": "Research Opportunity: Help Guide Priorities for Commercial Spaceflight Biospecimens",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/hrp/research-opportunity-help-guide-priorities-for-commercial-spaceflight-biospecimens/",
+      "summary": "The NASA-funded Translational Research Institute for Space Health (TRISH) is seeking input from the scientific community on how to maximize the research value of its growing collection of commercial spaceflight biospecimens. The post Research Opportunity: Help Guide Priorities for Commercial Spaceflight Biospecimens appeared first on NASA Science."
+    },
+    {
+      "title": "Jim Geffre",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/people/jim-geffre/",
+      "summary": "Jim Geffre is the Deputy Program Director for NASA’s Moon Base Program at Johnson Space Center in Houston. He brings more than 25 years of NASA experience in spacecraft and architecture development, spanning concept formulation, design, certification, and flight operations. In his role, Geffre helps lead the development and integration of the systems and capabilities needed to establish an enduring human presence on the lunar surface. The post Jim Geffre appeared first on NASA Science."
+    },
+    {
+      "title": "Lead carboxylates passivation for meter-scale perovskite solar modules",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10994-7",
+      "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10994-7Lead carboxylates passivation for meter-scale perovskite solar modules"
+    },
+    {
+      "title": "Is It Better to Have a Lot of Casual Friends or a Few Close Ones?",
+      "source": "Nautilus",
+      "url": "https://nautil.us/is-it-better-to-have-a-lot-of-casual-friends-or-a-few-close-ones-1283691/",
+      "summary": "Friendships are integral to human health and well being, yet researchers know very little about how people make friends. A new study investigated what people prioritize for new friendships. The post Is It Better to Have a Lot of Casual Friends or a Few Close Ones? appeared first on Nautilus."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-08-13T08:49:04.743595",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}

@@ -8,7 +8,7 @@
     <link>https://critchlow.us/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Aug 2026 08:47:44 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 08:52:01 -0000</lastBuildDate>
     <atom:link href="https://critchlow.us/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://critchlow.us/vibecast/</link>
     </image>
     <itunes:image href="https://critchlow.us/vibecast/artwork.png"/>
+    <item>
+      <title>Enterprise AI Execution &amp; Claude Opus 5 Insights</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. alchemy-utils 0.1a0
+   Source: Simon Willison
+2. Quoting Claude Opus 5 system prompt
+   Source: Simon Willison
+3. From assistance to execution: How enterprises put AI to work
+   Source: OpenAI News
+4. Research Opportunity: Help Guide Priorities for Commercial Spaceflight Biospecimens
+   Source: NASA Science
+5. Jim Geffre
+   Source: NASA Science
+6. Lead carboxylates passivation for meter-scale perovskite solar modules
+   Source: Nature News
+7. Is It Better to Have a Lot of Casual Friends or a Few Close Ones?
+   Source: Nautilus
+
+REFERENCES:
+
+1. alchemy-utils 0.1a0
+   https://simonwillison.net/2026/Aug/12/alchemy-utils/
+
+2. Quoting Claude Opus 5 system prompt
+   https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/
+
+3. From assistance to execution: How enterprises put AI to work
+   https://openai.com/index/how-enterprises-put-ai-to-work
+
+4. Research Opportunity: Help Guide Priorities for Commercial Spaceflight Biospecimens
+   https://www.nasa.gov/hrp/research-opportunity-help-guide-priorities-for-commercial-spaceflight-biospecimens/
+
+5. Jim Geffre
+   https://www.nasa.gov/people/jim-geffre/
+
+6. Lead carboxylates passivation for meter-scale perovskite solar modules
+   https://www.nature.com/articles/s41586-026-10994-7
+
+7. Is It Better to Have a Lot of Casual Friends or a Few Close Ones?
+   https://nautil.us/is-it-better-to-have-a-lot-of-casual-friends-or-a-few-close-ones-1283691/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-13/newspaper.pdf]]></description>
+      <pubDate>Thu, 13 Aug 2026 08:49:04 -0000</pubDate>
+      <guid isPermaLink="false">2026-08-13</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-13.mp3" length="7235588" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. alchemy-utils 0.1a0
+   Source: Simon Willison
+2. Quoting Claude Opus 5 system prompt
+   Source: Simon Willison
+3. From assistance to execution: How enterprises put AI to work
+   Source: OpenAI News
+4. Research Opportunity: Help Guide Priorities for Commercial Spaceflight Biospecimens
+   Source: NASA Science
+5. Jim Geffre
+   Source: NASA Science
+6. Lead carboxylates passivation for meter-scale perovskite solar modules
+   Source: Nature News
+7. Is It Better to Have a Lot of Casual Friends or a Few Close Ones?
+   Source: Nautilus
+
+REFERENCES:
+
+1. alchemy-utils 0.1a0
+   https://simonwillison.net/2026/Aug/12/alchemy-utils/
+
+2. Quoting Claude Opus 5 system prompt
+   https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/
+
+3. From assistance to execution: How enterprises put AI to work
+   https://openai.com/index/how-enterprises-put-ai-to-work
+
+4. Research Opportunity: Help Guide Priorities for Commercial Spaceflight Biospecimens
+   https://www.nasa.gov/hrp/research-opportunity-help-guide-priorities-for-commercial-spaceflight-biospecimens/
+
+5. Jim Geffre
+   https://www.nasa.gov/people/jim-geffre/
+
+6. Lead carboxylates passivation for meter-scale perovskite solar modules
+   https://www.nature.com/articles/s41586-026-10994-7
+
+7. Is It Better to Have a Lot of Casual Friends or a Few Close Ones?
+   https://nautil.us/is-it-better-to-have-a-lot-of-casual-friends-or-a-few-close-ones-1283691/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-13/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>6:09</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-13/episode-art.png"/>
+    </item>
     <item>
       <title>AI in Science &amp; NASA&#x27;s Moon Base Ambitions</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>5:57</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-14/episode-art.png"/>
-    </item>
-    <item>
-      <title>Drought &amp; Trees, Arctic Sea Ice &amp; NSF China Ban</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Tall and small trees are equally vulnerable to drought
-   Source: Nature News
-2. The rise of evidence-based medicine and the ‘mavericks’ who championed it
-   Source: Nature News
-3. NASA Scientists Take to Air and Space to Study Arctic Sea Ice
-   Source: NASA News
-4. New NSF policy would ban almost all collaborations with Chinese scientists
-   Source: Science.org News
-5. DNA could act like a famed gravity-defying pump
-   Source: Science.org News
-6. Check out the first images of Quest shipwreck
-   Source: Ars Technica
-7. Here’s Why Some Humans Can Hear Super Low-Frequency Sounds
-   Source: Nautilus
-
-REFERENCES:
-
-1. Tall and small trees are equally vulnerable to drought
-   https://www.nature.com/articles/d41586-026-02121-3
-
-2. The rise of evidence-based medicine and the ‘mavericks’ who championed it
-   https://www.nature.com/articles/d41586-026-02153-9
-
-3. NASA Scientists Take to Air and Space to Study Arctic Sea Ice
-   https://www.nasa.gov/missions/airborne-science/nasa-scientists-take-to-air-and-space-to-study-arctic-sea-ice/
-
-4. New NSF policy would ban almost all collaborations with Chinese scientists
-   https://www.science.org/content/article/new-nsf-policy-would-ban-almost-all-collaborations-chinese-scientists
-
-5. DNA could act like a famed gravity-defying pump
-   https://www.science.org/content/article/dna-could-act-famed-gravity-defying-pump
-
-6. Check out the first images of Quest shipwreck
-   https://arstechnica.com/science/2026/07/expedition-captures-first-images-of-shackletons-last-ship/
-
-7. Here’s Why Some Humans Can Hear Super Low-Frequency Sounds
-   https://nautil.us/heres-why-some-humans-can-hear-super-low-frequency-sounds-1282626/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-13/newspaper.pdf]]></description>
-      <pubDate>Mon, 13 Jul 2026 10:38:36 -0000</pubDate>
-      <guid isPermaLink="false">2026-07-13</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-13.mp3" length="6956599" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Tall and small trees are equally vulnerable to drought
-   Source: Nature News
-2. The rise of evidence-based medicine and the ‘mavericks’ who championed it
-   Source: Nature News
-3. NASA Scientists Take to Air and Space to Study Arctic Sea Ice
-   Source: NASA News
-4. New NSF policy would ban almost all collaborations with Chinese scientists
-   Source: Science.org News
-5. DNA could act like a famed gravity-defying pump
-   Source: Science.org News
-6. Check out the first images of Quest shipwreck
-   Source: Ars Technica
-7. Here’s Why Some Humans Can Hear Super Low-Frequency Sounds
-   Source: Nautilus
-
-REFERENCES:
-
-1. Tall and small trees are equally vulnerable to drought
-   https://www.nature.com/articles/d41586-026-02121-3
-
-2. The rise of evidence-based medicine and the ‘mavericks’ who championed it
-   https://www.nature.com/articles/d41586-026-02153-9
-
-3. NASA Scientists Take to Air and Space to Study Arctic Sea Ice
-   https://www.nasa.gov/missions/airborne-science/nasa-scientists-take-to-air-and-space-to-study-arctic-sea-ice/
-
-4. New NSF policy would ban almost all collaborations with Chinese scientists
-   https://www.science.org/content/article/new-nsf-policy-would-ban-almost-all-collaborations-chinese-scientists
-
-5. DNA could act like a famed gravity-defying pump
-   https://www.science.org/content/article/dna-could-act-famed-gravity-defying-pump
-
-6. Check out the first images of Quest shipwreck
-   https://arstechnica.com/science/2026/07/expedition-captures-first-images-of-shackletons-last-ship/
-
-7. Here’s Why Some Humans Can Hear Super Low-Frequency Sounds
-   https://nautil.us/heres-why-some-humans-can-hear-super-low-frequency-sounds-1282626/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-13/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>5:54</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-13/episode-art.png"/>
     </item>
   </channel>
 </rss>
