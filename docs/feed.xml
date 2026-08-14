@@ -8,7 +8,7 @@
     <link>https://critchlow.us/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Aug 2026 08:52:01 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 08:46:18 -0000</lastBuildDate>
     <atom:link href="https://critchlow.us/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://critchlow.us/vibecast/</link>
     </image>
     <itunes:image href="https://critchlow.us/vibecast/artwork.png"/>
+    <item>
+      <title>AI Research Limits &amp; Anthropic&#x27;s Watermark Fight</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. AI isn’t ready to research itself
+   Source: Nature News
+2. Can Anthropic’s invisible watermarks curb ‘AI slop’? Researchers remain sceptical
+   Source: Nature News
+3. Updated Livery for NASA’s B777-200ER Research Aircraft
+   Source: NASA Science
+4. Thursday Packed with More Spacewalk Preps and Advanced Tech Research
+   Source: NASA Science
+5. Hundreds of paper-mill papers peddled in ads were later published
+   Source: Science.org News
+6. Arson attack jolts Italy’s bid to host the Einstein Telescope
+   Source: Science.org News
+7. Hoka, La Sportiva, Mount to Coast Almost Half of Shoes Worn: 2026 Hardrock 100 Shoes Analysis
+   Source: iRunFar
+
+REFERENCES:
+
+1. AI isn’t ready to research itself
+   https://www.nature.com/articles/d41586-026-02494-5
+
+2. Can Anthropic’s invisible watermarks curb ‘AI slop’? Researchers remain sceptical
+   https://www.nature.com/articles/d41586-026-02503-7
+
+3. Updated Livery for NASA’s B777-200ER Research Aircraft
+   https://www.nasa.gov/gallery/nasa-b777-updated-livery/
+
+4. Thursday Packed with More Spacewalk Preps and Advanced Tech Research
+   https://www.nasa.gov/blogs/spacestation/2026/08/13/thursday-packed-with-more-spacewalk-preps-and-advanced-tech-research/
+
+5. Hundreds of paper-mill papers peddled in ads were later published
+   https://www.science.org/content/article/hundreds-paper-mill-papers-peddled-ads-were-later-published
+
+6. Arson attack jolts Italy’s bid to host the Einstein Telescope
+   https://www.science.org/content/article/arson-attack-jolts-italy-s-bid-host-einstein-telescope
+
+7. Hoka, La Sportiva, Mount to Coast Almost Half of Shoes Worn: 2026 Hardrock 100 Shoes Analysis
+   https://www.irunfar.com/2026-hardrock-100-shoes-analysis
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-14/newspaper.pdf]]></description>
+      <pubDate>Fri, 14 Aug 2026 08:42:03 -0000</pubDate>
+      <guid isPermaLink="false">2026-08-14</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-14.mp3" length="7085079" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. AI isn’t ready to research itself
+   Source: Nature News
+2. Can Anthropic’s invisible watermarks curb ‘AI slop’? Researchers remain sceptical
+   Source: Nature News
+3. Updated Livery for NASA’s B777-200ER Research Aircraft
+   Source: NASA Science
+4. Thursday Packed with More Spacewalk Preps and Advanced Tech Research
+   Source: NASA Science
+5. Hundreds of paper-mill papers peddled in ads were later published
+   Source: Science.org News
+6. Arson attack jolts Italy’s bid to host the Einstein Telescope
+   Source: Science.org News
+7. Hoka, La Sportiva, Mount to Coast Almost Half of Shoes Worn: 2026 Hardrock 100 Shoes Analysis
+   Source: iRunFar
+
+REFERENCES:
+
+1. AI isn’t ready to research itself
+   https://www.nature.com/articles/d41586-026-02494-5
+
+2. Can Anthropic’s invisible watermarks curb ‘AI slop’? Researchers remain sceptical
+   https://www.nature.com/articles/d41586-026-02503-7
+
+3. Updated Livery for NASA’s B777-200ER Research Aircraft
+   https://www.nasa.gov/gallery/nasa-b777-updated-livery/
+
+4. Thursday Packed with More Spacewalk Preps and Advanced Tech Research
+   https://www.nasa.gov/blogs/spacestation/2026/08/13/thursday-packed-with-more-spacewalk-preps-and-advanced-tech-research/
+
+5. Hundreds of paper-mill papers peddled in ads were later published
+   https://www.science.org/content/article/hundreds-paper-mill-papers-peddled-ads-were-later-published
+
+6. Arson attack jolts Italy’s bid to host the Einstein Telescope
+   https://www.science.org/content/article/arson-attack-jolts-italy-s-bid-host-einstein-telescope
+
+7. Hoka, La Sportiva, Mount to Coast Almost Half of Shoes Worn: 2026 Hardrock 100 Shoes Analysis
+   https://www.irunfar.com/2026-hardrock-100-shoes-analysis
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-14/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:55</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-14/episode-art.png"/>
+    </item>
     <item>
       <title>Enterprise AI Execution &amp; Claude Opus 5 Insights</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>6:02</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-15/episode-art.png"/>
-    </item>
-    <item>
-      <title>Sugar Molecule in Space &amp; Epigenetic Editing</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Verifying Rust cryptography in SymCrypt, from standards to code
-   Source: Microsoft Research Blog
-2. Solar System Exploration Research Virtual Institute (SSERVI) Cooperative Agreement Notice
-   Source: NASA Science
-3. Epigenetic editing makes its mark
-   Source: Nature News
-4. First ‘true sugar’ molecule found in space — offering hints to life’s origins
-   Source: Nature News
-5. Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July
-   Source: NASA Science
-6. Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July
-   Source: NASA News
-7. This Prehistoric Giant Salamander Grew to Almost 4 Feet Long
-   Source: Nautilus
-
-REFERENCES:
-
-1. Verifying Rust cryptography in SymCrypt, from standards to code
-   https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/
-
-2. Solar System Exploration Research Virtual Institute (SSERVI) Cooperative Agreement Notice
-   https://science.nasa.gov/researchers/volunteer-review-panels/solar-system-exploration-research-virtual-institute-sservi-cooperative-agreement-notice/
-
-3. Epigenetic editing makes its mark
-   https://www.nature.com/articles/d41586-026-02151-x
-
-4. First ‘true sugar’ molecule found in space — offering hints to life’s origins
-   https://www.nature.com/articles/d41586-026-02173-5
-
-5. Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July
-   https://science.nasa.gov/blog/curiosity-blog-sols-4941-4947-pinstripes-on-the-fourth-of-july/
-
-6. Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July
-   https://science.nasa.gov/blog/curiosity-blog-sols-4941-4947-pinstripes-on-the-fourth-of-july/
-
-7. This Prehistoric Giant Salamander Grew to Almost 4 Feet Long
-   https://nautil.us/this-prehistoric-giant-salamander-grew-to-almost-4-feet-long-1282663/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-14/newspaper.pdf]]></description>
-      <pubDate>Tue, 14 Jul 2026 09:21:33 -0000</pubDate>
-      <guid isPermaLink="false">2026-07-14</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-14.mp3" length="7443104" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Verifying Rust cryptography in SymCrypt, from standards to code
-   Source: Microsoft Research Blog
-2. Solar System Exploration Research Virtual Institute (SSERVI) Cooperative Agreement Notice
-   Source: NASA Science
-3. Epigenetic editing makes its mark
-   Source: Nature News
-4. First ‘true sugar’ molecule found in space — offering hints to life’s origins
-   Source: Nature News
-5. Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July
-   Source: NASA Science
-6. Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July
-   Source: NASA News
-7. This Prehistoric Giant Salamander Grew to Almost 4 Feet Long
-   Source: Nautilus
-
-REFERENCES:
-
-1. Verifying Rust cryptography in SymCrypt, from standards to code
-   https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/
-
-2. Solar System Exploration Research Virtual Institute (SSERVI) Cooperative Agreement Notice
-   https://science.nasa.gov/researchers/volunteer-review-panels/solar-system-exploration-research-virtual-institute-sservi-cooperative-agreement-notice/
-
-3. Epigenetic editing makes its mark
-   https://www.nature.com/articles/d41586-026-02151-x
-
-4. First ‘true sugar’ molecule found in space — offering hints to life’s origins
-   https://www.nature.com/articles/d41586-026-02173-5
-
-5. Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July
-   https://science.nasa.gov/blog/curiosity-blog-sols-4941-4947-pinstripes-on-the-fourth-of-july/
-
-6. Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July
-   https://science.nasa.gov/blog/curiosity-blog-sols-4941-4947-pinstripes-on-the-fourth-of-july/
-
-7. This Prehistoric Giant Salamander Grew to Almost 4 Feet Long
-   https://nautil.us/this-prehistoric-giant-salamander-grew-to-almost-4-feet-long-1282663/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-14/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>5:57</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-14/episode-art.png"/>
     </item>
   </channel>
 </rss>

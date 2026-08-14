@@ -1,0 +1,68 @@
+{
+  "guid": "2026-08-14",
+  "date": "2026-08-14T08:42:03.250788",
+  "title": "AI Research Limits & Anthropic's Watermark Fight",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 295.183673,
+  "duration_formatted": "4:55",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-14.mp3",
+    "audio_size_bytes": 7085079,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-14/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-14/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-08-14.txt"
+  },
+  "stories": [
+    {
+      "title": "AI isn’t ready to research itself",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02494-5",
+      "summary": "Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02494-5An agentic system successfully developed concepts from two computer-science papers — but the original authors were not impressed."
+    },
+    {
+      "title": "Can Anthropic’s invisible watermarks curb ‘AI slop’? Researchers remain sceptical",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02503-7",
+      "summary": "Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02503-7New Claude models will watermark text and tag images as AI-generated, as Anthropic responds to EU AI regulations."
+    },
+    {
+      "title": "Updated Livery for NASA’s B777-200ER Research Aircraft",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/gallery/nasa-b777-updated-livery/",
+      "summary": "NASA's recently acquired B77-200ER scientific research aircraft returned Aug. 12 from a period of modifications in Texas to its home at the Langley Research Center in Virginia -- and it's sporting a new livery featuring the NASA \"meatball\" and \"worm\" logos. Take a look! The post Updated Livery for NASA’s B777-200ER Research Aircraft appeared first on NASA Science."
+    },
+    {
+      "title": "Thursday Packed with More Spacewalk Preps and Advanced Tech Research",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/08/13/thursday-packed-with-more-spacewalk-preps-and-advanced-tech-research/",
+      "summary": "The Expedition 75 crew continued studying procedures and checking out spacesuits on Thursday for a spacewalk to replace a high-speed antenna on the outside of the International Space Station next week. High-tech science rounded out the schedule as the lab residents wore virtual reality goggles and tested artificial intelligence tools to benefit future space crews. The post Thursday Packed with More Spacewalk Preps and Advanced Tech Research appeared first on NASA Science."
+    },
+    {
+      "title": "Hundreds of paper-mill papers peddled in ads were later published",
+      "source": "Science.org News",
+      "url": "https://www.science.org/content/article/hundreds-paper-mill-papers-peddled-ads-were-later-published",
+      "summary": "More than one-fifth of some IEEE conferences’ papers appear linked to authorship for sale"
+    },
+    {
+      "title": "Arson attack jolts Italy’s bid to host the Einstein Telescope",
+      "source": "Science.org News",
+      "url": "https://www.science.org/content/article/arson-attack-jolts-italy-s-bid-host-einstein-telescope",
+      "summary": "Two scientists' cars were burned at the proposed Sardinian site, in what researchers say was an attempt to intimidate supporters of the gravitational-wave observatory"
+    },
+    {
+      "title": "Hoka, La Sportiva, Mount to Coast Almost Half of Shoes Worn: 2026 Hardrock 100 Shoes Analysis",
+      "source": "iRunFar",
+      "url": "https://www.irunfar.com/2026-hardrock-100-shoes-analysis",
+      "summary": "The post Hoka, La Sportiva, Mount to Coast Almost Half of Shoes Worn: 2026 Hardrock 100 Shoes Analysis appeared first on iRunFar. An analysis of the shoes of the 2026 Hardrock 100. Hoka, La Sportiva, Mount to Coast Almost Half of Shoes Worn: 2026 Hardrock 100 Shoes Analysis by Guest Writer."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-08-14T08:42:03.250788",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "fal",
+    "tts_voice": "SAz9YHcvj6GT2YYXdXww",
+    "special_episode": true
+  }
+}
