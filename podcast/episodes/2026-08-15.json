@@ -1,0 +1,68 @@
+{
+  "guid": "2026-08-15",
+  "date": "2026-08-15T07:49:30.612415",
+  "title": "AI Watermarks & Migration Myths Debunked",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 364.2105263157895,
+  "duration_formatted": "6:04",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-15.mp3",
+    "audio_size_bytes": 7453136,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-15/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-15/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-08-15.txt"
+  },
+  "stories": [
+    {
+      "title": "High Speed CRM",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/common_research_model/high-speed-crm/",
+      "summary": "This website is currently under construction. Please see the full NASA Common Research Model website for current information. High Speed CRM The original Common Research Model was the high speed version which was developed in response to a need for a generic but relevant high speed transport geometry that could be used by anyone without […] The post High Speed CRM appeared first on NASA Science."
+    },
+    {
+      "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02562-w",
+      "summary": "Nature, Published online: 14 August 2026; doi:10.1038/d41586-026-02562-wNature staff discuss what flagging AI content may mean for research integrity — plus, how people from different cultural backgrounds have the same ‘tickle hotspots’ on the body."
+    },
+    {
+      "title": "Undocumented migration does not raise crime rates, huge study finds",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02542-0",
+      "summary": "Nature, Published online: 14 August 2026; doi:10.1038/d41586-026-02542-0Analysis of neighbourhoods in more than 100 US cities finds no evidence that rising numbers of undocumented immigrants are linked with violent crime."
+    },
+    {
+      "title": "This scientist is helping build a missing map of childhood",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+      "summary": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged, she discovered that the…"
+    },
+    {
+      "title": "NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/",
+      "summary": "NASA is asking U.S.-based collegiate teams to submit bold, original concepts to the 2027 edition of a student challenge focused on aerospace innovation that could help the agency envision a future on the Moon shaped by new technology. The latest NASA Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition invites student teams to explore new operations paradigms and advance the technologies needed to […] The post NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies appeared first on NASA Science."
+    },
+    {
+      "title": "NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies",
+      "source": "NASA News",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/",
+      "summary": "NASA is asking U.S.-based collegiate teams to submit bold, original concepts to the 2027 edition of a student challenge focused on aerospace innovation that could help the agency envision a future on the Moon shaped by new technology. The latest NASA Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition invites student teams to explore new operations paradigms and advance the technologies needed to […]"
+    },
+    {
+      "title": "Extreme Space Weather Could Delay Your Next Flight",
+      "source": "Nautilus",
+      "url": "https://nautil.us/extreme-space-weather-could-delay-your-next-flight-1283780/",
+      "summary": "Researchers say surges in solar activity can wreak havoc on aircraft The post Extreme Space Weather Could Delay Your Next Flight appeared first on Nautilus."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-08-15T07:49:30.612415",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}
