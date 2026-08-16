@@ -1,0 +1,68 @@
+{
+  "guid": "2026-08-16",
+  "date": "2026-08-16T07:51:58.629694",
+  "title": "AI Predicts Solar Storms & Argentine Science in Crisis",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 371.36842105263156,
+  "duration_formatted": "6:11",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-16.mp3",
+    "audio_size_bytes": 7829299,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-16/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-16/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-08-16.txt"
+  },
+  "stories": [
+    {
+      "title": "XR SIG Seminar, 21 Aug 2026",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/xr-sig-seminar-21-aug-2026/",
+      "summary": "Broad Band X-ray Observatory Science Analysis Group The post XR SIG Seminar, 21 Aug 2026 appeared first on NASA Science."
+    },
+    {
+      "title": "NASA’s COFFIES Uses AI to Predict Storm-Causing Active Regions on Sun",
+      "source": "NASA News",
+      "url": "https://science.nasa.gov/science-research/heliophysics/nasas-coffies-uses-ai-to-predict-storm-causing-active-regions-on-sun/",
+      "summary": "As humanity looks to the Moon and stars for future exploration, predicting space weather — conditions in space primarily driven by the Sun — is more important than ever. Now, a team of astrophysicists and data scientists with NASA’s COFFIES (Consequence Of Fields and Flows in the Interior and Exterior of the Sun) has developed a […]"
+    },
+    {
+      "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-11023-3",
+      "summary": "Nature, Published online: 14 August 2026; doi:10.1038/s41586-026-11023-3Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP"
+    },
+    {
+      "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-11022-4",
+      "summary": "Nature, Published online: 14 August 2026; doi:10.1038/s41586-026-11022-4Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding"
+    },
+    {
+      "title": "Budget cuts and delays leave hundreds of Argentine postdocs in limbo",
+      "source": "Science.org News",
+      "url": "https://www.science.org/content/article/budget-cuts-and-delays-leave-hundreds-argentine-postdocs-limbo",
+      "summary": "Many scientists are scrambling to make ends meet and reconsidering their future in research"
+    },
+    {
+      "title": "MindTopo reveals VLMs’ spatial reasoning abilities",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+      "summary": "A path, a fence, a knot. MindTopo sets a new benchmark for testing how AI understands topological relationships and highlights new opportunities to strengthen spatial reasoning and planning. The post MindTopo reveals VLMs’ spatial reasoning abilities appeared first on Microsoft Research."
+    },
+    {
+      "title": "The ‘blast furnace’ subway sauna at Union Square makes life hell for riders",
+      "source": "Gothamist (NYC)",
+      "url": "https://gothamist.com/news/the-blast-furnace-subway-sauna-at-union-square-makes-life-hell-for-riders",
+      "summary": "Union Square is considered the hottest station in the subway system. Not even Dante could imagine the type of hell riders endure at the busy Manhattan station. [ more › ]"
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-08-16T07:51:58.629694",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}
