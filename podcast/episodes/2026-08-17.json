@@ -1,0 +1,68 @@
+{
+  "guid": "2026-08-17",
+  "date": "2026-08-17T08:05:13.689633",
+  "title": "Cloning to Save Species & Censorship-Industrial Complex",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 365.89473684210526,
+  "duration_formatted": "6:05",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-17.mp3",
+    "audio_size_bytes": 7484482,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-17/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-17/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-08-17.txt"
+  },
+  "stories": [
+    {
+      "title": "Einstein the musician, AI prophets and more: Books in brief",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02504-6",
+      "summary": "Nature, Published online: 14 August 2026; doi:10.1038/d41586-026-02504-6Andrew Robinson reviews five of the best science picks."
+    },
+    {
+      "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10959-w",
+      "summary": "Nature, Published online: 13 August 2026; doi:10.1038/s41586-026-10959-wAuthor Correction: Structural mechanism of cGAS inhibition by the nucleosome"
+    },
+    {
+      "title": "Cloning could be used to save species—or make human “organ sacks”",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
+      "summary": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They’ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create female clones of male mice. That’s right: female animals that are genetically identical to males, except for the missing Y chromosome.…"
+    },
+    {
+      "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
+      "summary": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing information sphere for years—then it began making its way into US policy. Watch a conversation exploring how it started, where…"
+    },
+    {
+      "title": "Apple Earnings, More on Amazon’s Earnings",
+      "source": "Stratechery (free)",
+      "url": "https://stratechery.com/2026/apple-earnings-more-on-amazons-earnings/",
+      "summary": "Apple's earnings (and stock) are limited not by memory but rather chip shortages; then, more on Amazon's earnings and Andy Jassy's market analysis."
+    },
+    {
+      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "summary": ""
+    },
+    {
+      "title": "Female Treefrogs Get Overwhelmed by Too Many Noisy Male Suitors",
+      "source": "Nautilus",
+      "url": "https://nautil.us/female-treefrogs-get-overwhelmed-by-too-many-noisy-male-suitors-1283821/",
+      "summary": "Take it easy on the croaking, boys The post Female Treefrogs Get Overwhelmed by Too Many Noisy Male Suitors appeared first on Nautilus."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-08-17T08:05:13.689633",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}

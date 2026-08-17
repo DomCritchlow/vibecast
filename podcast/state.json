@@ -1,19 +1,5 @@
 {
   "url_timestamps": {
-    "https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/": "2026-05-18T08:06:52.351477",
-    "https://www.theverge.com/tech/932215/microsoft-teams-together-mode": "2026-05-18T08:06:52.351477",
-    "https://www.nasa.gov/gallery/moon-base-renderings/": "2026-05-18T08:06:52.351477",
-    "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/": "2026-05-18T08:06:52.351477",
-    "https://www.nature.com/articles/d41586-026-01504-w": "2026-05-18T08:06:52.351477",
-    "https://www.nature.com/articles/d41586-026-01558-w": "2026-05-18T08:06:52.351477",
-    "https://openai.com/index/malta-chatgpt-plus-partnership": "2026-05-18T08:06:52.351477",
-    "https://www.nature.com/articles/d41586-026-01556-y": "2026-05-19T07:49:35.381446",
-    "https://www.theverge.com/tech/932642/walmart-onn-new-core-pro-kids-tablets": "2026-05-19T07:49:35.381446",
-    "https://www.nasa.gov/blogs/spacestation/2026/05/18/crew-unloads-dragon-and-begins-new-space-experiments/": "2026-05-19T07:49:35.381446",
-    "https://science.nasa.gov/mission/landsat/hls-vegetation-indices/": "2026-05-19T07:49:35.381446",
-    "https://www.space.com/science/scientists-found-stardust-trapped-in-antarctic-ice-what-could-it-tell-us-about-our-solar-system": "2026-05-19T07:49:35.381446",
-    "https://www.space.com/space-exploration/launches-spacecraft/european-chinese-space-weather-mission-smile-launch": "2026-05-19T07:49:35.381446",
-    "https://www.nature.com/articles/s41586-026-10649-7": "2026-05-19T07:49:35.381446",
     "https://www.nature.com/articles/d41586-026-01596-4": "2026-05-20T07:47:34.524957",
     "https://www.nature.com/articles/s41586-026-10652-y": "2026-05-20T07:47:34.524957",
     "https://openai.com/index/advancing-content-provenance": "2026-05-20T07:47:34.524957",
@@ -600,9 +586,16 @@
     "https://www.nature.com/articles/s41586-026-11022-4": "2026-08-16T07:51:58.629694",
     "https://www.science.org/content/article/budget-cuts-and-delays-leave-hundreds-argentine-postdocs-limbo": "2026-08-16T07:51:58.629694",
     "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/": "2026-08-16T07:51:58.629694",
-    "https://gothamist.com/news/the-blast-furnace-subway-sauna-at-union-square-makes-life-hell-for-riders": "2026-08-16T07:51:58.629694"
+    "https://gothamist.com/news/the-blast-furnace-subway-sauna-at-union-square-makes-life-hell-for-riders": "2026-08-16T07:51:58.629694",
+    "https://www.nature.com/articles/d41586-026-02504-6": "2026-08-17T08:05:13.689633",
+    "https://www.nature.com/articles/s41586-026-10959-w": "2026-08-17T08:05:13.689633",
+    "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/": "2026-08-17T08:05:13.689633",
+    "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/": "2026-08-17T08:05:13.689633",
+    "https://stratechery.com/2026/apple-earnings-more-on-amazons-earnings/": "2026-08-17T08:05:13.689633",
+    "https://huggingface.co/blog/allenai/olmoearth-embeddings": "2026-08-17T08:05:13.689633",
+    "https://nautil.us/female-treefrogs-get-overwhelmed-by-too-many-noisy-male-suitors-1283821/": "2026-08-17T08:05:13.689633"
   },
-  "last_run": "2026-08-16T07:51:58.629694",
+  "last_run": "2026-08-17T08:05:13.689633",
   "special_dates": [
     "2026-07-10",
     "2026-07-17",

@@ -8,7 +8,7 @@
     <link>https://critchlow.us/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Aug 2026 07:54:42 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 08:08:03 -0000</lastBuildDate>
     <atom:link href="https://critchlow.us/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://critchlow.us/vibecast/</link>
     </image>
     <itunes:image href="https://critchlow.us/vibecast/artwork.png"/>
+    <item>
+      <title>Cloning to Save Species &amp; Censorship-Industrial Complex</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Einstein the musician, AI prophets and more: Books in brief
+   Source: Nature News
+2. Author Correction: Structural mechanism of cGAS inhibition by the nucleosome
+   Source: Nature News
+3. Cloning could be used to save species—or make human “organ sacks”
+   Source: MIT Technology Review
+4. Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy
+   Source: MIT Technology Review
+5. Apple Earnings, More on Amazon’s Earnings
+   Source: Stratechery (free)
+6. Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis
+   Source: Hugging Face Blog
+7. Female Treefrogs Get Overwhelmed by Too Many Noisy Male Suitors
+   Source: Nautilus
+
+REFERENCES:
+
+1. Einstein the musician, AI prophets and more: Books in brief
+   https://www.nature.com/articles/d41586-026-02504-6
+
+2. Author Correction: Structural mechanism of cGAS inhibition by the nucleosome
+   https://www.nature.com/articles/s41586-026-10959-w
+
+3. Cloning could be used to save species—or make human “organ sacks”
+   https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/
+
+4. Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy
+   https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/
+
+5. Apple Earnings, More on Amazon’s Earnings
+   https://stratechery.com/2026/apple-earnings-more-on-amazons-earnings/
+
+6. Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis
+   https://huggingface.co/blog/allenai/olmoearth-embeddings
+
+7. Female Treefrogs Get Overwhelmed by Too Many Noisy Male Suitors
+   https://nautil.us/female-treefrogs-get-overwhelmed-by-too-many-noisy-male-suitors-1283821/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-17/newspaper.pdf]]></description>
+      <pubDate>Mon, 17 Aug 2026 08:05:13 -0000</pubDate>
+      <guid isPermaLink="false">2026-08-17</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-17.mp3" length="7484482" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Einstein the musician, AI prophets and more: Books in brief
+   Source: Nature News
+2. Author Correction: Structural mechanism of cGAS inhibition by the nucleosome
+   Source: Nature News
+3. Cloning could be used to save species—or make human “organ sacks”
+   Source: MIT Technology Review
+4. Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy
+   Source: MIT Technology Review
+5. Apple Earnings, More on Amazon’s Earnings
+   Source: Stratechery (free)
+6. Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis
+   Source: Hugging Face Blog
+7. Female Treefrogs Get Overwhelmed by Too Many Noisy Male Suitors
+   Source: Nautilus
+
+REFERENCES:
+
+1. Einstein the musician, AI prophets and more: Books in brief
+   https://www.nature.com/articles/d41586-026-02504-6
+
+2. Author Correction: Structural mechanism of cGAS inhibition by the nucleosome
+   https://www.nature.com/articles/s41586-026-10959-w
+
+3. Cloning could be used to save species—or make human “organ sacks”
+   https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/
+
+4. Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy
+   https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/
+
+5. Apple Earnings, More on Amazon’s Earnings
+   https://stratechery.com/2026/apple-earnings-more-on-amazons-earnings/
+
+6. Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis
+   https://huggingface.co/blog/allenai/olmoearth-embeddings
+
+7. Female Treefrogs Get Overwhelmed by Too Many Noisy Male Suitors
+   https://nautil.us/female-treefrogs-get-overwhelmed-by-too-many-noisy-male-suitors-1283821/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-17/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>6:05</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-17/episode-art.png"/>
+    </item>
     <item>
       <title>AI Predicts Solar Storms &amp; Argentine Science in Crisis</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>6:05</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-18/episode-art.png"/>
-    </item>
-    <item>
-      <title>Starlink Powers Artemis III &amp; Asteroid Is Really a Comet</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. DRAFT SSERVI Cooperative Agreement Notice Released
-   Source: NASA Science
-2. A global capital for AI safety is emerging — and it's not in Silicon Valley
-   Source: Nature News
-3. NASA Taps SpaceX’s Starlink to Deliver Artemis III Imagery from Orion
-   Source: NASA Science
-4. NASA Study Finds Near-Earth Asteroid Is Actually Comet
-   Source: NASA News
-5. How NASA’s Artemis III Lander Test Will Pave Way for Moon Landings
-   Source: NASA News
-6. Why do astronauts’ bodies waste away? Space-station study points to mitochondria
-   Source: Nature News
-7. How This Emerging Tick-borne Virus Escapes Your Immune System
-   Source: Nautilus
-
-REFERENCES:
-
-1. DRAFT SSERVI Cooperative Agreement Notice Released
-   https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/draft-sservi-cooperative-agreement-notice-released/
-
-2. A global capital for AI safety is emerging — and it's not in Silicon Valley
-   https://www.nature.com/articles/d41586-026-01389-9
-
-3. NASA Taps SpaceX’s Starlink to Deliver Artemis III Imagery from Orion
-   https://www.nasa.gov/blogs/missions/2026/07/16/nasa-taps-spacexs-starlink-to-deliver-artemis-iii-imagery-from-orion/
-
-4. NASA Study Finds Near-Earth Asteroid Is Actually Comet
-   https://www.nasa.gov/solar-system/comets/nasa-study-finds-near-earth-asteroid-is-actually-comet/
-
-5. How NASA’s Artemis III Lander Test Will Pave Way for Moon Landings
-   https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/how-nasas-artemis-iii-lander-test-will-pave-way-for-moon-landings/
-
-6. Why do astronauts’ bodies waste away? Space-station study points to mitochondria
-   https://www.nature.com/articles/d41586-026-02089-0
-
-7. How This Emerging Tick-borne Virus Escapes Your Immune System
-   https://nautil.us/how-this-emerging-tick-borne-virus-escapes-your-immune-system-1282736/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-17/newspaper.pdf]]></description>
-      <pubDate>Fri, 17 Jul 2026 09:26:25 -0000</pubDate>
-      <guid isPermaLink="false">2026-07-17</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-17.mp3" length="7083198" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. DRAFT SSERVI Cooperative Agreement Notice Released
-   Source: NASA Science
-2. A global capital for AI safety is emerging — and it's not in Silicon Valley
-   Source: Nature News
-3. NASA Taps SpaceX’s Starlink to Deliver Artemis III Imagery from Orion
-   Source: NASA Science
-4. NASA Study Finds Near-Earth Asteroid Is Actually Comet
-   Source: NASA News
-5. How NASA’s Artemis III Lander Test Will Pave Way for Moon Landings
-   Source: NASA News
-6. Why do astronauts’ bodies waste away? Space-station study points to mitochondria
-   Source: Nature News
-7. How This Emerging Tick-borne Virus Escapes Your Immune System
-   Source: Nautilus
-
-REFERENCES:
-
-1. DRAFT SSERVI Cooperative Agreement Notice Released
-   https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/draft-sservi-cooperative-agreement-notice-released/
-
-2. A global capital for AI safety is emerging — and it's not in Silicon Valley
-   https://www.nature.com/articles/d41586-026-01389-9
-
-3. NASA Taps SpaceX’s Starlink to Deliver Artemis III Imagery from Orion
-   https://www.nasa.gov/blogs/missions/2026/07/16/nasa-taps-spacexs-starlink-to-deliver-artemis-iii-imagery-from-orion/
-
-4. NASA Study Finds Near-Earth Asteroid Is Actually Comet
-   https://www.nasa.gov/solar-system/comets/nasa-study-finds-near-earth-asteroid-is-actually-comet/
-
-5. How NASA’s Artemis III Lander Test Will Pave Way for Moon Landings
-   https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/how-nasas-artemis-iii-lander-test-will-pave-way-for-moon-landings/
-
-6. Why do astronauts’ bodies waste away? Space-station study points to mitochondria
-   https://www.nature.com/articles/d41586-026-02089-0
-
-7. How This Emerging Tick-borne Virus Escapes Your Immune System
-   https://nautil.us/how-this-emerging-tick-borne-virus-escapes-your-immune-system-1282736/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-17/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:55</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-17/episode-art.png"/>
     </item>
   </channel>
 </rss>
