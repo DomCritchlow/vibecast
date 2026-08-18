@@ -1,0 +1,68 @@
+{
+  "guid": "2026-08-18",
+  "date": "2026-08-18T08:00:39.442171",
+  "title": "AI Tool Designers, Moon Wheels & Curiosity Turns 14",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 368.84210526315786,
+  "duration_formatted": "6:08",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-18.mp3",
+    "audio_size_bytes": 7806102,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-18/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-18/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-08-18.txt"
+  },
+  "stories": [
+    {
+      "title": "Why AI systems are most useful as designers of new scientific tools",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02529-x",
+      "summary": "Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02529-xHistory shows that breakthroughs are often sparked by innovative instruments, and AI’s ability to help design them might be its most important scientific contribution."
+    },
+    {
+      "title": "NASA Challenge Tests Wheel Designs for Moon Base Mobility",
+      "source": "NASA News",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-challenge-tests-wheel-designs-for-moon-base-mobility/",
+      "summary": "As NASA prepares to establish the Moon Base, advancing surface mobility will be key to helping crews and robotic systems travel farther across the lunar surface. To help advance that capability, the Rock and Roll with NASA Challenge invited public innovators to design and build next-generation lunar rover wheels. Five teams from 128 submissions and 49 countries advanced to the final phase of the […]"
+    },
+    {
+      "title": "Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4975-4981-happy-14th-landing-anniversary/",
+      "summary": "By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, Aug. 7, 2026 This week was very special for the Curiosity team here on Earth as we celebrated the 14th landing anniversary. I still remember watching the buildup to the entry phase on “Eyes on the Solar System” […] The post Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary appeared first on NASA Science."
+    },
+    {
+      "title": "Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary",
+      "source": "NASA News",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4975-4981-happy-14th-landing-anniversary/",
+      "summary": "By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, Aug. 7, 2026 This week was very special for the Curiosity team here on Earth as we celebrated the 14th landing anniversary. I still remember watching the buildup to the entry phase on “Eyes on the Solar System” […]"
+    },
+    {
+      "title": "Positional isomerisation of pyridine via nitrogen transposition",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-11006-4",
+      "summary": "Nature, Published online: 17 August 2026; doi:10.1038/s41586-026-11006-4Positional isomerisation of pyridine via nitrogen transposition"
+    },
+    {
+      "title": "Building a practical path to post-quantum cryptography",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
+      "summary": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is a manageable evolution, not a crisis. The mathematics behind today’s encrypted digital transactions may…"
+    },
+    {
+      "title": "Everything You Believe About Taking a Full Course of Antibiotics and Bacterial Resistance Is Wrong",
+      "source": "Nautilus",
+      "url": "https://nautil.us/everything-you-believe-about-taking-a-full-course-of-antibiotics-and-bacterial-resistance-is-wrong-1283911/",
+      "summary": "But obviously talk to your doctor The post Everything You Believe About Taking a Full Course of Antibiotics and Bacterial Resistance Is Wrong appeared first on Nautilus."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-08-18T08:00:39.442171",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}

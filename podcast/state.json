@@ -1,12 +1,5 @@
 {
   "url_timestamps": {
-    "https://www.nature.com/articles/d41586-026-01596-4": "2026-05-20T07:47:34.524957",
-    "https://www.nature.com/articles/s41586-026-10652-y": "2026-05-20T07:47:34.524957",
-    "https://openai.com/index/advancing-content-provenance": "2026-05-20T07:47:34.524957",
-    "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/": "2026-05-20T07:47:34.524957",
-    "https://deepmind.google/blog/opening-new-paths-in-aging-research/": "2026-05-20T07:47:34.524957",
-    "https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/": "2026-05-20T07:47:34.524957",
-    "https://www.technologyreview.com/2026/05/19/1137471/colossal-biosciences-is-growing-chickens-in-a-3d-printed-container/": "2026-05-20T07:47:34.524957",
     "https://www.nasa.gov/science-research/earth-science/nasa-developed-ai-could-help-track-harmful-algae/": "2026-05-21T07:57:12.492813",
     "https://www.nature.com/articles/d41586-026-01627-0": "2026-05-21T07:57:12.492813",
     "https://www.space.com/astronomy/neptune/where-did-neptunes-mysterious-moon-nereid-come-from-it-may-be-the-only-survivor-of-the-planets-violent-history": "2026-05-21T07:57:12.492813",
@@ -593,9 +586,15 @@
     "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/": "2026-08-17T08:05:13.689633",
     "https://stratechery.com/2026/apple-earnings-more-on-amazons-earnings/": "2026-08-17T08:05:13.689633",
     "https://huggingface.co/blog/allenai/olmoearth-embeddings": "2026-08-17T08:05:13.689633",
-    "https://nautil.us/female-treefrogs-get-overwhelmed-by-too-many-noisy-male-suitors-1283821/": "2026-08-17T08:05:13.689633"
+    "https://nautil.us/female-treefrogs-get-overwhelmed-by-too-many-noisy-male-suitors-1283821/": "2026-08-17T08:05:13.689633",
+    "https://www.nature.com/articles/d41586-026-02529-x": "2026-08-18T08:00:39.442171",
+    "https://www.nasa.gov/centers-and-facilities/johnson/nasa-challenge-tests-wheel-designs-for-moon-base-mobility/": "2026-08-18T08:00:39.442171",
+    "https://science.nasa.gov/blog/curiosity-blog-sols-4975-4981-happy-14th-landing-anniversary/": "2026-08-18T08:00:39.442171",
+    "https://www.nature.com/articles/s41586-026-11006-4": "2026-08-18T08:00:39.442171",
+    "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/": "2026-08-18T08:00:39.442171",
+    "https://nautil.us/everything-you-believe-about-taking-a-full-course-of-antibiotics-and-bacterial-resistance-is-wrong-1283911/": "2026-08-18T08:00:39.442171"
   },
-  "last_run": "2026-08-17T08:05:13.689633",
+  "last_run": "2026-08-18T08:00:39.442171",
   "special_dates": [
     "2026-07-10",
     "2026-07-17",
