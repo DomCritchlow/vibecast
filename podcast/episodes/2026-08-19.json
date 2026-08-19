@@ -1,0 +1,68 @@
+{
+  "guid": "2026-08-19",
+  "date": "2026-08-19T08:01:32.127096",
+  "title": "NIH Grant Overhaul & Mojo Goes Open Source",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 369.2631578947368,
+  "duration_formatted": "6:09",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-19.mp3",
+    "audio_size_bytes": 7807983,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-19/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-19/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-08-19.txt"
+  },
+  "stories": [
+    {
+      "title": "NIH proposes major revamp of how it scores research grant proposals",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02584-4",
+      "summary": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02584-4Proponents argue that the current system creates a false sense of precision, but critics fear that the change could increase political interference."
+    },
+    {
+      "title": "NASA Glenn’s Legacy Forged Through Decades of Flight Research",
+      "source": "NASA News",
+      "url": "https://www.nasa.gov/general/nasa-glenn-inflight-research/",
+      "summary": "Many of NASA’s most important aerospace breakthroughs that began in the laboratory were ultimately proven in the sky. For decades, experts at NASA’s Glenn Research Center in Cleveland conducted flight tests — piloting aircraft into targeted environments such as icing clouds and carefully defined atmospheric routes. This approach allowed them to collect measurements directly in flight, providing critical data […]"
+    },
+    {
+      "title": "Heatwaves expose weak links in food systems",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02577-3",
+      "summary": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02577-3Heatwaves expose weak links in food systems"
+    },
+    {
+      "title": "Mojo🔥 is now open source",
+      "source": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
+      "summary": "Mojo🔥 is now open source Mojo🔥 is now open source The Mojo programming language has been promising an open source release since May 2023. Last week they shipped their 1.0 and today they have followed through on that original promise, releasing the compiler and toolchain under an Apache 2 license. When Mojo first launched the stated goal was to produce a superset of Python, so existing Python code could be used to bootstrap their own ecosystem. That plan changed around August 2025: Mojo may or may not evolve into a full superset of Python, and it’s okay if it doesn’t. We’re encouraged by how well AI-assisted coding tools already help migrate Python to Mojo today, and we’re confident that future tooling and ecosystem maturity will make this evolution even smoother. Today Mojo is its own language, optimized to make GPU programming as painless as possible using syntax inspired by Python, if not 100% compatible with existing code. Via Lobste.rs Tags: open-source, python, mojo"
+    },
+    {
+      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/asana",
+      "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K."
+    },
+    {
+      "title": "NASA’s B777 Gets New Coat of Paint",
+      "source": "NASA News",
+      "url": "https://www.nasa.gov/image-article/nasas-b777-gets-new-coat-of-paint/",
+      "summary": "NASA’s Boeing 777 shows off a new paint job in this Aug. 11, 2026, photo. The B777 was acquired to replace and extend the capabilities of the NASA DC-8, which was retired in 2024. The B777, set to begin operations from NASA’s Langley Research Center in Hampton, Virginia in 2027, will be a unique flying […]"
+    },
+    {
+      "title": "How Paying Attention to Pain Could Help You Heal Faster",
+      "source": "Nautilus",
+      "url": "https://nautil.us/how-paying-attention-to-pain-could-help-you-heal-faster-1283936/",
+      "summary": "Close attention might be part of your immune system The post How Paying Attention to Pain Could Help You Heal Faster appeared first on Nautilus."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-08-19T08:01:32.127096",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}
