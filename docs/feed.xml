@@ -8,7 +8,7 @@
     <link>https://critchlow.us/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 08:04:26 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 08:06:46 -0000</lastBuildDate>
     <atom:link href="https://critchlow.us/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://critchlow.us/vibecast/</link>
     </image>
     <itunes:image href="https://critchlow.us/vibecast/artwork.png"/>
+    <item>
+      <title>Skull Immune Secrets &amp; TikTok&#x27;s Cave Fish Discovery</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Functional role of skull lymphoid structures in CNS immunosurveillance
+   Source: Nature News
+2. Increasing CO2 levels fertilize C4 grass production
+   Source: Nature News
+3. smolmachines / smolvm as a sandbox for untrusted Python & JavaScript
+   Source: Simon Willison
+4. TikTok Discovered a Blind, Pale, Worm-Like Fish
+   Source: Nautilus
+5. Samuel Kim
+   Source: NASA Science
+6. Human-Related Microbes May Survive Moon’s South Pole, NASA Finds
+   Source: NASA News
+7. Is NSF’s new call for research proposals good news? Scientists and staffers have doubts
+   Source: Science.org News
+
+REFERENCES:
+
+1. Functional role of skull lymphoid structures in CNS immunosurveillance
+   https://www.nature.com/articles/s41586-026-10951-4
+
+2. Increasing CO2 levels fertilize C4 grass production
+   https://www.nature.com/articles/s41586-026-10935-4
+
+3. smolmachines / smolvm as a sandbox for untrusted Python & JavaScript
+   https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/
+
+4. TikTok Discovered a Blind, Pale, Worm-Like Fish
+   https://nautil.us/tiktok-discovered-a-blind-pale-worm-like-fish-1283977/
+
+5. Samuel Kim
+   https://www.nasa.gov/people/skim/
+
+6. Human-Related Microbes May Survive Moon’s South Pole, NASA Finds
+   https://science.nasa.gov/humans-in-space/human-related-microbes-may-survive-moons-south-pole-nasa-finds/
+
+7. Is NSF’s new call for research proposals good news? Scientists and staffers have doubts
+   https://www.science.org/content/article/nsf-s-new-call-research-proposals-good-news-scientists-and-staffers-have-doubts
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-20/newspaper.pdf]]></description>
+      <pubDate>Thu, 20 Aug 2026 08:03:21 -0000</pubDate>
+      <guid isPermaLink="false">2026-08-20</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-20.mp3" length="7475705" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Functional role of skull lymphoid structures in CNS immunosurveillance
+   Source: Nature News
+2. Increasing CO2 levels fertilize C4 grass production
+   Source: Nature News
+3. smolmachines / smolvm as a sandbox for untrusted Python & JavaScript
+   Source: Simon Willison
+4. TikTok Discovered a Blind, Pale, Worm-Like Fish
+   Source: Nautilus
+5. Samuel Kim
+   Source: NASA Science
+6. Human-Related Microbes May Survive Moon’s South Pole, NASA Finds
+   Source: NASA News
+7. Is NSF’s new call for research proposals good news? Scientists and staffers have doubts
+   Source: Science.org News
+
+REFERENCES:
+
+1. Functional role of skull lymphoid structures in CNS immunosurveillance
+   https://www.nature.com/articles/s41586-026-10951-4
+
+2. Increasing CO2 levels fertilize C4 grass production
+   https://www.nature.com/articles/s41586-026-10935-4
+
+3. smolmachines / smolvm as a sandbox for untrusted Python & JavaScript
+   https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/
+
+4. TikTok Discovered a Blind, Pale, Worm-Like Fish
+   https://nautil.us/tiktok-discovered-a-blind-pale-worm-like-fish-1283977/
+
+5. Samuel Kim
+   https://www.nasa.gov/people/skim/
+
+6. Human-Related Microbes May Survive Moon’s South Pole, NASA Finds
+   https://science.nasa.gov/humans-in-space/human-related-microbes-may-survive-moons-south-pole-nasa-finds/
+
+7. Is NSF’s new call for research proposals good news? Scientists and staffers have doubts
+   https://www.science.org/content/article/nsf-s-new-call-research-proposals-good-news-scientists-and-staffers-have-doubts
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-20/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>6:05</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-20/episode-art.png"/>
+    </item>
     <item>
       <title>NIH Grant Overhaul &amp; Mojo Goes Open Source</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>6:03</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-21/episode-art.png"/>
-    </item>
-    <item>
-      <title>Space Mirrors, AI Hiring Bias &amp; India&#x27;s Rocket Debut</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. The science of foresight: how to future-proof your research
-   Source: Nature News
-2. Can giant space mirrors boost green energy on Earth? A start-up aims to find out
-   Source: Nature News
-3. AI is more likely than humans to form biases when hiring
-   Source: MIT Technology Review
-4. Quoting Kimi K3
-   Source: Simon Willison
-5. India's first privately-developed rocket reaches orbit on dramatic debut launch
-   Source: Ars Technica
-6. The Pentagon's Space Development Agency hasn't moved as fast as anyone would like
-   Source: Ars Technica
-7. Giant Finn Beneath Lund Cathedral in Centrala staden, Sweden
-   Source: Atlas Obscura
-
-REFERENCES:
-
-1. The science of foresight: how to future-proof your research
-   https://www.nature.com/articles/d41586-026-02231-y
-
-2. Can giant space mirrors boost green energy on Earth? A start-up aims to find out
-   https://www.nature.com/articles/d41586-026-02218-9
-
-3. AI is more likely than humans to form biases when hiring
-   https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/
-
-4. Quoting Kimi K3
-   https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything
-
-5. India's first privately-developed rocket reaches orbit on dramatic debut launch
-   https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/
-
-6. The Pentagon's Space Development Agency hasn't moved as fast as anyone would like
-   https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/
-
-7. Giant Finn Beneath Lund Cathedral in Centrala staden, Sweden
-   https://www.atlasobscura.com/places/giant-finn-beneath-lund-cathedral
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-20/newspaper.pdf]]></description>
-      <pubDate>Mon, 20 Jul 2026 10:23:49 -0000</pubDate>
-      <guid isPermaLink="false">2026-07-20</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-20.mp3" length="7570373" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. The science of foresight: how to future-proof your research
-   Source: Nature News
-2. Can giant space mirrors boost green energy on Earth? A start-up aims to find out
-   Source: Nature News
-3. AI is more likely than humans to form biases when hiring
-   Source: MIT Technology Review
-4. Quoting Kimi K3
-   Source: Simon Willison
-5. India's first privately-developed rocket reaches orbit on dramatic debut launch
-   Source: Ars Technica
-6. The Pentagon's Space Development Agency hasn't moved as fast as anyone would like
-   Source: Ars Technica
-7. Giant Finn Beneath Lund Cathedral in Centrala staden, Sweden
-   Source: Atlas Obscura
-
-REFERENCES:
-
-1. The science of foresight: how to future-proof your research
-   https://www.nature.com/articles/d41586-026-02231-y
-
-2. Can giant space mirrors boost green energy on Earth? A start-up aims to find out
-   https://www.nature.com/articles/d41586-026-02218-9
-
-3. AI is more likely than humans to form biases when hiring
-   https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/
-
-4. Quoting Kimi K3
-   https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything
-
-5. India's first privately-developed rocket reaches orbit on dramatic debut launch
-   https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/
-
-6. The Pentagon's Space Development Agency hasn't moved as fast as anyone would like
-   https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/
-
-7. Giant Finn Beneath Lund Cathedral in Centrala staden, Sweden
-   https://www.atlasobscura.com/places/giant-finn-beneath-lund-cathedral
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-20/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>6:02</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-20/episode-art.png"/>
     </item>
   </channel>
 </rss>

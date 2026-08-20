@@ -1,0 +1,68 @@
+{
+  "guid": "2026-08-20",
+  "date": "2026-08-20T08:03:21.721362",
+  "title": "Skull Immune Secrets & TikTok's Cave Fish Discovery",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 365.0526315789474,
+  "duration_formatted": "6:05",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-20.mp3",
+    "audio_size_bytes": 7475705,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-20/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-20/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-08-20.txt"
+  },
+  "stories": [
+    {
+      "title": "Functional role of skull lymphoid structures in CNS immunosurveillance",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10951-4",
+      "summary": "Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10951-4Functional lymphoid structures within the skull bone marrow enable central nervous system immunosurveillance and shape immune responses to brain disease."
+    },
+    {
+      "title": "Increasing CO2 levels fertilize C4 grass production",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10935-4",
+      "summary": "Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10935-4By combining a meta-analysis of CO2 enrichment experiments with three decades of southern African savanna observations, an increase in biomass production by C4 grasses under rising CO2 levels in water-limited environments is revealed."
+    },
+    {
+      "title": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
+      "source": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
+      "summary": "Research: smolmachines / smolvm as a sandbox for untrusted Python & JavaScript I tasked Claude Fable 5 running in Claude Code for web with the following research task: Put https://smolmachines.com through its paces as a fast secure sandbox. Explore what it would take to use this to run untrusted Python and JavaScript code in a way that is limited in what RAM and CPU time it can take up (protection against \"while true\") with no network access and filesystem access only to designated files Goal is to be able to use this to execute user-provided tasks for things like data transformations It quickly ran into a problem: the Claude Code for web environment can't run smol machines. Quoting the notes it wrote: This Claude Code container: Linux 6.18.5-fc-v20 (itself a Firecracker guest), 4 vCPU, 15GB RAM. No /dev/kvm, no vmx/svm CPU flags → no nested virt. smolvm machine run fails as expected: \"kvm not available\". Plan B: GitHub Actions ubuntu runners DO expose /dev/kvm → run the real test b..."
+    },
+    {
+      "title": "TikTok Discovered a Blind, Pale, Worm-Like Fish",
+      "source": "Nautilus",
+      "url": "https://nautil.us/tiktok-discovered-a-blind-pale-worm-like-fish-1283977/",
+      "summary": "Researchers had a tough time locating it The post TikTok Discovered a Blind, Pale, Worm-Like Fish appeared first on Nautilus."
+    },
+    {
+      "title": "Samuel Kim",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/people/skim/",
+      "summary": "NASA Ames Research Center Contact email: sam.kim@nasa.gov phone: 650-604-4384 The post Samuel Kim appeared first on NASA Science."
+    },
+    {
+      "title": "Human-Related Microbes May Survive Moon’s South Pole, NASA Finds",
+      "source": "NASA News",
+      "url": "https://science.nasa.gov/humans-in-space/human-related-microbes-may-survive-moons-south-pole-nasa-finds/",
+      "summary": "Lee esta historia en español aquí. Some of Earth’s microbes likely to hitch a ride to space with human explorers could survive in the shaded nooks and crannies of the Moon’s South Pole region, NASA scientists say. Published on Aug. 19, 2026, in Science Advances, these findings highlight a need to better understand microbial persistence […]"
+    },
+    {
+      "title": "Is NSF’s new call for research proposals good news? Scientists and staffers have doubts",
+      "source": "Science.org News",
+      "url": "https://www.science.org/content/article/nsf-s-new-call-research-proposals-good-news-scientists-and-staffers-have-doubts",
+      "summary": "The long-delayed 12 solicitations only cover some disciplines—and promise to give them much less money"
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-08-20T08:03:21.721362",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}
