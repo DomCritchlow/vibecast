@@ -1,0 +1,68 @@
+{
+  "guid": "2026-08-21",
+  "date": "2026-08-21T08:03:29.707083",
+  "title": "AI Patents & DFT Breakthroughs & Rethinking Intelligence",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 311.614694,
+  "duration_formatted": "5:11",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-21.mp3",
+    "audio_size_bytes": 7479423,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-21/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-21/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-08-21.txt"
+  },
+  "stories": [
+    {
+      "title": "Investors’ sneak peak: can this AI tool spot the science that will lead to patents?",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02549-7",
+      "summary": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02549-7The approach could speed up investment decisions, but researchers say it has flaws."
+    },
+    {
+      "title": "Broadening access to Skala creates a faster path to predictive DFT",
+      "source": "Microsoft Research Blog",
+      "url": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+      "summary": "Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a living benchmark to track computational performance. The post Broadening access to Skala creates a faster path to predictive DFT appeared first on Microsoft Research."
+    },
+    {
+      "title": "AstroNav",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/mission/astronav/",
+      "summary": "Small Spacecraft & Distributed Systems (SSDS)HomeAboutTechnology DemonstrationsPartnershipsWork with UsResourcesS3VI AstroNav Future Mission Enabling real-time, autonomous navigation for self-reliant spacecraft exploring the Moon, Mars, and deep space. Mission Type Technology Demonstration Partner Jet Propulsion Laboratory STATUS In Development Destination Lunar Orbit Introduction Why Now? The Problem A Solution Introduction The AstroNav instrument represents a generational leap […] The post AstroNav appeared first on NASA Science."
+    },
+    {
+      "title": "Are We Thinking Correctly About AI Intelligence?",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/",
+      "summary": "Computer scientist Melanie Mitchell discusses why artificial intelligence doesn’t “think” or “reason” like humans, and how we can create better methods for measuring machine cognition. The post Are We Thinking Correctly About AI Intelligence? first appeared on Quanta Magazine"
+    },
+    {
+      "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-11043-z",
+      "summary": "Nature, Published online: 20 August 2026; doi:10.1038/s41586-026-11043-zDialkyl ether synthesis through heteroatom homolytic substitution"
+    },
+    {
+      "title": "We still don’t know how people are really using AI",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say. “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research…"
+    },
+    {
+      "title": "Even Mussels Get Scared",
+      "source": "Nautilus",
+      "url": "https://nautil.us/even-mussels-get-scared-1284061/",
+      "summary": "And it could have dramatic consequences The post Even Mussels Get Scared appeared first on Nautilus."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-08-21T08:03:29.707083",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "fal",
+    "tts_voice": "SAz9YHcvj6GT2YYXdXww",
+    "special_episode": true
+  }
+}

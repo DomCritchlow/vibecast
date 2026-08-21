@@ -8,7 +8,7 @@
     <link>https://critchlow.us/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2026 08:06:46 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 08:08:35 -0000</lastBuildDate>
     <atom:link href="https://critchlow.us/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://critchlow.us/vibecast/</link>
     </image>
     <itunes:image href="https://critchlow.us/vibecast/artwork.png"/>
+    <item>
+      <title>AI Patents &amp; DFT Breakthroughs &amp; Rethinking Intelligence</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Investors’ sneak peak: can this AI tool spot the science that will lead to patents?
+   Source: Nature News
+2. Broadening access to Skala creates a faster path to predictive DFT
+   Source: Microsoft Research Blog
+3. AstroNav
+   Source: NASA Science
+4. Are We Thinking Correctly About AI Intelligence?
+   Source: Quanta Magazine
+5. Dialkyl ether synthesis through heteroatom homolytic substitution
+   Source: Nature News
+6. We still don’t know how people are really using AI
+   Source: MIT Technology Review
+7. Even Mussels Get Scared
+   Source: Nautilus
+
+REFERENCES:
+
+1. Investors’ sneak peak: can this AI tool spot the science that will lead to patents?
+   https://www.nature.com/articles/d41586-026-02549-7
+
+2. Broadening access to Skala creates a faster path to predictive DFT
+   https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/
+
+3. AstroNav
+   https://www.nasa.gov/mission/astronav/
+
+4. Are We Thinking Correctly About AI Intelligence?
+   https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/
+
+5. Dialkyl ether synthesis through heteroatom homolytic substitution
+   https://www.nature.com/articles/s41586-026-11043-z
+
+6. We still don’t know how people are really using AI
+   https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/
+
+7. Even Mussels Get Scared
+   https://nautil.us/even-mussels-get-scared-1284061/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-21/newspaper.pdf]]></description>
+      <pubDate>Fri, 21 Aug 2026 08:03:29 -0000</pubDate>
+      <guid isPermaLink="false">2026-08-21</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-21.mp3" length="7479423" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Investors’ sneak peak: can this AI tool spot the science that will lead to patents?
+   Source: Nature News
+2. Broadening access to Skala creates a faster path to predictive DFT
+   Source: Microsoft Research Blog
+3. AstroNav
+   Source: NASA Science
+4. Are We Thinking Correctly About AI Intelligence?
+   Source: Quanta Magazine
+5. Dialkyl ether synthesis through heteroatom homolytic substitution
+   Source: Nature News
+6. We still don’t know how people are really using AI
+   Source: MIT Technology Review
+7. Even Mussels Get Scared
+   Source: Nautilus
+
+REFERENCES:
+
+1. Investors’ sneak peak: can this AI tool spot the science that will lead to patents?
+   https://www.nature.com/articles/d41586-026-02549-7
+
+2. Broadening access to Skala creates a faster path to predictive DFT
+   https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/
+
+3. AstroNav
+   https://www.nasa.gov/mission/astronav/
+
+4. Are We Thinking Correctly About AI Intelligence?
+   https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/
+
+5. Dialkyl ether synthesis through heteroatom homolytic substitution
+   https://www.nature.com/articles/s41586-026-11043-z
+
+6. We still don’t know how people are really using AI
+   https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/
+
+7. Even Mussels Get Scared
+   https://nautil.us/even-mussels-get-scared-1284061/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-21/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>5:11</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-21/episode-art.png"/>
+    </item>
     <item>
       <title>Skull Immune Secrets &amp; TikTok&#x27;s Cave Fish Discovery</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>6:02</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-22/episode-art.png"/>
-    </item>
-    <item>
-      <title>Hybrid-Electric Flight &amp; NIH Smuggling Uproar</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration
-   Source: NASA Science
-2. NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration
-   Source: NASA News
-3. Amendment 64: New Opportunity: A.15 Biosphere
-   Source: NASA Science
-4. Detailed maps of European wetlands reveal overlooked patches of ecosystems
-   Source: Nature News
-5. Smuggling charges against NIH virologists trigger political uproar
-   Source: Nature News
-6. From Hampton to Mars: How NASA Langley Helped Land on the Red Planet
-   Source: NASA News
-7. Umtanum Creek Footbridge in Ellensburg, Washington
-   Source: Atlas Obscura
-
-REFERENCES:
-
-1. NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration
-   https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/
-
-2. NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration
-   https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/
-
-3. Amendment 64: New Opportunity: A.15 Biosphere
-   https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-64-new-opportunity-a-15-biosphere/
-
-4. Detailed maps of European wetlands reveal overlooked patches of ecosystems
-   https://www.nature.com/articles/d41586-026-02211-2
-
-5. Smuggling charges against NIH virologists trigger political uproar
-   https://www.nature.com/articles/d41586-026-01995-7
-
-6. From Hampton to Mars: How NASA Langley Helped Land on the Red Planet
-   https://www.nasa.gov/general/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/
-
-7. Umtanum Creek Footbridge in Ellensburg, Washington
-   https://www.atlasobscura.com/places/umtanum-footbridge
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-21/newspaper.pdf]]></description>
-      <pubDate>Tue, 21 Jul 2026 09:58:26 -0000</pubDate>
-      <guid isPermaLink="false">2026-07-21</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-21.mp3" length="7888857" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration
-   Source: NASA Science
-2. NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration
-   Source: NASA News
-3. Amendment 64: New Opportunity: A.15 Biosphere
-   Source: NASA Science
-4. Detailed maps of European wetlands reveal overlooked patches of ecosystems
-   Source: Nature News
-5. Smuggling charges against NIH virologists trigger political uproar
-   Source: Nature News
-6. From Hampton to Mars: How NASA Langley Helped Land on the Red Planet
-   Source: NASA News
-7. Umtanum Creek Footbridge in Ellensburg, Washington
-   Source: Atlas Obscura
-
-REFERENCES:
-
-1. NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration
-   https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/
-
-2. NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration
-   https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/
-
-3. Amendment 64: New Opportunity: A.15 Biosphere
-   https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-64-new-opportunity-a-15-biosphere/
-
-4. Detailed maps of European wetlands reveal overlooked patches of ecosystems
-   https://www.nature.com/articles/d41586-026-02211-2
-
-5. Smuggling charges against NIH virologists trigger political uproar
-   https://www.nature.com/articles/d41586-026-01995-7
-
-6. From Hampton to Mars: How NASA Langley Helped Land on the Red Planet
-   https://www.nasa.gov/general/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/
-
-7. Umtanum Creek Footbridge in Ellensburg, Washington
-   https://www.atlasobscura.com/places/umtanum-footbridge
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-21/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>6:03</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-21/episode-art.png"/>
     </item>
   </channel>
 </rss>
