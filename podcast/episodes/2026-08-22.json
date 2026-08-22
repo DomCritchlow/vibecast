@@ -1,0 +1,68 @@
+{
+  "guid": "2026-08-22",
+  "date": "2026-08-22T07:52:22.562964",
+  "title": "Spacewalk Preps, Solar Eclipse Views & AI in Games",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 357.89473684210526,
+  "duration_formatted": "5:57",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-22.mp3",
+    "audio_size_bytes": 7182925,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-22/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-22/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-08-22.txt"
+  },
+  "stories": [
+    {
+      "title": "TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA) Code",
+      "source": "NASA News",
+      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-updates-and-modernization-of-nasas-chemical-equilibrium-with-applications-cea-code/",
+      "summary": "For more information, contact Mark K. Leader, Glenn Research Center, mark.leader@nasa.gov Download the PDF version NASA’s Chemical Equilibrium with Applications (CEA) code is a foundational tool for propulsion system analysis. It provides equilibrium chemistry, rocket performance, shock, and detonation calculations used across NASA and the broader aerospace community. NASA Engineering and Safety Center (NESC) Activity […]"
+    },
+    {
+      "title": "Week Ends With Spacewalk Preps and Space Exercise Research",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/08/21/week-ends-with-spacewalk-preps-and-space-exercise-research/",
+      "summary": "The Expedition 75 crew wrapped up the work week getting ready for a spacewalk to finish installing a high-speed antenna on the International Space Station. The orbital residents also explored new space exercise techniques, studied the human respiratory system, and completed an Earth observation session. On Friday, flight engineers Anil Menon of NASA and Sophie […] The post Week Ends With Spacewalk Preps and Space Exercise Research appeared first on NASA Science."
+    },
+    {
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
+    },
+    {
+      "title": "NASA Integrated Medical Model (IMM) Overview",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/nasa-integrated-medical-model-imm-overview/",
+      "summary": "What is the IMM? The Integrated Medical Model (IMM) is a sophisticated, stochastic (probabilistic) risk assessment tool used by NASA to evaluate the impact of medical events during spaceflight. By utilizing Monte Carlo simulation methodologies and historical medical data, the IMM helps mission planners evaluate in-flight crew health requirements, forecast potential medical risks, and optimize […] The post NASA Integrated Medical Model (IMM) Overview appeared first on NASA Science."
+    },
+    {
+      "title": "NASA Shares Views of August Solar Eclipse from Ground, Air, Space",
+      "source": "NASA News",
+      "url": "https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/",
+      "summary": "On Aug. 12, a total solar eclipse darkened skies over Greenland, Iceland, and Spain. As the Moon covered the Sun, it briefly revealed the Sun’s wispy outer atmosphere — the corona — to those in the path of totality who were lucky enough to have clear skies. NASA researchers and photographers were along the eclipse […]"
+    },
+    {
+      "title": "‘Huge Breakthrough’ in the Math of Imbalance",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/",
+      "summary": "For the first time in 30 years, computer scientists have found a better way to allocate objects evenly between two groups. The post ‘Huge Breakthrough’ in the Math of Imbalance first appeared on Quanta Magazine"
+    },
+    {
+      "title": "Jingling Pot in England",
+      "source": "Atlas Obscura",
+      "url": "https://www.atlasobscura.com/places/jingling-pot",
+      "summary": "Jingling Pot is one of the most popular vertical cave systems in the West Kingsdale area of Yorkshire. The cave, or as is known locally, pothole (pit cave in American English), is on the flanks of one of Yorkshires finest mountains, Wherneside. It is about 145 feet deep and explorers have the option of a direct abseil (rappel) descent down the main shaft or, a traverse, a few feet from the top into the Lateral Cleft. When I did this cave it was via an exciting swing across the gap into the cleft with the rope anchored to a rowan tree on the lip of the pothole but I understand that this is, unfortunately, no longer encouraged because of the condition of the tree and loose rocks. The Lateral Cleft which leads to a series of shorter vertical drops to join up with the route at the bottom of the main shaft. The direct descent and the climb back up using single rope technique offers an exciting degree of exposure and some spectacular and atmospheric views but the lateral cleft route offer..."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-08-22T07:52:22.562964",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}
