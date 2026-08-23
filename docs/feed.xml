@@ -8,7 +8,7 @@
     <link>https://critchlow.us/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2026 07:55:00 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 07:57:10 -0000</lastBuildDate>
     <atom:link href="https://critchlow.us/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://critchlow.us/vibecast/</link>
     </image>
     <itunes:image href="https://critchlow.us/vibecast/artwork.png"/>
+    <item>
+      <title>Curiosity Rover, Narcolepsy Drug &amp; Thunder Geology</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. CRM-HL
+   Source: NASA Science
+2. Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming
+   Source: NASA Science
+3. Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming
+   Source: NASA News
+4. Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies
+   Source: Nature News
+5. Earth-shaking thunder probes underground geology
+   Source: Nature News
+6. When AI designs a drug, who gets the credit?
+   Source: MIT Technology Review
+7. Gin Drinkers Line in Hong Kong
+   Source: Atlas Obscura
+
+REFERENCES:
+
+1. CRM-HL
+   https://www.nasa.gov/common_research_model/crm-hl/
+
+2. Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming
+   https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/
+
+3. Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming
+   https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/
+
+4. Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies
+   https://www.nature.com/articles/d41586-026-02626-x
+
+5. Earth-shaking thunder probes underground geology
+   https://www.nature.com/articles/d41586-026-02596-0
+
+6. When AI designs a drug, who gets the credit?
+   https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/
+
+7. Gin Drinkers Line in Hong Kong
+   https://www.atlasobscura.com/places/gin-drinkers-line
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-23/newspaper.pdf]]></description>
+      <pubDate>Sun, 23 Aug 2026 07:54:36 -0000</pubDate>
+      <guid isPermaLink="false">2026-08-23</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-23.mp3" length="7422416" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. CRM-HL
+   Source: NASA Science
+2. Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming
+   Source: NASA Science
+3. Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming
+   Source: NASA News
+4. Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies
+   Source: Nature News
+5. Earth-shaking thunder probes underground geology
+   Source: Nature News
+6. When AI designs a drug, who gets the credit?
+   Source: MIT Technology Review
+7. Gin Drinkers Line in Hong Kong
+   Source: Atlas Obscura
+
+REFERENCES:
+
+1. CRM-HL
+   https://www.nasa.gov/common_research_model/crm-hl/
+
+2. Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming
+   https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/
+
+3. Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming
+   https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/
+
+4. Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies
+   https://www.nature.com/articles/d41586-026-02626-x
+
+5. Earth-shaking thunder probes underground geology
+   https://www.nature.com/articles/d41586-026-02596-0
+
+6. When AI designs a drug, who gets the credit?
+   https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/
+
+7. Gin Drinkers Line in Hong Kong
+   https://www.atlasobscura.com/places/gin-drinkers-line
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-23/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>6:21</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-23/episode-art.png"/>
+    </item>
     <item>
       <title>Spacewalk Preps, Solar Eclipse Views &amp; AI in Games</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>5:00</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-24/episode-art.png"/>
-    </item>
-    <item>
-      <title>Quantum Computing, CRISPR Defense &amp; JWST Cycle 6</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. How do quantum computers work?
-   Source: Nature News
-2. CRISPR–Cas regulates expression of embedded anti-phage defence systems
-   Source: Nature News
-3. NTT DATA Group cuts incident analysis to 30 minutes with Codex
-   Source: OpenAI News
-4. JWST Cycle 6 Call for Proposals
-   Source: NASA Science
-5. Small Steps, Giant Leaps: Episode 178: Science – It Takes a Village (in Alabama)
-   Source: NASA Science
-6. NASA to Showcase Agency’s Newest Wind Tunnel in Virginia
-   Source: NASA News
-7. MTA wraps up $106M renovation of Borough Hall subway where ceiling collapsed in 2018
-   Source: Gothamist (NYC)
-
-REFERENCES:
-
-1. How do quantum computers work?
-   https://www.nature.com/articles/d41586-026-02219-8
-
-2. CRISPR–Cas regulates expression of embedded anti-phage defence systems
-   https://www.nature.com/articles/s41586-026-10833-9
-
-3. NTT DATA Group cuts incident analysis to 30 minutes with Codex
-   https://openai.com/index/ntt-data
-
-4. JWST Cycle 6 Call for Proposals
-   https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/jwst-cycle-6-call-for-proposals/
-
-5. Small Steps, Giant Leaps: Episode 178: Science – It Takes a Village (in Alabama)
-   https://www.nasa.gov/podcasts/small-steps-giant-leaps/small-steps-giant-leaps-episode-178-science-takes-a-village-in-alabama/
-
-6. NASA to Showcase Agency’s Newest Wind Tunnel in Virginia
-   https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/
-
-7. MTA wraps up $106M renovation of Borough Hall subway where ceiling collapsed in 2018
-   https://gothamist.com/news/mta-wraps-up-106m-renovation-of-borough-hall-subway-where-ceiling-collpased-in-2018
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-23/newspaper.pdf]]></description>
-      <pubDate>Thu, 23 Jul 2026 09:44:31 -0000</pubDate>
-      <guid isPermaLink="false">2026-07-23</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-23.mp3" length="7438716" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. How do quantum computers work?
-   Source: Nature News
-2. CRISPR–Cas regulates expression of embedded anti-phage defence systems
-   Source: Nature News
-3. NTT DATA Group cuts incident analysis to 30 minutes with Codex
-   Source: OpenAI News
-4. JWST Cycle 6 Call for Proposals
-   Source: NASA Science
-5. Small Steps, Giant Leaps: Episode 178: Science – It Takes a Village (in Alabama)
-   Source: NASA Science
-6. NASA to Showcase Agency’s Newest Wind Tunnel in Virginia
-   Source: NASA News
-7. MTA wraps up $106M renovation of Borough Hall subway where ceiling collapsed in 2018
-   Source: Gothamist (NYC)
-
-REFERENCES:
-
-1. How do quantum computers work?
-   https://www.nature.com/articles/d41586-026-02219-8
-
-2. CRISPR–Cas regulates expression of embedded anti-phage defence systems
-   https://www.nature.com/articles/s41586-026-10833-9
-
-3. NTT DATA Group cuts incident analysis to 30 minutes with Codex
-   https://openai.com/index/ntt-data
-
-4. JWST Cycle 6 Call for Proposals
-   https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/jwst-cycle-6-call-for-proposals/
-
-5. Small Steps, Giant Leaps: Episode 178: Science – It Takes a Village (in Alabama)
-   https://www.nasa.gov/podcasts/small-steps-giant-leaps/small-steps-giant-leaps-episode-178-science-takes-a-village-in-alabama/
-
-6. NASA to Showcase Agency’s Newest Wind Tunnel in Virginia
-   https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/
-
-7. MTA wraps up $106M renovation of Borough Hall subway where ceiling collapsed in 2018
-   https://gothamist.com/news/mta-wraps-up-106m-renovation-of-borough-hall-subway-where-ceiling-collpased-in-2018
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-23/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>6:10</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-23/episode-art.png"/>
     </item>
   </channel>
 </rss>

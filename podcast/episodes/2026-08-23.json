@@ -1,0 +1,68 @@
+{
+  "guid": "2026-08-23",
+  "date": "2026-08-23T07:54:36.271479",
+  "title": "Curiosity Rover, Narcolepsy Drug & Thunder Geology",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 381.0526315789474,
+  "duration_formatted": "6:21",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-23.mp3",
+    "audio_size_bytes": 7422416,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-23/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-23/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-08-23.txt"
+  },
+  "stories": [
+    {
+      "title": "CRM-HL",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/common_research_model/crm-hl/",
+      "summary": "This website is currently under construction. Please see the full NASA Common Research Model website for current information. CRM-HL A new version of the CRM has been developed – the high lift CRM. Information on this new geometry is located within this menu. Data will be available from a database. Once that database is set […] The post CRM-HL appeared first on NASA Science."
+    },
+    {
+      "title": "Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/",
+      "summary": "By Allison Dries-Padilla, Missions Operations Specialist at Malin Space Science Systems Earth planning date: Friday, Aug. 14, 2026 This week of Curiosity Mars rover operations takes us back to our “regularly scheduled programming.” After taking a slight detour to investigate the “erosional surface” we are back on course to ascend Mount Sharp. As we transition […] The post Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming appeared first on NASA Science."
+    },
+    {
+      "title": "Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming",
+      "source": "NASA News",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/",
+      "summary": "By Allison Dries-Padilla, Missions Operations Specialist at Malin Space Science Systems Earth planning date: Friday, Aug. 14, 2026 This week of Curiosity Mars rover operations takes us back to our “regularly scheduled programming.” After taking a slight detour to investigate the “erosional surface” we are back on course to ascend Mount Sharp. As we transition […]"
+    },
+    {
+      "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02626-x",
+      "summary": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02626-xNature staff discuss how an FDA-approved drug for narcolepsy could have promise beyond the condition, and the longest-lived human brain organoids yet."
+    },
+    {
+      "title": "Earth-shaking thunder probes underground geology",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02596-0",
+      "summary": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02596-0Seismologists measured the varying speeds of a ‘thunderquake’ to survey an area with little seismic activity."
+    },
+    {
+      "title": "When AI designs a drug, who gets the credit?",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+      "summary": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using AI to rapidly come up with drug ideas humans might never think…"
+    },
+    {
+      "title": "Gin Drinkers Line in Hong Kong",
+      "source": "Atlas Obscura",
+      "url": "https://www.atlasobscura.com/places/gin-drinkers-line",
+      "summary": "Stretching 18km between modern day Kwai Chung (then known as Gin Drinkers Bay) to Port Shelter in Sai Kung, the Gin Drinkers Line was a massive defensive structure built by the British army, dubbed as 'the Maginot line of the East'. Construction on the line began in 1936, and took 2 years to complete. The lynch-pin of the entire line was the Shing Mun Redoubt, comprised of a number of pillboxes joined by an intricate network of tunnels, together with the Command Post and the principal artillery observation post for the whole position. Many of the tunnels were named after notable London landmarks to make navigation easier for the troops. The British believed the line to be capable of holding the Japanese invasion at bay for several weeks. But once the Japanese army launched their assault from the north on December 8th, 1941, the line fell after only 2 days. The surviving defenders hastily retreated to Hong Kong Island, remaining there until the British forces surrendered 2 weeks late..."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-08-23T07:54:36.271479",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}
