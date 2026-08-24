@@ -1,0 +1,68 @@
+{
+  "guid": "2026-08-24",
+  "date": "2026-08-24T08:10:26.651146",
+  "title": "Mitochondria Eye Injections & Pro-Worker AI",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 371.7894736842105,
+  "duration_formatted": "6:11",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-24.mp3",
+    "audio_size_bytes": 8112675,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-24/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-24/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-08-24.txt"
+  },
+  "stories": [
+    {
+      "title": "Swept-Wing Icing Research",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/common_research_model/swept-wing-icing-research/",
+      "summary": "This website is currently under construction. Please see the full NASA Common Research Model website for current information. Swept-Wing Icing Research Swept-Wing Icing and Aerodynamics Research Goal of Project Improve the fidelity of experimental and computational simulation methods for swept-wing ice accretion formation and resulting aerodynamic effect. Objectives The post Swept-Wing Icing Research appeared first on NASA Science."
+    },
+    {
+      "title": "Laboratory Astrophysics Newsletter Recent Publications List",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/ames/science/laboratory-astrophysics-newsletter/lab-astro-publications/",
+      "summary": "Broadband spectroscopy of astrophysical ice analogues – V. Optical constants of Ih, Ic, and amorphous H2O ices in the terahertz-infrared range Gavdush, A. A., Ribeiro, F., Matveishina, M. K., et al. Astronomy & Astrophysics, 710, A89 (2026) https://doi.org/10.1051/0004-6361/202659623 The H, C and N abundances and isotopic compositions of samples with outer Solar System heritage: asteroid […] The post Laboratory Astrophysics Newsletter Recent Publications List appeared first on NASA Science."
+    },
+    {
+      "title": "Patient’s own mitochondria injected into eyes in attempt to restore vision",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02616-z",
+      "summary": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02616-zInjection of a person’s own mitochondria into the retina was safe but had only a temporary effect on restoring vision."
+    },
+    {
+      "title": "Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02566-6",
+      "summary": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02566-6Rather than racing to replace people, we should build AI tools that amplify human expertise and expand opportunity."
+    },
+    {
+      "title": "llm 0.33",
+      "source": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Aug/22/llm/",
+      "summary": "Release: llm 0.33 My highlights from this release: Upgraded to the OpenAI Python library 3.x and switched the HTTP client dependency from httpx to httpx2. #1608, #1631 I shipped a quick 0.32.1 fix for this yesterday, but this is the more comprehensive fix. llm embed and llm embed-multi now accept --key. The Python EmbeddingModel.embed(), EmbeddingModel.embed_multi(), Collection.embed() and Collection.embed_multi() methods accept key= too, passing the resolved per-call key to embedding plugins without changing shared model state. Existing plugins that read self.key continue to work through a compatibility fallback. Thanks, ChrisJr404. #757, #1620 The embedding models now use the same pattern for keys that regular LLM models do. llm prompt -t/--template can now be repeated to combine templates in order. This allows model configuration and options from one template to be used with a prompt from another. This unlocks a neat pattern where you can create templates that package a model wit..."
+    },
+    {
+      "title": "Trump's space transportation policy calls for new spaceport on federal land",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
+      "summary": "\"We probably need another site that's capable of heavy and super heavy launch capability.\""
+    },
+    {
+      "title": "The Remarkable Lives of 5-Year-Old Brain Organoids",
+      "source": "Nautilus",
+      "url": "https://nautil.us/the-remarkable-lives-of-5-year-old-brain-organoids-1284120/",
+      "summary": "The mini-brains are full of surprises The post The Remarkable Lives of 5-Year-Old Brain Organoids appeared first on Nautilus."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-08-24T08:10:26.651146",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}

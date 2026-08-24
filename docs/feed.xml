@@ -8,7 +8,7 @@
     <link>https://critchlow.us/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Aug 2026 07:57:10 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 08:13:27 -0000</lastBuildDate>
     <atom:link href="https://critchlow.us/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://critchlow.us/vibecast/</link>
     </image>
     <itunes:image href="https://critchlow.us/vibecast/artwork.png"/>
+    <item>
+      <title>Mitochondria Eye Injections &amp; Pro-Worker AI</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. Swept-Wing Icing Research
+   Source: NASA Science
+2. Laboratory Astrophysics Newsletter Recent Publications List
+   Source: NASA Science
+3. Patient’s own mitochondria injected into eyes in attempt to restore vision
+   Source: Nature News
+4. Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI
+   Source: Nature News
+5. llm 0.33
+   Source: Simon Willison
+6. Trump's space transportation policy calls for new spaceport on federal land
+   Source: Ars Technica
+7. The Remarkable Lives of 5-Year-Old Brain Organoids
+   Source: Nautilus
+
+REFERENCES:
+
+1. Swept-Wing Icing Research
+   https://www.nasa.gov/common_research_model/swept-wing-icing-research/
+
+2. Laboratory Astrophysics Newsletter Recent Publications List
+   https://www.nasa.gov/ames/science/laboratory-astrophysics-newsletter/lab-astro-publications/
+
+3. Patient’s own mitochondria injected into eyes in attempt to restore vision
+   https://www.nature.com/articles/d41586-026-02616-z
+
+4. Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI
+   https://www.nature.com/articles/d41586-026-02566-6
+
+5. llm 0.33
+   https://simonwillison.net/2026/Aug/22/llm/
+
+6. Trump's space transportation policy calls for new spaceport on federal land
+   https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/
+
+7. The Remarkable Lives of 5-Year-Old Brain Organoids
+   https://nautil.us/the-remarkable-lives-of-5-year-old-brain-organoids-1284120/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-24/newspaper.pdf]]></description>
+      <pubDate>Mon, 24 Aug 2026 08:10:26 -0000</pubDate>
+      <guid isPermaLink="false">2026-08-24</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-24.mp3" length="8112675" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. Swept-Wing Icing Research
+   Source: NASA Science
+2. Laboratory Astrophysics Newsletter Recent Publications List
+   Source: NASA Science
+3. Patient’s own mitochondria injected into eyes in attempt to restore vision
+   Source: Nature News
+4. Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI
+   Source: Nature News
+5. llm 0.33
+   Source: Simon Willison
+6. Trump's space transportation policy calls for new spaceport on federal land
+   Source: Ars Technica
+7. The Remarkable Lives of 5-Year-Old Brain Organoids
+   Source: Nautilus
+
+REFERENCES:
+
+1. Swept-Wing Icing Research
+   https://www.nasa.gov/common_research_model/swept-wing-icing-research/
+
+2. Laboratory Astrophysics Newsletter Recent Publications List
+   https://www.nasa.gov/ames/science/laboratory-astrophysics-newsletter/lab-astro-publications/
+
+3. Patient’s own mitochondria injected into eyes in attempt to restore vision
+   https://www.nature.com/articles/d41586-026-02616-z
+
+4. Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI
+   https://www.nature.com/articles/d41586-026-02566-6
+
+5. llm 0.33
+   https://simonwillison.net/2026/Aug/22/llm/
+
+6. Trump's space transportation policy calls for new spaceport on federal land
+   https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/
+
+7. The Remarkable Lives of 5-Year-Old Brain Organoids
+   https://nautil.us/the-remarkable-lives-of-5-year-old-brain-organoids-1284120/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-24/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>6:11</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-24/episode-art.png"/>
+    </item>
     <item>
       <title>Curiosity Rover, Narcolepsy Drug &amp; Thunder Geology</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>6:10</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-26/episode-art.png"/>
-    </item>
-    <item>
-      <title>MAHA Science Check &amp; Mars Auroras Revealed</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. How does Make America Healthy Again hold up against scientific scrutiny?
-   Source: Nature News
-2. Curiosity Blog, Sols 4954–4960: Celebrating Our Rover Engineers Past and Present
-   Source: NASA Science
-3. Expedition 75
-   Source: NASA Science
-4. Curiosity Blog, Sols 4954–4960: Celebrating Our Rover Engineers Past and Present
-   Source: NASA News
-5. NASA’s MAVEN Illuminates New Understanding of Auroras at Mars
-   Source: NASA News
-6. What The Odyssey reveals about ancient science — from botany to psychiatry
-   Source: Nature News
-7. Medieval Strip Farming in England
-   Source: Atlas Obscura
-
-REFERENCES:
-
-1. How does Make America Healthy Again hold up against scientific scrutiny?
-   https://www.nature.com/articles/d41586-026-02024-3
-
-2. Curiosity Blog, Sols 4954–4960: Celebrating Our Rover Engineers Past and Present
-   https://science.nasa.gov/blog/curiosity-blog-sols-4954-4960-celebrating-our-rover-engineers-past-and-present/
-
-3. Expedition 75
-   https://www.nasa.gov/mission/expedition-75/
-
-4. Curiosity Blog, Sols 4954–4960: Celebrating Our Rover Engineers Past and Present
-   https://science.nasa.gov/blog/curiosity-blog-sols-4954-4960-celebrating-our-rover-engineers-past-and-present/
-
-5. NASA’s MAVEN Illuminates New Understanding of Auroras at Mars
-   https://science.nasa.gov/missions/maven/nasas-maven-illuminates-new-understanding-of-auroras-at-mars/
-
-6. What The Odyssey reveals about ancient science — from botany to psychiatry
-   https://www.nature.com/articles/d41586-026-02275-0
-
-7. Medieval Strip Farming in England
-   https://www.atlasobscura.com/places/medieval-strip-farming-around-haxey
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-24/newspaper.pdf]]></description>
-      <pubDate>Fri, 24 Jul 2026 09:42:26 -0000</pubDate>
-      <guid isPermaLink="false">2026-07-24</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-24.mp3" length="7215482" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. How does Make America Healthy Again hold up against scientific scrutiny?
-   Source: Nature News
-2. Curiosity Blog, Sols 4954–4960: Celebrating Our Rover Engineers Past and Present
-   Source: NASA Science
-3. Expedition 75
-   Source: NASA Science
-4. Curiosity Blog, Sols 4954–4960: Celebrating Our Rover Engineers Past and Present
-   Source: NASA News
-5. NASA’s MAVEN Illuminates New Understanding of Auroras at Mars
-   Source: NASA News
-6. What The Odyssey reveals about ancient science — from botany to psychiatry
-   Source: Nature News
-7. Medieval Strip Farming in England
-   Source: Atlas Obscura
-
-REFERENCES:
-
-1. How does Make America Healthy Again hold up against scientific scrutiny?
-   https://www.nature.com/articles/d41586-026-02024-3
-
-2. Curiosity Blog, Sols 4954–4960: Celebrating Our Rover Engineers Past and Present
-   https://science.nasa.gov/blog/curiosity-blog-sols-4954-4960-celebrating-our-rover-engineers-past-and-present/
-
-3. Expedition 75
-   https://www.nasa.gov/mission/expedition-75/
-
-4. Curiosity Blog, Sols 4954–4960: Celebrating Our Rover Engineers Past and Present
-   https://science.nasa.gov/blog/curiosity-blog-sols-4954-4960-celebrating-our-rover-engineers-past-and-present/
-
-5. NASA’s MAVEN Illuminates New Understanding of Auroras at Mars
-   https://science.nasa.gov/missions/maven/nasas-maven-illuminates-new-understanding-of-auroras-at-mars/
-
-6. What The Odyssey reveals about ancient science — from botany to psychiatry
-   https://www.nature.com/articles/d41586-026-02275-0
-
-7. Medieval Strip Farming in England
-   https://www.atlasobscura.com/places/medieval-strip-farming-around-haxey
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-24/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>5:00</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-24/episode-art.png"/>
     </item>
   </channel>
 </rss>

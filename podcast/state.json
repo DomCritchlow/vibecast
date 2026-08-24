@@ -1,19 +1,5 @@
 {
   "url_timestamps": {
-    "https://www.nature.com/articles/d41586-026-01392-0": "2026-05-25T08:23:50.665657",
-    "https://www.nature.com/articles/d41586-026-01644-z": "2026-05-25T08:23:50.665657",
-    "https://openai.com/index/gartner-2026-agentic-coding-leader": "2026-05-25T08:23:50.665657",
-    "https://openai.com/index/adventhealth": "2026-05-25T08:23:50.665657",
-    "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/": "2026-05-25T08:23:50.665657",
-    "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/": "2026-05-25T08:23:50.665657",
-    "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale": "2026-05-25T08:23:50.665657",
-    "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/": "2026-05-26T07:52:03.606782",
-    "https://www.wired.com/story/use-tiny11-to-rescue-a-computer-running-windows-10/": "2026-05-26T07:52:03.606782",
-    "https://www.nature.com/articles/d41586-026-01621-6": "2026-05-26T07:52:03.606782",
-    "https://www.nature.com/articles/d41586-026-01619-0": "2026-05-26T07:52:03.606782",
-    "https://openai.com/index/grupo-folha-grupo-uol-partnership": "2026-05-26T07:52:03.606782",
-    "https://openai.com/index/model-disproves-discrete-geometry-conjecture": "2026-05-26T07:52:03.606782",
-    "https://deepmind.google/blog/introducing-gemini-omni/": "2026-05-26T07:52:03.606782",
     "https://www.nature.com/articles/d41586-026-01625-2": "2026-05-27T08:06:58.900667",
     "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/": "2026-05-27T08:06:58.900667",
     "https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/": "2026-05-27T08:06:58.900667",
@@ -598,9 +584,16 @@
     "https://www.nature.com/articles/d41586-026-02626-x": "2026-08-23T07:54:36.271479",
     "https://www.nature.com/articles/d41586-026-02596-0": "2026-08-23T07:54:36.271479",
     "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/": "2026-08-23T07:54:36.271479",
-    "https://www.atlasobscura.com/places/gin-drinkers-line": "2026-08-23T07:54:36.271479"
+    "https://www.atlasobscura.com/places/gin-drinkers-line": "2026-08-23T07:54:36.271479",
+    "https://www.nasa.gov/common_research_model/swept-wing-icing-research/": "2026-08-24T08:10:26.651146",
+    "https://www.nasa.gov/ames/science/laboratory-astrophysics-newsletter/lab-astro-publications/": "2026-08-24T08:10:26.651146",
+    "https://www.nature.com/articles/d41586-026-02616-z": "2026-08-24T08:10:26.651146",
+    "https://www.nature.com/articles/d41586-026-02566-6": "2026-08-24T08:10:26.651146",
+    "https://simonwillison.net/2026/Aug/22/llm/": "2026-08-24T08:10:26.651146",
+    "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/": "2026-08-24T08:10:26.651146",
+    "https://nautil.us/the-remarkable-lives-of-5-year-old-brain-organoids-1284120/": "2026-08-24T08:10:26.651146"
   },
-  "last_run": "2026-08-23T07:54:36.271479",
+  "last_run": "2026-08-24T08:10:26.651146",
   "special_dates": [
     "2026-07-10",
     "2026-07-17",
