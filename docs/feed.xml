@@ -8,7 +8,7 @@
     <link>https://critchlow.us/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 08:08:26 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 08:09:35 -0000</lastBuildDate>
     <atom:link href="https://critchlow.us/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://critchlow.us/vibecast/</link>
     </image>
     <itunes:image href="https://critchlow.us/vibecast/artwork.png"/>
+    <item>
+      <title>NASA LunaRecycle Finale &amp; Cancer-Fighting T Cells</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. NASA Invites Media to LunaRecycle Challenge Finale Event in Alabama
+   Source: NASA Science
+2. NASA Invites Media to LunaRecycle Challenge Finale Event in Alabama
+   Source: NASA News
+3. Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions
+   Source: NASA News
+4. A guide to securing your first research fellowship: what reviewers are looking for
+   Source: Nature News
+5. Amping up T cells to target cancer
+   Source: MIT Technology Review
+6. Seeing through murky waters
+   Source: MIT Technology Review
+7. Chickahominy Riverfront Park in Williamsburg, Virginia
+   Source: Atlas Obscura
+
+REFERENCES:
+
+1. NASA Invites Media to LunaRecycle Challenge Finale Event in Alabama
+   https://www.nasa.gov/news-release/nasa-invites-media-to-lunarecycle-challenge-finale-event-in-alabama/
+
+2. NASA Invites Media to LunaRecycle Challenge Finale Event in Alabama
+   https://www.nasa.gov/news-release/nasa-invites-media-to-lunarecycle-challenge-finale-event-in-alabama/
+
+3. Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions
+   https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions/
+
+4. A guide to securing your first research fellowship: what reviewers are looking for
+   https://www.nature.com/articles/d41586-026-02115-1
+
+5. Amping up T cells to target cancer
+   https://www.technologyreview.com/2026/08/25/1140949/amping-up-t-cells-to-target-cancer/
+
+6. Seeing through murky waters
+   https://www.technologyreview.com/2026/08/25/1140955/seeing-through-murky-waters/
+
+7. Chickahominy Riverfront Park in Williamsburg, Virginia
+   https://www.atlasobscura.com/places/chickahominy-riverfront-park
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-26/newspaper.pdf]]></description>
+      <pubDate>Wed, 26 Aug 2026 08:06:25 -0000</pubDate>
+      <guid isPermaLink="false">2026-08-26</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-26.mp3" length="7819268" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. NASA Invites Media to LunaRecycle Challenge Finale Event in Alabama
+   Source: NASA Science
+2. NASA Invites Media to LunaRecycle Challenge Finale Event in Alabama
+   Source: NASA News
+3. Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions
+   Source: NASA News
+4. A guide to securing your first research fellowship: what reviewers are looking for
+   Source: Nature News
+5. Amping up T cells to target cancer
+   Source: MIT Technology Review
+6. Seeing through murky waters
+   Source: MIT Technology Review
+7. Chickahominy Riverfront Park in Williamsburg, Virginia
+   Source: Atlas Obscura
+
+REFERENCES:
+
+1. NASA Invites Media to LunaRecycle Challenge Finale Event in Alabama
+   https://www.nasa.gov/news-release/nasa-invites-media-to-lunarecycle-challenge-finale-event-in-alabama/
+
+2. NASA Invites Media to LunaRecycle Challenge Finale Event in Alabama
+   https://www.nasa.gov/news-release/nasa-invites-media-to-lunarecycle-challenge-finale-event-in-alabama/
+
+3. Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions
+   https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions/
+
+4. A guide to securing your first research fellowship: what reviewers are looking for
+   https://www.nature.com/articles/d41586-026-02115-1
+
+5. Amping up T cells to target cancer
+   https://www.technologyreview.com/2026/08/25/1140949/amping-up-t-cells-to-target-cancer/
+
+6. Seeing through murky waters
+   https://www.technologyreview.com/2026/08/25/1140955/seeing-through-murky-waters/
+
+7. Chickahominy Riverfront Park in Williamsburg, Virginia
+   https://www.atlasobscura.com/places/chickahominy-riverfront-park
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-26/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>6:10</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-26/episode-art.png"/>
+    </item>
     <item>
       <title>Sun&#x27;s Ancient History &amp; Exoskeletons Arrive</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>6:26</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-28/episode-art.png"/>
-    </item>
-    <item>
-      <title>Brain Organoid Computers &amp; Claude Opus 5 Debut</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Researchers are building computers that run on brain organoids — but have neglected a major ethical issue
-   Source: Nature News
-2. How AI is expanding what people do at work
-   Source: OpenAI News
-3. The existential choice facing UK physics facilities: commercialize or close
-   Source: Nature News
-4. Quoting Boris Cherny
-   Source: Simon Willison
-5. Introducing Claude Opus 5
-   Source: Simon Willison
-6. Grabette: an open system to record robot-manipulation data
-   Source: Hugging Face Blog
-7. Fuel Tank Orca Mural in Palmer Station, Antarctica
-   Source: Atlas Obscura
-
-REFERENCES:
-
-1. Researchers are building computers that run on brain organoids — but have neglected a major ethical issue
-   https://www.nature.com/articles/d41586-026-02316-8
-
-2. How AI is expanding what people do at work
-   https://openai.com/index/how-ai-is-expanding-what-people-do-at-work
-
-3. The existential choice facing UK physics facilities: commercialize or close
-   https://www.nature.com/articles/d41586-026-02171-7
-
-4. Quoting Boris Cherny
-   https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything
-
-5. Introducing Claude Opus 5
-   https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything
-
-6. Grabette: an open system to record robot-manipulation data
-   https://huggingface.co/blog/grabette
-
-7. Fuel Tank Orca Mural in Palmer Station, Antarctica
-   https://www.atlasobscura.com/places/fuel-tank-orca-mural
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-27/newspaper.pdf]]></description>
-      <pubDate>Mon, 27 Jul 2026 10:54:29 -0000</pubDate>
-      <guid isPermaLink="false">2026-07-27</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-27.mp3" length="7500783" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Researchers are building computers that run on brain organoids — but have neglected a major ethical issue
-   Source: Nature News
-2. How AI is expanding what people do at work
-   Source: OpenAI News
-3. The existential choice facing UK physics facilities: commercialize or close
-   Source: Nature News
-4. Quoting Boris Cherny
-   Source: Simon Willison
-5. Introducing Claude Opus 5
-   Source: Simon Willison
-6. Grabette: an open system to record robot-manipulation data
-   Source: Hugging Face Blog
-7. Fuel Tank Orca Mural in Palmer Station, Antarctica
-   Source: Atlas Obscura
-
-REFERENCES:
-
-1. Researchers are building computers that run on brain organoids — but have neglected a major ethical issue
-   https://www.nature.com/articles/d41586-026-02316-8
-
-2. How AI is expanding what people do at work
-   https://openai.com/index/how-ai-is-expanding-what-people-do-at-work
-
-3. The existential choice facing UK physics facilities: commercialize or close
-   https://www.nature.com/articles/d41586-026-02171-7
-
-4. Quoting Boris Cherny
-   https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything
-
-5. Introducing Claude Opus 5
-   https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything
-
-6. Grabette: an open system to record robot-manipulation data
-   https://huggingface.co/blog/grabette
-
-7. Fuel Tank Orca Mural in Palmer Station, Antarctica
-   https://www.atlasobscura.com/places/fuel-tank-orca-mural
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-27/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>6:09</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-27/episode-art.png"/>
     </item>
   </channel>
 </rss>

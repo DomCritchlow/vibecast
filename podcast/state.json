@@ -1,19 +1,5 @@
 {
   "url_timestamps": {
-    "https://www.nature.com/articles/d41586-026-01625-2": "2026-05-27T08:06:58.900667",
-    "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/": "2026-05-27T08:06:58.900667",
-    "https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/": "2026-05-27T08:06:58.900667",
-    "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram": "2026-05-27T08:06:58.900667",
-    "https://www.theverge.com/tech/937067/oppo-bubble-wireless-screen-remote-selfie-magnetic": "2026-05-27T08:06:58.900667",
-    "https://restofworld.org/2026/ai-agent-inequality/?utm_source=rss&utm_medium=rss&utm_campaign=feeds": "2026-05-27T08:06:58.900667",
-    "https://github.com/ZeroPointRepo/youtube-mcp": "2026-05-27T08:06:58.900667",
-    "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/": "2026-05-28T08:02:48.548482",
-    "https://www.nature.com/articles/s41586-026-10541-4": "2026-05-28T08:02:48.548482",
-    "https://huggingface.co/blog/ibm-research/itbench-aa": "2026-05-28T08:02:48.548482",
-    "https://www.nasa.gov/wildland-fire-management/nasa-develops-sensor-to-improve-firefighter-safety/": "2026-05-28T08:02:48.548482",
-    "https://www.nasa.gov/gallery/thermal-sensors-on-fire-dozers-with-nasa-firesense/": "2026-05-28T08:02:48.548482",
-    "https://www.quantamagazine.org/when-quiet-undersea-volcanoes-turn-disruptive-20260526/": "2026-05-28T08:02:48.548482",
-    "https://www.nature.com/articles/s41586-026-10700-7": "2026-05-28T08:02:48.548482",
     "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/": "2026-05-29T07:59:56.031360",
     "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/": "2026-05-29T07:59:56.031360",
     "https://arstechnica.com/cars/2026/05/2027-audi-rs5-first-drive-a-performance-phev-with-split-personalities/": "2026-05-29T07:59:56.031360",
@@ -598,9 +584,15 @@
     "https://www.nature.com/articles/d41586-026-02641-y": "2026-08-25T08:05:45.685175",
     "https://www.nature.com/articles/d41586-026-02572-8": "2026-08-25T08:05:45.685175",
     "https://spacenews.com/elve-qualifies-millimeter-wave-amplifiers-for-spaceflight/": "2026-08-25T08:05:45.685175",
-    "https://nautil.us/five-images-six-decades-capturing-the-iconic-earthrise-photo-1284171/": "2026-08-25T08:05:45.685175"
+    "https://nautil.us/five-images-six-decades-capturing-the-iconic-earthrise-photo-1284171/": "2026-08-25T08:05:45.685175",
+    "https://www.nasa.gov/news-release/nasa-invites-media-to-lunarecycle-challenge-finale-event-in-alabama/": "2026-08-26T08:06:25.228007",
+    "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions/": "2026-08-26T08:06:25.228007",
+    "https://www.nature.com/articles/d41586-026-02115-1": "2026-08-26T08:06:25.228007",
+    "https://www.technologyreview.com/2026/08/25/1140949/amping-up-t-cells-to-target-cancer/": "2026-08-26T08:06:25.228007",
+    "https://www.technologyreview.com/2026/08/25/1140955/seeing-through-murky-waters/": "2026-08-26T08:06:25.228007",
+    "https://www.atlasobscura.com/places/chickahominy-riverfront-park": "2026-08-26T08:06:25.228007"
   },
-  "last_run": "2026-08-25T08:05:45.685175",
+  "last_run": "2026-08-26T08:06:25.228007",
   "special_dates": [
     "2026-07-10",
     "2026-07-17",

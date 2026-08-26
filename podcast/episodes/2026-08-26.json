@@ -1,0 +1,68 @@
+{
+  "guid": "2026-08-26",
+  "date": "2026-08-26T08:06:25.228007",
+  "title": "NASA LunaRecycle Finale & Cancer-Fighting T Cells",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 370.10526315789474,
+  "duration_formatted": "6:10",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-26.mp3",
+    "audio_size_bytes": 7819268,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-26/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-26/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-08-26.txt"
+  },
+  "stories": [
+    {
+      "title": "NASA Invites Media to LunaRecycle Challenge Finale Event in Alabama",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-lunarecycle-challenge-finale-event-in-alabama/",
+      "summary": "NASA will announce the winners of the final phase of its LunaRecycle Challenge on Friday, Aug. 28, at The University of Alabama (UA) Lee Styslinger College of Engineering in Tuscaloosa, Alabama. Launched in 2024, the challenge incentivizes the invention of new recycling systems that could support non-metabolic waste management efforts for future lunar missions. Media […] The post NASA Invites Media to LunaRecycle Challenge Finale Event in Alabama appeared first on NASA Science."
+    },
+    {
+      "title": "NASA Invites Media to LunaRecycle Challenge Finale Event in Alabama",
+      "source": "NASA News",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-lunarecycle-challenge-finale-event-in-alabama/",
+      "summary": "NASA will announce the winners of the final phase of its LunaRecycle Challenge on Friday, Aug. 28, at The University of Alabama (UA) Lee Styslinger College of Engineering in Tuscaloosa, Alabama. Launched in 2024, the challenge incentivizes the invention of new recycling systems that could support non-metabolic waste management efforts for future lunar missions. Media […]"
+    },
+    {
+      "title": "Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions",
+      "source": "NASA News",
+      "url": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions/",
+      "summary": "Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention. To address this challenge and provide model-based support for system design and operations, it is important to connect fault management (FM) and model-based systems engineering (MBSE). This approach was successfully demonstrated with the model-based generation of a […]"
+    },
+    {
+      "title": "A guide to securing your first research fellowship: what reviewers are looking for",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02115-1",
+      "summary": "Nature, Published online: 25 August 2026; doi:10.1038/d41586-026-02115-1How early-career researchers can strengthen their track record, boost their research proposal and assess institutional fit."
+    },
+    {
+      "title": "Amping up T cells to target cancer",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/08/25/1140949/amping-up-t-cells-to-target-cancer/",
+      "summary": "Vaccines that turn the body’s immune system against tumors have shown promise in clinical trials, and a handful have been FDA approved for certain cancers. In many patients, however, these vaccines don’t stimulate enough of a response, and the approach some researchers have taken to strengthening it—delivering the vaccine along with immune-stimulating molecules called cytokines—can…"
+    },
+    {
+      "title": "Seeing through murky waters",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/08/25/1140955/seeing-through-murky-waters/",
+      "summary": "When remotely operated vehicles settle on the seafloor or dig through a sand bed, they can kick up clouds of sediment that onboard cameras struggle to see through. Often, the only thing to do is wait until the dust settles. But a new system developed by Amy Phung, SM ’23, PhD ’26, and her advisor…"
+    },
+    {
+      "title": "Chickahominy Riverfront Park in Williamsburg, Virginia",
+      "source": "Atlas Obscura",
+      "url": "https://www.atlasobscura.com/places/chickahominy-riverfront-park",
+      "summary": "Just a few miles from Jamestown, Chickahominy Riverfront Park sits at the edge of a tidal river that has changed remarkably little since English colonists first explored it in 1607. Bald cypress trees rise from dark water, great blue herons stalk the shallows, and marshes stretch into the distance. Remove the occasional fishing boat, and the view is not so different from what the Powhatan people would have recognized more than four centuries ago. The Chickahominy occupies a rare place in the Chesapeake watershed. Unlike many rivers that have been heavily developed, much of its tidal corridor remains lined with forests and freshwater marshes. The result is a large tidal cypress swamp ecosystem, where saltwater from the James River meets freshwater flowing from inland Virginia. That blend creates an unusually rich habitat for fish, birds, turtles, and other wildlife, making the river both an ecological treasure and a living window into Virginia’s past. Chickahominy Riverfront Park ser..."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-08-26T08:06:25.228007",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}
