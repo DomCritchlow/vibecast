@@ -1,0 +1,68 @@
+{
+  "guid": "2026-08-27",
+  "date": "2026-08-27T18:21:09.232509",
+  "title": "Nuclear-Powered Space Missions & Artemis III Progress",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 365.47368421052636,
+  "duration_formatted": "6:05",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-27.mp3",
+    "audio_size_bytes": 7468809,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-27/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-27/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-08-27.txt"
+  },
+  "stories": [
+    {
+      "title": "Women face bans on research underground — here’s how to modernize the system",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02679-y",
+      "summary": "Nature, Published online: 27 August 2026; doi:10.1038/d41586-026-02679-yIn many countries, female engineers are barred from entering deep mines to carry out studies. Differentiating risks can increase access while protecting safety."
+    },
+    {
+      "title": "Using nuclear waste to power space missions",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02514-4",
+      "summary": "Nature, Published online: 26 August 2026; doi:10.1038/d41586-026-02514-4Researchers plan to use radioactive isotopes to power systems on a future Mars rover."
+    },
+    {
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff."
+    },
+    {
+      "title": "Civil Servants Sworn in at NASA Ames",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/image-article/civil-servants-sworn-in-at-nasa-ames/",
+      "summary": "New civil servants and guests pose for a group photo with NASA and center leadership in the National Full-Scale Aerodynamics Complex (NFAC) 80-by-120-foot test section, N221 on Aug. 24, 2026. The civil servants were sworn-in the same day in the largest swearing-in ceremony ever hosted at NASA’s Ames Research Center in California’s Silicon Valley since […] The post Civil Servants Sworn in at NASA Ames appeared first on NASA Science."
+    },
+    {
+      "title": "NASA Starts Artemis III Engine Install; Boosters, Crew Training Advance",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/blogs/missions/2026/08/27/nasa-starts-artemis-iii-engine-install-boosters-crew-training-advance/",
+      "summary": "Technicians at NASA’s Kennedy Space Center in Florida began the installation of the four RS-25 engines in the core stage of the agency’s SLS (Space Launch System) rocket that will launch the Artemis III crew next year. The milestone on Aug. 24 marks the next phase of core stage integration following the mating of the engine […] The post NASA Starts Artemis III Engine Install; Boosters, Crew Training Advance appeared first on NASA Science."
+    },
+    {
+      "title": "Civil Servants Sworn in at NASA Ames",
+      "source": "NASA News",
+      "url": "https://www.nasa.gov/image-article/civil-servants-sworn-in-at-nasa-ames/",
+      "summary": "New civil servants and guests pose for a group photo with NASA and center leadership in the National Full-Scale Aerodynamics Complex (NFAC) 80-by-120-foot test section, N221 on Aug. 24, 2026. The civil servants were sworn-in the same day in the largest swearing-in ceremony ever hosted at NASA’s Ames Research Center in California’s Silicon Valley since […]"
+    },
+    {
+      "title": "Meet the Vegan Draculas of Australia",
+      "source": "Nautilus",
+      "url": "https://nautil.us/meet-the-vegan-draculas-of-australia-1284543/",
+      "summary": "New research seeks to confirm the identity of tropical lampreys that don’t have the taste for blood The post Meet the Vegan Draculas of Australia appeared first on Nautilus."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-08-27T18:21:09.232509",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}
