@@ -1,12 +1,5 @@
 {
   "url_timestamps": {
-    "https://www.nasa.gov/computing/hec/funding/": "2026-05-30T06:48:23.367598",
-    "https://www.nasa.gov/computing/hec/capabilities/": "2026-05-30T06:48:23.367598",
-    "https://www.nature.com/articles/s41586-026-10605-5": "2026-05-30T06:48:23.367598",
-    "https://www.nature.com/articles/d41586-026-01736-w": "2026-05-30T06:48:23.367598",
-    "https://openai.com/index/trustworthy-third-party-evaluations-foundations": "2026-05-30T06:48:23.367598",
-    "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/": "2026-05-30T06:48:23.367598",
-    "https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-rocket-launch-amazon-leo-7-internet-satellites": "2026-05-30T06:48:23.367598",
     "https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability": "2026-05-31T07:48:34.557238",
     "https://www.wired.com/review/keychron-k2-he-concrete-edition/": "2026-05-31T07:48:34.557238",
     "https://www.wired.com/story/millions-of-bees-have-thrived-under-a-new-york-cemetery-for-more-than-a-century/": "2026-05-31T07:48:34.557238",
@@ -589,9 +582,15 @@
     "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts": "2026-08-27T18:21:09.232509",
     "https://www.nasa.gov/image-article/civil-servants-sworn-in-at-nasa-ames/": "2026-08-27T18:21:09.232509",
     "https://www.nasa.gov/blogs/missions/2026/08/27/nasa-starts-artemis-iii-engine-install-boosters-crew-training-advance/": "2026-08-27T18:21:09.232509",
-    "https://nautil.us/meet-the-vegan-draculas-of-australia-1284543/": "2026-08-27T18:21:09.232509"
+    "https://nautil.us/meet-the-vegan-draculas-of-australia-1284543/": "2026-08-27T18:21:09.232509",
+    "https://www.nature.com/articles/d41586-026-02680-5": "2026-08-28T19:30:22.567781",
+    "https://www.nature.com/articles/d41586-026-02733-9": "2026-08-28T19:30:22.567781",
+    "https://www.nasa.gov/centers-and-facilities/grants-2/": "2026-08-28T19:30:22.567781",
+    "https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-departs-agency-to-continue-military-service/": "2026-08-28T19:30:22.567781",
+    "https://www.science.org/content/article/dreams-making-drugs-and-tissues-space-get-closer-reality": "2026-08-28T19:30:22.567781",
+    "https://nautil.us/archaeologists-just-found-a-fascinating-ancient-statue-used-as-a-paving-stone-in-a-roman-road-1284531/": "2026-08-28T19:30:22.567781"
   },
-  "last_run": "2026-08-27T18:21:09.232509",
+  "last_run": "2026-08-28T19:30:22.567781",
   "special_dates": [
     "2026-07-10",
     "2026-07-17",
@@ -599,6 +598,7 @@
     "2026-07-31",
     "2026-08-07",
     "2026-08-14",
-    "2026-08-21"
+    "2026-08-21",
+    "2026-08-28"
   ]
 }
