@@ -1,0 +1,68 @@
+{
+  "guid": "2026-08-29",
+  "date": "2026-08-29T13:15:15.957659",
+  "title": "AI Job Skills & Dolly Parton's Science Legacy",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 362.5263157894737,
+  "duration_formatted": "6:02",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-29.mp3",
+    "audio_size_bytes": 7415519,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-29/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-29/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-08-29.txt"
+  },
+  "stories": [
+    {
+      "title": "Publications",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/common_research_model/crm-nlf/publications/",
+      "summary": "This website is currently under construction. Please see the full NASA Common Research Model website for current information. CRM-NLF Publications Publications for the CRM-NLF wing design and analysis along with the data from the NTF test can be downloaded from the links below: The post Publications appeared first on NASA Science."
+    },
+    {
+      "title": "What employers are looking for in the age of AI — and four ways to provide it",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01913-x",
+      "summary": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-01913-xFor applicants whose knowledge of AI stops at the name ChatGPT, Nature spoke to academics, employers and early-career researchers to find out what you need to expand your understanding."
+    },
+    {
+      "title": "Publications",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/common_research_model/crm-hl/publications/",
+      "summary": "This website is currently under construction. Please see the full NASA Common Research Model website for current information. CRM-HL Publications Below is a list of publications containing information about the High Lift Common Research Model (CRM-HL): The post Publications appeared first on NASA Science."
+    },
+    {
+      "title": "Briefing Chat: How Dolly Parton left her mark on science",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02732-w",
+      "summary": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02732-wNature reporters discuss the country-music icon's advocacy for vaccines and public health — plus, promising trial results for an mRNA cancer therapy."
+    },
+    {
+      "title": "How to sign up for a virtual power plant—and decide whether you should",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
+      "summary": "MIT Technology Review’s How To series helps you get things done. Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increasingly want to treat them like one. A virtual power plant, or VPP, is a collection of household devices (such…"
+    },
+    {
+      "title": "RTX’s Blue Canyon Technologies introduces new spacecraft mission enabler",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/rtxs-blue-canyon-technologies-introduces-new-spacecraft-mission-enabler/",
+      "summary": "LAFAYETTE, Colo. (August 26, 2026) — Small satellite manufacturer and mission services provider Blue Canyon Technologies, part of RTX’s (NYSE: RTX) Raytheon business, has unveiled its latest spacecraft subsystem, the […] The post RTX’s Blue Canyon Technologies introduces new spacecraft mission enabler appeared first on SpaceNews."
+    },
+    {
+      "title": "I’m Part of the Team Writing the Next Bible of Psychiatry—For the First Time, the DSM Will Use Biology to Understand Mental Disorders",
+      "source": "Nautilus",
+      "url": "https://nautil.us/im-part-of-the-team-writing-the-next-bible-of-psychiatry-for-the-first-time-the-dsm-will-use-biology-to-understand-mental-disorders-1284613/",
+      "summary": "Part of the challenge of finding a biomarker for mental illness is the environment’s significant influence The post I’m Part of the Team Writing the Next Bible of Psychiatry—For the First Time, the DSM Will Use Biology to Understand Mental Disorders appeared first on Nautilus."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-08-29T13:15:15.957659",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}

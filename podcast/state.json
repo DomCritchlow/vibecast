@@ -1,12 +1,5 @@
 {
   "url_timestamps": {
-    "https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability": "2026-05-31T07:48:34.557238",
-    "https://www.wired.com/review/keychron-k2-he-concrete-edition/": "2026-05-31T07:48:34.557238",
-    "https://www.wired.com/story/millions-of-bees-have-thrived-under-a-new-york-cemetery-for-more-than-a-century/": "2026-05-31T07:48:34.557238",
-    "https://www.nasa.gov/blogs/spacestation/2026/05/29/blood-clotting-research-spacewalk-cleanup-wrap-up-week-on-space-station/": "2026-05-31T07:48:34.557238",
-    "https://openai.com/index/boston-childrens-hospital": "2026-05-31T07:48:34.557238",
-    "https://openai.com/index/braintrust": "2026-05-31T07:48:34.557238",
-    "https://deepmind.google/blog/introducing-google-antigravity-2-0/": "2026-05-31T07:48:34.557238",
     "https://www.nature.com/articles/d41586-026-01729-9": "2026-06-01T09:28:53.614699",
     "https://www.nature.com/articles/d41586-026-01668-5": "2026-06-01T09:28:53.614699",
     "https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches": "2026-06-01T09:28:53.614699",
@@ -588,9 +581,16 @@
     "https://www.nasa.gov/centers-and-facilities/grants-2/": "2026-08-28T19:30:22.567781",
     "https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-departs-agency-to-continue-military-service/": "2026-08-28T19:30:22.567781",
     "https://www.science.org/content/article/dreams-making-drugs-and-tissues-space-get-closer-reality": "2026-08-28T19:30:22.567781",
-    "https://nautil.us/archaeologists-just-found-a-fascinating-ancient-statue-used-as-a-paving-stone-in-a-roman-road-1284531/": "2026-08-28T19:30:22.567781"
+    "https://nautil.us/archaeologists-just-found-a-fascinating-ancient-statue-used-as-a-paving-stone-in-a-roman-road-1284531/": "2026-08-28T19:30:22.567781",
+    "https://www.nasa.gov/common_research_model/crm-nlf/publications/": "2026-08-29T13:15:15.957659",
+    "https://www.nature.com/articles/d41586-026-01913-x": "2026-08-29T13:15:15.957659",
+    "https://www.nasa.gov/common_research_model/crm-hl/publications/": "2026-08-29T13:15:15.957659",
+    "https://www.nature.com/articles/d41586-026-02732-w": "2026-08-29T13:15:15.957659",
+    "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/": "2026-08-29T13:15:15.957659",
+    "https://spacenews.com/rtxs-blue-canyon-technologies-introduces-new-spacecraft-mission-enabler/": "2026-08-29T13:15:15.957659",
+    "https://nautil.us/im-part-of-the-team-writing-the-next-bible-of-psychiatry-for-the-first-time-the-dsm-will-use-biology-to-understand-mental-disorders-1284613/": "2026-08-29T13:15:15.957659"
   },
-  "last_run": "2026-08-28T19:30:22.567781",
+  "last_run": "2026-08-29T13:15:15.957659",
   "special_dates": [
     "2026-07-10",
     "2026-07-17",
