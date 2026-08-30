@@ -8,7 +8,7 @@
     <link>https://critchlow.us/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Aug 2026 13:17:52 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 13:06:04 -0000</lastBuildDate>
     <atom:link href="https://critchlow.us/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://critchlow.us/vibecast/</link>
     </image>
     <itunes:image href="https://critchlow.us/vibecast/artwork.png"/>
+    <item>
+      <title>Roman Telescope Launch &amp; Cancer Research Breakthrough</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. NASA Concludes Roman Space Telescope Launch Coverage
+   Source: NASA Science
+2. Lift-off! NASA launches Roman Space Telescope to tackle dark-energy mysteries
+   Source: Nature News
+3. Mysteries of the deep and AI friendship: Books in brief
+   Source: Nature News
+4. What went right this week: a ‘pivotal moment’ for cancer research, plus more
+   Source: Positive News
+5. Putting sign language AI into users’ hands
+   Source: DeepMind Blog
+6. WeatherNext: AI model achieves breakthrough in forecasting cyclones
+   Source: DeepMind Blog
+7. COVID Brain Fog May Not Be Irreversible
+   Source: Nautilus
+
+REFERENCES:
+
+1. NASA Concludes Roman Space Telescope Launch Coverage
+   https://science.nasa.gov/blogs/roman/2026/08/30/nasa-concludes-roman-space-telescope-launch-coverage/
+
+2. Lift-off! NASA launches Roman Space Telescope to tackle dark-energy mysteries
+   https://www.nature.com/articles/d41586-026-02727-7
+
+3. Mysteries of the deep and AI friendship: Books in brief
+   https://www.nature.com/articles/d41586-026-02725-9
+
+4. What went right this week: a ‘pivotal moment’ for cancer research, plus more
+   https://www.positive.news/society/good-news-stories-from-week-34-of-2026/
+
+5. Putting sign language AI into users’ hands
+   https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/
+
+6. WeatherNext: AI model achieves breakthrough in forecasting cyclones
+   https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/
+
+7. COVID Brain Fog May Not Be Irreversible
+   https://nautil.us/covid-brain-fog-may-not-be-irreversible-1284604/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-30/newspaper.pdf]]></description>
+      <pubDate>Sun, 30 Aug 2026 13:03:29 -0000</pubDate>
+      <guid isPermaLink="false">2026-08-30</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-30.mp3" length="7331509" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. NASA Concludes Roman Space Telescope Launch Coverage
+   Source: NASA Science
+2. Lift-off! NASA launches Roman Space Telescope to tackle dark-energy mysteries
+   Source: Nature News
+3. Mysteries of the deep and AI friendship: Books in brief
+   Source: Nature News
+4. What went right this week: a ‘pivotal moment’ for cancer research, plus more
+   Source: Positive News
+5. Putting sign language AI into users’ hands
+   Source: DeepMind Blog
+6. WeatherNext: AI model achieves breakthrough in forecasting cyclones
+   Source: DeepMind Blog
+7. COVID Brain Fog May Not Be Irreversible
+   Source: Nautilus
+
+REFERENCES:
+
+1. NASA Concludes Roman Space Telescope Launch Coverage
+   https://science.nasa.gov/blogs/roman/2026/08/30/nasa-concludes-roman-space-telescope-launch-coverage/
+
+2. Lift-off! NASA launches Roman Space Telescope to tackle dark-energy mysteries
+   https://www.nature.com/articles/d41586-026-02727-7
+
+3. Mysteries of the deep and AI friendship: Books in brief
+   https://www.nature.com/articles/d41586-026-02725-9
+
+4. What went right this week: a ‘pivotal moment’ for cancer research, plus more
+   https://www.positive.news/society/good-news-stories-from-week-34-of-2026/
+
+5. Putting sign language AI into users’ hands
+   https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/
+
+6. WeatherNext: AI model achieves breakthrough in forecasting cyclones
+   https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/
+
+7. COVID Brain Fog May Not Be Irreversible
+   https://nautil.us/covid-brain-fog-may-not-be-irreversible-1284604/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-30/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>5:57</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-30/episode-art.png"/>
+    </item>
     <item>
       <title>AI Job Skills &amp; Dolly Parton&#x27;s Science Legacy</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>6:09</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-01/episode-art.png"/>
-    </item>
-    <item>
-      <title>Sustainable Lithium Mining &amp; NASA Airborne Research</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Demand for lithium is surging: here’s how to make mining more sustainable
-   Source: Nature News
-2. Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
-   Source: Google Research Blog
-3. Federally Funded Research and Development Center (FFRDC) Competitive Procurement
-   Source: NASA Science
-4. Students Take on Airborne Field Research with NASA
-   Source: NASA Science
-5. Students Take on Airborne Field Research with NASA
-   Source: NASA News
-6. Starburst Galaxy Centaurus A
-   Source: NASA News
-7. The Odyssey of the Stone Age Maltese
-   Source: Nautilus
-
-REFERENCES:
-
-1. Demand for lithium is surging: here’s how to make mining more sustainable
-   https://www.nature.com/articles/d41586-026-02195-z
-
-2. Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
-   https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/
-
-3. Federally Funded Research and Development Center (FFRDC) Competitive Procurement
-   https://www.nasa.gov/ffrdc/
-
-4. Students Take on Airborne Field Research with NASA
-   https://science.nasa.gov/earth/students-take-on-airborne-field-research-with-nasa/
-
-5. Students Take on Airborne Field Research with NASA
-   https://science.nasa.gov/earth/students-take-on-airborne-field-research-with-nasa/
-
-6. Starburst Galaxy Centaurus A
-   https://www.nasa.gov/image-article/starburst-galaxy-centaurus-a/
-
-7. The Odyssey of the Stone Age Maltese
-   https://nautil.us/the-odyssey-of-the-stone-age-maltese-1283223/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-31/newspaper.pdf]]></description>
-      <pubDate>Fri, 31 Jul 2026 10:03:19 -0000</pubDate>
-      <guid isPermaLink="false">2026-07-31</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-31.mp3" length="7081317" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Demand for lithium is surging: here’s how to make mining more sustainable
-   Source: Nature News
-2. Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
-   Source: Google Research Blog
-3. Federally Funded Research and Development Center (FFRDC) Competitive Procurement
-   Source: NASA Science
-4. Students Take on Airborne Field Research with NASA
-   Source: NASA Science
-5. Students Take on Airborne Field Research with NASA
-   Source: NASA News
-6. Starburst Galaxy Centaurus A
-   Source: NASA News
-7. The Odyssey of the Stone Age Maltese
-   Source: Nautilus
-
-REFERENCES:
-
-1. Demand for lithium is surging: here’s how to make mining more sustainable
-   https://www.nature.com/articles/d41586-026-02195-z
-
-2. Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
-   https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/
-
-3. Federally Funded Research and Development Center (FFRDC) Competitive Procurement
-   https://www.nasa.gov/ffrdc/
-
-4. Students Take on Airborne Field Research with NASA
-   https://science.nasa.gov/earth/students-take-on-airborne-field-research-with-nasa/
-
-5. Students Take on Airborne Field Research with NASA
-   https://science.nasa.gov/earth/students-take-on-airborne-field-research-with-nasa/
-
-6. Starburst Galaxy Centaurus A
-   https://www.nasa.gov/image-article/starburst-galaxy-centaurus-a/
-
-7. The Odyssey of the Stone Age Maltese
-   https://nautil.us/the-odyssey-of-the-stone-age-maltese-1283223/
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-31/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>4:55</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-07-31/episode-art.png"/>
     </item>
   </channel>
 </rss>

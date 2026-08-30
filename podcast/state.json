@@ -1,12 +1,5 @@
 {
   "url_timestamps": {
-    "https://www.nature.com/articles/d41586-026-01729-9": "2026-06-01T09:28:53.614699",
-    "https://www.nature.com/articles/d41586-026-01668-5": "2026-06-01T09:28:53.614699",
-    "https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches": "2026-06-01T09:28:53.614699",
-    "https://www.wired.com/story/mesh-system-vs-wi-fi-router/": "2026-06-01T09:28:53.614699",
-    "https://feesorted.com/": "2026-06-01T09:28:53.614699",
-    "https://www.positive.news/environment/greenland-sheds-new-light-on-underwater-carbon-sink/": "2026-06-01T09:28:53.614699",
-    "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense": "2026-06-01T09:28:53.614699",
     "https://www.nature.com/articles/d41586-026-01488-7": "2026-06-02T08:40:23.392281",
     "https://www.nature.com/articles/d41586-026-01688-1": "2026-06-02T08:40:23.392281",
     "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/": "2026-06-02T08:40:23.392281",
@@ -588,9 +581,16 @@
     "https://www.nature.com/articles/d41586-026-02732-w": "2026-08-29T13:15:15.957659",
     "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/": "2026-08-29T13:15:15.957659",
     "https://spacenews.com/rtxs-blue-canyon-technologies-introduces-new-spacecraft-mission-enabler/": "2026-08-29T13:15:15.957659",
-    "https://nautil.us/im-part-of-the-team-writing-the-next-bible-of-psychiatry-for-the-first-time-the-dsm-will-use-biology-to-understand-mental-disorders-1284613/": "2026-08-29T13:15:15.957659"
+    "https://nautil.us/im-part-of-the-team-writing-the-next-bible-of-psychiatry-for-the-first-time-the-dsm-will-use-biology-to-understand-mental-disorders-1284613/": "2026-08-29T13:15:15.957659",
+    "https://science.nasa.gov/blogs/roman/2026/08/30/nasa-concludes-roman-space-telescope-launch-coverage/": "2026-08-30T13:03:29.761940",
+    "https://www.nature.com/articles/d41586-026-02727-7": "2026-08-30T13:03:29.761940",
+    "https://www.nature.com/articles/d41586-026-02725-9": "2026-08-30T13:03:29.761940",
+    "https://www.positive.news/society/good-news-stories-from-week-34-of-2026/": "2026-08-30T13:03:29.761940",
+    "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/": "2026-08-30T13:03:29.761940",
+    "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/": "2026-08-30T13:03:29.761940",
+    "https://nautil.us/covid-brain-fog-may-not-be-irreversible-1284604/": "2026-08-30T13:03:29.761940"
   },
-  "last_run": "2026-08-29T13:15:15.957659",
+  "last_run": "2026-08-30T13:03:29.761940",
   "special_dates": [
     "2026-07-10",
     "2026-07-17",

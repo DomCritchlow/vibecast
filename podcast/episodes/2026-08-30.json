@@ -1,0 +1,68 @@
+{
+  "guid": "2026-08-30",
+  "date": "2026-08-30T13:03:29.761940",
+  "title": "Roman Telescope Launch & Cancer Research Breakthrough",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 357.89473684210526,
+  "duration_formatted": "5:57",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-30.mp3",
+    "audio_size_bytes": 7331509,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-30/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-30/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-08-30.txt"
+  },
+  "stories": [
+    {
+      "title": "NASA Concludes Roman Space Telescope Launch Coverage",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/blogs/roman/2026/08/30/nasa-concludes-roman-space-telescope-launch-coverage/",
+      "summary": "NASA is concluding live launch coverage after the agency's Nancy Grace Roman Space Telescope successfully launched aboard a SpaceX Falcon Heavy rocket and separated from the second stage. The post NASA Concludes Roman Space Telescope Launch Coverage appeared first on NASA Science."
+    },
+    {
+      "title": "Lift-off! NASA launches Roman Space Telescope to tackle dark-energy mysteries",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02727-7",
+      "summary": "Nature, Published online: 30 August 2026; doi:10.1038/d41586-026-02727-7The space observatory will have an expansive view of the Universe as well as sharp resolution."
+    },
+    {
+      "title": "Mysteries of the deep and AI friendship: Books in brief",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02725-9",
+      "summary": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02725-9Andrew Robinson reviews five of the best science picks."
+    },
+    {
+      "title": "What went right this week: a ‘pivotal moment’ for cancer research, plus more",
+      "source": "Positive News",
+      "url": "https://www.positive.news/society/good-news-stories-from-week-34-of-2026/",
+      "summary": "A ‘pivotal moment’ for cancer treatment, resurgent whales, and the city that made public transport free, plus more The post What went right this week: a ‘pivotal moment’ for cancer research, plus more appeared first on Positive News."
+    },
+    {
+      "title": "Putting sign language AI into users’ hands",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users."
+    },
+    {
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "summary": ""
+    },
+    {
+      "title": "COVID Brain Fog May Not Be Irreversible",
+      "source": "Nautilus",
+      "url": "https://nautil.us/covid-brain-fog-may-not-be-irreversible-1284604/",
+      "summary": "At least for one variant The post COVID Brain Fog May Not Be Irreversible appeared first on Nautilus."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-08-30T13:03:29.761940",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}
