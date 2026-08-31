@@ -8,7 +8,7 @@
     <link>https://critchlow.us/vibecast/</link>
     <description>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Aug 2026 13:06:04 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 15:16:39 -0000</lastBuildDate>
     <atom:link href="https://critchlow.us/vibecast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Dominic</itunes:author>
     <itunes:summary>A short daily podcast following the most interesting threads in AI, space, and technology. No hype, just what matters.</itunes:summary>
@@ -27,6 +27,100 @@
       <link>https://critchlow.us/vibecast/</link>
     </image>
     <itunes:image href="https://critchlow.us/vibecast/artwork.png"/>
+    <item>
+      <title>Roman Telescope Launch &amp; AI Lab Archetypes</title>
+      <description><![CDATA[IN THIS EPISODE:
+
+1. What’s your lab’s archetype? The answer could inform how you use AI
+   Source: Nature News
+2. Space Math at NASA: Remote Sensing Math
+   Source: NASA Science
+3. Updates on Third Early Career Workshop
+   Source: NASA Science
+4. Roman Commissioning
+   Source: NASA News
+5. NASA’s Dark Universe-Seeking Nancy Grace Roman Space Telescope Launches
+   Source: NASA News
+6. Scale of snakebites estimated globally
+   Source: Nature News
+7. An Expert Pieced Together This Roman Document Like a Jigsaw Puzzle. You’ll Never Guess What It’s About
+   Source: Nautilus
+
+REFERENCES:
+
+1. What’s your lab’s archetype? The answer could inform how you use AI
+   https://www.nature.com/articles/d41586-026-02543-z
+
+2. Space Math at NASA: Remote Sensing Math
+   https://science.nasa.gov/learn/heat/resource/remote-sensing-math/
+
+3. Updates on Third Early Career Workshop
+   https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/updates-on-third-early-career-workshop/
+
+4. Roman Commissioning
+   https://science.nasa.gov/missions/roman-space-telescope/roman-commissioning/
+
+5. NASA’s Dark Universe-Seeking Nancy Grace Roman Space Telescope Launches
+   https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/
+
+6. Scale of snakebites estimated globally
+   https://www.nature.com/articles/d41586-026-02642-x
+
+7. An Expert Pieced Together This Roman Document Like a Jigsaw Puzzle. You’ll Never Guess What It’s About
+   https://nautil.us/an-expert-pieced-together-this-roman-document-like-a-jigsaw-puzzle-youll-never-guess-what-its-about-1284616/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-31/newspaper.pdf]]></description>
+      <pubDate>Mon, 31 Aug 2026 15:13:59 -0000</pubDate>
+      <guid isPermaLink="false">2026-08-31</guid>
+      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-31.mp3" length="7036221" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[IN THIS EPISODE:
+
+1. What’s your lab’s archetype? The answer could inform how you use AI
+   Source: Nature News
+2. Space Math at NASA: Remote Sensing Math
+   Source: NASA Science
+3. Updates on Third Early Career Workshop
+   Source: NASA Science
+4. Roman Commissioning
+   Source: NASA News
+5. NASA’s Dark Universe-Seeking Nancy Grace Roman Space Telescope Launches
+   Source: NASA News
+6. Scale of snakebites estimated globally
+   Source: Nature News
+7. An Expert Pieced Together This Roman Document Like a Jigsaw Puzzle. You’ll Never Guess What It’s About
+   Source: Nautilus
+
+REFERENCES:
+
+1. What’s your lab’s archetype? The answer could inform how you use AI
+   https://www.nature.com/articles/d41586-026-02543-z
+
+2. Space Math at NASA: Remote Sensing Math
+   https://science.nasa.gov/learn/heat/resource/remote-sensing-math/
+
+3. Updates on Third Early Career Workshop
+   https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/updates-on-third-early-career-workshop/
+
+4. Roman Commissioning
+   https://science.nasa.gov/missions/roman-space-telescope/roman-commissioning/
+
+5. NASA’s Dark Universe-Seeking Nancy Grace Roman Space Telescope Launches
+   https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/
+
+6. Scale of snakebites estimated globally
+   https://www.nature.com/articles/d41586-026-02642-x
+
+7. An Expert Pieced Together This Roman Document Like a Jigsaw Puzzle. You’ll Never Guess What It’s About
+   https://nautil.us/an-expert-pieced-together-this-roman-document-like-a-jigsaw-puzzle-youll-never-guess-what-its-about-1284616/
+
+---
+📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-31/newspaper.pdf]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>6:01</itunes:duration>
+      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-31/episode-art.png"/>
+    </item>
     <item>
       <title>Roman Telescope Launch &amp; Cancer Research Breakthrough</title>
       <description><![CDATA[IN THIS EPISODE:
@@ -2752,100 +2846,6 @@ REFERENCES:
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>6:08</itunes:duration>
       <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-02/episode-art.png"/>
-    </item>
-    <item>
-      <title>Orcas Smash Sunfish &amp; AI Attacks Real Companies</title>
-      <description><![CDATA[IN THIS EPISODE:
-
-1. Briefing Chat: Orcas smashed a sunfish to bits — researchers aren’t sure why
-   Source: Nature News
-2. Meat allergy is on the rise — what scientists want to know
-   Source: Nature News
-3. Claude published malicious code to the Internet and attacked 3 real companies
-   Source: Ars Technica
-4. NASA’s Newest Wind Tunnel Opens at NASA Langley
-   Source: NASA Science
-5. TB 26-04 Webbings for Use in Elevated Oxygen Environments
-   Source: NASA Science
-6. NASA’s Newest Wind Tunnel Opens at NASA Langley
-   Source: NASA News
-7. Running the MTA is a tough job. Janno Lieber is just the 4th person to last 5 years.
-   Source: Gothamist (NYC)
-
-REFERENCES:
-
-1. Briefing Chat: Orcas smashed a sunfish to bits — researchers aren’t sure why
-   https://www.nature.com/articles/d41586-026-02419-2
-
-2. Meat allergy is on the rise — what scientists want to know
-   https://www.nature.com/articles/d41586-026-02362-2
-
-3. Claude published malicious code to the Internet and attacked 3 real companies
-   https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/
-
-4. NASA’s Newest Wind Tunnel Opens at NASA Langley
-   https://www.nasa.gov/image-article/nasas-newest-wind-tunnel-opens-at-nasa-langley/
-
-5. TB 26-04 Webbings for Use in Elevated Oxygen Environments
-   https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/
-
-6. NASA’s Newest Wind Tunnel Opens at NASA Langley
-   https://www.nasa.gov/image-article/nasas-newest-wind-tunnel-opens-at-nasa-langley/
-
-7. Running the MTA is a tough job. Janno Lieber is just the 4th person to last 5 years.
-   https://gothamist.com/news/running-the-mta-is-a-tough-job-janno-lieber-is-just-the-4th-person-to-last-5-years
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-01/newspaper.pdf]]></description>
-      <pubDate>Sat, 01 Aug 2026 09:30:40 -0000</pubDate>
-      <guid isPermaLink="false">2026-08-01</guid>
-      <enclosure url="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-01.mp3" length="7592316" type="audio/mpeg"/>
-      <itunes:summary><![CDATA[IN THIS EPISODE:
-
-1. Briefing Chat: Orcas smashed a sunfish to bits — researchers aren’t sure why
-   Source: Nature News
-2. Meat allergy is on the rise — what scientists want to know
-   Source: Nature News
-3. Claude published malicious code to the Internet and attacked 3 real companies
-   Source: Ars Technica
-4. NASA’s Newest Wind Tunnel Opens at NASA Langley
-   Source: NASA Science
-5. TB 26-04 Webbings for Use in Elevated Oxygen Environments
-   Source: NASA Science
-6. NASA’s Newest Wind Tunnel Opens at NASA Langley
-   Source: NASA News
-7. Running the MTA is a tough job. Janno Lieber is just the 4th person to last 5 years.
-   Source: Gothamist (NYC)
-
-REFERENCES:
-
-1. Briefing Chat: Orcas smashed a sunfish to bits — researchers aren’t sure why
-   https://www.nature.com/articles/d41586-026-02419-2
-
-2. Meat allergy is on the rise — what scientists want to know
-   https://www.nature.com/articles/d41586-026-02362-2
-
-3. Claude published malicious code to the Internet and attacked 3 real companies
-   https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/
-
-4. NASA’s Newest Wind Tunnel Opens at NASA Langley
-   https://www.nasa.gov/image-article/nasas-newest-wind-tunnel-opens-at-nasa-langley/
-
-5. TB 26-04 Webbings for Use in Elevated Oxygen Environments
-   https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/
-
-6. NASA’s Newest Wind Tunnel Opens at NASA Langley
-   https://www.nasa.gov/image-article/nasas-newest-wind-tunnel-opens-at-nasa-langley/
-
-7. Running the MTA is a tough job. Janno Lieber is just the 4th person to last 5 years.
-   https://gothamist.com/news/running-the-mta-is-a-tough-job-janno-lieber-is-just-the-4th-person-to-last-5-years
-
----
-📰 Full newspaper edition: https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-01/newspaper.pdf]]></itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>6:09</itunes:duration>
-      <itunes:image href="https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-01/episode-art.png"/>
     </item>
   </channel>
 </rss>

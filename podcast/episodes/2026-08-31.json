@@ -1,0 +1,68 @@
+{
+  "guid": "2026-08-31",
+  "date": "2026-08-31T15:13:59.733237",
+  "title": "Roman Telescope Launch & AI Lab Archetypes",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 361.6842105263158,
+  "duration_formatted": "6:01",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-31.mp3",
+    "audio_size_bytes": 7036221,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-31/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-08-31/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-08-31.txt"
+  },
+  "stories": [
+    {
+      "title": "What’s your lab’s archetype? The answer could inform how you use AI",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02543-z",
+      "summary": "Nature, Published online: 31 August 2026; doi:10.1038/d41586-026-02543-zA white paper gives research groups four priority models, each of which uses artificial intelligence differently."
+    },
+    {
+      "title": "Space Math at NASA: Remote Sensing Math",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/learn/heat/resource/remote-sensing-math/",
+      "summary": "This problem set collection and educator’s guide from Space Math at NASA explores how spacecraft measure distant phenomena through imagery and instrumentation, useful for applied mathematics and aerospace units. For students grades 6-12+, educators can use these math problems to teach concepts related to the electromagnetic spectrum, light, and the solar system by integrating real-world […] The post Space Math at NASA: Remote Sensing Math appeared first on NASA Science."
+    },
+    {
+      "title": "Updates on Third Early Career Workshop",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/updates-on-third-early-career-workshop/",
+      "summary": "We have important news regarding the 3rd Early Career Workshop organized by NASA’s Physics of the Cosmos Program and the Physics of the Cosmos Program Analysis Group (PhysPAG) Executive Committee. The post Updates on Third Early Career Workshop appeared first on NASA Science."
+    },
+    {
+      "title": "Roman Commissioning",
+      "source": "NASA News",
+      "url": "https://science.nasa.gov/missions/roman-space-telescope/roman-commissioning/",
+      "summary": "Where is Roman? Roman is making its three-month journey from Earth to Sun-Earth Lagrange Point 2, or L2. Along the way, Roman is undergoing a process called commissioning, where systems are turned on, adjusted, calibrated, and prepared for science operations. Commissioning is the time for scientists and engineers to make sure that Roman is performing […]"
+    },
+    {
+      "title": "NASA’s Dark Universe-Seeking Nancy Grace Roman Space Telescope Launches",
+      "source": "NASA News",
+      "url": "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/",
+      "summary": "Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at 7:26 a.m. EDT Sunday aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at the agency’s Kennedy Space Center in Florida. Roman pairs a large field of […]"
+    },
+    {
+      "title": "Scale of snakebites estimated globally",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02642-x",
+      "summary": "Nature, Published online: 31 August 2026; doi:10.1038/d41586-026-02642-xUsing available data and modelling to assess the incidence of snakebites and associated deaths provides information needed for efforts to tackle this public-health concern."
+    },
+    {
+      "title": "An Expert Pieced Together This Roman Document Like a Jigsaw Puzzle. You’ll Never Guess What It’s About",
+      "source": "Nautilus",
+      "url": "https://nautil.us/an-expert-pieced-together-this-roman-document-like-a-jigsaw-puzzle-youll-never-guess-what-its-about-1284616/",
+      "summary": "Classics researchers think it was part of a reference booklet traveling officials carried with them The post An Expert Pieced Together This Roman Document Like a Jigsaw Puzzle. You’ll Never Guess What It’s About appeared first on Nautilus."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-08-31T15:13:59.733237",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}

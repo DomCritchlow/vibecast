@@ -1,12 +1,5 @@
 {
   "url_timestamps": {
-    "https://www.nature.com/articles/d41586-026-01488-7": "2026-06-02T08:40:23.392281",
-    "https://www.nature.com/articles/d41586-026-01688-1": "2026-06-02T08:40:23.392281",
-    "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/": "2026-06-02T08:40:23.392281",
-    "https://arstechnica.com/health/2026/06/doctors-blast-trump-for-doubling-down-on-vaccine-policy-modeled-after-denmark/": "2026-06-02T08:40:23.392281",
-    "https://twitter.com/stevencheng/status/2059950811954692451": "2026-06-02T08:40:23.392281",
-    "https://www.npr.org/2026/06/01/nx-s1-5843076/remote-work-college-graduates-unemployment-ai": "2026-06-02T08:40:23.392281",
-    "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-near-houston/": "2026-06-02T08:40:23.392281",
     "https://openai.com/index/codex-for-knowledge-work": "2026-06-03T08:57:22.306758",
     "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-space-roboticist-challenge/": "2026-06-03T08:57:22.306758",
     "https://www.nasa.gov/lunar-surface-technology/": "2026-06-03T08:57:22.306758",
@@ -588,9 +581,16 @@
     "https://www.positive.news/society/good-news-stories-from-week-34-of-2026/": "2026-08-30T13:03:29.761940",
     "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/": "2026-08-30T13:03:29.761940",
     "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/": "2026-08-30T13:03:29.761940",
-    "https://nautil.us/covid-brain-fog-may-not-be-irreversible-1284604/": "2026-08-30T13:03:29.761940"
+    "https://nautil.us/covid-brain-fog-may-not-be-irreversible-1284604/": "2026-08-30T13:03:29.761940",
+    "https://www.nature.com/articles/d41586-026-02543-z": "2026-08-31T15:13:59.733237",
+    "https://science.nasa.gov/learn/heat/resource/remote-sensing-math/": "2026-08-31T15:13:59.733237",
+    "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/updates-on-third-early-career-workshop/": "2026-08-31T15:13:59.733237",
+    "https://science.nasa.gov/missions/roman-space-telescope/roman-commissioning/": "2026-08-31T15:13:59.733237",
+    "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/": "2026-08-31T15:13:59.733237",
+    "https://www.nature.com/articles/d41586-026-02642-x": "2026-08-31T15:13:59.733237",
+    "https://nautil.us/an-expert-pieced-together-this-roman-document-like-a-jigsaw-puzzle-youll-never-guess-what-its-about-1284616/": "2026-08-31T15:13:59.733237"
   },
-  "last_run": "2026-08-30T13:03:29.761940",
+  "last_run": "2026-08-31T15:13:59.733237",
   "special_dates": [
     "2026-07-10",
     "2026-07-17",
