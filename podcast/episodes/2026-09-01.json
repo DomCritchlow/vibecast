@@ -1,0 +1,68 @@
+{
+  "guid": "2026-09-01",
+  "date": "2026-09-01T12:38:34.305581",
+  "title": "India's Science Comeback & AI Authorship Dilemma",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 377.2631578947368,
+  "duration_formatted": "6:17",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-09-01.mp3",
+    "audio_size_bytes": 7388561,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-09-01/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-09-01/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-09-01.txt"
+  },
+  "stories": [
+    {
+      "title": "India has an ambitious plan to lure scientists back — will its plan work?",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02636-9",
+      "summary": "Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02636-9Initiatives to attract Indian researchers who are working abroad do not offer long-term income security, some scientists say."
+    },
+    {
+      "title": "Who is responsible when AI helps to write science?",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02686-z",
+      "summary": "Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02686-zAs generative AI becomes embedded in research and publishing, the deeper challenge is preserving accountability for scholarly work."
+    },
+    {
+      "title": "Space Math at NASA: Image Scale Math",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/learn/heat/resource/space-math-at-nasa-image-scale-math/",
+      "summary": "This problem set and educator’s guide from Space Math at NASA features 11 math problems where students, grades 6-8, use ratios and proportions to determine NASA image scales. Ideal for practicing foundational math with real heliophysics space data, educators can apply this resource to supplement solar system, lunar phase, and eclipse lessons. Students calculate scales […] The post Space Math at NASA: Image Scale Math appeared first on NASA Science."
+    },
+    {
+      "title": "Space Math at NASA: Exploring Aerosols",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/learn/heat/resource/space-math-at-nasa-exploring-aerosols/",
+      "summary": "This problem set and educator’s guide from Space Math at NASA features 18 math problems exploring atmospheric aerosols using real data from the SAGE III instrument on the ISS. It is highly useful for integrating quantitative data analysis into environmental science and physics units. For students grades K-12+, teachers can apply this resource by assigning […] The post Space Math at NASA: Exploring Aerosols appeared first on NASA Science."
+    },
+    {
+      "title": "California to vote on spending $16 billion to boost research after Trump cuts",
+      "source": "Science.org News",
+      "url": "https://www.science.org/content/article/california-vote-spending-16-billion-boost-research-after-trump-cuts",
+      "summary": "State initiatives this fall and in early 2028 will gauge voters’ appetite for science, but controversy has grown around one proposal"
+    },
+    {
+      "title": "In autism advisory committee’s funding plan, critics see a veiled antivaccine focus",
+      "source": "Science.org News",
+      "url": "https://www.science.org/content/article/autism-advisory-committee-s-funding-plan-critics-see-veiled-antivaccine-focus",
+      "summary": "The new plan, marked by a turbulent rollout and vote, urges more research on poorly understood “regression” to autism"
+    },
+    {
+      "title": "Physical OMNY cards can now be refilled after temporary snag, MTA says",
+      "source": "Gothamist (NYC)",
+      "url": "https://gothamist.com/news/physical-omny-cards-cant-be-refilled-due-to-undisclosed-system-error-mta-says",
+      "summary": "A man uses an OMNY vending machine on Oct. 30, 2023 in Brooklyn. After the system went down Monday morning, the transit agency said riders can now refill their OMNY cards as usual. [ more › ]"
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-09-01T12:38:34.305581",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}
