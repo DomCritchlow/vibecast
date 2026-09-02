@@ -1,12 +1,5 @@
 {
   "url_timestamps": {
-    "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind": "2026-06-04T08:23:39.677485",
-    "https://www.nasa.gov/blogs/spacestation/2026/06/03/human-research-biotechnology-for-advanced-health-fill-station-research-schedule/": "2026-06-04T08:23:39.677485",
-    "https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-finds-new-way-earth-may-have-received-elements-needed-for-life/": "2026-06-04T08:23:39.677485",
-    "https://www.nature.com/articles/s41586-026-10624-2": "2026-06-04T08:23:39.677485",
-    "https://www.theverge.com/tech/942748/wiim-releases-first-soundbar": "2026-06-04T08:23:39.677485",
-    "https://www.space.com/astronomy/black-holes/can-black-holes-turn-into-white-holes-its-not-such-a-crazy-idea-scientists-say": "2026-06-04T08:23:39.677485",
-    "https://www.space.com/stargazing/solar-eclipses/spains-total-solar-eclipse-2026-comes-with-a-catch-heres-how-to-avoid-ruining-your-view": "2026-06-04T08:23:39.677485",
     "https://www.nature.com/articles/d41586-026-01770-8": "2026-06-05T08:09:51.387590",
     "https://openai.com/index/chatgpt-memory-dreaming": "2026-06-05T08:09:51.387590",
     "https://science.nasa.gov/earth/earth-observatory/fighting-fire-with-fire/": "2026-06-05T08:09:51.387590",
@@ -588,9 +581,15 @@
     "https://science.nasa.gov/learn/heat/resource/space-math-at-nasa-exploring-aerosols/": "2026-09-01T12:38:34.305581",
     "https://www.science.org/content/article/california-vote-spending-16-billion-boost-research-after-trump-cuts": "2026-09-01T12:38:34.305581",
     "https://www.science.org/content/article/autism-advisory-committee-s-funding-plan-critics-see-veiled-antivaccine-focus": "2026-09-01T12:38:34.305581",
-    "https://gothamist.com/news/physical-omny-cards-cant-be-refilled-due-to-undisclosed-system-error-mta-says": "2026-09-01T12:38:34.305581"
+    "https://gothamist.com/news/physical-omny-cards-cant-be-refilled-due-to-undisclosed-system-error-mta-says": "2026-09-01T12:38:34.305581",
+    "https://www.nature.com/articles/d41586-026-02683-2": "2026-09-02T12:10:41.858942",
+    "https://openai.com/index/ai-native-company-workflows": "2026-09-02T12:10:41.858942",
+    "https://openai.com/index/path-to-astra": "2026-09-02T12:10:41.858942",
+    "https://www.nasa.gov/image-article/historic-engines-take-their-place-on-artemis-iii/": "2026-09-02T12:10:41.858942",
+    "https://www.nature.com/articles/s41586-026-11080-8": "2026-09-02T12:10:41.858942",
+    "https://nautil.us/why-the-recent-total-eclipse-looked-unusual-1284700/": "2026-09-02T12:10:41.858942"
   },
-  "last_run": "2026-09-01T12:38:34.305581",
+  "last_run": "2026-09-02T12:10:41.858942",
   "special_dates": [
     "2026-07-10",
     "2026-07-17",

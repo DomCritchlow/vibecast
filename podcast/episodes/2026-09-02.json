@@ -1,0 +1,68 @@
+{
+  "guid": "2026-09-02",
+  "date": "2026-09-02T12:10:41.858942",
+  "title": "Long COVID Triggers, AI Workflows & Artemis III Engines",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 358.7368421052632,
+  "duration_formatted": "5:58",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-09-02.mp3",
+    "audio_size_bytes": 7494513,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-09-02/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-09-02/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-09-02.txt"
+  },
+  "stories": [
+    {
+      "title": "When do infections lead to long COVID? Scientists close in on triggers and treatments for post-viral syndromes",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02683-2",
+      "summary": "Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02683-2Hundreds of millions of people have long-term conditions as a result of an infection. Researchers are working out how to help them."
+    },
+    {
+      "title": "How AI-native companies turn workflows into operating capability",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/ai-native-company-workflows",
+      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply."
+    },
+    {
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/path-to-astra",
+      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release."
+    },
+    {
+      "title": "Historic Engines Take Their Place on Artemis III",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/image-article/historic-engines-take-their-place-on-artemis-iii/",
+      "summary": "On Aug. 24, technicians at NASA’s Kennedy Space Center in Florida began installing the four RS‑25 engines in the core stage of the agency’s Space Launch System (SLS) rocket that will carry the Artemis III crew into low Earth orbit in 2027. Each RS‑25 engine has a unique serial number that records its detailed flight […] The post Historic Engines Take Their Place on Artemis III appeared first on NASA Science."
+    },
+    {
+      "title": "Historic Engines Take Their Place on Artemis III",
+      "source": "NASA News",
+      "url": "https://www.nasa.gov/image-article/historic-engines-take-their-place-on-artemis-iii/",
+      "summary": "On Aug. 24, technicians at NASA’s Kennedy Space Center in Florida began installing the four RS‑25 engines in the core stage of the agency’s Space Launch System (SLS) rocket that will carry the Artemis III crew into low Earth orbit in 2027. Each RS‑25 engine has a unique serial number that records its detailed flight […]"
+    },
+    {
+      "title": "Author Correction: Signalling thresholds and negative B-cell selection in acute lymphoblastic leukaemia",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-11080-8",
+      "summary": "Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-11080-8Author Correction: Signalling thresholds and negative B-cell selection in acute lymphoblastic leukaemia"
+    },
+    {
+      "title": "Why the Recent Total Eclipse Looked Unusual",
+      "source": "Nautilus",
+      "url": "https://nautil.us/why-the-recent-total-eclipse-looked-unusual-1284700/",
+      "summary": "The corona in Spain was particularly golden The post Why the Recent Total Eclipse Looked Unusual appeared first on Nautilus."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-09-02T12:10:41.858942",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}
