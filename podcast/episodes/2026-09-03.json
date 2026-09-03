@@ -1,0 +1,68 @@
+{
+  "guid": "2026-09-03",
+  "date": "2026-09-03T12:10:58.283899",
+  "title": "DNA Repair & Longevity, Brain Circuits & NASA Balloons",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 356.2105263157895,
+  "duration_formatted": "5:56",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-09-03.mp3",
+    "audio_size_bytes": 7276339,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-09-03/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-09-03/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-09-03.txt"
+  },
+  "stories": [
+    {
+      "title": "NASA’s HASP Scientific Balloon Launches from Fort Sumner",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/blogs/wallops/2026/09/02/nasas-hasp-scientific-balloon-launches-from-fort-sumner/",
+      "summary": "The HASP mission was launched on a scientific balloon from NASA’s launch facility in Fort Sumner, New Mexico, at 8:05 a.m. MDT (10:05 a.m. EDT). The balloon and payload reached a float altitude of around 122,000 feet and flew for a total of 6 hours, 45 minutes. This year’s campaign marks the 20th flight for the High-Altitude Student Platform carrying payloads developed by student teams. Over the […] The post NASA’s HASP Scientific Balloon Launches from Fort Sumner appeared first on NASA Science."
+    },
+    {
+      "title": "Audio long read: Could mending damaged DNA prolong life?",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02762-4",
+      "summary": "Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02762-4Researchers are hunting for ways to enhance DNA repair with the hopes that this will keep people healthier for longer."
+    },
+    {
+      "title": "Connectome analysis of a cerebellum-like circuit for sensory prediction",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10690-6",
+      "summary": "Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-10690-6Connectomics, electrophysiology and modelling of electric fish neural circuits shows how distributed synaptic plasticity across multiple network layers cooperates to enable fast, accurate and noise-robust sensory learning."
+    },
+    {
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more."
+    },
+    {
+      "title": "Amendment 72: New Opportunity: A.17 Hydrosphere",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-72-new-opportunity-a-17-hydrosphere/",
+      "summary": "A.17 Hydrosphere solicits research on the Earth’s Hydrosphere: to advance the understanding of the physics of Earth’s water across the ocean, land, and the atmosphere. This Hydrosphere element is composed of three Earth science disciplines: ocean physics, terrestrial hydrology, and precipitation science. The overlapping goals of are to address fundamental questions about the distribution, movement, […] The post Amendment 72: New Opportunity: A.17 Hydrosphere appeared first on NASA Science."
+    },
+    {
+      "title": "NASA Rocket Takes First Multi-Point Look Inside Radio-Disrupting Clouds",
+      "source": "NASA News",
+      "url": "https://science.nasa.gov/science-research/heliophysics/nasa-rocket-takes-first-multi-point-look-inside-radio-disrupting-clouds/",
+      "summary": "High above Earth, thin veils of metallic haze drift through the edge of space. Known as sporadic E layers, these high-altitude “clouds” form from the vaporized dust of burnt-up meteors, earning their name from the unpredictable way they emerge and then dissipate. Now, new results from a NASA sounding rocket — a suborbital research rocket […]"
+    },
+    {
+      "title": "40 Years Ago, Oceanographers Found the Wreckage of the RMS Titanic",
+      "source": "Nautilus",
+      "url": "https://nautil.us/40-years-ago-oceanographers-found-the-wreckage-of-the-rms-titanic-1284740/",
+      "summary": "The maritime disaster of 1912 wasn’t fully understood until the shipwreck was rediscovered The post 40 Years Ago, Oceanographers Found the Wreckage of the RMS Titanic appeared first on Nautilus."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-09-03T12:10:58.283899",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}
