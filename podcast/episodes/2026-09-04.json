@@ -1,0 +1,68 @@
+{
+  "guid": "2026-09-04",
+  "date": "2026-09-04T12:12:52.184189",
+  "title": "GPT-6 Astra Rollout Chaos & MS Immune Breakthrough",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 329.404082,
+  "duration_formatted": "5:29",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-09-04.mp3",
+    "audio_size_bytes": 7906369,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-09-04/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-09-04/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-09-04.txt"
+  },
+  "stories": [
+    {
+      "title": "SSERVI CAN-5: Final Text Released",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/sservi-can-5-final-text-released/",
+      "summary": "The NASA Science Mission Directorate (SMD) and Human Spaceflight Mission Directorate (HSMD) have released the final text of the fifth Solar System Exploration Research Virtual Institute (SSERVI) Cooperative Agreement Notice (CAN-5). The post SSERVI CAN-5: Final Text Released appeared first on NASA Science."
+    },
+    {
+      "title": "Immune therapy engineered inside the body eases multiple sclerosis",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02765-1",
+      "summary": "Nature, Published online: 03 September 2026; doi:10.1038/d41586-026-02765-1Results from a small trial suggest a modified virus can instruct the immune system to wipe out disease-causing cells."
+    },
+    {
+      "title": "Nations expanding their research programmes impose sweeping penalties for malpractice",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02517-1",
+      "summary": "Nature, Published online: 03 September 2026; doi:10.1038/d41586-026-02517-1India, Peru and Vietnam are rolling out policies that limit opportunities for scientists who fall foul of research-integrity guidelines."
+    },
+    {
+      "title": "GPT-6 Astra",
+      "source": "Hacker News (front page)",
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "summary": "System Card: https://deploymentsafety.openai.com/gpt-6-astraRelated ongoing threads:OpenAI's GPT-6 Astra on ARC-AGI-3 - https://news.ycombinator.com/item?id=49555691GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index - https://news.ycombinator.com/item?id=49556147 Comments URL: https://news.ycombinator.com/item?id=49554643 Points: 1886 # Comments: 1687"
+    },
+    {
+      "title": "Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+      "summary": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company hailed the model as a \"generational leap in capability\" on Thursday and described it as the start of \"the […]"
+    },
+    {
+      "title": "This NAS company wants to run your local smart home",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+      "summary": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, on-device AI, and smart home control in one system, managed by a […]"
+    },
+    {
+      "title": "The Secret of Chronic Pain Could Lie in the Skull",
+      "source": "Nautilus",
+      "url": "https://nautil.us/the-secret-of-chronic-pain-could-lie-in-the-skull-1284730/",
+      "summary": "Skull bone marrow has become an exciting research topic The post The Secret of Chronic Pain Could Lie in the Skull appeared first on Nautilus."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-09-04T12:12:52.184189",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "fal",
+    "tts_voice": "SAz9YHcvj6GT2YYXdXww",
+    "special_episode": true
+  }
+}

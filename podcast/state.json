@@ -1,12 +1,5 @@
 {
   "url_timestamps": {
-    "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-announces-winners-of-2026-university-innovation-competition/": "2026-06-06T06:55:52.353393",
-    "https://www.nature.com/articles/d41586-026-01827-8": "2026-06-06T06:55:52.353393",
-    "https://www.nature.com/articles/d41586-026-01610-9": "2026-06-06T06:55:52.353393",
-    "https://www.wired.com/story/preserving-the-places-tourists-go-to-study/": "2026-06-06T06:55:52.353393",
-    "https://science.nasa.gov/uncategorized/nasas-artemis-ii-moon-mission-research-continues-on-earth/": "2026-06-06T06:55:52.353393",
-    "https://www.space.com/astronomy/black-holes/scientists-find-wind-blowing-from-our-milky-ways-black-hole-after-half-century-search-there-it-is": "2026-06-06T06:55:52.353393",
-    "https://openai.com/index/biodefense-in-the-intelligence-age": "2026-06-06T06:55:52.353393",
     "https://arstechnica.com/science/2026/06/otzis-mummified-body-is-home-to-ancient-strains-of-yeast-and-bacteria/": "2026-06-07T07:57:02.814387",
     "https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/": "2026-06-07T07:57:02.814387",
     "https://www.nature.com/articles/d41586-026-01831-y": "2026-06-07T07:57:02.814387",
@@ -587,9 +580,16 @@
     "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources": "2026-09-03T12:10:58.283899",
     "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-72-new-opportunity-a-17-hydrosphere/": "2026-09-03T12:10:58.283899",
     "https://science.nasa.gov/science-research/heliophysics/nasa-rocket-takes-first-multi-point-look-inside-radio-disrupting-clouds/": "2026-09-03T12:10:58.283899",
-    "https://nautil.us/40-years-ago-oceanographers-found-the-wreckage-of-the-rms-titanic-1284740/": "2026-09-03T12:10:58.283899"
+    "https://nautil.us/40-years-ago-oceanographers-found-the-wreckage-of-the-rms-titanic-1284740/": "2026-09-03T12:10:58.283899",
+    "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/sservi-can-5-final-text-released/": "2026-09-04T12:12:52.184189",
+    "https://www.nature.com/articles/d41586-026-02765-1": "2026-09-04T12:12:52.184189",
+    "https://www.nature.com/articles/d41586-026-02517-1": "2026-09-04T12:12:52.184189",
+    "https://openai.com/index/gpt-6-astra/": "2026-09-04T12:12:52.184189",
+    "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout": "2026-09-04T12:12:52.184189",
+    "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home": "2026-09-04T12:12:52.184189",
+    "https://nautil.us/the-secret-of-chronic-pain-could-lie-in-the-skull-1284730/": "2026-09-04T12:12:52.184189"
   },
-  "last_run": "2026-09-03T12:10:58.283899",
+  "last_run": "2026-09-04T12:12:52.184189",
   "special_dates": [
     "2026-07-10",
     "2026-07-17",
@@ -598,6 +598,7 @@
     "2026-08-07",
     "2026-08-14",
     "2026-08-21",
-    "2026-08-28"
+    "2026-08-28",
+    "2026-09-04"
   ]
 }
