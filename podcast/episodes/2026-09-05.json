@@ -1,0 +1,68 @@
+{
+  "guid": "2026-09-05",
+  "date": "2026-09-05T11:19:19.426274",
+  "title": "AI Memory Architecture & GPT-6 Astra Safety",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 367.5789473684211,
+  "duration_formatted": "6:07",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-09-05.mp3",
+    "audio_size_bytes": 7389815,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-09-05/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-09-05/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-09-05.txt"
+  },
+  "stories": [
+    {
+      "title": "Architecting memory and storage in the AI era",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while…"
+    },
+    {
+      "title": "Safety overview: GPT-6 Astra",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework."
+    },
+    {
+      "title": "NASA Ames Fire Department Aircraft Firefighting Training",
+      "source": "NASA Science",
+      "url": "https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/",
+      "summary": "The fire department at NASA’s Ames Research Center in California’s Silicon Valley will perform training on the Moffett Federal Airfield beginning Tuesday, Sept. 8 through Friday, Sept. 11. The training will involve the use of a propane-fueled aircraft fire simulator and be conducted from 8 a.m. to 8 p.m. PDT. Because the aircraft simulator is […] The post NASA Ames Fire Department Aircraft Firefighting Training appeared first on NASA Science."
+    },
+    {
+      "title": "NASA Ames Fire Department Aircraft Firefighting Training",
+      "source": "NASA News",
+      "url": "https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/",
+      "summary": "The fire department at NASA’s Ames Research Center in California’s Silicon Valley will perform training on the Moffett Federal Airfield beginning Tuesday, Sept. 8 through Friday, Sept. 11. The training will involve the use of a propane-fueled aircraft fire simulator and be conducted from 8 a.m. to 8 p.m. PDT. Because the aircraft simulator is […]"
+    },
+    {
+      "title": "Igniting Roman’s Journey",
+      "source": "NASA News",
+      "url": "https://www.nasa.gov/image-article/igniting-romans-journey/",
+      "summary": "Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at 7:26 a.m. EDT on Aug. 30 aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at the agency’s Kennedy Space Center in Florida. Roman pairs a large […]"
+    },
+    {
+      "title": "Briefing Chat: How 1,000 pairs of buried underpants helped measure soil health",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02800-1",
+      "summary": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02800-1Nature staff discuss the winners of the 2026 Ig Nobel prizes — plus, the isolated energy flash that could be the first glimpse of dark matter."
+    },
+    {
+      "title": "Art Exhibits at OAX Airport in San Juan Bautista la Raya, Mexico",
+      "source": "Atlas Obscura",
+      "url": "https://www.atlasobscura.com/places/art-exhibits-at-oax-airport",
+      "summary": "The state of Oaxaca in Mexico's south is often considered one of the country's main artistic hubs. Its diversity in nature and indigenous cultures has created an atmosphere of inspiration for creative endavors. In the capital city of the same name, known fully as Oaxaca de Juárez, perhaps the clearest examples are its booming gastronomic and graphic arts scenes. While it seems that the first airplane to land near Oaxaca City did so in 1922, it wouldn't be until 1940 that an airport would be built to service it. With its official name being Aeropuerto Internacional de Xoxocotlán, its latest renovation started in 2019 and wouldn't be finished until several years later, given closures due to the COVID-19 pandemic. Rufino Tamayo and Rodolfo Morales, known for their murals and paintings; along with Francisco Toledo, who worked several mediums but is perhaps best-known for his prints, are probably the most relevant artists from Oaxaca to gave developed their careers in the 20th century. T..."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-09-05T11:19:19.426274",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}

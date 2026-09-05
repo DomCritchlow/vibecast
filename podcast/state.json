@@ -1,12 +1,5 @@
 {
   "url_timestamps": {
-    "https://arstechnica.com/science/2026/06/otzis-mummified-body-is-home-to-ancient-strains-of-yeast-and-bacteria/": "2026-06-07T07:57:02.814387",
-    "https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/": "2026-06-07T07:57:02.814387",
-    "https://www.nature.com/articles/d41586-026-01831-y": "2026-06-07T07:57:02.814387",
-    "https://www.nature.com/articles/d41586-026-01609-2": "2026-06-07T07:57:02.814387",
-    "https://openai.com/index/wasmer": "2026-06-07T07:57:02.814387",
-    "https://openai.com/index/frontier-safety-blueprint": "2026-06-07T07:57:02.814387",
-    "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/": "2026-06-07T07:57:02.814387",
     "https://github.com/Mankirat47/Dao-Heart-3.13": "2026-06-08T08:57:18.440542",
     "https://www.nature.com/articles/d41586-026-01781-5": "2026-06-08T08:57:18.440542",
     "https://www.nature.com/articles/d41586-026-01764-6": "2026-06-08T08:57:18.440542",
@@ -587,9 +580,15 @@
     "https://openai.com/index/gpt-6-astra/": "2026-09-04T12:12:52.184189",
     "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout": "2026-09-04T12:12:52.184189",
     "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home": "2026-09-04T12:12:52.184189",
-    "https://nautil.us/the-secret-of-chronic-pain-could-lie-in-the-skull-1284730/": "2026-09-04T12:12:52.184189"
+    "https://nautil.us/the-secret-of-chronic-pain-could-lie-in-the-skull-1284730/": "2026-09-04T12:12:52.184189",
+    "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/": "2026-09-05T11:19:19.426274",
+    "https://openai.com/index/safety-overview-gpt-6-astra": "2026-09-05T11:19:19.426274",
+    "https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/": "2026-09-05T11:19:19.426274",
+    "https://www.nasa.gov/image-article/igniting-romans-journey/": "2026-09-05T11:19:19.426274",
+    "https://www.nature.com/articles/d41586-026-02800-1": "2026-09-05T11:19:19.426274",
+    "https://www.atlasobscura.com/places/art-exhibits-at-oax-airport": "2026-09-05T11:19:19.426274"
   },
-  "last_run": "2026-09-04T12:12:52.184189",
+  "last_run": "2026-09-05T11:19:19.426274",
   "special_dates": [
     "2026-07-10",
     "2026-07-17",
