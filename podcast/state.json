@@ -1,12 +1,5 @@
 {
   "url_timestamps": {
-    "https://github.com/Mankirat47/Dao-Heart-3.13": "2026-06-08T08:57:18.440542",
-    "https://www.nature.com/articles/d41586-026-01781-5": "2026-06-08T08:57:18.440542",
-    "https://www.nature.com/articles/d41586-026-01764-6": "2026-06-08T08:57:18.440542",
-    "https://openai.com/index/public-policy-agenda": "2026-06-08T08:57:18.440542",
-    "https://openai.com/index/travelers": "2026-06-08T08:57:18.440542",
-    "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/": "2026-06-08T08:57:18.440542",
-    "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/": "2026-06-08T08:57:18.440542",
     "https://www.nature.com/articles/d41586-026-01584-8": "2026-06-09T07:52:44.257940",
     "https://www.nature.com/articles/d41586-026-01780-6": "2026-06-09T07:52:44.257940",
     "https://openai.com/index/economic-research-exchange": "2026-06-09T07:52:44.257940",
@@ -586,9 +579,16 @@
     "https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/": "2026-09-05T11:19:19.426274",
     "https://www.nasa.gov/image-article/igniting-romans-journey/": "2026-09-05T11:19:19.426274",
     "https://www.nature.com/articles/d41586-026-02800-1": "2026-09-05T11:19:19.426274",
-    "https://www.atlasobscura.com/places/art-exhibits-at-oax-airport": "2026-09-05T11:19:19.426274"
+    "https://www.atlasobscura.com/places/art-exhibits-at-oax-airport": "2026-09-05T11:19:19.426274",
+    "https://www.nature.com/articles/d41586-026-02741-9": "2026-09-06T11:42:54.862055",
+    "https://www.nature.com/articles/d41586-026-02739-3": "2026-09-06T11:42:54.862055",
+    "https://www.science.org/content/article/outrage-greets-nih-pact-could-funnel-biodefense-research-funds-pentagon": "2026-09-06T11:42:54.862055",
+    "https://www.science.org/content/article/magic-mushroom-compound-may-prevent-chemotherapy-pain": "2026-09-06T11:42:54.862055",
+    "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/": "2026-09-06T11:42:54.862055",
+    "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/": "2026-09-06T11:42:54.862055",
+    "https://nautil.us/your-boss-is-watching-you-1284806/": "2026-09-06T11:42:54.862055"
   },
-  "last_run": "2026-09-05T11:19:19.426274",
+  "last_run": "2026-09-06T11:42:54.862055",
   "special_dates": [
     "2026-07-10",
     "2026-07-17",
