@@ -1,12 +1,5 @@
 {
   "url_timestamps": {
-    "https://www.nature.com/articles/d41586-026-01584-8": "2026-06-09T07:52:44.257940",
-    "https://www.nature.com/articles/d41586-026-01780-6": "2026-06-09T07:52:44.257940",
-    "https://openai.com/index/economic-research-exchange": "2026-06-09T07:52:44.257940",
-    "https://www.theverge.com/tech/946329/tvos-27-absent-wwdc": "2026-06-09T07:52:44.257940",
-    "https://www.theverge.com/tech/946260/apple-wwdc-2026-ios-ipados-macos-watchos-visionos-27-features-missed": "2026-06-09T07:52:44.257940",
-    "https://www.nasa.gov/centers-and-facilities/johnson/how-nasa-science-and-artemis-are-shaping-the-2026-fifa-world-cup/": "2026-06-09T07:52:44.257940",
-    "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/hwo-detector-system-development-study/": "2026-06-09T07:52:44.257940",
     "https://www.space.com/technology/thruster-breakthrough-new-2-in-1-propulsion-system-is-about-to-get-an-in-space-test": "2026-06-10T08:10:43.000918",
     "https://www.nature.com/articles/d41586-026-01662-x": "2026-06-10T08:10:43.000918",
     "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/": "2026-06-10T08:10:43.000918",
@@ -586,9 +579,16 @@
     "https://www.science.org/content/article/magic-mushroom-compound-may-prevent-chemotherapy-pain": "2026-09-06T11:42:54.862055",
     "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/": "2026-09-06T11:42:54.862055",
     "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/": "2026-09-06T11:42:54.862055",
-    "https://nautil.us/your-boss-is-watching-you-1284806/": "2026-09-06T11:42:54.862055"
+    "https://nautil.us/your-boss-is-watching-you-1284806/": "2026-09-06T11:42:54.862055",
+    "https://www.nature.com/articles/d41586-026-02805-w": "2026-09-07T13:35:49.237622",
+    "https://www.nature.com/articles/d41586-026-02470-z": "2026-09-07T13:35:49.237622",
+    "https://openai.com/index/research-acceleration-view-inside-openai": "2026-09-07T13:35:49.237622",
+    "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/": "2026-09-07T13:35:49.237622",
+    "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/": "2026-09-07T13:35:49.237622",
+    "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/": "2026-09-07T13:35:49.237622",
+    "https://nautil.us/after-an-8-year-journey-orbiters-are-about-to-give-us-a-fresh-look-at-mercury-1284822/": "2026-09-07T13:35:49.237622"
   },
-  "last_run": "2026-09-06T11:42:54.862055",
+  "last_run": "2026-09-07T13:35:49.237622",
   "special_dates": [
     "2026-07-10",
     "2026-07-17",

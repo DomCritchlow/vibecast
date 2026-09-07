@@ -1,0 +1,68 @@
+{
+  "guid": "2026-09-07",
+  "date": "2026-09-07T13:35:49.237622",
+  "title": "AI's Path to Alpha Centauri & Cancer Cell Secrets",
+  "tagline": "Tech, science, and what's actually interesting",
+  "duration_seconds": 358.3157894736842,
+  "duration_formatted": "5:58",
+  "media": {
+    "audio_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-09-07.mp3",
+    "audio_size_bytes": 7527114,
+    "artwork_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-09-07/episode-art.png",
+    "newspaper_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/episodes/2026-09-07/newspaper.pdf",
+    "transcript_url": "https://pub-180e0ac8417f4800855805b0185bd45d.r2.dev/transcripts/2026-09-07.txt"
+  },
+  "stories": [
+    {
+      "title": "Probing the proteome at cellular scale",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02805-w",
+      "summary": "Nature, Published online: 07 September 2026; doi:10.1038/d41586-026-02805-wRapid technological advances are allowing researchers to identify thousands of proteins in individual cells, revealing the hidden mechanisms underlying development and disease."
+    },
+    {
+      "title": "The secret life of a cell-cycle gatekeeper of breast cancer",
+      "source": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02470-z",
+      "summary": "Nature, Published online: 07 September 2026; doi:10.1038/d41586-026-02470-zA newly discovered function for the protein Rb explains why inhibiting cell division can enhance the signalling mediated by the oestrogen receptor that drives breast cancer."
+    },
+    {
+      "title": "Research acceleration: The view inside OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration."
+    },
+    {
+      "title": "The Download: AI puzzles and a path to our nearest star system",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine learning” was popularized in a 1959 article…"
+    },
+    {
+      "title": "How AI plotted an interstellar journey to Alpha Centauri",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+      "summary": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029. It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is 4.4 light-years away. And the…"
+    },
+    {
+      "title": "Research acceleration: The view inside OpenAI",
+      "source": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
+      "summary": "Research acceleration: The view inside OpenAI Apparently today is RSI day at OpenAI, for Recursive Self-Improvement - I think it's their new AGI. Both this piece and the new essay An Alien Mind (by Chief Scientist Jakub Pachocki) talk about it, and this one doesn't even bother to expand the acronym. Included are details on how OpenAI's own research team are using coding agents. Like pretty much everyone else 2026 has been the year that agentic engineering really took off at OpenAI, best illustrated by this chart: I'm intrigued at what caused that significant acceleration in AI spend per researcher in late July - my best guess is that's when internal employees gained access to the model later released as GPT-6 Astra. Tags: ai, openai, generative-ai, chatgpt, llms, coding-agents, november-2025-inflection, recursive-self-improvement"
+    },
+    {
+      "title": "After an 8-Year Journey, Orbiters Are About to Give Us a Fresh Look at Mercury",
+      "source": "Nautilus",
+      "url": "https://nautil.us/after-an-8-year-journey-orbiters-are-about-to-give-us-a-fresh-look-at-mercury-1284822/",
+      "summary": "But the BepiColombo twin orbiters aren’t the first spacecraft to visit our system’s smallest planet. Here’s what we’ve seen already The post After an 8-Year Journey, Orbiters Are About to Give Us a Fresh Look at Mercury appeared first on Nautilus."
+    }
+  ],
+  "reading_list": [],
+  "metadata": {
+    "created_at": "2026-09-07T13:35:49.237622",
+    "llm_provider": "anthropic",
+    "llm_model": "claude-opus-4-8",
+    "tts_provider": "openai",
+    "tts_voice": "fable",
+    "special_episode": false
+  }
+}
