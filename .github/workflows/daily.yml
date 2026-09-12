@@ -1,10 +1,11 @@
 name: Daily Podcast
 
 on:
-  schedule:
+  # Scheduled generation paused at owner request. Uncomment schedule and cron to resume.
+  # schedule:
     # Run at 07:30 UTC daily = 03:30 EDT (summer) / 02:30 EST (winter) in New York
     # so the episode is ready before an early wake-up. GitHub Actions uses UTC.
-    - cron: "30 7 * * *"
+  #   - cron: "30 7 * * *"
   
   # Allow manual triggering from Actions tab
   workflow_dispatch:
